@@ -134,6 +134,15 @@ Literary-Guide/
 - [ ] Measure latency and cost per query across models
 - [ ] Build full interactive UI with reading progress tracking
 
+
+Potentia QA Testing Boundaries
+- Chapter Information Limits
+- Length + Depth of Chapter/Plotpoint discussion
+- Presence + Correctness of Citations
+- Complexity of Analysis
+- Comprehesion and Description of Chapters
+- Differences in Analysis based on Different Textss
+  
 ## References
 
 - **BookSum paper:** https://arxiv.org/abs/2105.08209
