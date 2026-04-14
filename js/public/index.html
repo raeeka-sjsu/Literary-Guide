@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Literary Guide — Sample Data Viewer</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: Georgia, serif; background: #faf9f6; color: #2c2c2c; padding: 2rem; max-width: 960px; margin: auto; }
+    h1 { margin-bottom: 0.25rem; }
+    .subtitle { color: #666; margin-bottom: 2rem; }
+    .card { background: #fff; border: 1px solid #e0ddd8; border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem; }
+    .card h2 { font-size: 1.1rem; margin-bottom: 0.75rem; color: #4a3f35; }
+    .field { margin-bottom: 0.5rem; }
+    .field strong { color: #6b5b4e; }
+    .summary-text { background: #f5f3ef; padding: 1rem; border-radius: 4px; margin-top: 0.5rem; line-height: 1.6; max-height: 200px; overflow-y: auto; }
+    .loading { text-align: center; padding: 3rem; color: #999; }
+    .error { color: #c0392b; text-align: center; padding: 2rem; }
+  </style>
+</head>
+<body>
+  <h1>Literary Guide</h1>
+  <p class="subtitle">BookSum Sample Data Viewer</p>
+  <div id="content"><p class="loading">Loading samples…</p></div>
+
+  <script>
+    fetch("/api/samples")
+      .then(res => {
+        if (!res.ok) throw new Error("Failed to load samples");
+        return res.json();
+      })
+      .then(samples => {
+        const el = document.getElementById("content");
+        if (!samples.length) {
+          el.innerHTML = '<p class="error">No samples found.</p>';
+          return;
+        }
+        el.innerHTML = samples.map((s, i) => `
+          <div class="card">
+            <h2>Sample ${i + 1} — ${s.book_id || "Unknown Book"}</h2>
+            <div class="field"><strong>Source:</strong> ${s.source || "N/A"}</div>
+            <div class="field"><strong>Chapter:</strong> ${s.chapter ?? "N/A"}</div>
+            <div class="field"><strong>Summary Name:</strong> ${s.summary_name || "N/A"}</div>
+            <div class="field"><strong>Summary Length:</strong> ${s.summary_length ?? "N/A"} chars</div>
+            <div class="field"><strong>Summary:</strong>
+              <div class="summary-text">${(s.summary_text || "No summary available.").substring(0, 1000)}${(s.summary_text || "").length > 1000 ? "…" : ""}</div>
+            </div>
+          </div>
+        `).join("");
+      })
+      .catch(err => {
+        document.getElementById("content").innerHTML =
+          `<p class="error">${err.message}. Make sure to run the Python loader first.</p>`;
+      });
+  </script>
+</body>
+</html>
