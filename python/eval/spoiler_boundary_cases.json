@@ -1,0 +1,40 @@
+[
+  {
+    "id": "wb-1",
+    "question": "What does the wilderness symbolize?",
+    "current_chapter": 3,
+    "must_not_appear_chapters_above": 3,
+    "notes": "Reader at chapter 3 — retrieved chunks must all have chapter <= 3."
+  },
+  {
+    "id": "wb-2",
+    "question": "Who is Hawkeye and what is his role?",
+    "current_chapter": 3,
+    "must_not_appear_chapters_above": 3
+  },
+  {
+    "id": "wb-3",
+    "question": "Describe the political tensions of the war.",
+    "current_chapter": 1,
+    "must_not_appear_chapters_above": 1
+  },
+  {
+    "id": "wb-4",
+    "question": "What themes emerge in the opening chapters?",
+    "current_chapter": 2,
+    "must_not_appear_chapters_above": 2
+  },
+  {
+    "id": "wb-5",
+    "question": "How does the narrator describe the landscape?",
+    "current_chapter": 5,
+    "must_not_appear_chapters_above": 5
+  },
+  {
+    "id": "wb-6",
+    "question": "What happens at the fort?",
+    "current_chapter": 0,
+    "must_not_appear_chapters_above": 0,
+    "notes": "Edge case: chapter 0 means almost nothing should be retrievable."
+  }
+]
