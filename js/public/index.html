@@ -3,55 +3,169 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Literary Guide — Sample Data Viewer</title>
+  <title>Literary Guide</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: Georgia, serif; background: #faf9f6; color: #2c2c2c; padding: 2rem; max-width: 960px; margin: auto; }
+    body { font-family: Georgia, serif; background: #faf9f6; color: #2c2c2c; padding: 2rem; max-width: 980px; margin: auto; line-height: 1.5; }
     h1 { margin-bottom: 0.25rem; }
     .subtitle { color: #666; margin-bottom: 2rem; }
+    nav { display: flex; gap: 1rem; margin-bottom: 1.5rem; border-bottom: 1px solid #e0ddd8; }
+    nav button { background: none; border: none; padding: 0.5rem 1rem; cursor: pointer; font-family: inherit; font-size: 1rem; color: #6b5b4e; border-bottom: 2px solid transparent; }
+    nav button.active { color: #2c2c2c; border-bottom-color: #6b5b4e; }
+    .panel { display: none; }
+    .panel.active { display: block; }
+    .ask-form { background: #fff; border: 1px solid #e0ddd8; border-radius: 8px; padding: 1.25rem; margin-bottom: 1.5rem; }
+    .ask-form label { display: block; font-weight: bold; color: #4a3f35; margin-bottom: 0.4rem; font-size: 0.9rem; }
+    .ask-form input, .ask-form textarea, .ask-form select { width: 100%; padding: 0.5rem; border: 1px solid #d4d0c8; border-radius: 4px; font-family: inherit; font-size: 1rem; margin-bottom: 0.8rem; }
+    .ask-form textarea { resize: vertical; min-height: 60px; }
+    .ask-form .row { display: flex; gap: 1rem; }
+    .ask-form .row > div { flex: 1; }
+    .ask-form button { background: #6b5b4e; color: white; border: none; padding: 0.6rem 1.5rem; border-radius: 4px; cursor: pointer; font-family: inherit; font-size: 1rem; }
+    .ask-form button:hover { background: #4a3f35; }
+    .ask-form button:disabled { opacity: 0.5; cursor: not-allowed; }
     .card { background: #fff; border: 1px solid #e0ddd8; border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem; }
     .card h2 { font-size: 1.1rem; margin-bottom: 0.75rem; color: #4a3f35; }
-    .field { margin-bottom: 0.5rem; }
+    .field { margin-bottom: 0.5rem; font-size: 0.95rem; }
     .field strong { color: #6b5b4e; }
     .summary-text { background: #f5f3ef; padding: 1rem; border-radius: 4px; margin-top: 0.5rem; line-height: 1.6; max-height: 200px; overflow-y: auto; }
-    .loading { text-align: center; padding: 3rem; color: #999; }
-    .error { color: #c0392b; text-align: center; padding: 2rem; }
+    .answer-box { background: #fdfaf3; border-left: 4px solid #6b5b4e; padding: 1rem 1.25rem; margin-bottom: 1.5rem; white-space: pre-wrap; }
+    .citation { background: #f5f3ef; padding: 0.75rem 1rem; border-radius: 4px; margin-bottom: 0.75rem; font-size: 0.92rem; }
+    .citation .meta { color: #999; font-size: 0.8rem; margin-bottom: 0.4rem; }
+    .loading { text-align: center; padding: 2rem; color: #999; }
+    .error { color: #c0392b; padding: 1rem; background: #fdf2f0; border-radius: 4px; }
+    .badge { display: inline-block; background: #e9e4d8; color: #6b5b4e; padding: 0.15rem 0.5rem; border-radius: 3px; font-size: 0.78rem; margin-right: 0.4rem; }
   </style>
 </head>
 <body>
   <h1>Literary Guide</h1>
-  <p class="subtitle">BookSum Sample Data Viewer</p>
-  <div id="content"><p class="loading">Loading samples…</p></div>
+  <p class="subtitle">Spoiler-aware chapter discussion · CMPE 258 Project</p>
+
+  <nav>
+    <button id="tab-ask" class="active" onclick="showTab('ask')">Ask</button>
+    <button id="tab-samples" onclick="showTab('samples')">Sample Data</button>
+  </nav>
+
+  <div id="panel-ask" class="panel active">
+    <form class="ask-form" onsubmit="submitAsk(event)">
+      <label for="question">Question</label>
+      <textarea id="question" required placeholder="e.g. What does the wilderness symbolize so far?"></textarea>
+
+      <div class="row">
+        <div>
+          <label for="chapter">Current chapter (spoiler boundary)</label>
+          <input type="number" id="chapter" min="1" value="3" required />
+        </div>
+        <div>
+          <label for="provider">LLM provider</label>
+          <select id="provider">
+            <option value="dry-run">dry-run (retrieval only, no LLM)</option>
+            <option value="anthropic">Anthropic Claude</option>
+            <option value="openai">OpenAI</option>
+          </select>
+        </div>
+      </div>
+
+      <button type="submit" id="ask-btn">Ask</button>
+    </form>
+
+    <div id="ask-result"></div>
+  </div>
+
+  <div id="panel-samples" class="panel">
+    <div id="samples-content"><p class="loading">Loading samples…</p></div>
+  </div>
 
   <script>
-    fetch("/api/samples")
-      .then(res => {
+    function showTab(name) {
+      document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
+      document.querySelectorAll("nav button").forEach(b => b.classList.remove("active"));
+      document.getElementById("panel-" + name).classList.add("active");
+      document.getElementById("tab-" + name).classList.add("active");
+      if (name === "samples") loadSamples();
+    }
+
+    async function submitAsk(e) {
+      e.preventDefault();
+      const btn = document.getElementById("ask-btn");
+      const result = document.getElementById("ask-result");
+      const question = document.getElementById("question").value.trim();
+      const chapter = parseInt(document.getElementById("chapter").value, 10);
+      const provider = document.getElementById("provider").value;
+
+      btn.disabled = true; btn.textContent = "Thinking…";
+      result.innerHTML = '<p class="loading">Retrieving spoiler-safe passages…</p>';
+
+      try {
+        const res = await fetch("/api/ask", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ question, chapter, provider, top_k: 4 })
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.error || "Request failed");
+        renderAnswer(data);
+      } catch (err) {
+        result.innerHTML = `<div class="error">${err.message}</div>`;
+      } finally {
+        btn.disabled = false; btn.textContent = "Ask";
+      }
+    }
+
+    function renderAnswer(data) {
+      const result = document.getElementById("ask-result");
+      const chunksHtml = data.chunks.map((c, i) => `
+        <div class="citation">
+          <div class="meta">
+            <span class="badge">[${i + 1}]</span>
+            <span class="badge">chapter ${c.metadata.chapter}</span>
+            <span class="badge">score ${c.score.toFixed(3)}</span>
+            <span class="badge">id ${c.metadata.summary_id || c.id}</span>
+          </div>
+          ${escapeHtml(c.document.substring(0, 600))}${c.document.length > 600 ? "…" : ""}
+        </div>
+      `).join("");
+
+      const answerHtml = data.answer
+        ? `<div class="answer-box">${escapeHtml(data.answer)}</div>`
+        : `<div class="answer-box"><em>(dry-run — retrieval only, no LLM call. Switch provider to Anthropic or OpenAI for a generated answer.)</em></div>`;
+
+      result.innerHTML = `
+        <h2 style="margin-bottom:0.75rem;">Answer (${data.provider}${data.model ? " · " + data.model : ""})</h2>
+        ${answerHtml}
+        <h2 style="margin-bottom:0.75rem;">Cited passages (chapter ≤ ${data.current_chapter})</h2>
+        ${chunksHtml || '<p>No passages within the spoiler boundary.</p>'}
+      `;
+    }
+
+    function escapeHtml(s) {
+      return String(s)
+        .replace(/&/g, "&amp;").replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+    }
+
+    async function loadSamples() {
+      const el = document.getElementById("samples-content");
+      if (el.dataset.loaded) return;
+      try {
+        const res = await fetch("/api/samples");
         if (!res.ok) throw new Error("Failed to load samples");
-        return res.json();
-      })
-      .then(samples => {
-        const el = document.getElementById("content");
-        if (!samples.length) {
-          el.innerHTML = '<p class="error">No samples found.</p>';
-          return;
-        }
-        el.innerHTML = samples.map((s, i) => `
+        const samples = await res.json();
+        el.innerHTML = samples.slice(0, 10).map((s, i) => `
           <div class="card">
             <h2>Sample ${i + 1} — ${s.book_id || "Unknown Book"}</h2>
             <div class="field"><strong>Source:</strong> ${s.source || "N/A"}</div>
             <div class="field"><strong>Chapter:</strong> ${s.chapter ?? "N/A"}</div>
             <div class="field"><strong>Summary Name:</strong> ${s.summary_name || "N/A"}</div>
-            <div class="field"><strong>Summary Length:</strong> ${s.summary_length ?? "N/A"} chars</div>
             <div class="field"><strong>Summary:</strong>
-              <div class="summary-text">${(s.summary_text || "No summary available.").substring(0, 1000)}${(s.summary_text || "").length > 1000 ? "…" : ""}</div>
+              <div class="summary-text">${escapeHtml((s.summary_text || "No summary.").substring(0, 1000))}${(s.summary_text || "").length > 1000 ? "…" : ""}</div>
             </div>
           </div>
-        `).join("");
-      })
-      .catch(err => {
-        document.getElementById("content").innerHTML =
-          `<p class="error">${err.message}. Make sure to run the Python loader first.</p>`;
-      });
+        `).join("") + `<p style="color:#999">Showing first 10 of ${samples.length} samples.</p>`;
+        el.dataset.loaded = "1";
+      } catch (err) {
+        el.innerHTML = `<div class="error">${err.message}</div>`;
+      }
+    }
   </script>
 </body>
 </html>
