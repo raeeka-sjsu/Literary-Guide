@@ -2,12 +2,13 @@
 Load the BookSum dataset from Hugging Face and save sample rows.
 
 Usage:
-    python scripts/load_booksum_sample.py
+    python scripts/load_booksum_sample.py [--n 50]
 
 Output:
-    outputs/booksum_samples.json  — 3 sample rows from the train split
+    outputs/booksum_samples.json  — N sample rows from the train split
 """
 
+import argparse
 import json
 import os
 from pathlib import Path
@@ -16,6 +17,11 @@ from datasets import load_dataset
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--n", type=int, default=50,
+                        help="Number of sample rows to save (default: 50)")
+    args = parser.parse_args()
+
     print("Loading BookSum dataset (kmfoda/booksum) ...")
     ds = load_dataset("kmfoda/booksum", split="train", streaming=True)
 
@@ -26,9 +32,9 @@ def main():
     for col in sorted(first.keys()):
         print(f"  - {col}")
 
-    # Collect 3 sample rows
+    # Collect N sample rows
     samples = [first]
-    for _, row in zip(range(2), sample_iter):
+    for _, row in zip(range(args.n - 1), sample_iter):
         samples.append(row)
 
     print(f"\nCollected {len(samples)} sample rows.")
