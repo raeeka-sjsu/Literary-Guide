@@ -130,7 +130,8 @@ def query_up_to_chapter(query: str, chapter_limit: int, top_k: int = 3) -> List[
         col = _chroma_client.get_collection(COLLECTION_NAME)
 
     # Retrieve all data from the collection
-    data = col.get(include=["embeddings", "documents", "metadatas", "ids"])
+    # Note: "ids" are always returned by Chroma; do not pass in include.
+    data = col.get(include=["embeddings", "documents", "metadatas"])
     ids = data["ids"]
     docs = data["documents"]
     metadatas = data["metadatas"]
