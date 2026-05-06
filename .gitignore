@@ -19,3 +19,6 @@ Thumbs.db
 
 # Outputs (keep committed samples, ignore large runs)
 python/outputs/*.tmp
+
+# User state (SQLite memory store)
+python/data/*.sqlite
