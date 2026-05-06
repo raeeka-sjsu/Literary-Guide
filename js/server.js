@@ -9,6 +9,41 @@ const AGENT_URL = process.env.AGENT_URL || "http://localhost:5050";
 app.use(express.json());
 app.use(express.static(path.join(__dirname, "public")));
 
+const BOOKS_DIR = path.join(__dirname, "..", "python", "data", "books");
+const CATALOG_PATH = path.join(__dirname, "..", "python", "data", "catalog.json");
+
+// Library catalog — augmented with chapter counts from the fetched book files
+app.get("/api/books", (_req, res) => {
+  try {
+    const catalog = JSON.parse(fs.readFileSync(CATALOG_PATH, "utf-8"));
+    const enriched = catalog.map((entry) => {
+      const bookPath = path.join(BOOKS_DIR, `${entry.id}.json`);
+      let chapterCount = 0;
+      let available = false;
+      if (fs.existsSync(bookPath)) {
+        try {
+          const book = JSON.parse(fs.readFileSync(bookPath, "utf-8"));
+          chapterCount = book.chapters?.length || 0;
+          available = true;
+        } catch (_) {}
+      }
+      return { ...entry, chapter_count: chapterCount, available };
+    });
+    res.json(enriched);
+  } catch (err) {
+    res.status(500).json({ error: String(err) });
+  }
+});
+
+// Single book — full chapters
+app.get("/api/books/:id", (req, res) => {
+  const bookPath = path.join(BOOKS_DIR, `${req.params.id}.json`);
+  if (!fs.existsSync(bookPath)) {
+    return res.status(404).json({ error: "Book not found" });
+  }
+  res.json(JSON.parse(fs.readFileSync(bookPath, "utf-8")));
+});
+
 // Serve BookSum sample data as JSON API
 app.get("/api/samples", (_req, res) => {
   const samplesPath = path.join(
@@ -29,10 +64,10 @@ app.get("/api/samples", (_req, res) => {
   res.json(data);
 });
 
-// Proxy chapter-aware Q&A to the Python Flask agent
-app.post("/api/ask", async (req, res) => {
+// Proxy helper
+async function proxyTo(path, req, res) {
   try {
-    const upstream = await fetch(`${AGENT_URL}/ask`, {
+    const upstream = await fetch(`${AGENT_URL}${path}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(req.body || {}),
@@ -45,7 +80,13 @@ app.post("/api/ask", async (req, res) => {
       detail: String(err),
     });
   }
-});
+}
+
+// Build per-book index on demand
+app.post("/api/index_book", (req, res) => proxyTo("/index_book", req, res));
+
+// Chapter-aware Q&A
+app.post("/api/ask", (req, res) => proxyTo("/ask", req, res));
 
 app.listen(PORT, () => {
   console.log(`Literary Guide viewer running at http://localhost:${PORT}`);

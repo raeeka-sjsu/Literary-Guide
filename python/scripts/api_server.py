@@ -22,6 +22,7 @@ from flask import Flask, jsonify, request
 from flask_cors import CORS
 
 from literary_guide_agent import answer
+from book_index import ensure_book_index, is_indexed
 
 app = Flask(__name__)
 CORS(app)
@@ -32,6 +33,23 @@ def health():
     return {"ok": True}
 
 
+@app.post("/index_book")
+def index_book():
+    """Build (or load) the per-book index. Returns chunk count."""
+    payload = request.get_json(force=True) or {}
+    book_id = (payload.get("book_id") or "").strip()
+    if not book_id:
+        return jsonify({"error": "book_id is required"}), 400
+    try:
+        already = is_indexed(book_id)
+        n = ensure_book_index(book_id)
+        return jsonify({"book_id": book_id, "chunks": n, "cached": already})
+    except FileNotFoundError as e:
+        return jsonify({"error": str(e)}), 404
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
 @app.post("/ask")
 def ask():
     payload = request.get_json(force=True) or {}
@@ -39,6 +57,7 @@ def ask():
     chapter = payload.get("chapter")
     provider = payload.get("provider", "dry-run")
     top_k = int(payload.get("top_k", 4))
+    book_id = (payload.get("book_id") or "").strip() or None
 
     if not question:
         return jsonify({"error": "question is required"}), 400
@@ -47,7 +66,7 @@ def ask():
     except (TypeError, ValueError):
         return jsonify({"error": "chapter must be an integer"}), 400
 
-    res = answer(question, chapter, provider=provider, top_k=top_k)
+    res = answer(question, chapter, provider=provider, top_k=top_k, book_id=book_id)
 
     # Strip embeddings/heavy fields for JSON response
     return jsonify({

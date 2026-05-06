@@ -35,6 +35,7 @@ from typing import List, Dict, Any
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from rag_pipeline import build_collection, query_up_to_chapter  # noqa: E402
+from book_index import ensure_book_index, query_book  # noqa: E402
 
 
 SYSTEM_PROMPT = """You are Literary Guide, a spoiler-aware reading companion.
@@ -50,6 +51,12 @@ Rules:
 3. Cite every claim inline using the bracketed number(s) of the passage(s) supporting it, e.g. "The narrator emphasizes the danger of the wilderness [1][2]."
 4. If the passages do not contain enough information, say so plainly. Do not speculate.
 5. Keep the tone thoughtful and analytical — discuss themes, symbolism, and motivations, not plot summary.
+
+Answer style:
+- Lead with the most direct, useful answer. Don't open with caveats or chapter-bookkeeping.
+- For "who are the main characters" or similar overview questions, name them up front (drawing on any passages — they are all spoiler-safe by construction), then optionally note which appear in the current chapter.
+- Be concise. 3–6 sentences is usually plenty unless the question genuinely needs more.
+- Don't restate the question or list all passage numbers in a closing summary.
 """
 
 
@@ -101,27 +108,58 @@ def call_openai(system: str, user: str, model: str = "gpt-4o-mini") -> str:
     return resp.choices[0].message.content or ""
 
 
+def call_ollama(system: str, user: str, model: str = "llama3.2:3b") -> str:
+    """Call a local Ollama model via its HTTP API. No API key required."""
+    import json as _json
+    import urllib.request
+
+    host = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+    payload = {
+        "model": model,
+        "stream": False,
+        "messages": [
+            {"role": "system", "content": system},
+            {"role": "user", "content": user},
+        ],
+        "options": {"temperature": 0.3},
+    }
+    req = urllib.request.Request(
+        f"{host}/api/chat",
+        data=_json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
+    )
+    with urllib.request.urlopen(req, timeout=180) as r:
+        body = _json.loads(r.read().decode("utf-8"))
+    return body.get("message", {}).get("content", "")
+
+
 def answer(
     question: str,
     current_chapter: int,
     provider: str = "dry-run",
     top_k: int = 4,
     model: str | None = None,
+    book_id: str | None = None,
 ) -> Dict[str, Any]:
     """Retrieve, then answer.
 
     Returns a dict: {answer, chunks, system_prompt, user_prompt, provider, model}.
     With provider="dry-run", `answer` is None — only the prompt + retrieved chunks
     are returned. Useful for offline development and testing the retrieval layer.
+
+    If `book_id` is given, retrieves from that book's per-book index (preferred).
+    Otherwise falls back to the legacy BookSum sample collection.
     """
-    # Build the Chroma collection from samples before querying. build_collection()
-    # is idempotent (it deletes + recreates the collection each call) so we just
-    # do it once per process via a module flag.
-    global _COLLECTION_READY  # type: ignore
-    if not globals().get("_COLLECTION_READY"):
-        build_collection()
-        _COLLECTION_READY = True
-    chunks = query_up_to_chapter(question, chapter_limit=current_chapter, top_k=top_k)
+    if book_id:
+        ensure_book_index(book_id)
+        chunks = query_book(book_id, question, chapter_limit=current_chapter, top_k=top_k)
+    else:
+        # Fallback: legacy BookSum sample retrieval
+        global _COLLECTION_READY  # type: ignore
+        if not globals().get("_COLLECTION_READY"):
+            build_collection()
+            _COLLECTION_READY = True
+        chunks = query_up_to_chapter(question, chapter_limit=current_chapter, top_k=top_k)
 
     user_prompt = build_user_prompt(question, current_chapter, chunks)
 
@@ -145,6 +183,9 @@ def answer(
     elif provider == "openai":
         out["model"] = model or "gpt-4o-mini"
         out["answer"] = call_openai(SYSTEM_PROMPT, user_prompt, out["model"])
+    elif provider == "ollama":
+        out["model"] = model or "llama3.2:3b"
+        out["answer"] = call_ollama(SYSTEM_PROMPT, user_prompt, out["model"])
     else:
         raise ValueError(f"Unknown provider: {provider!r}")
 
@@ -157,7 +198,7 @@ def main():
     ap.add_argument("--chapter", type=int, required=True,
                     help="Reader's current chapter (spoiler boundary)")
     ap.add_argument("--provider", default="dry-run",
-                    choices=["dry-run", "anthropic", "openai"])
+                    choices=["dry-run", "anthropic", "openai", "ollama"])
     ap.add_argument("--model", default=None)
     ap.add_argument("--top-k", type=int, default=4)
     args = ap.parse_args()
