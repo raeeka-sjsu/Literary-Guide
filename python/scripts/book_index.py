@@ -34,11 +34,13 @@ import chromadb
 
 ROOT = Path(__file__).resolve().parent.parent
 BOOKS_DIR = ROOT / "data" / "books"
+BOOKSUM_DIR = ROOT / "data" / "booksum"
 
 MODEL_NAME = "all-MiniLM-L6-v2"
 _model: SentenceTransformer | None = None
 _chroma = chromadb.Client()
 _indexed: set[str] = set()
+_indexed_booksum: set[str] = set()
 
 # Per-book BM25 indexes + tokenized corpus, keyed by book_id
 _bm25: Dict[str, BM25Okapi] = {}
@@ -270,6 +272,162 @@ def query_book(
             "bm25_score": bm25_scores.get(i),
         })
     return out
+
+
+# ---------------------------------------------------------------------------
+# BookSum secondary index — "expert literary analysis" knowledge source.
+#
+# BookSum entries are professionally written summaries + analyses (CliffsNotes,
+# SparkNotes, Shmoop, etc.) of book chapters. We embed each entry's summary +
+# analysis text into a separate Chroma collection per book, named
+# "booksum_<book_id>". The agent's executor can call retrieve_expert_analysis
+# to get scholarly grounding alongside the original-text retrieval.
+# ---------------------------------------------------------------------------
+
+_ROMAN_VALS = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
+
+
+def _parse_roman(s: str) -> Optional[int]:
+    s = s.upper()
+    if not all(c in _ROMAN_VALS for c in s):
+        return None
+    total, prev = 0, 0
+    for c in reversed(s):
+        v = _ROMAN_VALS[c]
+        total += -v if v < prev else v
+        prev = v
+    return total
+
+
+def _booksum_chapter_number(entry: Dict[str, Any]) -> int:
+    """Best-effort extraction of an integer chapter number from a BookSum row.
+    Returns the FIRST chapter number when the entry covers a range
+    (e.g. 'chapters 13-14' -> 13), so spoiler-boundary checks stay strict."""
+    for field in ("chapter", "summary_id", "book_id"):
+        s = entry.get(field) or ""
+        m = re.search(r"(\d+)", str(s))
+        if m:
+            return int(m.group(1))
+        m2 = re.search(r"\b([IVXLCDM]+)\b", str(s).upper())
+        if m2:
+            n = _parse_roman(m2.group(1))
+            if n:
+                return n
+    return 0
+
+
+def _booksum_collection_name(book_id: str) -> str:
+    safe = re.sub(r"[^a-zA-Z0-9_-]", "_", book_id)
+    return f"booksum_{safe}"
+
+
+def is_booksum_indexed(book_id: str) -> bool:
+    if book_id in _indexed_booksum:
+        return True
+    try:
+        col = _chroma.get_collection(_booksum_collection_name(book_id))
+        if col.count() > 0:
+            _indexed_booksum.add(book_id)
+            return True
+    except Exception:
+        pass
+    return False
+
+
+def ensure_booksum_index(book_id: str) -> int:
+    """Build/load the BookSum collection for a book. Returns chunk count.
+    Returns 0 (and is a no-op) if no BookSum file exists for this book."""
+    if is_booksum_indexed(book_id):
+        return _chroma.get_collection(_booksum_collection_name(book_id)).count()
+
+    src = BOOKSUM_DIR / f"{book_id}.json"
+    if not src.exists():
+        return 0
+    with open(src) as f:
+        rows = json.load(f)
+
+    docs: List[str] = []
+    metadatas: List[Dict[str, Any]] = []
+    ids: List[str] = []
+    for i, r in enumerate(rows):
+        analysis = (r.get("summary_analysis") or "").strip()
+        summary = (r.get("summary_text") or "").strip()
+        # Combine analysis + summary; analysis is the more critical/scholarly content
+        text = ""
+        if analysis:
+            text += analysis
+        if summary:
+            text += ("\n\n" if text else "") + summary
+        if not text or len(text) < 100:
+            continue
+        docs.append(text[:6000])  # cap each entry
+        metadatas.append({
+            "book_id": book_id,
+            "chapter": _booksum_chapter_number(r),
+            "source": r.get("source") or "booksum",
+            "summary_id": r.get("summary_id") or f"bs-{i}",
+            "summary_url": r.get("summary_url") or "",
+        })
+        ids.append(f"bs:{book_id}:{i}")
+
+    if not docs:
+        return 0
+
+    embeddings = _get_model().encode(docs, show_progress_bar=False, batch_size=32)
+    name = _booksum_collection_name(book_id)
+    try:
+        _chroma.delete_collection(name=name)
+    except Exception:
+        pass
+    col = _chroma.create_collection(name=name)
+    col.add(ids=ids, documents=docs, metadatas=metadatas, embeddings=embeddings.tolist())
+    _indexed_booksum.add(book_id)
+    return len(docs)
+
+
+def query_booksum(
+    book_id: str,
+    query: str,
+    chapter_limit: int,
+    top_k: int = 3,
+) -> List[Dict[str, Any]]:
+    """Retrieve top_k expert-analysis chunks from BookSum for `book_id`,
+    filtered by chapter <= chapter_limit. Dense-only (the corpus is small)."""
+    n = ensure_booksum_index(book_id)
+    if n == 0:
+        return []
+    col = _chroma.get_collection(_booksum_collection_name(book_id))
+    data = col.get(include=["embeddings", "documents", "metadatas"])
+    ids = data["ids"]
+    docs = data["documents"]
+    metas = data["metadatas"]
+    embs = np.array(data["embeddings"])
+    valid = [
+        i for i, m in enumerate(metas)
+        if int(m.get("chapter") or 0) <= chapter_limit
+    ]
+    if not valid:
+        return []
+    q = _get_model().encode([query])[0]
+    scored = sorted(
+        ((i, _cosine(embs[i], q)) for i in valid),
+        key=lambda x: x[1],
+        reverse=True,
+    )
+    out = []
+    for i, score in scored[:top_k]:
+        out.append({
+            "id": ids[i],
+            "document": docs[i],
+            "metadata": metas[i],
+            "score": float(score),
+            "source_kind": "expert_analysis",
+        })
+    return out
+
+
+# Re-export Optional for the helpers above
+from typing import Optional  # noqa: E402
 
 
 if __name__ == "__main__":

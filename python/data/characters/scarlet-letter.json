@@ -1,0 +1,1548 @@
+[
+  {
+    "canonical_name": "Pearl",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 245,
+    "per_chapter": {
+      "8": {
+        "mentions": 46,
+        "snippet": "Her Pearl!"
+      },
+      "9": {
+        "mentions": 19,
+        "snippet": "On the supposition that Pearl, as already hinted, was of demon"
+      },
+      "10": {
+        "mentions": 21,
+        "snippet": "close to little Pearl."
+      },
+      "12": {
+        "mentions": 5,
+        "snippet": "summer-time,\u2014the minister beheld Hester Prynne and little Pearl"
+      },
+      "14": {
+        "mentions": 18,
+        "snippet": "little Pearl."
+      },
+      "15": {
+        "mentions": 6,
+        "snippet": "Pearl was now seven years old."
+      },
+      "16": {
+        "mentions": 5,
+        "snippet": "Hester bade little Pearl run down to the margin of the water, and play"
+      },
+      "17": {
+        "mentions": 21,
+        "snippet": "\u201cPearl!"
+      },
+      "18": {
+        "mentions": 20,
+        "snippet": "little Pearl,\u2014who was necessarily the companion of all her mother\u2019s"
+      },
+      "20": {
+        "mentions": 13,
+        "snippet": "\u201cThou must know Pearl!"
+      },
+      "21": {
+        "mentions": 35,
+        "snippet": "minister sat watching little Pearl."
+      },
+      "23": {
+        "mentions": 7,
+        "snippet": "little Pearl came into the market-place."
+      },
+      "24": {
+        "mentions": 13,
+        "snippet": "Little Pearl at first clapped her hands, but then lost, for an"
+      },
+      "25": {
+        "mentions": 9,
+        "snippet": "Hester, holding little Pearl by the hand!"
+      },
+      "26": {
+        "mentions": 7,
+        "snippet": "both here and in England, to little Pearl, the daughter of Hester"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 15,
+      "New England": 9,
+      "Reverend Mr": 9,
+      "Roger Chillingworth": 9,
+      "Dimmesdale": 8,
+      "Mr. Dimmesdale": 8,
+      "Governor Bellingham": 4,
+      "Arthur Dimmesdale": 4
+    }
+  },
+  {
+    "canonical_name": "Hester Prynne",
+    "aliases": [
+      "Prynne"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 125,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "On Hester Prynne\u2019s story, therefore, I bestowed much thought."
+      },
+      "4": {
+        "mentions": 9,
+        "snippet": "handling of such malefactresses as this Hester Prynne."
+      },
+      "5": {
+        "mentions": 14,
+        "snippet": "attracted any notice from Hester Prynne, at such a time; much less"
+      },
+      "6": {
+        "mentions": 9,
+        "snippet": "After her return to the prison, Hester Prynne was found to be in a"
+      },
+      "7": {
+        "mentions": 8,
+        "snippet": "and wanderer, into Hester Prynne\u2019s wild and dreary, but life-long"
+      },
+      "8": {
+        "mentions": 5,
+        "snippet": "Yet these thoughts affected Hester Prynne"
+      },
+      "9": {
+        "mentions": 6,
+        "snippet": "better guardianship than Hester Prynne\u2019s."
+      },
+      "10": {
+        "mentions": 11,
+        "snippet": "as that of Hester Prynne, still the genial benevolence of his private"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "crowd that witnessed Hester Prynne\u2019s ignominious exposure, stood a"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "summer-time,\u2014the minister beheld Hester Prynne and little Pearl"
+      },
+      "14": {
+        "mentions": 6,
+        "snippet": "reached the spot where, now so long since, Hester Prynne had lived"
+      },
+      "15": {
+        "mentions": 10,
+        "snippet": "Dimmesdale, Hester Prynne was"
+      },
+      "16": {
+        "mentions": 6,
+        "snippet": "The scarlet letter burned on Hester Prynne\u2019s bosom."
+      },
+      "17": {
+        "mentions": 3,
+        "snippet": "\u201cBe it sin or no,\u201d said Hester Prynne, bitterly, as she still gazed"
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "cried Hester Prynne."
+      },
+      "19": {
+        "mentions": 4,
+        "snippet": "After a while, the minister fixed his eyes on Hester Prynne\u2019s."
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "Thus, we seem to see that, as regarded Hester Prynne, the whole seven"
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "\u201cThou wilt love her dearly,\u201d repeated Hester Prynne, as she and the"
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "As the minister departed, in advance of Hester Prynne and little"
+      },
+      "23": {
+        "mentions": 4,
+        "snippet": "receive his office at the hands of the people, Hester Prynne and"
+      },
+      "24": {
+        "mentions": 8,
+        "snippet": "conjunction with Hester Prynne,\u2014kindly as so many now felt towards"
+      },
+      "25": {
+        "mentions": 3,
+        "snippet": "Meanwhile Hester Prynne was standing"
+      },
+      "26": {
+        "mentions": 7,
+        "snippet": "Hester Prynne\u2014imprinted in the flesh."
+      }
+    },
+    "co_occurs_with": {
+      "Pearl": 15,
+      "New England": 13,
+      "Roger Chillingworth": 13,
+      "Reverend Mr": 12,
+      "Dimmesdale": 11,
+      "Mr. Dimmesdale": 11,
+      "Mistress Hibbins": 6,
+      "Arthur Dimmesdale": 6
+    }
+  },
+  {
+    "canonical_name": "Dimmesdale",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 74,
+    "per_chapter": {
+      "5": {
+        "mentions": 5,
+        "snippet": "promise you, in godly Master Dimmesdale\u2019s church."
+      },
+      "10": {
+        "mentions": 5,
+        "snippet": "Dimmesdale, at"
+      },
+      "11": {
+        "mentions": 13,
+        "snippet": "Dimmesdale had evidently begun to fail."
+      },
+      "12": {
+        "mentions": 10,
+        "snippet": "Dimmesdale, whose sensibility of nerve"
+      },
+      "13": {
+        "mentions": 9,
+        "snippet": "Dimmesdale, not merely the external presence, but the very inmost"
+      },
+      "14": {
+        "mentions": 15,
+        "snippet": "Dimmesdale"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "Dimmesdale, Hester Prynne was"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Dimmesdale, at whatever risk of present pain or ulterior consequences,"
+      },
+      "22": {
+        "mentions": 6,
+        "snippet": "Dimmesdale\u2019s feelings, as he returned from his"
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "Dimmesdale first set his foot on the New England shore, had he"
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "Dimmesdale was left by the"
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "Dimmesdale\u2019s story as"
+      }
+    },
+    "co_occurs_with": {
+      "Mr. Dimmesdale": 12,
+      "Reverend Mr": 12,
+      "Hester Prynne": 11,
+      "Roger Chillingworth": 9,
+      "Pearl": 8,
+      "New England": 7,
+      "Governor Bellingham": 4,
+      "Master Dimmesdale": 4
+    }
+  },
+  {
+    "canonical_name": "Reverend Mr",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 68,
+    "per_chapter": {
+      "5": {
+        "mentions": 8,
+        "snippet": "the Reverend Mr."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "descendants of those planted by the Reverend Mr."
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "added the Reverend Mr."
+      },
+      "11": {
+        "mentions": 6,
+        "snippet": "chosen for his spiritual guide the Reverend Mr."
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "she threw one of the prickly burrs at the Reverend Mr."
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "his deadliest enemy, the Reverend Mr."
+      },
+      "14": {
+        "mentions": 7,
+        "snippet": "The Reverend Mr."
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "Now, however, her interview with the Reverend Mr."
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "At last, while attending in a sick-chamber, whither the Reverend Mr."
+      },
+      "22": {
+        "mentions": 13,
+        "snippet": "Now, why the Reverend Mr."
+      },
+      "24": {
+        "mentions": 8,
+        "snippet": "observed, the Reverend Mr."
+      },
+      "25": {
+        "mentions": 4,
+        "snippet": "Thus, there had come to the Reverend Mr."
+      },
+      "26": {
+        "mentions": 6,
+        "snippet": "Some affirmed that the Reverend Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Dimmesdale": 12,
+      "Hester Prynne": 12,
+      "Mr. Dimmesdale": 12,
+      "Pearl": 9,
+      "Roger Chillingworth": 9,
+      "New England": 8,
+      "Governor Bellingham": 5,
+      "Master Dimmesdale": 4
+    }
+  },
+  {
+    "canonical_name": "Mr. Dimmesdale",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 67,
+    "per_chapter": {
+      "5": {
+        "mentions": 2,
+        "snippet": "directed its hitherto vacant gaze towards Mr."
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "sudden impulse, she turned to the young clergyman, Mr."
+      },
+      "11": {
+        "mentions": 13,
+        "snippet": "About this period, however, the health of Mr."
+      },
+      "12": {
+        "mentions": 9,
+        "snippet": "In other words, Mr."
+      },
+      "13": {
+        "mentions": 9,
+        "snippet": "Mr."
+      },
+      "14": {
+        "mentions": 14,
+        "snippet": "under the influence of a species of somnambulism, Mr."
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "In her late singular interview with Mr."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Hester Prynne remained constant in her resolve to make known to Mr."
+      },
+      "22": {
+        "mentions": 6,
+        "snippet": "The excitement of Mr."
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "Mr."
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "Wilson,\u2014observing the state in which Mr."
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "must be allowed to consider this version of Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Dimmesdale": 12,
+      "Reverend Mr": 12,
+      "Hester Prynne": 11,
+      "Roger Chillingworth": 9,
+      "Pearl": 8,
+      "New England": 7,
+      "Governor Bellingham": 4,
+      "Master Dimmesdale": 4
+    }
+  },
+  {
+    "canonical_name": "Roger Chillingworth",
+    "aliases": [
+      "Chillingworth",
+      "Roger"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 57,
+    "per_chapter": {
+      "6": {
+        "mentions": 2,
+        "snippet": "His name was announced as Roger Chillingworth."
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "Old Roger Chillingworth, with a smile on his face, whispered something"
+      },
+      "11": {
+        "mentions": 9,
+        "snippet": "Under the appellation of Roger Chillingworth, the reader will"
+      },
+      "12": {
+        "mentions": 11,
+        "snippet": "Old Roger Chillingworth, throughout life, had been calm in"
+      },
+      "13": {
+        "mentions": 6,
+        "snippet": "The intellect of Roger"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "was pointing her finger towards old Roger Chillingworth, who stood at"
+      },
+      "16": {
+        "mentions": 7,
+        "snippet": "In a word, old Roger Chillingworth was a striking evidence of man\u2019s"
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "fortune, as it was Roger Chillingworth\u2019s, when some mightier touch"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "undisguised interference of old Roger Chillingworth, and partly that"
+      },
+      "19": {
+        "mentions": 4,
+        "snippet": "that the continual presence of Roger Chillingworth,\u2014the secret poison"
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "All this time, Roger Chillingworth was looking at the minister with"
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "animadversion, when so reputable a citizen as old Roger Chillingworth,"
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "instant, old Roger Chillingworth thrust himself through the"
+      },
+      "26": {
+        "mentions": 4,
+        "snippet": "time subsequent, when old Roger Chillingworth, being a potent"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 13,
+      "Dimmesdale": 9,
+      "Mr. Dimmesdale": 9,
+      "Pearl": 9,
+      "Reverend Mr": 9,
+      "New England": 7,
+      "Arthur Dimmesdale": 4,
+      "Black Man": 4
+    }
+  },
+  {
+    "canonical_name": "Thou",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 35,
+    "per_chapter": {
+      "6": {
+        "mentions": 6,
+        "snippet": "\u201cThou knowest,\u201d said Hester,\u2014for, depressed as she was, she could not"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "Father in Heaven,\u2014if Thou art still my Father,\u2014what is this being"
+      },
+      "19": {
+        "mentions": 9,
+        "snippet": "Thou little knowest what a relief it is, after the"
+      },
+      "20": {
+        "mentions": 5,
+        "snippet": "Thou to whom I dare not lift mine eyes, wilt Thou yet pardon me!"
+      },
+      "21": {
+        "mentions": 6,
+        "snippet": "\u201cThou wilt love her dearly,\u201d repeated Hester Prynne, as she and the"
+      },
+      "25": {
+        "mentions": 5,
+        "snippet": "\u201cThou hast escaped me!"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 6,
+      "Pearl": 4,
+      "Roger Chillingworth": 3,
+      "Arthur Dimmesdale": 3,
+      "Dimmesdale": 1,
+      "Election Sermon": 1,
+      "Eternal Justice": 1,
+      "Lord. But": 1
+    }
+  },
+  {
+    "canonical_name": "House",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 34,
+    "per_chapter": {
+      "2": {
+        "mentions": 34,
+        "snippet": "[Illustration: The Custom-House]"
+      }
+    },
+    "co_occurs_with": {
+      "Brook Farm": 1,
+      "Charter Street": 1,
+      "Deputy Collector": 1,
+      "Derby Street": 1,
+      "Ellery Channing": 1,
+      "Essex Historical Society": 1,
+      "Fort Erie": 1,
+      "General Taylor": 1
+    }
+  },
+  {
+    "canonical_name": "New England",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 19,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "heroic enterprise, and breathing the soul and spirit of New England"
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "population, or at a later period in the history of New England, the"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "for continuing a resident of New England\u2014was half a truth, and half a"
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "over to New England."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "and peaches might yet be naturalized in the New England climate, and"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "good or evil, ever befell New England, from its settlement down to"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "her, such as dared to enter no other dwelling in New England; shadowy"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "any merchant in New England; but the larger part of them foundered"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "eligible shelter and concealment than the wilds of New England, or all"
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "they followed their hereditary taste, the New England settlers would"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "Dimmesdale first set his foot on the New England shore, had he"
+      },
+      "25": {
+        "mentions": 3,
+        "snippet": "of mankind, with a special reference to the New England which they"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "But there was a more real life for Hester Prynne here, in New England,"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 13,
+      "Pearl": 9,
+      "Reverend Mr": 8,
+      "Dimmesdale": 7,
+      "Mr. Dimmesdale": 7,
+      "Roger Chillingworth": 7,
+      "Governor Bellingham": 4,
+      "Mistress Hibbins": 4
+    }
+  },
+  {
+    "canonical_name": "Arthur Dimmesdale",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 19,
+    "per_chapter": {
+      "10": {
+        "mentions": 1,
+        "snippet": "Reverend Arthur Dimmesdale, whom the reader may remember as having"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "Arthur Dimmesdale would be prevailed upon to take; he rejected all"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Whom, but the Reverend Arthur"
+      },
+      "19": {
+        "mentions": 11,
+        "snippet": "\u201cArthur Dimmesdale!"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "bright in Hester\u2019s eyes, and bright in Arthur Dimmesdale\u2019s!"
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "\u201cDost thou know, Hester,\u201d said Arthur Dimmesdale, with an unquiet"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 6,
+      "Pearl": 4,
+      "Roger Chillingworth": 4,
+      "Dimmesdale": 3,
+      "Mr. Dimmesdale": 3,
+      "Reverend Arthur Dimmesdale": 3,
+      "Reverend Mr": 3,
+      "Thou": 3
+    }
+  },
+  {
+    "canonical_name": "Governor Bellingham",
+    "aliases": [
+      "Bellingham"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 16,
+    "per_chapter": {
+      "5": {
+        "mentions": 2,
+        "snippet": "to witness the scene which we are describing, sat Governor Bellingham"
+      },
+      "9": {
+        "mentions": 6,
+        "snippet": "Hester Prynne went, one day, to the mansion of Governor Bellingham,"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "Governor Bellingham\u2019s shoulder; while its wearer suggested that pears"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "of Governor Bellingham\u2019s mansion, which stood at some distance, on the"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "testament, of which Governor Bellingham and the Reverend Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 5,
+      "Reverend Mr": 5,
+      "Dimmesdale": 4,
+      "Mr. Dimmesdale": 4,
+      "New England": 4,
+      "Pearl": 4,
+      "Roger Chillingworth": 3,
+      "Master Dimmesdale": 3
+    }
+  },
+  {
+    "canonical_name": "Wilson",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 15,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "Wilson laid his hand on the shoulder of"
+      },
+      "10": {
+        "mentions": 8,
+        "snippet": "Wilson came two other guests: one the"
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "Father Wilson was moving homeward, aiding his footsteps with a lighted"
+      }
+    },
+    "co_occurs_with": {
+      "Dimmesdale": 3,
+      "Governor Bellingham": 3,
+      "Hester Prynne": 3,
+      "Master Dimmesdale": 3,
+      "Mr. Dimmesdale": 3,
+      "Reverend Mr": 3,
+      "Arthur Dimmesdale": 2,
+      "John Wilson": 2
+    }
+  },
+  {
+    "canonical_name": "Uncle Sam",
+    "aliases": [
+      "Sam"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 14,
+    "per_chapter": {
+      "2": {
+        "mentions": 14,
+        "snippet": "indicating that a civil, and not a military post of Uncle Sam\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Brook Farm": 1,
+      "Charter Street": 1,
+      "Deputy Collector": 1,
+      "Derby Street": 1,
+      "Ellery Channing": 1,
+      "Essex Historical Society": 1,
+      "Fort Erie": 1,
+      "General Taylor": 1
+    }
+  },
+  {
+    "canonical_name": "Mistress Hibbins",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 13,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "Mistress Hibbins, the bitter-tempered widow of the magistrate, was to"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "forth into the sunny day was thrust the face of Mistress Hibbins,"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "And that ugly-tempered lady, old Mistress Hibbins, was one."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "of an old witch, like Mistress Hibbins,\u201d added he, attempting to"
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "himself, and struck his forehead with his hand, old Mistress Hibbins,"
+      },
+      "24": {
+        "mentions": 6,
+        "snippet": "It was Mistress Hibbins, who, arrayed in great"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 6,
+      "New England": 4,
+      "Dimmesdale": 4,
+      "Mr. Dimmesdale": 4,
+      "Pearl": 4,
+      "Reverend Mr": 4,
+      "Roger Chillingworth": 3,
+      "Master Dimmesdale": 2
+    }
+  },
+  {
+    "canonical_name": "Black Man",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 13,
+    "per_chapter": {
+      "6": {
+        "mentions": 1,
+        "snippet": "\u201cArt thou like the Black Man that haunts the"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "wellnigh promised the Black Man that comely Hester Prynne should make"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Come away, or yonder old Black Man will catch you!"
+      },
+      "18": {
+        "mentions": 9,
+        "snippet": "\u201cO, a story about the Black Man,\u201d answered Pearl, taking hold of her"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 4,
+      "Roger Chillingworth": 4,
+      "Dimmesdale": 3,
+      "Mr. Dimmesdale": 3,
+      "Pearl": 3,
+      "Reverend Mr": 3,
+      "Master Dimmesdale": 2,
+      "Mistress Hibbins": 2
+    }
+  },
+  {
+    "canonical_name": "Master Dimmesdale",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 11,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "\u201cPeople say,\u201d said another, \u201cthat the Reverend Master Dimmesdale, her"
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "promise you, in godly Master Dimmesdale\u2019s church."
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "\u2014how is that, good Master Dimmesdale?"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "this pious Master Dimmesdale, in the hot passion of his heart!"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "\u201cPious Master Dimmesdale, can this be you?"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 5,
+      "Dimmesdale": 4,
+      "Mr. Dimmesdale": 4,
+      "Reverend Mr": 4,
+      "New England": 3,
+      "Governor Bellingham": 3,
+      "Pearl": 3,
+      "Roger Chillingworth": 3
+    }
+  },
+  {
+    "canonical_name": "Mr. Wilson",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 10,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "privileged to sit,\u201d\u2014here Mr."
+      },
+      "10": {
+        "mentions": 7,
+        "snippet": "Behind the Governor and Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Dimmesdale": 2,
+      "Governor Bellingham": 2,
+      "Hester Prynne": 2,
+      "John Wilson": 2,
+      "Master Dimmesdale": 2,
+      "Mr. Dimmesdale": 2,
+      "Reverend Mr": 2,
+      "Wilson": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Surveyor Pue",
+    "aliases": [
+      "Pue"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 9,
+    "per_chapter": {
+      "2": {
+        "mentions": 8,
+        "snippet": "a notice of the decease of Mr."
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "In fine, the gossips of that day believed,\u2014and Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 2,
+      "New England": 2,
+      "Surveyor Pue": 2,
+      "Brook Farm": 1,
+      "Charter Street": 1,
+      "Deputy Collector": 1,
+      "Derby Street": 1,
+      "Ellery Channing": 1
+    }
+  },
+  {
+    "canonical_name": "Master Brackett",
+    "aliases": [
+      "Brackett"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 9,
+    "per_chapter": {
+      "6": {
+        "mentions": 6,
+        "snippet": "Master Brackett, the jailer, thought fit to introduce a physician."
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "And there is Master Brackett, the"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 2,
+      "Roger Chillingworth": 2,
+      "Election Day": 1,
+      "For the Governor": 1,
+      "Lord Mayor": 1,
+      "Merry Andrew": 1,
+      "New England": 1,
+      "Pearl": 1
+    }
+  },
+  {
+    "canonical_name": "Inspector",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 8,
+    "per_chapter": {
+      "2": {
+        "mentions": 8,
+        "snippet": "Inspector."
+      }
+    },
+    "co_occurs_with": {
+      "Brook Farm": 1,
+      "Charter Street": 1,
+      "Deputy Collector": 1,
+      "Derby Street": 1,
+      "Ellery Channing": 1,
+      "Essex Historical Society": 1,
+      "Fort Erie": 1,
+      "General Taylor": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 8,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "Come, therefore, and let us fling mud at them!"
+      },
+      "21": {
+        "mentions": 5,
+        "snippet": "\u201cCome, dearest child!"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 2,
+      "Pearl": 2,
+      "Governor Bellingham": 1,
+      "New England": 1,
+      "Reverend Mr": 1,
+      "The Governor": 1,
+      "Arthur Dimmesdale": 1,
+      "Dost": 1
+    }
+  },
+  {
+    "canonical_name": "Father Wilson",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 8,
+    "per_chapter": {
+      "14": {
+        "mentions": 8,
+        "snippet": "Father Wilson was moving homeward, aiding his footsteps with a lighted"
+      }
+    },
+    "co_occurs_with": {
+      "Arthur Dimmesdale": 1,
+      "Dimmesdale": 1,
+      "Governor Bellingham": 1,
+      "Governor Winthrop": 1,
+      "Hester Prynne": 1,
+      "King James": 1,
+      "Master Dimmesdale": 1,
+      "Mr. Dimmesdale": 1
+    }
+  },
+  {
+    "canonical_name": "Surveyor Pue",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 7,
+    "per_chapter": {
+      "2": {
+        "mentions": 6,
+        "snippet": "Surveyor Pue, about fourscore years"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "Surveyor Pue, who"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 2,
+      "Mr. Surveyor Pue": 2,
+      "New England": 2,
+      "Brook Farm": 1,
+      "Charter Street": 1,
+      "Deputy Collector": 1,
+      "Derby Street": 1,
+      "Ellery Channing": 1
+    }
+  },
+  {
+    "canonical_name": "Mistress Prynne",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 7,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "But, I charge you, in this matter of old Mistress Prynne, give to your"
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "lock is turning in the prison-door, and here comes Mistress Prynne"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "Mistress Prynne is holding in her arms?"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "your house; and, I promise you, Mistress Prynne shall hereafter be"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 4,
+      "New England": 2,
+      "Master Dimmesdale": 2,
+      "Brook Farm": 1,
+      "Charter Street": 1,
+      "Deputy Collector": 1,
+      "Derby Street": 1,
+      "Ellery Channing": 1
+    }
+  },
+  {
+    "canonical_name": "Old Manse",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 6,
+    "per_chapter": {
+      "2": {
+        "mentions": 6,
+        "snippet": "in the deep quietude of an Old Manse."
+      }
+    },
+    "co_occurs_with": {
+      "Brook Farm": 1,
+      "Charter Street": 1,
+      "Deputy Collector": 1,
+      "Derby Street": 1,
+      "Ellery Channing": 1,
+      "Essex Historical Society": 1,
+      "Fort Erie": 1,
+      "General Taylor": 1
+    }
+  },
+  {
+    "canonical_name": "Reverend Arthur Dimmesdale",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 6,
+    "per_chapter": {
+      "10": {
+        "mentions": 2,
+        "snippet": "Reverend Arthur Dimmesdale, whom the reader may remember as having"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "And the Reverend Arthur Dimmesdale\u2019s best discerning friends, as we"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Whom, but the Reverend Arthur"
+      }
+    },
+    "co_occurs_with": {
+      "Arthur Dimmesdale": 3,
+      "Dimmesdale": 3,
+      "Hester Prynne": 3,
+      "Mr. Dimmesdale": 3,
+      "Reverend Mr": 3,
+      "Roger Chillingworth": 3,
+      "Governor Bellingham": 2,
+      "King James": 2
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 6,
+    "per_chapter": {
+      "12": {
+        "mentions": 6,
+        "snippet": "\u201cThere can be, if I forebode aright, no power, short of the Divine"
+      }
+    },
+    "co_occurs_with": {
+      "Black Man": 1,
+      "Dimmesdale": 1,
+      "Hester Prynne": 1,
+      "Holy Writ": 1,
+      "Master Dimmesdale": 1,
+      "Mr. Dimmesdale": 1,
+      "Pearl": 1,
+      "Reverend Mr": 1
+    }
+  },
+  {
+    "canonical_name": "Wilt",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 5,
+    "per_chapter": {
+      "19": {
+        "mentions": 5,
+        "snippet": "[Illustration: \u201cWilt thou yet forgive me?"
+      }
+    },
+    "co_occurs_with": {
+      "Arthur Dimmesdale": 1,
+      "Hester Prynne": 1,
+      "Let God": 1,
+      "Roger Chillingworth": 1,
+      "Thou": 1
+    }
+  },
+  {
+    "canonical_name": "Mistress Hester",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "companion, \u201celse you would surely have heard of Mistress Hester"
+      },
+      "16": {
+        "mentions": 3,
+        "snippet": "and is it Mistress Hester that has a word for old Roger"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 2,
+      "Brother Dimmesdale": 1,
+      "Dimmesdale": 1,
+      "Good Master Dimmesdale": 1,
+      "Governor Bellingham": 1,
+      "John Wilson": 1,
+      "Master Dimmesdale": 1,
+      "Master Prynne": 1
+    }
+  },
+  {
+    "canonical_name": "Speak",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "\u201cSpeak to the woman, my brother,\u201d said Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Brother Dimmesdale": 1,
+      "Dimmesdale": 1,
+      "Good Master Dimmesdale": 1,
+      "Governor Bellingham": 1,
+      "Hester Prynne": 1,
+      "John Wilson": 1,
+      "Master Dimmesdale": 1,
+      "Master Prynne": 1
+    }
+  },
+  {
+    "canonical_name": "Tell",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 4,
+    "per_chapter": {
+      "8": {
+        "mentions": 4,
+        "snippet": "\u201cTell me, then, what"
+      }
+    },
+    "co_occurs_with": {
+      "England Puritans": 1,
+      "Hester Prynne": 1,
+      "Pearl": 1,
+      "Thou": 1,
+      "Thy Heavenly Father": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Thomas Overbury",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 4,
+    "per_chapter": {
+      "11": {
+        "mentions": 2,
+        "snippet": "of London at the period of Sir Thomas Overbury\u2019s murder, now some"
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "last good lady had been hanged for Sir Thomas Overbury\u2019s murder."
+      }
+    },
+    "co_occurs_with": {
+      "Dimmesdale": 2,
+      "Hester Prynne": 2,
+      "Mr. Dimmesdale": 2,
+      "New Jerusalem": 2,
+      "Reverend Mr": 2,
+      "Roger Chillingworth": 2,
+      "Thomas Overbury": 2,
+      "Apostle Eliot": 1
+    }
+  },
+  {
+    "canonical_name": "Governor Winthrop",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 4,
+    "per_chapter": {
+      "14": {
+        "mentions": 4,
+        "snippet": "death-chamber of Governor Winthrop, who had passed from earth to"
+      }
+    },
+    "co_occurs_with": {
+      "Arthur Dimmesdale": 1,
+      "Dimmesdale": 1,
+      "Father Wilson": 1,
+      "Governor Bellingham": 1,
+      "Hester Prynne": 1,
+      "King James": 1,
+      "Master Dimmesdale": 1,
+      "Mr. Dimmesdale": 1
+    }
+  },
+  {
+    "canonical_name": "Not",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 4,
+    "per_chapter": {
+      "14": {
+        "mentions": 4,
+        "snippet": "\u201cNot so, my child."
+      }
+    },
+    "co_occurs_with": {
+      "Arthur Dimmesdale": 1,
+      "Dimmesdale": 1,
+      "Father Wilson": 1,
+      "Governor Bellingham": 1,
+      "Governor Winthrop": 1,
+      "Hester Prynne": 1,
+      "King James": 1,
+      "Master Dimmesdale": 1
+    }
+  },
+  {
+    "canonical_name": "Whigs",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "The greater part of my officers were Whigs."
+      }
+    },
+    "co_occurs_with": {
+      "Brook Farm": 1,
+      "Charter Street": 1,
+      "Deputy Collector": 1,
+      "Derby Street": 1,
+      "Ellery Channing": 1,
+      "Essex Historical Society": 1,
+      "Fort Erie": 1,
+      "General Taylor": 1
+    }
+  },
+  {
+    "canonical_name": "King James",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 2,
+        "snippet": "fashion of King James\u2019s reign, caused his head to look not a little"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "forth, with his King James\u2019s ruff fastened askew; and Mistress"
+      }
+    },
+    "co_occurs_with": {
+      "Arthur Dimmesdale": 2,
+      "Dimmesdale": 2,
+      "Governor Bellingham": 2,
+      "Hester Prynne": 2,
+      "Master Dimmesdale": 2,
+      "Mr. Dimmesdale": 2,
+      "New England": 2,
+      "Pearl": 2
+    }
+  },
+  {
+    "canonical_name": "Satan",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 3,
+        "snippet": "the settlements or lonely cottages, as they rode with Satan through"
+      }
+    },
+    "co_occurs_with": {
+      "Arthur Dimmesdale": 1,
+      "Dimmesdale": 1,
+      "Father Wilson": 1,
+      "Governor Bellingham": 1,
+      "Governor Winthrop": 1,
+      "Hester Prynne": 1,
+      "King James": 1,
+      "Master Dimmesdale": 1
+    }
+  },
+  {
+    "canonical_name": "Mother",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 3,
+    "per_chapter": {
+      "17": {
+        "mentions": 3,
+        "snippet": "\u201cMother,\u201d said she, \u201cwhat does the scarlet letter mean?"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 1,
+      "New England": 1,
+      "Pearl": 1,
+      "Roger Chillingworth": 1
+    }
+  },
+  {
+    "canonical_name": "Apostle Eliot",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 1,
+        "snippet": "gone, the day before, to visit the Apostle Eliot, among his Indian"
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "mine, the Apostle Eliot, and rejoice with him over the many precious"
+      }
+    },
+    "co_occurs_with": {
+      "Dimmesdale": 2,
+      "Hester Prynne": 2,
+      "Mistress Hibbins": 2,
+      "Mr. Dimmesdale": 2,
+      "Reverend Mr": 2,
+      "Roger Chillingworth": 2,
+      "Election Sermon": 1,
+      "Hebrew Scriptures": 1
+    }
+  },
+  {
+    "canonical_name": "Dost",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 3,
+    "per_chapter": {
+      "21": {
+        "mentions": 3,
+        "snippet": "\u201cDost thou not think her"
+      }
+    },
+    "co_occurs_with": {
+      "Arthur Dimmesdale": 1,
+      "Come": 1,
+      "Hester Prynne": 1,
+      "Mistress Hibbins": 1,
+      "Pearl": 1,
+      "The Child": 1,
+      "Thou": 1
+    }
+  },
+  {
+    "canonical_name": "Election Sermon",
+    "aliases": [],
+    "first_chapter": 22,
+    "total_mentions": 3,
+    "per_chapter": {
+      "22": {
+        "mentions": 2,
+        "snippet": "into the Election Sermon!"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "close of his Election Sermon."
+      }
+    },
+    "co_occurs_with": {
+      "Dimmesdale": 2,
+      "Hester Prynne": 2,
+      "Mr. Dimmesdale": 2,
+      "New England": 2,
+      "Reverend Mr": 2,
+      "Roger Chillingworth": 2,
+      "Apostle Eliot": 1,
+      "Hebrew Scriptures": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Mayor",
+    "aliases": [
+      "Mayor"
+    ],
+    "first_chapter": 23,
+    "total_mentions": 3,
+    "per_chapter": {
+      "23": {
+        "mentions": 3,
+        "snippet": "but at a Lord Mayor\u2019s show,\u2014might be traced in the customs which our"
+      }
+    },
+    "co_occurs_with": {
+      "Election Day": 1,
+      "For the Governor": 1,
+      "Hester Prynne": 1,
+      "Master Brackett": 1,
+      "Merry Andrew": 1,
+      "New England": 1,
+      "Pearl": 1,
+      "Puritan": 1
+    }
+  },
+  {
+    "canonical_name": "Puritan",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 3,
+    "per_chapter": {
+      "23": {
+        "mentions": 3,
+        "snippet": "gravity, beyond what even the Puritan aspect could attain."
+      }
+    },
+    "co_occurs_with": {
+      "Election Day": 1,
+      "For the Governor": 1,
+      "Hester Prynne": 1,
+      "Lord Mayor": 1,
+      "Master Brackett": 1,
+      "Merry Andrew": 1,
+      "New England": 1,
+      "Pearl": 1
+    }
+  },
+  {
+    "canonical_name": "Spanish",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 3,
+    "per_chapter": {
+      "23": {
+        "mentions": 3,
+        "snippet": "mariners,\u2014a part of the crew of the vessel from the Spanish"
+      }
+    },
+    "co_occurs_with": {
+      "Election Day": 1,
+      "For the Governor": 1,
+      "Hester Prynne": 1,
+      "Lord Mayor": 1,
+      "Master Brackett": 1,
+      "Merry Andrew": 1,
+      "New England": 1,
+      "Pearl": 1
+    }
+  },
+  {
+    "canonical_name": "Shall",
+    "aliases": [],
+    "first_chapter": 25,
+    "total_mentions": 3,
+    "per_chapter": {
+      "25": {
+        "mentions": 3,
+        "snippet": "[Illustration: \u201cShall we not meet again?"
+      }
+    },
+    "co_occurs_with": {
+      "Dimmesdale": 1,
+      "Election Sermon": 1,
+      "Eternal Justice": 1,
+      "Hester Prynne": 1,
+      "Lord. But": 1,
+      "May God": 1,
+      "Mr. Dimmesdale": 1,
+      "New England": 1
+    }
+  }
+]

@@ -1,0 +1,1878 @@
+[
+  {
+    "canonical_name": "Dr. Livesey",
+    "aliases": [
+      "Livesey"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 92,
+    "per_chapter": {
+      "1": {
+        "mentions": 92,
+        "snippet": "Squire Trelawney, Dr."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Smollett",
+    "aliases": [
+      "Smollett"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 89,
+    "per_chapter": {
+      "1": {
+        "mentions": 89,
+        "snippet": "\u201cCaptain Smollett, sir, axing to speak with you,\u201d said he."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Trelawney",
+    "aliases": [
+      "Trelawney"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 42,
+    "per_chapter": {
+      "1": {
+        "mentions": 42,
+        "snippet": "Long before it was done, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Ben Gunn",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 36,
+    "per_chapter": {
+      "1": {
+        "mentions": 36,
+        "snippet": "\u201cBen Gunn,\u201d he answered, and his voice sounded hoarse and awkward,"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Cap",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 32,
+    "per_chapter": {
+      "1": {
+        "mentions": 32,
+        "snippet": "now, there\u2019ll be news for Cap\u2019n Trelawney!"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Long John",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 28,
+    "per_chapter": {
+      "1": {
+        "mentions": 28,
+        "snippet": "sure he must be Long John."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Here",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 28,
+    "per_chapter": {
+      "1": {
+        "mentions": 28,
+        "snippet": "Here you, matey,\u201d he"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Flint",
+    "aliases": [
+      "Flint"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 24,
+    "per_chapter": {
+      "1": {
+        "mentions": 24,
+        "snippet": "Captain Flint, though it was strange to me, was well enough known to"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Dance",
+    "aliases": [
+      "Dance"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 22,
+    "per_chapter": {
+      "1": {
+        "mentions": 22,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Bill",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 22,
+    "per_chapter": {
+      "1": {
+        "mentions": 22,
+        "snippet": "\u201cIs this here table for my mate Bill?"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Not",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 21,
+    "per_chapter": {
+      "1": {
+        "mentions": 21,
+        "snippet": "\u201cNot much instruction there,\u201d said Dr."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "John Silver",
+    "aliases": [
+      "Silver"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 18,
+    "per_chapter": {
+      "1": {
+        "mentions": 18,
+        "snippet": "Long John Silver, he is"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Arrow",
+    "aliases": [
+      "Arrow"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 18,
+    "per_chapter": {
+      "1": {
+        "mentions": 18,
+        "snippet": "mate, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Hands",
+    "aliases": [
+      "Hands"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 18,
+    "per_chapter": {
+      "1": {
+        "mentions": 18,
+        "snippet": "\u201cMr."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 18,
+    "per_chapter": {
+      "1": {
+        "mentions": 18,
+        "snippet": "\u201cCome here, sonny,\u201d says he."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Aye",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 17,
+    "per_chapter": {
+      "1": {
+        "mentions": 17,
+        "snippet": "\u201cAye, aye,\u201d said he, \u201cthat\u2019s some better, sure enough."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Black Dog",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 16,
+    "per_chapter": {
+      "1": {
+        "mentions": 16,
+        "snippet": "\u201cBlack Dog!"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Jim Hawkins",
+    "aliases": [
+      "Hawkins"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 15,
+    "per_chapter": {
+      "1": {
+        "mentions": 15,
+        "snippet": "off on his Majesty\u2019s service; but I mean to keep Jim Hawkins here to"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Admiral Benbow",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 14,
+    "per_chapter": {
+      "1": {
+        "mentions": 14,
+        "snippet": "The Old Sea-dog at the Admiral Benbow"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1,
+      "Aye": 1
+    }
+  },
+  {
+    "canonical_name": "Treasure Island",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 11,
+        "snippet": "asked me to write down the whole particulars about Treasure Island, from"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Bible",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 11,
+        "snippet": "to your own place, like the man in the Bible."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "First",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "First he recognized the doctor with"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "North Inlet",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "I mean to get into North Inlet and beach her quietly there."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Israel Hands",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "coxswain, Israel Hands, was a careful, wily, old, experienced seaman who"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Skeleton Island",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "\u201cYes, sir; Skeleton Island they calls it."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Three",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "Three men ran"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "\u201cVery well,\u201d said the doctor."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Brien",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "\u201cThis man,\u201d he began, nodding feebly at the corpse \u201c--O\u2019Brien were his"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "\u201cDon\u2019t rightly know, don\u2019t you!"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Barbecue",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "\u201cNow, Barbecue, tip us a stave,\u201d cried one voice."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Kidd",
+    "aliases": [
+      "Kidd"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "\u201cI\u2019ll tell you one thing,\u201d says I: \u201cI\u2019m not going back to Captain Kidd\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Perhaps",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "\u201cPerhaps it\u2019s round his neck,\u201d suggested my mother."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Thank",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "\u201cThank you, my man,\u201d says Captain Smollett."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Master Pew",
+    "aliases": [
+      "Pew"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Only,\u201d he added, \u201cI\u2019m glad I trod on Master Pew\u2019s corns,\u201d for by"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Tom Morgan",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "\u201cBy the powers, Tom Morgan, it\u2019s as good for you!"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "George Merry",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "with your head broke--or you, George Merry, that had the ague shakes"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Look",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "\u201cLook, Jim, how my fingers fidges,\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Give",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "\u201cGive me the key,\u201d said my mother; and though the lock was very stiff,"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Far",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Far less than half-way to the hamlet, very"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Darby",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "\u201cDarby M\u2019Graw,\u201d it wailed--for that is the word that best describes the"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Crossley",
+    "aliases": [
+      "Crossley"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "And I\u2019ll thank you for that bag, Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Blandly",
+    "aliases": [
+      "Blandly"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "place, and boatfuls of the squire\u2019s friends, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Smollett",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cFirst point,\u201d began Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Doctor Livesey",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "It was a happy relief for us when the door opened and Doctor Livesey"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Tom Redruth",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "absence, by Tom Redruth or young Hawkins."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Job Anderson",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "The boatswain, Job Anderson, was the likeliest"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Will",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "sing-song, addressed the air in front of him, \u201cWill any kind friend"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Hole",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "lugger in what we called Kitt\u2019s Hole."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Down",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cDown with the door!"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Dogger",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cDogger,\u201d said Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "See",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cSee what it is to be a traveller."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Dooty",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Dooty is dooty, messmates."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Tain",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u2019Tain\u2019t earning now, it\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Leastways",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Leastways, if such was your intention as to enter and careen, and there"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Nay",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cNay,\u201d replied the squire."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Alan",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Oh, I reckon that\u2019ll be Alan."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1,
+      "Aye": 1
+    }
+  },
+  {
+    "canonical_name": "Narrative",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Narrative Continued by the Doctor: How the Ship Was Abandoned"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Lillibullero",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cLillibullero."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Roger",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "gen\u2019lemen of fortune, Silver would fly the Jolly Roger, you don\u2019t make"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Did",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cDid you hit your man?"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Cape",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "another cape--Cape of the Woods, as it was marked upon the chart--buried"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Woods",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "another cape--Cape of the Woods, as it was marked upon the chart--buried"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Master Billy Bones",
+    "aliases": [
+      "Bones"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cAnd now, Master Billy Bones, if that be your name, we\u2019ll have a look at"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Silver",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cMr."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Silver",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Captain Silver!"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Hawkins",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "for Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Long John Silver",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "bail for the innocence of Long John Silver."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Execution Dock",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "how many brisk lads drying in the sun at Execution Dock?"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Davy Jones",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "to Davy Jones."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Mizzenmast Hill",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Haulbowline Head and Mizzenmast Hill were at my elbow, the hill bare"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Much",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Much company, mate?"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Dear",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cDear, deary me,\u201d cried my mother, \u201cwhat a disgrace upon the house!"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Savannah",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "He gave it me at Savannah, when he lay a-dying, like as if I"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Kitt",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "lugger in what we called Kitt\u2019s Hole."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Mother",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cHe had till ten, Mother,\u201d said I; and just as I said it, our old clock"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Last",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "The Last of the Blind Man"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Dirk",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cThere\u2019s Dirk again,\u201d said one."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Hang",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cHang it, Pew, we\u2019ve got the doubloons!"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Heard",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cHeard of him!"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Have",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cHave you heard the story?"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Dead",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201c\u2018Dead men don\u2019t bite,\u2019 says"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Continued",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Narrative Continued by the Doctor: How the Ship Was Abandoned"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Ship",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Narrative Continued by the Doctor: How the Ship Was Abandoned"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  },
+  {
+    "canonical_name": "Graw",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cDarby M\u2019Graw,\u201d it wailed--for that is the word that best describes the"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham Gray": 1,
+      "Admiral Benbow": 1,
+      "Admiral Hawke": 1,
+      "Alan": 1,
+      "Anchor Inn": 1,
+      "At Bristol": 1,
+      "At the Sign": 1,
+      "August Blandly": 1
+    }
+  }
+]

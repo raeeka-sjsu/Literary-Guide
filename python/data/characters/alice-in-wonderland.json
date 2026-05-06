@@ -1,0 +1,1198 @@
+[
+  {
+    "canonical_name": "Alice",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 366,
+    "per_chapter": {
+      "1": {
+        "mentions": 28,
+        "snippet": "Alice was beginning to get very tired of sitting by her sister on the"
+      },
+      "2": {
+        "mentions": 26,
+        "snippet": "\u201d cried Alice (she was so much surprised, that"
+      },
+      "3": {
+        "mentions": 23,
+        "snippet": "natural to Alice to find herself talking familiarly with them, as if"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "began fancying the sort of thing that would happen: \u201c\u2018Miss Alice!"
+      },
+      "5": {
+        "mentions": 35,
+        "snippet": "The Caterpillar and Alice looked at each other for some time in"
+      },
+      "6": {
+        "mentions": 43,
+        "snippet": "frog; and both footmen, Alice noticed, had powdered hair that curled"
+      },
+      "7": {
+        "mentions": 51,
+        "snippet": "uncomfortable for the Dormouse,\u201d thought Alice; \u201conly, as it\u2019s asleep,"
+      },
+      "8": {
+        "mentions": 39,
+        "snippet": "Alice thought this a very curious thing, and she"
+      },
+      "9": {
+        "mentions": 52,
+        "snippet": "said the Duchess, as she tucked her arm affectionately into Alice\u2019s,"
+      },
+      "10": {
+        "mentions": 30,
+        "snippet": "He looked at Alice, and tried to speak, but for a minute or"
+      },
+      "11": {
+        "mentions": 16,
+        "snippet": "good, that it made Alice quite hungry to look at them\u2014\u201cI wish they\u2019d"
+      },
+      "12": {
+        "mentions": 22,
+        "snippet": "\u201d cried Alice, quite forgetting in the flurry of the moment how"
+      }
+    },
+    "co_occurs_with": {
+      "White Rabbit": 6,
+      "There": 4,
+      "March Hare": 4,
+      "Dinah": 3,
+      "King": 3,
+      "Come": 3,
+      "The": 3,
+      "Cheshire Cat": 2
+    }
+  },
+  {
+    "canonical_name": "King",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 59,
+    "per_chapter": {
+      "8": {
+        "mentions": 11,
+        "snippet": "the King\u2019s crown on a crimson velvet cushion; and, last of all this"
+      },
+      "11": {
+        "mentions": 26,
+        "snippet": "The King and Queen of Hearts were seated on their throne when they"
+      },
+      "12": {
+        "mentions": 22,
+        "snippet": "\u201cThe trial cannot proceed,\u201d said the King in a very grave voice, \u201cuntil"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 3,
+      "White Rabbit": 3,
+      "Knave": 2,
+      "Majesty": 2,
+      "The Queen": 2,
+      "March Hare": 2,
+      "Cheshire Cat": 1,
+      "Duchess": 1
+    }
+  },
+  {
+    "canonical_name": "Gryphon",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 51,
+    "per_chapter": {
+      "9": {
+        "mentions": 20,
+        "snippet": "They very soon came upon a Gryphon, lying fast asleep in the sun."
+      },
+      "10": {
+        "mentions": 31,
+        "snippet": "said the Gryphon: and it set to work shaking him and punching him in"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 2,
+      "Come": 2,
+      "Mock Turtle": 2,
+      "Beautiful Soup": 1,
+      "Lobster Quadrille": 1,
+      "Owl": 1,
+      "Soo": 1,
+      "The Panther": 1
+    }
+  },
+  {
+    "canonical_name": "Mock Turtle",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 49,
+    "per_chapter": {
+      "9": {
+        "mentions": 23,
+        "snippet": "you seen the Mock Turtle yet?"
+      },
+      "10": {
+        "mentions": 26,
+        "snippet": "The Mock Turtle sighed deeply, and drew the back of one flapper across"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 2,
+      "Come": 2,
+      "Gryphon": 2,
+      "Beautiful Soup": 1,
+      "Lobster Quadrille": 1,
+      "Owl": 1,
+      "Soo": 1,
+      "The Panther": 1
+    }
+  },
+  {
+    "canonical_name": "March Hare",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 31,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "March Hare."
+      },
+      "7": {
+        "mentions": 21,
+        "snippet": "March Hare and the Hatter were having tea at it: a Dormouse was sitting"
+      },
+      "11": {
+        "mentions": 5,
+        "snippet": "The Hatter looked at the March Hare, who had followed him into the"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "could hear the rattle of the teacups as the March Hare and his friends"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 4,
+      "There": 3,
+      "King": 2,
+      "White Rabbit": 2,
+      "Call": 1,
+      "Dormouse": 1,
+      "Give": 1,
+      "Hatter": 1
+    }
+  },
+  {
+    "canonical_name": "Caterpillar",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 25,
+    "per_chapter": {
+      "5": {
+        "mentions": 25,
+        "snippet": "The Caterpillar and Alice looked at each other for some time in"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Come": 1,
+      "Father William": 1,
+      "Pigeon": 1,
+      "Serpent": 1,
+      "William": 1
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 24,
+    "per_chapter": {
+      "3": {
+        "mentions": 6,
+        "snippet": "The first question of course was, how to get dry again: they had a"
+      },
+      "9": {
+        "mentions": 8,
+        "snippet": "\u201cThe game\u2019s going on rather better now,\u201d she said, by way of keeping up"
+      },
+      "12": {
+        "mentions": 10,
+        "snippet": "\u201cThe trial cannot proceed,\u201d said the King in a very grave voice, \u201cuntil"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 3,
+      "Queen": 2,
+      "King": 1,
+      "Knave": 1,
+      "Lizard": 1,
+      "Majesty": 1,
+      "March Hare": 1,
+      "Nothing": 1
+    }
+  },
+  {
+    "canonical_name": "Queen",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 24,
+    "per_chapter": {
+      "9": {
+        "mentions": 14,
+        "snippet": "Queen in front of them, with her arms folded, frowning like a"
+      },
+      "12": {
+        "mentions": 10,
+        "snippet": "\u201cNearly two miles high,\u201d added the Queen."
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 2,
+      "The": 2,
+      "King": 1,
+      "Knave": 1,
+      "Lizard": 1,
+      "Majesty": 1,
+      "March Hare": 1,
+      "Nothing": 1
+    }
+  },
+  {
+    "canonical_name": "Duchess",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 22,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cVery,\u201d said Alice: \u201c\u2014where\u2019s the Duchess?"
+      },
+      "9": {
+        "mentions": 19,
+        "snippet": "said the Duchess, as she tucked her arm affectionately into Alice\u2019s,"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 2,
+      "Cheshire Cat": 1,
+      "Five": 1,
+      "King": 1,
+      "Knave": 1,
+      "Majesty": 1,
+      "Off": 1,
+      "Seven": 1
+    }
+  },
+  {
+    "canonical_name": "White Rabbit",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 20,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "picking the daisies, when suddenly a White Rabbit with pink eyes ran"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "It was the White Rabbit, trotting slowly back again, and looking"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "and among them Alice recognised the White Rabbit: it was talking in a"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "saw the White Rabbit."
+      },
+      "11": {
+        "mentions": 7,
+        "snippet": "him; and near the King was the White Rabbit, with a trumpet in one"
+      },
+      "12": {
+        "mentions": 7,
+        "snippet": "White Rabbit, jumping up in a great hurry; \u201cthis paper has just been"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 6,
+      "King": 3,
+      "Dinah": 2,
+      "There": 2,
+      "Knave": 2,
+      "Majesty": 2,
+      "The Queen": 2,
+      "March Hare": 2
+    }
+  },
+  {
+    "canonical_name": "Hatter",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 20,
+    "per_chapter": {
+      "11": {
+        "mentions": 20,
+        "snippet": "The first witness was the Hatter."
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Call": 1,
+      "Dormouse": 1,
+      "Give": 1,
+      "Hearts": 1,
+      "King": 1,
+      "March Hare": 1,
+      "The Knave": 1
+    }
+  },
+  {
+    "canonical_name": "Mouse",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 18,
+    "per_chapter": {
+      "3": {
+        "mentions": 18,
+        "snippet": "At last the Mouse, who seemed to be a person of authority among them,"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Dinah": 1,
+      "Dodo": 1,
+      "Edgar Atheling": 1,
+      "Lory": 1,
+      "Speak English": 1,
+      "The": 1,
+      "William": 1
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 18,
+    "per_chapter": {
+      "4": {
+        "mentions": 6,
+        "snippet": "There was no label"
+      },
+      "6": {
+        "mentions": 5,
+        "snippet": "\u201cThere\u2019s no sort of use in knocking,\u201d said the Footman, \u201cand that for"
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "There was a table set out under a tree in front of the house, and the"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "\u201cThere\u2019s more evidence to come yet, please your Majesty,\u201d said the"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 4,
+      "March Hare": 3,
+      "White Rabbit": 2,
+      "Bill": 1,
+      "Dinah": 1,
+      "Here": 1,
+      "Mary Ann": 1,
+      "Miss Alice": 1
+    }
+  },
+  {
+    "canonical_name": "Dinah",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 13,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "\u201cDinah\u2019ll miss me very much to-night, I should think!"
+      },
+      "3": {
+        "mentions": 5,
+        "snippet": "\u201cI wish I had our Dinah here, I know I do!"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "I suppose Dinah\u2019ll be sending me on messages next!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 3,
+      "White Rabbit": 2,
+      "New Zealand": 1,
+      "Which": 1,
+      "Bill": 1,
+      "Here": 1,
+      "Mary Ann": 1,
+      "Miss Alice": 1
+    }
+  },
+  {
+    "canonical_name": "Bill",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 13,
+    "per_chapter": {
+      "4": {
+        "mentions": 13,
+        "snippet": "\u2014Why, I hadn\u2019t to bring but one; Bill\u2019s got the other\u2014Bill!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Dinah": 1,
+      "Here": 1,
+      "Mary Ann": 1,
+      "Miss Alice": 1,
+      "Pat": 1,
+      "The Duchess": 1,
+      "There": 1
+    }
+  },
+  {
+    "canonical_name": "Dormouse",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 13,
+    "per_chapter": {
+      "11": {
+        "mentions": 13,
+        "snippet": "court, arm-in-arm with the Dormouse."
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Call": 1,
+      "Give": 1,
+      "Hatter": 1,
+      "Hearts": 1,
+      "King": 1,
+      "March Hare": 1,
+      "The Knave": 1
+    }
+  },
+  {
+    "canonical_name": "Dodo",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 12,
+    "per_chapter": {
+      "3": {
+        "mentions": 12,
+        "snippet": "\u201cIn that case,\u201d said the Dodo solemnly, rising to its feet, \u201cI move"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Dinah": 1,
+      "Edgar Atheling": 1,
+      "Lory": 1,
+      "Mouse": 1,
+      "Speak English": 1,
+      "The": 1,
+      "William": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 11,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cCome back!"
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "\u201cCome on, then,\u201d said the Queen, \u201cand he shall tell you his history."
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cCome, let\u2019s try the first figure!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 3,
+      "Gryphon": 2,
+      "Mock Turtle": 2,
+      "Beautiful Soup": 1,
+      "Lobster Quadrille": 1,
+      "Owl": 1,
+      "Soo": 1,
+      "The Panther": 1
+    }
+  },
+  {
+    "canonical_name": "Pigeon",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 11,
+    "per_chapter": {
+      "5": {
+        "mentions": 11,
+        "snippet": "\u201d screamed the Pigeon."
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Caterpillar": 1,
+      "Come": 1,
+      "Father William": 1,
+      "Serpent": 1,
+      "William": 1
+    }
+  },
+  {
+    "canonical_name": "Footman",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 11,
+    "per_chapter": {
+      "6": {
+        "mentions": 11,
+        "snippet": "The Fish-Footman began by producing from under his arm a great letter,"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Cheshire Cat": 1,
+      "Cheshire Puss": 1,
+      "For the Duchess": 1,
+      "From the Queen": 1,
+      "March Hare": 1,
+      "The Frog": 1,
+      "There": 1
+    }
+  },
+  {
+    "canonical_name": "Five",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 7,
+    "per_chapter": {
+      "8": {
+        "mentions": 7,
+        "snippet": "one of them say, \u201cLook out now, Five!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Cheshire Cat": 1,
+      "Duchess": 1,
+      "King": 1,
+      "Knave": 1,
+      "Majesty": 1,
+      "Off": 1,
+      "Seven": 1
+    }
+  },
+  {
+    "canonical_name": "Knave",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 7,
+    "per_chapter": {
+      "8": {
+        "mentions": 4,
+        "snippet": "Then followed the Knave of Hearts, carrying"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "\u201cPlease your Majesty,\u201d said the Knave, \u201cI didn\u2019t write it, and they"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 2,
+      "King": 2,
+      "Majesty": 2,
+      "White Rabbit": 2,
+      "Cheshire Cat": 1,
+      "Duchess": 1,
+      "Five": 1,
+      "Off": 1
+    }
+  },
+  {
+    "canonical_name": "Majesty",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 7,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cMy name is Alice, so please your Majesty,\u201d said Alice very politely;"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "Rabbit interrupted: \u201c_Un_important, your Majesty means, of course,\u201d he"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 2,
+      "King": 2,
+      "Knave": 2,
+      "White Rabbit": 2,
+      "Cheshire Cat": 1,
+      "Duchess": 1,
+      "Five": 1,
+      "Off": 1
+    }
+  },
+  {
+    "canonical_name": "Soo",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 7,
+    "per_chapter": {
+      "10": {
+        "mentions": 7,
+        "snippet": "Beau\u2014ootiful Soo\u2014oop!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Beautiful Soup": 1,
+      "Come": 1,
+      "Gryphon": 1,
+      "Lobster Quadrille": 1,
+      "Mock Turtle": 1,
+      "Owl": 1,
+      "The Panther": 1
+    }
+  },
+  {
+    "canonical_name": "Lory",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 6,
+    "per_chapter": {
+      "3": {
+        "mentions": 6,
+        "snippet": "with the Lory, who at last turned sulky, and would only say, \u201cI am"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Dinah": 1,
+      "Dodo": 1,
+      "Edgar Atheling": 1,
+      "Mouse": 1,
+      "Speak English": 1,
+      "The": 1,
+      "William": 1
+    }
+  },
+  {
+    "canonical_name": "Off",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 6,
+    "per_chapter": {
+      "8": {
+        "mentions": 6,
+        "snippet": "moment like a wild beast, screamed \u201cOff with her head!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Cheshire Cat": 1,
+      "Duchess": 1,
+      "Five": 1,
+      "King": 1,
+      "Knave": 1,
+      "Majesty": 1,
+      "Seven": 1
+    }
+  },
+  {
+    "canonical_name": "William",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 5,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u2018William"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "\u201cYou are old, Father William,\u201d the young man said,"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 2,
+      "Dinah": 1,
+      "Dodo": 1,
+      "Edgar Atheling": 1,
+      "Lory": 1,
+      "Mouse": 1,
+      "Speak English": 1,
+      "The": 1
+    }
+  },
+  {
+    "canonical_name": "Seven",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 5,
+    "per_chapter": {
+      "8": {
+        "mentions": 5,
+        "snippet": "\u201cI couldn\u2019t help it,\u201d said Five, in a sulky tone; \u201cSeven jogged my"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Cheshire Cat": 1,
+      "Duchess": 1,
+      "Five": 1,
+      "King": 1,
+      "Knave": 1,
+      "Majesty": 1,
+      "Off": 1
+    }
+  },
+  {
+    "canonical_name": "Mabel",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "be Mabel, for I know all sorts of things, and she, oh!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "For the Mouse": 1,
+      "Latin Grammar": 1,
+      "Multiplication Table": 1,
+      "Right Foot": 1,
+      "The Mouse": 1,
+      "The Rabbit": 1,
+      "William the Conqueror": 1
+    }
+  },
+  {
+    "canonical_name": "Here",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "\u201cHere!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Bill": 1,
+      "Dinah": 1,
+      "Mary Ann": 1,
+      "Miss Alice": 1,
+      "Pat": 1,
+      "The Duchess": 1,
+      "There": 1
+    }
+  },
+  {
+    "canonical_name": "Father William",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "\u201cYou are old, Father William,\u201d the young man said,"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Caterpillar": 1,
+      "Come": 1,
+      "Pigeon": 1,
+      "Serpent": 1,
+      "William": 1
+    }
+  },
+  {
+    "canonical_name": "Cheshire Cat",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 4,
+    "per_chapter": {
+      "6": {
+        "mentions": 1,
+        "snippet": "was a little startled by seeing the Cheshire Cat sitting on a bough of"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "to herself \u201cIt\u2019s the Cheshire Cat: now I shall have somebody to talk"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 2,
+      "Duchess": 1,
+      "Five": 1,
+      "King": 1,
+      "Knave": 1,
+      "Majesty": 1,
+      "Off": 1,
+      "Seven": 1
+    }
+  },
+  {
+    "canonical_name": "Two",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 4,
+    "per_chapter": {
+      "8": {
+        "mentions": 4,
+        "snippet": "\u201cThat\u2019s none of _your_ business, Two!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Cheshire Cat": 1,
+      "Duchess": 1,
+      "Five": 1,
+      "King": 1,
+      "Knave": 1,
+      "Majesty": 1,
+      "Off": 1
+    }
+  },
+  {
+    "canonical_name": "Lizard",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 4,
+    "per_chapter": {
+      "12": {
+        "mentions": 4,
+        "snippet": "the Lizard in head downwards, and the poor little thing was waving its"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "King": 1,
+      "Knave": 1,
+      "Majesty": 1,
+      "March Hare": 1,
+      "Nothing": 1,
+      "Number One": 1,
+      "Queen": 1
+    }
+  },
+  {
+    "canonical_name": "Nothing",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 4,
+    "per_chapter": {
+      "12": {
+        "mentions": 4,
+        "snippet": "\u201cNothing,\u201d said Alice."
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "King": 1,
+      "Knave": 1,
+      "Lizard": 1,
+      "Majesty": 1,
+      "March Hare": 1,
+      "Number One": 1,
+      "Queen": 1
+    }
+  },
+  {
+    "canonical_name": "Which",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201d (Which was very likely true."
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Dinah": 1,
+      "New Zealand": 1,
+      "White Rabbit": 1
+    }
+  },
+  {
+    "canonical_name": "Mary Ann",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "called out to her in an angry tone, \u201cWhy, Mary Ann, what _are_ you"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Bill": 1,
+      "Dinah": 1,
+      "Here": 1,
+      "Miss Alice": 1,
+      "Pat": 1,
+      "The Duchess": 1,
+      "There": 1
+    }
+  },
+  {
+    "canonical_name": "Pat",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "Next came an angry voice\u2014the Rabbit\u2019s\u2014\u201cPat!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Bill": 1,
+      "Dinah": 1,
+      "Here": 1,
+      "Mary Ann": 1,
+      "Miss Alice": 1,
+      "The Duchess": 1,
+      "There": 1
+    }
+  },
+  {
+    "canonical_name": "Serpent",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cSerpent!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Caterpillar": 1,
+      "Come": 1,
+      "Father William": 1,
+      "Pigeon": 1,
+      "William": 1
+    }
+  },
+  {
+    "canonical_name": "Not",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cNot the same thing a bit!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "March Hare": 1,
+      "The Dormouse": 1,
+      "The Hatter": 1,
+      "There": 1,
+      "Twinkle": 1
+    }
+  },
+  {
+    "canonical_name": "Twinkle",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "\u2018Twinkle, twinkle, little bat!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "March Hare": 1,
+      "Not": 1,
+      "The Dormouse": 1,
+      "The Hatter": 1,
+      "There": 1
+    }
+  },
+  {
+    "canonical_name": "The Queen",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 2,
+        "snippet": "out \u201cThe Queen!"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "\u201cThe Queen of Hearts, she made some tarts,"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 2,
+      "King": 2,
+      "White Rabbit": 2,
+      "Cheshire Cat": 1,
+      "Duchess": 1,
+      "Five": 1,
+      "Knave": 1,
+      "Majesty": 1
+    }
+  },
+  {
+    "canonical_name": "Tortoise",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "The master was an old Turtle\u2014we used to call him Tortoise\u2014\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Come": 1,
+      "Drawling": 1,
+      "Duchess": 1,
+      "Gryphon": 1,
+      "Mock Turtle": 1,
+      "Mock Turtle Soup": 1,
+      "Queen": 1
+    }
+  },
+  {
+    "canonical_name": "Drawling",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "Seaography: then Drawling\u2014the Drawling-master was an old conger-eel,"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Come": 1,
+      "Duchess": 1,
+      "Gryphon": 1,
+      "Mock Turtle": 1,
+      "Mock Turtle Soup": 1,
+      "Queen": 1,
+      "The": 1
+    }
+  },
+  {
+    "canonical_name": "Owl",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "How the Owl and the Panther were sharing a pie\u2014\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Beautiful Soup": 1,
+      "Come": 1,
+      "Gryphon": 1,
+      "Lobster Quadrille": 1,
+      "Mock Turtle": 1,
+      "Soo": 1,
+      "The Panther": 1
+    }
+  },
+  {
+    "canonical_name": "Hearts",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "The King and Queen of Hearts were seated on their throne when they"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Call": 1,
+      "Dormouse": 1,
+      "Give": 1,
+      "Hatter": 1,
+      "King": 1,
+      "March Hare": 1,
+      "The Knave": 1
+    }
+  },
+  {
+    "canonical_name": "Call",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "\u201cCall the first witness,\u201d said the King; and the White Rabbit blew"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Dormouse": 1,
+      "Give": 1,
+      "Hatter": 1,
+      "Hearts": 1,
+      "King": 1,
+      "March Hare": 1,
+      "The Knave": 1
+    }
+  },
+  {
+    "canonical_name": "Give",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "\u201cGive your evidence,\u201d said the King; \u201cand don\u2019t be nervous, or I\u2019ll"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Call": 1,
+      "Dormouse": 1,
+      "Hatter": 1,
+      "Hearts": 1,
+      "King": 1,
+      "March Hare": 1,
+      "The Knave": 1
+    }
+  }
+]

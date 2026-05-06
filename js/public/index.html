@@ -37,7 +37,10 @@
       font-family: "Crimson Pro", Georgia, serif;
       font-weight: 600;
       font-size: 1.6rem;
+      cursor: pointer;
+      user-select: none;
     }
+    header.app-header h1:hover { color: var(--accent); }
     header.app-header .subtitle { color: var(--ink-soft); font-size: 0.9rem; }
     header.app-header .back {
       background: none; border: 1px solid var(--paper-edge); padding: 0.4rem 0.9rem;
@@ -99,12 +102,34 @@
     .book-spine .author { font-size: 0.85rem; opacity: 0.85; }
     .book-spine .year { position: absolute; bottom: 0.5rem; font-size: 0.7rem; opacity: 0.6; }
     .book-card-meta {
-      padding: 0.75rem 1rem;
+      padding: 0.6rem 0.85rem;
       border-top: 1px solid var(--paper-edge);
-      font-size: 0.85rem; color: var(--ink-soft);
+      font-size: 0.8rem; color: var(--ink-soft);
     }
-    .book-card-meta .chapters { font-weight: 500; color: var(--ink); }
-    .book-card-meta .genres { font-size: 0.75rem; margin-top: 0.25rem; }
+    .book-card-meta .genres { font-size: 0.7rem; }
+    /* Small circular chapter-count badge in upper-right of the spine */
+    .chapter-pill {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      min-width: 30px;
+      height: 30px;
+      padding: 0 0.4rem;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.18);
+      backdrop-filter: blur(2px);
+      color: #fbf3e2;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
+    .chapter-pill::after {
+      content: " ch";
+      font-weight: 400;
+      opacity: 0.7;
+      margin-left: 1px;
+    }
     .badge {
       display: inline-block; background: var(--paper-edge); color: var(--ink-soft);
       padding: 0.1rem 0.5rem; border-radius: 3px; font-size: 0.7rem;
@@ -333,7 +358,7 @@
 </head>
 <body>
   <header class="app-header">
-    <h1>Literary Guide</h1>
+    <h1 onclick="showLibrary()" title="Back to library">Literary Guide</h1>
     <span class="subtitle">Spoiler-aware reading companion</span>
     <div style="margin-left:auto;">
       <button id="back-btn" class="back" style="display:none;" onclick="showLibrary()">← Library</button>
@@ -464,9 +489,9 @@
               <h3>${escapeHtml(b.title)}</h3>
               <div class="author">${escapeHtml(b.author)}</div>
               <div class="year">${b.year || ""}</div>
+              <div class="chapter-pill" title="${b.chapter_count} chapters in this book">${b.chapter_count}</div>
             </div>
             <div class="book-card-meta">
-              <div class="chapters">${b.chapter_count} ${b.chapter_count === 1 ? "chapter" : "chapters"}</div>
               <div class="genres">${genres}</div>
             </div>
           </div>`;
@@ -476,6 +501,36 @@
     function hash(s) { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) | 0; return h; }
     function escapeHtml(s) {
       return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+    }
+
+    // Some Gutenberg files have parser quirks where chapter.number disagrees with the
+    // title (e.g. Frankenstein's TOC bleed-through). The TITLE is what the user sees in
+    // the dropdown, so it must be the source of truth for the spoiler boundary.
+    const ROMAN_VALS = { I:1, V:5, X:10, L:50, C:100, D:500, M:1000 };
+    function romanToInt(s) {
+      s = s.toUpperCase();
+      if (!/^[IVXLCDM]+$/.test(s)) return null;
+      let total = 0, prev = 0;
+      for (let i = s.length - 1; i >= 0; i--) {
+        const v = ROMAN_VALS[s[i]];
+        total += v < prev ? -v : v;
+        prev = v;
+      }
+      return total;
+    }
+    function chapterNumberFromTitle(ch) {
+      const t = (ch.title || "").trim();
+      // Try Arabic numerals first (e.g. "Chapter 6" or "Chapter 6.")
+      const arab = t.match(/\b(\d+)\b/);
+      if (arab) return parseInt(arab[1], 10);
+      // Then Roman (e.g. "CHAPTER VI." — extract the longest run after CHAPTER)
+      const rom = t.match(/\bCHAPTER\s+([IVXLCDM]+)\b/i);
+      if (rom) {
+        const n = romanToInt(rom[1]);
+        if (n) return n;
+      }
+      // Fallback to the parser's number field, then to the index+1 we use as last resort
+      return ch.number || 1;
     }
 
     // ==== Reader ====
@@ -607,7 +662,7 @@
     async function persistReadingPosition() {
       if (!CURRENT_BOOK) return;
       const ch = CURRENT_BOOK.chapters[CURRENT_CH];
-      const chapterNum = ch.number || (CURRENT_CH + 1);
+      const chapterNum = chapterNumberFromTitle(ch);
       try {
         await fetch("/api/reading_position", {
           method: "POST",
@@ -638,7 +693,7 @@
       });
 
       // Update spoiler boundary in chat
-      const chapterNum = ch.number || (CURRENT_CH + 1);
+      const chapterNum = chapterNumberFromTitle(ch);
       document.getElementById("boundary-label").textContent = `Spoiler boundary: chapter ${chapterNum}`;
       // Scroll page to top
       pc.scrollTop = 0;
@@ -759,7 +814,7 @@
       if (!question) return;
 
       const ch = CURRENT_BOOK.chapters[CURRENT_CH];
-      const chapterNum = ch.number || (CURRENT_CH + 1);
+      const chapterNum = chapterNumberFromTitle(ch);
 
       addMessage("user", question);
       input.value = "";

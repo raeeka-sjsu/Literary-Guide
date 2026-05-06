@@ -45,22 +45,41 @@ Rules:
 - Output ONLY a JSON object with shape:
   {"reasoning": "<one short sentence>", "steps": [{"tool": "<name>", "args": {...}}, ...]}
 - 1 to 3 steps. More than 3 is wasteful.
-- For thematic / symbolic / "what does X reveal" questions: usually 1 retrieve_passages step.
-- For questions centered on a specific character: lookup_character + retrieve_passages.
-- For questions about an entire chapter's mood / structure: summarize_chapter + retrieve_passages.
+- For "main characters" / "who's in the book" / "list characters": ALWAYS use
+  list_known_characters as the FIRST step. It's a structured spoiler-safe lookup.
+- For "who is X" / "tell me about X" / "what is X like": use get_character_profile
+  first; optionally follow with lookup_character for representative quotes.
+- For thematic / symbolic / "what does X reveal" questions: retrieve_passages,
+  optionally + retrieve_expert_analysis for interpretive questions.
+- For questions about an entire chapter's mood / structure: summarize_chapter
+  + retrieve_passages.
 - DO NOT include book_id or chapter_limit in args — those are filled automatically.
 - DO NOT request information from chapters beyond the reader's current chapter.
 
 Examples:
 
+Q: "Who are the main characters so far?"
+{"reasoning": "Main-characters question — use the structured character index.",
+ "steps": [{"tool":"list_known_characters","args":{"top_k":8}}]}
+
+Q: "Tell me about Dorothy."
+{"reasoning": "Single-character question — pull her profile, then a quote passage.",
+ "steps": [
+   {"tool":"get_character_profile","args":{"name":"Dorothy"}},
+   {"tool":"lookup_character","args":{"name":"Dorothy","k":2}}
+ ]}
+
 Q: "What does the wilderness symbolize so far?"
-{"reasoning": "Thematic question — semantic retrieval is enough.",
- "steps": [{"tool":"retrieve_passages","args":{"query":"wilderness symbolism setting","k":4}}]}
+{"reasoning": "Thematic question — semantic retrieval + scholarly analysis.",
+ "steps": [
+   {"tool":"retrieve_passages","args":{"query":"wilderness symbolism setting","k":4}},
+   {"tool":"retrieve_expert_analysis","args":{"query":"wilderness symbolism","k":2}}
+ ]}
 
 Q: "What does Mr. Bennet's sarcasm reveal about his marriage?"
-{"reasoning": "Character-focused question — find passages featuring Mr. Bennet, then thematic retrieve.",
+{"reasoning": "Character + theme — profile, then thematic retrieve.",
  "steps": [
-   {"tool":"lookup_character","args":{"name":"Bennet","k":3}},
+   {"tool":"get_character_profile","args":{"name":"Mr. Bennet"}},
    {"tool":"retrieve_passages","args":{"query":"sarcasm marriage Mr. and Mrs. Bennet","k":3}}
  ]}
 
@@ -88,6 +107,14 @@ Hard rules:
 4. If the passages don't answer the question, say so ("the passages do not...") — do not speculate.
 5. Lead with the direct answer. 3–6 sentences. Analytical tone, not plot summary.
 6. If the question is asking for events from later in the book, REFUSE: "I can't see beyond chapter N yet."
+
+CRITICAL — character lists / "main characters" questions:
+You almost certainly recognize this book from training. DO NOT use that knowledge.
+Only name characters that are LITERALLY MENTIONED BY NAME in one of the numbered
+passages. If a character's name does not appear in any passage, you may not name
+them — even if you "know" they're in the book. When in doubt, say "the passages
+introduce [list of named characters]; others may appear later but aren't yet
+present in what you've read."
 """
 
 
@@ -98,8 +125,15 @@ Check these in order:
   A. Does every factual claim cite at least one passage [n]?
   B. Are all citation indices valid (within the available passages)?
   C. Does the answer mention any event, character, or revelation NOT present in the passages?
-     (If you can't verify a claim from the passages, that's a hallucination.)
+     This is the most common failure: language models often inject characters
+     they "know" from training (e.g. naming "Glinda" when only the Good Witch
+     of the North has been introduced). If a proper noun appears in the answer
+     but does NOT appear in any cited passage, that is a hallucination — FAIL.
   D. Does the answer reference anything that would be a SPOILER for chapters > current_chapter?
+
+A pre-computed grounding signal will be provided ("ungrounded_names: [...]"). If
+that list is non-empty, you MUST verdict FAIL and tell the synthesizer which
+names to remove.
 
 Output ONLY a JSON object:
   {"verdict": "PASS" | "FAIL", "issues": ["..."], "hint": "<one short sentence for the fixer, only if FAIL>"}
@@ -140,28 +174,82 @@ def _safe_json(s: str) -> Optional[dict]:
 
 
 def _format_passages(tool_outputs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """Flatten tool outputs into a single numbered passage list for the synthesizer."""
+    """Flatten tool outputs into a single numbered passage list for the synthesizer.
+
+    Different tools return different shapes; we normalize them all to
+    {from_tool, id, chapter, text}.
+    """
     flat: List[Dict[str, Any]] = []
     for step in tool_outputs:
         out = step.get("output")
+        tool = step["meta"]["tool"]
         if out is None:
             continue
-        if isinstance(out, list):
+
+        if tool == "list_known_characters" and isinstance(out, list):
+            for item in out:
+                aliases = ", ".join(item.get("aliases") or [])
+                aliases_part = f" (also called {aliases})" if aliases else ""
+                snippet = item.get("intro_snippet") or ""
+                text = (
+                    f"Character: {item.get('name')}{aliases_part}\n"
+                    f"  First appears in chapter {item.get('first_chapter')}, "
+                    f"mentioned {item.get('mentions_so_far')} times so far.\n"
+                    f"  Introduction: \"{snippet}\""
+                )
+                flat.append({
+                    "from_tool": tool,
+                    "id": f"char:{item.get('name')}",
+                    "chapter": item.get("first_chapter"),
+                    "text": text,
+                })
+
+        elif tool == "get_character_profile" and isinstance(out, dict):
+            aliases = ", ".join(out.get("aliases") or [])
+            aliases_part = f" (also called {aliases})" if aliases else ""
+            timeline = out.get("chapter_timeline") or []
+            timeline_str = ", ".join(f"ch{t['chapter']} ×{t['mentions']}" for t in timeline)
+            snippets = out.get("snippets") or []
+            snip_lines = "\n".join(
+                f'    chapter {s["chapter"]}: "{s.get("snippet") or ""}"'
+                for s in snippets if s.get("snippet")
+            )
+            co = out.get("co_occurs_with") or []
+            co_str = ", ".join(f"{c['name']} ({c['shared_chapters']} chapters together)" for c in co)
+            text = (
+                f"Character profile: {out.get('name')}{aliases_part}\n"
+                f"  First appears in chapter {out.get('first_chapter')}, "
+                f"mentioned {out.get('total_mentions_so_far')} times so far.\n"
+                f"  Timeline: {timeline_str}\n"
+                f"  Often appears with: {co_str}\n"
+                f"  Sample passages:\n{snip_lines}"
+            )
+            flat.append({
+                "from_tool": tool,
+                "id": f"profile:{out.get('name')}",
+                "chapter": out.get("first_chapter"),
+                "text": text,
+            })
+
+        elif isinstance(out, list):
+            # retrieve_passages, lookup_character, retrieve_expert_analysis
             for item in out:
                 flat.append({
-                    "from_tool": step["meta"]["tool"],
+                    "from_tool": tool,
                     "id": item.get("id"),
                     "chapter": item.get("chapter"),
                     "text": item.get("text") or "",
                 })
+
         elif isinstance(out, dict):
-            # summarize_chapter returns a single dict
+            # summarize_chapter
             flat.append({
-                "from_tool": step["meta"]["tool"],
+                "from_tool": tool,
                 "id": f"chapter-{out.get('chapter')}",
                 "chapter": out.get("chapter"),
                 "text": out.get("text") or "",
             })
+
     # De-dupe by id, preserving order
     seen = set()
     deduped = []
@@ -299,16 +387,37 @@ def run_agent(
     step("synthesizer", status="done", latency_ms=timings["synthesizer_ms"])
 
     # ---- 4. Critic ----
+    # Pre-compute deterministic grounding signal — pass to critic AND apply hard rule
+    from safety import grounded_names  # local import to avoid circulars
+    chunks_for_grounding = [{"document": p["text"]} for p in passages]
+    grounded_list, ungrounded_list = grounded_names(answer, chunks_for_grounding)
+
     t0 = time.time()
     step("critic", status="running")
     critic_user = (
         f"Current chapter: {current_chapter}\nQuestion: {question}\n"
         f"Available passage indices: 1..{len(passages)}\n\n"
+        f"Pre-computed grounding signal:\n"
+        f"  grounded_names: {grounded_list}\n"
+        f"  ungrounded_names: {ungrounded_list}\n\n"
         f"Draft answer:\n{answer}\n\n"
         f"Passages:\n{_format_passages_block(passages)}"
     )
     critic_raw = llm_call(CRITIC_SYSTEM, critic_user)
     verdict = _safe_json(critic_raw) or {"verdict": "PASS", "issues": ["critic_unparseable"]}
+
+    # HARD RULE: if our deterministic grounding check found ungrounded names,
+    # override critic verdict to FAIL — don't trust the LLM to enforce this.
+    if ungrounded_list:
+        verdict["verdict"] = "FAIL"
+        existing = verdict.get("issues") or []
+        existing.append(f"ungrounded_names:{ungrounded_list}")
+        verdict["issues"] = existing
+        verdict["hint"] = (
+            f"The answer mentions {ungrounded_list} but those names do NOT appear in any cited "
+            "passage. Rewrite to remove them. Only name characters explicitly in the passages."
+        )
+
     timings["critic_ms"] = int((time.time() - t0) * 1000)
     step("critic", status="done", verdict=verdict.get("verdict"), latency_ms=timings["critic_ms"])
 

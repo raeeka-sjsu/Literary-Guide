@@ -1,0 +1,3282 @@
+[
+  {
+    "canonical_name": "Heathcliff",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 222,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "Heathcliff and I are such a suitable"
+      },
+      "2": {
+        "mentions": 12,
+        "snippet": "Heathcliff, the door"
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "Heathcliff; she richly deserves it."
+      },
+      "4": {
+        "mentions": 4,
+        "snippet": "Heathcliff, is his widow?"
+      },
+      "5": {
+        "mentions": 6,
+        "snippet": "the notion that, because he liked Heathcliff, all hated, and longed to"
+      },
+      "6": {
+        "mentions": 9,
+        "snippet": "Heathcliff, were enough to rouse in him all his old hatred of the boy."
+      },
+      "8": {
+        "mentions": 12,
+        "snippet": "Catherine and Heathcliff."
+      },
+      "9": {
+        "mentions": 27,
+        "snippet": "purpose of signing to Heathcliff, whose step I recognised, not to come"
+      },
+      "10": {
+        "mentions": 9,
+        "snippet": "Heathcliff has just honoured me with a call."
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "Heathcliff."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "Heathcliff."
+      },
+      "13": {
+        "mentions": 5,
+        "snippet": "Heathcliff a man?"
+      },
+      "14": {
+        "mentions": 5,
+        "snippet": "Heathcliff sat at a table, turning over some papers in his"
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "Heathcliff was about the place;"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Heathcliff."
+      },
+      "17": {
+        "mentions": 8,
+        "snippet": "Heathcliff."
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "Heathcliff did not exist for her: she was a perfect"
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "Heathcliff\u2019s servant Joseph was at the door, and"
+      },
+      "20": {
+        "mentions": 5,
+        "snippet": "Heathcliff, who wished to see"
+      },
+      "21": {
+        "mentions": 11,
+        "snippet": "Heathcliff seemed to"
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "Heathcliff,\u201d answered Catherine."
+      },
+      "23": {
+        "mentions": 8,
+        "snippet": "Heathcliff were really absent: because I put slight faith in his own"
+      },
+      "24": {
+        "mentions": 4,
+        "snippet": "your cousin as much as Master Heathcliff, you would have felt how"
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "Heathcliff objected to his calling at the"
+      },
+      "26": {
+        "mentions": 4,
+        "snippet": "Heathcliff, you are not fit for enjoying a ramble this morning."
+      },
+      "27": {
+        "mentions": 8,
+        "snippet": "Master Heathcliff received us with greater animation on this occasion:"
+      },
+      "28": {
+        "mentions": 6,
+        "snippet": "\u201cMaster Heathcliff,\u201d I resumed, \u201chave you forgotten all Catherine\u2019s"
+      },
+      "29": {
+        "mentions": 3,
+        "snippet": "Heathcliff, _you_ have _nobody_ to love you;"
+      },
+      "30": {
+        "mentions": 10,
+        "snippet": "Heathcliff told her to follow her own business, and let his"
+      },
+      "31": {
+        "mentions": 8,
+        "snippet": "Heathcliff were at home?"
+      },
+      "32": {
+        "mentions": 7,
+        "snippet": "Heathcliff\u2019s dwelling."
+      },
+      "33": {
+        "mentions": 10,
+        "snippet": "Heathcliff."
+      },
+      "34": {
+        "mentions": 12,
+        "snippet": "Heathcliff shunned meeting us at"
+      }
+    },
+    "co_occurs_with": {
+      "Mr. Heathcliff": 29,
+      "Wuthering Heights": 25,
+      "Linton": 24,
+      "Catherine": 22,
+      "Joseph": 21,
+      "Mr. Linton": 20,
+      "Thrushcross Grange": 18,
+      "Miss Cathy": 18
+    }
+  },
+  {
+    "canonical_name": "Linton",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 142,
+    "per_chapter": {
+      "4": {
+        "mentions": 2,
+        "snippet": "Linton\u2019s nephew."
+      },
+      "6": {
+        "mentions": 7,
+        "snippet": "Linton were not there; Edgar and his sister"
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "Linton begged that"
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "Linton."
+      },
+      "10": {
+        "mentions": 23,
+        "snippet": "Linton; and even to his"
+      },
+      "11": {
+        "mentions": 18,
+        "snippet": "Linton\u2019s pleasure."
+      },
+      "12": {
+        "mentions": 23,
+        "snippet": "While Miss Linton moped about the park and garden, always silent, and"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "Linton encountered and conquered the worst shock of what was"
+      },
+      "14": {
+        "mentions": 6,
+        "snippet": "Linton\u2019s situation, and her"
+      },
+      "15": {
+        "mentions": 7,
+        "snippet": "Linton sat in a loose white dress, with a light shawl over her"
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "Linton\u2019s, when he so regretted Catherine\u2019s"
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "Linton say if he heard you?"
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "Linton\u2019s dust."
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "Linton, addressing his daughter, as they"
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "Linton"
+      },
+      "21": {
+        "mentions": 7,
+        "snippet": "Linton had given her leave,"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "Linton and his daughter would frequently walk out among"
+      },
+      "23": {
+        "mentions": 4,
+        "snippet": "\u201cIs that you, Miss Linton?"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "Linton was alarmed and distressed, more than he would acknowledge to"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "Linton must allow an interview soon, or he should fear he was purposely"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "\u201cThen Master Linton has forgot the first injunction of his uncle,\u201d I"
+      },
+      "27": {
+        "mentions": 6,
+        "snippet": "Is he pretty lively with Miss Linton generally?"
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "Linton\u2019s"
+      },
+      "29": {
+        "mentions": 3,
+        "snippet": "Linton, and the graceful one of her husband."
+      },
+      "30": {
+        "mentions": 2,
+        "snippet": "Linton was \u201cthrang,\u201d and the"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 24,
+      "Mr. Heathcliff": 22,
+      "Mr. Linton": 20,
+      "Wuthering Heights": 20,
+      "Catherine": 18,
+      "Miss Cathy": 16,
+      "Mrs. Linton": 16,
+      "Thrushcross Grange": 15
+    }
+  },
+  {
+    "canonical_name": "Joseph",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 133,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "causeway, calling, as we entered the court,\u2014\u201cJoseph, take Mr."
+      },
+      "2": {
+        "mentions": 8,
+        "snippet": "Vinegar-faced Joseph projected his head from a round window of the"
+      },
+      "3": {
+        "mentions": 10,
+        "snippet": "Joseph,\u2014rudely, yet powerfully sketched."
+      },
+      "5": {
+        "mentions": 6,
+        "snippet": "two people\u2014Miss Cathy, and Joseph, the servant: you saw him, I daresay,"
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "Joseph and me we must thenceforth quarter ourselves in the"
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "singing carols, all alone; regardless of Joseph\u2019s affirmations that he"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "tyrannical and evil conduct long: Joseph and I were the only two that"
+      },
+      "9": {
+        "mentions": 12,
+        "snippet": "\u201cJoseph is here,\u201d I answered, catching opportunely the roll of his"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "resided there still; and Joseph told Hindley, who came out and fell to"
+      },
+      "13": {
+        "mentions": 8,
+        "snippet": "of the farmhouse, and your old fellow-servant, Joseph, issued out to"
+      },
+      "17": {
+        "mentions": 11,
+        "snippet": "\u201cI recovered spirits sufficient to hear Joseph\u2019s eternal lectures"
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "\u201cNo, no,\u201d she replied: \u201cboth he and Joseph are off, and I think they"
+      },
+      "19": {
+        "mentions": 6,
+        "snippet": "Heathcliff\u2019s servant Joseph was at the door, and"
+      },
+      "20": {
+        "mentions": 7,
+        "snippet": "Joseph stood by his master\u2019s chair"
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "he must have a fire in the middle of summer; and Joseph\u2019s bacca-pipe is"
+      },
+      "23": {
+        "mentions": 4,
+        "snippet": "Joseph seemed sitting in a sort of elysium alone, beside a roaring"
+      },
+      "24": {
+        "mentions": 4,
+        "snippet": "that, as Joseph was out at a prayer-meeting and Hareton Earnshaw was"
+      },
+      "30": {
+        "mentions": 7,
+        "snippet": "left: Joseph held the door in his hand when I called to ask after her,"
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "through Joseph\u2019s store of theology, to his great irritation; and once,"
+      },
+      "32": {
+        "mentions": 6,
+        "snippet": "She hastened to fetch it before I could refuse, and I heard Joseph"
+      },
+      "33": {
+        "mentions": 5,
+        "snippet": "brief half-hour; the black-currant trees were the apple of Joseph\u2019s"
+      },
+      "34": {
+        "mentions": 10,
+        "snippet": "influence of Joseph\u2019s complaints."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 21,
+      "Mr. Heathcliff": 17,
+      "Wuthering Heights": 17,
+      "Catherine": 17,
+      "Thrushcross Grange": 13,
+      "Earnshaw": 13,
+      "Miss Cathy": 13,
+      "Linton": 13
+    }
+  },
+  {
+    "canonical_name": "Mr. Heathcliff",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 130,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "misanthropist\u2019s Heaven\u2014and Mr."
+      },
+      "2": {
+        "mentions": 4,
+        "snippet": "of such complete exile from the world as you spend, Mr."
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "Mr."
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "I did wish Mr."
+      },
+      "10": {
+        "mentions": 9,
+        "snippet": "Mr."
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "\u201cI asked if he liked Mr."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "I should wink at Mr."
+      },
+      "13": {
+        "mentions": 5,
+        "snippet": "The second question I have great interest in; it is this\u2014Is Mr."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "Mr."
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "knew, as well as if I saw him, that Mr."
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "chief motive was seeing Mr."
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "had it not been for Mr."
+      },
+      "18": {
+        "mentions": 5,
+        "snippet": "Heights and Mr."
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "informed me that Mr."
+      },
+      "20": {
+        "mentions": 5,
+        "snippet": "to spend some time with his father, Mr."
+      },
+      "21": {
+        "mentions": 10,
+        "snippet": "She said Mr."
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "\u201cI sha\u2019n\u2019t speak to you, Mr."
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "entered the farm-house by the kitchen way, to ascertain whether Mr."
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "meeting: let us say good-bye; and tell Mr."
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "answer, intimating that Mr."
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "come to give Mr."
+      },
+      "27": {
+        "mentions": 7,
+        "snippet": "hearing a rustle among the ling, I looked up and saw Mr."
+      },
+      "28": {
+        "mentions": 4,
+        "snippet": "\u201cIs Mr."
+      },
+      "29": {
+        "mentions": 3,
+        "snippet": "Mr."
+      },
+      "30": {
+        "mentions": 7,
+        "snippet": "young lady asked some aid of her when she first came; but Mr."
+      },
+      "31": {
+        "mentions": 6,
+        "snippet": "I asked if Mr."
+      },
+      "32": {
+        "mentions": 5,
+        "snippet": "branching off to Mr."
+      },
+      "33": {
+        "mentions": 10,
+        "snippet": "We always ate our meals with Mr."
+      },
+      "34": {
+        "mentions": 12,
+        "snippet": "For some days after that evening, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 29,
+      "Wuthering Heights": 23,
+      "Linton": 22,
+      "Mr. Linton": 18,
+      "Catherine": 18,
+      "Joseph": 17,
+      "Thrushcross Grange": 16,
+      "Mrs. Dean": 15
+    }
+  },
+  {
+    "canonical_name": "Catherine",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 127,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "Heathcliff and Catherine: always minding to flatter Earnshaw\u2019s weakness"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "\u201cWhere is Miss Catherine?"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "Ellen, help Miss Catherine off with her things\u2014Stay,"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "\u201cI\u2019m sorry for it, Miss Catherine,\u201d was my response; and I proceeded"
+      },
+      "9": {
+        "mentions": 7,
+        "snippet": "\u201cReally, Miss Catherine, how can I know?"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "I got Miss Catherine and myself to Thrushcross Grange; and, to my"
+      },
+      "11": {
+        "mentions": 12,
+        "snippet": "\u201d said Catherine\u2019s voice at my elbow: I had been"
+      },
+      "13": {
+        "mentions": 8,
+        "snippet": "limits in gratitude and joy when Catherine\u2019s life was declared out of"
+      },
+      "17": {
+        "mentions": 16,
+        "snippet": "down opposite me, and put poor Catherine\u2019s baby away: I don\u2019t like to"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Catherine measured her age by months, and, \u201cNow, am I old enough to go"
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "Catherine ran wild with joy at the idea of welcoming"
+      },
+      "21": {
+        "mentions": 5,
+        "snippet": "No, come here, Miss Catherine, now and then: not every"
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "In summer Miss Catherine delighted to climb along these"
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "husband, Miss Catherine."
+      },
+      "24": {
+        "mentions": 5,
+        "snippet": "\u201cMy dear Miss Catherine,\u201d I began, too vividly impressed by her recent"
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "Miss Catherine had the misfortune to marry him, he would not be beyond"
+      },
+      "26": {
+        "mentions": 10,
+        "snippet": "assent to their entreaties, and Catherine and I set out on our first"
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "\u201cWhere is Miss Catherine?"
+      },
+      "29": {
+        "mentions": 8,
+        "snippet": "We had just agreed the best destiny which could await Catherine would"
+      },
+      "30": {
+        "mentions": 9,
+        "snippet": "Catherine haughty, and does not like her, I can guess by her talk."
+      },
+      "31": {
+        "mentions": 11,
+        "snippet": "We entered together; Catherine was there, making herself useful in"
+      },
+      "32": {
+        "mentions": 12,
+        "snippet": "us, she said; and I obeyed joyfully, for Catherine\u2019s sake."
+      },
+      "34": {
+        "mentions": 5,
+        "snippet": "breakfast, Catherine insisted on my bringing a chair and sitting with"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 22,
+      "Linton": 18,
+      "Mr. Heathcliff": 18,
+      "Joseph": 17,
+      "Wuthering Heights": 16,
+      "Miss Cathy": 14,
+      "Mr. Linton": 14,
+      "Hareton": 14
+    }
+  },
+  {
+    "canonical_name": "Miss Cathy",
+    "aliases": [
+      "Cathy"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 117,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "Miss"
+      },
+      "4": {
+        "mentions": 11,
+        "snippet": "\u201cVery old, sir; and Hareton is the last of them, as our Miss Cathy is"
+      },
+      "5": {
+        "mentions": 5,
+        "snippet": "two people\u2014Miss Cathy, and Joseph, the servant: you saw him, I daresay,"
+      },
+      "6": {
+        "mentions": 7,
+        "snippet": "Heathcliff bore his degradation pretty well at first, because Cathy"
+      },
+      "7": {
+        "mentions": 5,
+        "snippet": "And he would have broken from the circle, but Miss Cathy seized him"
+      },
+      "8": {
+        "mentions": 5,
+        "snippet": "decent came near us, at last; unless Edgar Linton\u2019s visits to Miss"
+      },
+      "9": {
+        "mentions": 6,
+        "snippet": "when Miss Cathy, who had listened to the hubbub from her room, put her"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "your marriage, Cathy, not long since; and, while waiting in the yard"
+      },
+      "13": {
+        "mentions": 5,
+        "snippet": "\u201cWeel done, Miss Cathy!"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201cOh, Cathy!"
+      },
+      "18": {
+        "mentions": 18,
+        "snippet": "\u201cNo, Miss Cathy,\u201d I would answer; \u201cit is hills again, just like these."
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "Miss Cathy shrieked and stretched out her"
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "Hareton Earnshaw\u2014that is, Miss Cathy\u2019s other cousin, and so"
+      },
+      "21": {
+        "mentions": 26,
+        "snippet": "Time wore on at the Grange in its former pleasant way till Miss Cathy"
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "Miss Cathy, I\u2019ll knock the lock off with a stone: you won\u2019t"
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "I hope you are satisfied, Miss"
+      },
+      "25": {
+        "mentions": 3,
+        "snippet": "happy with my little Cathy: through winter nights and summer days she"
+      },
+      "26": {
+        "mentions": 6,
+        "snippet": "\u201cThere you differ with me, Miss Cathy,\u201d I remarked; \u201cI should"
+      },
+      "27": {
+        "mentions": 3,
+        "snippet": "resemblance to yourself: and then, I hope, Miss Cathy will think twice"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 18,
+      "Linton": 16,
+      "Mr. Heathcliff": 14,
+      "Wuthering Heights": 14,
+      "Catherine": 14,
+      "Joseph": 13,
+      "Mr. Linton": 13,
+      "Thrushcross Grange": 11
+    }
+  },
+  {
+    "canonical_name": "Hareton",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 93,
+    "per_chapter": {
+      "8": {
+        "mentions": 4,
+        "snippet": "As the girl had anticipated, the child Hareton fell wholly into my"
+      },
+      "9": {
+        "mentions": 16,
+        "snippet": "Hareton was"
+      },
+      "11": {
+        "mentions": 4,
+        "snippet": "Further reflection suggested this must be Hareton, _my_ Hareton,"
+      },
+      "13": {
+        "mentions": 7,
+        "snippet": "\u201cShall you and I be friends, Hareton?"
+      },
+      "17": {
+        "mentions": 9,
+        "snippet": "cry at anything Joseph could say; but he and Hareton are detestable"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Hareton, there, be not the master\u2019s son, he\u2019s your"
+      },
+      "20": {
+        "mentions": 6,
+        "snippet": "Hareton Earnshaw\u2014that is, Miss Cathy\u2019s other cousin, and so"
+      },
+      "21": {
+        "mentions": 16,
+        "snippet": "if Hareton, for pity, comes to amuse him\u2014Hareton is not bad-natured,"
+      },
+      "23": {
+        "mentions": 4,
+        "snippet": "The housekeeper and Hareton were invisible; one"
+      },
+      "27": {
+        "mentions": 4,
+        "snippet": "Hareton is gone with some cattle to the Lees, and Zillah and Joseph are"
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "Hareton,"
+      },
+      "29": {
+        "mentions": 3,
+        "snippet": "I sent Hareton out, and we had the room"
+      },
+      "30": {
+        "mentions": 4,
+        "snippet": "Hareton; and happen"
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "Hareton is desirous of increasing his amount of knowledge,\u201d I"
+      },
+      "32": {
+        "mentions": 2,
+        "snippet": "Hareton will ask the master to send you upstairs, if you don\u2019t"
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "Hareton, I wonder you should have no more"
+      },
+      "34": {
+        "mentions": 10,
+        "snippet": "meals; yet he would not consent formally to exclude Hareton and Cathy."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 17,
+      "Mr. Heathcliff": 15,
+      "Catherine": 14,
+      "Joseph": 13,
+      "Wuthering Heights": 13,
+      "Linton": 12,
+      "Thrushcross Grange": 11,
+      "Mrs. Dean": 10
+    }
+  },
+  {
+    "canonical_name": "Mrs. Dean",
+    "aliases": [
+      "Dean"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 74,
+    "per_chapter": {
+      "4": {
+        "mentions": 8,
+        "snippet": "establishment, I desired Mrs."
+      },
+      "7": {
+        "mentions": 8,
+        "snippet": "\u201cSit still, Mrs."
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "Mrs."
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "Why not have up Mrs."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "I\u2019ll extract wholesome medicines from Mrs."
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "I declined answering Mrs."
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "The twelve years, continued Mrs."
+      },
+      "22": {
+        "mentions": 4,
+        "snippet": "\u201cWorthy Mrs."
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "\u201cThese things happened last winter, sir,\u201d said Mrs."
+      },
+      "27": {
+        "mentions": 4,
+        "snippet": "down; and that will make Mrs."
+      },
+      "28": {
+        "mentions": 4,
+        "snippet": "Mrs."
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "\u201cTake care you do no such thing, Mrs."
+      },
+      "30": {
+        "mentions": 8,
+        "snippet": "dare disobey him, Mrs."
+      },
+      "31": {
+        "mentions": 6,
+        "snippet": "\u201cShe does not seem so amiable,\u201d I thought, \u201cas Mrs."
+      },
+      "32": {
+        "mentions": 8,
+        "snippet": "\u201cIs Mrs."
+      },
+      "33": {
+        "mentions": 2,
+        "snippet": "Go with Mrs."
+      },
+      "34": {
+        "mentions": 4,
+        "snippet": "\u201cYes,\u201d answered Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 16,
+      "Mr. Heathcliff": 15,
+      "Wuthering Heights": 14,
+      "Linton": 12,
+      "Catherine": 12,
+      "Thrushcross Grange": 11,
+      "Hareton": 10,
+      "Joseph": 9
+    }
+  },
+  {
+    "canonical_name": "Nelly",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 69,
+    "per_chapter": {
+      "6": {
+        "mentions": 5,
+        "snippet": "\u201cLet me get off my wet clothes, and I\u2019ll tell you all about it, Nelly,\u201d"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "You\u2019re to nurse it, Nelly: to feed it with sugar"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "sneaking hither; and Miss Nelly, shoo\u2019s a fine lass!"
+      },
+      "10": {
+        "mentions": 9,
+        "snippet": "heard a voice behind me say,\u2014\u201cNelly, is that you?"
+      },
+      "11": {
+        "mentions": 8,
+        "snippet": "\u201cHareton, it\u2019s Nelly!"
+      },
+      "12": {
+        "mentions": 10,
+        "snippet": "Nelly, if"
+      },
+      "14": {
+        "mentions": 5,
+        "snippet": "doubt you have, Nelly), give it to her."
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201cOh, you see, Nelly, he would not relent a moment to keep me out of the"
+      },
+      "20": {
+        "mentions": 4,
+        "snippet": "\u201cHallo, Nelly!"
+      },
+      "21": {
+        "mentions": 4,
+        "snippet": "Come, Nelly, hold your tongue\u2014it will be a treat for her to look"
+      },
+      "27": {
+        "mentions": 3,
+        "snippet": "\u201cIt is something to see you so near to my house, Nelly."
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "the door sat my old friend Nelly Dean, sewing and singing a song; which"
+      },
+      "33": {
+        "mentions": 6,
+        "snippet": "I\u2019ll interfere in no quarrels between you and Nelly."
+      },
+      "34": {
+        "mentions": 5,
+        "snippet": "\u201cI\u2019ve neither cold nor fever, Nelly,\u201d he remarked, in allusion to my"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 14,
+      "Mr. Heathcliff": 11,
+      "Linton": 10,
+      "Thrushcross Grange": 10,
+      "Wuthering Heights": 10,
+      "Joseph": 9,
+      "Mr. Linton": 9,
+      "Hareton": 9
+    }
+  },
+  {
+    "canonical_name": "Earnshaw",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 61,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Earnshaw,\u201d she cried, \u201cI wonder what you\u2019ll have agait next?"
+      },
+      "4": {
+        "mentions": 7,
+        "snippet": "Earnshaw, the old master, came downstairs,"
+      },
+      "5": {
+        "mentions": 5,
+        "snippet": "Earnshaw began to fail."
+      },
+      "6": {
+        "mentions": 6,
+        "snippet": "Earnshaw by knocking."
+      },
+      "7": {
+        "mentions": 7,
+        "snippet": "Earnshaw watched anxiously their"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "Earnshaw; she seemed in flighty"
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "Earnshaw above."
+      },
+      "10": {
+        "mentions": 6,
+        "snippet": "Earnshaw?"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "Earnshaw"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Earnshaw was, of course, invited to attend the remains of his"
+      },
+      "17": {
+        "mentions": 6,
+        "snippet": "Earnshaw should have been at the funeral."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Earnshaw."
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "I believe the master would relish Earnshaw\u2019s thrashing him to a"
+      },
+      "30": {
+        "mentions": 5,
+        "snippet": "Then, while the master and Earnshaw were at breakfast, she"
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "invoked Earnshaw from among the garden-beds; he unchained it, and I"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 14,
+      "Joseph": 13,
+      "Mr. Earnshaw": 12,
+      "Wuthering Heights": 12,
+      "Catherine": 12,
+      "Linton": 11,
+      "Mrs. Linton": 11,
+      "Mr. Heathcliff": 10
+    }
+  },
+  {
+    "canonical_name": "Mrs. Linton",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 60,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "\u201cNo; he is the late Mrs."
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "and Mrs."
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "invitation had been accepted, on one condition: Mrs."
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "As soon as you become Mrs."
+      },
+      "10": {
+        "mentions": 15,
+        "snippet": "and Mrs."
+      },
+      "11": {
+        "mentions": 9,
+        "snippet": "Grange: even though I should wake a domestic storm, by thwarting Mrs."
+      },
+      "12": {
+        "mentions": 10,
+        "snippet": "Mrs."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "For two months the fugitives remained absent; in those two months, Mrs."
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "letter expressing her sorrow for Mrs."
+      },
+      "15": {
+        "mentions": 4,
+        "snippet": "Mrs."
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Mrs."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "I confess this blow was greater to me than the shock of Mrs."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Mrs."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "Mrs."
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "splendid head of Mrs."
+      },
+      "30": {
+        "mentions": 2,
+        "snippet": "He said Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Linton": 16,
+      "Heathcliff": 15,
+      "Wuthering Heights": 14,
+      "Mr. Heathcliff": 13,
+      "Mr. Linton": 13,
+      "Earnshaw": 11,
+      "Thrushcross Grange": 11,
+      "Catherine": 11
+    }
+  },
+  {
+    "canonical_name": "Mr. Linton",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 60,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "other on the father\u2019s side: Heathcliff married Mr."
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "Mr."
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "Mr."
+      },
+      "10": {
+        "mentions": 5,
+        "snippet": "She seemed almost over-fond of Mr."
+      },
+      "11": {
+        "mentions": 8,
+        "snippet": "\u201cAnd would Mr."
+      },
+      "12": {
+        "mentions": 10,
+        "snippet": "\u201cNeither,\u201d replied I; \u201cif you mean Mr."
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "by hoping that he would follow Mr."
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "Mr."
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "even in a love like Mr."
+      },
+      "17": {
+        "mentions": 4,
+        "snippet": "What would Mr."
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "Mr."
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "\u201cNow, darling,\u201d said Mr."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "To obviate the danger of this threat being fulfilled, Mr."
+      },
+      "21": {
+        "mentions": 5,
+        "snippet": "ramble on the edge of the moor with me: Mr."
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "Wuthering Heights again, with or without me, I shall inform Mr."
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "Mr."
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "held asunder from his friend and love; and gently intimated that Mr."
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "She wanted to run, breathless as she was, upstairs to Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 20,
+      "Linton": 20,
+      "Mr. Heathcliff": 18,
+      "Wuthering Heights": 16,
+      "Catherine": 14,
+      "Miss Cathy": 13,
+      "Mrs. Linton": 13,
+      "Thrushcross Grange": 13
+    }
+  },
+  {
+    "canonical_name": "Miss Catherine",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 54,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "\u201cWhere is Miss Catherine?"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "Ellen, help Miss Catherine off with her things\u2014Stay,"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "\u201cI\u2019m sorry for it, Miss Catherine,\u201d was my response; and I proceeded"
+      },
+      "9": {
+        "mentions": 13,
+        "snippet": "\u201cReally, Miss Catherine, how can I know?"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "I got Miss Catherine and myself to Thrushcross Grange; and, to my"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "But Miss"
+      },
+      "21": {
+        "mentions": 9,
+        "snippet": "No, come here, Miss Catherine, now and then: not every"
+      },
+      "22": {
+        "mentions": 4,
+        "snippet": "In summer Miss Catherine delighted to climb along these"
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "husband, Miss Catherine."
+      },
+      "24": {
+        "mentions": 9,
+        "snippet": "\u201cMy dear Miss Catherine,\u201d I began, too vividly impressed by her recent"
+      },
+      "25": {
+        "mentions": 3,
+        "snippet": "Miss Catherine had the misfortune to marry him, he would not be beyond"
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "\u201cWhere is Miss Catherine?"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 12,
+      "Heathcliff": 11,
+      "Linton": 11,
+      "Miss Cathy": 10,
+      "Mr. Linton": 10,
+      "Wuthering Heights": 10,
+      "Joseph": 9,
+      "Edgar": 8
+    }
+  },
+  {
+    "canonical_name": "Wuthering Heights",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 51,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "believe at Wuthering Heights the kitchen is forced to retreat"
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "Wuthering Heights."
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "every mile of the usual way from Wuthering Heights."
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "\u201cI see the house at Wuthering Heights has \u2018Earnshaw\u2019 carved over the"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "They had invited them to spend the morrow at Wuthering Heights, and the"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "When we got to Wuthering Heights, there he stood at the front door;"
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "middle of the heath on the top of Wuthering Heights; where I woke"
+      },
+      "10": {
+        "mentions": 5,
+        "snippet": "\u201cNo, to Wuthering Heights,\u201d he answered: \u201cMr."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "in my chamber at Wuthering Heights."
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "DEAR ELLEN, it begins,\u2014I came last night to Wuthering Heights, and"
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "may call at Wuthering Heights this afternoon, if you like, and say that"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "Wuthering Heights it always sounded on quiet days following a great"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Wuthering Heights: a puny, seven-months\u2019 child; and two hours after the"
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "\u201cI have run the whole way from Wuthering Heights!"
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "thither wound close by Wuthering Heights."
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "ever will that weakling live at Wuthering Heights?"
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "When I chanced to encounter the housekeeper of Wuthering Heights, in"
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "Wuthering Heights, by the side of my wilful young mistress\u2019s pony."
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "Wuthering Heights again, with or without me, I shall inform Mr."
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "\u201cI\u2019ve been to Wuthering Heights, Ellen, and I\u2019ve never missed going a"
+      },
+      "27": {
+        "mentions": 2,
+        "snippet": "\u201d whispered Catherine, \u201cI can\u2019t go to Wuthering Heights:"
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "\u201cDid she come to Wuthering Heights because she hated you?"
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "you\u2019ll need no ponies at Wuthering Heights; for what journeys you take,"
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "riding over to Wuthering Heights, to inform my landlord that I shall"
+      },
+      "32": {
+        "mentions": 2,
+        "snippet": "of Wuthering Heights is so large that the inmates have plenty of space"
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "Wuthering Heights, after her expedition to the Crags."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 25,
+      "Mr. Heathcliff": 23,
+      "Linton": 20,
+      "Joseph": 17,
+      "Mr. Linton": 16,
+      "Catherine": 16,
+      "Thrushcross Grange": 14,
+      "Miss Cathy": 14
+    }
+  },
+  {
+    "canonical_name": "Ellen",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 50,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "tables here, Ellen: one for your master and Miss Isabella, being"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "me; and you must call, Ellen, very soon."
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "\u201cNow, Ellen,\u201d she said, when my task was finished and she was seated in"
+      },
+      "18": {
+        "mentions": 7,
+        "snippet": "\u201cEllen, how long will it be before I can walk to the top of those"
+      },
+      "19": {
+        "mentions": 5,
+        "snippet": "Come, Ellen, let us run!"
+      },
+      "22": {
+        "mentions": 7,
+        "snippet": "melancholy, does it not, Ellen?"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "Next to papa and Ellen, I love you better than"
+      },
+      "24": {
+        "mentions": 12,
+        "snippet": "\u201cEllen, are not you tired?"
+      },
+      "32": {
+        "mentions": 4,
+        "snippet": "\u201cHe\u2019s just like a dog, is he not, Ellen?"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 9,
+      "Heathcliff": 9,
+      "Mr. Heathcliff": 9,
+      "Wuthering Heights": 9,
+      "Joseph": 8,
+      "Linton": 8,
+      "Mr. Linton": 8,
+      "Miss Cathy": 6
+    }
+  },
+  {
+    "canonical_name": "Mr. Lockwood",
+    "aliases": [
+      "Lockwood"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 38,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "\u201cMr."
+      },
+      "3": {
+        "mentions": 4,
+        "snippet": "\u201cOh, God confound you, Mr."
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "in general take to foreigners here, Mr."
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "But, Mr."
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "\u201cHe may have done a little in all these vocations, Mr."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "Well, Mr."
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "moralising, Mr."
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "He died blissfully, Mr."
+      },
+      "31": {
+        "mentions": 2,
+        "snippet": "\u201cI\u2019m glad to see you out of doors again, Mr."
+      },
+      "32": {
+        "mentions": 6,
+        "snippet": "\u201cWell, I\u2019m Mr."
+      },
+      "33": {
+        "mentions": 2,
+        "snippet": "You did not when you saw him, Mr."
+      },
+      "34": {
+        "mentions": 4,
+        "snippet": "Oh, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 11,
+      "Joseph": 10,
+      "Mr. Heathcliff": 10,
+      "Thrushcross Grange": 10,
+      "Wuthering Heights": 9,
+      "Catherine": 8,
+      "Mrs. Dean": 8,
+      "Linton": 6
+    }
+  },
+  {
+    "canonical_name": "Mr. Earnshaw",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 38,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "\u201cWell, Mr."
+      },
+      "4": {
+        "mentions": 4,
+        "snippet": "harvest, I remember\u2014Mr."
+      },
+      "5": {
+        "mentions": 5,
+        "snippet": "In the course of time Mr."
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "prevent them from waking Mr."
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cShake hands, Heathcliff,\u201d said Mr."
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "the figure of Mr."
+      },
+      "10": {
+        "mentions": 6,
+        "snippet": "\u201cMr."
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "Mr."
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Mr."
+      },
+      "17": {
+        "mentions": 6,
+        "snippet": "\u201cYesterday, you know, Mr."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "servant there since the death of Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Earnshaw": 12,
+      "Heathcliff": 11,
+      "Joseph": 10,
+      "Wuthering Heights": 10,
+      "Linton": 9,
+      "Miss Cathy": 9,
+      "Mrs. Linton": 9,
+      "Catherine": 9
+    }
+  },
+  {
+    "canonical_name": "Thrushcross Grange",
+    "aliases": [
+      "Grange"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 37,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "of Thrushcross Grange: I heard yesterday you had had some thoughts\u2014\u201d"
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "Thrushcross Grange, and preferred living in a situation and residence"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "What in the world led you wandering to Thrushcross Grange?"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "Cathy stayed at Thrushcross Grange five weeks: till Christmas."
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "on conveying her to Thrushcross Grange: for which deliverance we were"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "I got Miss Catherine and myself to Thrushcross Grange; and, to my"
+      },
+      "12": {
+        "mentions": 5,
+        "snippet": "convinced that the Grange had but one sensible soul in its walls, and"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "heart returned to Thrushcross Grange in twenty-four hours after I left"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "Grange I puzzled my brains how to put more heart into what he said,"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "go back with me to Thrushcross Grange, sir."
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "Heathcliff\u2019s place, and that is four from the Grange,"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "\u201cIs Wuthering Heights as pleasant a place as Thrushcross Grange?"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "Linton of Thrushcross Grange,\u201d she replied."
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "except at Thrushcross Grange."
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "hour, if I may go to Thrushcross Grange afterwards."
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "that must be done; but he would be at Thrushcross Grange before"
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "\u201cA letter from your old acquaintance, the housekeeper at the Grange,\u201d I"
+      },
+      "32": {
+        "mentions": 2,
+        "snippet": "A sudden impulse seized me to visit Thrushcross Grange."
+      },
+      "34": {
+        "mentions": 3,
+        "snippet": "I was going to the Grange one"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 18,
+      "Mr. Heathcliff": 16,
+      "Linton": 15,
+      "Wuthering Heights": 14,
+      "Joseph": 13,
+      "Mr. Linton": 13,
+      "Catherine": 13,
+      "Miss Cathy": 11
+    }
+  },
+  {
+    "canonical_name": "Edgar",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 34,
+    "per_chapter": {
+      "7": {
+        "mentions": 1,
+        "snippet": "Next time, Master Edgar,"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "Edgar seldom mustered courage to visit Wuthering Heights openly."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "Edgar?"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "Edgar had a"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "Edgar was taken with a nervous trembling, and his countenance grew"
+      },
+      "13": {
+        "mentions": 8,
+        "snippet": "more devotedly than Edgar tended her."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "Edgar\u2019s coldness depressed me exceedingly; and all the way from the"
+      },
+      "15": {
+        "mentions": 4,
+        "snippet": "\u201cYou and Edgar have broken my heart, Heathcliff!"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "Edgar, when a maid stepped out of the kitchen and"
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "Edgar and Cathy"
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "Edgar encouraged me to gain information: he"
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "Edgar had been worse than ordinary, a thing"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "Edgar\u2019s"
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "Edgar is not dead?"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 13,
+      "Linton": 13,
+      "Mr. Linton": 12,
+      "Wuthering Heights": 12,
+      "Catherine": 11,
+      "Mr. Edgar": 11,
+      "Mr. Heathcliff": 11,
+      "Miss Cathy": 10
+    }
+  },
+  {
+    "canonical_name": "Zillah",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 30,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "There is himself, Earnshaw, Zillah, Joseph and I."
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cIt was your servant Zillah,\u201d I replied, flinging myself on to the"
+      },
+      "24": {
+        "mentions": 6,
+        "snippet": "\u201cOn my second visit Linton seemed in lively spirits; and Zillah (that"
+      },
+      "27": {
+        "mentions": 3,
+        "snippet": "Hareton is gone with some cattle to the Lees, and Zillah and Joseph are"
+      },
+      "28": {
+        "mentions": 6,
+        "snippet": "It was Zillah; donned in her scarlet shawl, with a black silk"
+      },
+      "30": {
+        "mentions": 9,
+        "snippet": "Zillah has told me something of the way they go on,"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 6,
+      "Mr. Heathcliff": 6,
+      "Wuthering Heights": 6,
+      "Joseph": 4,
+      "Linton": 4,
+      "Hareton Earnshaw": 3,
+      "Mrs. Heathcliff": 3,
+      "Catherine": 3
+    }
+  },
+  {
+    "canonical_name": "Miss Linton",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 28,
+    "per_chapter": {
+      "10": {
+        "mentions": 5,
+        "snippet": "We had all remarked, during some time, that Miss Linton fretted and"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "bestowing a single unnecessary civility on Miss Linton, I knew."
+      },
+      "12": {
+        "mentions": 5,
+        "snippet": "While Miss Linton moped about the park and garden, always silent, and"
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "to send no more notes to Miss Linton, as she will not receive them."
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "\u201cHo, Miss Linton!"
+      },
+      "23": {
+        "mentions": 4,
+        "snippet": "\u201cIs that you, Miss Linton?"
+      },
+      "27": {
+        "mentions": 8,
+        "snippet": "Is he pretty lively with Miss Linton generally?"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 7,
+      "Linton": 7,
+      "Mr. Heathcliff": 7,
+      "Mr. Linton": 6,
+      "Wuthering Heights": 6,
+      "Catherine": 5,
+      "Isabella": 5,
+      "Miss Cathy": 5
+    }
+  },
+  {
+    "canonical_name": "Mrs. Heathcliff",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 25,
+    "per_chapter": {
+      "2": {
+        "mentions": 8,
+        "snippet": "\u201cI\u2019m afraid, Mrs."
+      },
+      "3": {
+        "mentions": 2,
+        "snippet": "urging flakes of flame up the chimney with a colossal bellows; and Mrs."
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "\u201cAnd that young lady, Mrs."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "Mrs."
+      },
+      "17": {
+        "mentions": 3,
+        "snippet": "The intruder was Mrs."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "I said Mrs."
+      },
+      "30": {
+        "mentions": 3,
+        "snippet": "Mrs."
+      },
+      "31": {
+        "mentions": 2,
+        "snippet": "\u201cMrs."
+      },
+      "32": {
+        "mentions": 2,
+        "snippet": "then it is with Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 9,
+      "Mr. Heathcliff": 9,
+      "Wuthering Heights": 8,
+      "Joseph": 7,
+      "Earnshaw": 6,
+      "Mrs. Dean": 6,
+      "Thrushcross Grange": 6,
+      "Mr. Lockwood": 5
+    }
+  },
+  {
+    "canonical_name": "Hindley",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 22,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "or thrice, Hindley\u2019s manifestation of scorn, while his father was near,"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "Hindley came home to the funeral; and\u2014a thing that amazed us, and"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "Hindley, enjoying his"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "Hindley: and now"
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "Hindley,\u201d I answered; \u201cit has"
+      },
+      "10": {
+        "mentions": 5,
+        "snippet": "my score with Hindley; and then prevent the law by doing execution on"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "Hindley."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "Hindley stands sentinel with"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 8,
+      "Earnshaw": 8,
+      "Joseph": 8,
+      "Mr. Earnshaw": 8,
+      "Heathcliff": 7,
+      "Miss Cathy": 7,
+      "Linton": 6,
+      "Mrs. Linton": 6
+    }
+  },
+  {
+    "canonical_name": "Isabella",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 22,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "Isabella\u2014I believe she is eleven, a year younger"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "tables here, Ellen: one for your master and Miss Isabella, being"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "This is not much connected with Miss Isabella\u2019s affair: except"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "than vision, Miss Isabella\u2019s springer, Fanny, suspended by a"
+      },
+      "14": {
+        "mentions": 6,
+        "snippet": "to console Isabella."
+      },
+      "17": {
+        "mentions": 4,
+        "snippet": "\u201d And here Isabella began"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "Aunt Isabella sent papa a beautiful lock of his hair; it"
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "\u201cBut Aunt Isabella was younger than papa,\u201d she remarked, gazing up with"
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "Isabella leave him as she did."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 9,
+      "Linton": 9,
+      "Mr. Linton": 9,
+      "Mr. Heathcliff": 8,
+      "Catherine": 7,
+      "Wuthering Heights": 7,
+      "Mrs. Linton": 6,
+      "Edgar": 5
+    }
+  },
+  {
+    "canonical_name": "Master Heathcliff",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 22,
+    "per_chapter": {
+      "21": {
+        "mentions": 2,
+        "snippet": "letter by a slip of paper, inscribed, \u201cMaster Heathcliff is requested"
+      },
+      "23": {
+        "mentions": 9,
+        "snippet": "\u201cIs your father attentive to you, Master Heathcliff?"
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "your cousin as much as Master Heathcliff, you would have felt how"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "I believe: no doctor visited the Heights, and no one saw Master"
+      },
+      "26": {
+        "mentions": 3,
+        "snippet": "feebly, and looked so pale, that I immediately exclaimed,\u2014\u201cWhy, Master"
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "Master Heathcliff received us with greater animation on this occasion:"
+      },
+      "28": {
+        "mentions": 4,
+        "snippet": "\u201cMaster Heathcliff,\u201d I resumed, \u201chave you forgotten all Catherine\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 7,
+      "Linton": 7,
+      "Mr. Heathcliff": 7,
+      "Catherine": 6,
+      "Miss Catherine": 5,
+      "Miss Cathy": 5,
+      "Mr. Linton": 5,
+      "Wuthering Heights": 5
+    }
+  },
+  {
+    "canonical_name": "Mr. Edgar",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 21,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "Mr."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "love Mr."
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "I observed that Mr."
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "safety she flung it into the hottest part of the fire; whereupon Mr."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "Mr."
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "candle for Mr."
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "assurances that his absence should be short: that Mr."
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "invariably was when Mr."
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "I listened at Mr."
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "\u201cMr."
+      }
+    },
+    "co_occurs_with": {
+      "Edgar": 11,
+      "Heathcliff": 11,
+      "Linton": 10,
+      "Mr. Linton": 10,
+      "Catherine": 9,
+      "Mr. Heathcliff": 9,
+      "Wuthering Heights": 9,
+      "Joseph": 7
+    }
+  },
+  {
+    "canonical_name": "Mr. Kenneth",
+    "aliases": [
+      "Kenneth"
+    ],
+    "first_chapter": 8,
+    "total_mentions": 18,
+    "per_chapter": {
+      "8": {
+        "mentions": 2,
+        "snippet": "must\u2014tell her Mr."
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "Mr."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "17": {
+        "mentions": 6,
+        "snippet": "Mr."
+      },
+      "34": {
+        "mentions": 4,
+        "snippet": "but I bid him fetch Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Edgar Linton": 5,
+      "Heathcliff": 5,
+      "Nelly": 4,
+      "Thrushcross Grange": 4,
+      "Wuthering Heights": 4,
+      "Catherine": 4,
+      "Hareton": 4,
+      "Joseph": 4
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 15,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cThere\u2019s a little cake for each of"
+      },
+      "15": {
+        "mentions": 4,
+        "snippet": "There was a man servant left to keep the house with me, and we"
+      },
+      "21": {
+        "mentions": 5,
+        "snippet": "There seldom passed much talk between them: Linton learnt his"
+      },
+      "34": {
+        "mentions": 3,
+        "snippet": "\u201cThere, that is"
+      }
+    },
+    "co_occurs_with": {
+      "Edgar": 3,
+      "Heathcliff": 3,
+      "Linton": 3,
+      "Miss Cathy": 3,
+      "Mr. Heathcliff": 3,
+      "Mrs. Linton": 3,
+      "Nelly": 3,
+      "Wuthering Heights": 3
+    }
+  },
+  {
+    "canonical_name": "Gimmerton",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 15,
+    "per_chapter": {
+      "10": {
+        "mentions": 6,
+        "snippet": "Go, and say some person from Gimmerton desires"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "journey, and a sad heart to travel it; and we must pass by Gimmerton"
+      },
+      "32": {
+        "mentions": 5,
+        "snippet": "within fifteen miles of Gimmerton."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 3,
+      "Mr. Heathcliff": 3,
+      "Nelly": 3,
+      "Thrushcross Grange": 3,
+      "Wuthering Heights": 3,
+      "Catherine": 2,
+      "Ellen": 2,
+      "Isabella": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Hindley",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 14,
+    "per_chapter": {
+      "6": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "\u201cHeathcliff, you may come forward,\u201d cried Mr."
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "I heard him tell Mr."
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "\u201cBut I don\u2019t like the carving-knife, Mr."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "spent its whelphood at the Grange, and was given by my father to Mr."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "\u2018Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 6,
+      "Earnshaw": 6,
+      "Hindley": 6,
+      "Joseph": 6,
+      "Mr. Earnshaw": 6,
+      "Heathcliff": 5,
+      "Linton": 5,
+      "Miss Cathy": 5
+    }
+  },
+  {
+    "canonical_name": "Edgar Linton",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 14,
+    "per_chapter": {
+      "6": {
+        "mentions": 1,
+        "snippet": "exchange, for a thousand lives, my condition here, for Edgar Linton\u2019s"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "\u201cIn other words, I must wish for Edgar Linton\u2019s great blue eyes and"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "decent came near us, at last; unless Edgar Linton\u2019s visits to Miss"
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "To-day, Edgar Linton has asked me to marry him, and I\u2019ve"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "you are come, are you, Edgar Linton?"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "valued Edgar Linton\u2019s attachment more than mine."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "return; and Edgar Linton, little interested at the commencement, spoke"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "but there was a sickly peevishness in his aspect that Edgar Linton"
+      },
+      "27": {
+        "mentions": 2,
+        "snippet": "rapid alteration of Edgar Linton\u2019s state."
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "the moor: the middle one grey, and half buried in heath; Edgar Linton\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 9,
+      "Linton": 8,
+      "Thrushcross Grange": 8,
+      "Wuthering Heights": 8,
+      "Nelly": 7,
+      "Catherine": 7,
+      "Joseph": 7,
+      "Mr. Heathcliff": 6
+    }
+  },
+  {
+    "canonical_name": "Catherine Linton",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 11,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cCatherine Linton,\u201d it replied, shiveringly (why did I think of"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "\u201cWhy, sir, she is my late master\u2019s daughter: Catherine Linton was her"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "\u201cIs that Catherine Linton?"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Catherine Linton is as different now from your old friend Catherine"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Retracing the course of Catherine Linton, I fear we have no right to"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "could see Catherine Linton and not love her."
+      },
+      "27": {
+        "mentions": 2,
+        "snippet": "\u201cNow, Catherine Linton,\u201d he said, \u201cstand off, or I shall knock you"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 7,
+      "Mr. Heathcliff": 7,
+      "Wuthering Heights": 6,
+      "Linton": 6,
+      "Mr. Linton": 5,
+      "Mrs. Dean": 5,
+      "Thrushcross Grange": 5,
+      "Miss Cathy": 4
+    }
+  },
+  {
+    "canonical_name": "Miss Isabella",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 10,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "tables here, Ellen: one for your master and Miss Isabella, being"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "This is not much connected with Miss Isabella\u2019s affair: except"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "than vision, Miss Isabella\u2019s springer, Fanny, suspended by a"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 3,
+      "Isabella": 3,
+      "Linton": 3,
+      "Miss Linton": 3,
+      "Mr. Heathcliff": 3,
+      "Mr. Linton": 3,
+      "Mrs. Linton": 3,
+      "Nelly": 3
+    }
+  },
+  {
+    "canonical_name": "Mr. Hareton",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 10,
+    "per_chapter": {
+      "18": {
+        "mentions": 1,
+        "snippet": "Though Mr."
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "Earnshaw, when I come in\u2014\u2018Eh, they\u2019s queer things, Mr."
+      },
+      "30": {
+        "mentions": 4,
+        "snippet": "\u201cyou happen think your young lady too fine for Mr."
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "\u201cMr."
+      },
+      "32": {
+        "mentions": 2,
+        "snippet": "\u201cMr."
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Hareton": 6,
+      "Heathcliff": 6,
+      "Mr. Heathcliff": 6,
+      "Mrs. Dean": 6,
+      "Catherine": 5,
+      "Joseph": 5,
+      "Wuthering Heights": 5,
+      "Mrs. Heathcliff": 4
+    }
+  },
+  {
+    "canonical_name": "Hareton Earnshaw",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "\u201cHareton Earnshaw."
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "\u201cMy name is Hareton Earnshaw,\u201d growled the other; \u201cand I\u2019d counsel you"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "Hareton Earnshaw was performing his orison _sotto voce_, in a series of"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "\u201cAnd who is that Earnshaw: Hareton Earnshaw, who lives with Mr."
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "that, as Joseph was out at a prayer-meeting and Hareton Earnshaw was"
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "I supposed I should be condemned in Hareton Earnshaw\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 6,
+      "Mr. Heathcliff": 6,
+      "Wuthering Heights": 6,
+      "Joseph": 5,
+      "Mrs. Heathcliff": 4,
+      "Mr. Lockwood": 3,
+      "Thrushcross Grange": 3,
+      "Zillah": 3
+    }
+  },
+  {
+    "canonical_name": "Mrs. Earnshaw",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 9,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "Mrs."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "and Mrs."
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "and Mrs."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "I delivered this message to Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Earnshaw": 4,
+      "Miss Cathy": 4,
+      "Mr. Earnshaw": 4,
+      "Heathcliff": 3,
+      "Linton": 3,
+      "Mrs. Dean": 3,
+      "Mrs. Linton": 3,
+      "Thrushcross Grange": 3
+    }
+  },
+  {
+    "canonical_name": "Master Linton",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 9,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cThey are long enough already,\u201d observed Master Linton, peeping from"
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "\u201cWhy, Master Linton,\u201d said I, \u201cthree hundred miles is a great distance;"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "\u201cThen Master Linton has forgot the first injunction of his uncle,\u201d I"
+      },
+      "27": {
+        "mentions": 2,
+        "snippet": "\u201cMaster Linton,\u201d I cried, seeing we were regularly imprisoned, \u201cyou"
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "\u201cWhy not let Catherine continue here,\u201d I pleaded, \u201cand send Master"
+      }
+    },
+    "co_occurs_with": {
+      "Linton": 5,
+      "Heathcliff": 4,
+      "Miss Cathy": 4,
+      "Mr. Heathcliff": 4,
+      "Hareton": 3,
+      "Thrushcross Grange": 3,
+      "Catherine": 3,
+      "Mrs. Dean": 3
+    }
+  },
+  {
+    "canonical_name": "Catherine Earnshaw",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 8,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "spelling over Catherine Earnshaw\u2014Heathcliff\u2014Linton, till my eyes"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "I did not marvel how Catherine Earnshaw"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "\u2018That\u2019s the grave of Catherine Earnshaw?"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "stiffens\u2014Catherine Earnshaw, may you not rest as long as I am living;"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "the habit of accusing Catherine Earnshaw and Heathcliff, when children,"
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "are those of Catherine Earnshaw."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 6,
+      "Wuthering Heights": 6,
+      "Mr. Heathcliff": 5,
+      "Joseph": 4,
+      "Miss Cathy": 4,
+      "Mrs. Dean": 4,
+      "Linton": 3,
+      "Mr. Linton": 3
+    }
+  },
+  {
+    "canonical_name": "Mr. Green",
+    "aliases": [
+      "Green"
+    ],
+    "first_chapter": 28,
+    "total_mentions": 8,
+    "per_chapter": {
+      "28": {
+        "mentions": 6,
+        "snippet": "He said Mr."
+      },
+      "34": {
+        "mentions": 2,
+        "snippet": "Well, never mind Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 2,
+      "Hareton": 2,
+      "Heathcliff": 2,
+      "Mr. Heathcliff": 2,
+      "Mr. Lockwood": 2,
+      "Mrs. Dean": 2,
+      "Thrushcross Grange": 2,
+      "Doctor Kenneth": 1
+    }
+  },
+  {
+    "canonical_name": "First",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 7,
+    "per_chapter": {
+      "3": {
+        "mentions": 7,
+        "snippet": "and the First of the Seventy-First."
+      }
+    },
+    "co_occurs_with": {
+      "Brooad Way": 1,
+      "Catherine Earnshaw": 1,
+      "Catherine Linton": 1,
+      "Gimmerden Sough": 1,
+      "Hareton Earnshaw": 1,
+      "Heathcliff": 1,
+      "Jabez Branderham": 1,
+      "Joseph": 1
+    }
+  },
+  {
+    "canonical_name": "Penistone Crags",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 7,
+    "per_chapter": {
+      "8": {
+        "mentions": 1,
+        "snippet": "\u201cJoseph is loading lime on the further side of Penistone Crags; it will"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Penistone Crags, and you are gathering elf-bolts to hurt our heifers;"
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "The abrupt descent of Penistone Crags particularly attracted her"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "farmhouse I visited in coming from Penistone Crags."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 4,
+      "Wuthering Heights": 4,
+      "Linton": 3,
+      "Mr. Heathcliff": 3,
+      "Mr. Linton": 3,
+      "Mrs. Linton": 3,
+      "Nelly": 3,
+      "Thrushcross Grange": 3
+    }
+  },
+  {
+    "canonical_name": "Let",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 6,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cLet me in\u2014let me in!"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "Let Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 2,
+      "Joseph": 2,
+      "Miss Cathy": 2,
+      "Mr. Heathcliff": 2,
+      "Mr. Lockwood": 2,
+      "Wuthering Heights": 2,
+      "Brooad Way": 1,
+      "Catherine Earnshaw": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Earnshaw",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 6,
+    "per_chapter": {
+      "6": {
+        "mentions": 6,
+        "snippet": "\u2018That\u2019s Miss Earnshaw!"
+      }
+    },
+    "co_occurs_with": {
+      "At Thrushcross Grange": 1,
+      "Catherine": 1,
+      "Earnshaw": 1,
+      "Edgar Linton": 1,
+      "Heathcliff": 1,
+      "Hindley": 1,
+      "Isabella": 1,
+      "Joseph": 1
+    }
+  },
+  {
+    "canonical_name": "Skulker",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 6,
+    "per_chapter": {
+      "6": {
+        "mentions": 6,
+        "snippet": "Skulker, keep fast!"
+      }
+    },
+    "co_occurs_with": {
+      "At Thrushcross Grange": 1,
+      "Catherine": 1,
+      "Earnshaw": 1,
+      "Edgar Linton": 1,
+      "Heathcliff": 1,
+      "Hindley": 1,
+      "Isabella": 1,
+      "Joseph": 1
+    }
+  },
+  {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 6,
+    "per_chapter": {
+      "12": {
+        "mentions": 3,
+        "snippet": "\u201cDon\u2019t _you_ see that face?"
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "Don\u2019t trouble him with questions"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 2,
+      "Linton": 2,
+      "Mr. Heathcliff": 2,
+      "Mr. Linton": 2,
+      "Nelly": 2,
+      "Thrushcross Grange": 2,
+      "Catherine Linton": 1,
+      "Edgar Linton": 1
+    }
+  },
+  {
+    "canonical_name": "Isabella Linton",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 5,
+    "per_chapter": {
+      "7": {
+        "mentions": 2,
+        "snippet": "But that\u2019s because I\u2019m used to Edgar and Isabella Linton."
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "Isabella Linton evincing a sudden and irresistible attraction towards"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "\u201cMy name _was_ Isabella Linton,\u201d I replied."
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 3,
+      "Earnshaw": 3,
+      "Edgar": 3,
+      "Hindley": 3,
+      "Joseph": 3,
+      "Linton": 3,
+      "Miss Cathy": 3,
+      "Mr. Earnshaw": 3
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 5,
+    "per_chapter": {
+      "7": {
+        "mentions": 5,
+        "snippet": "The"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 1,
+      "Earnshaw": 1,
+      "Edgar": 1,
+      "Edgar Linton": 1,
+      "Hindley": 1,
+      "Is Heathcliff": 1,
+      "Isabella Linton": 1,
+      "Joseph": 1
+    }
+  },
+  {
+    "canonical_name": "Have",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 5,
+    "per_chapter": {
+      "9": {
+        "mentions": 5,
+        "snippet": "Have mercy on"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 1,
+      "Earnshaw": 1,
+      "Edgar": 1,
+      "Edgar Linton": 1,
+      "Ellen Dean": 1,
+      "Gimmerton Chapel": 1,
+      "Hareton": 1,
+      "Heathcliff": 1
+    }
+  },
+  {
+    "canonical_name": "Aunt Isabella",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 5,
+    "per_chapter": {
+      "19": {
+        "mentions": 1,
+        "snippet": "Aunt Isabella sent papa a beautiful lock of his hair; it"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "\u201cBut Aunt Isabella was younger than papa,\u201d she remarked, gazing up with"
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "He must be wicked to have made Aunt"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 3,
+      "Ellen": 3,
+      "Heathcliff": 3,
+      "Isabella": 3,
+      "Linton": 3,
+      "Miss Cathy": 3,
+      "Mr. Heathcliff": 3,
+      "Mr. Linton": 3
+    }
+  },
+  {
+    "canonical_name": "Minny",
+    "aliases": [],
+    "first_chapter": 24,
+    "total_mentions": 5,
+    "per_chapter": {
+      "24": {
+        "mentions": 5,
+        "snippet": "I gave Michael books and pictures to prepare Minny every"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 1,
+      "Edgar": 1,
+      "Ellen": 1,
+      "Hareton Earnshaw": 1,
+      "Heathcliff": 1,
+      "Joseph": 1,
+      "Linton": 1,
+      "Master Heathcliff": 1
+    }
+  },
+  {
+    "canonical_name": "Are",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "\u201cAre you going to mak\u2019 the tea?"
+      }
+    },
+    "co_occurs_with": {
+      "Black Art": 1,
+      "Earnshaw": 1,
+      "Hareton Earnshaw": 1,
+      "Heathcliff": 1,
+      "Joseph": 1,
+      "King Lear": 1,
+      "Mr. Earnshaw": 1,
+      "Mr. Heathcliff": 1
+    }
+  },
+  {
+    "canonical_name": "Ellen Dean",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 4,
+    "per_chapter": {
+      "9": {
+        "mentions": 1,
+        "snippet": "I\u2019ve no doubt he has completely forgotten all about Ellen Dean, and"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "nothing, is it, Ellen Dean?"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "to Ellen Dean in private."
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "I\u2019ll kill her, Ellen Dean, if you let her come into my sight again!"
+      }
+    },
+    "co_occurs_with": {
+      "Heathcliff": 4,
+      "Nelly": 4,
+      "Wuthering Heights": 4,
+      "Edgar Linton": 3,
+      "Linton": 3,
+      "Mr. Heathcliff": 3,
+      "Mr. Linton": 3,
+      "Mrs. Linton": 3
+    }
+  },
+  {
+    "canonical_name": "Reverend Jabez Branderham",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "Reverend Jabez Branderham, in the Chapel of Gimmerden Sough."
+      }
+    },
+    "co_occurs_with": {
+      "Brooad Way": 1,
+      "Catherine Earnshaw": 1,
+      "Catherine Linton": 1,
+      "First": 1,
+      "Gimmerden Sough": 1,
+      "Hareton Earnshaw": 1,
+      "Heathcliff": 1,
+      "Jabez Branderham": 1
+    }
+  },
+  {
+    "canonical_name": "Jabez Branderham",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "Reverend Jabez Branderham, in the Chapel of Gimmerden Sough."
+      }
+    },
+    "co_occurs_with": {
+      "Brooad Way": 1,
+      "Catherine Earnshaw": 1,
+      "Catherine Linton": 1,
+      "First": 1,
+      "Gimmerden Sough": 1,
+      "Hareton Earnshaw": 1,
+      "Heathcliff": 1,
+      "Joseph": 1
+    }
+  },
+  {
+    "canonical_name": "Hindley Earnshaw",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "Hindley Earnshaw, that was Hareton\u2019s father, and"
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "I used to draw a comparison between him and Hindley Earnshaw, and"
+      }
+    },
+    "co_occurs_with": {
+      "Earnshaw": 2,
+      "Heathcliff": 2,
+      "Linton": 2,
+      "Mr. Earnshaw": 2,
+      "Mr. Heathcliff": 2,
+      "Mr. Linton": 2,
+      "Mrs. Heathcliff": 2,
+      "Mrs. Linton": 2
+    }
+  },
+  {
+    "canonical_name": "Robert",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "\u2018What prey, Robert?"
+      }
+    },
+    "co_occurs_with": {
+      "At Thrushcross Grange": 1,
+      "Catherine": 1,
+      "Earnshaw": 1,
+      "Edgar Linton": 1,
+      "Heathcliff": 1,
+      "Hindley": 1,
+      "Isabella": 1,
+      "Joseph": 1
+    }
+  },
+  {
+    "canonical_name": "Nay",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201cNay, don\u2019t!"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 1,
+      "Earnshaw": 1,
+      "Edgar": 1,
+      "Edgar Linton": 1,
+      "Ellen Dean": 1,
+      "Gimmerton Chapel": 1,
+      "Hareton": 1,
+      "Have": 1
+    }
+  },
+  {
+    "canonical_name": "Not",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201cNot I!"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 1,
+      "Earnshaw": 1,
+      "Edgar": 1,
+      "Edgar Linton": 1,
+      "Ellen Dean": 1,
+      "Gimmerton Chapel": 1,
+      "Hareton": 1,
+      "Have": 1
+    }
+  },
+  {
+    "canonical_name": "Throttler",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 3,
+    "per_chapter": {
+      "13": {
+        "mentions": 3,
+        "snippet": "An oath, and a threat to set Throttler on me if I did not \u201cframe off\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 1,
+      "Earnshaw": 1,
+      "Edgar": 1,
+      "Ellen": 1,
+      "Gooid Lord": 1,
+      "Hareton": 1,
+      "Heathcliff": 1,
+      "Hindley": 1
+    }
+  },
+  {
+    "canonical_name": "Papa",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "\u201cPapa would tell you, Miss,\u201d I answered, hastily, \u201cthat they are not"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 1,
+      "Catherine Earnshaw": 1,
+      "Charlie": 1,
+      "Earnshaw": 1,
+      "Ellen": 1,
+      "Fairy Cave": 1,
+      "Hareton": 1,
+      "Heathcliff": 1
+    }
+  },
+  {
+    "canonical_name": "Charlie",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "hurrying by the farmhouse, Charlie, the fiercest of the pointers, lying"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 1,
+      "Catherine Earnshaw": 1,
+      "Earnshaw": 1,
+      "Ellen": 1,
+      "Fairy Cave": 1,
+      "Hareton": 1,
+      "Heathcliff": 1,
+      "Joseph": 1
+    }
+  },
+  {
+    "canonical_name": "Phoenix",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "And where is Phoenix?"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 1,
+      "Catherine Earnshaw": 1,
+      "Charlie": 1,
+      "Earnshaw": 1,
+      "Ellen": 1,
+      "Fairy Cave": 1,
+      "Hareton": 1,
+      "Heathcliff": 1
+    }
+  },
+  {
+    "canonical_name": "Linton Heathcliff",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 3,
+    "per_chapter": {
+      "21": {
+        "mentions": 1,
+        "snippet": "correspondence\u2014daily almost, it must have been\u2014from Linton Heathcliff:"
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "Linton Heathcliff now, was suffered"
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "Linton Heathcliff, had she and I"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 3,
+      "Hareton": 3,
+      "Heathcliff": 3,
+      "Mr. Heathcliff": 3,
+      "Thrushcross Grange": 3,
+      "Earnshaw": 2,
+      "Edgar": 2,
+      "Joseph": 2
+    }
+  },
+  {
+    "canonical_name": "Michael",
+    "aliases": [],
+    "first_chapter": 24,
+    "total_mentions": 3,
+    "per_chapter": {
+      "24": {
+        "mentions": 3,
+        "snippet": "I gave Michael books and pictures to prepare Minny every"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 1,
+      "Edgar": 1,
+      "Ellen": 1,
+      "Hareton Earnshaw": 1,
+      "Heathcliff": 1,
+      "Joseph": 1,
+      "Linton": 1,
+      "Master Heathcliff": 1
+    }
+  },
+  {
+    "canonical_name": "Give",
+    "aliases": [],
+    "first_chapter": 27,
+    "total_mentions": 3,
+    "per_chapter": {
+      "27": {
+        "mentions": 3,
+        "snippet": "\u201cGive me that key: I will have"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine Linton": 1,
+      "Edgar Linton": 1,
+      "Hareton": 1,
+      "Heathcliff": 1,
+      "Linton": 1,
+      "Master Heathcliff": 1,
+      "Master Linton": 1,
+      "Miss Catherine Linton": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 34,
+    "total_mentions": 3,
+    "per_chapter": {
+      "34": {
+        "mentions": 3,
+        "snippet": "\u201cCome now,\u201d I exclaimed, pushing some bread against his hand, \u201ceat and"
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 1,
+      "Edgar Linton": 1,
+      "Hareton": 1,
+      "Heathcliff": 1,
+      "Joseph": 1,
+      "Mr. Green": 1,
+      "Mr. Heathcliff": 1,
+      "Mr. Kenneth": 1
+    }
+  }
+]

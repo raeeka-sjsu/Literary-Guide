@@ -1,0 +1,3744 @@
+[
+  {
+    "canonical_name": "Fogg",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 359,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Fogg was the last"
+      },
+      "2": {
+        "mentions": 7,
+        "snippet": "Fogg, Passepartout had been"
+      },
+      "3": {
+        "mentions": 10,
+        "snippet": "Fogg re-appeared in the"
+      },
+      "4": {
+        "mentions": 10,
+        "snippet": "Fogg repaired to his bedroom, and called out, \u201cPassepartout!"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "Fogg\u2019s project as madness; the _Daily Telegraph_ alone hesitatingly"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "Fogg paid the customary fee, coldly bowed,"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "Monsieur Fogg came home from his club, and three-quarters of an hour"
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "Fogg, played whist"
+      },
+      "10": {
+        "mentions": 7,
+        "snippet": "Fogg, after bidding good-bye to his whist partners, left the"
+      },
+      "11": {
+        "mentions": 19,
+        "snippet": "Fogg\u2019s"
+      },
+      "12": {
+        "mentions": 9,
+        "snippet": "Fogg regretted the delay, and"
+      },
+      "13": {
+        "mentions": 8,
+        "snippet": "Fogg was going to risk life, or at least liberty, and therefore the"
+      },
+      "14": {
+        "mentions": 5,
+        "snippet": "Fogg."
+      },
+      "15": {
+        "mentions": 17,
+        "snippet": "Fogg, who assisted his fair companion to descend."
+      },
+      "16": {
+        "mentions": 4,
+        "snippet": "Fogg essayed to calm her anxieties, and to assure her that everything"
+      },
+      "17": {
+        "mentions": 8,
+        "snippet": "Fogg."
+      },
+      "18": {
+        "mentions": 11,
+        "snippet": "Fogg would"
+      },
+      "19": {
+        "mentions": 8,
+        "snippet": "Fogg\u2019s route, the robber would escape, unless he could"
+      },
+      "20": {
+        "mentions": 20,
+        "snippet": "Fogg,"
+      },
+      "21": {
+        "mentions": 19,
+        "snippet": "Fogg\u2019s taciturn tastes;"
+      },
+      "22": {
+        "mentions": 10,
+        "snippet": "Fogg say?"
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "Fogg, Aouda, and Passepartout passed through the lobby of the"
+      },
+      "24": {
+        "mentions": 12,
+        "snippet": "Fogg applied in vain to the French and English consuls, and, after"
+      },
+      "25": {
+        "mentions": 24,
+        "snippet": "Fogg, Aouda, and Passepartout set"
+      },
+      "26": {
+        "mentions": 3,
+        "snippet": "Fogg and his companions resumed their places in"
+      },
+      "27": {
+        "mentions": 2,
+        "snippet": "Fogg nor Fix cared to attend."
+      },
+      "28": {
+        "mentions": 13,
+        "snippet": "Fogg\u2019s tour."
+      },
+      "29": {
+        "mentions": 17,
+        "snippet": "Fogg and his partners had resumed their game; no one\u2014not even the"
+      },
+      "30": {
+        "mentions": 10,
+        "snippet": "Fogg, with folded arms, remained motionless."
+      },
+      "31": {
+        "mentions": 16,
+        "snippet": "Fogg, and, looking him"
+      },
+      "32": {
+        "mentions": 8,
+        "snippet": "Fogg learned all this in consulting his \u201cBradshaw,\u201d which gave him"
+      },
+      "33": {
+        "mentions": 20,
+        "snippet": "Fogg manage the craft, that he had been a sailor."
+      },
+      "34": {
+        "mentions": 9,
+        "snippet": "Fogg because it was his duty, whether"
+      },
+      "35": {
+        "mentions": 21,
+        "snippet": "Fogg gave Passepartout instructions to"
+      },
+      "36": {
+        "mentions": 4,
+        "snippet": "Fogg and ourselves will have expired."
+      },
+      "37": {
+        "mentions": 10,
+        "snippet": "Fogg\u2019s room."
+      }
+    },
+    "co_occurs_with": {
+      "Mr. Fogg": 36,
+      "Phileas Fogg": 35,
+      "Passepartout": 27,
+      "Fix": 18,
+      "Aouda": 18,
+      "Hong Kong": 14,
+      "Reform Club": 12,
+      "New York": 12
+    }
+  },
+  {
+    "canonical_name": "Mr. Fogg",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 356,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "not imagine how he had made his fortune, and Mr."
+      },
+      "2": {
+        "mentions": 7,
+        "snippet": "During his brief interview with Mr."
+      },
+      "3": {
+        "mentions": 10,
+        "snippet": "passed as breakfast had done, and Mr."
+      },
+      "4": {
+        "mentions": 10,
+        "snippet": "Mr."
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "Mr."
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "Mr."
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "brigade at Benares, made up the party, and, with Mr."
+      },
+      "10": {
+        "mentions": 7,
+        "snippet": "Mr."
+      },
+      "11": {
+        "mentions": 19,
+        "snippet": "This was Sir Francis Cromarty, one of Mr."
+      },
+      "12": {
+        "mentions": 9,
+        "snippet": "Neither Sir Francis nor Mr."
+      },
+      "13": {
+        "mentions": 8,
+        "snippet": "Mr."
+      },
+      "14": {
+        "mentions": 5,
+        "snippet": "affair belonged to Mr."
+      },
+      "15": {
+        "mentions": 17,
+        "snippet": "followed by Mr."
+      },
+      "16": {
+        "mentions": 4,
+        "snippet": "Whether she would find a protector in him she could not tell; but Mr."
+      },
+      "17": {
+        "mentions": 8,
+        "snippet": "divulge any more facts concerning Mr."
+      },
+      "18": {
+        "mentions": 11,
+        "snippet": "\u2014tried to console him by saying that Mr."
+      },
+      "19": {
+        "mentions": 7,
+        "snippet": "territory on Mr."
+      },
+      "20": {
+        "mentions": 20,
+        "snippet": "While these events were passing at the opium-house, Mr."
+      },
+      "21": {
+        "mentions": 19,
+        "snippet": "from his fellow-travellers, knowing Mr."
+      },
+      "22": {
+        "mentions": 10,
+        "snippet": "What will Mr."
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "24": {
+        "mentions": 12,
+        "snippet": "Mr."
+      },
+      "25": {
+        "mentions": 24,
+        "snippet": "It was seven in the morning when Mr."
+      },
+      "26": {
+        "mentions": 3,
+        "snippet": "Having breakfasted, Mr."
+      },
+      "27": {
+        "mentions": 2,
+        "snippet": "Neither Mr."
+      },
+      "28": {
+        "mentions": 13,
+        "snippet": "the cars, would certainly have been fatal to Mr."
+      },
+      "29": {
+        "mentions": 17,
+        "snippet": "Mr."
+      },
+      "30": {
+        "mentions": 10,
+        "snippet": "Mr."
+      },
+      "31": {
+        "mentions": 16,
+        "snippet": "At this moment the detective approached Mr."
+      },
+      "32": {
+        "mentions": 8,
+        "snippet": "Mr."
+      },
+      "33": {
+        "mentions": 19,
+        "snippet": "Mr."
+      },
+      "34": {
+        "mentions": 9,
+        "snippet": "As for Fix, he had arrested Mr."
+      },
+      "35": {
+        "mentions": 21,
+        "snippet": "After leaving the station, Mr."
+      },
+      "36": {
+        "mentions": 4,
+        "snippet": "Mr."
+      },
+      "37": {
+        "mentions": 10,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 36,
+      "Phileas Fogg": 35,
+      "Passepartout": 27,
+      "Fix": 18,
+      "Aouda": 18,
+      "Hong Kong": 14,
+      "Reform Club": 12,
+      "New York": 12
+    }
+  },
+  {
+    "canonical_name": "Passepartout",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 332,
+    "per_chapter": {
+      "2": {
+        "mentions": 12,
+        "snippet": "\u201cFaith,\u201d muttered Passepartout, somewhat flurried, \u201cI\u2019ve seen people at"
+      },
+      "4": {
+        "mentions": 17,
+        "snippet": "Passepartout, who had conscientiously studied the programme of his"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cHe is: a Frenchman, named Passepartout."
+      },
+      "8": {
+        "mentions": 10,
+        "snippet": "Fix soon rejoined Passepartout, who was lounging and looking about on"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "Passepartout, that this pretended tour in eighty days"
+      },
+      "10": {
+        "mentions": 7,
+        "snippet": "moment, any more than Passepartout, that Phileas Fogg would remain"
+      },
+      "11": {
+        "mentions": 16,
+        "snippet": "Passepartout rode in the"
+      },
+      "12": {
+        "mentions": 9,
+        "snippet": "Passepartout, who was mounted on the beast\u2019s back, and received the"
+      },
+      "13": {
+        "mentions": 8,
+        "snippet": "As for Passepartout, he was ready for anything that might be proposed."
+      },
+      "14": {
+        "mentions": 17,
+        "snippet": "The rash exploit had been accomplished; and for an hour Passepartout"
+      },
+      "15": {
+        "mentions": 26,
+        "snippet": "The train entered the station, and Passepartout jumping out first, was"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Passepartout?"
+      },
+      "17": {
+        "mentions": 22,
+        "snippet": "The detective and Passepartout met often on deck after this interview,"
+      },
+      "19": {
+        "mentions": 32,
+        "snippet": "Passepartout wandered, with his hands in his pockets, towards the"
+      },
+      "20": {
+        "mentions": 4,
+        "snippet": "When Passepartout did not appear the"
+      },
+      "22": {
+        "mentions": 19,
+        "snippet": "It was Passepartout; and what had happened to him was as follows:"
+      },
+      "23": {
+        "mentions": 18,
+        "snippet": "The next morning poor, jaded, famished Passepartout said to himself"
+      },
+      "24": {
+        "mentions": 19,
+        "snippet": "betrayed no emotion\u2014that Passepartout, a Frenchman, had really arrived"
+      },
+      "25": {
+        "mentions": 9,
+        "snippet": "Fogg, Aouda, and Passepartout set"
+      },
+      "28": {
+        "mentions": 24,
+        "snippet": "Passepartout grew more and more impatient as they went on, while Fix"
+      },
+      "29": {
+        "mentions": 6,
+        "snippet": "Passepartout was ready to pounce upon the"
+      },
+      "30": {
+        "mentions": 6,
+        "snippet": "Three passengers including Passepartout had disappeared."
+      },
+      "31": {
+        "mentions": 10,
+        "snippet": "Passepartout, the"
+      },
+      "32": {
+        "mentions": 4,
+        "snippet": "Passepartout was crushed; it overwhelmed him to lose the boat by"
+      },
+      "34": {
+        "mentions": 8,
+        "snippet": "Passepartout, when he saw his master arrested, would have fallen upon"
+      },
+      "35": {
+        "mentions": 12,
+        "snippet": "Fogg gave Passepartout instructions to"
+      },
+      "37": {
+        "mentions": 12,
+        "snippet": "in London\u2014Passepartout had been sent by his master to engage the"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 27,
+      "Mr. Fogg": 27,
+      "Phileas Fogg": 27,
+      "Aouda": 16,
+      "Fix": 15,
+      "Hong Kong": 11,
+      "Reform Club": 8,
+      "New York": 8
+    }
+  },
+  {
+    "canonical_name": "Phileas Fogg",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 136,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "Certainly an Englishman, it was more doubtful whether Phileas Fogg was"
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "Phileas Fogg was looking for a servant, and that his life was one of"
+      },
+      "3": {
+        "mentions": 12,
+        "snippet": "absorbed Phileas Fogg until a quarter before four, whilst the"
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "Phileas Fogg, at twenty-five minutes past seven, left the Reform Club."
+      },
+      "5": {
+        "mentions": 10,
+        "snippet": "Some took sides with Phileas Fogg, but the large majority shook"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "Phileas Fogg?"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Fix felt sure that Phileas Fogg would not land"
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "was Phileas Fogg doing all this time?"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "Having transacted his business at the passport office, Phileas Fogg"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "exterior, and whether Phileas Fogg had any sense of the beauties of"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "\u201cIs it possible,\u201d resumed Phileas Fogg, his voice betraying not the"
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "He began to love Phileas Fogg."
+      },
+      "14": {
+        "mentions": 5,
+        "snippet": "Soon after, Phileas Fogg, Sir Francis Cromarty, and Passepartout,"
+      },
+      "15": {
+        "mentions": 7,
+        "snippet": "Phileas Fogg?"
+      },
+      "16": {
+        "mentions": 3,
+        "snippet": "board of her as Phileas Fogg could have wished."
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "could have imagined that Phileas Fogg was being tracked as a robber"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Chance had strangely favoured Phileas Fogg, for had not the \u201cCarnatic\u201d"
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "It seemed to be the only possible means of keeping Phileas Fogg"
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "For three hours Phileas Fogg wandered about"
+      },
+      "21": {
+        "mentions": 4,
+        "snippet": "\u201cI do not need, pilot,\u201d said Phileas Fogg, when they got into the open"
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "engaged by Phileas Fogg."
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "the pyramid; and Phileas Fogg appeased him by giving him a handful of"
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "he never exhausted his eulogies of Phileas Fogg\u2019s honesty, generosity,"
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "\u201cPhileas Fogg."
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "Phileas Fogg\u2014at least, so he hoped\u2014to take the Atlantic steamer at New"
+      },
+      "28": {
+        "mentions": 5,
+        "snippet": "Phileas Fogg himself to be beyond the danger of delays and accidents,"
+      },
+      "29": {
+        "mentions": 6,
+        "snippet": "Stamp Proctor and Phileas Fogg recognised each other at once."
+      },
+      "30": {
+        "mentions": 3,
+        "snippet": "Aouda was safe; and Phileas Fogg, who had been in the thickest of the"
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "conviction shaken by Phileas Fogg\u2019s return, or did he still regard him"
+      },
+      "32": {
+        "mentions": 7,
+        "snippet": "The \u201cChina,\u201d in leaving, seemed to have carried off Phileas Fogg\u2019s last"
+      },
+      "33": {
+        "mentions": 8,
+        "snippet": "It was Phileas Fogg, Esquire."
+      },
+      "34": {
+        "mentions": 2,
+        "snippet": "was a terrible one, and might be thus stated: if Phileas Fogg was"
+      },
+      "35": {
+        "mentions": 4,
+        "snippet": "they had been told that Phileas Fogg had returned home."
+      },
+      "36": {
+        "mentions": 9,
+        "snippet": "days before, Phileas Fogg had been a criminal, who was being"
+      },
+      "37": {
+        "mentions": 3,
+        "snippet": "Yes; Phileas Fogg in person."
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 35,
+      "Mr. Fogg": 35,
+      "Passepartout": 27,
+      "Fix": 18,
+      "Aouda": 18,
+      "Hong Kong": 14,
+      "Reform Club": 12,
+      "New York": 12
+    }
+  },
+  {
+    "canonical_name": "Aouda",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 131,
+    "per_chapter": {
+      "14": {
+        "mentions": 7,
+        "snippet": "Fogg that, should Aouda remain in India, she would inevitably fall"
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "order to get Aouda comfortably settled for the voyage."
+      },
+      "16": {
+        "mentions": 9,
+        "snippet": "as the \u201cMongolia,\u201d and Aouda was not as comfortably provided for on"
+      },
+      "17": {
+        "mentions": 7,
+        "snippet": "himself to the cabin, where he kept Aouda company, or, according to his"
+      },
+      "18": {
+        "mentions": 5,
+        "snippet": "Aouda was amazed"
+      },
+      "20": {
+        "mentions": 12,
+        "snippet": "escorting Aouda about the streets of the English quarter, making the"
+      },
+      "21": {
+        "mentions": 6,
+        "snippet": "Aouda\u2019s opinion, who regretted very much the loss of the worthy fellow"
+      },
+      "22": {
+        "mentions": 4,
+        "snippet": "his master or Aouda."
+      },
+      "24": {
+        "mentions": 6,
+        "snippet": "fifty pounds, ascended the steamer with Aouda and Fix; and they started"
+      },
+      "25": {
+        "mentions": 9,
+        "snippet": "Fogg, Aouda, and Passepartout set"
+      },
+      "28": {
+        "mentions": 8,
+        "snippet": "depression of the temperature, Aouda was experiencing fears from a"
+      },
+      "29": {
+        "mentions": 6,
+        "snippet": "Fogg, Aouda, and Fix raised their heads, and beheld Colonel"
+      },
+      "30": {
+        "mentions": 12,
+        "snippet": "Aouda was safe; and Phileas Fogg, who had been in the thickest of the"
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "Not wishing to expose Aouda to the discomforts of travelling in the"
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "but very long to Aouda and the others, whose agitation did not permit"
+      },
+      "34": {
+        "mentions": 5,
+        "snippet": "Aouda was"
+      },
+      "35": {
+        "mentions": 21,
+        "snippet": "A room in the house in Saville Row was set apart for Aouda, who was"
+      },
+      "37": {
+        "mentions": 3,
+        "snippet": "Aouda: \u201cIs our marriage still agreeable to you?"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 18,
+      "Mr. Fogg": 18,
+      "Phileas Fogg": 18,
+      "Passepartout": 16,
+      "Fix": 13,
+      "Hong Kong": 10,
+      "San Francisco": 7,
+      "New York": 7
+    }
+  },
+  {
+    "canonical_name": "Sir Francis",
+    "aliases": [
+      "Francis"
+    ],
+    "first_chapter": 11,
+    "total_mentions": 110,
+    "per_chapter": {
+      "11": {
+        "mentions": 42,
+        "snippet": "Sir Francis was a tall, fair man of fifty, who had greatly"
+      },
+      "12": {
+        "mentions": 27,
+        "snippet": "Neither Sir Francis nor Mr."
+      },
+      "13": {
+        "mentions": 31,
+        "snippet": "Sir Francis frankly put the question to him."
+      },
+      "14": {
+        "mentions": 10,
+        "snippet": "Sir Francis pressed the worthy fellow\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 4,
+      "Francis Cromarty": 4,
+      "Mr. Fogg": 4,
+      "Parsee": 4,
+      "Passepartout": 4,
+      "Phileas Fogg": 4,
+      "Sir Francis Cromarty": 4,
+      "Allahabad": 3
+    }
+  },
+  {
+    "canonical_name": "Fix",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 109,
+    "per_chapter": {
+      "6": {
+        "mentions": 5,
+        "snippet": "Fix,\u201d replied the consul."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "Fix,\u201d replied the consul, \u201cI shall not be sorry to see the"
+      },
+      "8": {
+        "mentions": 11,
+        "snippet": "Fix soon rejoined Passepartout, who was lounging and looking about on"
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201cMonsieur Fix,\u201d resumed Passepartout, \u201cI\u2019m charmed to find you on"
+      },
+      "16": {
+        "mentions": 3,
+        "snippet": "\u201cWhat, Monsieur Fix, are you on board?"
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "Fix?"
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "Fix did not look at the state of things in the same light."
+      },
+      "19": {
+        "mentions": 4,
+        "snippet": "\u201cWell, Monsieur Fix,\u201d said Passepartout, \u201chave you decided to go with"
+      },
+      "20": {
+        "mentions": 13,
+        "snippet": "It was Fix, who, bowing, addressed Mr."
+      },
+      "21": {
+        "mentions": 8,
+        "snippet": "Fix, seated in the bow, gave himself up to meditation."
+      },
+      "22": {
+        "mentions": 5,
+        "snippet": "Shortly after Fix left the opium den, two waiters had lifted the"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "Fix."
+      },
+      "25": {
+        "mentions": 17,
+        "snippet": "chance in the world,\u201d he met Fix."
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "Fix,\u201d resumed Aouda, \u201cMr."
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "Fix,\u201d said Mr."
+      },
+      "31": {
+        "mentions": 8,
+        "snippet": "\u201cI have a purpose in asking,\u201d resumed Fix."
+      },
+      "33": {
+        "mentions": 8,
+        "snippet": "fellow revolved around Fix, looking at him with a keen, distrustful"
+      },
+      "34": {
+        "mentions": 11,
+        "snippet": "Fix had he not been held back by some policemen."
+      },
+      "35": {
+        "mentions": 3,
+        "snippet": "and had betrayed Fix\u2019s projects to him, his master would certainly not"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 18,
+      "Mr. Fogg": 18,
+      "Phileas Fogg": 18,
+      "Passepartout": 15,
+      "Aouda": 13,
+      "Hong Kong": 9,
+      "Mr. Fix": 7,
+      "New York": 7
+    }
+  },
+  {
+    "canonical_name": "Hong Kong",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 52,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "From Calcutta to Hong Kong, by steamer ."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "Suez, Bombay, Calcutta, Singapore, Hong Kong, Yokohama, San Francisco,"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "for Hong Kong at noon, on the 25th."
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "day, October 25th, at noon, for Hong Kong."
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "Phileas Fogg intended to proceed at once to the Hong Kong steamer, in"
+      },
+      "16": {
+        "mentions": 14,
+        "snippet": "Calcutta to Hong Kong only comprised some three thousand five hundred"
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "preserved\u2014that Fix would also leave Hong Kong at the same time with"
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "that Fogg would be obliged to remain some days at Hong Kong; and now"
+      },
+      "19": {
+        "mentions": 5,
+        "snippet": "give to Hong Kong the appearance of a town in Kent or Surrey"
+      },
+      "20": {
+        "mentions": 5,
+        "snippet": "its repairs being completed, left Hong Kong twelve hours before the"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "accomplished from Hong Kong, and Mr."
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "The \u201cCarnatic,\u201d setting sail from Hong Kong at half-past six on the 7th"
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "taken place on the voyage from Hong Kong to Shanghai on the"
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "It was not at New York as at Hong Kong, nor with the"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 14,
+      "Mr. Fogg": 14,
+      "Phileas Fogg": 14,
+      "Passepartout": 11,
+      "Aouda": 10,
+      "Fix": 9,
+      "San Francisco": 6,
+      "Yokohama": 5
+    }
+  },
+  {
+    "canonical_name": "Colonel Proctor",
+    "aliases": [
+      "Proctor"
+    ],
+    "first_chapter": 25,
+    "total_mentions": 47,
+    "per_chapter": {
+      "25": {
+        "mentions": 3,
+        "snippet": "Fogg said to Fix, \u201cYou have not seen this Colonel Proctor again?"
+      },
+      "28": {
+        "mentions": 21,
+        "snippet": "Chance alone, it was clear, had brought Colonel Proctor on"
+      },
+      "29": {
+        "mentions": 19,
+        "snippet": "Fogg, Aouda, and Fix raised their heads, and beheld Colonel"
+      },
+      "30": {
+        "mentions": 4,
+        "snippet": "Colonel Proctor was one of"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 4,
+      "Fogg": 4,
+      "Mr. Fogg": 4,
+      "New York": 4,
+      "Passepartout": 4,
+      "Phileas Fogg": 4,
+      "Fix": 3,
+      "Indians": 3
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 36,
+    "per_chapter": {
+      "7": {
+        "mentions": 6,
+        "snippet": "The detective passed down the quay, and rapidly made his way to the"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "The sun will be wrong, then!"
+      },
+      "15": {
+        "mentions": 16,
+        "snippet": "The train entered the station, and Passepartout jumping out first, was"
+      },
+      "32": {
+        "mentions": 10,
+        "snippet": "The \u201cChina,\u201d in leaving, seemed to have carried off Phileas Fogg\u2019s last"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 4,
+      "Mr. Fogg": 4,
+      "Passepartout": 4,
+      "Phileas Fogg": 4,
+      "Hong Kong": 3,
+      "Fix": 2,
+      "Mongolia": 2,
+      "Mr. Phileas Fogg": 2
+    }
+  },
+  {
+    "canonical_name": "Yokohama",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 35,
+    "per_chapter": {
+      "18": {
+        "mentions": 7,
+        "snippet": "hours, by making him too late for the Yokohama boat, would almost"
+      },
+      "20": {
+        "mentions": 9,
+        "snippet": "was not to leave for Yokohama until the next morning, he did not"
+      },
+      "21": {
+        "mentions": 6,
+        "snippet": "passengers to Yokohama, since he was paid a certain sum per day; but he"
+      },
+      "22": {
+        "mentions": 6,
+        "snippet": "\u201cOn the way to Yokohama?"
+      },
+      "24": {
+        "mentions": 7,
+        "snippet": "the captain of the Yokohama steamer, who, espying the flag at"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 5,
+      "Fix": 5,
+      "Fogg": 5,
+      "Hong Kong": 5,
+      "Mr. Fogg": 5,
+      "Phileas Fogg": 5,
+      "San Francisco": 4,
+      "Carnatic": 3
+    }
+  },
+  {
+    "canonical_name": "Captain Speedy",
+    "aliases": [
+      "Speedy"
+    ],
+    "first_chapter": 32,
+    "total_mentions": 34,
+    "per_chapter": {
+      "32": {
+        "mentions": 4,
+        "snippet": "Captain Speedy began to scratch his head."
+      },
+      "33": {
+        "mentions": 30,
+        "snippet": "It might be thought that this was Captain Speedy."
+      }
+    },
+    "co_occurs_with": {
+      "Andrew Speedy": 2,
+      "Fogg": 2,
+      "Henrietta": 2,
+      "Mr. Fogg": 2,
+      "New York": 2,
+      "Phileas Fogg": 2,
+      "Aouda": 1,
+      "Atlantic": 1
+    }
+  },
+  {
+    "canonical_name": "Bombay",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 32,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "Brindisi and Bombay _vi\u00e2_ the Suez Canal, and was one of the fastest"
+      },
+      "9": {
+        "mentions": 11,
+        "snippet": "India some for Bombay, others for Calcutta by way of Bombay, the"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "An hour after leaving Bombay the train had passed the viaducts and the"
+      },
+      "15": {
+        "mentions": 7,
+        "snippet": "days on the trains from Bombay."
+      },
+      "16": {
+        "mentions": 5,
+        "snippet": "awakening Passepartout\u2019s suspicions, who thought him still at Bombay."
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "circuits from London to Aden, from Aden to Bombay, from Calcutta to"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 5,
+      "Mr. Fogg": 5,
+      "Passepartout": 5,
+      "Phileas Fogg": 5,
+      "Fix": 4,
+      "Hong Kong": 4,
+      "Calcutta": 3,
+      "Aouda": 3
+    }
+  },
+  {
+    "canonical_name": "Calcutta",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 26,
+    "per_chapter": {
+      "10": {
+        "mentions": 7,
+        "snippet": "this vast country, and has a governor-general stationed at Calcutta,"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "\u201cYet you sell tickets from Bombay to Calcutta,\u201d retorted Sir Francis,"
+      },
+      "14": {
+        "mentions": 5,
+        "snippet": "their victim at Madras, Bombay, or Calcutta."
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "Bombay, for which they were now detained at Calcutta, may be imagined."
+      },
+      "16": {
+        "mentions": 6,
+        "snippet": "Calcutta to Hong Kong only comprised some three thousand five hundred"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 5,
+      "Mr. Fogg": 5,
+      "Passepartout": 5,
+      "Phileas Fogg": 5,
+      "Hong Kong": 4,
+      "Bombay": 3,
+      "Aouda": 3,
+      "Malabar Hill": 2
+    }
+  },
+  {
+    "canonical_name": "Parsee",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 26,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "young Parsee, with an intelligent face, offered his services, which Mr."
+      },
+      "12": {
+        "mentions": 9,
+        "snippet": "The Parsee, who was quite familiar with the"
+      },
+      "13": {
+        "mentions": 10,
+        "snippet": "\u201cOfficers,\u201d replied the guide, \u201cI am a Parsee, and this woman is a"
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "The elephant, thanks to the skilful guidance of the Parsee, was"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 4,
+      "Francis Cromarty": 4,
+      "Mr. Fogg": 4,
+      "Passepartout": 4,
+      "Phileas Fogg": 4,
+      "Sir Francis": 4,
+      "Sir Francis Cromarty": 4,
+      "Allahabad": 3
+    }
+  },
+  {
+    "canonical_name": "Carnatic",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 26,
+    "per_chapter": {
+      "18": {
+        "mentions": 4,
+        "snippet": "\u201cThe \u2018Carnatic."
+      },
+      "19": {
+        "mentions": 4,
+        "snippet": "On reaching the quay where they were to embark on the \u201cCarnatic,\u201d he"
+      },
+      "20": {
+        "mentions": 7,
+        "snippet": "the \u201cCarnatic\u201d would leave the harbour."
+      },
+      "22": {
+        "mentions": 11,
+        "snippet": "The \u201cCarnatic,\u201d setting sail from Hong Kong at half-past six on the 7th"
+      }
+    },
+    "co_occurs_with": {
+      "Fix": 4,
+      "Fogg": 4,
+      "Hong Kong": 4,
+      "Mr. Fogg": 4,
+      "Phileas Fogg": 4,
+      "Aouda": 3,
+      "Yokohama": 3,
+      "Passepartout": 3
+    }
+  },
+  {
+    "canonical_name": "New York",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 25,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "hastened off to Liverpool, Glasgow, Havre, Suez, Brindisi, New York,"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "New York, and London\u2014from the 2nd of October to the 21st of December;"
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "December, New York by the 11th, and London on the 20th\u2014thus gaining"
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "first train left for New York, and learned that this was at six o\u2019clock"
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "Five main lines connect Omaha with New York."
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "In four days we shall be in New York."
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "would probably bring them to New York."
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "the steamer at New York, and his bet would be certainly lost."
+      },
+      "31": {
+        "mentions": 5,
+        "snippet": "that you should be in New York on the 11th, before nine o\u2019clock in the"
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "It was not at New York as at Hong Kong, nor with the"
+      },
+      "33": {
+        "mentions": 4,
+        "snippet": "three thousand miles from New York to Liverpool in the nine days,"
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "have taken from New York to get here in time arrived yesterday."
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 12,
+      "Mr. Fogg": 12,
+      "Phileas Fogg": 12,
+      "Passepartout": 8,
+      "San Francisco": 7,
+      "Fix": 7,
+      "Aouda": 7,
+      "Hong Kong": 4
+    }
+  },
+  {
+    "canonical_name": "Henrietta",
+    "aliases": [],
+    "first_chapter": 32,
+    "total_mentions": 24,
+    "per_chapter": {
+      "32": {
+        "mentions": 6,
+        "snippet": "board the \u201cHenrietta,\u201d iron-hulled, wood-built above."
+      },
+      "33": {
+        "mentions": 18,
+        "snippet": "An hour after, the \u201cHenrietta\u201d passed the lighthouse which marks the"
+      }
+    },
+    "co_occurs_with": {
+      "Andrew Speedy": 2,
+      "Captain Speedy": 2,
+      "Fogg": 2,
+      "Mr. Fogg": 2,
+      "New York": 2,
+      "Phileas Fogg": 2,
+      "Aouda": 1,
+      "Atlantic": 1
+    }
+  },
+  {
+    "canonical_name": "Reform Club",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 23,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "most noticeable members of the Reform Club, though he seemed always to"
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "eleven, when he left the house for the Reform Club\u2014all the details of"
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "seventy-six times, reached the Reform Club, an imposing edifice in Pall"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "Phileas Fogg, at twenty-five minutes past seven, left the Reform Club."
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "through the Reform Club, and afforded an exciting topic of conversation"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "Always the same impassible member of the Reform Club, whom no incident"
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "\u201cMembers of the Reform Club!"
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "of the Reform Club."
+      },
+      "34": {
+        "mentions": 2,
+        "snippet": "had till a quarter before nine that evening to reach the Reform Club,"
+      },
+      "35": {
+        "mentions": 1,
+        "snippet": "friends of the Reform Club."
+      },
+      "36": {
+        "mentions": 3,
+        "snippet": "His five friends of the Reform Club passed these three days in a state"
+      },
+      "37": {
+        "mentions": 2,
+        "snippet": "Reform Club."
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 12,
+      "Mr. Fogg": 12,
+      "Phileas Fogg": 12,
+      "Passepartout": 8,
+      "Saville Row": 6,
+      "Fix": 5,
+      "Aouda": 4,
+      "New York": 3
+    }
+  },
+  {
+    "canonical_name": "San Francisco",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 23,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "From Yokohama to San Francisco, by steamer ."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "Suez, Bombay, Calcutta, Singapore, Hong Kong, Yokohama, San Francisco,"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "The steamer which crossed the Pacific from Yokohama to San Francisco"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "14th at the latest, to take the boat for San Francisco."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "San Francisco; and the vast extent of America would ensure him impunity"
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "Once at San Francisco, he would find some means of"
+      },
+      "24": {
+        "mentions": 5,
+        "snippet": "The San Francisco steamer was announced to leave that very evening, and"
+      },
+      "25": {
+        "mentions": 3,
+        "snippet": "of the streets\u2014especially Montgomery Street, which is to San Francisco"
+      },
+      "26": {
+        "mentions": 5,
+        "snippet": "between San Francisco and Ogden, and the Union Pacific, between Ogden"
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "from San Francisco."
+      },
+      "30": {
+        "mentions": 2,
+        "snippet": "telegraph to arrive; the train from Omaha to San Francisco was not due"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 11,
+      "Mr. Fogg": 11,
+      "Phileas Fogg": 11,
+      "New York": 7,
+      "Fix": 7,
+      "Passepartout": 7,
+      "Aouda": 7,
+      "Hong Kong": 6
+    }
+  },
+  {
+    "canonical_name": "Mongolia",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 23,
+    "per_chapter": {
+      "6": {
+        "mentions": 7,
+        "snippet": "The steamer \u201cMongolia,\u201d belonging to the Peninsular and Oriental"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "believing that my man is a passenger on the \u2018Mongolia."
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "offered a large reward to the engineer of the \u2018Mongolia\u2019 if he gets us"
+      },
+      "9": {
+        "mentions": 10,
+        "snippet": "The \u201cMongolia,\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Fix": 4,
+      "Fogg": 3,
+      "Mr. Fogg": 3,
+      "Passepartout": 3,
+      "Phileas Fogg": 3,
+      "Suez": 3,
+      "Red Sea": 3,
+      "Mr. Fix": 2
+    }
+  },
+  {
+    "canonical_name": "Sir Francis Cromarty",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 21,
+    "per_chapter": {
+      "11": {
+        "mentions": 11,
+        "snippet": "This was Sir Francis Cromarty, one of Mr."
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "Phileas Fogg and Sir Francis Cromarty, plunged to the neck in the"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "But he did not hesitate, and he found in Sir"
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "Soon after, Phileas Fogg, Sir Francis Cromarty, and Passepartout,"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 4,
+      "Francis Cromarty": 4,
+      "Mr. Fogg": 4,
+      "Parsee": 4,
+      "Passepartout": 4,
+      "Phileas Fogg": 4,
+      "Sir Francis": 4,
+      "Allahabad": 3
+    }
+  },
+  {
+    "canonical_name": "Rangoon",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 20,
+    "per_chapter": {
+      "16": {
+        "mentions": 8,
+        "snippet": "The \u201cRangoon\u201d\u2014one of the Peninsular and Oriental Company\u2019s boats plying"
+      },
+      "17": {
+        "mentions": 6,
+        "snippet": "destination, and now turned up so unexpectedly on the \u201cRangoon,\u201d was"
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "The \u201cRangoon\u201d rolled heavily and the passengers became"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 3,
+      "Fix": 3,
+      "Fogg": 3,
+      "Hong Kong": 3,
+      "Mr. Fogg": 3,
+      "Phileas Fogg": 3,
+      "Passepartout": 2,
+      "Singapore": 2
+    }
+  },
+  {
+    "canonical_name": "Omaha",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 20,
+    "per_chapter": {
+      "26": {
+        "mentions": 7,
+        "snippet": "and Omaha."
+      },
+      "30": {
+        "mentions": 3,
+        "snippet": "telegraph to arrive; the train from Omaha to San Francisco was not due"
+      },
+      "31": {
+        "mentions": 10,
+        "snippet": "Fogg in a few hours to Omaha."
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 3,
+      "Mr. Fogg": 3,
+      "New York": 3,
+      "Phileas Fogg": 3,
+      "Pacific Railroad": 2,
+      "Platte River": 2,
+      "San Francisco": 2,
+      "Aouda": 2
+    }
+  },
+  {
+    "canonical_name": "Liverpool",
+    "aliases": [],
+    "first_chapter": 31,
+    "total_mentions": 18,
+    "per_chapter": {
+      "31": {
+        "mentions": 3,
+        "snippet": "evening, the time that the steamer leaves for Liverpool?"
+      },
+      "33": {
+        "mentions": 12,
+        "snippet": "Liverpool, but the captain would not carry him there."
+      },
+      "34": {
+        "mentions": 3,
+        "snippet": "Liverpool at twenty minutes before twelve on the 21st of December, he"
+      }
+    },
+    "co_occurs_with": {
+      "Fix": 3,
+      "Fogg": 3,
+      "Mr. Fogg": 3,
+      "Phileas Fogg": 3,
+      "Aouda": 2,
+      "New York": 2,
+      "Passepartout": 2,
+      "Chicago Railway": 1
+    }
+  },
+  {
+    "canonical_name": "Francis Cromarty",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 17,
+    "per_chapter": {
+      "11": {
+        "mentions": 10,
+        "snippet": "This was Sir Francis Cromarty, one of Mr."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "Phileas Fogg and Sir Francis Cromarty, plunged to the neck in the"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "Francis Cromarty an enthusiastic ally."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "Soon after, Phileas Fogg, Sir Francis Cromarty, and Passepartout,"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 4,
+      "Mr. Fogg": 4,
+      "Parsee": 4,
+      "Passepartout": 4,
+      "Phileas Fogg": 4,
+      "Sir Francis": 4,
+      "Sir Francis Cromarty": 4,
+      "Allahabad": 3
+    }
+  },
+  {
+    "canonical_name": "Tankadere",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 17,
+    "per_chapter": {
+      "20": {
+        "mentions": 4,
+        "snippet": "\u201cYes; John Bunsby, master of the \u2018Tankadere."
+      },
+      "21": {
+        "mentions": 13,
+        "snippet": "\u201cTankadere,\u201d which rode on the waves like a seagull; and perhaps he was"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 2,
+      "Fix": 2,
+      "Fogg": 2,
+      "Hong Kong": 2,
+      "John Bunsby": 2,
+      "Mr. Fogg": 2,
+      "Phileas Fogg": 2,
+      "San Francisco": 2
+    }
+  },
+  {
+    "canonical_name": "India",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 16,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "roundabout route from England to India by the Cape of Good Hope was"
+      },
+      "11": {
+        "mentions": 6,
+        "snippet": "He made India his home,"
+      },
+      "14": {
+        "mentions": 7,
+        "snippet": "Fogg that, should Aouda remain in India, she would inevitably fall"
+      }
+    },
+    "co_occurs_with": {
+      "Allahabad": 2,
+      "Bombay": 2,
+      "Calcutta": 2,
+      "English Government": 2,
+      "Fogg": 2,
+      "Francis Cromarty": 2,
+      "Hong Kong": 2,
+      "Mr. Fogg": 2
+    }
+  },
+  {
+    "canonical_name": "Indians",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 16,
+    "per_chapter": {
+      "13": {
+        "mentions": 4,
+        "snippet": "part with the Indians?"
+      },
+      "25": {
+        "mentions": 3,
+        "snippet": "side-walks, not only Americans and Europeans, but Chinese and Indians."
+      },
+      "29": {
+        "mentions": 3,
+        "snippet": "This was not the first attempt of these daring Indians, for more than"
+      },
+      "30": {
+        "mentions": 6,
+        "snippet": "ought he not to risk everything to rescue him from the Indians?"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 4,
+      "Mr. Fogg": 4,
+      "Passepartout": 4,
+      "Phileas Fogg": 4,
+      "Aouda": 3,
+      "Colonel Proctor": 3,
+      "New York": 3,
+      "Fix": 2
+    }
+  },
+  {
+    "canonical_name": "Saville Row",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 15,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "ten hours out of the twenty-four in Saville Row, either in sleeping or"
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "house in Saville Row."
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "rule, he was not due in Saville Row until precisely midnight."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "mansion in Saville Row."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "burning at his expense in Saville Row, had something to do with his hot"
+      },
+      "35": {
+        "mentions": 3,
+        "snippet": "The dwellers in Saville Row would have been surprised the next day, if"
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "Messengers were dispatched to the house in Saville Row morning"
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "In three minutes he was in Saville Row again, and staggered back into"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 8,
+      "Mr. Fogg": 8,
+      "Phileas Fogg": 8,
+      "Reform Club": 6,
+      "Passepartout": 6,
+      "Aouda": 3,
+      "Fix": 2,
+      "Reverend Samuel": 2
+    }
+  },
+  {
+    "canonical_name": "Monsieur Fix",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 15,
+    "per_chapter": {
+      "9": {
+        "mentions": 6,
+        "snippet": "\u201cMonsieur Fix,\u201d resumed Passepartout, \u201cI\u2019m charmed to find you on"
+      },
+      "16": {
+        "mentions": 5,
+        "snippet": "\u201cWhat, Monsieur Fix, are you on board?"
+      },
+      "19": {
+        "mentions": 4,
+        "snippet": "\u201cWell, Monsieur Fix,\u201d said Passepartout, \u201chave you decided to go with"
+      }
+    },
+    "co_occurs_with": {
+      "Fix": 3,
+      "Fogg": 3,
+      "Mr. Fogg": 3,
+      "Passepartout": 3,
+      "Phileas Fogg": 3,
+      "Bombay": 2,
+      "Indian Ocean": 2,
+      "Mr. Passepartout": 2
+    }
+  },
+  {
+    "canonical_name": "Sioux",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 14,
+    "per_chapter": {
+      "29": {
+        "mentions": 9,
+        "snippet": "cheers were given, the Sioux and Pawnees performed an imitation Indian"
+      },
+      "30": {
+        "mentions": 5,
+        "snippet": "Were they taken prisoners by the Sioux?"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 2,
+      "Colonel Proctor": 2,
+      "Fogg": 2,
+      "Fort Kearney": 2,
+      "Indians": 2,
+      "Mr. Fogg": 2,
+      "New York": 2,
+      "Passepartout": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Fix",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 13,
+    "per_chapter": {
+      "6": {
+        "mentions": 5,
+        "snippet": "\u201cNo, Mr."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "\u201cWell, Mr."
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "Don\u2019t you, Mr."
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "\u201cWhat for, Mr."
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "\u201cTankadere,\u201d in company with one Mr."
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "\u201cMr."
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "\u201cMr."
+      }
+    },
+    "co_occurs_with": {
+      "Fix": 7,
+      "Fogg": 6,
+      "Mr. Fogg": 6,
+      "Passepartout": 6,
+      "Phileas Fogg": 6,
+      "Hong Kong": 4,
+      "New York": 4,
+      "Aouda": 4
+    }
+  },
+  {
+    "canonical_name": "Allahabad",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 13,
+    "per_chapter": {
+      "11": {
+        "mentions": 6,
+        "snippet": "Allahabad, where the line begins again."
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "Allahabad?"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "The station at Allahabad was reached about ten o\u2019clock, and, the"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 3,
+      "Francis Cromarty": 3,
+      "Mr. Fogg": 3,
+      "Parsee": 3,
+      "Passepartout": 3,
+      "Phileas Fogg": 3,
+      "Sir Francis": 3,
+      "Sir Francis Cromarty": 3
+    }
+  },
+  {
+    "canonical_name": "Mr. Batulcar",
+    "aliases": [
+      "Batulcar"
+    ],
+    "first_chapter": 23,
+    "total_mentions": 12,
+    "per_chapter": {
+      "23": {
+        "mentions": 10,
+        "snippet": "Passepartout entered and asked for Mr."
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "led him into the Honourable Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 2,
+      "Honourable Mr": 2,
+      "Mr. Fogg": 2,
+      "Passepartout": 2,
+      "Phileas Fogg": 2,
+      "San Francisco": 2,
+      "Car": 1,
+      "Honourable William Batulcar": 1
+    }
+  },
+  {
+    "canonical_name": "Suez",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 11,
+    "per_chapter": {
+      "7": {
+        "mentions": 4,
+        "snippet": "_visa_, that I came by Suez."
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "this is Suez?"
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "The distance between Suez and Aden is precisely thirteen hundred and"
+      }
+    },
+    "co_occurs_with": {
+      "Fix": 3,
+      "Fogg": 3,
+      "Mongolia": 3,
+      "Mr. Fogg": 3,
+      "Passepartout": 3,
+      "Phileas Fogg": 3,
+      "The": 2,
+      "Red Sea": 2
+    }
+  },
+  {
+    "canonical_name": "Andrew Stuart",
+    "aliases": [
+      "Stuart"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 10,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "Fogg\u2019s usual partners at whist: Andrew Stuart, an engineer; John"
+      },
+      "36": {
+        "mentions": 7,
+        "snippet": "John Sullivan and Samuel Fallentin, the bankers, Andrew Stuart,"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 2,
+      "Gauthier Ralph": 2,
+      "John Sullivan": 2,
+      "Mr. Fogg": 2,
+      "New York": 2,
+      "Phileas Fogg": 2,
+      "Reform Club": 2,
+      "Samuel Fallentin": 2
+    }
+  },
+  {
+    "canonical_name": "John Bunsby",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 9,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "\u201cYes; John Bunsby, master of the \u2018Tankadere."
+      },
+      "21": {
+        "mentions": 6,
+        "snippet": "Meanwhile they were progressing famously, and John Bunsby was in high"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 2,
+      "Fix": 2,
+      "Fogg": 2,
+      "Hong Kong": 2,
+      "Mr. Fogg": 2,
+      "Phileas Fogg": 2,
+      "San Francisco": 2,
+      "Tankadere": 2
+    }
+  },
+  {
+    "canonical_name": "Japanese",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 9,
+    "per_chapter": {
+      "23": {
+        "mentions": 9,
+        "snippet": "English songs, and resolved to try them upon the Japanese, who must be"
+      }
+    },
+    "co_occurs_with": {
+      "Car": 1,
+      "Fogg": 1,
+      "Honourable Mr": 1,
+      "Honourable William Batulcar": 1,
+      "Long Noses": 1,
+      "Middle Ages": 1,
+      "Mr. Batulcar": 1,
+      "Mr. Fogg": 1
+    }
+  },
+  {
+    "canonical_name": "Mormon",
+    "aliases": [],
+    "first_chapter": 27,
+    "total_mentions": 9,
+    "per_chapter": {
+      "27": {
+        "mentions": 9,
+        "snippet": "that Elder William Hitch, Mormon missionary, taking advantage of his"
+      }
+    },
+    "co_occurs_with": {
+      "American Jordan": 1,
+      "Brigham Young": 1,
+      "Dead Sea": 1,
+      "Elder Hitch": 1,
+      "Elder William Hitch": 1,
+      "Far West": 1,
+      "Fogg": 1,
+      "Great Salt": 1
+    }
+  },
+  {
+    "canonical_name": "Mudge",
+    "aliases": [],
+    "first_chapter": 31,
+    "total_mentions": 9,
+    "per_chapter": {
+      "31": {
+        "mentions": 9,
+        "snippet": "Mudge, entered a hut built just below the fort."
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Chicago Railway": 1,
+      "Council Bluffs": 1,
+      "Des Moines": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Fort Kearney": 1,
+      "Fort Wayne": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Albemarle",
+    "aliases": [
+      "Albemarle"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 8,
+    "per_chapter": {
+      "5": {
+        "mentions": 2,
+        "snippet": "Lord Albemarle, an elderly paralytic gentleman, was now the only"
+      },
+      "36": {
+        "mentions": 6,
+        "snippet": "five; and paralytic old Lord Albemarle bet even in his favour."
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 2,
+      "Mr. Fogg": 2,
+      "Phileas Fogg": 2,
+      "Reform Club": 2,
+      "Daily": 1,
+      "Geographical Society": 1,
+      "Royal Geographical Society": 1,
+      "United States": 1
+    }
+  },
+  {
+    "canonical_name": "Singapore",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 8,
+    "per_chapter": {
+      "16": {
+        "mentions": 3,
+        "snippet": "the steamer\u2019s stay at Singapore would be too brief to enable him to"
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "weighed anchor at Singapore the next day at four a."
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 2,
+      "Fix": 2,
+      "Fogg": 2,
+      "Hong Kong": 2,
+      "Mr. Fogg": 2,
+      "Passepartout": 2,
+      "Phileas Fogg": 2,
+      "Rangoon": 2
+    }
+  },
+  {
+    "canonical_name": "Fort Kearney",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 8,
+    "per_chapter": {
+      "29": {
+        "mentions": 1,
+        "snippet": "would be masters of the train between Fort Kearney and the station"
+      },
+      "30": {
+        "mentions": 6,
+        "snippet": "The commanding officer of Fort Kearney was there."
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "The distance between Fort Kearney and Omaha, as the birds fly, is at"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 3,
+      "Fogg": 3,
+      "Mr. Fogg": 3,
+      "New York": 3,
+      "Passepartout": 3,
+      "Phileas Fogg": 3,
+      "Colonel Proctor": 2,
+      "Fix": 2
+    }
+  },
+  {
+    "canonical_name": "Kiouni",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 7,
+    "per_chapter": {
+      "12": {
+        "mentions": 7,
+        "snippet": "inserted it in Kiouni\u2019s trunk, who received it without in the least"
+      }
+    },
+    "co_occurs_with": {
+      "Allahabad": 1,
+      "Bundelcund": 1,
+      "Fogg": 1,
+      "Francis Cromarty": 1,
+      "Mr. Fogg": 1,
+      "Parsee": 1,
+      "Passepartout": 1,
+      "Phileas Fogg": 1
+    }
+  },
+  {
+    "canonical_name": "Japan",
+    "aliases": [],
+    "first_chapter": 22,
+    "total_mentions": 7,
+    "per_chapter": {
+      "22": {
+        "mentions": 7,
+        "snippet": "of November, directed her course at full steam towards Japan."
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Carnatic": 1,
+      "China": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Good": 1,
+      "Hong Kong": 1,
+      "Japanese Empire": 1
+    }
+  },
+  {
+    "canonical_name": "Thomas Flanagan",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 6,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "Sullivan and Samuel Fallentin, bankers; Thomas Flanagan, a brewer; and"
+      },
+      "36": {
+        "mentions": 3,
+        "snippet": "Thomas Flanagan, the brewer, one and all waited anxiously."
+      }
+    },
+    "co_occurs_with": {
+      "Andrew Stuart": 2,
+      "Fogg": 2,
+      "Gauthier Ralph": 2,
+      "John Sullivan": 2,
+      "Mr. Fogg": 2,
+      "New York": 2,
+      "Phileas Fogg": 2,
+      "Reform Club": 2
+    }
+  },
+  {
+    "canonical_name": "Bank",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 6,
+    "per_chapter": {
+      "3": {
+        "mentions": 6,
+        "snippet": "Gauthier Ralph, one of the Directors of the Bank of England\u2014all rich"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Andrew Stuart": 1,
+      "Daily": 1,
+      "Fogg": 1,
+      "From Bombay": 1,
+      "From Calcutta": 1,
+      "From Hong Kong": 1,
+      "From New York": 1
+    }
+  },
+  {
+    "canonical_name": "Daily",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 6,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cThe _Daily Telegraph_ says that he is a gentleman."
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "_Daily News_, and twenty other highly respectable newspapers scouted"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 2,
+      "Mr. Fogg": 2,
+      "Phileas Fogg": 2,
+      "Reform Club": 2,
+      "All": 1,
+      "Andrew Stuart": 1,
+      "Bank": 1,
+      "From Bombay": 1
+    }
+  },
+  {
+    "canonical_name": "Pillaji",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 6,
+    "per_chapter": {
+      "13": {
+        "mentions": 3,
+        "snippet": "elephant towards the pagoda of Pillaji, which he accordingly approached"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "what they were going to do at the pagoda of Pillaji."
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 2,
+      "Mr. Fogg": 2,
+      "Passepartout": 2,
+      "Phileas Fogg": 2,
+      "Francis Cromarty": 1,
+      "Indians": 1,
+      "Parsee": 1,
+      "Sir Francis": 1
+    }
+  },
+  {
+    "canonical_name": "Benares",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 6,
+    "per_chapter": {
+      "14": {
+        "mentions": 6,
+        "snippet": "whirling at full speed towards Benares."
+      }
+    },
+    "co_occurs_with": {
+      "Allahabad": 1,
+      "Aouda": 1,
+      "Calcutta": 1,
+      "European": 1,
+      "Fogg": 1,
+      "Francis Cromarty": 1,
+      "Ganges": 1,
+      "Hong Kong": 1
+    }
+  },
+  {
+    "canonical_name": "Shanghai",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 6,
+    "per_chapter": {
+      "20": {
+        "mentions": 6,
+        "snippet": "Shanghai, which is only eight hundred miles from here."
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Carnatic": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Hong Kong": 1,
+      "John Bunsby": 1,
+      "Mr. Fogg": 1,
+      "Nagasaki": 1
+    }
+  },
+  {
+    "canonical_name": "China",
+    "aliases": [],
+    "first_chapter": 22,
+    "total_mentions": 6,
+    "per_chapter": {
+      "22": {
+        "mentions": 3,
+        "snippet": "miles away from China."
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "The \u201cChina,\u201d in leaving, seemed to have carried off Phileas Fogg\u2019s last"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 2,
+      "Fogg": 2,
+      "Hong Kong": 2,
+      "Mr. Fogg": 2,
+      "Passepartout": 2,
+      "Phileas Fogg": 2,
+      "Carnatic": 1,
+      "Fix": 1
+    }
+  },
+  {
+    "canonical_name": "General Grant",
+    "aliases": [],
+    "first_chapter": 24,
+    "total_mentions": 6,
+    "per_chapter": {
+      "24": {
+        "mentions": 6,
+        "snippet": "\u201cGeneral Grant."
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Bombay": 1,
+      "East Indian": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Golden Gate": 1,
+      "Hong Kong": 1,
+      "Honourable Mr": 1
+    }
+  },
+  {
+    "canonical_name": "Great Salt Lake",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 6,
+    "per_chapter": {
+      "26": {
+        "mentions": 2,
+        "snippet": "Wahsatch Mountains, turns the Great Salt Lake, and reaches Salt Lake"
+      },
+      "27": {
+        "mentions": 2,
+        "snippet": "direction, towards the Great Salt Lake."
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "The train, on leaving Great Salt Lake at Ogden, passed northward for an"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 3,
+      "Mr. Fogg": 3,
+      "New York": 2,
+      "Phileas Fogg": 2,
+      "Salt Lake": 2,
+      "San Francisco": 2,
+      "United States": 2,
+      "Carson Valley": 1
+    }
+  },
+  {
+    "canonical_name": "Sacramento",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 6,
+    "per_chapter": {
+      "26": {
+        "mentions": 6,
+        "snippet": "descends, _vi\u00e2_ Sacramento, to the Pacific\u2014its grade, even on the Rocky"
+      }
+    },
+    "co_occurs_with": {
+      "Carson Valley": 1,
+      "Central Pacific": 1,
+      "Fogg": 1,
+      "Great Salt Lake": 1,
+      "Humboldt Mountains": 1,
+      "Humboldt Range": 1,
+      "Humboldt River": 1,
+      "Mr. Fogg": 1
+    }
+  },
+  {
+    "canonical_name": "Mormons",
+    "aliases": [],
+    "first_chapter": 27,
+    "total_mentions": 6,
+    "per_chapter": {
+      "27": {
+        "mentions": 6,
+        "snippet": "arose from the hardships to which the Mormons were actually subjected."
+      }
+    },
+    "co_occurs_with": {
+      "American Jordan": 1,
+      "Brigham Young": 1,
+      "Dead Sea": 1,
+      "Elder Hitch": 1,
+      "Elder William Hitch": 1,
+      "Far West": 1,
+      "Fogg": 1,
+      "Great Salt": 1
+    }
+  },
+  {
+    "canonical_name": "Atlantic",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 6,
+    "per_chapter": {
+      "28": {
+        "mentions": 3,
+        "snippet": "waters between the Atlantic and the Pacific."
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "not depart till the next day, and could not cross the Atlantic in time"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 2,
+      "Fogg": 2,
+      "Mr. Fogg": 2,
+      "New York": 2,
+      "Passepartout": 2,
+      "Phileas Fogg": 2,
+      "Bitter Creek": 1,
+      "Bitter Creek Valley": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Tussaud",
+    "aliases": [
+      "Tussaud"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 5,
+    "per_chapter": {
+      "2": {
+        "mentions": 5,
+        "snippet": "Madame Tussaud\u2019s as lively as my new master!"
+      }
+    },
+    "co_occurs_with": {
+      "Angelica Kauffmann": 1,
+      "Fogg": 1,
+      "Lord Longferry": 1,
+      "Mr. Fogg": 1,
+      "Mr. Phileas Fogg": 1,
+      "Passepartout": 1,
+      "Phileas Fogg": 1,
+      "Reform Club": 1
+    }
+  },
+  {
+    "canonical_name": "United States",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 5,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "the United States in seven, could he rely beyond misgiving upon"
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "Instead of sailing directly from England to the United States, like a"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "the entire width of the United States."
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "of the United States; and that finally, being drawn into ambuscade at"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 4,
+      "Mr. Fogg": 4,
+      "Phileas Fogg": 3,
+      "San Francisco": 2,
+      "Great Salt Lake": 2,
+      "Salt Lake": 2,
+      "Daily": 1,
+      "Geographical Society": 1
+    }
+  },
+  {
+    "canonical_name": "Aden",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 5,
+    "per_chapter": {
+      "9": {
+        "mentions": 5,
+        "snippet": "The distance between Suez and Aden is precisely thirteen hundred and"
+      }
+    },
+    "co_occurs_with": {
+      "Arabic Gulf": 1,
+      "Bombay": 1,
+      "East India": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Indian Ocean": 1,
+      "Mongolia": 1,
+      "Monsieur Fix": 1
+    }
+  },
+  {
+    "canonical_name": "Ganges",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 5,
+    "per_chapter": {
+      "14": {
+        "mentions": 5,
+        "snippet": "two sacred rivers, Ganges and Jumna, the waters of which attract"
+      }
+    },
+    "co_occurs_with": {
+      "Allahabad": 1,
+      "Aouda": 1,
+      "Benares": 1,
+      "Calcutta": 1,
+      "European": 1,
+      "Fogg": 1,
+      "Francis Cromarty": 1,
+      "Hong Kong": 1
+    }
+  },
+  {
+    "canonical_name": "Chinese",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 5,
+    "per_chapter": {
+      "19": {
+        "mentions": 5,
+        "snippet": "Chinese trade, and now the greater part of the transportation of"
+      }
+    },
+    "co_occurs_with": {
+      "Canton River": 1,
+      "Carnatic": 1,
+      "Celestial Empire": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Frenchman": 1,
+      "Has Monsieur Fogg": 1,
+      "Hong Kong": 1
+    }
+  },
+  {
+    "canonical_name": "Honourable Mr",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 5,
+    "per_chapter": {
+      "23": {
+        "mentions": 3,
+        "snippet": "\u201d said the Honourable Mr."
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "led him into the Honourable Mr."
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "Camerfield and the Honourable Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 3,
+      "Mr. Fogg": 3,
+      "Passepartout": 3,
+      "Phileas Fogg": 3,
+      "San Francisco": 3,
+      "Mr. Batulcar": 2,
+      "New World": 2,
+      "Aouda": 2
+    }
+  },
+  {
+    "canonical_name": "Platte River",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 5,
+    "per_chapter": {
+      "26": {
+        "mentions": 1,
+        "snippet": "of the Platte River as far as the junction of its northern branch,"
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "of the Platte River."
+      },
+      "31": {
+        "mentions": 2,
+        "snippet": "Platte River, because it was frozen."
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 3,
+      "Mr. Fogg": 3,
+      "New York": 3,
+      "Phileas Fogg": 3,
+      "Omaha": 2,
+      "Pacific Railroad": 2,
+      "Aouda": 2,
+      "Fix": 2
+    }
+  },
+  {
+    "canonical_name": "Utah",
+    "aliases": [],
+    "first_chapter": 27,
+    "total_mentions": 5,
+    "per_chapter": {
+      "27": {
+        "mentions": 5,
+        "snippet": "Utah, and subjected that territory to the laws of the Union, after"
+      }
+    },
+    "co_occurs_with": {
+      "American Jordan": 1,
+      "Brigham Young": 1,
+      "Dead Sea": 1,
+      "Elder Hitch": 1,
+      "Elder William Hitch": 1,
+      "Far West": 1,
+      "Fogg": 1,
+      "Great Salt": 1
+    }
+  },
+  {
+    "canonical_name": "Medicine Bow",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 5,
+    "per_chapter": {
+      "28": {
+        "mentions": 5,
+        "snippet": "the station-master at Medicine Bow, the next stopping place, had sent"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Atlantic": 1,
+      "Bitter Creek": 1,
+      "Bitter Creek Valley": 1,
+      "Bridger Pass": 1,
+      "Colonel Proctor": 1,
+      "Colonel Stamp": 1,
+      "Colonel Stamp Proctor": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Phileas Fogg",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Hearing that Mr."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "\u201cYou are Mr."
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "said, \u201cMr."
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "answers exactly to that of Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 4,
+      "Mr. Fogg": 4,
+      "Passepartout": 4,
+      "Phileas Fogg": 4,
+      "Hong Kong": 3,
+      "Reform Club": 2,
+      "Fix": 2,
+      "Mr. Fix": 2
+    }
+  },
+  {
+    "canonical_name": "Samuel Fallentin",
+    "aliases": [
+      "Fallentin"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 4,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "Sullivan and Samuel Fallentin, bankers; Thomas Flanagan, a brewer; and"
+      },
+      "36": {
+        "mentions": 3,
+        "snippet": "John Sullivan and Samuel Fallentin, the bankers, Andrew Stuart,"
+      }
+    },
+    "co_occurs_with": {
+      "Andrew Stuart": 2,
+      "Fogg": 2,
+      "Gauthier Ralph": 2,
+      "John Sullivan": 2,
+      "Mr. Fogg": 2,
+      "New York": 2,
+      "Phileas Fogg": 2,
+      "Reform Club": 2
+    }
+  },
+  {
+    "canonical_name": "Gauthier Ralph",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 4,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "Gauthier Ralph, one of the Directors of the Bank of England\u2014all rich"
+      },
+      "36": {
+        "mentions": 3,
+        "snippet": "the engineer, Gauthier Ralph, the director of the Bank of England, and"
+      }
+    },
+    "co_occurs_with": {
+      "Andrew Stuart": 2,
+      "Fogg": 2,
+      "John Sullivan": 2,
+      "Mr. Fogg": 2,
+      "New York": 2,
+      "Phileas Fogg": 2,
+      "Reform Club": 2,
+      "Samuel Fallentin": 2
+    }
+  },
+  {
+    "canonical_name": "Red Sea",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 4,
+    "per_chapter": {
+      "6": {
+        "mentions": 2,
+        "snippet": "galleys, were discernible on the Red Sea."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "noble steamer rode out at full steam upon the waters of the Red Sea."
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "memorable scenes of the Red Sea with cold indifference; did not care to"
+      }
+    },
+    "co_occurs_with": {
+      "Fix": 3,
+      "Mongolia": 3,
+      "Fogg": 2,
+      "Mr. Fogg": 2,
+      "Passepartout": 2,
+      "Phileas Fogg": 2,
+      "Suez": 2,
+      "Bombay": 2
+    }
+  },
+  {
+    "canonical_name": "Brindisi",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 4,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "Brindisi and Bombay _vi\u00e2_ the Suez Canal, and was one of the fastest"
+      }
+    },
+    "co_occurs_with": {
+      "Bombay": 1,
+      "English Government": 1,
+      "Fix": 1,
+      "Good Hope": 1,
+      "India": 1,
+      "Mongolia": 1,
+      "Mr. Fix": 1,
+      "Red Sea": 1
+    }
+  },
+  {
+    "canonical_name": "Malabar Hill",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 1,
+        "snippet": "Malabar Hill, and was seized with an irresistible desire to see its"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "pagoda of Malabar Hill, at Bombay."
+      }
+    },
+    "co_occurs_with": {
+      "Calcutta": 2,
+      "Fogg": 2,
+      "Mr. Fogg": 2,
+      "Passepartout": 2,
+      "Phileas Fogg": 2,
+      "British Government": 1,
+      "East India Company": 1,
+      "East Indians": 1
+    }
+  },
+  {
+    "canonical_name": "Bundelcund",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 4,
+    "per_chapter": {
+      "12": {
+        "mentions": 4,
+        "snippet": "Bundelcund, which is little frequented by travellers, is inhabited by a"
+      }
+    },
+    "co_occurs_with": {
+      "Allahabad": 1,
+      "Fogg": 1,
+      "Francis Cromarty": 1,
+      "Kiouni": 1,
+      "Mr. Fogg": 1,
+      "Parsee": 1,
+      "Passepartout": 1,
+      "Phileas Fogg": 1
+    }
+  },
+  {
+    "canonical_name": "Judge Obadiah",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 4,
+    "per_chapter": {
+      "15": {
+        "mentions": 4,
+        "snippet": "appear before Judge Obadiah at half-past eight."
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Bombay": 1,
+      "Calcutta": 1,
+      "Fogg": 1,
+      "Hong Kong": 1,
+      "Malabar Hill": 1,
+      "Mr. Fogg": 1,
+      "Mr. Oysterpuff": 1
+    }
+  },
+  {
+    "canonical_name": "Long Noses",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 4,
+    "per_chapter": {
+      "23": {
+        "mentions": 4,
+        "snippet": "pyramid,\u201d executed by the Long Noses of the god Tingou."
+      }
+    },
+    "co_occurs_with": {
+      "Car": 1,
+      "Fogg": 1,
+      "Honourable Mr": 1,
+      "Honourable William Batulcar": 1,
+      "Japanese": 1,
+      "Middle Ages": 1,
+      "Mr. Batulcar": 1,
+      "Mr. Fogg": 1
+    }
+  },
+  {
+    "canonical_name": "Colonel Stamp Proctor",
+    "aliases": [],
+    "first_chapter": 25,
+    "total_mentions": 4,
+    "per_chapter": {
+      "25": {
+        "mentions": 1,
+        "snippet": "\u201cColonel Stamp Proctor."
+      },
+      "28": {
+        "mentions": 3,
+        "snippet": "down the platforms; and among these Aouda recognised Colonel Stamp"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 2,
+      "Colonel Proctor": 2,
+      "Fix": 2,
+      "Fogg": 2,
+      "Mr. Fogg": 2,
+      "New York": 2,
+      "Passepartout": 2,
+      "Phileas Fogg": 2
+    }
+  },
+  {
+    "canonical_name": "Stamp Proctor",
+    "aliases": [],
+    "first_chapter": 25,
+    "total_mentions": 4,
+    "per_chapter": {
+      "25": {
+        "mentions": 1,
+        "snippet": "\u201cColonel Stamp Proctor."
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "down the platforms; and among these Aouda recognised Colonel Stamp"
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "\u201cAll this is an evasion,\u201d cried Stamp Proctor."
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 3,
+      "Colonel Proctor": 3,
+      "Fix": 3,
+      "Fogg": 3,
+      "Mr. Fogg": 3,
+      "New York": 3,
+      "Passepartout": 3,
+      "Phileas Fogg": 3
+    }
+  },
+  {
+    "canonical_name": "Brigham Young",
+    "aliases": [],
+    "first_chapter": 27,
+    "total_mentions": 4,
+    "per_chapter": {
+      "27": {
+        "mentions": 4,
+        "snippet": "also make a martyr of Brigham Young."
+      }
+    },
+    "co_occurs_with": {
+      "American Jordan": 1,
+      "Dead Sea": 1,
+      "Elder Hitch": 1,
+      "Elder William Hitch": 1,
+      "Far West": 1,
+      "Fogg": 1,
+      "Great Salt": 1,
+      "Great Salt Lake": 1
+    }
+  },
+  {
+    "canonical_name": "Bordeaux",
+    "aliases": [],
+    "first_chapter": 32,
+    "total_mentions": 4,
+    "per_chapter": {
+      "32": {
+        "mentions": 4,
+        "snippet": "\u201cBordeaux."
+      }
+    },
+    "co_occurs_with": {
+      "Andrew Speedy": 1,
+      "Aouda": 1,
+      "Atlantic": 1,
+      "Captain Speedy": 1,
+      "China": 1,
+      "Fogg": 1,
+      "French Transatlantic Company": 1,
+      "Henrietta": 1
+    }
+  },
+  {
+    "canonical_name": "Custom House",
+    "aliases": [],
+    "first_chapter": 34,
+    "total_mentions": 4,
+    "per_chapter": {
+      "34": {
+        "mentions": 4,
+        "snippet": "He had been shut up in the Custom House,"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Liverpool": 1,
+      "Mr. Fogg": 1,
+      "Passepartout": 1,
+      "Phileas Fogg": 1,
+      "Reform Club": 1
+    }
+  },
+  {
+    "canonical_name": "Reverend Samuel Wilson",
+    "aliases": [],
+    "first_chapter": 35,
+    "total_mentions": 4,
+    "per_chapter": {
+      "35": {
+        "mentions": 1,
+        "snippet": "Fogg asked him if it was not too late to notify the Reverend Samuel"
+      },
+      "37": {
+        "mentions": 3,
+        "snippet": "services of the Reverend Samuel Wilson in a certain marriage ceremony,"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 2,
+      "Fogg": 2,
+      "Mr. Fogg": 2,
+      "Passepartout": 2,
+      "Phileas Fogg": 2,
+      "Reform Club": 2,
+      "Reverend Samuel": 2,
+      "Samuel Wilson": 2
+    }
+  },
+  {
+    "canonical_name": "Lord Longferry",
+    "aliases": [
+      "Longferry"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "master, young Lord Longferry, Member of Parliament, after passing his"
+      }
+    },
+    "co_occurs_with": {
+      "Angelica Kauffmann": 1,
+      "Fogg": 1,
+      "Madame Tussaud": 1,
+      "Mr. Fogg": 1,
+      "Mr. Phileas Fogg": 1,
+      "Passepartout": 1,
+      "Phileas Fogg": 1,
+      "Reform Club": 1
+    }
+  },
+  {
+    "canonical_name": "John Sullivan",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "\u201cThat is true, gentlemen,\u201d added John Sullivan."
+      },
+      "36": {
+        "mentions": 2,
+        "snippet": "\u201cObserve, too,\u201d added John Sullivan, \u201cthat we have received no"
+      }
+    },
+    "co_occurs_with": {
+      "Andrew Stuart": 2,
+      "Fogg": 2,
+      "Gauthier Ralph": 2,
+      "Mr. Fogg": 2,
+      "New York": 2,
+      "Phileas Fogg": 2,
+      "Reform Club": 2,
+      "Samuel Fallentin": 2
+    }
+  },
+  {
+    "canonical_name": "All",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cAll included,\u201d returned Phileas Fogg, continuing to play despite the"
+      }
+    },
+    "co_occurs_with": {
+      "Andrew Stuart": 1,
+      "Bank": 1,
+      "Daily": 1,
+      "Fogg": 1,
+      "From Bombay": 1,
+      "From Calcutta": 1,
+      "From Hong Kong": 1,
+      "From New York": 1
+    }
+  },
+  {
+    "canonical_name": "Reached",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cReached Paris, Thursday, October 3rd, at 7."
+      }
+    },
+    "co_occurs_with": {
+      "Fix": 1,
+      "Fogg": 1,
+      "Hong Kong": 1,
+      "Left London": 1,
+      "Left Paris": 1,
+      "Left Turin": 1,
+      "Mongolia": 1,
+      "Mont Cenis": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Fogg",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 2,
+        "snippet": "Monsieur Fogg came home from his club, and three-quarters of an hour"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "\u201cHas Monsieur Fogg dared\u2014fifty-five"
+      }
+    },
+    "co_occurs_with": {
+      "Fix": 2,
+      "Fogg": 2,
+      "Mr. Fogg": 2,
+      "Passepartout": 2,
+      "Phileas Fogg": 2,
+      "In Africa": 1,
+      "In Asia": 1,
+      "In Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Indian Ocean",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 2,
+        "snippet": "fortifications which make this place the Gibraltar of the Indian Ocean,"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "of Bengal does not agree with me as well as the Indian Ocean."
+      }
+    },
+    "co_occurs_with": {
+      "Bombay": 2,
+      "Fix": 2,
+      "Fogg": 2,
+      "Monsieur Fix": 2,
+      "Mr. Fogg": 2,
+      "Mr. Passepartout": 2,
+      "Passepartout": 2,
+      "Phileas Fogg": 2
+    }
+  },
+  {
+    "canonical_name": "Kholby",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "\u201cAt the hamlet of Kholby."
+      }
+    },
+    "co_occurs_with": {
+      "Allahabad": 1,
+      "Bombay": 1,
+      "Calcutta": 1,
+      "English Government": 1,
+      "Fogg": 1,
+      "Francis Cromarty": 1,
+      "Hong Kong": 1,
+      "India": 1
+    }
+  },
+  {
+    "canonical_name": "Vindhias",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 3,
+    "per_chapter": {
+      "12": {
+        "mentions": 3,
+        "snippet": "The principal chain of the Vindhias was crossed by eight in the"
+      }
+    },
+    "co_occurs_with": {
+      "Allahabad": 1,
+      "Bundelcund": 1,
+      "Fogg": 1,
+      "Francis Cromarty": 1,
+      "Kiouni": 1,
+      "Mr. Fogg": 1,
+      "Parsee": 1,
+      "Passepartout": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Cornwallis",
+    "aliases": [
+      "Cornwallis"
+    ],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 3,
+        "snippet": "famous rose-water factories; or the tomb of Lord Cornwallis, rising on"
+      }
+    },
+    "co_occurs_with": {
+      "Allahabad": 1,
+      "Aouda": 1,
+      "Benares": 1,
+      "Calcutta": 1,
+      "European": 1,
+      "Fogg": 1,
+      "Francis Cromarty": 1,
+      "Ganges": 1
+    }
+  },
+  {
+    "canonical_name": "European",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 3,
+        "snippet": "that she was a charming woman, in all the European acceptation of the"
+      }
+    },
+    "co_occurs_with": {
+      "Allahabad": 1,
+      "Aouda": 1,
+      "Benares": 1,
+      "Calcutta": 1,
+      "Fogg": 1,
+      "Francis Cromarty": 1,
+      "Ganges": 1,
+      "Hong Kong": 1
+    }
+  },
+  {
+    "canonical_name": "Jeejeeh",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "cousin Jeejeeh."
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Carnatic": 1,
+      "Club Hotel": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Hong Kong": 1,
+      "Mr. Fogg": 1,
+      "Phileas Fogg": 1
+    }
+  },
+  {
+    "canonical_name": "Frenchman",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 3,
+    "per_chapter": {
+      "19": {
+        "mentions": 3,
+        "snippet": "They ordered two bottles of port, to which the Frenchman did ample"
+      }
+    },
+    "co_occurs_with": {
+      "Canton River": 1,
+      "Carnatic": 1,
+      "Celestial Empire": 1,
+      "Chinese": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Has Monsieur Fogg": 1,
+      "Hong Kong": 1
+    }
+  },
+  {
+    "canonical_name": "Nagasaki",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "\u201cBy going to Nagasaki, at the extreme south of Japan, or even to"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Carnatic": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Hong Kong": 1,
+      "John Bunsby": 1,
+      "Mr. Fogg": 1,
+      "Passepartout": 1
+    }
+  },
+  {
+    "canonical_name": "Good",
+    "aliases": [],
+    "first_chapter": 22,
+    "total_mentions": 3,
+    "per_chapter": {
+      "22": {
+        "mentions": 3,
+        "snippet": "\u201cGood!"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Carnatic": 1,
+      "China": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Hong Kong": 1,
+      "Japan": 1,
+      "Japanese Empire": 1
+    }
+  },
+  {
+    "canonical_name": "Tingou",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 3,
+    "per_chapter": {
+      "23": {
+        "mentions": 3,
+        "snippet": "pyramid,\u201d executed by the Long Noses of the god Tingou."
+      }
+    },
+    "co_occurs_with": {
+      "Car": 1,
+      "Fogg": 1,
+      "Honourable Mr": 1,
+      "Honourable William Batulcar": 1,
+      "Japanese": 1,
+      "Long Noses": 1,
+      "Middle Ages": 1,
+      "Mr. Batulcar": 1
+    }
+  },
+  {
+    "canonical_name": "Car",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 3,
+    "per_chapter": {
+      "23": {
+        "mentions": 3,
+        "snippet": "Long Noses were to represent the Car of Juggernaut."
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 1,
+      "Honourable Mr": 1,
+      "Honourable William Batulcar": 1,
+      "Japanese": 1,
+      "Long Noses": 1,
+      "Middle Ages": 1,
+      "Mr. Batulcar": 1,
+      "Mr. Fogg": 1
+    }
+  },
+  {
+    "canonical_name": "Montgomery Street",
+    "aliases": [],
+    "first_chapter": 25,
+    "total_mentions": 3,
+    "per_chapter": {
+      "25": {
+        "mentions": 3,
+        "snippet": "of the streets\u2014especially Montgomery Street, which is to San Francisco"
+      }
+    },
+    "co_occurs_with": {
+      "An English": 1,
+      "Aouda": 1,
+      "City Hall": 1,
+      "Colonel Proctor": 1,
+      "Colonel Stamp Proctor": 1,
+      "Englishman": 1,
+      "Fix": 1,
+      "Fogg": 1
+    }
+  },
+  {
+    "canonical_name": "Hurrah",
+    "aliases": [],
+    "first_chapter": 25,
+    "total_mentions": 3,
+    "per_chapter": {
+      "25": {
+        "mentions": 3,
+        "snippet": "\u201cHurrah for Camerfield!"
+      }
+    },
+    "co_occurs_with": {
+      "An English": 1,
+      "Aouda": 1,
+      "City Hall": 1,
+      "Colonel Proctor": 1,
+      "Colonel Stamp Proctor": 1,
+      "Englishman": 1,
+      "Fix": 1,
+      "Fogg": 1
+    }
+  },
+  {
+    "canonical_name": "Englishman",
+    "aliases": [],
+    "first_chapter": 25,
+    "total_mentions": 3,
+    "per_chapter": {
+      "25": {
+        "mentions": 3,
+        "snippet": "the weapons which nature has placed at the end of every Englishman\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "An English": 1,
+      "Aouda": 1,
+      "City Hall": 1,
+      "Colonel Proctor": 1,
+      "Colonel Stamp Proctor": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Honourable Mr": 1
+    }
+  },
+  {
+    "canonical_name": "Pacific Railroad",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 3,
+    "per_chapter": {
+      "26": {
+        "mentions": 2,
+        "snippet": "The Pacific Railroad is,"
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "The Pacific Railroad proper finds its terminus at this important"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 2,
+      "Mr. Fogg": 2,
+      "New York": 2,
+      "Omaha": 2,
+      "Phileas Fogg": 2,
+      "Platte River": 2,
+      "Carson Valley": 1,
+      "Central Pacific": 1
+    }
+  },
+  {
+    "canonical_name": "State",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 3,
+    "per_chapter": {
+      "26": {
+        "mentions": 3,
+        "snippet": "across the State of California."
+      }
+    },
+    "co_occurs_with": {
+      "Carson Valley": 1,
+      "Central Pacific": 1,
+      "Fogg": 1,
+      "Great Salt Lake": 1,
+      "Humboldt Mountains": 1,
+      "Humboldt Range": 1,
+      "Humboldt River": 1,
+      "Mr. Fogg": 1
+    }
+  },
+  {
+    "canonical_name": "Elder William Hitch",
+    "aliases": [],
+    "first_chapter": 27,
+    "total_mentions": 3,
+    "per_chapter": {
+      "27": {
+        "mentions": 3,
+        "snippet": "that Elder William Hitch, Mormon missionary, taking advantage of his"
+      }
+    },
+    "co_occurs_with": {
+      "American Jordan": 1,
+      "Brigham Young": 1,
+      "Dead Sea": 1,
+      "Elder Hitch": 1,
+      "Far West": 1,
+      "Fogg": 1,
+      "Great Salt": 1,
+      "Great Salt Lake": 1
+    }
+  },
+  {
+    "canonical_name": "Union",
+    "aliases": [],
+    "first_chapter": 27,
+    "total_mentions": 3,
+    "per_chapter": {
+      "27": {
+        "mentions": 3,
+        "snippet": "Utah, and subjected that territory to the laws of the Union, after"
+      }
+    },
+    "co_occurs_with": {
+      "American Jordan": 1,
+      "Brigham Young": 1,
+      "Dead Sea": 1,
+      "Elder Hitch": 1,
+      "Elder William Hitch": 1,
+      "Far West": 1,
+      "Fogg": 1,
+      "Great Salt": 1
+    }
+  },
+  {
+    "canonical_name": "Rocky Mountains",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 3,
+    "per_chapter": {
+      "28": {
+        "mentions": 3,
+        "snippet": "between this range and the Rocky Mountains that the American engineers"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Atlantic": 1,
+      "Bitter Creek": 1,
+      "Bitter Creek Valley": 1,
+      "Bridger Pass": 1,
+      "Colonel Proctor": 1,
+      "Colonel Stamp": 1,
+      "Colonel Stamp Proctor": 1
+    }
+  },
+  {
+    "canonical_name": "Plum Creek",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "Do you know Plum Creek?"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Camp Walbach": 1,
+      "Cheyne Pass": 1,
+      "Colonel Proctor": 1,
+      "Evans Pass": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Fort Kearney": 1
+    }
+  },
+  {
+    "canonical_name": "Andrew Speedy",
+    "aliases": [],
+    "first_chapter": 32,
+    "total_mentions": 3,
+    "per_chapter": {
+      "32": {
+        "mentions": 1,
+        "snippet": "\u201cAnd I am Andrew Speedy, of Cardiff."
+      },
+      "33": {
+        "mentions": 2,
+        "snippet": "This had a prodigious effect on Andrew Speedy."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Speedy": 2,
+      "Fogg": 2,
+      "Henrietta": 2,
+      "Mr. Fogg": 2,
+      "New York": 2,
+      "Phileas Fogg": 2,
+      "Aouda": 1,
+      "Atlantic": 1
+    }
+  },
+  {
+    "canonical_name": "Dublin",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "These mails are carried to Dublin by express"
+      }
+    },
+    "co_occurs_with": {
+      "Andrew Speedy": 1,
+      "Captain Fogg": 1,
+      "Captain Speedy": 1,
+      "Fastnet Light": 1,
+      "Fire Island": 1,
+      "Fix": 1,
+      "Fogg": 1,
+      "Henrietta": 1
+    }
+  },
+  {
+    "canonical_name": "Samuel Wilson",
+    "aliases": [],
+    "first_chapter": 35,
+    "total_mentions": 3,
+    "per_chapter": {
+      "35": {
+        "mentions": 1,
+        "snippet": "Fogg asked him if it was not too late to notify the Reverend Samuel"
+      },
+      "37": {
+        "mentions": 2,
+        "snippet": "services of the Reverend Samuel Wilson in a certain marriage ceremony,"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 2,
+      "Fogg": 2,
+      "Mr. Fogg": 2,
+      "Passepartout": 2,
+      "Phileas Fogg": 2,
+      "Reform Club": 2,
+      "Reverend Samuel": 2,
+      "Reverend Samuel Wilson": 2
+    }
+  },
+  {
+    "canonical_name": "Impossible",
+    "aliases": [],
+    "first_chapter": 37,
+    "total_mentions": 3,
+    "per_chapter": {
+      "37": {
+        "mentions": 3,
+        "snippet": "\u201cImpossible?"
+      }
+    },
+    "co_occurs_with": {
+      "Aouda": 1,
+      "Dear Mr": 1,
+      "Fogg": 1,
+      "Mr. Fogg": 1,
+      "Passepartout": 1,
+      "Phileas Fogg": 1,
+      "Reform Club": 1,
+      "Reverend Samuel": 1
+    }
+  }
+]

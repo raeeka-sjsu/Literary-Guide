@@ -1,0 +1,763 @@
+[
+  {
+    "canonical_name": "Time Traveller",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 55,
+    "per_chapter": {
+      "1": {
+        "mentions": 11,
+        "snippet": "The Time Traveller (for so it will be convenient to speak of him) was"
+      },
+      "2": {
+        "mentions": 11,
+        "snippet": "The thing the Time Traveller held in his hand was a glittering metallic"
+      },
+      "3": {
+        "mentions": 20,
+        "snippet": "The fact is, the Time Traveller was one of those men who are"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "_The Time Traveller paused, put his hand into his pocket, and silently"
+      },
+      "16": {
+        "mentions": 12,
+        "snippet": "I took my eyes off the Time Traveller\u2019s face, and looked round"
+      }
+    },
+    "co_occurs_with": {
+      "Medical Man": 4,
+      "Time Machine": 4,
+      "Filby": 2,
+      "Provincial Mayor": 2,
+      "Psychologist": 2,
+      "Editor": 2,
+      "Four Dimensions": 1,
+      "Fourth Dimension": 1
+    }
+  },
+  {
+    "canonical_name": "Weena",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 45,
+    "per_chapter": {
+      "8": {
+        "mentions": 7,
+        "snippet": "found that her name was Weena, which, though I don\u2019t know what it"
+      },
+      "10": {
+        "mentions": 12,
+        "snippet": "Weena had put this into my head by some at first incomprehensible"
+      },
+      "11": {
+        "mentions": 10,
+        "snippet": "I thought, rather foolishly, that Weena might help"
+      },
+      "12": {
+        "mentions": 16,
+        "snippet": "and besides Weena was tired."
+      }
+    },
+    "co_occurs_with": {
+      "Morlocks": 4,
+      "Time Machine": 4,
+      "Green Porcelain": 3,
+      "Palace": 3,
+      "White Sphinx": 3,
+      "Dark Nights": 1,
+      "Great Fear": 1,
+      "Time Traveller": 1
+    }
+  },
+  {
+    "canonical_name": "Morlocks",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 45,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "had seen of the Morlocks\u2014that, by the bye, was the name by which these"
+      },
+      "9": {
+        "mentions": 5,
+        "snippet": "influence of the Eloi, whose disgust of the Morlocks I now began to"
+      },
+      "10": {
+        "mentions": 14,
+        "snippet": "altogether new element in the sickening quality of the Morlocks\u2014a"
+      },
+      "11": {
+        "mentions": 4,
+        "snippet": "been bodily removed\u2014by the Morlocks, as I judged."
+      },
+      "12": {
+        "mentions": 15,
+        "snippet": "I felt sleep coming upon me, and the Morlocks with it."
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "caught napping by the Morlocks, and, stretching myself, I came on down"
+      }
+    },
+    "co_occurs_with": {
+      "Time Machine": 6,
+      "Green Porcelain": 4,
+      "Weena": 4,
+      "White Sphinx": 4,
+      "Palace": 3,
+      "Eight Hundred": 2,
+      "Thousand Seven Hundred": 2,
+      "Dark Nights": 1
+    }
+  },
+  {
+    "canonical_name": "Time Machine",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 32,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "Psychologist himself who sent forth the model Time Machine on its"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "of the Time Machine,\u201d I said, and took up the Psychologist\u2019s account of"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "frantically to the Time Machine, and strove hard to readjust it."
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "at the Time Machine."
+      },
+      "7": {
+        "mentions": 5,
+        "snippet": "The Time Machine was gone!"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "\u201cThen, again, about the Time Machine: something, I knew not what, had"
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "felt assured that the Time Machine was only to be recovered by boldly"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "during my night\u2019s anguish at the loss of the Time Machine, I had felt a"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "Even my preoccupation about the Time Machine receded a"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "fire, towards the hiding-place of the Time Machine."
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "this was the Time Machine."
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "\u201cI stopped very gently and sat upon the Time Machine, looking round."
+      },
+      "16": {
+        "mentions": 5,
+        "snippet": "Did I ever make a Time Machine,"
+      }
+    },
+    "co_occurs_with": {
+      "Morlocks": 6,
+      "White Sphinx": 6,
+      "Time Traveller": 4,
+      "Green Porcelain": 4,
+      "Weena": 4,
+      "Medical Man": 3,
+      "Palace": 3,
+      "Eight Hundred": 3
+    }
+  },
+  {
+    "canonical_name": "Medical Man",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 24,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "\u201cBut,\u201d said the Medical Man, staring hard at a coal in the fire, \u201cif"
+      },
+      "2": {
+        "mentions": 7,
+        "snippet": "The Medical Man and the"
+      },
+      "3": {
+        "mentions": 6,
+        "snippet": "Medical Man, whom I met on Friday at the Linn\u00e6an."
+      },
+      "16": {
+        "mentions": 6,
+        "snippet": "\u201d He looked at the Medical Man."
+      }
+    },
+    "co_occurs_with": {
+      "Time Traveller": 4,
+      "Time Machine": 3,
+      "Filby": 2,
+      "Provincial Mayor": 2,
+      "Psychologist": 2,
+      "Editor": 2,
+      "Four Dimensions": 1,
+      "Fourth Dimension": 1
+    }
+  },
+  {
+    "canonical_name": "Editor",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 20,
+    "per_chapter": {
+      "3": {
+        "mentions": 16,
+        "snippet": "\u201cIt seems a pity to let the dinner spoil,\u201d said the Editor of a"
+      },
+      "16": {
+        "mentions": 4,
+        "snippet": "The Editor was looking hard at the end of his cigar\u2014the"
+      }
+    },
+    "co_occurs_with": {
+      "Medical Man": 2,
+      "Time Machine": 2,
+      "Time Traveller": 2,
+      "Doctor": 1,
+      "Eminent Scientist": 1,
+      "Hettie Potter": 1,
+      "Journalist": 1,
+      "Psychologist": 1
+    }
+  },
+  {
+    "canonical_name": "Filby",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 15,
+    "per_chapter": {
+      "1": {
+        "mentions": 11,
+        "snippet": "Filby, an argumentative person with red hair."
+      },
+      "2": {
+        "mentions": 4,
+        "snippet": "Filby sat"
+      }
+    },
+    "co_occurs_with": {
+      "Medical Man": 2,
+      "Provincial Mayor": 2,
+      "Time Traveller": 2,
+      "Four Dimensions": 1,
+      "Fourth Dimension": 1,
+      "New York Mathematical Society": 1,
+      "One": 1,
+      "Professor Simon Newcomb": 1
+    }
+  },
+  {
+    "canonical_name": "Psychologist",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "\u201cThat is all right,\u201d said the Psychologist."
+      },
+      "3": {
+        "mentions": 4,
+        "snippet": "The Psychologist was the only person besides the Doctor and myself who"
+      }
+    },
+    "co_occurs_with": {
+      "Medical Man": 2,
+      "Time Traveller": 2,
+      "Filby": 1,
+      "Four Dimensions": 1,
+      "Fourth Dimension": 1,
+      "New York Mathematical Society": 1,
+      "One": 1,
+      "Professor Simon Newcomb": 1
+    }
+  },
+  {
+    "canonical_name": "Space",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "which we call the three planes of Space, and a fourth, Time."
+      }
+    },
+    "co_occurs_with": {
+      "Filby": 1,
+      "Four Dimensions": 1,
+      "Fourth Dimension": 1,
+      "Medical Man": 1,
+      "New York Mathematical Society": 1,
+      "One": 1,
+      "Professor Simon Newcomb": 1,
+      "Provincial Mayor": 1
+    }
+  },
+  {
+    "canonical_name": "Palace",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 9,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "tall pinnacles of the Palace of Green Porcelain and the polished gleam"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "\u201cI found the Palace of Green Porcelain, when we approached it about"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "\u201cWe emerged from the Palace while the sun was still in part above the"
+      }
+    },
+    "co_occurs_with": {
+      "Green Porcelain": 3,
+      "Morlocks": 3,
+      "Time Machine": 3,
+      "Weena": 3,
+      "White Sphinx": 2,
+      "Dark Nights": 1,
+      "Great Fear": 1,
+      "Time Traveller": 1
+    }
+  },
+  {
+    "canonical_name": "White Sphinx",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 8,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "White Sphinx were the heads and shoulders of men running."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "figure of the White Sphinx upon the pedestal of bronze, growing"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "taken it into the hollow pedestal of the White Sphinx."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "White Sphinx."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "I was determined to reach the White Sphinx early the next"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "the hill towards the White Sphinx."
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "little lawn to the pedestal of the White Sphinx, into which the"
+      }
+    },
+    "co_occurs_with": {
+      "Time Machine": 6,
+      "Morlocks": 4,
+      "Weena": 3,
+      "Green Porcelain": 2,
+      "Palace": 2,
+      "Mrs. Watchett": 2,
+      "Eight Hundred": 2,
+      "Thousand Seven Hundred": 2
+    }
+  },
+  {
+    "canonical_name": "Green Porcelain",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 7,
+    "per_chapter": {
+      "9": {
+        "mentions": 1,
+        "snippet": "curiosity regarding the Palace of Green Porcelain was a piece of"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "tall pinnacles of the Palace of Green Porcelain and the polished gleam"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "\u201cI found the Palace of Green Porcelain, when we approached it about"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "Green Porcelain."
+      }
+    },
+    "co_occurs_with": {
+      "Morlocks": 4,
+      "Time Machine": 4,
+      "Palace": 3,
+      "Weena": 3,
+      "White Sphinx": 2,
+      "Dark Nights": 1,
+      "Great Fear": 1,
+      "Time Traveller": 1
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "\u201cThere I object,\u201d said Filby."
+      }
+    },
+    "co_occurs_with": {
+      "Filby": 1,
+      "Four Dimensions": 1,
+      "Fourth Dimension": 1,
+      "Medical Man": 1,
+      "New York Mathematical Society": 1,
+      "One": 1,
+      "Professor Simon Newcomb": 1,
+      "Provincial Mayor": 1
+    }
+  },
+  {
+    "canonical_name": "Silent Man",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 5,
+    "per_chapter": {
+      "3": {
+        "mentions": 5,
+        "snippet": "with a grunt, and the Silent Man followed suit."
+      }
+    },
+    "co_occurs_with": {
+      "Doctor": 1,
+      "Editor": 1,
+      "Eminent Scientist": 1,
+      "Hettie Potter": 1,
+      "Journalist": 1,
+      "Medical Man": 1,
+      "Psychologist": 1,
+      "Remarkable Behaviour": 1
+    }
+  },
+  {
+    "canonical_name": "Journalist",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 5,
+    "per_chapter": {
+      "3": {
+        "mentions": 5,
+        "snippet": "\u201d said the Journalist."
+      }
+    },
+    "co_occurs_with": {
+      "Doctor": 1,
+      "Editor": 1,
+      "Eminent Scientist": 1,
+      "Hettie Potter": 1,
+      "Medical Man": 1,
+      "Psychologist": 1,
+      "Remarkable Behaviour": 1,
+      "Silent Man": 1
+    }
+  },
+  {
+    "canonical_name": "Provincial Mayor",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "\u201c_I_ have not,\u201d said the Provincial Mayor."
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "Provincial Mayor watched him in profile from the right, the"
+      }
+    },
+    "co_occurs_with": {
+      "Filby": 2,
+      "Medical Man": 2,
+      "Time Traveller": 2,
+      "Four Dimensions": 1,
+      "Fourth Dimension": 1,
+      "New York Mathematical Society": 1,
+      "One": 1,
+      "Professor Simon Newcomb": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Watchett",
+    "aliases": [
+      "Watchett"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 2,
+        "snippet": "Mrs."
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "that when I set out, before my velocity became very high, Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "White Sphinx": 2,
+      "Time Machine": 1,
+      "Time Machines": 1
+    }
+  },
+  {
+    "canonical_name": "Underworld",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 4,
+    "per_chapter": {
+      "13": {
+        "mentions": 4,
+        "snippet": "Underworld."
+      }
+    },
+    "co_occurs_with": {
+      "Eight Hundred": 1,
+      "Morlocks": 1,
+      "Mother Necessity": 1,
+      "Thousand Seven Hundred": 1,
+      "Time Machine": 1,
+      "White Sphinx": 1
+    }
+  },
+  {
+    "canonical_name": "Fourth Dimension",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cReally this is what is meant by the Fourth Dimension, though some"
+      }
+    },
+    "co_occurs_with": {
+      "Filby": 1,
+      "Four Dimensions": 1,
+      "Medical Man": 1,
+      "New York Mathematical Society": 1,
+      "One": 1,
+      "Professor Simon Newcomb": 1,
+      "Provincial Mayor": 1,
+      "Psychologist": 1
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201d exclaimed the Very Young Man."
+      }
+    },
+    "co_occurs_with": {
+      "Filby": 1,
+      "Four Dimensions": 1,
+      "Fourth Dimension": 1,
+      "Medical Man": 1,
+      "New York Mathematical Society": 1,
+      "One": 1,
+      "Professor Simon Newcomb": 1,
+      "Provincial Mayor": 1
+    }
+  },
+  {
+    "canonical_name": "Young",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201d exclaimed the Very Young Man."
+      }
+    },
+    "co_occurs_with": {
+      "Filby": 1,
+      "Four Dimensions": 1,
+      "Fourth Dimension": 1,
+      "Medical Man": 1,
+      "New York Mathematical Society": 1,
+      "One": 1,
+      "Professor Simon Newcomb": 1,
+      "Provincial Mayor": 1
+    }
+  },
+  {
+    "canonical_name": "One",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cOne might travel back and verify the accepted account of"
+      }
+    },
+    "co_occurs_with": {
+      "Filby": 1,
+      "Four Dimensions": 1,
+      "Fourth Dimension": 1,
+      "Medical Man": 1,
+      "New York Mathematical Society": 1,
+      "Professor Simon Newcomb": 1,
+      "Provincial Mayor": 1,
+      "Psychologist": 1
+    }
+  },
+  {
+    "canonical_name": "Look",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Look at the table too, and satisfy yourselves there is no"
+      }
+    },
+    "co_occurs_with": {
+      "Filby": 1,
+      "Medical Man": 1,
+      "Provincial Mayor": 1,
+      "The Psychologist": 1,
+      "Time Machine": 1,
+      "Time Traveller": 1
+    }
+  },
+  {
+    "canonical_name": "Doctor",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "well-known daily paper; and thereupon the Doctor rang the bell."
+      }
+    },
+    "co_occurs_with": {
+      "Editor": 1,
+      "Eminent Scientist": 1,
+      "Hettie Potter": 1,
+      "Journalist": 1,
+      "Medical Man": 1,
+      "Psychologist": 1,
+      "Remarkable Behaviour": 1,
+      "Silent Man": 1
+    }
+  },
+  {
+    "canonical_name": "Eight Hundred",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "had always anticipated that the people of the year Eight Hundred and"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "day of my visit, that was how the world of Eight Hundred and Two"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "So I say I saw it in my last view of the world of Eight Hundred and Two"
+      }
+    },
+    "co_occurs_with": {
+      "Time Machine": 3,
+      "Morlocks": 2,
+      "Thousand Seven Hundred": 2,
+      "White Sphinx": 2,
+      "Two Thousand": 1,
+      "Central Africa": 1,
+      "Eight Hundred Thousand": 1,
+      "Golden Age": 1
+    }
+  },
+  {
+    "canonical_name": "Suppose",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "\u2018Suppose the worst?"
+      }
+    },
+    "co_occurs_with": {
+      "Time Machine": 1,
+      "White Sphinx": 1
+    }
+  },
+  {
+    "canonical_name": "Golden Age",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "how wide the interval between myself and these of the Golden Age!"
+      }
+    },
+    "co_occurs_with": {
+      "Central Africa": 1,
+      "Eight Hundred": 1,
+      "Eight Hundred Thousand": 1,
+      "Grant Allen": 1,
+      "Metropolitan Railway": 1,
+      "Morlocks": 1,
+      "New Race": 1,
+      "Parcels Delivery Company": 1
+    }
+  }
+]

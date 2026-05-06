@@ -1,0 +1,2508 @@
+[
+  {
+    "canonical_name": "Lord Henry",
+    "aliases": [
+      "Henry"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 600,
+    "per_chapter": {
+      "2": {
+        "mentions": 51,
+        "snippet": "lying, smoking, as was his custom, innumerable cigarettes, Lord Henry"
+      },
+      "3": {
+        "mentions": 94,
+        "snippet": "When he caught sight of Lord Henry, a faint"
+      },
+      "4": {
+        "mentions": 69,
+        "snippet": "When Lord Henry entered the room, he found his uncle sitting in a rough"
+      },
+      "5": {
+        "mentions": 41,
+        "snippet": "arm-chair, in the little library of Lord Henry\u2019s house in Mayfair."
+      },
+      "7": {
+        "mentions": 39,
+        "snippet": "\u201d said Lord Henry that"
+      },
+      "8": {
+        "mentions": 32,
+        "snippet": "Lord Henry,"
+      },
+      "9": {
+        "mentions": 42,
+        "snippet": "One of them was from Lord Henry, and had been brought by hand"
+      },
+      "10": {
+        "mentions": 5,
+        "snippet": "He remembered that Lord Henry had said to him once, half"
+      },
+      "11": {
+        "mentions": 24,
+        "snippet": "have helped him to resist Lord Henry\u2019s influence, and the still more"
+      },
+      "12": {
+        "mentions": 18,
+        "snippet": "That curiosity about life which Lord Henry had first stirred in him, as"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "He was walking home about eleven o\u2019clock from Lord Henry\u2019s, where he"
+      },
+      "15": {
+        "mentions": 4,
+        "snippet": "\u201d as Lord Henry had once said."
+      },
+      "16": {
+        "mentions": 66,
+        "snippet": "was a very clever woman with what Lord Henry used to describe as the"
+      },
+      "17": {
+        "mentions": 3,
+        "snippet": "now and then he repeated to himself the words that Lord Henry had said"
+      },
+      "18": {
+        "mentions": 26,
+        "snippet": "Lord Henry was lying back in a silk-draped"
+      },
+      "19": {
+        "mentions": 39,
+        "snippet": "When Lord Henry came in"
+      },
+      "20": {
+        "mentions": 33,
+        "snippet": "Lord Henry, dipping his white fingers into a red copper bowl filled"
+      },
+      "21": {
+        "mentions": 11,
+        "snippet": "began to think over some of the things that Lord Henry had said to him."
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 18,
+      "Basil Hallward": 16,
+      "Harry": 12,
+      "Mr. Gray": 8,
+      "Sibyl Vane": 7,
+      "Henry Wotton": 5,
+      "Lord Henry Wotton": 4,
+      "Lady Agatha": 3
+    }
+  },
+  {
+    "canonical_name": "Harry",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 173,
+    "per_chapter": {
+      "2": {
+        "mentions": 22,
+        "snippet": "\u201cYou don\u2019t understand me, Harry,\u201d answered the artist."
+      },
+      "3": {
+        "mentions": 13,
+        "snippet": "\u201cHarry, I want to finish this picture to-day."
+      },
+      "4": {
+        "mentions": 9,
+        "snippet": "Harry,\u201d said the old gentleman, \u201cwhat brings you out so early?"
+      },
+      "5": {
+        "mentions": 31,
+        "snippet": "are, Harry!"
+      },
+      "7": {
+        "mentions": 17,
+        "snippet": "\u201cNo, Harry,\u201d answered the artist, giving his hat and coat to the bowing"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "Harry is so cynical, he terrifies me."
+      },
+      "9": {
+        "mentions": 18,
+        "snippet": "\u201cI was brutal, Harry\u2014perfectly brutal."
+      },
+      "10": {
+        "mentions": 15,
+        "snippet": "I met Lady Gwendolen, Harry\u2019s sister, for the first time."
+      },
+      "16": {
+        "mentions": 9,
+        "snippet": "It was some consolation that Harry was to be there, and when the door"
+      },
+      "18": {
+        "mentions": 9,
+        "snippet": "\u201cBut I don\u2019t want to be rechristened, Harry,\u201d rejoined the duchess,"
+      },
+      "19": {
+        "mentions": 11,
+        "snippet": "\u201cI wish it were stopped for ever, Harry,\u201d he answered bitterly."
+      },
+      "20": {
+        "mentions": 16,
+        "snippet": "\u201cNo, Harry, I have done too many dreadful"
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 12,
+      "Lord Henry": 12,
+      "Basil Hallward": 10,
+      "Mr. Gray": 7,
+      "Sibyl Vane": 5,
+      "Henry Wotton": 4,
+      "Lady Agatha": 3,
+      "Lord Henry Wotton": 3
+    }
+  },
+  {
+    "canonical_name": "Dorian Gray",
+    "aliases": [
+      "Dorian",
+      "Gray"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 160,
+    "per_chapter": {
+      "2": {
+        "mentions": 23,
+        "snippet": "whatever it may be worth; Dorian Gray\u2019s good looks\u2014we shall all suffer"
+      },
+      "3": {
+        "mentions": 29,
+        "snippet": "As they entered they saw Dorian Gray."
+      },
+      "4": {
+        "mentions": 9,
+        "snippet": "Dorian Gray does not belong to Blue Books, Uncle George,\u201d said"
+      },
+      "5": {
+        "mentions": 13,
+        "snippet": "One afternoon, a month later, Dorian Gray was reclining in a luxurious"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "carriage with two ladies Dorian Gray drove past."
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "\u201cDorian Gray is engaged to be married,\u201d said Lord Henry, watching him"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "\u201d answered Dorian Gray."
+      },
+      "9": {
+        "mentions": 7,
+        "snippet": "\u201d asked Dorian Gray drowsily."
+      },
+      "10": {
+        "mentions": 8,
+        "snippet": "\u201d murmured Dorian Gray, sipping some"
+      },
+      "11": {
+        "mentions": 9,
+        "snippet": "favour of Dorian Gray."
+      },
+      "12": {
+        "mentions": 8,
+        "snippet": "For years, Dorian Gray could not free himself from the influence of"
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "\u201d said Dorian Gray"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "it was Dorian Gray\u2019s own face that he was looking at!"
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "society now, it was only Dorian Gray who smiled: Alan Campbell never"
+      },
+      "16": {
+        "mentions": 6,
+        "snippet": "button-hole of Parma violets, Dorian Gray was ushered into Lady"
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "hideous iteration the bitten lips of Dorian Gray shaped and reshaped"
+      },
+      "18": {
+        "mentions": 11,
+        "snippet": "A week later Dorian Gray was sitting in the conservatory at Selby"
+      },
+      "19": {
+        "mentions": 8,
+        "snippet": "animal\u2019s grace of movement that strangely charmed Dorian Gray, and he"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "The music jarred, and Dorian Gray started and stared at his friend."
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "heard one of them whisper to the other, \u201cThat is Dorian Gray."
+      }
+    },
+    "co_occurs_with": {
+      "Lord Henry": 18,
+      "Basil Hallward": 17,
+      "Harry": 12,
+      "Mr. Gray": 8,
+      "Sibyl Vane": 8,
+      "Henry Wotton": 5,
+      "Lord Henry Wotton": 4,
+      "Alan Campbell": 4
+    }
+  },
+  {
+    "canonical_name": "Lady Narborough",
+    "aliases": [
+      "Narborough"
+    ],
+    "first_chapter": 16,
+    "total_mentions": 54,
+    "per_chapter": {
+      "16": {
+        "mentions": 49,
+        "snippet": "button-hole of Parma violets, Dorian Gray was ushered into Lady"
+      },
+      "18": {
+        "mentions": 5,
+        "snippet": "On a peach-coloured divan sat Lady"
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 2,
+      "Harry": 2,
+      "Lord Henry": 2,
+      "Mr. Gray": 2,
+      "Alice Chapman": 1,
+      "Basil Hallward": 1,
+      "Bond Street": 1,
+      "Dear Lady Narborough": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Gray",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 46,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "anything\u2014oh, yes, plays the piano\u2014or is it the violin, dear Mr."
+      },
+      "3": {
+        "mentions": 16,
+        "snippet": "\u201cYou have not spoiled my pleasure in meeting you, Mr."
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "5": {
+        "mentions": 6,
+        "snippet": "\u201cI am afraid it is not Harry, Mr."
+      },
+      "11": {
+        "mentions": 6,
+        "snippet": "\u201cWhat can I do for you, Mr."
+      },
+      "16": {
+        "mentions": 3,
+        "snippet": "\u201cWell, ask Mr."
+      },
+      "18": {
+        "mentions": 8,
+        "snippet": "my own name, and I am sure Mr."
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "\u201cI have heard all about it, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 8,
+      "Lord Henry": 8,
+      "Harry": 7,
+      "Basil Hallward": 6,
+      "Henry Wotton": 4,
+      "Lady Agatha": 3,
+      "Lord Henry Wotton": 3,
+      "East End": 2
+    }
+  },
+  {
+    "canonical_name": "Basil Hallward",
+    "aliases": [
+      "Basil",
+      "Hallward"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 45,
+    "per_chapter": {
+      "2": {
+        "mentions": 6,
+        "snippet": "himself, Basil Hallward, whose sudden disappearance some years ago"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "No wonder Basil Hallward worshipped him."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "\u201cBut I thought you had promised Basil Hallward to go and see him,\u201d"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "he was now from the shy frightened boy he had met in Basil Hallward\u2019s"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "\u201d cried Basil Hallward."
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "Basil Hallward had painted of him."
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "What should he do if Basil Hallward came and asked to look at his own"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "As he was sitting at breakfast next morning, Basil Hallward was shown"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "the world Basil Hallward\u2019s masterpiece."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "For the wonderful beauty that had so fascinated Basil Hallward, and"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "It was Basil Hallward."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "He passed out of the room and began the ascent, Basil Hallward"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "Basil Hallward that had made him kill him as he sat in the chair came"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "thrust Basil Hallward\u2019s coat and bag."
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "Basil Hallward looking at him."
+      },
+      "20": {
+        "mentions": 13,
+        "snippet": "\u201cThe people are still discussing poor Basil\u2019s disappearance."
+      },
+      "21": {
+        "mentions": 4,
+        "snippet": "over Basil Hallward\u2019s disappearance would soon pass away."
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 17,
+      "Lord Henry": 16,
+      "Harry": 10,
+      "Sibyl Vane": 7,
+      "Mr. Gray": 6,
+      "Henry Wotton": 5,
+      "Lord Henry Wotton": 4,
+      "Alan Campbell": 4
+    }
+  },
+  {
+    "canonical_name": "Sibyl Vane",
+    "aliases": [
+      "Vane"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 38,
+    "per_chapter": {
+      "5": {
+        "mentions": 8,
+        "snippet": "\u201cHer name is Sibyl Vane."
+      },
+      "6": {
+        "mentions": 5,
+        "snippet": "Vane winced and put her thin, bismuth-whitened hands on her"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "you see Sibyl Vane, you will feel that the man who could wrong her"
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "gods made Sibyl Vane for you."
+      },
+      "9": {
+        "mentions": 10,
+        "snippet": "conscious how unjust, how cruel, he had been to Sibyl Vane."
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "reproaches about Sibyl Vane had been!"
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "\u201cYou wrecked the life of Sibyl Vane,\u201d was the answer, \u201cand Sibyl Vane"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "was quite beautiful and wonderfully like Sibyl Vane."
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 8,
+      "Basil Hallward": 7,
+      "Lord Henry": 7,
+      "Harry": 5,
+      "Prince Charming": 3,
+      "Mr. Gray": 2,
+      "Romeo": 2,
+      "Sibyl": 2
+    }
+  },
+  {
+    "canonical_name": "Lady Agatha",
+    "aliases": [
+      "Agatha"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 35,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "It was at my aunt, Lady Agatha\u2019s."
+      },
+      "3": {
+        "mentions": 4,
+        "snippet": "\u201cI am in Lady Agatha\u2019s black books at present,\u201d answered Dorian with a"
+      },
+      "4": {
+        "mentions": 28,
+        "snippet": "having, as he explained once to Lady Agatha, said everything that he"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 3,
+      "Dorian Gray": 3,
+      "Harry": 3,
+      "Henry Wotton": 3,
+      "Lord Henry": 3,
+      "Lord Henry Wotton": 3,
+      "Mr. Gray": 3,
+      "East End": 2
+    }
+  },
+  {
+    "canonical_name": "Sibyl",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 33,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "\u201cUpon my word, Dorian, Miss Sibyl knows how to pay compliments."
+      },
+      "6": {
+        "mentions": 28,
+        "snippet": "\u201d she echoed, \u201cI am only happy, Sibyl, when I"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cYou went to the opera while Sibyl"
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 3,
+      "Basil Hallward": 2,
+      "Harry": 2,
+      "Lord Henry": 2,
+      "Prince Charming": 2,
+      "Sibyl Vane": 2,
+      "Euston Road": 2,
+      "Clovis Eve": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Erskine",
+    "aliases": [
+      "Erskine"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 26,
+    "per_chapter": {
+      "4": {
+        "mentions": 26,
+        "snippet": "occupied by Mr."
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Berkeley Square": 1,
+      "Blue Books": 1,
+      "Burlington Street": 1
+    }
+  },
+  {
+    "canonical_name": "Uncle George",
+    "aliases": [
+      "George"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 24,
+    "per_chapter": {
+      "4": {
+        "mentions": 24,
+        "snippet": "\u201cPure family affection, I assure you, Uncle George."
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Berkeley Square": 1,
+      "Blue Books": 1,
+      "Burlington Street": 1
+    }
+  },
+  {
+    "canonical_name": "Mother",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 20,
+    "per_chapter": {
+      "6": {
+        "mentions": 20,
+        "snippet": "\u201cMother, Mother, I am so happy!"
+      }
+    },
+    "co_occurs_with": {
+      "Achilles Statue": 1,
+      "Australia": 1,
+      "Dorian Gray": 1,
+      "Euston Road": 1,
+      "James": 1,
+      "Jim Vane": 1,
+      "Mother. Prince Charming": 1,
+      "Mr. Isaacs": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Thomas",
+    "aliases": [
+      "Thomas"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 18,
+    "per_chapter": {
+      "4": {
+        "mentions": 18,
+        "snippet": "\u201cMy uncle has already suggested pork-packing, Sir Thomas."
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Berkeley Square": 1,
+      "Blue Books": 1,
+      "Burlington Street": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Brandon",
+    "aliases": [
+      "Brandon"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 16,
+    "per_chapter": {
+      "2": {
+        "mentions": 16,
+        "snippet": "months ago I went to a crush at Lady Brandon\u2019s."
+      }
+    },
+    "co_occurs_with": {
+      "Ask Mr": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "East End": 1,
+      "Harry": 1,
+      "Henry Wotton": 1,
+      "Lady Agatha": 1,
+      "Lord Goodbody": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Hubbard",
+    "aliases": [
+      "Hubbard"
+    ],
+    "first_chapter": 11,
+    "total_mentions": 16,
+    "per_chapter": {
+      "11": {
+        "mentions": 16,
+        "snippet": "In two or three minutes there was another knock, and Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 1,
+      "District Coroner": 1,
+      "Dorian Gray": 1,
+      "Dr. Birrell": 1,
+      "Hoxton Road": 1,
+      "Lady Radley": 1,
+      "Lord Henry": 1,
+      "Lord Kelso": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Ruxton",
+    "aliases": [
+      "Ruxton"
+    ],
+    "first_chapter": 16,
+    "total_mentions": 14,
+    "per_chapter": {
+      "16": {
+        "mentions": 14,
+        "snippet": "but are thoroughly disliked by their friends; Lady Ruxton, an"
+      }
+    },
+    "co_occurs_with": {
+      "Alice Chapman": 1,
+      "Basil Hallward": 1,
+      "Bond Street": 1,
+      "Dear Lady Narborough": 1,
+      "Dorian Gray": 1,
+      "Ernest Harrowden": 1,
+      "Harry": 1,
+      "Henry Wotton": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Henry Wotton",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 13,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "lying, smoking, as was his custom, innumerable cigarettes, Lord Henry"
+      },
+      "3": {
+        "mentions": 9,
+        "snippet": "\u201cThis is Lord Henry Wotton, Dorian, an old Oxford friend of mine."
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "At half-past twelve next day Lord Henry Wotton strolled from Curzon"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "Your friend Lord Henry"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 4,
+      "Dorian Gray": 4,
+      "Henry Wotton": 4,
+      "Lord Henry": 4,
+      "Harry": 3,
+      "Lady Agatha": 3,
+      "Mr. Gray": 3,
+      "East End": 2
+    }
+  },
+  {
+    "canonical_name": "Lord Fermor",
+    "aliases": [
+      "Fermor"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 12,
+    "per_chapter": {
+      "4": {
+        "mentions": 12,
+        "snippet": "Street over to the Albany to call on his uncle, Lord Fermor, a genial"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Berkeley Square": 1,
+      "Blue Books": 1,
+      "Burlington Street": 1
+    }
+  },
+  {
+    "canonical_name": "Duchess",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 11,
+    "per_chapter": {
+      "4": {
+        "mentions": 5,
+        "snippet": "Opposite was the Duchess of Harley, a lady of admirable good-nature and"
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "Royal, talking to the pretty Duchess of Monmouth, who with her husband,"
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 2,
+      "Harry": 2,
+      "Lord Henry": 2,
+      "Mr. Gray": 2,
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Geoffrey",
+    "aliases": [
+      "Geoffrey"
+    ],
+    "first_chapter": 19,
+    "total_mentions": 11,
+    "per_chapter": {
+      "19": {
+        "mentions": 11,
+        "snippet": "At the corner of the pine-wood he caught sight of Sir Geoffrey"
+      }
+    },
+    "co_occurs_with": {
+      "Don": 1,
+      "Dorian Gray": 1,
+      "Geoffrey Clouston": 1,
+      "Harry": 1,
+      "Home Farm": 1,
+      "Lord Henry": 1,
+      "Mr. Gray": 1,
+      "Poor Geoffrey": 1
+    }
+  },
+  {
+    "canonical_name": "Henry Wotton",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 10,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "lying, smoking, as was his custom, innumerable cigarettes, Lord Henry"
+      },
+      "3": {
+        "mentions": 6,
+        "snippet": "\u201cThis is Lord Henry Wotton, Dorian, an old Oxford friend of mine."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "At half-past twelve next day Lord Henry Wotton strolled from Curzon"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "Your friend Lord Henry"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "mauve-draped mantelshelf, exclaimed: \u201cHow horrid of Henry Wotton to be"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 5,
+      "Dorian Gray": 5,
+      "Lord Henry": 5,
+      "Harry": 4,
+      "Lord Henry Wotton": 4,
+      "Mr. Gray": 4,
+      "Lady Agatha": 3,
+      "East End": 2
+    }
+  },
+  {
+    "canonical_name": "Prince Charming",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 10,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "I must call you Prince Charming."
+      },
+      "6": {
+        "mentions": 7,
+        "snippet": "Prince Charming rules life for us now."
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "\u201cPrince Charming is what you like to be"
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 3,
+      "Sibyl Vane": 3,
+      "Basil Hallward": 2,
+      "Lord Henry": 2,
+      "Sibyl": 2,
+      "Clovis Eve": 1,
+      "Dear Basil": 1,
+      "Giordano Bruno": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Isaacs",
+    "aliases": [
+      "Isaacs"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 8,
+    "per_chapter": {
+      "6": {
+        "mentions": 8,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Achilles Statue": 1,
+      "Australia": 1,
+      "Dorian Gray": 1,
+      "Euston Road": 1,
+      "James": 1,
+      "Jim Vane": 1,
+      "Mother": 1,
+      "Mother. Prince Charming": 1
+    }
+  },
+  {
+    "canonical_name": "James",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 8,
+    "per_chapter": {
+      "6": {
+        "mentions": 8,
+        "snippet": "get a proper outfit for James."
+      }
+    },
+    "co_occurs_with": {
+      "Achilles Statue": 1,
+      "Australia": 1,
+      "Dorian Gray": 1,
+      "Euston Road": 1,
+      "Jim Vane": 1,
+      "Mother": 1,
+      "Mother. Prince Charming": 1,
+      "Mr. Isaacs": 1
+    }
+  },
+  {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 8,
+    "per_chapter": {
+      "8": {
+        "mentions": 5,
+        "snippet": "\u201cDon\u2019t pay any attention to him, Dorian,\u201d said the painter."
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "cried out at once, \u201cDon\u2019t shoot it, Geoffrey."
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 2,
+      "Harry": 2,
+      "Lord Henry": 2,
+      "Selby Royal": 2,
+      "Basil Hallward": 1,
+      "Covent Garden": 1,
+      "Miss Vane": 1,
+      "Romeo": 1
+    }
+  },
+  {
+    "canonical_name": "Alan Campbell",
+    "aliases": [
+      "Campbell"
+    ],
+    "first_chapter": 14,
+    "total_mentions": 8,
+    "per_chapter": {
+      "14": {
+        "mentions": 1,
+        "snippet": "\u201cAlan Campbell, 152,"
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "What if Alan Campbell should be"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "They have had my own divorce-case and Alan Campbell\u2019s"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "As for Alan Campbell,"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 4,
+      "Dorian Gray": 4,
+      "Lord Henry": 3,
+      "Hertford Street": 2,
+      "Selby Royal": 2,
+      "Adrian Singleton": 1,
+      "Francis": 1,
+      "Grosvenor Square": 1
+    }
+  },
+  {
+    "canonical_name": "Gladys",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 8,
+    "per_chapter": {
+      "18": {
+        "mentions": 8,
+        "snippet": "my plan for rechristening everything, Gladys."
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 1,
+      "Duchess": 1,
+      "Harry": 1,
+      "In the Parthian": 1,
+      "James Vane": 1,
+      "Lady Hilstone": 1,
+      "Lady Narborough": 1,
+      "Let": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Dorian Gray",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 7,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "say about Mr."
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "\u201cMr."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "\u201cMr."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 3,
+      "Dorian Gray": 3,
+      "Lord Henry": 3,
+      "East End": 2,
+      "Harry": 2,
+      "Henry Wotton": 2,
+      "Lady Agatha": 2,
+      "Lord Henry Wotton": 2
+    }
+  },
+  {
+    "canonical_name": "Let",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 7,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "Let me think."
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "Let us talk of some one else."
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 2,
+      "Harry": 2,
+      "Lord Henry": 2,
+      "Mr. Gray": 2,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Because": 1,
+      "Forest Scenes": 1
+    }
+  },
+  {
+    "canonical_name": "Was",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 7,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "Was it not Plato, that artist in thought, who had"
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "Was it very bad?"
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 2,
+      "Harry": 2,
+      "Lord Henry": 2,
+      "Mr. Gray": 2,
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Henry",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 7,
+    "per_chapter": {
+      "5": {
+        "mentions": 7,
+        "snippet": "\u201cNot seventeen, Lady Henry?"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 1,
+      "Clovis Eve": 1,
+      "Dear Basil": 1,
+      "Dorian Gray": 1,
+      "Giordano Bruno": 1,
+      "Harry": 1,
+      "Imogen": 1,
+      "Juliet": 1
+    }
+  },
+  {
+    "canonical_name": "Romeo",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 7,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "It was Romeo and Juliet."
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "The scene was the hall of Capulet\u2019s house, and Romeo in his pilgrim\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 2,
+      "Dorian Gray": 2,
+      "Harry": 2,
+      "Lord Henry": 2,
+      "Sibyl Vane": 2,
+      "Clovis Eve": 1,
+      "Dear Basil": 1,
+      "Giordano Bruno": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Radley",
+    "aliases": [
+      "Radley"
+    ],
+    "first_chapter": 7,
+    "total_mentions": 7,
+    "per_chapter": {
+      "7": {
+        "mentions": 1,
+        "snippet": "Lord Radley is sure to"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "perfumed wood thickly incrusted with nacre, a present from Lady Radley,"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "\u201cI believe he married Lady Radley\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 3,
+      "Dorian Gray": 3,
+      "Lord Henry": 3,
+      "Sibyl Vane": 2,
+      "South Audley Street": 2,
+      "Harry": 1,
+      "Lord Radley": 1,
+      "Rupert Street": 1
+    }
+  },
+  {
+    "canonical_name": "Victor",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 7,
+    "per_chapter": {
+      "9": {
+        "mentions": 4,
+        "snippet": "Victor came in softly with a cup of tea, and a pile of letters, on a"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "Victor\u2019s face perfectly."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 2,
+      "Dorian Gray": 2,
+      "Lord Henry": 2,
+      "Sibyl Vane": 2,
+      "Cyril Tourneur": 1,
+      "Harry": 1,
+      "Jermyn Street": 1,
+      "Lady Hampshire": 1
+    }
+  },
+  {
+    "canonical_name": "Adrian Singleton",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 7,
+    "per_chapter": {
+      "13": {
+        "mentions": 2,
+        "snippet": "What about Adrian Singleton and his"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "It had been given to him by Adrian Singleton."
+      },
+      "17": {
+        "mentions": 4,
+        "snippet": "presence of Adrian Singleton troubled him."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 3,
+      "Dorian Gray": 3,
+      "Lord Henry": 3,
+      "Grosvenor Square": 2,
+      "Alan Campbell": 1,
+      "Francis": 1,
+      "Harden": 1,
+      "Henry Wotton": 1
+    }
+  },
+  {
+    "canonical_name": "Americans",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 6,
+    "per_chapter": {
+      "4": {
+        "mentions": 6,
+        "snippet": "\u201cIt is rather fashionable to marry Americans just now, Uncle George."
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Berkeley Square": 1,
+      "Blue Books": 1,
+      "Burlington Street": 1,
+      "Dartmoor": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Chapman",
+    "aliases": [
+      "Chapman"
+    ],
+    "first_chapter": 16,
+    "total_mentions": 6,
+    "per_chapter": {
+      "16": {
+        "mentions": 6,
+        "snippet": "The men laughed, and Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Alice Chapman": 1,
+      "Basil Hallward": 1,
+      "Bond Street": 1,
+      "Dear Lady Narborough": 1,
+      "Dorian Gray": 1,
+      "Ernest Harrowden": 1,
+      "Harry": 1,
+      "Henry Wotton": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Kelso",
+    "aliases": [
+      "Kelso"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 5,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "He is the last Lord Kelso\u2019s grandson."
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "well-proportioned room, which had been specially built by the last Lord"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 2,
+      "Dorian Gray": 2,
+      "Lord Henry": 2,
+      "Mr. Gray": 2,
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1
+    }
+  },
+  {
+    "canonical_name": "Dartmoor",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 5,
+    "per_chapter": {
+      "4": {
+        "mentions": 5,
+        "snippet": "Besides, I always deal with Dartmoor\u2019s tradesmen, and"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Berkeley Square": 1,
+      "Blue Books": 1,
+      "Burlington Street": 1
+    }
+  },
+  {
+    "canonical_name": "All",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 5,
+    "per_chapter": {
+      "4": {
+        "mentions": 5,
+        "snippet": "All the Selby property came to her,"
+      }
+    },
+    "co_occurs_with": {
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Berkeley Square": 1,
+      "Blue Books": 1,
+      "Burlington Street": 1,
+      "Dartmoor": 1
+    }
+  },
+  {
+    "canonical_name": "Never",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 5,
+    "per_chapter": {
+      "5": {
+        "mentions": 5,
+        "snippet": "\u201cNever marry a woman with straw-coloured hair, Dorian,\u201d he said after a"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 1,
+      "Clovis Eve": 1,
+      "Dear Basil": 1,
+      "Dorian Gray": 1,
+      "Giordano Bruno": 1,
+      "Harry": 1,
+      "Imogen": 1,
+      "Juliet": 1
+    }
+  },
+  {
+    "canonical_name": "Juliet",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 5,
+    "per_chapter": {
+      "5": {
+        "mentions": 5,
+        "snippet": "It was Romeo and Juliet."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 1,
+      "Clovis Eve": 1,
+      "Dear Basil": 1,
+      "Dorian Gray": 1,
+      "Giordano Bruno": 1,
+      "Harry": 1,
+      "Imogen": 1,
+      "Lady Capulet": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Vane",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 5,
+    "per_chapter": {
+      "6": {
+        "mentions": 5,
+        "snippet": "Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Achilles Statue": 1,
+      "Australia": 1,
+      "Dorian Gray": 1,
+      "Euston Road": 1,
+      "James": 1,
+      "Jim Vane": 1,
+      "Mother": 1,
+      "Mother. Prince Charming": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Gwendolen",
+    "aliases": [
+      "Gwendolen"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 5,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "I met Lady Gwendolen, Harry\u2019s sister, for the first time."
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "When you met Lady"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 2,
+      "Dorian Gray": 2,
+      "Lord Henry": 2,
+      "Euston Road": 1,
+      "Harry": 1,
+      "Sibyl": 1,
+      "Adrian Singleton": 1,
+      "Come": 1
+    }
+  },
+  {
+    "canonical_name": "Francis",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 5,
+    "per_chapter": {
+      "15": {
+        "mentions": 5,
+        "snippet": "\u201cTake this round to 152, Hertford Street, Francis, and if Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Adrian Singleton": 1,
+      "Alan Campbell": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "Grosvenor Square": 1,
+      "Harden": 1,
+      "Henry Wotton": 1,
+      "Hertford Street": 1
+    }
+  },
+  {
+    "canonical_name": "East End",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "in the East End, and that his name was Dorian Gray."
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "East End?"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 2,
+      "Dorian Gray": 2,
+      "Harry": 2,
+      "Henry Wotton": 2,
+      "Lady Agatha": 2,
+      "Lord Henry": 2,
+      "Lord Henry Wotton": 2,
+      "Mr. Dorian Gray": 2
+    }
+  },
+  {
+    "canonical_name": "Aunt Agatha",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 4,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "When Aunt Agatha sits down to"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "\u201cAt Aunt Agatha\u2019s."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 2,
+      "Dorian Gray": 2,
+      "Harry": 2,
+      "Henry Wotton": 2,
+      "Lady Agatha": 2,
+      "Lord Henry": 2,
+      "Lord Henry Wotton": 2,
+      "Mr. Gray": 2
+    }
+  },
+  {
+    "canonical_name": "Sir Thomas Burdon",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "her right, Sir Thomas Burdon, a Radical member of Parliament, who"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Berkeley Square": 1,
+      "Blue Books": 1,
+      "Burlington Street": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Vandeleur",
+    "aliases": [
+      "Vandeleur"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "His own neighbour was Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Berkeley Square": 1,
+      "Blue Books": 1,
+      "Burlington Street": 1
+    }
+  },
+  {
+    "canonical_name": "Treadley",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "Erskine of Treadley, an old gentleman of considerable"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Berkeley Square": 1,
+      "Blue Books": 1,
+      "Burlington Street": 1
+    }
+  },
+  {
+    "canonical_name": "Australia",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 4,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "to Australia, and I have so much to think of, I must say that you"
+      }
+    },
+    "co_occurs_with": {
+      "Achilles Statue": 1,
+      "Dorian Gray": 1,
+      "Euston Road": 1,
+      "James": 1,
+      "Jim Vane": 1,
+      "Mother": 1,
+      "Mother. Prince Charming": 1,
+      "Mr. Isaacs": 1
+    }
+  },
+  {
+    "canonical_name": "Selby Royal",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 4,
+    "per_chapter": {
+      "8": {
+        "mentions": 1,
+        "snippet": "that had been discovered stored in a disused attic at Selby Royal."
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "servants were at Selby Royal."
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "Selby Royal or in Grosvenor Square."
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "night at Selby Royal."
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 4,
+      "Basil Hallward": 3,
+      "Lord Henry": 3,
+      "Alan Campbell": 2,
+      "Hertford Street": 2,
+      "Don": 2,
+      "Harry": 2,
+      "Adrian Singleton": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Leaf",
+    "aliases": [
+      "Leaf"
+    ],
+    "first_chapter": 11,
+    "total_mentions": 4,
+    "per_chapter": {
+      "11": {
+        "mentions": 2,
+        "snippet": "mittens on her wrinkled hands, Mrs."
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "Old Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 2,
+      "Dorian Gray": 2,
+      "Lord Henry": 2,
+      "District Coroner": 1,
+      "Dr. Birrell": 1,
+      "Hoxton Road": 1,
+      "Lady Radley": 1,
+      "Lord Kelso": 1
+    }
+  },
+  {
+    "canonical_name": "Duke",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 4,
+    "per_chapter": {
+      "12": {
+        "mentions": 4,
+        "snippet": "When the Duke de Valentinois, son of Alexander VI."
+      }
+    },
+    "co_occurs_with": {
+      "Alfonso de Ovalle": 1,
+      "Anne de Joyeuse": 1,
+      "Anthony Sherard": 1,
+      "Basil Hallward": 1,
+      "Bernal Diaz": 1,
+      "Blue Gate Fields": 1,
+      "Cardinal Archbishop": 1,
+      "Carlton House": 1
+    }
+  },
+  {
+    "canonical_name": "Charles",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 4,
+    "per_chapter": {
+      "12": {
+        "mentions": 4,
+        "snippet": "Charles of England had ridden in stirrups hung with four hundred"
+      }
+    },
+    "co_occurs_with": {
+      "Alfonso de Ovalle": 1,
+      "Anne de Joyeuse": 1,
+      "Anthony Sherard": 1,
+      "Basil Hallward": 1,
+      "Bernal Diaz": 1,
+      "Blue Gate Fields": 1,
+      "Cardinal Archbishop": 1,
+      "Carlton House": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Henry Ashton",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 4,
+    "per_chapter": {
+      "13": {
+        "mentions": 2,
+        "snippet": "was Sir Henry Ashton, who had to leave England with a tarnished name."
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "them was Sir Henry Ashton\u2019s uncle."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 2,
+      "Dorian Gray": 2,
+      "Henry Ashton": 2,
+      "Lord Henry": 2,
+      "Adrian Singleton": 1,
+      "Come": 1,
+      "Grosvenor Square": 1,
+      "Lady Gwendolen": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 4,
+    "per_chapter": {
+      "13": {
+        "mentions": 4,
+        "snippet": "Come in, or the fog will get"
+      }
+    },
+    "co_occurs_with": {
+      "Adrian Singleton": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "Grosvenor Square": 1,
+      "Henry Ashton": 1,
+      "Lady Gwendolen": 1,
+      "Lady Radley": 1,
+      "Lord Gloucester": 1
+    }
+  },
+  {
+    "canonical_name": "James Vane",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 4,
+    "per_chapter": {
+      "17": {
+        "mentions": 3,
+        "snippet": "\u201cYou had better confess your sin, for as sure as I am James Vane, you"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "face of James Vane watching him."
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 2,
+      "Lord Henry": 2,
+      "Adrian Singleton": 1,
+      "Basil Hallward": 1,
+      "Eighteen": 1,
+      "For God": 1,
+      "Prince Charming": 1,
+      "Sibyl Vane": 1
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 4,
+    "per_chapter": {
+      "17": {
+        "mentions": 4,
+        "snippet": "There were opium"
+      }
+    },
+    "co_occurs_with": {
+      "Adrian Singleton": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "Eighteen": 1,
+      "For God": 1,
+      "James Vane": 1,
+      "Lord Henry": 1,
+      "Prince Charming": 1
+    }
+  },
+  {
+    "canonical_name": "Hetty",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 4,
+    "per_chapter": {
+      "20": {
+        "mentions": 4,
+        "snippet": "Well, Hetty was not one of our own class, of"
+      }
+    },
+    "co_occurs_with": {
+      "Alan Campbell": 1,
+      "Basil Hallward": 1,
+      "Chopin": 1,
+      "Dorian Gray": 1,
+      "Harry": 1,
+      "Lady Branksome": 1,
+      "Lord Henry": 1,
+      "Lord Poole": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Goodbody",
+    "aliases": [
+      "Goodbody"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "to have met Lord Goodbody there, and the whole conversation would have"
+      }
+    },
+    "co_occurs_with": {
+      "Ask Mr": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "East End": 1,
+      "Harry": 1,
+      "Henry Wotton": 1,
+      "Lady Agatha": 1,
+      "Lady Brandon": 1
+    }
+  },
+  {
+    "canonical_name": "Because",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cBecause to influence a person is to give him one\u2019s own soul."
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "Forest Scenes": 1,
+      "Harry": 1,
+      "Henry Wotton": 1,
+      "Lady Agatha": 1,
+      "Let": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Faudel",
+    "aliases": [
+      "Faudel"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "Fortunately for him she had on the other side Lord Faudel, a most"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Berkeley Square": 1,
+      "Blue Books": 1,
+      "Burlington Street": 1
+    }
+  },
+  {
+    "canonical_name": "Really",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "\u201cReally, some one should"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Americans": 1,
+      "At Aunt Agatha": 1,
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1,
+      "Berkeley Square": 1,
+      "Blue Books": 1,
+      "Burlington Street": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Thornbury",
+    "aliases": [
+      "Thornbury"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "Perhaps I shall see you at Lady Thornbury\u2019s."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 1,
+      "Clovis Eve": 1,
+      "Dear Basil": 1,
+      "Dorian Gray": 1,
+      "Giordano Bruno": 1,
+      "Harry": 1,
+      "Imogen": 1,
+      "Juliet": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Capulet",
+    "aliases": [
+      "Capulet"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "tired woman who played Lady Capulet in a sort of magenta"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 1,
+      "Clovis Eve": 1,
+      "Dear Basil": 1,
+      "Dorian Gray": 1,
+      "Giordano Bruno": 1,
+      "Harry": 1,
+      "Imogen": 1,
+      "Juliet": 1
+    }
+  },
+  {
+    "canonical_name": "People",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "People will some day, however."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 1,
+      "Clovis Eve": 1,
+      "Dear Basil": 1,
+      "Dorian Gray": 1,
+      "Giordano Bruno": 1,
+      "Harry": 1,
+      "Imogen": 1,
+      "Juliet": 1
+    }
+  },
+  {
+    "canonical_name": "Imogen",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "evening she is Rosalind, and the next evening she is Imogen."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 1,
+      "Clovis Eve": 1,
+      "Dear Basil": 1,
+      "Dorian Gray": 1,
+      "Giordano Bruno": 1,
+      "Harry": 1,
+      "Juliet": 1,
+      "Lady Capulet": 1
+    }
+  },
+  {
+    "canonical_name": "Euston Road",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 2,
+        "snippet": "down the dreary Euston Road."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Somewhere in the Euston Road, isn\u2019t it?"
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 2,
+      "Sibyl": 2,
+      "Basil Hallward": 1,
+      "Harry": 1,
+      "Lady Gwendolen": 1,
+      "Lord Henry": 1,
+      "Achilles Statue": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Hampshire",
+    "aliases": [
+      "Hampshire"
+    ],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "Lady Hampshire\u2019s, I found myself seated at dinner next the lady in"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 1,
+      "Cyril Tourneur": 1,
+      "Dorian Gray": 1,
+      "Harry": 1,
+      "Jermyn Street": 1,
+      "Lord Henry": 1,
+      "Marrying Sibyl Vane": 1,
+      "Monsieur": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201cMonsieur has well slept this morning,\u201d he said, smiling."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 1,
+      "Cyril Tourneur": 1,
+      "Dorian Gray": 1,
+      "Harry": 1,
+      "Jermyn Street": 1,
+      "Lady Hampshire": 1,
+      "Lord Henry": 1,
+      "Marrying Sibyl Vane": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Ferrars",
+    "aliases": [
+      "Ferrars"
+    ],
+    "first_chapter": 12,
+    "total_mentions": 3,
+    "per_chapter": {
+      "12": {
+        "mentions": 3,
+        "snippet": "and the friend, in his youth, of Lord Ferrars."
+      }
+    },
+    "co_occurs_with": {
+      "Alfonso de Ovalle": 1,
+      "Anne de Joyeuse": 1,
+      "Anthony Sherard": 1,
+      "Basil Hallward": 1,
+      "Bernal Diaz": 1,
+      "Blue Gate Fields": 1,
+      "Cardinal Archbishop": 1,
+      "Carlton House": 1
+    }
+  },
+  {
+    "canonical_name": "Christ",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 3,
+    "per_chapter": {
+      "12": {
+        "mentions": 3,
+        "snippet": "bread of angels, or, robed in the garments of the Passion of Christ,"
+      }
+    },
+    "co_occurs_with": {
+      "Alfonso de Ovalle": 1,
+      "Anne de Joyeuse": 1,
+      "Anthony Sherard": 1,
+      "Basil Hallward": 1,
+      "Bernal Diaz": 1,
+      "Blue Gate Fields": 1,
+      "Cardinal Archbishop": 1,
+      "Carlton House": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Staveley",
+    "aliases": [
+      "Staveley"
+    ],
+    "first_chapter": 13,
+    "total_mentions": 3,
+    "per_chapter": {
+      "13": {
+        "mentions": 3,
+        "snippet": "used to be a friend of Lord Staveley."
+      }
+    },
+    "co_occurs_with": {
+      "Adrian Singleton": 1,
+      "Basil Hallward": 1,
+      "Come": 1,
+      "Dorian Gray": 1,
+      "Grosvenor Square": 1,
+      "Henry Ashton": 1,
+      "Lady Gwendolen": 1,
+      "Lady Radley": 1
+    }
+  },
+  {
+    "canonical_name": "Henry Ashton",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 3,
+    "per_chapter": {
+      "13": {
+        "mentions": 2,
+        "snippet": "was Sir Henry Ashton, who had to leave England with a tarnished name."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "them was Sir Henry Ashton\u2019s uncle."
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 2,
+      "Dorian Gray": 2,
+      "Lord Henry": 2,
+      "Sir Henry Ashton": 2,
+      "Adrian Singleton": 1,
+      "Come": 1,
+      "Grosvenor Square": 1,
+      "Lady Gwendolen": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Kent",
+    "aliases": [
+      "Kent"
+    ],
+    "first_chapter": 13,
+    "total_mentions": 3,
+    "per_chapter": {
+      "13": {
+        "mentions": 3,
+        "snippet": "What about Lord Kent\u2019s only son and his career?"
+      }
+    },
+    "co_occurs_with": {
+      "Adrian Singleton": 1,
+      "Basil Hallward": 1,
+      "Come": 1,
+      "Dorian Gray": 1,
+      "Grosvenor Square": 1,
+      "Henry Ashton": 1,
+      "Lady Gwendolen": 1,
+      "Lady Radley": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Berkshire",
+    "aliases": [
+      "Berkshire"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "They had met at Lady Berkshire\u2019s the"
+      }
+    },
+    "co_occurs_with": {
+      "Adrian Singleton": 1,
+      "Alan Campbell": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "Francis": 1,
+      "Grosvenor Square": 1,
+      "Harden": 1,
+      "Henry Wotton": 1
+    }
+  },
+  {
+    "canonical_name": "Venice",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "passed on, till he came to those lovely stanzas upon Venice:"
+      }
+    },
+    "co_occurs_with": {
+      "Adrian Singleton": 1,
+      "Alan Campbell": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "Francis": 1,
+      "Grosvenor Square": 1,
+      "Harden": 1,
+      "Henry Wotton": 1
+    }
+  },
+  {
+    "canonical_name": "Sur",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "Sur une gamme chromatique,"
+      }
+    },
+    "co_occurs_with": {
+      "Adrian Singleton": 1,
+      "Alan Campbell": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "Francis": 1,
+      "Grosvenor Square": 1,
+      "Harden": 1,
+      "Henry Wotton": 1
+    }
+  },
+  {
+    "canonical_name": "Richmond",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "What is the name of the man at Richmond who supplies"
+      }
+    },
+    "co_occurs_with": {
+      "Adrian Singleton": 1,
+      "Alan Campbell": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "Francis": 1,
+      "Grosvenor Square": 1,
+      "Harden": 1,
+      "Henry Wotton": 1
+    }
+  },
+  {
+    "canonical_name": "Harden",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201cHarden, sir."
+      }
+    },
+    "co_occurs_with": {
+      "Adrian Singleton": 1,
+      "Alan Campbell": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "Francis": 1,
+      "Grosvenor Square": 1,
+      "Henry Wotton": 1,
+      "Hertford Street": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Andrew",
+    "aliases": [
+      "Andrew"
+    ],
+    "first_chapter": 16,
+    "total_mentions": 3,
+    "per_chapter": {
+      "16": {
+        "mentions": 3,
+        "snippet": "You are really an admirable tonic, much better than what Sir Andrew"
+      }
+    },
+    "co_occurs_with": {
+      "Alice Chapman": 1,
+      "Basil Hallward": 1,
+      "Bond Street": 1,
+      "Dear Lady Narborough": 1,
+      "Dorian Gray": 1,
+      "Ernest Harrowden": 1,
+      "Harry": 1,
+      "Henry Wotton": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Rugby",
+    "aliases": [
+      "Rugby"
+    ],
+    "first_chapter": 16,
+    "total_mentions": 3,
+    "per_chapter": {
+      "16": {
+        "mentions": 3,
+        "snippet": "\u201cOh, the Willoughbys, Lord Rugby and his wife, our hostess, Geoffrey"
+      }
+    },
+    "co_occurs_with": {
+      "Alice Chapman": 1,
+      "Basil Hallward": 1,
+      "Bond Street": 1,
+      "Dear Lady Narborough": 1,
+      "Dorian Gray": 1,
+      "Ernest Harrowden": 1,
+      "Harry": 1,
+      "Henry Wotton": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Grotrian",
+    "aliases": [
+      "Grotrian"
+    ],
+    "first_chapter": 16,
+    "total_mentions": 3,
+    "per_chapter": {
+      "16": {
+        "mentions": 3,
+        "snippet": "I have asked Lord Grotrian."
+      }
+    },
+    "co_occurs_with": {
+      "Alice Chapman": 1,
+      "Basil Hallward": 1,
+      "Bond Street": 1,
+      "Dear Lady Narborough": 1,
+      "Dorian Gray": 1,
+      "Ernest Harrowden": 1,
+      "Harry": 1,
+      "Henry Wotton": 1
+    }
+  },
+  {
+    "canonical_name": "Eighteen",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 3,
+    "per_chapter": {
+      "17": {
+        "mentions": 3,
+        "snippet": "\u201cEighteen years,\u201d said the man."
+      }
+    },
+    "co_occurs_with": {
+      "Adrian Singleton": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "For God": 1,
+      "James Vane": 1,
+      "Lord Henry": 1,
+      "Prince Charming": 1,
+      "Sibyl Vane": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Hilstone",
+    "aliases": [
+      "Hilstone"
+    ],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "one I wore at Lady Hilstone\u2019s garden-party?"
+      }
+    },
+    "co_occurs_with": {
+      "Dorian Gray": 1,
+      "Duchess": 1,
+      "Gladys": 1,
+      "Harry": 1,
+      "In the Parthian": 1,
+      "James Vane": 1,
+      "Lady Narborough": 1,
+      "Let": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Poole",
+    "aliases": [
+      "Poole"
+    ],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "some one at White\u2019s who wants immensely to know you\u2014young Lord Poole,"
+      }
+    },
+    "co_occurs_with": {
+      "Alan Campbell": 1,
+      "Basil Hallward": 1,
+      "Chopin": 1,
+      "Dorian Gray": 1,
+      "Harry": 1,
+      "Hetty": 1,
+      "Lady Branksome": 1,
+      "Lord Henry": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Branksome",
+    "aliases": [
+      "Branksome"
+    ],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "to lunch afterwards with Lady Branksome."
+      }
+    },
+    "co_occurs_with": {
+      "Alan Campbell": 1,
+      "Basil Hallward": 1,
+      "Chopin": 1,
+      "Dorian Gray": 1,
+      "Harry": 1,
+      "Hetty": 1,
+      "Lord Henry": 1,
+      "Lord Poole": 1
+    }
+  },
+  {
+    "canonical_name": "Chopin",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "You must play Chopin to me."
+      }
+    },
+    "co_occurs_with": {
+      "Alan Campbell": 1,
+      "Basil Hallward": 1,
+      "Dorian Gray": 1,
+      "Harry": 1,
+      "Hetty": 1,
+      "Lady Branksome": 1,
+      "Lord Henry": 1,
+      "Lord Poole": 1
+    }
+  }
+]

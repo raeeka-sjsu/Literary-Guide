@@ -1,0 +1,2362 @@
+[
+  {
+    "canonical_name": "Tom",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 395,
+    "per_chapter": {
+      "3": {
+        "mentions": 32,
+        "snippet": "\u201cTom!"
+      },
+      "5": {
+        "mentions": 21,
+        "snippet": "Tom presented himself before Aunt Polly, who was sitting by an"
+      },
+      "7": {
+        "mentions": 8,
+        "snippet": "Polly came, and Tom and Sid and Mary sat with her\u2014Tom being placed next"
+      },
+      "9": {
+        "mentions": 32,
+        "snippet": "The harder Tom tried to fasten his mind on his book, the more his ideas"
+      },
+      "11": {
+        "mentions": 17,
+        "snippet": "At half-past nine, that night, Tom and Sid were sent to bed, as usual."
+      },
+      "13": {
+        "mentions": 20,
+        "snippet": "Tom\u2019s heartbreak"
+      },
+      "14": {
+        "mentions": 27,
+        "snippet": "One of the reasons why Tom\u2019s mind had drifted away from its secret"
+      },
+      "16": {
+        "mentions": 19,
+        "snippet": "When Tom awoke in the morning, he wondered where he was."
+      },
+      "17": {
+        "mentions": 19,
+        "snippet": "A few minutes later Tom was in the shoal water of the bar, wading toward"
+      },
+      "18": {
+        "mentions": 26,
+        "snippet": "swim, but Tom would not venture, because he found that in kicking off"
+      },
+      "21": {
+        "mentions": 15,
+        "snippet": "Tom arrived at home in a dreary mood, and the first thing his aunt said"
+      },
+      "26": {
+        "mentions": 7,
+        "snippet": "Tom was a glittering hero once more\u2014the pet of the old, the envy of the"
+      },
+      "27": {
+        "mentions": 20,
+        "snippet": "suddenly came upon Tom one day."
+      },
+      "28": {
+        "mentions": 13,
+        "snippet": "Tom was impatient to go to the haunted house; Huck was"
+      },
+      "29": {
+        "mentions": 9,
+        "snippet": "The adventure of the day mightily tormented Tom\u2019s dreams that night."
+      },
+      "30": {
+        "mentions": 15,
+        "snippet": "That night Tom and Huck were ready for their adventure."
+      },
+      "31": {
+        "mentions": 8,
+        "snippet": "The first thing Tom heard on Friday morning was a glad piece of"
+      },
+      "33": {
+        "mentions": 61,
+        "snippet": "Now to return to Tom and Becky\u2019s share in the picnic."
+      },
+      "34": {
+        "mentions": 15,
+        "snippet": "Tom lay upon"
+      },
+      "36": {
+        "mentions": 11,
+        "snippet": "Huck said: \u201cTom, we can slope, if we can find a rope."
+      }
+    },
+    "co_occurs_with": {
+      "Injun Joe": 11,
+      "Aunt Polly": 9,
+      "Huck": 7,
+      "Sid": 6,
+      "Joe Harper": 6,
+      "Cardiff Hill": 4,
+      "Muff Potter": 3,
+      "Becky": 3
+    }
+  },
+  {
+    "canonical_name": "Huck",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 176,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "Huck on Duty"
+      },
+      "8": {
+        "mentions": 7,
+        "snippet": "\u201cLemme see him, Huck."
+      },
+      "16": {
+        "mentions": 9,
+        "snippet": "Joe and Huck"
+      },
+      "18": {
+        "mentions": 24,
+        "snippet": "Then Joe and Huck had another"
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "the aisle, Tom in the lead, Joe next, and Huck, a ruin of drooping rags,"
+      },
+      "25": {
+        "mentions": 8,
+        "snippet": "He took Huck to a lonely place to have a talk with him."
+      },
+      "26": {
+        "mentions": 3,
+        "snippet": "Poor Huck was in the same state of"
+      },
+      "28": {
+        "mentions": 14,
+        "snippet": "Tom was impatient to go to the haunted house; Huck was"
+      },
+      "29": {
+        "mentions": 11,
+        "snippet": "hurried breakfast and go and find Huck."
+      },
+      "30": {
+        "mentions": 16,
+        "snippet": "That night Tom and Huck were ready for their adventure."
+      },
+      "31": {
+        "mentions": 13,
+        "snippet": "awake until a pretty late hour, and he had good hopes of hearing Huck\u2019s"
+      },
+      "35": {
+        "mentions": 48,
+        "snippet": "The morning after the funeral Tom took Huck to a private place to have"
+      },
+      "37": {
+        "mentions": 16,
+        "snippet": "The reader may rest satisfied that Tom\u2019s and Huck\u2019s windfall made a"
+      }
+    },
+    "co_occurs_with": {
+      "Injun Joe": 11,
+      "Tom": 7,
+      "Tom Sawyer": 6,
+      "Aunt Polly": 5,
+      "Muff Potter": 3,
+      "Joe Harper": 3,
+      "Judge Thatcher": 3,
+      "Number Two": 3
+    }
+  },
+  {
+    "canonical_name": "Aunt Polly",
+    "aliases": [
+      "Polly"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 139,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "Aunt Polly seeks Information"
+      },
+      "3": {
+        "mentions": 8,
+        "snippet": "offered, Aunt Polly asked him questions that were full of guile, and"
+      },
+      "4": {
+        "mentions": 9,
+        "snippet": "whitewashing with vigor, and Aunt Polly was retiring from the field with"
+      },
+      "5": {
+        "mentions": 10,
+        "snippet": "Tom presented himself before Aunt Polly, who was sitting by an"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "Breakfast over, Aunt Polly had family"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "Aunt"
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "\u201cOh, Aunt Polly, come!"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "A measured, muffled snore issued from Aunt Polly\u2019s chamber."
+      },
+      "13": {
+        "mentions": 6,
+        "snippet": "\u201cIt\u2019s a bad sign,\u201d said Aunt Polly, gravely."
+      },
+      "14": {
+        "mentions": 11,
+        "snippet": "Aunt Polly entered in time"
+      },
+      "17": {
+        "mentions": 13,
+        "snippet": "sat Aunt Polly, Sid, Mary, and Joe Harper\u2019s mother, grouped together,"
+      },
+      "19": {
+        "mentions": 17,
+        "snippet": "The Harpers, and Aunt Polly\u2019s family, were being put into"
+      },
+      "20": {
+        "mentions": 12,
+        "snippet": "At breakfast, Monday morning, Aunt Polly and Mary were very loving to"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "There was something about Aunt Polly\u2019s manner, when she kissed Tom, that"
+      },
+      "32": {
+        "mentions": 16,
+        "snippet": "Thatcher turned pale, and sank into a pew, just as Aunt Polly,"
+      },
+      "34": {
+        "mentions": 4,
+        "snippet": "Aunt Polly had drooped into"
+      },
+      "35": {
+        "mentions": 5,
+        "snippet": "Rogerses, Aunt Polly, Sid, Mary, the minister, the editor, and a great"
+      },
+      "36": {
+        "mentions": 6,
+        "snippet": "\u201d said Aunt Polly."
+      },
+      "37": {
+        "mentions": 3,
+        "snippet": "Thatcher did the same with Tom\u2019s at Aunt Polly\u2019s request."
+      }
+    },
+    "co_occurs_with": {
+      "Tom Sawyer": 9,
+      "Sid": 9,
+      "Tom": 9,
+      "Injun Joe": 7,
+      "Joe Harper": 6,
+      "Huck": 5,
+      "Judge Thatcher": 5,
+      "Becky Thatcher": 4
+    }
+  },
+  {
+    "canonical_name": "Injun Joe",
+    "aliases": [
+      "Joe"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 78,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "Injun Joe\u2019s two Victims"
+      },
+      "11": {
+        "mentions": 5,
+        "snippet": "Injun Joe."
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "S\u2019pose something happened and Injun Joe"
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "face of Injun Joe."
+      },
+      "16": {
+        "mentions": 10,
+        "snippet": "Joe and Huck"
+      },
+      "18": {
+        "mentions": 19,
+        "snippet": "Then Joe and Huck had another"
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "and Joe\u2019s\u2014came by, and stood looking over the paling fence and talking"
+      },
+      "25": {
+        "mentions": 4,
+        "snippet": "that Injun Joe\u2019s evidence stood firm and unshaken, and that there was"
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "Injun Joe\u2019s flight had saved him the suffering of testifying in court."
+      },
+      "28": {
+        "mentions": 8,
+        "snippet": "It was Injun Joe\u2019s!"
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "And mind you, keep a lookout for Injun Joe, because he said he"
+      },
+      "30": {
+        "mentions": 4,
+        "snippet": "\u201cHuck, I most stepped onto Injun Joe\u2019s hand!"
+      },
+      "31": {
+        "mentions": 2,
+        "snippet": "Now there was a voice\u2014a very low voice\u2014Injun Joe\u2019s:"
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "\u201c\u2019Tain\u2019t a Spaniard\u2014it\u2019s Injun Joe!"
+      },
+      "33": {
+        "mentions": 2,
+        "snippet": "nothing should tempt him to run the risk of meeting Injun Joe again."
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "\u201cOh, Judge, Injun Joe\u2019s in the cave!"
+      },
+      "35": {
+        "mentions": 5,
+        "snippet": "still, for if the beam had been wholly cut away Injun Joe could not have"
+      }
+    },
+    "co_occurs_with": {
+      "Huck": 11,
+      "Tom": 11,
+      "Aunt Polly": 7,
+      "Muff Potter": 6,
+      "Tom Sawyer": 6,
+      "Joe Harper": 5,
+      "Becky": 4,
+      "Judge Thatcher": 4
+    }
+  },
+  {
+    "canonical_name": "Sid",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 72,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "Tom\u2019s younger brother (or rather half-brother) Sid was already through"
+      },
+      "5": {
+        "mentions": 11,
+        "snippet": "Then he skipped out, and saw Sid just starting up the outside stairway"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "\u201d Sid had learned his lesson days before."
+      },
+      "8": {
+        "mentions": 16,
+        "snippet": "But Sid slept on unconscious."
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "At half-past nine, that night, Tom and Sid were sent to bed, as usual."
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "I might a been good, like Sid, if I\u2019d a"
+      },
+      "13": {
+        "mentions": 8,
+        "snippet": "much as a week after this; and at breakfast one morning Sid said:"
+      },
+      "17": {
+        "mentions": 6,
+        "snippet": "sat Aunt Polly, Sid, Mary, and Joe Harper\u2019s mother, grouped together,"
+      },
+      "20": {
+        "mentions": 11,
+        "snippet": "Sid would have thought."
+      },
+      "36": {
+        "mentions": 7,
+        "snippet": "Sid appeared."
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 9,
+      "Tom": 6,
+      "Joe Harper": 5,
+      "Tom Sawyer": 4,
+      "Injun Joe": 3,
+      "Muff Potter": 3,
+      "There": 3,
+      "Hoss Williams": 2
+    }
+  },
+  {
+    "canonical_name": "Becky",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 61,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "Becky Thatcher"
+      },
+      "31": {
+        "mentions": 6,
+        "snippet": "moment, and Becky took the chief place in the boy\u2019s interest."
+      },
+      "33": {
+        "mentions": 46,
+        "snippet": "Now to return to Tom and Becky\u2019s share in the picnic."
+      },
+      "34": {
+        "mentions": 5,
+        "snippet": "withal; and closed with a description of how he left Becky and went"
+      }
+    },
+    "co_occurs_with": {
+      "Injun Joe": 4,
+      "Mrs. Thatcher": 3,
+      "Thatcher": 3,
+      "Tom": 3,
+      "Aunt Polly": 2,
+      "Huck": 2,
+      "Cardiff Hill": 2,
+      "Judge Thatcher": 2
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 59,
+    "per_chapter": {
+      "2": {
+        "mentions": 37,
+        "snippet": "The Church"
+      },
+      "3": {
+        "mentions": 12,
+        "snippet": "The old lady pulled her spectacles down and looked over them about the"
+      },
+      "4": {
+        "mentions": 5,
+        "snippet": "The locust-trees were in bloom"
+      },
+      "21": {
+        "mentions": 5,
+        "snippet": "\u201cThe bark I had wrote on to tell you we\u2019d gone pirating."
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 3,
+      "Model Boy": 2,
+      "Jim": 2,
+      "Tom": 2,
+      "Astonishes the School": 1,
+      "Aunt Muff Potter": 1,
+      "Aunt Polly Beguiled": 1,
+      "Aunt Polly Tom": 1
+    }
+  },
+  {
+    "canonical_name": "Joe Harper",
+    "aliases": [
+      "Harper"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 26,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "armies, Joe Harper (a bosom friend) General of the other."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "That\u2019s the way Joe Harper does, and he\u2019s been nearly to Coonville and"
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "This bosom friend was Joe Harper."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Now appeared Joe Harper, as airily clad and elaborately armed as Tom."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "along with Joe Harper, for playing hookey the day before, with the"
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "sat Aunt Polly, Sid, Mary, and Joe Harper\u2019s mother, grouped together,"
+      },
+      "20": {
+        "mentions": 5,
+        "snippet": "\u201cAnd I dreamt that Joe Harper\u2019s mother was here."
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "Tom and Joe Harper got up a band of performers and were happy"
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "He sallied out to find Joe Harper,"
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "\u2019Stead of going to Joe Harper\u2019s we\u2019ll"
+      },
+      "32": {
+        "mentions": 4,
+        "snippet": "\u201cJoe Harper, have you seen my Tom this morning?"
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "Harper\u2019s."
+      },
+      "35": {
+        "mentions": 1,
+        "snippet": "let Joe Harper and Ben Rogers in\u2014because of course there\u2019s got to be a"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 6,
+      "Tom": 6,
+      "Injun Joe": 5,
+      "Sid": 5,
+      "Tom Sawyer": 5,
+      "Ben Rogers": 4,
+      "Mrs. Harper": 4,
+      "Cardiff Hill": 4
+    }
+  },
+  {
+    "canonical_name": "Mary",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 19,
+    "per_chapter": {
+      "6": {
+        "mentions": 15,
+        "snippet": "Mary took"
+      },
+      "17": {
+        "mentions": 4,
+        "snippet": "sat Aunt Polly, Sid, Mary, and Joe Harper\u2019s mother, grouped together,"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 2,
+      "Sid": 2,
+      "Bible": 1,
+      "Judge Thatcher": 1,
+      "Mosaic Law": 1,
+      "Mr. Walters": 1,
+      "Thomas Sawyer": 1,
+      "Tom Sawyer": 1
+    }
+  },
+  {
+    "canonical_name": "Muff Potter",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 18,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Muff Potter"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "One of \u2019em\u2019s old Muff Potter\u2019s"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "\u201cIf anybody tells, let Muff Potter do it, if he\u2019s fool enough."
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "recognized by somebody as belonging to Muff Potter\u2014so the story ran."
+      },
+      "25": {
+        "mentions": 6,
+        "snippet": "Well, it\u2019s just Muff Potter, Muff Potter, Muff Potter all the"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "As usual, the fickle, unreasoning world took Muff Potter to its bosom"
+      }
+    },
+    "co_occurs_with": {
+      "Injun Joe": 6,
+      "Aunt Polly": 3,
+      "Huck": 3,
+      "Tom Sawyer": 3,
+      "Sid": 3,
+      "Tom": 3,
+      "Huckleberry": 2,
+      "Astonishes the School": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Jones",
+    "aliases": [
+      "Jones"
+    ],
+    "first_chapter": 35,
+    "total_mentions": 18,
+    "per_chapter": {
+      "35": {
+        "mentions": 8,
+        "snippet": "\u201cMr."
+      },
+      "36": {
+        "mentions": 10,
+        "snippet": "\u201cWhy, old Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 2,
+      "All": 1,
+      "Ben Rogers": 1,
+      "Benny Taylor": 1,
+      "Cave Hollow": 1,
+      "Huck": 1,
+      "Injun Joe": 1,
+      "Joe Harper": 1
+    }
+  },
+  {
+    "canonical_name": "Welshman",
+    "aliases": [],
+    "first_chapter": 32,
+    "total_mentions": 17,
+    "per_chapter": {
+      "32": {
+        "mentions": 12,
+        "snippet": "groping up the hill and rapped gently at the old Welshman\u2019s door."
+      },
+      "35": {
+        "mentions": 5,
+        "snippet": "Welshman and the Widow Douglas, by this time, but Tom said he reckoned"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 2,
+      "Injun Joe": 2,
+      "Joe Harper": 2,
+      "Judge Thatcher": 2,
+      "Tom Sawyer": 2,
+      "Widow Douglas": 2,
+      "Cardiff Hill": 1,
+      "Huck Finn": 1
+    }
+  },
+  {
+    "canonical_name": "Tom Sawyer",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 16,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Huck Finn is drawn from life; Tom Sawyer also, but not from an"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "And now at this moment, when hope was dead, Tom Sawyer came forward with"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "Monday morning found Tom Sawyer miserable."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "\u201cHuck Finn and Tom Sawyer swears they will keep mum about This and"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "\u201cTom Sawyer, the Black Avenger of the Spanish Main."
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "\u201cWell, Tom Sawyer he licked me once."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "had simply made a convenience of him to vent her spite upon Tom Sawyer."
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "At that moment a shadow fell on the page and Tom Sawyer"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "\u201cWhy, Tom Sawyer, we wouldn\u2019t be alive two days if that got found out."
+      },
+      "32": {
+        "mentions": 2,
+        "snippet": "Was it Tom Sawyer"
+      },
+      "35": {
+        "mentions": 1,
+        "snippet": "\u201cHuck and Tom Sawyer."
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "Tom Sawyer wisely went poking among some old empty hogsheads down behind"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 9,
+      "Huck": 6,
+      "Injun Joe": 6,
+      "Joe Harper": 5,
+      "Sid": 4,
+      "Thomas Sawyer": 4,
+      "Judge Thatcher": 4,
+      "Muff Potter": 3
+    }
+  },
+  {
+    "canonical_name": "Thatcher",
+    "aliases": [],
+    "first_chapter": 31,
+    "total_mentions": 15,
+    "per_chapter": {
+      "31": {
+        "mentions": 1,
+        "snippet": "Thatcher said to Becky, was:"
+      },
+      "32": {
+        "mentions": 7,
+        "snippet": "Thatcher turned pale, and sank into a pew, just as Aunt Polly,"
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "Thatcher"
+      },
+      "34": {
+        "mentions": 3,
+        "snippet": "Thatcher was very ill, and a great"
+      },
+      "37": {
+        "mentions": 3,
+        "snippet": "Thatcher did the same with Tom\u2019s at Aunt Polly\u2019s request."
+      }
+    },
+    "co_occurs_with": {
+      "Injun Joe": 4,
+      "Judge Thatcher": 4,
+      "Mrs. Thatcher": 4,
+      "Widow Douglas": 4,
+      "Aunt Polly": 3,
+      "Cardiff Hill": 3,
+      "Joe Harper": 3,
+      "Becky": 3
+    }
+  },
+  {
+    "canonical_name": "Jim",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 13,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "barely in season to help Jim, the small colored boy, saw next-day\u2019s wood"
+      },
+      "4": {
+        "mentions": 10,
+        "snippet": "Jim came skipping out at"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 2,
+      "The": 2,
+      "Can": 1,
+      "Good Book": 1,
+      "Model Boy": 1,
+      "Old Scratch": 1,
+      "Sid": 1,
+      "There": 1
+    }
+  },
+  {
+    "canonical_name": "Widow Douglas",
+    "aliases": [
+      "Douglas"
+    ],
+    "first_chapter": 31,
+    "total_mentions": 13,
+    "per_chapter": {
+      "31": {
+        "mentions": 5,
+        "snippet": "climb right up the hill and stop at the Widow Douglas\u2019."
+      },
+      "32": {
+        "mentions": 2,
+        "snippet": "gentlemen, among them the Widow Douglas, and noticed that groups of"
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "The Widow Douglas stayed by"
+      },
+      "35": {
+        "mentions": 3,
+        "snippet": "Welshman and the Widow Douglas, by this time, but Tom said he reckoned"
+      },
+      "37": {
+        "mentions": 2,
+        "snippet": "The Widow Douglas put Huck\u2019s money out at six per cent."
+      }
+    },
+    "co_occurs_with": {
+      "Judge Thatcher": 5,
+      "Aunt Polly": 4,
+      "Injun Joe": 4,
+      "Thatcher": 4,
+      "Cardiff Hill": 3,
+      "Joe Harper": 3,
+      "Mrs. Thatcher": 3,
+      "Tom Sawyer": 3
+    }
+  },
+  {
+    "canonical_name": "Ben",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 12,
+    "per_chapter": {
+      "4": {
+        "mentions": 12,
+        "snippet": "Ben Rogers hove in"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Big Missouri": 1,
+      "Buffalo Gals": 1,
+      "Delectable Land": 1,
+      "Jim": 1,
+      "Johnny Miller": 1,
+      "Mars Tom": 1,
+      "Mont Blanc": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Walters",
+    "aliases": [
+      "Walters"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 12,
+    "per_chapter": {
+      "6": {
+        "mentions": 12,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Bible": 1,
+      "Judge Thatcher": 1,
+      "Mary": 1,
+      "Mosaic Law": 1,
+      "Sid": 1,
+      "Thomas Sawyer": 1,
+      "Tom Sawyer": 1
+    }
+  },
+  {
+    "canonical_name": "Judge Thatcher",
+    "aliases": [
+      "Judge"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 12,
+    "per_chapter": {
+      "6": {
+        "mentions": 1,
+        "snippet": "This was the great Judge Thatcher, brother of"
+      },
+      "31": {
+        "mentions": 2,
+        "snippet": "news\u2014Judge Thatcher\u2019s family had come back to town the night before."
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "sermon was finished, Judge Thatcher\u2019s wife dropped alongside of Mrs."
+      },
+      "34": {
+        "mentions": 2,
+        "snippet": "a procession of villagers filed through Judge Thatcher\u2019s house, seized"
+      },
+      "35": {
+        "mentions": 1,
+        "snippet": "Judge Thatcher."
+      },
+      "37": {
+        "mentions": 5,
+        "snippet": ", and Judge"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 5,
+      "Widow Douglas": 5,
+      "Tom Sawyer": 4,
+      "Injun Joe": 4,
+      "Thatcher": 4,
+      "Cardiff Hill": 3,
+      "Joe Harper": 3,
+      "Mrs. Thatcher": 3
+    }
+  },
+  {
+    "canonical_name": "Mrs. Thatcher",
+    "aliases": [],
+    "first_chapter": 31,
+    "total_mentions": 12,
+    "per_chapter": {
+      "31": {
+        "mentions": 1,
+        "snippet": "The last thing Mrs."
+      },
+      "32": {
+        "mentions": 7,
+        "snippet": "Mrs."
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "also\u2014that the Sabbath morning might be half spent before Mrs."
+      },
+      "34": {
+        "mentions": 3,
+        "snippet": "Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Injun Joe": 4,
+      "Thatcher": 4,
+      "Cardiff Hill": 3,
+      "Joe Harper": 3,
+      "Judge Thatcher": 3,
+      "Widow Douglas": 3,
+      "Becky": 3,
+      "Tom": 3
+    }
+  },
+  {
+    "canonical_name": "Huckleberry",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 11,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "Huckleberry Finn was there, with his dead cat."
+      },
+      "12": {
+        "mentions": 8,
+        "snippet": "Huckleberry\u2019s hard pantings were his only reply, and the boys fixed"
+      }
+    },
+    "co_occurs_with": {
+      "Injun Joe": 2,
+      "Muff Potter": 2,
+      "Sid": 2,
+      "Aunt Polly": 1,
+      "Doctor Robinson": 1,
+      "Here": 1,
+      "Hoss Williams": 1,
+      "Look": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Harper",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 11,
+    "per_chapter": {
+      "17": {
+        "mentions": 4,
+        "snippet": "\u201d And Mrs."
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "\u201cThen Mrs."
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "sermon was finished, Judge Thatcher\u2019s wife dropped alongside of Mrs."
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "discovered that Becky was not at Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Joe Harper": 4,
+      "Aunt Polly": 3,
+      "Sid": 2,
+      "Tom": 2,
+      "Tom Sawyer": 2,
+      "Injun Joe": 2,
+      "Mrs. Thatcher": 2,
+      "Thatcher": 2
+    }
+  },
+  {
+    "canonical_name": "Spaniard",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 11,
+    "per_chapter": {
+      "28": {
+        "mentions": 4,
+        "snippet": "dumb Spaniard that\u2019s been about town once or twice lately\u2014never saw"
+      },
+      "32": {
+        "mentions": 7,
+        "snippet": "\u201cOne\u2019s the old deaf and dumb Spaniard that\u2019s ben around here once or"
+      }
+    },
+    "co_occurs_with": {
+      "Injun Joe": 2,
+      "Aunt Polly": 1,
+      "Cardiff Hill": 1,
+      "Huck Finn": 1,
+      "Joe Harper": 1,
+      "Judge Thatcher": 1,
+      "Mrs. Harper": 1,
+      "Mrs. Thatcher": 1
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 10,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "There was a slight noise behind her and she turned just in time to seize"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cThere, there, now, don\u2019t begin that groaning again."
+      },
+      "11": {
+        "mentions": 4,
+        "snippet": "There was a considerable pause, while the boys canvassed this matter"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 3,
+      "Sid": 3,
+      "Hoss Williams": 2,
+      "Tom": 2,
+      "Doctor Robinson": 1,
+      "Here": 1,
+      "Huckleberry": 1,
+      "Injun Joe": 1
+    }
+  },
+  {
+    "canonical_name": "Say",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 10,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "\u201cSay, Jim, I\u2019ll fetch the water if you\u2019ll whitewash some."
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "Say, Tom!"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 2,
+      "Ben": 1,
+      "Big Missouri": 1,
+      "Buffalo Gals": 1,
+      "Delectable Land": 1,
+      "Jim": 1,
+      "Johnny Miller": 1,
+      "Mars Tom": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Dobbins",
+    "aliases": [
+      "Dobbins"
+    ],
+    "first_chapter": 22,
+    "total_mentions": 10,
+    "per_chapter": {
+      "22": {
+        "mentions": 8,
+        "snippet": "The master, Mr."
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Alfred Temple": 1,
+      "Amy Lawrence": 1,
+      "Another": 1,
+      "Aunt Polly": 1,
+      "Becky Thatcher": 1,
+      "Benjamin Rogers": 1,
+      "Gracie Miller": 1,
+      "Joseph Harper": 1
+    }
+  },
+  {
+    "canonical_name": "Robin Hood",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 9,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Death of Robin Hood"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "I am Robin Hood, as thy caitiff carcase soon shall know."
+      },
+      "28": {
+        "mentions": 4,
+        "snippet": "you know Robin Hood, Huck?"
+      }
+    },
+    "co_occurs_with": {
+      "Huck": 2,
+      "Injun Joe": 2,
+      "Astonishes the School": 1,
+      "Aunt Muff Potter": 1,
+      "Aunt Polly": 1,
+      "Aunt Polly Beguiled": 1,
+      "Aunt Polly Tom": 1,
+      "Becky": 1
+    }
+  },
+  {
+    "canonical_name": "Becky Thatcher",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 8,
+    "per_chapter": {
+      "9": {
+        "mentions": 1,
+        "snippet": "When school broke up at noon, Tom flew to Becky Thatcher, and whispered"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "and keeping a furtive eye out, all the while, to see if Becky Thatcher"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "In the afternoon Becky Thatcher found herself moping about the deserted"
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "Tom decided that he could be independent of Becky Thatcher now."
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "started to school and had the luck of coming upon Becky Thatcher at the"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 4,
+      "Tom Sawyer": 3,
+      "Amy Lawrence": 3,
+      "Tom": 2,
+      "Alfred Temple": 2,
+      "Joe Harper": 2,
+      "Pain": 1,
+      "Peter": 1
+    }
+  },
+  {
+    "canonical_name": "All",
+    "aliases": [],
+    "first_chapter": 27,
+    "total_mentions": 8,
+    "per_chapter": {
+      "27": {
+        "mentions": 4,
+        "snippet": "\u201cAll right."
+      },
+      "35": {
+        "mentions": 4,
+        "snippet": "\u201cAll right\u2014it\u2019s a whiz."
+      }
+    },
+    "co_occurs_with": {
+      "Ben Rogers": 2,
+      "Joe Harper": 2,
+      "Aunt Polly": 1,
+      "Benny Taylor": 1,
+      "Cave Hollow": 1,
+      "Huck": 1,
+      "Injun Joe": 1,
+      "Judge Thatcher": 1
+    }
+  },
+  {
+    "canonical_name": "Bible",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 7,
+    "per_chapter": {
+      "6": {
+        "mentions": 7,
+        "snippet": "gave a very plainly bound Bible (worth forty cents in those easy"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Judge Thatcher": 1,
+      "Mary": 1,
+      "Mosaic Law": 1,
+      "Mr. Walters": 1,
+      "Sid": 1,
+      "Thomas Sawyer": 1,
+      "Tom Sawyer": 1
+    }
+  },
+  {
+    "canonical_name": "Thomas Sawyer",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 6,
+    "per_chapter": {
+      "6": {
+        "mentions": 1,
+        "snippet": "\u201cThomas Sawyer\u2014sir."
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cThomas Sawyer!"
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "Thomas Sawyer."
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "\u201cThomas Sawyer, where were you on the seventeenth of June, about the"
+      }
+    },
+    "co_occurs_with": {
+      "Tom Sawyer": 4,
+      "Aunt Polly": 3,
+      "Huck": 2,
+      "Sid": 2,
+      "Call Thomas Sawyer": 1,
+      "Horse Williams": 1,
+      "Injun Joe": 1,
+      "Muff Potter": 1
+    }
+  },
+  {
+    "canonical_name": "Huckleberry Finn",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 6,
+    "per_chapter": {
+      "8": {
+        "mentions": 2,
+        "snippet": "\u201c_I stopped to talk with Huckleberry Finn!"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "Then they hunted up Huckleberry Finn,"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "desperation, he flew for refuge at last to the bosom of Huckleberry Finn"
+      },
+      "31": {
+        "mentions": 2,
+        "snippet": "\u201cHuckleberry Finn\u2014quick, let me in!"
+      }
+    },
+    "co_occurs_with": {
+      "Joe Harper": 3,
+      "Ben Rogers": 2,
+      "Huck": 2,
+      "Jim Hollis": 2,
+      "Tom Sawyer": 2,
+      "Aunt Polly": 1,
+      "Bob Tanner": 1,
+      "Hoss Williams": 1
+    }
+  },
+  {
+    "canonical_name": "Peter",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 6,
+    "per_chapter": {
+      "14": {
+        "mentions": 6,
+        "snippet": "\u201cDon\u2019t ask for it unless you want it, Peter."
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Becky Thatcher": 1,
+      "Pain": 1,
+      "Tom": 1
+    }
+  },
+  {
+    "canonical_name": "Uncle Jake",
+    "aliases": [
+      "Jake"
+    ],
+    "first_chapter": 30,
+    "total_mentions": 6,
+    "per_chapter": {
+      "30": {
+        "mentions": 6,
+        "snippet": "Uncle Jake."
+      }
+    },
+    "co_occurs_with": {
+      "Hooper Street": 1,
+      "Huck": 1,
+      "In Ben Rogers": 1,
+      "Injun Joe": 1,
+      "Temperance Taverns": 1,
+      "Tom": 1
+    }
+  },
+  {
+    "canonical_name": "Johnny Miller",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 5,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "a kite, in good repair; and when he played out, Johnny Miller bought in"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "\u201cSay, Tom\u2014they say a stray dog come howling around Johnny Miller\u2019s"
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "Johnny Miller, and Jeff Thatcher, when I said it."
+      }
+    },
+    "co_occurs_with": {
+      "Injun Joe": 2,
+      "Bull Harbison": 1,
+      "Gracie Miller": 1,
+      "Huck Finn": 1,
+      "Huckleberry": 1,
+      "Hucky": 1,
+      "Joe Harper": 1,
+      "Mr. Harbison": 1
+    }
+  },
+  {
+    "canonical_name": "Amy Lawrence",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 5,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "certain Amy Lawrence vanished out of his heart and left not even a"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "Why, me and Amy Lawrence\u2014\u201d"
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "particularly to Amy Lawrence than to any one else."
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "\u201cAmy Lawrence?"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 3,
+      "Joe Harper": 3,
+      "Becky Thatcher": 3,
+      "Sid": 2,
+      "Tom": 2,
+      "Alfred Temple": 2,
+      "Tom Sawyer": 2,
+      "Adored Unknown": 1
+    }
+  },
+  {
+    "canonical_name": "Ben Rogers",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 5,
+    "per_chapter": {
+      "8": {
+        "mentions": 2,
+        "snippet": "\u201cBought it off\u2019n Ben Rogers two weeks ago for a hoop-stick."
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "He sought Ben Rogers, and found him visiting the poor with a"
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "Next he sought Ben Rogers; he had gone fishing."
+      },
+      "35": {
+        "mentions": 1,
+        "snippet": "let Joe Harper and Ben Rogers in\u2014because of course there\u2019s got to be a"
+      }
+    },
+    "co_occurs_with": {
+      "Joe Harper": 4,
+      "Aunt Polly": 2,
+      "Huck": 2,
+      "Huckleberry Finn": 2,
+      "Jim Hollis": 2,
+      "Tom Sawyer": 2,
+      "All": 2,
+      "Bob Tanner": 1
+    }
+  },
+  {
+    "canonical_name": "Cardiff Hill",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 5,
+    "per_chapter": {
+      "9": {
+        "mentions": 1,
+        "snippet": "flaming sunshine, Cardiff Hill lifted its soft green sides through a"
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "adorned the rearward side of Cardiff Hill."
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "path that led up Cardiff Hill; this they took."
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "The Cardiff Hill episode sank into instant"
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "At home Tom learned of the Cardiff Hill event;"
+      }
+    },
+    "co_occurs_with": {
+      "Joe Harper": 4,
+      "Tom": 4,
+      "Injun Joe": 3,
+      "Judge Thatcher": 3,
+      "Mrs. Thatcher": 3,
+      "Thatcher": 3,
+      "Widow Douglas": 3,
+      "Aunt Polly": 2
+    }
+  },
+  {
+    "canonical_name": "Number Two",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 5,
+    "per_chapter": {
+      "28": {
+        "mentions": 2,
+        "snippet": "\u201cNo\u2014Number Two\u2014under the cross."
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "Number Two."
+      },
+      "35": {
+        "mentions": 1,
+        "snippet": "\u201c_Now_ where\u2019s your Number Two?"
+      }
+    },
+    "co_occurs_with": {
+      "Huck": 3,
+      "Injun Joe": 3,
+      "Tom": 2,
+      "All": 1,
+      "Aunt Polly": 1,
+      "Ben Rogers": 1,
+      "Benny Taylor": 1,
+      "Cave Hollow": 1
+    }
+  },
+  {
+    "canonical_name": "Tail",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "Tail Piece"
+      }
+    },
+    "co_occurs_with": {
+      "Astonishes the School": 1,
+      "Aunt Muff Potter": 1,
+      "Aunt Polly": 1,
+      "Aunt Polly Beguiled": 1,
+      "Aunt Polly Tom": 1,
+      "Becky": 1,
+      "Board Their First": 1,
+      "Business": 1
+    }
+  },
+  {
+    "canonical_name": "Piece",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "Tail Piece"
+      }
+    },
+    "co_occurs_with": {
+      "Astonishes the School": 1,
+      "Aunt Muff Potter": 1,
+      "Aunt Polly": 1,
+      "Aunt Polly Beguiled": 1,
+      "Aunt Polly Tom": 1,
+      "Becky": 1,
+      "Board Their First": 1,
+      "Business": 1
+    }
+  },
+  {
+    "canonical_name": "Cave",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "McDougal\u2019s Cave"
+      }
+    },
+    "co_occurs_with": {
+      "Astonishes the School": 1,
+      "Aunt Muff Potter": 1,
+      "Aunt Polly": 1,
+      "Aunt Polly Beguiled": 1,
+      "Aunt Polly Tom": 1,
+      "Becky": 1,
+      "Board Their First": 1,
+      "Business": 1
+    }
+  },
+  {
+    "canonical_name": "Stop",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "\u201cStop her, sir!"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Ben": 1,
+      "Big Missouri": 1,
+      "Buffalo Gals": 1,
+      "Delectable Land": 1,
+      "Jim": 1,
+      "Johnny Miller": 1,
+      "Mars Tom": 1
+    }
+  },
+  {
+    "canonical_name": "Jeff Thatcher",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "As he was passing by the house where Jeff Thatcher lived, he saw a new"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "\u201cWhy, he told Jeff Thatcher, and Jeff told Johnny Baker, and Johnny"
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "Johnny Miller, and Jeff Thatcher, when I said it."
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 2,
+      "Joe Harper": 2,
+      "Sid": 2,
+      "Tom": 2,
+      "Huck": 2,
+      "Adored Unknown": 1,
+      "Amy Lawrence": 1,
+      "Ben Rogers": 1
+    }
+  },
+  {
+    "canonical_name": "Black Avenger",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 1,
+        "snippet": "\u2014the Black Avenger of the"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201cTom Sawyer, the Black Avenger of the Spanish Main."
+      }
+    },
+    "co_occurs_with": {
+      "Spanish Main": 2,
+      "Far West": 1,
+      "Friar Tuck": 1,
+      "Joe Harper": 1,
+      "Robin Hood": 1,
+      "Sherwood Forest": 1,
+      "Tom Sawyer the Pirate": 1,
+      "United States": 1
+    }
+  },
+  {
+    "canonical_name": "Spanish Main",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 1,
+        "snippet": "Spanish Main!"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201cTom Sawyer, the Black Avenger of the Spanish Main."
+      }
+    },
+    "co_occurs_with": {
+      "Black Avenger": 2,
+      "Far West": 1,
+      "Friar Tuck": 1,
+      "Joe Harper": 1,
+      "Robin Hood": 1,
+      "Sherwood Forest": 1,
+      "Tom Sawyer the Pirate": 1,
+      "United States": 1
+    }
+  },
+  {
+    "canonical_name": "Hucky",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 4,
+    "per_chapter": {
+      "12": {
+        "mentions": 4,
+        "snippet": "\u201cHucky, you sure you can keep mum?"
+      }
+    },
+    "co_occurs_with": {
+      "Bull Harbison": 1,
+      "Gracie Miller": 1,
+      "Huck Finn": 1,
+      "Huckleberry": 1,
+      "Injun Joe": 1,
+      "Joe Harper": 1,
+      "Johnny Miller": 1,
+      "Mr. Harbison": 1
+    }
+  },
+  {
+    "canonical_name": "Pain",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 4,
+    "per_chapter": {
+      "14": {
+        "mentions": 4,
+        "snippet": "Now she heard of Pain-killer for the first"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Becky Thatcher": 1,
+      "Peter": 1,
+      "Tom": 1
+    }
+  },
+  {
+    "canonical_name": "Handed",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 4,
+    "per_chapter": {
+      "15": {
+        "mentions": 4,
+        "snippet": "\u201cHuck Finn the Red-Handed, and Joe Harper the Terror of the Seas."
+      }
+    },
+    "co_occurs_with": {
+      "Aye": 1,
+      "Black Avenger": 1,
+      "Huck Finn the Red": 1,
+      "Huckleberry Finn": 1,
+      "Joe Harper the Terror": 1,
+      "Meadow Lane": 1,
+      "Mississippi River": 1,
+      "Seas": 1
+    }
+  },
+  {
+    "canonical_name": "Alfred Temple",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 4,
+    "per_chapter": {
+      "20": {
+        "mentions": 1,
+        "snippet": "the schoolhouse looking at a picture-book with Alfred Temple\u2014and so"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "If she had had any lingering notion of exposing Alfred Temple, Tom\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Amy Lawrence": 2,
+      "Aunt Polly": 2,
+      "Becky Thatcher": 2,
+      "Tom Sawyer": 2,
+      "Did": 1,
+      "Grace Miller": 1,
+      "Joe Harper": 1,
+      "Mary Austin": 1
+    }
+  },
+  {
+    "canonical_name": "Did",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 4,
+    "per_chapter": {
+      "20": {
+        "mentions": 4,
+        "snippet": "Did you dream any more?"
+      }
+    },
+    "co_occurs_with": {
+      "Alfred Temple": 1,
+      "Amy Lawrence": 1,
+      "Aunt Polly": 1,
+      "Becky Thatcher": 1,
+      "Grace Miller": 1,
+      "Joe Harper": 1,
+      "Mary Austin": 1,
+      "Miss Harper": 1
+    }
+  },
+  {
+    "canonical_name": "Model Boy",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "The Model Boy"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "He was not the Model Boy of the village."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "the Model Boy, Willie Mufferson, taking as heedful care of his mother as"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 3,
+      "The": 2,
+      "Tom": 2,
+      "Astonishes the School": 1,
+      "Aunt Muff Potter": 1,
+      "Aunt Polly Beguiled": 1,
+      "Aunt Polly Tom": 1,
+      "Becky": 1
+    }
+  },
+  {
+    "canonical_name": "Home",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Tom at Home"
+      }
+    },
+    "co_occurs_with": {
+      "Astonishes the School": 1,
+      "Aunt Muff Potter": 1,
+      "Aunt Polly": 1,
+      "Aunt Polly Beguiled": 1,
+      "Aunt Polly Tom": 1,
+      "Becky": 1,
+      "Board Their First": 1,
+      "Business": 1
+    }
+  },
+  {
+    "canonical_name": "Business",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "\u2019Tendin\u2019 to Business"
+      }
+    },
+    "co_occurs_with": {
+      "Astonishes the School": 1,
+      "Aunt Muff Potter": 1,
+      "Aunt Polly": 1,
+      "Aunt Polly Beguiled": 1,
+      "Aunt Polly Tom": 1,
+      "Becky": 1,
+      "Board Their First": 1,
+      "Cave": 1
+    }
+  },
+  {
+    "canonical_name": "Prize",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "The Prize"
+      }
+    },
+    "co_occurs_with": {
+      "Astonishes the School": 1,
+      "Aunt Muff Potter": 1,
+      "Aunt Polly": 1,
+      "Aunt Polly Beguiled": 1,
+      "Aunt Polly Tom": 1,
+      "Becky": 1,
+      "Board Their First": 1,
+      "Business": 1
+    }
+  },
+  {
+    "canonical_name": "Can",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "Can\u2019t learn an old dog new tricks,"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Good Book": 1,
+      "Jim": 1,
+      "Model Boy": 1,
+      "Old Scratch": 1,
+      "Sid": 1,
+      "The": 1,
+      "There": 1
+    }
+  },
+  {
+    "canonical_name": "Mars Tom",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "\u201cCan\u2019t, Mars Tom."
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Ben": 1,
+      "Big Missouri": 1,
+      "Buffalo Gals": 1,
+      "Delectable Land": 1,
+      "Jim": 1,
+      "Johnny Miller": 1,
+      "Mont Blanc": 1
+    }
+  },
+  {
+    "canonical_name": "United States",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 1,
+        "snippet": "States; for the churches of the United States; for Congress; for the"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "President of the United States forever."
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "Benton, an actual United States"
+      }
+    },
+    "co_occurs_with": {
+      "Joe Harper": 2,
+      "Aunt Polly": 1,
+      "Model Boy": 1,
+      "Mr. Sprague": 1,
+      "Mrs. Ward": 1,
+      "Tom": 1,
+      "Willie Mufferson": 1,
+      "Black Avenger": 1
+    }
+  },
+  {
+    "canonical_name": "Mother Hopkins",
+    "aliases": [
+      "Hopkins"
+    ],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cNo, but old Mother Hopkins told me."
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Ben Rogers": 1,
+      "Bob Tanner": 1,
+      "Hoss Williams": 1,
+      "Huck": 1,
+      "Huckleberry Finn": 1,
+      "Jeff Thatcher": 1,
+      "Jim Hollis": 1
+    }
+  },
+  {
+    "canonical_name": "Jim Hollis",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 1,
+        "snippet": "told Jim Hollis, and Jim told Ben Rogers, and Ben told a nigger, and the"
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "He hunted up Jim Hollis, who called his attention to"
+      }
+    },
+    "co_occurs_with": {
+      "Ben Rogers": 2,
+      "Huckleberry Finn": 2,
+      "Joe Harper": 2,
+      "Aunt Polly": 1,
+      "Bob Tanner": 1,
+      "Hoss Williams": 1,
+      "Huck": 1,
+      "Jeff Thatcher": 1
+    }
+  },
+  {
+    "canonical_name": "Look",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "\u201cLook!"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Doctor Robinson": 1,
+      "Here": 1,
+      "Hoss Williams": 1,
+      "Huckleberry": 1,
+      "Injun Joe": 1,
+      "Mister Williams": 1,
+      "Muff Potter": 1
+    }
+  },
+  {
+    "canonical_name": "Here",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "Here they"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Doctor Robinson": 1,
+      "Hoss Williams": 1,
+      "Huckleberry": 1,
+      "Injun Joe": 1,
+      "Look": 1,
+      "Mister Williams": 1,
+      "Muff Potter": 1
+    }
+  },
+  {
+    "canonical_name": "Huck Finn",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 3,
+    "per_chapter": {
+      "12": {
+        "mentions": 1,
+        "snippet": "\u201cHuck Finn and Tom Sawyer swears they will keep mum about This and"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "He found Joe Harper and Huck Finn up an alley eating a"
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "It\u2019s only Huck Finn!"
+      }
+    },
+    "co_occurs_with": {
+      "Joe Harper": 3,
+      "Injun Joe": 2,
+      "Tom Sawyer": 2,
+      "Bull Harbison": 1,
+      "Gracie Miller": 1,
+      "Huckleberry": 1,
+      "Hucky": 1,
+      "Johnny Miller": 1
+    }
+  },
+  {
+    "canonical_name": "Sheriff",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 3,
+    "per_chapter": {
+      "13": {
+        "mentions": 3,
+        "snippet": "direction, and the Sheriff \u201cwas confident\u201d that he would be captured"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Injun Joe": 1,
+      "Muff Potter": 1,
+      "Sid": 1,
+      "Tom": 1
+    }
+  },
+  {
+    "canonical_name": "Seas",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201cHuck Finn the Red-Handed, and Joe Harper the Terror of the Seas."
+      }
+    },
+    "co_occurs_with": {
+      "Aye": 1,
+      "Black Avenger": 1,
+      "Handed": 1,
+      "Huck Finn the Red": 1,
+      "Huckleberry Finn": 1,
+      "Joe Harper the Terror": 1,
+      "Meadow Lane": 1,
+      "Mississippi River": 1
+    }
+  },
+  {
+    "canonical_name": "Aye",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201cAye-aye, sir!"
+      }
+    },
+    "co_occurs_with": {
+      "Black Avenger": 1,
+      "Handed": 1,
+      "Huck Finn the Red": 1,
+      "Huckleberry Finn": 1,
+      "Joe Harper the Terror": 1,
+      "Meadow Lane": 1,
+      "Mississippi River": 1,
+      "Seas": 1
+    }
+  },
+  {
+    "canonical_name": "Steady",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201cSteady, steady-y-y-y!"
+      }
+    },
+    "co_occurs_with": {
+      "Aye": 1,
+      "Black Avenger": 1,
+      "Handed": 1,
+      "Huck Finn the Red": 1,
+      "Huckleberry Finn": 1,
+      "Joe Harper the Terror": 1,
+      "Meadow Lane": 1,
+      "Mississippi River": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Peters",
+    "aliases": [
+      "Peters"
+    ],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "\u201cI was in Miss Peters\u2019 class, where I always go."
+      }
+    },
+    "co_occurs_with": {
+      "Alfred Temple": 1,
+      "Amy Lawrence": 1,
+      "Aunt Polly": 1,
+      "Becky Thatcher": 1,
+      "Did": 1,
+      "Grace Miller": 1,
+      "Joe Harper": 1,
+      "Mary Austin": 1
+    }
+  },
+  {
+    "canonical_name": "Auntie",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 3,
+    "per_chapter": {
+      "21": {
+        "mentions": 3,
+        "snippet": "\u201cAuntie, what have I done?"
+      }
+    },
+    "co_occurs_with": {
+      "Sereny Harper": 1,
+      "The": 1,
+      "Tom": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Smarty",
+    "aliases": [
+      "Smarty"
+    ],
+    "first_chapter": 22,
+    "total_mentions": 3,
+    "per_chapter": {
+      "22": {
+        "mentions": 3,
+        "snippet": "even presence of mind enough to say \u201cWho cares, Miss Smarty?"
+      }
+    },
+    "co_occurs_with": {
+      "Alfred Temple": 1,
+      "Amy Lawrence": 1,
+      "Another": 1,
+      "Aunt Polly": 1,
+      "Becky Thatcher": 1,
+      "Benjamin Rogers": 1,
+      "Gracie Miller": 1,
+      "Joseph Harper": 1
+    }
+  },
+  {
+    "canonical_name": "Professor Somebody",
+    "aliases": [
+      "Somebody"
+    ],
+    "first_chapter": 22,
+    "total_mentions": 3,
+    "per_chapter": {
+      "22": {
+        "mentions": 3,
+        "snippet": "The titlepage\u2014Professor Somebody\u2019s _Anatomy_\u2014carried"
+      }
+    },
+    "co_occurs_with": {
+      "Alfred Temple": 1,
+      "Amy Lawrence": 1,
+      "Another": 1,
+      "Aunt Polly": 1,
+      "Becky Thatcher": 1,
+      "Benjamin Rogers": 1,
+      "Gracie Miller": 1,
+      "Joseph Harper": 1
+    }
+  },
+  {
+    "canonical_name": "Another",
+    "aliases": [],
+    "first_chapter": 22,
+    "total_mentions": 3,
+    "per_chapter": {
+      "22": {
+        "mentions": 3,
+        "snippet": "Another pause."
+      }
+    },
+    "co_occurs_with": {
+      "Alfred Temple": 1,
+      "Amy Lawrence": 1,
+      "Aunt Polly": 1,
+      "Becky Thatcher": 1,
+      "Benjamin Rogers": 1,
+      "Gracie Miller": 1,
+      "Joseph Harper": 1,
+      "Meadow Lane": 1
+    }
+  },
+  {
+    "canonical_name": "Never",
+    "aliases": [],
+    "first_chapter": 25,
+    "total_mentions": 3,
+    "per_chapter": {
+      "25": {
+        "mentions": 3,
+        "snippet": "\u201cNever a word?"
+      }
+    },
+    "co_occurs_with": {
+      "Call Thomas Sawyer": 1,
+      "Horse Williams": 1,
+      "Huck": 1,
+      "Injun Joe": 1,
+      "Muff Potter": 1,
+      "Take": 1,
+      "Thomas Sawyer": 1,
+      "Tom Sawyer": 1
+    }
+  },
+  {
+    "canonical_name": "Take",
+    "aliases": [],
+    "first_chapter": 25,
+    "total_mentions": 3,
+    "per_chapter": {
+      "25": {
+        "mentions": 3,
+        "snippet": "\u201cTake the witness."
+      }
+    },
+    "co_occurs_with": {
+      "Call Thomas Sawyer": 1,
+      "Horse Williams": 1,
+      "Huck": 1,
+      "Injun Joe": 1,
+      "Muff Potter": 1,
+      "Never": 1,
+      "Thomas Sawyer": 1,
+      "Tom Sawyer": 1
+    }
+  },
+  {
+    "canonical_name": "Still",
+    "aliases": [],
+    "first_chapter": 27,
+    "total_mentions": 3,
+    "per_chapter": {
+      "27": {
+        "mentions": 3,
+        "snippet": "time; and there\u2019s the old ha\u2019nted house up the Still-House branch, and"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Ben Rogers": 1,
+      "Cardiff Hill": 1,
+      "Huck Finn the Red": 1,
+      "Joe Harper": 1,
+      "Tom": 1
+    }
+  }
+]

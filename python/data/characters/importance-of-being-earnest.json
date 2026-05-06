@@ -1,0 +1,1440 @@
+[
+  {
+    "canonical_name": "Lady Bracknell",
+    "aliases": [
+      "Bracknell"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 112,
+    "per_chapter": {
+      "1": {
+        "mentions": 112,
+        "snippet": "Lady Bracknell"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Prism",
+    "aliases": [
+      "Prism"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 104,
+    "per_chapter": {
+      "1": {
+        "mentions": 104,
+        "snippet": "Miss Prism, Governess"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Worthing",
+    "aliases": [
+      "Worthing"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 98,
+    "per_chapter": {
+      "1": {
+        "mentions": 98,
+        "snippet": "Shoreman and Mr."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Aunt Augusta",
+    "aliases": [
+      "Augusta"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 67,
+    "per_chapter": {
+      "1": {
+        "mentions": 67,
+        "snippet": "merely Aunt Augusta and Gwendolen."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Cecily": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Fairfax",
+    "aliases": [
+      "Fairfax"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 59,
+    "per_chapter": {
+      "1": {
+        "mentions": 59,
+        "snippet": "Lady Bracknell and Miss Fairfax."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Cardew",
+    "aliases": [
+      "Cardew"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 57,
+    "per_chapter": {
+      "1": {
+        "mentions": 57,
+        "snippet": "Miss Cardew was a little too much"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Uncle Jack",
+    "aliases": [
+      "Jack"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 52,
+    "per_chapter": {
+      "1": {
+        "mentions": 52,
+        "snippet": "with her fondest love to her dear Uncle Jack."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Dr. Chasuble",
+    "aliases": [
+      "Chasuble"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 36,
+    "per_chapter": {
+      "1": {
+        "mentions": 36,
+        "snippet": "] But I see dear Dr."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Algy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 22,
+    "per_chapter": {
+      "1": {
+        "mentions": 22,
+        "snippet": "usual, I see, Algy!"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Bunbury",
+    "aliases": [
+      "Bunbury"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 18,
+    "per_chapter": {
+      "1": {
+        "mentions": 18,
+        "snippet": "This Mr."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Ernest Worthing",
+    "aliases": [
+      "Ernest"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Bracknell",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 11,
+        "snippet": "Lord Bracknell would dream of allowing our only daughter\u2014a girl brought"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Goes",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 11,
+        "snippet": "[Goes over and takes sandwich."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Ernest Worthing",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "Ernest Worthing."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Bunburyist",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "confirmed and secret Bunburyist; and I am quite sure of it now."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Enter Merriman",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "[Enter Merriman with a card on a salver."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Rising",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "[Rising, and"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "Very natural, I am sure."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Enter Jack",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "[Enter Jack."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Takes",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "[Takes one and eats it."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Come,"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Bunburying",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "naturally want to talk to you about Bunburying."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Quite",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Quite dead."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Cecily Cardew",
+    "aliases": [
+      "Cecily"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "grand-daughter, Miss Cecily Cardew."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Harbury",
+    "aliases": [
+      "Harbury"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "on dear Lady Harbury."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Bloxham",
+    "aliases": [
+      "Bloxham"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Lady Bloxham."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Brother John",
+    "aliases": [
+      "John"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Brother John, I have come down from town to tell you that I am very"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Moncrieff",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Moncrieff, kindly"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Manor House",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "The Garden at the Manor House, Woolton."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Enter Lane",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "[Enter Lane."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Canon",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Canon Chasuble, D."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Shropshire",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Got nice neighbours in your part of Shropshire?"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Moving",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "[Moving to him."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "After",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "[After some hesitation."
+      }
+    },
+    "co_occurs_with": {
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "With",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "With pleasure, Miss Prism, with pleasure."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Looking",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "[Looking round."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "General",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "[General consternation."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Moncrieff",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "To Cecily",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "[To Cecily."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Sitting",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "[Sitting down on the sofa."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Puts",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "[Puts the card in his pocket."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Doctor",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "My name is L\u00e6titia, Doctor."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Australia",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Australia."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Severely",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "[Severely."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Thomas Cardew",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Old Mr."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Thomas Cardew",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Thomas Cardew, who"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Ernest",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "I have put Mr."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Lancing",
+    "aliases": [
+      "Lancing"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "I remember recommending one to young Lady Lancing, and after"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Tunbridge Wells",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Lives at Tunbridge Wells."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "To Gwendolen",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "[To Gwendolen."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Belgrave Square",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Well, I own a house in Belgrave Square, but it is let by the year to"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Enter Algernon",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "[Enter Algernon, very gay and debonnair."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Half",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Algernon Moncrieff\u2019s Flat in Half-Moon Street, W."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Woolton",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "The Garden at the Manor House, Woolton."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Drawing",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Drawing-Room at the Manor House, Woolton."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Morning",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Morning-room in Algernon\u2019s flat in Half-Moon Street."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Willis",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "health, for instance, I wouldn\u2019t be able to dine with you at Willis\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Picking",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "[Picking up empty plate in horror."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Looks",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "[Looks in her pocket for note-book and pencil."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Shaking",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "[Shaking her head."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Still",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Still leading his life of pleasure?"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Speaking",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "[Speaking very rapidly."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Offers",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "[Offers to kiss her."
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  },
+  {
+    "canonical_name": "Embraces",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "[Embraces her]"
+      }
+    },
+    "co_occurs_with": {
+      "After": 1,
+      "Algernon Moncrieff": 1,
+      "Algy": 1,
+      "Allen Aynesworth": 1,
+      "Ancient History": 1,
+      "Army Lists": 1,
+      "Aunt Augusta": 1,
+      "Aunt Cecily": 1
+    }
+  }
+]

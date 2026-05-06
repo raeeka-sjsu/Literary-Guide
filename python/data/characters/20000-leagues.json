@@ -1,0 +1,2959 @@
+[
+  {
+    "canonical_name": "Captain Nemo",
+    "aliases": [
+      "Nemo"
+    ],
+    "first_chapter": 12,
+    "total_mentions": 997,
+    "per_chapter": {
+      "12": {
+        "mentions": 48,
+        "snippet": "\u201cSir,\u201d replied the commander, \u201cI am nothing to you but Captain Nemo;"
+      },
+      "13": {
+        "mentions": 15,
+        "snippet": "\u201cSir,\u201d said Captain Nemo, showing me the instruments hanging on the"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "\u201cOne last question, Captain Nemo."
+      },
+      "15": {
+        "mentions": 14,
+        "snippet": "\u201cSir,\u201d said Captain Nemo, \u201cwe will, if you please, take our bearings"
+      },
+      "16": {
+        "mentions": 27,
+        "snippet": "The whole day passed without my being honoured by a visit from Captain"
+      },
+      "17": {
+        "mentions": 21,
+        "snippet": "\u201cNo one will force you, Master Ned,\u201d said Captain Nemo."
+      },
+      "18": {
+        "mentions": 39,
+        "snippet": "the finest of Captain Nemo\u2019s immense domains."
+      },
+      "19": {
+        "mentions": 16,
+        "snippet": "I was admiring the magnificent aspect of the ocean when Captain Nemo"
+      },
+      "20": {
+        "mentions": 24,
+        "snippet": "One day, when I was suggesting this theory to Captain Nemo, he replied"
+      },
+      "21": {
+        "mentions": 34,
+        "snippet": "On this occasion, Captain Nemo informed me that his"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "before that we had become, according to Captain Nemo, \u201cpassengers on"
+      },
+      "23": {
+        "mentions": 49,
+        "snippet": "Captain Nemo was there, bending over his organ, and plunged in a"
+      },
+      "24": {
+        "mentions": 32,
+        "snippet": "On the 13th of January, Captain Nemo arrived in the Sea of Timor, and"
+      },
+      "25": {
+        "mentions": 32,
+        "snippet": "As for Captain Nemo, he did not appear."
+      },
+      "26": {
+        "mentions": 15,
+        "snippet": "Captain Nemo\u2019s life was passing, even to his grave, which he had"
+      },
+      "27": {
+        "mentions": 20,
+        "snippet": "Captain Nemo and his second appeared at this moment."
+      },
+      "28": {
+        "mentions": 56,
+        "snippet": "Captain Nemo had placed at my service."
+      },
+      "29": {
+        "mentions": 35,
+        "snippet": "Where was Captain Nemo taking us to?"
+      },
+      "30": {
+        "mentions": 19,
+        "snippet": "At this instant Captain Nemo appeared on the platform."
+      },
+      "31": {
+        "mentions": 64,
+        "snippet": "Captain Nemo\u2019s caprices drag us once more to the bottom of the Polar"
+      },
+      "32": {
+        "mentions": 4,
+        "snippet": "Even Captain"
+      },
+      "33": {
+        "mentions": 44,
+        "snippet": "But we know now that Captain Nemo does not fly from"
+      },
+      "34": {
+        "mentions": 28,
+        "snippet": "from Captain Nemo."
+      },
+      "35": {
+        "mentions": 8,
+        "snippet": "could not even see Captain Nemo; but, looking to the zenith, exactly"
+      },
+      "36": {
+        "mentions": 20,
+        "snippet": "And Captain Nemo, not wishing to entangle his"
+      },
+      "37": {
+        "mentions": 22,
+        "snippet": "\u201cBut, friend Ned,\u201d said Conseil, \u201cwhy do you not ask Captain Nemo\u2019s"
+      },
+      "38": {
+        "mentions": 45,
+        "snippet": "But, seeking carefully, Captain"
+      },
+      "39": {
+        "mentions": 44,
+        "snippet": "\u201cSir,\u201d said I to Captain Nemo, \u201cto you belongs the honour of first"
+      },
+      "40": {
+        "mentions": 23,
+        "snippet": "I heard footsteps, and a confusion of voices; but Captain"
+      },
+      "41": {
+        "mentions": 31,
+        "snippet": "Captain Nemo went out."
+      },
+      "42": {
+        "mentions": 11,
+        "snippet": "I could not answer that question, and I feared that Captain Nemo would"
+      },
+      "43": {
+        "mentions": 23,
+        "snippet": "Captain Nemo, followed by his lieutenant, entered the"
+      },
+      "44": {
+        "mentions": 27,
+        "snippet": "I have said that Captain Nemo wept while watching the waves; his grief"
+      },
+      "45": {
+        "mentions": 21,
+        "snippet": "away; and poor Ned, in despair, had isolated himself like Captain Nemo."
+      },
+      "46": {
+        "mentions": 42,
+        "snippet": "It was no common misanthropy which had shut Captain Nemo and"
+      },
+      "47": {
+        "mentions": 29,
+        "snippet": "I felt an insurmountable horror for Captain Nemo."
+      },
+      "48": {
+        "mentions": 9,
+        "snippet": "Does Captain Nemo still live?"
+      }
+    },
+    "co_occurs_with": {
+      "Ned Land": 32,
+      "Conseil": 25,
+      "Canadian": 17,
+      "Master Land": 10,
+      "Gulf Stream": 6,
+      "Indian Ocean": 6,
+      "Red Sea": 6,
+      "Cape Horn": 6
+    }
+  },
+  {
+    "canonical_name": "Conseil",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 241,
+    "per_chapter": {
+      "5": {
+        "mentions": 16,
+        "snippet": "\u201cConseil,\u201d I called in an impatient voice."
+      },
+      "7": {
+        "mentions": 10,
+        "snippet": "I looked and looked, till I was nearly blind, whilst Conseil,"
+      },
+      "9": {
+        "mentions": 18,
+        "snippet": "I seized with one hand my faithful Conseil\u2019s arm."
+      },
+      "10": {
+        "mentions": 13,
+        "snippet": "Land and Conseil, firmly seized, followed me."
+      },
+      "11": {
+        "mentions": 6,
+        "snippet": "I was making my observations, when Ned and Conseil awoke almost at the"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "Conseil, interested in"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "felt myself drawn with it, when Ned Land and Conseil appeared at the"
+      },
+      "16": {
+        "mentions": 7,
+        "snippet": "Conseil came, according to custom, to know \u201chow I had"
+      },
+      "18": {
+        "mentions": 5,
+        "snippet": "answer, I only put my great copper head to Conseil\u2019s."
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "Ned Land and Conseil watched the luminous water"
+      },
+      "21": {
+        "mentions": 9,
+        "snippet": "Early on the 1st of January, 1863, Conseil joined me on the platform."
+      },
+      "23": {
+        "mentions": 17,
+        "snippet": "\u201cStones do not fall from the sky,\u201d remarked Conseil, \u201cor they would"
+      },
+      "24": {
+        "mentions": 6,
+        "snippet": "I went down to the cabin occupied by Ned Land and Conseil, and"
+      },
+      "25": {
+        "mentions": 4,
+        "snippet": "Ned Land and Conseil waited there for me."
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "I now borrow from the daily notes of Master Conseil."
+      },
+      "27": {
+        "mentions": 12,
+        "snippet": "At this moment Conseil and the Canadian entered, quite composed, and"
+      },
+      "28": {
+        "mentions": 6,
+        "snippet": "Ned and Conseil were already there, delighted at the idea of"
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "About seven o\u2019clock Ned and Conseil joined"
+      },
+      "32": {
+        "mentions": 8,
+        "snippet": "I showed Conseil, on the map of the Mediterranean, the spot occupied by"
+      },
+      "33": {
+        "mentions": 4,
+        "snippet": "I mounted at once, accompanied by Ned Land and Conseil."
+      },
+      "35": {
+        "mentions": 9,
+        "snippet": "Amongst bony fish Conseil noticed some about three yards long, armed at"
+      },
+      "37": {
+        "mentions": 12,
+        "snippet": "That day, the 14th of March, Conseil and he came to me in my"
+      },
+      "38": {
+        "mentions": 5,
+        "snippet": "its icebergs; but Conseil and I admired them for the first time."
+      },
+      "39": {
+        "mentions": 13,
+        "snippet": "Captain, two of his men, bearing instruments, Conseil, and myself were"
+      },
+      "40": {
+        "mentions": 13,
+        "snippet": "As I was leaving the saloon, Ned Land and Conseil"
+      },
+      "41": {
+        "mentions": 5,
+        "snippet": "where the panes of glass were open, and, posted near Conseil, I"
+      },
+      "42": {
+        "mentions": 8,
+        "snippet": "\u201d said Conseil, \u201chow delightful this oxygen is!"
+      },
+      "43": {
+        "mentions": 14,
+        "snippet": "The Canadian, Conseil, and I had a"
+      },
+      "46": {
+        "mentions": 4,
+        "snippet": "Conseil and the"
+      },
+      "47": {
+        "mentions": 4,
+        "snippet": "had returned to my room, where Ned and Conseil had remained silent"
+      }
+    },
+    "co_occurs_with": {
+      "Ned Land": 27,
+      "Captain Nemo": 25,
+      "Canadian": 13,
+      "Master Land": 8,
+      "Indian Ocean": 5,
+      "Cape Horn": 5,
+      "Friend Ned": 5,
+      "South Pole": 5
+    }
+  },
+  {
+    "canonical_name": "Ned Land",
+    "aliases": [
+      "Land",
+      "Ned"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 156,
+    "per_chapter": {
+      "6": {
+        "mentions": 7,
+        "snippet": "what was better still, she had on board Ned Land, the prince of"
+      },
+      "7": {
+        "mentions": 5,
+        "snippet": "wonderful dexterity of Ned Land, and proved what confidence we might"
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "The captain, Ned Land, and I, were then on the poop, eagerly peering"
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "\u201cAs long as it sails horizontally,\u201d muttered Ned Land, \u201cI do not mind;"
+      },
+      "10": {
+        "mentions": 9,
+        "snippet": "Meanwhile, Ned Land, furious at these proceedings, gave free vent to"
+      },
+      "11": {
+        "mentions": 7,
+        "snippet": "\u201cI will not contradict you,\u201d replied Ned Land."
+      },
+      "12": {
+        "mentions": 5,
+        "snippet": "At these words, Ned Land rose suddenly."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "platform, I saw a cabin six feet long, in which Conseil and Ned Land,"
+      },
+      "15": {
+        "mentions": 4,
+        "snippet": "felt myself drawn with it, when Ned Land and Conseil appeared at the"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "_\u201d replied Ned Land."
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "\u201cThere is no alternative, Master Ned."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "That day being Christmas Day, Ned Land seemed to regret sorely the"
+      },
+      "21": {
+        "mentions": 5,
+        "snippet": "\u201d remarked Ned Land."
+      },
+      "22": {
+        "mentions": 9,
+        "snippet": "\u201d said Ned Land."
+      },
+      "23": {
+        "mentions": 5,
+        "snippet": "the action of putting it to my mouth, Ned Land\u2019s completing its office."
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "I went down to the cabin occupied by Ned Land and Conseil, and"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "I rejoined Ned Land and"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "times Ned Land was no longer master of himself."
+      },
+      "27": {
+        "mentions": 3,
+        "snippet": "\u201cFaith, sir,\u201d said Ned Land, \u201cyour Captain Nemo\u2014the devil take him!"
+      },
+      "28": {
+        "mentions": 5,
+        "snippet": "Captain Nemo, Ned Land, Conseil, and I took our places in the stern of"
+      },
+      "29": {
+        "mentions": 3,
+        "snippet": "\u201cI need not tell you, sir,\u201d said Ned Land, \u201cthat the Red Sea is as much"
+      },
+      "30": {
+        "mentions": 7,
+        "snippet": "another, when Ned Land, stretching out his hand towards a spot on the"
+      },
+      "31": {
+        "mentions": 6,
+        "snippet": "\u201d said Ned Land, \u201cand where shall we be in six months, if you"
+      },
+      "32": {
+        "mentions": 2,
+        "snippet": "that Ned Land, to his great disgust, was obliged to renounce his"
+      },
+      "33": {
+        "mentions": 6,
+        "snippet": "I mounted at once, accompanied by Ned Land and Conseil."
+      },
+      "34": {
+        "mentions": 7,
+        "snippet": "\u201cWell, Ned, fortune was against us yesterday."
+      },
+      "35": {
+        "mentions": 3,
+        "snippet": "\u201cVery well,\u201d replied Ned Land; \u201cI accept the explanation, sir; but, in"
+      },
+      "37": {
+        "mentions": 12,
+        "snippet": "Captain\u2019s temerity justified Ned Land\u2019s fears."
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "I knew that to Ned Land, as well as to all other navigators who had"
+      },
+      "39": {
+        "mentions": 2,
+        "snippet": "I had not seen Ned Land."
+      },
+      "40": {
+        "mentions": 4,
+        "snippet": "As I was leaving the saloon, Ned Land and Conseil"
+      },
+      "41": {
+        "mentions": 2,
+        "snippet": "among them Ned Land, easily known by his stature."
+      },
+      "42": {
+        "mentions": 3,
+        "snippet": "\u201cNo doubt,\u201d said Ned Land; \u201cbut it remains to be seen whether he will"
+      },
+      "43": {
+        "mentions": 7,
+        "snippet": "Flight would have been quite practicable, if Ned Land had been able to"
+      },
+      "44": {
+        "mentions": 1,
+        "snippet": "But it is otherwise with Ned Land."
+      },
+      "46": {
+        "mentions": 4,
+        "snippet": "\u201cIt was a gunshot,\u201d replied Ned Land."
+      },
+      "47": {
+        "mentions": 3,
+        "snippet": "At half-past six Ned Land came"
+      },
+      "48": {
+        "mentions": 1,
+        "snippet": "the boat escaped from the eddies of the maelstrom\u2014how Ned Land,"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 32,
+      "Conseil": 27,
+      "Canadian": 19,
+      "Master Land": 11,
+      "Indian Ocean": 6,
+      "Red Sea": 6,
+      "Cape Horn": 6,
+      "Abraham": 5
+    }
+  },
+  {
+    "canonical_name": "Canadian",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 116,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "good the Canadian\u2019s eyes were, I asked myself how he had managed to"
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201d replied the Canadian."
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "this man must have felt towards the Canadian."
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "The Canadian looked at Conseil, then shrugged his shoulders."
+      },
+      "22": {
+        "mentions": 11,
+        "snippet": "the Canadian abandoned the agreeable for the useful."
+      },
+      "27": {
+        "mentions": 6,
+        "snippet": "At this moment Conseil and the Canadian entered, quite composed, and"
+      },
+      "29": {
+        "mentions": 3,
+        "snippet": "This, however, did not satisfy the Canadian, who that"
+      },
+      "30": {
+        "mentions": 7,
+        "snippet": "dugong, understood the Canadian\u2019s attitude, and, addressing him, said:"
+      },
+      "31": {
+        "mentions": 10,
+        "snippet": "\u201cWell, Sir Naturalist,\u201d said the Canadian, in a slightly jovial tone,"
+      },
+      "33": {
+        "mentions": 6,
+        "snippet": "I returned to my room, Conseil to his cabin; but the Canadian, with a"
+      },
+      "34": {
+        "mentions": 4,
+        "snippet": "The next morning, the 19th of February, I saw the Canadian enter my"
+      },
+      "35": {
+        "mentions": 6,
+        "snippet": "\u201cI do not call this land,\u201d said the Canadian."
+      },
+      "37": {
+        "mentions": 14,
+        "snippet": "Canadian had not spoken to me of his projects of flight; he was less"
+      },
+      "41": {
+        "mentions": 3,
+        "snippet": "\u201cSir,\u201d replied the Canadian, \u201cI am ready to do anything for the general"
+      },
+      "42": {
+        "mentions": 3,
+        "snippet": "How I got on to the platform, I have no idea; perhaps the Canadian had"
+      },
+      "43": {
+        "mentions": 11,
+        "snippet": "The Canadian, who counted on carrying out his"
+      },
+      "44": {
+        "mentions": 4,
+        "snippet": "Canadian."
+      },
+      "46": {
+        "mentions": 9,
+        "snippet": "Canadian were already there."
+      },
+      "47": {
+        "mentions": 7,
+        "snippet": "And the Canadian, too, his strength and patience at an"
+      }
+    },
+    "co_occurs_with": {
+      "Ned Land": 19,
+      "Captain Nemo": 17,
+      "Conseil": 13,
+      "Master Land": 8,
+      "Indian Ocean": 4,
+      "Red Sea": 4,
+      "Friend Ned": 4,
+      "Cape Horn": 4
+    }
+  },
+  {
+    "canonical_name": "Abraham",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 39,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "A frigate of great speed, the _Abraham Lincoln_, was put in"
+      },
+      "5": {
+        "mentions": 6,
+        "snippet": "take our passage in the _Abraham Lincoln_."
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "unbearable; still the _Abraham Lincoln_ had not yet breasted the"
+      },
+      "7": {
+        "mentions": 8,
+        "snippet": "The voyage of the _Abraham Lincoln_ was for a long time marked by no"
+      },
+      "8": {
+        "mentions": 11,
+        "snippet": "At two cables\u2019 length from the _Abraham Lincoln_, on the"
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "Had the _Abraham Lincoln_"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "board the frigate _Abraham Lincoln_ of the navy of the United States of"
+      }
+    },
+    "co_occurs_with": {
+      "Ned Land": 5,
+      "Conseil": 4,
+      "Natural History": 3,
+      "Canadian": 3,
+      "Captain Farragut": 3,
+      "New York": 2,
+      "United States": 2,
+      "Commander Farragut": 2
+    }
+  },
+  {
+    "canonical_name": "Master Land",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 31,
+    "per_chapter": {
+      "11": {
+        "mentions": 6,
+        "snippet": "\u201cQuite so, Master Land; it was taking breath."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "\u201cI did not ask you for your word of honour, Master Land,\u201d answered the"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "Master Land\u2019s imprudences are beginning."
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "\u201cOne word only, Master Land,\u201d I said to the harpooner, who was"
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "displeasure of Master Land, who could not complete his provisions."
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "\u201cThank you, Master Land,\u201d said he."
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "\u201cVery well, then, we will come out again, Master Land; and if, after"
+      },
+      "30": {
+        "mentions": 4,
+        "snippet": "\u201cIf you held a harpoon just now, Master Land, would it not burn your"
+      },
+      "31": {
+        "mentions": 2,
+        "snippet": "\u201cThen you are wrong, Master Land,\u201d I continued; \u201cthis low coast which"
+      },
+      "37": {
+        "mentions": 6,
+        "snippet": "your traders do a culpable action, Master Land."
+      },
+      "43": {
+        "mentions": 2,
+        "snippet": "\u201cI will accept it, Master Land."
+      }
+    },
+    "co_occurs_with": {
+      "Ned Land": 11,
+      "Captain Nemo": 10,
+      "Canadian": 8,
+      "Conseil": 8,
+      "Red Sea": 5,
+      "Indian Ocean": 3,
+      "The Mediterranean": 3,
+      "Friend Ned": 2
+    }
+  },
+  {
+    "canonical_name": "Professor",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 22,
+    "per_chapter": {
+      "12": {
+        "mentions": 13,
+        "snippet": "Pierre Aronnax, Professor of Natural History at"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "\u201cHere, Professor, I ought to give you some explanations."
+      },
+      "14": {
+        "mentions": 6,
+        "snippet": "That would happen, Professor."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 3,
+      "Ned Land": 2,
+      "Abraham": 1,
+      "Canadian": 1,
+      "Captain Farragut": 1,
+      "Conseil": 1,
+      "Gerard Dow": 1,
+      "Havannah": 1
+    }
+  },
+  {
+    "canonical_name": "Red Sea",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 20,
+    "per_chapter": {
+      "12": {
+        "mentions": 1,
+        "snippet": "sparks of fire; pink pearls, torn from the pinna-marina of the Red Sea;"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "I shall notice chiefly ostracions peculiar to the Red Sea, the Indian"
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "shells, a kind of ostracion peculiar to the Red Sea and the Indian"
+      },
+      "29": {
+        "mentions": 15,
+        "snippet": "the Persian Gulf, the _Nautilus_ would like to visit the Red Sea, the"
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "of the Red Sea, which the incline of the tunnel precipitated violently"
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "\u201cBut, sir,\u201d continued the Canadian, \u201cin the Red Sea you allowed us to"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 6,
+      "Ned Land": 6,
+      "Master Land": 5,
+      "Canadian": 4,
+      "Conseil": 4,
+      "Indian Ocean": 3,
+      "The Mediterranean": 3,
+      "Indian Peninsula": 2
+    }
+  },
+  {
+    "canonical_name": "Captain Farragut",
+    "aliases": [
+      "Farragut"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 19,
+    "per_chapter": {
+      "6": {
+        "mentions": 10,
+        "snippet": "Captain Farragut was a good seaman, worthy of the frigate he commanded."
+      },
+      "7": {
+        "mentions": 6,
+        "snippet": "Captain Farragut, the frigate would have headed due southward."
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "This question embarrassed me, for certainly Captain Farragut might not"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham": 3,
+      "Ned Land": 3,
+      "Conseil": 2,
+      "Canadian": 1,
+      "Captain Nemo": 1,
+      "Gerard Dow": 1,
+      "Havannah": 1,
+      "Indian Ocean": 1
+    }
+  },
+  {
+    "canonical_name": "Vanikoro",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 15,
+    "per_chapter": {
+      "20": {
+        "mentions": 15,
+        "snippet": "\u201cVanikoro."
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1
+    }
+  },
+  {
+    "canonical_name": "Gulf Stream",
+    "aliases": [
+      "Gulf"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 13,
+    "per_chapter": {
+      "15": {
+        "mentions": 1,
+        "snippet": "remarkable of these is known by the name of the Gulf Stream."
+      },
+      "30": {
+        "mentions": 4,
+        "snippet": "comprised between the Gulf of Suez and the Gulf of Acabah."
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "known by the name of the Gulf Stream."
+      },
+      "44": {
+        "mentions": 5,
+        "snippet": "I mean the Gulf Stream."
+      },
+      "45": {
+        "mentions": 1,
+        "snippet": "matter, brought either from the Equator by the Gulf Stream, or from the"
+      },
+      "47": {
+        "mentions": 1,
+        "snippet": "the poulps, the storm in the Gulf Stream, the Avenger, and the horrible"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 6,
+      "Ned Land": 4,
+      "Canadian": 3,
+      "Mont Blanc": 2,
+      "New York": 2,
+      "Conseil": 2,
+      "North Atlantic": 2,
+      "Admiral Estaing": 1
+    }
+  },
+  {
+    "canonical_name": "South Pole",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 12,
+    "per_chapter": {
+      "23": {
+        "mentions": 2,
+        "snippet": "of the South Pole, the coral reefs of Oceania, the cannibals of the"
+      },
+      "38": {
+        "mentions": 3,
+        "snippet": "to conquer those obstacles which bristled round the South Pole,"
+      },
+      "39": {
+        "mentions": 5,
+        "snippet": "The ingenious American has remarked that, between the South Pole and"
+      },
+      "46": {
+        "mentions": 1,
+        "snippet": "flag, similar to the one he had placed at the South Pole."
+      },
+      "47": {
+        "mentions": 1,
+        "snippet": "iceberg, the South Pole, the imprisonment in the ice, the fight among"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 5,
+      "Conseil": 5,
+      "Ned Land": 5,
+      "Canadian": 2,
+      "North Atlantic": 2,
+      "Avenger": 1,
+      "Captain. He": 1,
+      "Commander Farragut": 1
+    }
+  },
+  {
+    "canonical_name": "Mediterranean",
+    "aliases": [],
+    "first_chapter": 31,
+    "total_mentions": 12,
+    "per_chapter": {
+      "31": {
+        "mentions": 3,
+        "snippet": "\u201cand the Mediterranean?"
+      },
+      "32": {
+        "mentions": 9,
+        "snippet": "The Mediterranean, the blue sea par excellence, \u201cthe great sea\u201d of the"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 2,
+      "Conseil": 2,
+      "Ned Land": 2,
+      "Asia Minor": 1,
+      "Caeruleus Proteus": 1,
+      "Canadian": 1,
+      "Cape Matapan": 1,
+      "Certainly": 1
+    }
+  },
+  {
+    "canonical_name": "Cape Horn",
+    "aliases": [
+      "Cape"
+    ],
+    "first_chapter": 7,
+    "total_mentions": 11,
+    "per_chapter": {
+      "7": {
+        "mentions": 2,
+        "snippet": "take a tortuous passage, but doubled Cape Horn."
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "Hope, then Cape Horn, and finally go as far as the Antarctic pole?"
+      },
+      "29": {
+        "mentions": 4,
+        "snippet": "Cape of Good Hope."
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "two terrible points so dreaded by mariners, Cape Horn and the Cape of"
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "and I imagined that he intended, after doubling Cape Horn, to return to"
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "Cape Horn, he would turn the helm westward, in order to beat the"
+      },
+      "42": {
+        "mentions": 1,
+        "snippet": "passed, and the course shaped for Cape Horn."
+      }
+    },
+    "co_occurs_with": {
+      "Ned Land": 6,
+      "Captain Nemo": 6,
+      "Conseil": 5,
+      "Canadian": 4,
+      "Friend Ned": 2,
+      "Indian Ocean": 2,
+      "Captain. But": 2,
+      "Master Land": 2
+    }
+  },
+  {
+    "canonical_name": "Urville",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 11,
+    "per_chapter": {
+      "20": {
+        "mentions": 8,
+        "snippet": "to Vanikoro, really the one to which Dumont d\u2019Urville gave the name of"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "Dumont d\u2019Urville was nearly lost."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 2,
+      "Ned Land": 2,
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1
+    }
+  },
+  {
+    "canonical_name": "Torres Straits",
+    "aliases": [
+      "Straits"
+    ],
+    "first_chapter": 21,
+    "total_mentions": 10,
+    "per_chapter": {
+      "21": {
+        "mentions": 2,
+        "snippet": "The Torres Straits are nearly thirty-four leagues wide; but they are"
+      },
+      "32": {
+        "mentions": 5,
+        "snippet": "had crossed the Straits of Gibraltar by sunrise on the 18th."
+      },
+      "40": {
+        "mentions": 2,
+        "snippet": "she will right herself as she did the first time in Torres Straits."
+      },
+      "47": {
+        "mentions": 1,
+        "snippet": "_Abraham Lincoln_\u2014the submarine hunt, the Torres Straits, the savages"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 4,
+      "Conseil": 4,
+      "Ned Land": 4,
+      "Canadian": 2,
+      "Canal Mauvais": 1,
+      "Cumberland Passage": 1,
+      "Friend Ned": 1,
+      "Gilboa": 1
+    }
+  },
+  {
+    "canonical_name": "Atlantic",
+    "aliases": [],
+    "first_chapter": 32,
+    "total_mentions": 10,
+    "per_chapter": {
+      "32": {
+        "mentions": 3,
+        "snippet": "of the Atlantic and by rivers falling into it, would each year raise"
+      },
+      "33": {
+        "mentions": 4,
+        "snippet": "The Atlantic!"
+      },
+      "34": {
+        "mentions": 3,
+        "snippet": "through the usual form, we set foot on the bottom of the Atlantic at a"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 3,
+      "Ned Land": 3,
+      "Conseil": 2,
+      "Canadian": 2,
+      "Cape Boco": 1,
+      "Cape Bon": 1,
+      "Cape Furina": 1,
+      "Gibraltar": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Anderson",
+    "aliases": [
+      "Anderson"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 9,
+    "per_chapter": {
+      "3": {
+        "mentions": 7,
+        "snippet": "frightened, but Captain Anderson hastened to reassure them."
+      },
+      "45": {
+        "mentions": 2,
+        "snippet": "Captain Anderson, the officers, and engineers consulted"
+      }
+    },
+    "co_occurs_with": {
+      "Cape Clear": 2,
+      "Bishop Pontoppidan": 1,
+      "British Association": 1,
+      "Burnach Steam Navigation Company": 1,
+      "Captain Baker": 1,
+      "Cunard Company": 1,
+      "Geographical Institution": 1,
+      "Governor": 1
+    }
+  },
+  {
+    "canonical_name": "New York",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 9,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "On my arrival at New York the question was at its height."
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "The quay of Brooklyn, and all that part of New York bordering on the"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Brothers, of New York, etc."
+      },
+      "44": {
+        "mentions": 2,
+        "snippet": "New York."
+      },
+      "45": {
+        "mentions": 1,
+        "snippet": "hope of escape on the shores of New York or St."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 3,
+      "Gulf Stream": 2,
+      "Abraham": 2,
+      "Natural History": 2,
+      "Long Island": 2,
+      "Admiral Estaing": 1,
+      "Admiral Van Stebel": 1,
+      "British Isles": 1
+    }
+  },
+  {
+    "canonical_name": "Astrolabe",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 8,
+    "per_chapter": {
+      "20": {
+        "mentions": 8,
+        "snippet": "Astrolabe struck?"
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1,
+      "Captain Hunter": 1
+    }
+  },
+  {
+    "canonical_name": "Dumont",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 8,
+    "per_chapter": {
+      "20": {
+        "mentions": 8,
+        "snippet": "to Vanikoro, really the one to which Dumont d\u2019Urville gave the name of"
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1
+    }
+  },
+  {
+    "canonical_name": "Friend Ned",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 7,
+    "per_chapter": {
+      "21": {
+        "mentions": 2,
+        "snippet": "\u201cFriend Ned, I do not despair of this stout _Nautilus_, as you do; and"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "\u201cFriend Ned,\u201d asked Conseil, \u201cwhat would you have said if the breakfast"
+      },
+      "31": {
+        "mentions": 2,
+        "snippet": "\u201cFriend Ned, answer me frankly, are you tired of being on board?"
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "\u201cFriend Ned,\u201d said I, \u201cI understand you; but you cannot reproach"
+      },
+      "46": {
+        "mentions": 1,
+        "snippet": "\u201cFriend Ned,\u201d replied Conseil, \u201cwhat harm can it do to the _Nautilus?"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 5,
+      "Conseil": 5,
+      "Ned Land": 5,
+      "Canadian": 4,
+      "Indian Ocean": 3,
+      "Master Land": 2,
+      "Cape Horn": 2,
+      "Avenger": 1
+    }
+  },
+  {
+    "canonical_name": "Let",
+    "aliases": [],
+    "first_chapter": 22,
+    "total_mentions": 7,
+    "per_chapter": {
+      "22": {
+        "mentions": 4,
+        "snippet": "\u201cLet us continue,\u201d I returned, \u201cand lie in wait."
+      },
+      "41": {
+        "mentions": 3,
+        "snippet": "Let us, then,"
+      }
+    },
+    "co_occurs_with": {
+      "Canadian": 2,
+      "Captain Nemo": 2,
+      "Ned Land": 2,
+      "Captain. His": 1,
+      "Conseil": 1,
+      "By Jove": 1,
+      "Friend Conseil": 1,
+      "Master Land": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Naturalist",
+    "aliases": [
+      "Naturalist"
+    ],
+    "first_chapter": 31,
+    "total_mentions": 7,
+    "per_chapter": {
+      "31": {
+        "mentions": 6,
+        "snippet": "\u201cWell, Sir Naturalist,\u201d said the Canadian, in a slightly jovial tone,"
+      },
+      "43": {
+        "mentions": 1,
+        "snippet": "Naturalist,\u201d he replied; \u201cand we are going to fight"
+      }
+    },
+    "co_occurs_with": {
+      "Canadian": 2,
+      "Captain Nemo": 2,
+      "Conseil": 2,
+      "Master Land": 2,
+      "Ned Land": 2,
+      "Asia Minor": 1,
+      "Caeruleus Proteus": 1,
+      "Cape Matapan": 1
+    }
+  },
+  {
+    "canonical_name": "Commander Farragut",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 6,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "cannot forbear embarking with Commander Farragut."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "speaking) expire; after that time, Commander Farragut, faithful to his"
+      },
+      "46": {
+        "mentions": 1,
+        "snippet": "Commander Farragut had recognised in the supposed narwhal a submarine"
+      }
+    },
+    "co_occurs_with": {
+      "Conseil": 3,
+      "Abraham": 2,
+      "Ned Land": 2,
+      "American Government": 1,
+      "East River": 1,
+      "Fire Island": 1,
+      "Great Submarine Grounds": 1,
+      "Long Island": 1
+    }
+  },
+  {
+    "canonical_name": "Professor Aronnax",
+    "aliases": [
+      "Aronnax"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 6,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "introducing in person Professor Aronnax, his servant Conseil, and"
+      },
+      "16": {
+        "mentions": 3,
+        "snippet": "Captain Nemo invites Professor Aronnax to a hunting-party, which will"
+      }
+    },
+    "co_occurs_with": {
+      "Conseil": 2,
+      "Ned Land": 2,
+      "Captain Crespo": 1,
+      "Captain Nemo": 1,
+      "Captain. Was": 1,
+      "North Pacific": 1,
+      "Philip Coles": 1,
+      "The Silver Rock": 1
+    }
+  },
+  {
+    "canonical_name": "Indian Ocean",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 6,
+    "per_chapter": {
+      "12": {
+        "mentions": 1,
+        "snippet": "only the elegant royal hammer-fish of the Indian Ocean, whose regular"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "intention was to get into the Indian Ocean by the Strait of Torres."
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "Her head was set for the Indian Ocean."
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "We were furrowing the waters of the Indian Ocean, a vast liquid plain,"
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "the _Nautilus_ will go down the Indian Ocean again, perhaps cross the"
+      },
+      "46": {
+        "mentions": 1,
+        "snippet": "imprisoned in that cell, in the midst of the Indian Ocean, had he not"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 6,
+      "Ned Land": 6,
+      "Conseil": 5,
+      "Canadian": 4,
+      "Master Land": 3,
+      "Red Sea": 3,
+      "Friend Ned": 3,
+      "Cape Horn": 2
+    }
+  },
+  {
+    "canonical_name": "Master Ned",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 6,
+    "per_chapter": {
+      "17": {
+        "mentions": 4,
+        "snippet": "\u201cThere is no alternative, Master Ned."
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "\u201cWe are going where our Captain\u2019s fancy takes us, Master Ned."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 2,
+      "Ned Land": 2,
+      "Aden": 1,
+      "Africa": 1,
+      "Arabia": 1,
+      "Arabian Edrisi": 1,
+      "Arabian Tunnel": 1,
+      "Bab": 1
+    }
+  },
+  {
+    "canonical_name": "La Perouse",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 6,
+    "per_chapter": {
+      "20": {
+        "mentions": 5,
+        "snippet": "Dillon guessed that he meant La Perouse, whose disappearance had"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "from La Perouse\u2019s group and the south-east point of Papua."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 2,
+      "Ned Land": 2,
+      "Pacific": 2,
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1
+    }
+  },
+  {
+    "canonical_name": "Pacific",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 6,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "Societies and the graceful Tahiti, queen of the Pacific."
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "are not strong in the Pacific; and, if you cannot lighten the"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 2,
+      "La Perouse": 2,
+      "Ned Land": 2,
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1
+    }
+  },
+  {
+    "canonical_name": "Good Hope",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 6,
+    "per_chapter": {
+      "29": {
+        "mentions": 4,
+        "snippet": "Cape of Good Hope."
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "search of favourable winds for doubling the Cape of Good Hope."
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "on the road to India, were making for the Cape of Good Hope."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 3,
+      "Canadian": 2,
+      "Cape Horn": 2,
+      "Ned Land": 2,
+      "Aden": 1,
+      "Africa": 1,
+      "Arabia": 1,
+      "Arabian Edrisi": 1
+    }
+  },
+  {
+    "canonical_name": "United States",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 5,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "between the United States and Europe, respectively signalled the"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "United States."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "board the frigate _Abraham Lincoln_ of the navy of the United States of"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham": 2,
+      "Natural History": 2,
+      "Bishop Pontoppidan": 1,
+      "British Association": 1,
+      "Burnach Steam Navigation Company": 1,
+      "Cape Clear": 1,
+      "Captain Anderson": 1,
+      "Captain Baker": 1
+    }
+  },
+  {
+    "canonical_name": "Recherche",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 5,
+    "per_chapter": {
+      "20": {
+        "mentions": 5,
+        "snippet": "Isle de la Recherche, and exactly facing the little harbour of Vanou,"
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1
+    }
+  },
+  {
+    "canonical_name": "Suez",
+    "aliases": [],
+    "first_chapter": 30,
+    "total_mentions": 5,
+    "per_chapter": {
+      "30": {
+        "mentions": 5,
+        "snippet": "comprised between the Gulf of Suez and the Gulf of Acabah."
+      }
+    },
+    "co_occurs_with": {
+      "Arabia Petraea": 1,
+      "Arabian Tunnel": 1,
+      "Canadian": 1,
+      "Captain Nemo": 1,
+      "Gulf Stream": 1,
+      "Master Land": 1,
+      "Mount Horeb": 1,
+      "Ned Land": 1
+    }
+  },
+  {
+    "canonical_name": "Vigo Bay",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 5,
+    "per_chapter": {
+      "33": {
+        "mentions": 4,
+        "snippet": "the galleons entered Vigo Bay."
+      },
+      "47": {
+        "mentions": 1,
+        "snippet": "the Island of Santorin, the Cretan diver, Vigo Bay, Atlantis, the"
+      }
+    },
+    "co_occurs_with": {
+      "Canadian": 2,
+      "Captain Nemo": 2,
+      "Conseil": 2,
+      "Ned Land": 2,
+      "Admiral Chateau": 1,
+      "Atlantic": 1,
+      "Cadiz": 1,
+      "Cape Horn": 1
+    }
+  },
+  {
+    "canonical_name": "Spain",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 5,
+    "per_chapter": {
+      "33": {
+        "mentions": 5,
+        "snippet": "Spain?"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Chateau": 1,
+      "Atlantic": 1,
+      "Cadiz": 1,
+      "Canadian": 1,
+      "Cape Horn": 1,
+      "Cape St": 1,
+      "Captain Nemo": 1,
+      "Captain. But": 1
+    }
+  },
+  {
+    "canonical_name": "Natural History",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 2,
+        "snippet": "Museum of Natural History in Paris, the French Government had attached"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "of his ivory halberd to the Museum of Natural History."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Pierre Aronnax, Professor of Natural History at"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham": 3,
+      "New York": 2,
+      "United States": 2,
+      "Conseil": 2,
+      "Assistant Professor": 1,
+      "Fifth Avenue Hotel": 1,
+      "French Government": 1,
+      "Honourable Pierre Aronnax": 1
+    }
+  },
+  {
+    "canonical_name": "Museum",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "Museum of Natural History in Paris, the French Government had attached"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham": 1,
+      "Assistant Professor": 1,
+      "Fifth Avenue Hotel": 1,
+      "French Government": 1,
+      "Honourable Pierre Aronnax": 1,
+      "Natural History": 1,
+      "New York": 1,
+      "North Pacific": 1
+    }
+  },
+  {
+    "canonical_name": "North Atlantic",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 4,
+    "per_chapter": {
+      "15": {
+        "mentions": 1,
+        "snippet": "in the North Atlantic, a second in the South, a third in the North"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "depth of 8,000 yards has been found in the North Atlantic, and 2,500"
+      },
+      "39": {
+        "mentions": 1,
+        "snippet": "size, which is never met with in the North Atlantic."
+      },
+      "47": {
+        "mentions": 1,
+        "snippet": "part of the North Atlantic basin the _Nautilus_ would take us?"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 4,
+      "Conseil": 4,
+      "Ned Land": 3,
+      "Gulf Stream": 2,
+      "South Pole": 2,
+      "Aleutian Islands": 1,
+      "Aral Seas": 1,
+      "Black River": 1
+    }
+  },
+  {
+    "canonical_name": "Japanese",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 4,
+    "per_chapter": {
+      "15": {
+        "mentions": 4,
+        "snippet": "I cast a last look upon the sea, slightly yellowed by the Japanese"
+      }
+    },
+    "co_occurs_with": {
+      "Aleutian Islands": 1,
+      "Aral Seas": 1,
+      "Black River": 1,
+      "Captain Nemo": 1,
+      "Conseil": 1,
+      "Frozen Ocean": 1,
+      "Gulf Stream": 1,
+      "Mr. Land": 1
+    }
+  },
+  {
+    "canonical_name": "New Caledonia",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 4,
+    "per_chapter": {
+      "20": {
+        "mentions": 4,
+        "snippet": "New Zealand and New Caledonia, and from thence to the Marquesas."
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1
+    }
+  },
+  {
+    "canonical_name": "Boussole",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 4,
+    "per_chapter": {
+      "20": {
+        "mentions": 4,
+        "snippet": "\u201cAnd I can visit the celebrated islands where the Boussole and the"
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Calcutta": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1,
+      "Captain Hunter": 1
+    }
+  },
+  {
+    "canonical_name": "Vanou",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 4,
+    "per_chapter": {
+      "20": {
+        "mentions": 4,
+        "snippet": "Isle de la Recherche, and exactly facing the little harbour of Vanou,"
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1
+    }
+  },
+  {
+    "canonical_name": "Two",
+    "aliases": [],
+    "first_chapter": 22,
+    "total_mentions": 4,
+    "per_chapter": {
+      "22": {
+        "mentions": 4,
+        "snippet": "\u201cTwo o\u2019clock at least,\u201d replied Conseil."
+      }
+    },
+    "co_occurs_with": {
+      "By Jove": 1,
+      "Canadian": 1,
+      "Captain Nemo": 1,
+      "Friend Conseil": 1,
+      "Let": 1,
+      "Master Land": 1,
+      "Ned Land": 1
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 4,
+    "per_chapter": {
+      "29": {
+        "mentions": 4,
+        "snippet": "\u201cVery well, then, we will come out again, Master Land; and if, after"
+      }
+    },
+    "co_occurs_with": {
+      "Aden": 1,
+      "Africa": 1,
+      "Arabia": 1,
+      "Arabian Edrisi": 1,
+      "Arabian Tunnel": 1,
+      "Bab": 1,
+      "British Government": 1,
+      "Caliph Al": 1
+    }
+  },
+  {
+    "canonical_name": "Gibraltar",
+    "aliases": [],
+    "first_chapter": 32,
+    "total_mentions": 4,
+    "per_chapter": {
+      "32": {
+        "mentions": 4,
+        "snippet": "had crossed the Straits of Gibraltar by sunrise on the 18th."
+      }
+    },
+    "co_occurs_with": {
+      "Atlantic": 1,
+      "Cape Boco": 1,
+      "Cape Bon": 1,
+      "Cape Furina": 1,
+      "Captain Nemo": 1,
+      "Conseil": 1,
+      "Mediterranean": 1,
+      "Ned Land": 1
+    }
+  },
+  {
+    "canonical_name": "Pacific Ocean",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "the Pacific Ocean, by the _Columbus_, of the West India and Pacific"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "The Pacific Ocean extends from north to south between the two polar"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "excursion under the waters of the Pacific Ocean."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 2,
+      "Conseil": 2,
+      "Ned Land": 2,
+      "Bishop Pontoppidan": 1,
+      "British Association": 1,
+      "Burnach Steam Navigation Company": 1,
+      "Cape Clear": 1,
+      "Captain Anderson": 1
+    }
+  },
+  {
+    "canonical_name": "Governor",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "On the 20th of July, 1866, the steamer _Governor Higginson_, of the"
+      }
+    },
+    "co_occurs_with": {
+      "Bishop Pontoppidan": 1,
+      "British Association": 1,
+      "Burnach Steam Navigation Company": 1,
+      "Cape Clear": 1,
+      "Captain Anderson": 1,
+      "Captain Baker": 1,
+      "Cunard Company": 1,
+      "Geographical Institution": 1
+    }
+  },
+  {
+    "canonical_name": "North Pacific",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "Shanghai, had seen the animal three weeks before in the North Pacific"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "of Asia, turns into the North Pacific to the Aleutian Islands, carrying"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "I showed this little rock lost in the midst of the North Pacific to my"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 2,
+      "Conseil": 2,
+      "Ned Land": 2,
+      "Aleutian Islands": 1,
+      "Aral Seas": 1,
+      "Black River": 1,
+      "Frozen Ocean": 1,
+      "Gulf Stream": 1
+    }
+  },
+  {
+    "canonical_name": "Long Island",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "coast of Long Island; and at eight bells, after having lost sight in"
+      },
+      "44": {
+        "mentions": 2,
+        "snippet": "_Nautilus_ is nearing Long Island."
+      }
+    },
+    "co_occurs_with": {
+      "New York": 2,
+      "Abraham": 1,
+      "American Government": 1,
+      "Commander Farragut": 1,
+      "Conseil": 1,
+      "East River": 1,
+      "Fire Island": 1,
+      "Great Submarine Grounds": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Land",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 1,
+        "snippet": "\u201cWell, Mr."
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "And you, Mr."
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "\u201cI cannot answer you, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Ned Land": 3,
+      "Conseil": 2,
+      "Aleutian Islands": 1,
+      "Aral Seas": 1,
+      "Black River": 1,
+      "Captain Nemo": 1,
+      "Frozen Ocean": 1,
+      "Gulf Stream": 1
+    }
+  },
+  {
+    "canonical_name": "Help",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201cHelp, help!"
+      }
+    },
+    "co_occurs_with": {
+      "Abraham": 1,
+      "Canadian": 1,
+      "Conseil": 1,
+      "Edgar Poe": 1,
+      "Ned Land": 1
+    }
+  },
+  {
+    "canonical_name": "Havannah",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 3,
+    "per_chapter": {
+      "12": {
+        "mentions": 3,
+        "snippet": "communication with Havannah."
+      }
+    },
+    "co_occurs_with": {
+      "Abraham": 1,
+      "Canadian": 1,
+      "Captain Farragut": 1,
+      "Captain Nemo": 1,
+      "Conseil": 1,
+      "Gerard Dow": 1,
+      "Indian Ocean": 1,
+      "Master Land": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Bell",
+    "aliases": [
+      "Bell"
+    ],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "discovered in 1822 by Captain Bell of the Minerva."
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1,
+      "Captain Dillon": 1,
+      "Captain Hunter": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Hunter",
+    "aliases": [
+      "Hunter"
+    ],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "mentioned in a report of Captain Hunter\u2019s as being the place where La"
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1
+    }
+  },
+  {
+    "canonical_name": "Clermont",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "Clermont-Tonnere, one of the most curious of the group, that was"
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1
+    }
+  },
+  {
+    "canonical_name": "Louis",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "La Perouse, and his second, Captain de Langle, were sent by Louis XVI,"
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1
+    }
+  },
+  {
+    "canonical_name": "Entrecasteaux",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "Bruni d\u2019Entrecasteaux."
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1
+    }
+  },
+  {
+    "canonical_name": "Lascar",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "There a Lascar came alongside in a canoe, sold him the handle"
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Calcutta": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1
+    }
+  },
+  {
+    "canonical_name": "Calcutta",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "Dillon returned to Calcutta."
+      }
+    },
+    "co_occurs_with": {
+      "Admiralty Islands": 1,
+      "Asiatic Society": 1,
+      "Astrolabe": 1,
+      "Botany Bay": 1,
+      "Boussole": 1,
+      "Captain Bell": 1,
+      "Captain Dillon": 1,
+      "Captain Hunter": 1
+    }
+  },
+  {
+    "canonical_name": "Really",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 3,
+    "per_chapter": {
+      "21": {
+        "mentions": 3,
+        "snippet": "\u201cReally, I do not know how to answer, master."
+      }
+    },
+    "co_occurs_with": {
+      "Canadian": 1,
+      "Canal Mauvais": 1,
+      "Captain Nemo": 1,
+      "Conseil": 1,
+      "Cumberland Passage": 1,
+      "Friend Ned": 1,
+      "Gilboa": 1,
+      "Happy New Year": 1
+    }
+  },
+  {
+    "canonical_name": "Gilboa",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 3,
+    "per_chapter": {
+      "21": {
+        "mentions": 3,
+        "snippet": "for the Island of Gilboa."
+      }
+    },
+    "co_occurs_with": {
+      "Canadian": 1,
+      "Canal Mauvais": 1,
+      "Captain Nemo": 1,
+      "Conseil": 1,
+      "Cumberland Passage": 1,
+      "Friend Ned": 1,
+      "Happy New Year": 1,
+      "Indian Ocean": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Cook",
+    "aliases": [
+      "Cook"
+    ],
+    "first_chapter": 23,
+    "total_mentions": 3,
+    "per_chapter": {
+      "23": {
+        "mentions": 3,
+        "snippet": "He is the Captain Cook of you"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 1,
+      "Captain. Her": 1,
+      "Conseil": 1,
+      "Europeans": 1,
+      "Louis Philippe": 1,
+      "Master Land": 1,
+      "Ned Land": 1,
+      "Papua": 1
+    }
+  },
+  {
+    "canonical_name": "Savages",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 3,
+    "per_chapter": {
+      "23": {
+        "mentions": 3,
+        "snippet": "\u201cSavages."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Cook": 1,
+      "Captain Nemo": 1,
+      "Captain. Her": 1,
+      "Conseil": 1,
+      "Europeans": 1,
+      "Louis Philippe": 1,
+      "Master Land": 1,
+      "Ned Land": 1
+    }
+  },
+  {
+    "canonical_name": "Papua",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 3,
+    "per_chapter": {
+      "23": {
+        "mentions": 3,
+        "snippet": "stops, \u201cwhen all the natives of Papua are assembled on this shore, the"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Cook": 1,
+      "Captain Nemo": 1,
+      "Captain. Her": 1,
+      "Conseil": 1,
+      "Europeans": 1,
+      "Louis Philippe": 1,
+      "Master Land": 1,
+      "Ned Land": 1
+    }
+  },
+  {
+    "canonical_name": "Europeans",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 3,
+    "per_chapter": {
+      "23": {
+        "mentions": 3,
+        "snippet": "Between Europeans and savages, it is proper for the"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Cook": 1,
+      "Captain Nemo": 1,
+      "Captain. Her": 1,
+      "Conseil": 1,
+      "Louis Philippe": 1,
+      "Master Land": 1,
+      "Ned Land": 1,
+      "Papua": 1
+    }
+  },
+  {
+    "canonical_name": "Captain. But",
+    "aliases": [],
+    "first_chapter": 25,
+    "total_mentions": 3,
+    "per_chapter": {
+      "25": {
+        "mentions": 1,
+        "snippet": "My answer had evidently satisfied the Captain."
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "\u201cI understand, Captain."
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "Captain."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 3,
+      "Conseil": 2,
+      "Ned Land": 2,
+      "Cape Horn": 2,
+      "Captain. PART TWO": 1,
+      "Pacific Ocean": 1,
+      "Admiral Chateau": 1,
+      "Atlantic": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Fitzroy",
+    "aliases": [
+      "Fitzroy"
+    ],
+    "first_chapter": 26,
+    "total_mentions": 3,
+    "per_chapter": {
+      "26": {
+        "mentions": 3,
+        "snippet": "Darwin and Captain Fitzroy."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Nemo": 1,
+      "Captain. Still": 1,
+      "Conseil": 1,
+      "Indian Ocean": 1,
+      "Indian Peninsula": 1,
+      "Indian Sea": 1,
+      "Keeling Island": 1,
+      "King George": 1
+    }
+  },
+  {
+    "canonical_name": "Ceylon",
+    "aliases": [],
+    "first_chapter": 27,
+    "total_mentions": 3,
+    "per_chapter": {
+      "27": {
+        "mentions": 3,
+        "snippet": "island of Ceylon, the pearl which hangs from the lobe of the Indian"
+      }
+    },
+    "co_occurs_with": {
+      "Andaman Islands": 1,
+      "Canadian": 1,
+      "Captain Nemo": 1,
+      "Conseil": 1,
+      "Ned Land": 1,
+      "The Island": 1
+    }
+  },
+  {
+    "canonical_name": "The Mediterranean",
+    "aliases": [
+      "The"
+    ],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 1,
+        "snippet": "\u201cThe Mediterranean!"
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "\u201cThe Mediterranean!"
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "The _Nautilus_ will"
+      }
+    },
+    "co_occurs_with": {
+      "Canadian": 3,
+      "Captain Nemo": 3,
+      "Master Land": 3,
+      "Ned Land": 3,
+      "Red Sea": 3,
+      "Cape Horn": 2,
+      "Arabian Tunnel": 2,
+      "Aleutian Islands": 1
+    }
+  },
+  {
+    "canonical_name": "Oman",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "direction of the Sea of Oman, between Arabia and the Indian Peninsula,"
+      }
+    },
+    "co_occurs_with": {
+      "Aden": 1,
+      "Africa": 1,
+      "Arabia": 1,
+      "Arabian Edrisi": 1,
+      "Arabian Tunnel": 1,
+      "Bab": 1,
+      "British Government": 1,
+      "Caliph Al": 1
+    }
+  },
+  {
+    "canonical_name": "Arabia",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "direction of the Sea of Oman, between Arabia and the Indian Peninsula,"
+      }
+    },
+    "co_occurs_with": {
+      "Aden": 1,
+      "Africa": 1,
+      "Arabian Edrisi": 1,
+      "Arabian Tunnel": 1,
+      "Bab": 1,
+      "British Government": 1,
+      "Caliph Al": 1,
+      "Caliph Omar": 1
+    }
+  },
+  {
+    "canonical_name": "Bab",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "Straits of Bab-el-mandeb are there to give us entrance."
+      }
+    },
+    "co_occurs_with": {
+      "Aden": 1,
+      "Africa": 1,
+      "Arabia": 1,
+      "Arabian Edrisi": 1,
+      "Arabian Tunnel": 1,
+      "British Government": 1,
+      "Caliph Al": 1,
+      "Caliph Omar": 1
+    }
+  },
+  {
+    "canonical_name": "Egypt",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "\u201cI suppose that, after visiting the curious coasts of Arabia and Egypt,"
+      }
+    },
+    "co_occurs_with": {
+      "Aden": 1,
+      "Africa": 1,
+      "Arabia": 1,
+      "Arabian Edrisi": 1,
+      "Arabian Tunnel": 1,
+      "Bab": 1,
+      "British Government": 1,
+      "Caliph Al": 1
+    }
+  },
+  {
+    "canonical_name": "Aden",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "last entered the Gulf of Aden, a perfect funnel introduced into the"
+      }
+    },
+    "co_occurs_with": {
+      "Africa": 1,
+      "Arabia": 1,
+      "Arabian Edrisi": 1,
+      "Arabian Tunnel": 1,
+      "Bab": 1,
+      "British Government": 1,
+      "Caliph Al": 1,
+      "Caliph Omar": 1
+    }
+  },
+  {
+    "canonical_name": "Nautilus",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "years, we may not see a second _Nautilus?"
+      }
+    },
+    "co_occurs_with": {
+      "Aden": 1,
+      "Africa": 1,
+      "Arabia": 1,
+      "Arabian Edrisi": 1,
+      "Arabian Tunnel": 1,
+      "Bab": 1,
+      "British Government": 1,
+      "Caliph Al": 1
+    }
+  },
+  {
+    "canonical_name": "Israelites",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "passage of the Israelites, when Pharaoh perished in the waves which"
+      }
+    },
+    "co_occurs_with": {
+      "Aden": 1,
+      "Africa": 1,
+      "Arabia": 1,
+      "Arabian Edrisi": 1,
+      "Arabian Tunnel": 1,
+      "Bab": 1,
+      "British Government": 1,
+      "Caliph Al": 1
+    }
+  },
+  {
+    "canonical_name": "Moses",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "closed at the voice of Moses."
+      }
+    },
+    "co_occurs_with": {
+      "Aden": 1,
+      "Africa": 1,
+      "Arabia": 1,
+      "Arabian Edrisi": 1,
+      "Arabian Tunnel": 1,
+      "Bab": 1,
+      "British Government": 1,
+      "Caliph Al": 1
+    }
+  },
+  {
+    "canonical_name": "Nile",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "not think of digging a canal direct, and took the Nile as an"
+      }
+    },
+    "co_occurs_with": {
+      "Aden": 1,
+      "Africa": 1,
+      "Arabia": 1,
+      "Arabian Edrisi": 1,
+      "Arabian Tunnel": 1,
+      "Bab": 1,
+      "British Government": 1,
+      "Caliph Al": 1
+    }
+  },
+  {
+    "canonical_name": "Africa",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "Africa into an immense island."
+      }
+    },
+    "co_occurs_with": {
+      "Aden": 1,
+      "Arabia": 1,
+      "Arabian Edrisi": 1,
+      "Arabian Tunnel": 1,
+      "Bab": 1,
+      "British Government": 1,
+      "Caliph Al": 1,
+      "Caliph Omar": 1
+    }
+  },
+  {
+    "canonical_name": "Nea Kamenni",
+    "aliases": [],
+    "first_chapter": 31,
+    "total_mentions": 3,
+    "per_chapter": {
+      "31": {
+        "mentions": 3,
+        "snippet": "near Nea Kamenni, and settled again the 6th of the same month."
+      }
+    },
+    "co_occurs_with": {
+      "Asia Minor": 1,
+      "Caeruleus Proteus": 1,
+      "Canadian": 1,
+      "Cape Matapan": 1,
+      "Captain Nemo": 1,
+      "Certainly": 1,
+      "Conseil": 1,
+      "Crete": 1
+    }
+  },
+  {
+    "canonical_name": "Certainly",
+    "aliases": [],
+    "first_chapter": 31,
+    "total_mentions": 3,
+    "per_chapter": {
+      "31": {
+        "mentions": 3,
+        "snippet": "\u201cCertainly you are right, sir, and your Captain is a first-rate man."
+      }
+    },
+    "co_occurs_with": {
+      "Asia Minor": 1,
+      "Caeruleus Proteus": 1,
+      "Canadian": 1,
+      "Cape Matapan": 1,
+      "Captain Nemo": 1,
+      "Conseil": 1,
+      "Crete": 1,
+      "Est Carpathio Neptuni": 1
+    }
+  },
+  {
+    "canonical_name": "Crete",
+    "aliases": [],
+    "first_chapter": 31,
+    "total_mentions": 3,
+    "per_chapter": {
+      "31": {
+        "mentions": 3,
+        "snippet": "and Crete."
+      }
+    },
+    "co_occurs_with": {
+      "Asia Minor": 1,
+      "Caeruleus Proteus": 1,
+      "Canadian": 1,
+      "Cape Matapan": 1,
+      "Captain Nemo": 1,
+      "Certainly": 1,
+      "Conseil": 1,
+      "Est Carpathio Neptuni": 1
+    }
+  },
+  {
+    "canonical_name": "Admiral Chateau",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "twenty-three vessels, commanded by Admiral Chateau-Renaud, for the"
+      }
+    },
+    "co_occurs_with": {
+      "Atlantic": 1,
+      "Cadiz": 1,
+      "Canadian": 1,
+      "Cape Horn": 1,
+      "Cape St": 1,
+      "Captain Nemo": 1,
+      "Captain. But": 1,
+      "Conseil": 1
+    }
+  },
+  {
+    "canonical_name": "Philip",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "reigned more or less badly under the name of Philip V, and had a strong"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Chateau": 1,
+      "Atlantic": 1,
+      "Cadiz": 1,
+      "Canadian": 1,
+      "Cape Horn": 1,
+      "Cape St": 1,
+      "Captain Nemo": 1,
+      "Captain. But": 1
+    }
+  },
+  {
+    "canonical_name": "Renaud",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "twenty-three vessels, commanded by Admiral Chateau-Renaud, for the"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Chateau": 1,
+      "Atlantic": 1,
+      "Cadiz": 1,
+      "Canadian": 1,
+      "Cape Horn": 1,
+      "Cape St": 1,
+      "Captain Nemo": 1,
+      "Captain. But": 1
+    }
+  },
+  {
+    "canonical_name": "Cadiz",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "was to go to Cadiz, but the Admiral, hearing that an English fleet was"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Chateau": 1,
+      "Atlantic": 1,
+      "Canadian": 1,
+      "Cape Horn": 1,
+      "Cape St": 1,
+      "Captain Nemo": 1,
+      "Captain. But": 1,
+      "Conseil": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Denham",
+    "aliases": [
+      "Denham"
+    ],
+    "first_chapter": 36,
+    "total_mentions": 3,
+    "per_chapter": {
+      "36": {
+        "mentions": 3,
+        "snippet": "Captain Denham of the Herald sounded 7,000 fathoms without finding the"
+      }
+    },
+    "co_occurs_with": {
+      "Atlantic Ocean": 1,
+      "Cape Horn": 1,
+      "Captain Nemo": 1,
+      "Captain. But": 1,
+      "Good Hope": 1,
+      "Gulf Stream": 1,
+      "Lieutenant Parker": 1,
+      "Mont Blanc": 1
+    }
+  },
+  {
+    "canonical_name": "Lieutenant Parker",
+    "aliases": [
+      "Parker"
+    ],
+    "first_chapter": 36,
+    "total_mentions": 3,
+    "per_chapter": {
+      "36": {
+        "mentions": 3,
+        "snippet": "There, too, Lieutenant Parker, of the American frigate"
+      }
+    },
+    "co_occurs_with": {
+      "Atlantic Ocean": 1,
+      "Cape Horn": 1,
+      "Captain Denham": 1,
+      "Captain Nemo": 1,
+      "Captain. But": 1,
+      "Good Hope": 1,
+      "Gulf Stream": 1,
+      "Mont Blanc": 1
+    }
+  },
+  {
+    "canonical_name": "Sargasso Sea",
+    "aliases": [],
+    "first_chapter": 36,
+    "total_mentions": 3,
+    "per_chapter": {
+      "36": {
+        "mentions": 3,
+        "snippet": "quiet, immovable ocean called the Sargasso Sea, a perfect lake in the"
+      }
+    },
+    "co_occurs_with": {
+      "Atlantic Ocean": 1,
+      "Cape Horn": 1,
+      "Captain Denham": 1,
+      "Captain Nemo": 1,
+      "Captain. But": 1,
+      "Good Hope": 1,
+      "Gulf Stream": 1,
+      "Lieutenant Parker": 1
+    }
+  },
+  {
+    "canonical_name": "Greenland",
+    "aliases": [],
+    "first_chapter": 37,
+    "total_mentions": 3,
+    "per_chapter": {
+      "37": {
+        "mentions": 3,
+        "snippet": "It is the Greenland"
+      }
+    },
+    "co_occurs_with": {
+      "Aleutian Islands": 1,
+      "Canadian": 1,
+      "Cape Horn": 1,
+      "Captain Nemo": 1,
+      "Captain. It": 1,
+      "Conseil": 1,
+      "Davis Straits": 1,
+      "Master Land": 1
+    }
+  },
+  {
+    "canonical_name": "With",
+    "aliases": [],
+    "first_chapter": 43,
+    "total_mentions": 3,
+    "per_chapter": {
+      "43": {
+        "mentions": 3,
+        "snippet": "\u201cWith your own eyes?"
+      }
+    },
+    "co_occurs_with": {
+      "Canadian": 1,
+      "Captain Bouguer": 1,
+      "Captain Nemo": 1,
+      "Captain Paul Bos": 1,
+      "Conseil": 1,
+      "Master Land": 1,
+      "Mr. Naturalist": 1,
+      "Ned Land": 1
+    }
+  },
+  {
+    "canonical_name": "Newfoundland",
+    "aliases": [],
+    "first_chapter": 45,
+    "total_mentions": 3,
+    "per_chapter": {
+      "45": {
+        "mentions": 3,
+        "snippet": "Newfoundland."
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Estaing": 1,
+      "Admiral Van Stebel": 1,
+      "British Isles": 1,
+      "Cape Clear": 1,
+      "Captain Anderson": 1,
+      "Captain Nemo": 1,
+      "Chesapeake Bay": 1,
+      "Comte de Grasse": 1
+    }
+  },
+  {
+    "canonical_name": "Ireland",
+    "aliases": [],
+    "first_chapter": 45,
+    "total_mentions": 3,
+    "per_chapter": {
+      "45": {
+        "mentions": 3,
+        "snippet": "It was within 638 miles of the coast of Ireland;"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Estaing": 1,
+      "Admiral Van Stebel": 1,
+      "British Isles": 1,
+      "Cape Clear": 1,
+      "Captain Anderson": 1,
+      "Captain Nemo": 1,
+      "Chesapeake Bay": 1,
+      "Comte de Grasse": 1
+    }
+  },
+  {
+    "canonical_name": "Avenger",
+    "aliases": [],
+    "first_chapter": 46,
+    "total_mentions": 3,
+    "per_chapter": {
+      "46": {
+        "mentions": 3,
+        "snippet": "strange man pronounced the last words, the name of the Avenger, the"
+      }
+    },
+    "co_occurs_with": {
+      "Canadian": 1,
+      "Captain Nemo": 1,
+      "Captain. He": 1,
+      "Commander Farragut": 1,
+      "Conseil": 1,
+      "Friend Ned": 1,
+      "Indian Ocean": 1,
+      "Ned Land": 1
+    }
+  }
+]
