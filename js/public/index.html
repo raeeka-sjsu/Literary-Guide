@@ -4,168 +4,684 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Literary Guide</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: Georgia, serif; background: #faf9f6; color: #2c2c2c; padding: 2rem; max-width: 980px; margin: auto; line-height: 1.5; }
-    h1 { margin-bottom: 0.25rem; }
-    .subtitle { color: #666; margin-bottom: 2rem; }
-    nav { display: flex; gap: 1rem; margin-bottom: 1.5rem; border-bottom: 1px solid #e0ddd8; }
-    nav button { background: none; border: none; padding: 0.5rem 1rem; cursor: pointer; font-family: inherit; font-size: 1rem; color: #6b5b4e; border-bottom: 2px solid transparent; }
-    nav button.active { color: #2c2c2c; border-bottom-color: #6b5b4e; }
-    .panel { display: none; }
-    .panel.active { display: block; }
-    .ask-form { background: #fff; border: 1px solid #e0ddd8; border-radius: 8px; padding: 1.25rem; margin-bottom: 1.5rem; }
-    .ask-form label { display: block; font-weight: bold; color: #4a3f35; margin-bottom: 0.4rem; font-size: 0.9rem; }
-    .ask-form input, .ask-form textarea, .ask-form select { width: 100%; padding: 0.5rem; border: 1px solid #d4d0c8; border-radius: 4px; font-family: inherit; font-size: 1rem; margin-bottom: 0.8rem; }
-    .ask-form textarea { resize: vertical; min-height: 60px; }
-    .ask-form .row { display: flex; gap: 1rem; }
-    .ask-form .row > div { flex: 1; }
-    .ask-form button { background: #6b5b4e; color: white; border: none; padding: 0.6rem 1.5rem; border-radius: 4px; cursor: pointer; font-family: inherit; font-size: 1rem; }
-    .ask-form button:hover { background: #4a3f35; }
-    .ask-form button:disabled { opacity: 0.5; cursor: not-allowed; }
-    .card { background: #fff; border: 1px solid #e0ddd8; border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem; }
-    .card h2 { font-size: 1.1rem; margin-bottom: 0.75rem; color: #4a3f35; }
-    .field { margin-bottom: 0.5rem; font-size: 0.95rem; }
-    .field strong { color: #6b5b4e; }
-    .summary-text { background: #f5f3ef; padding: 1rem; border-radius: 4px; margin-top: 0.5rem; line-height: 1.6; max-height: 200px; overflow-y: auto; }
-    .answer-box { background: #fdfaf3; border-left: 4px solid #6b5b4e; padding: 1rem 1.25rem; margin-bottom: 1.5rem; white-space: pre-wrap; }
-    .citation { background: #f5f3ef; padding: 0.75rem 1rem; border-radius: 4px; margin-bottom: 0.75rem; font-size: 0.92rem; }
-    .citation .meta { color: #999; font-size: 0.8rem; margin-bottom: 0.4rem; }
-    .loading { text-align: center; padding: 2rem; color: #999; }
+    :root {
+      --paper: #faf6ed;
+      --paper-edge: #ede4d0;
+      --ink: #2c2620;
+      --ink-soft: #6b5b4e;
+      --accent: #8b4513;
+      --shadow: 0 1px 3px rgba(60, 40, 20, 0.08), 0 8px 24px rgba(60, 40, 20, 0.08);
+    }
+    html, body { height: 100%; }
+    body {
+      font-family: "Inter", system-ui, sans-serif;
+      background: linear-gradient(180deg, #f3ebd9 0%, #e8dcc0 100%);
+      color: var(--ink);
+      min-height: 100vh;
+    }
+
+    /* ===== Header ===== */
+    header.app-header {
+      padding: 1.5rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      border-bottom: 1px solid rgba(0,0,0,0.06);
+    }
+    header.app-header h1 {
+      font-family: "Crimson Pro", Georgia, serif;
+      font-weight: 600;
+      font-size: 1.6rem;
+    }
+    header.app-header .subtitle { color: var(--ink-soft); font-size: 0.9rem; }
+    header.app-header .back {
+      background: none; border: 1px solid var(--paper-edge); padding: 0.4rem 0.9rem;
+      border-radius: 4px; cursor: pointer; font-family: inherit; color: var(--ink-soft);
+    }
+    header.app-header .back:hover { background: var(--paper); }
+
+    /* ===== Library view ===== */
+    .library {
+      max-width: 1280px; margin: 0 auto; padding: 2rem;
+    }
+    .library-controls {
+      display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap;
+    }
+    .search-box {
+      flex: 1; min-width: 260px;
+      padding: 0.7rem 1rem; border: 1px solid var(--paper-edge);
+      border-radius: 6px; font-family: inherit; font-size: 1rem;
+      background: var(--paper);
+    }
+    .genre-filter {
+      padding: 0.7rem 1rem; border: 1px solid var(--paper-edge);
+      border-radius: 6px; font-family: inherit; font-size: 1rem; background: var(--paper);
+    }
+    .library-stats { color: var(--ink-soft); font-size: 0.9rem; margin-bottom: 1rem; }
+
+    .book-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 1.5rem;
+    }
+    .book-card {
+      background: var(--paper);
+      border-radius: 4px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+      box-shadow: var(--shadow);
+      position: relative;
+    }
+    .book-card:hover { transform: translateY(-3px); box-shadow: 0 4px 8px rgba(60,40,20,0.12), 0 16px 32px rgba(60,40,20,0.12); }
+    .book-spine {
+      height: 220px;
+      background: linear-gradient(135deg, var(--accent) 0%, #6b3410 100%);
+      display: flex; flex-direction: column; justify-content: center; align-items: center;
+      padding: 1rem; text-align: center; color: #fbf3e2;
+      position: relative;
+    }
+    .book-spine::before {
+      content: "";
+      position: absolute; top: 0; bottom: 0; left: 0; width: 6px;
+      background: linear-gradient(90deg, rgba(0,0,0,0.25), rgba(0,0,0,0));
+    }
+    .book-spine h3 {
+      font-family: "Crimson Pro", Georgia, serif;
+      font-size: 1.1rem; line-height: 1.2; font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+    .book-spine .author { font-size: 0.85rem; opacity: 0.85; }
+    .book-spine .year { position: absolute; bottom: 0.5rem; font-size: 0.7rem; opacity: 0.6; }
+    .book-card-meta {
+      padding: 0.75rem 1rem;
+      border-top: 1px solid var(--paper-edge);
+      font-size: 0.85rem; color: var(--ink-soft);
+    }
+    .book-card-meta .chapters { font-weight: 500; color: var(--ink); }
+    .book-card-meta .genres { font-size: 0.75rem; margin-top: 0.25rem; }
+    .badge {
+      display: inline-block; background: var(--paper-edge); color: var(--ink-soft);
+      padding: 0.1rem 0.5rem; border-radius: 3px; font-size: 0.7rem;
+      margin-right: 0.25rem; margin-top: 0.25rem;
+    }
+
+    /* Vary spine colors by hash so the shelf feels diverse */
+    .book-spine.c0 { background: linear-gradient(135deg, #8b4513, #6b3410); }
+    .book-spine.c1 { background: linear-gradient(135deg, #2c5530, #1f3d22); }
+    .book-spine.c2 { background: linear-gradient(135deg, #4a3e6b, #2f2746); }
+    .book-spine.c3 { background: linear-gradient(135deg, #7a3a3a, #5a2828); }
+    .book-spine.c4 { background: linear-gradient(135deg, #1f3a52, #14283b); }
+    .book-spine.c5 { background: linear-gradient(135deg, #6b5326, #4d3a16); }
+    .book-spine.c6 { background: linear-gradient(135deg, #5a2c4a, #3e1d33); }
+    .book-spine.c7 { background: linear-gradient(135deg, #2e5f5a, #1d423e); }
+
+    /* ===== Reader view ===== */
+    .reader {
+      display: grid;
+      grid-template-columns: 1fr 420px;
+      gap: 1.5rem;
+      height: calc(100vh - 90px);
+      padding: 1.5rem 2rem;
+      max-width: 1500px; margin: 0 auto;
+    }
+    @media (max-width: 1000px) {
+      .reader { grid-template-columns: 1fr; height: auto; }
+    }
+
+    /* Book pane (left) */
+    .book-pane {
+      background: var(--paper);
+      border-radius: 4px;
+      box-shadow: var(--shadow);
+      display: flex; flex-direction: column;
+      overflow: hidden;
+    }
+    .book-toolbar {
+      padding: 0.75rem 1.25rem;
+      border-bottom: 1px solid var(--paper-edge);
+      display: flex; align-items: center; gap: 0.75rem;
+      background: rgba(255,255,255,0.4);
+    }
+    .book-toolbar select, .book-toolbar input {
+      padding: 0.4rem 0.6rem;
+      border: 1px solid var(--paper-edge); border-radius: 4px;
+      background: white; font-family: inherit; font-size: 0.9rem;
+    }
+    .book-toolbar input.search { flex: 1; min-width: 100px; }
+    .book-toolbar button {
+      padding: 0.4rem 0.75rem; border: 1px solid var(--paper-edge);
+      background: white; border-radius: 4px; cursor: pointer; font-family: inherit;
+    }
+    .book-toolbar button:hover:not(:disabled) { background: var(--paper-edge); }
+    .book-toolbar button:disabled { opacity: 0.4; cursor: not-allowed; }
+    .book-title-bar {
+      padding: 0.5rem 1.25rem;
+      border-bottom: 1px solid var(--paper-edge);
+      font-family: "Crimson Pro", Georgia, serif;
+      font-size: 0.95rem; color: var(--ink-soft);
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    .page-content {
+      flex: 1; overflow-y: auto;
+      padding: 2rem 3rem;
+      font-family: "Crimson Pro", Georgia, serif;
+      font-size: 1.05rem; line-height: 1.75;
+      color: var(--ink);
+      position: relative; /* anchor for prompt-menu absolute positioning */
+    }
+    .page-content h2 {
+      font-size: 1.5rem; margin-bottom: 1.5rem;
+      text-align: center; font-weight: 600;
+    }
+    .page-content p { margin-bottom: 1rem; }
+    /* Hover-highlight: each paragraph lights up gently when hovered. Click → prompt menu. */
+    .page-content p {
+      transition: background-color 0.15s ease;
+      padding: 0.25rem 0.5rem;
+      border-radius: 3px;
+      cursor: pointer;
+      position: relative;
+    }
+    .page-content p:hover {
+      background-color: rgba(139, 69, 19, 0.08);
+    }
+    .page-content p.selected {
+      background-color: rgba(139, 69, 19, 0.16);
+      box-shadow: inset 3px 0 0 var(--accent);
+    }
+    .prompt-menu {
+      position: absolute;
+      background: white;
+      border: 1px solid var(--paper-edge);
+      border-radius: 6px;
+      box-shadow: 0 4px 16px rgba(60, 40, 20, 0.18);
+      padding: 0.4rem;
+      z-index: 50;
+      display: flex; flex-direction: column; gap: 0.2rem;
+      font-family: "Inter", system-ui, sans-serif;
+      font-size: 0.85rem;
+      min-width: 220px;
+    }
+    .prompt-menu button {
+      background: none; border: none; padding: 0.5rem 0.7rem;
+      border-radius: 4px; text-align: left; cursor: pointer;
+      font-family: inherit; font-size: 0.85rem; color: var(--ink);
+    }
+    .prompt-menu button:hover { background: var(--paper); }
+    .prompt-menu .menu-divider { height: 1px; background: var(--paper-edge); margin: 0.2rem 0; }
+    .prompt-menu .menu-cancel { color: var(--ink-soft); font-size: 0.78rem; }
+    .page-content mark {
+      background: #fff2a8; padding: 0 0.1em; border-radius: 2px;
+    }
+
+    /* Chat pane (right) */
+    .chat-pane {
+      background: white;
+      border-radius: 4px;
+      box-shadow: var(--shadow);
+      display: flex; flex-direction: column;
+      overflow: hidden;
+    }
+    .chat-header {
+      padding: 1rem 1.25rem;
+      border-bottom: 1px solid var(--paper-edge);
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    .chat-header h3 {
+      font-family: "Crimson Pro", Georgia, serif; font-weight: 600; font-size: 1.05rem;
+    }
+    .chat-header .boundary {
+      font-size: 0.75rem; color: var(--ink-soft);
+      background: var(--paper); padding: 0.2rem 0.5rem; border-radius: 3px;
+    }
+    .chat-messages {
+      flex: 1; overflow-y: auto; padding: 1rem 1.25rem;
+      display: flex; flex-direction: column; gap: 0.75rem;
+    }
+    .chat-msg {
+      padding: 0.7rem 0.9rem; border-radius: 8px; font-size: 0.92rem;
+      max-width: 90%;
+    }
+    .chat-msg.user {
+      background: var(--accent); color: white; align-self: flex-end;
+    }
+    .chat-msg.bot {
+      background: var(--paper); color: var(--ink); align-self: flex-start;
+      white-space: pre-wrap;
+    }
+    .chat-msg.bot.system {
+      background: transparent; color: var(--ink-soft); font-size: 0.85rem; font-style: italic;
+      align-self: center; max-width: 100%; text-align: center;
+    }
+    .chat-msg .citations {
+      margin-top: 0.5rem; padding-top: 0.5rem; border-top: 1px solid var(--paper-edge);
+      font-size: 0.78rem; color: var(--ink-soft);
+    }
+    .chat-msg .citations details { cursor: pointer; }
+    .chat-msg .citations summary { user-select: none; }
+    .chat-msg .citations .cit { margin-top: 0.4rem; padding: 0.4rem 0.6rem; background: white; border-left: 3px solid var(--accent); border-radius: 3px; font-style: normal; }
+
+    .chat-input-row {
+      padding: 0.75rem 1rem; border-top: 1px solid var(--paper-edge);
+      display: flex; gap: 0.5rem;
+    }
+    .chat-input-row textarea {
+      flex: 1; resize: none; padding: 0.6rem; border: 1px solid var(--paper-edge);
+      border-radius: 4px; font-family: inherit; font-size: 0.95rem;
+      min-height: 38px; max-height: 100px;
+    }
+    .chat-input-row select {
+      padding: 0.4rem; border: 1px solid var(--paper-edge); border-radius: 4px;
+      background: white; font-family: inherit; font-size: 0.85rem;
+    }
+    .chat-input-row button {
+      padding: 0.5rem 1rem; background: var(--accent); color: white;
+      border: none; border-radius: 4px; cursor: pointer; font-family: inherit;
+    }
+    .chat-input-row button:hover { background: #6b3410; }
+    .chat-input-row button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .chat-input-row .row-meta { display: flex; gap: 0.5rem; align-items: center; margin-top: 0.5rem; font-size: 0.8rem; color: var(--ink-soft); }
+
+    .loading { text-align: center; padding: 3rem; color: var(--ink-soft); }
     .error { color: #c0392b; padding: 1rem; background: #fdf2f0; border-radius: 4px; }
-    .badge { display: inline-block; background: #e9e4d8; color: #6b5b4e; padding: 0.15rem 0.5rem; border-radius: 3px; font-size: 0.78rem; margin-right: 0.4rem; }
   </style>
 </head>
 <body>
-  <h1>Literary Guide</h1>
-  <p class="subtitle">Spoiler-aware chapter discussion · CMPE 258 Project</p>
+  <header class="app-header">
+    <h1>Literary Guide</h1>
+    <span class="subtitle">Spoiler-aware reading companion</span>
+    <div style="margin-left:auto;">
+      <button id="back-btn" class="back" style="display:none;" onclick="showLibrary()">← Library</button>
+    </div>
+  </header>
 
-  <nav>
-    <button id="tab-ask" class="active" onclick="showTab('ask')">Ask</button>
-    <button id="tab-samples" onclick="showTab('samples')">Sample Data</button>
-  </nav>
+  <!-- ===== Library view ===== -->
+  <main id="library-view" class="library">
+    <div class="library-controls">
+      <input id="search" class="search-box" type="search" placeholder="Search by title or author…" oninput="renderLibrary()" />
+      <select id="genre-filter" class="genre-filter" onchange="renderLibrary()">
+        <option value="">All genres</option>
+      </select>
+    </div>
+    <div id="library-stats" class="library-stats"></div>
+    <div id="book-grid" class="book-grid">
+      <p class="loading">Loading library…</p>
+    </div>
+  </main>
 
-  <div id="panel-ask" class="panel active">
-    <form class="ask-form" onsubmit="submitAsk(event)">
-      <label for="question">Question</label>
-      <textarea id="question" required placeholder="e.g. What does the wilderness symbolize so far?"></textarea>
+  <!-- ===== Reader view ===== -->
+  <main id="reader-view" class="reader" style="display:none;">
+    <section class="book-pane">
+      <div class="book-title-bar">
+        <span id="reader-title"></span>
+        <span id="reader-author"></span>
+      </div>
+      <div class="book-toolbar">
+        <button id="prev-ch" onclick="goChapter(-1)">‹ Prev</button>
+        <select id="ch-select" onchange="jumpChapter()"></select>
+        <button id="next-ch" onclick="goChapter(1)">Next ›</button>
+        <input id="page-search" class="search" type="search" placeholder="Search this chapter…" oninput="searchInChapter()" />
+      </div>
+      <div id="page-content" class="page-content"></div>
+    </section>
 
-      <div class="row">
-        <div>
-          <label for="chapter">Current chapter (spoiler boundary)</label>
-          <input type="number" id="chapter" min="1" value="3" required />
+    <aside class="chat-pane">
+      <div class="chat-header">
+        <h3>Discussion</h3>
+        <span class="boundary" id="boundary-label">Spoiler boundary: chapter 1</span>
+      </div>
+      <div id="chat-messages" class="chat-messages">
+        <div class="chat-msg bot system">Ask about themes, symbolism, or character motives. Answers cite only passages up to your current chapter.</div>
+      </div>
+      <form class="chat-input-row" onsubmit="sendChat(event)" style="flex-direction:column; align-items:stretch;">
+        <div style="display:flex; gap:0.5rem;">
+          <textarea id="chat-input" required placeholder="What does this chapter reveal about…?"></textarea>
+          <button type="submit" id="chat-send">Ask</button>
         </div>
-        <div>
-          <label for="provider">LLM provider</label>
-          <select id="provider">
-            <option value="dry-run">dry-run (retrieval only, no LLM)</option>
+        <div class="row-meta">
+          <label>LLM:</label>
+          <select id="chat-provider">
+            <option value="ollama">Ollama (local, free)</option>
+            <option value="dry-run">dry-run (retrieval only)</option>
             <option value="anthropic">Anthropic Claude</option>
             <option value="openai">OpenAI</option>
           </select>
         </div>
-      </div>
-
-      <button type="submit" id="ask-btn">Ask</button>
-    </form>
-
-    <div id="ask-result"></div>
-  </div>
-
-  <div id="panel-samples" class="panel">
-    <div id="samples-content"><p class="loading">Loading samples…</p></div>
-  </div>
+      </form>
+    </aside>
+  </main>
 
   <script>
-    function showTab(name) {
-      document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
-      document.querySelectorAll("nav button").forEach(b => b.classList.remove("active"));
-      document.getElementById("panel-" + name).classList.add("active");
-      document.getElementById("tab-" + name).classList.add("active");
-      if (name === "samples") loadSamples();
+    // ==== State ====
+    let CATALOG = [];
+    let CURRENT_BOOK = null;     // full book object {chapters: [...]}
+    let CURRENT_CH = 0;          // 0-indexed
+
+    // ==== Library ====
+    async function loadLibrary() {
+      try {
+        const res = await fetch("/api/books");
+        if (!res.ok) throw new Error("Failed to load catalog");
+        CATALOG = await res.json();
+        // Populate genre filter
+        const allGenres = new Set();
+        CATALOG.forEach(b => (b.genres || []).forEach(g => allGenres.add(g)));
+        const sel = document.getElementById("genre-filter");
+        [...allGenres].sort().forEach(g => {
+          const opt = document.createElement("option");
+          opt.value = g; opt.textContent = g;
+          sel.appendChild(opt);
+        });
+        renderLibrary();
+      } catch (e) {
+        document.getElementById("book-grid").innerHTML = `<div class="error">${e.message}</div>`;
+      }
     }
 
-    async function submitAsk(e) {
+    function renderLibrary() {
+      const q = document.getElementById("search").value.trim().toLowerCase();
+      const genre = document.getElementById("genre-filter").value;
+      const filtered = CATALOG.filter(b => {
+        if (genre && !(b.genres || []).includes(genre)) return false;
+        if (!q) return true;
+        return (
+          b.title.toLowerCase().includes(q) ||
+          b.author.toLowerCase().includes(q) ||
+          (b.genres || []).some(g => g.toLowerCase().includes(q))
+        );
+      });
+      document.getElementById("library-stats").textContent =
+        `${filtered.length} of ${CATALOG.length} books`;
+      const grid = document.getElementById("book-grid");
+      if (!filtered.length) {
+        grid.innerHTML = '<p class="loading">No books match.</p>';
+        return;
+      }
+      grid.innerHTML = filtered.map(b => {
+        const colorClass = "c" + (Math.abs(hash(b.id)) % 8);
+        const genres = (b.genres || []).slice(0, 3).map(g => `<span class="badge">${g}</span>`).join("");
+        return `
+          <div class="book-card" onclick="openBook('${b.id}')">
+            <div class="book-spine ${colorClass}">
+              <h3>${escapeHtml(b.title)}</h3>
+              <div class="author">${escapeHtml(b.author)}</div>
+              <div class="year">${b.year || ""}</div>
+            </div>
+            <div class="book-card-meta">
+              <div class="chapters">${b.chapter_count} ${b.chapter_count === 1 ? "chapter" : "chapters"}</div>
+              <div class="genres">${genres}</div>
+            </div>
+          </div>`;
+      }).join("");
+    }
+
+    function hash(s) { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) | 0; return h; }
+    function escapeHtml(s) {
+      return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+    }
+
+    // ==== Reader ====
+    async function openBook(bookId) {
+      try {
+        const res = await fetch(`/api/books/${bookId}`);
+        if (!res.ok) throw new Error("Could not load book");
+        CURRENT_BOOK = await res.json();
+        CURRENT_CH = 0;
+
+        document.getElementById("library-view").style.display = "none";
+        document.getElementById("reader-view").style.display = "grid";
+        document.getElementById("back-btn").style.display = "inline-block";
+        document.getElementById("reader-title").textContent = CURRENT_BOOK.title;
+        document.getElementById("reader-author").textContent = CURRENT_BOOK.author;
+
+        // Populate chapter select
+        const sel = document.getElementById("ch-select");
+        sel.innerHTML = CURRENT_BOOK.chapters.map((c, i) =>
+          `<option value="${i}">${escapeHtml(c.title || `Chapter ${c.number}`)}</option>`
+        ).join("");
+
+        // Reset chat with indexing-status notice
+        document.getElementById("chat-messages").innerHTML =
+          `<div class="chat-msg bot system" id="indexing-status">Indexing <em>${escapeHtml(CURRENT_BOOK.title)}</em> for chapter-aware Q&amp;A…</div>`;
+
+        renderChapter();
+
+        // Build per-book RAG index in background
+        try {
+          const idxRes = await fetch("/api/index_book", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ book_id: bookId }),
+          });
+          const idxData = await idxRes.json();
+          const status = document.getElementById("indexing-status");
+          if (status) {
+            if (idxRes.ok) {
+              status.innerHTML = `Ready — ${idxData.chunks} passages indexed${idxData.cached ? " (cached)" : ""}. Click any paragraph for a quick prompt, or ask anything below.`;
+            } else {
+              status.innerHTML = `Indexing failed: ${escapeHtml(idxData.error || "unknown")}. Chat may not return relevant passages.`;
+            }
+          }
+        } catch (e) {
+          const status = document.getElementById("indexing-status");
+          if (status) status.textContent = "Could not reach agent — start it with: python scripts/api_server.py";
+        }
+      } catch (e) {
+        alert(e.message);
+      }
+    }
+
+    function showLibrary() {
+      document.getElementById("library-view").style.display = "block";
+      document.getElementById("reader-view").style.display = "none";
+      document.getElementById("back-btn").style.display = "none";
+      CURRENT_BOOK = null;
+    }
+
+    function renderChapter() {
+      const ch = CURRENT_BOOK.chapters[CURRENT_CH];
+      const paragraphs = ch.text.split(/\n\s*\n/).filter(p => p.trim());
+      const pc = document.getElementById("page-content");
+      pc.innerHTML =
+        `<h2>${escapeHtml(ch.title || `Chapter ${ch.number}`)}</h2>` +
+        paragraphs.map(p => `<p>${escapeHtml(p.trim())}</p>`).join("");
+      document.getElementById("ch-select").value = CURRENT_CH;
+      document.getElementById("prev-ch").disabled = CURRENT_CH === 0;
+      document.getElementById("next-ch").disabled = CURRENT_CH === CURRENT_BOOK.chapters.length - 1;
+      document.getElementById("page-search").value = "";
+
+      // Wire click-to-ask on each paragraph
+      pc.querySelectorAll("p").forEach((p) => {
+        p.addEventListener("click", (e) => {
+          e.stopPropagation();
+          showPromptMenu(p);
+        });
+      });
+
+      // Update spoiler boundary in chat
+      const chapterNum = ch.number || (CURRENT_CH + 1);
+      document.getElementById("boundary-label").textContent = `Spoiler boundary: chapter ${chapterNum}`;
+      // Scroll page to top
+      pc.scrollTop = 0;
+    }
+
+    let _activeMenu = null;
+    function showPromptMenu(paragraphEl) {
+      // Dismiss any existing menu
+      if (_activeMenu) { _activeMenu.remove(); _activeMenu = null; }
+      document.querySelectorAll(".page-content p.selected").forEach(p => p.classList.remove("selected"));
+      paragraphEl.classList.add("selected");
+
+      const text = paragraphEl.textContent.trim();
+      const snippet = text.length > 80 ? text.slice(0, 77) + "…" : text;
+
+      const menu = document.createElement("div");
+      menu.className = "prompt-menu";
+      const items = [
+        { label: "Explain this passage",         q: `Explain this passage in the context of the chapter so far: "${snippet}"` },
+        { label: "What is the symbolism here?",  q: `What symbolism appears in this passage and what does it suggest? Passage: "${snippet}"` },
+        { label: "Analyze the characters here",  q: `What does this passage reveal about the characters' motives or emotional state? Passage: "${snippet}"` },
+        { label: "Generate discussion questions", q: `Generate 3 thoughtful discussion questions about this passage that don't require knowing the rest of the book: "${snippet}"` },
+      ];
+      items.forEach((it) => {
+        const b = document.createElement("button");
+        b.textContent = it.label;
+        b.onclick = (ev) => {
+          ev.stopPropagation();
+          dismissMenu();
+          document.getElementById("chat-input").value = it.q;
+          document.getElementById("chat-input").focus();
+        };
+        menu.appendChild(b);
+      });
+      const div = document.createElement("div");
+      div.className = "menu-divider";
+      menu.appendChild(div);
+      const cancel = document.createElement("button");
+      cancel.className = "menu-cancel";
+      cancel.textContent = "Cancel";
+      cancel.onclick = (ev) => { ev.stopPropagation(); dismissMenu(); };
+      menu.appendChild(cancel);
+
+      // Position menu just below the paragraph, using offsets relative to .page-content
+      const pc = document.getElementById("page-content");
+      pc.appendChild(menu);
+      const left = Math.min(paragraphEl.offsetLeft + 16, pc.clientWidth - menu.offsetWidth - 16);
+      const top = paragraphEl.offsetTop + paragraphEl.offsetHeight + 4;
+      menu.style.left = Math.max(8, left) + "px";
+      menu.style.top = top + "px";
+      _activeMenu = menu;
+    }
+    function dismissMenu() {
+      if (_activeMenu) _activeMenu.remove();
+      _activeMenu = null;
+      document.querySelectorAll(".page-content p.selected").forEach(p => p.classList.remove("selected"));
+    }
+    document.addEventListener("click", (e) => {
+      if (_activeMenu && !_activeMenu.contains(e.target)) dismissMenu();
+    });
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && _activeMenu) dismissMenu();
+    });
+
+    function goChapter(delta) {
+      const next = CURRENT_CH + delta;
+      if (next < 0 || next >= CURRENT_BOOK.chapters.length) return;
+      CURRENT_CH = next;
+      renderChapter();
+    }
+    function jumpChapter() {
+      CURRENT_CH = parseInt(document.getElementById("ch-select").value, 10);
+      renderChapter();
+    }
+
+    function searchInChapter() {
+      const q = document.getElementById("page-search").value.trim();
+      const pc = document.getElementById("page-content");
+      // Always clear previous highlights first
+      pc.querySelectorAll("p").forEach(p => {
+        p.innerHTML = escapeHtml(p.textContent);
+      });
+      if (!q) return;
+      // Require at least 2 chars so single letters don't paint everything
+      if (q.length < 2) return;
+      const escaped = q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      const re = new RegExp(`(${escaped})`, "gi");
+      let firstMark = null;
+      pc.querySelectorAll("p").forEach(p => {
+        const original = p.textContent;
+        if (original.match(re)) {
+          p.innerHTML = escapeHtml(original).replace(re, "<mark>$1</mark>");
+          if (!firstMark) firstMark = p.querySelector("mark");
+        }
+      });
+      if (firstMark) firstMark.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+
+    // Keyboard navigation
+    document.addEventListener("keydown", (e) => {
+      if (!CURRENT_BOOK) return;
+      if (document.activeElement.tagName === "INPUT" || document.activeElement.tagName === "TEXTAREA") return;
+      if (e.key === "ArrowRight") goChapter(1);
+      if (e.key === "ArrowLeft") goChapter(-1);
+    });
+
+    // ==== Chat ====
+    async function sendChat(e) {
       e.preventDefault();
-      const btn = document.getElementById("ask-btn");
-      const result = document.getElementById("ask-result");
-      const question = document.getElementById("question").value.trim();
-      const chapter = parseInt(document.getElementById("chapter").value, 10);
-      const provider = document.getElementById("provider").value;
+      if (!CURRENT_BOOK) return;
+      const input = document.getElementById("chat-input");
+      const provider = document.getElementById("chat-provider").value;
+      const question = input.value.trim();
+      if (!question) return;
 
-      btn.disabled = true; btn.textContent = "Thinking…";
-      result.innerHTML = '<p class="loading">Retrieving spoiler-safe passages…</p>';
+      const ch = CURRENT_BOOK.chapters[CURRENT_CH];
+      const chapterNum = ch.number || (CURRENT_CH + 1);
 
+      addMessage("user", question);
+      input.value = "";
+      document.getElementById("chat-send").disabled = true;
+
+      const thinkingEl = addMessage("bot", "Thinking…");
       try {
         const res = await fetch("/api/ask", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ question, chapter, provider, top_k: 4 })
+          body: JSON.stringify({
+            question,
+            chapter: chapterNum,
+            book_id: CURRENT_BOOK.id,
+            provider,
+            top_k: 4,
+          }),
         });
         const data = await res.json();
         if (!res.ok) throw new Error(data.error || "Request failed");
-        renderAnswer(data);
+        thinkingEl.remove();
+        renderBotAnswer(data);
       } catch (err) {
-        result.innerHTML = `<div class="error">${err.message}</div>`;
+        thinkingEl.textContent = "Error: " + err.message;
       } finally {
-        btn.disabled = false; btn.textContent = "Ask";
+        document.getElementById("chat-send").disabled = false;
       }
     }
 
-    function renderAnswer(data) {
-      const result = document.getElementById("ask-result");
-      const chunksHtml = data.chunks.map((c, i) => `
-        <div class="citation">
-          <div class="meta">
-            <span class="badge">[${i + 1}]</span>
-            <span class="badge">chapter ${c.metadata.chapter}</span>
-            <span class="badge">score ${c.score.toFixed(3)}</span>
-            <span class="badge">id ${c.metadata.summary_id || c.id}</span>
-          </div>
-          ${escapeHtml(c.document.substring(0, 600))}${c.document.length > 600 ? "…" : ""}
-        </div>
-      `).join("");
-
-      const answerHtml = data.answer
-        ? `<div class="answer-box">${escapeHtml(data.answer)}</div>`
-        : `<div class="answer-box"><em>(dry-run — retrieval only, no LLM call. Switch provider to Anthropic or OpenAI for a generated answer.)</em></div>`;
-
-      result.innerHTML = `
-        <h2 style="margin-bottom:0.75rem;">Answer (${data.provider}${data.model ? " · " + data.model : ""})</h2>
-        ${answerHtml}
-        <h2 style="margin-bottom:0.75rem;">Cited passages (chapter ≤ ${data.current_chapter})</h2>
-        ${chunksHtml || '<p>No passages within the spoiler boundary.</p>'}
-      `;
+    function addMessage(role, text) {
+      const el = document.createElement("div");
+      el.className = "chat-msg " + role;
+      el.textContent = text;
+      const list = document.getElementById("chat-messages");
+      list.appendChild(el);
+      list.scrollTop = list.scrollHeight;
+      return el;
     }
 
-    function escapeHtml(s) {
-      return String(s)
-        .replace(/&/g, "&amp;").replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+    function renderBotAnswer(data) {
+      const el = document.createElement("div");
+      el.className = "chat-msg bot";
+      const answerText = data.answer ||
+        `(dry-run — retrieval only. Switch provider to Anthropic or OpenAI for a generated answer.)`;
+      const citations = (data.chunks || []).map((c, i) => `
+        <div class="cit">
+          <strong>[${i + 1}]</strong> chapter ${c.metadata.chapter} · score ${c.score.toFixed(3)}<br>
+          ${escapeHtml((c.document || "").substring(0, 300))}${(c.document || "").length > 300 ? "…" : ""}
+        </div>`).join("");
+      el.innerHTML = escapeHtml(answerText) + (citations
+        ? `<div class="citations"><details><summary>${data.chunks.length} cited passages</summary>${citations}</details></div>`
+        : "");
+      const list = document.getElementById("chat-messages");
+      list.appendChild(el);
+      list.scrollTop = list.scrollHeight;
     }
 
-    async function loadSamples() {
-      const el = document.getElementById("samples-content");
-      if (el.dataset.loaded) return;
-      try {
-        const res = await fetch("/api/samples");
-        if (!res.ok) throw new Error("Failed to load samples");
-        const samples = await res.json();
-        el.innerHTML = samples.slice(0, 10).map((s, i) => `
-          <div class="card">
-            <h2>Sample ${i + 1} — ${s.book_id || "Unknown Book"}</h2>
-            <div class="field"><strong>Source:</strong> ${s.source || "N/A"}</div>
-            <div class="field"><strong>Chapter:</strong> ${s.chapter ?? "N/A"}</div>
-            <div class="field"><strong>Summary Name:</strong> ${s.summary_name || "N/A"}</div>
-            <div class="field"><strong>Summary:</strong>
-              <div class="summary-text">${escapeHtml((s.summary_text || "No summary.").substring(0, 1000))}${(s.summary_text || "").length > 1000 ? "…" : ""}</div>
-            </div>
-          </div>
-        `).join("") + `<p style="color:#999">Showing first 10 of ${samples.length} samples.</p>`;
-        el.dataset.loaded = "1";
-      } catch (err) {
-        el.innerHTML = `<div class="error">${err.message}</div>`;
-      }
-    }
+    // ==== Boot ====
+    loadLibrary();
   </script>
 </body>
 </html>
