@@ -180,6 +180,20 @@ def call_ollama(system: str, user: str, model: str = "llama3.2:3b") -> str:
     return body.get("message", {}).get("content", "")
 
 
+def _make_llm_call(provider: str, model_name: Optional[str]) -> Any:
+    """Return a callable(system, user) -> str using the requested provider."""
+    if provider == "anthropic":
+        m = model_name or "claude-haiku-4-5"
+        return lambda s, u: call_anthropic(s, u, m)
+    if provider == "openai":
+        m = model_name or "gpt-4o-mini"
+        return lambda s, u: call_openai(s, u, m)
+    if provider == "ollama":
+        m = model_name or "llama3.2:3b"
+        return lambda s, u: call_ollama(s, u, m)
+    raise ValueError(f"agent mode requires a real provider, not {provider!r}")
+
+
 def answer(
     question: str,
     current_chapter: int,
@@ -190,6 +204,7 @@ def answer(
     user_id: str | None = None,
     retrieval_mode: str = "hybrid",
     persist: bool = False,
+    agent_mode: bool = False,
 ) -> Dict[str, Any]:
     """Retrieve, then answer.
 
@@ -200,6 +215,97 @@ def answer(
     If `book_id` is given, retrieves from that book's per-book index (preferred).
     Otherwise falls back to the legacy BookSum sample collection.
     """
+    # ---- Agent mode (Option 2 / D2): Planner-Executor-Critic ----
+    if agent_mode:
+        if not book_id:
+            raise ValueError("agent_mode requires book_id")
+        if provider == "dry-run":
+            raise ValueError("agent_mode requires a real LLM provider")
+
+        from agent_loop import run_agent
+        import time as _t
+
+        # Pre-load memory so it can be passed into the synthesizer
+        memory_text: Optional[str] = None
+        if user_id:
+            mem = get_memory_summary(user_id, book_id)
+            if mem and mem.get("summary"):
+                memory_text = mem["summary"]
+
+        # Pre-create the chat_turn row so tool_calls can FK it
+        turn_id: Optional[int] = None
+        if persist and user_id:
+            try:
+                turn_id = record_chat_turn(
+                    user_id=user_id, book_id=book_id, chapter=current_chapter,
+                    question=question, answer=None,
+                    provider=provider, model=model, retrieval_mode="agent",
+                )
+            except Exception:
+                turn_id = None
+
+        llm = _make_llm_call(provider, model)
+        agent_started = _t.time()
+        result = run_agent(
+            question=question,
+            current_chapter=current_chapter,
+            book_id=book_id,
+            llm_call=llm,
+            user_id=user_id,
+            turn_id=turn_id,
+            memory_summary=memory_text,
+        )
+        agent_total_ms = int((_t.time() - agent_started) * 1000)
+
+        # Build chunks shape compatible with the simple-RAG response
+        chunks_compat = []
+        for i, p in enumerate(result["passages"], 1):
+            chunks_compat.append({
+                "id": p.get("id"),
+                "metadata": {"chapter": p.get("chapter"), "from_tool": p.get("from_tool")},
+                "score": 0.0,
+                "document": p.get("text"),
+            })
+
+        out: Dict[str, Any] = {
+            "question": question,
+            "current_chapter": current_chapter,
+            "provider": provider,
+            "model": model or {"anthropic": "claude-haiku-4-5", "openai": "gpt-4o-mini", "ollama": "llama3.2:3b"}[provider],
+            "chunks": chunks_compat,
+            "memory_used": bool(memory_text),
+            "retrieval_mode": "agent",
+            "system_prompt": SYSTEM_PROMPT,
+            "user_prompt": "(agent mode — see plan/tool_calls)",
+            "answer": result["answer"],
+            "latency_ms": agent_total_ms,
+            "agent": {
+                "plan": result["plan"],
+                "tool_calls": result["tool_calls"],
+                "critic": result["critic"],
+                "retried": result["retried"],
+                "timings": result["timings"],
+            },
+        }
+        out["safety"] = check_answer(out["answer"] or "", chunks_compat)
+        out["is_refusal"] = is_refusal(out["answer"] or "")
+
+        # Now write the answer back into the turn row
+        if persist and user_id and turn_id is not None:
+            try:
+                import sqlite3
+                from memory_store import _conn, _lock  # type: ignore
+                with _lock, _conn() as c:
+                    c.execute(
+                        "UPDATE chat_turn SET answer=?, latency_ms=? WHERE id=?",
+                        (out["answer"], agent_total_ms, turn_id),
+                    )
+                set_reading_position(user_id, book_id, current_chapter)
+            except Exception as e:
+                out["persist_error"] = str(e)
+        return out
+
+    # ---- Simple-RAG mode ----
     if book_id:
         ensure_book_index(book_id)
         chunks = query_book(book_id, question, chapter_limit=current_chapter,

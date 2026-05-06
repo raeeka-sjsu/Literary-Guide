@@ -70,6 +70,7 @@ def ask():
     book_id = (payload.get("book_id") or "").strip() or None
     user_id = (payload.get("user_id") or DEFAULT_USER).strip() or DEFAULT_USER
     retrieval_mode = (payload.get("retrieval_mode") or "hybrid").strip()
+    agent_mode = bool(payload.get("agent_mode", False))
 
     if not question:
         return jsonify({"error": "question is required"}), 400
@@ -82,7 +83,8 @@ def ask():
         question, chapter,
         provider=provider, top_k=top_k, book_id=book_id,
         user_id=user_id, retrieval_mode=retrieval_mode,
-        persist=bool(book_id),  # only persist when reading a real book
+        persist=bool(book_id),
+        agent_mode=agent_mode,
     )
 
     # Strip embeddings/heavy fields for JSON response
@@ -97,6 +99,7 @@ def ask():
         "latency_ms": res.get("latency_ms"),
         "safety": res.get("safety"),
         "is_refusal": res.get("is_refusal"),
+        "agent": res.get("agent"),  # plan, tool_calls, critic, timings (None in simple-RAG mode)
         "chunks": [
             {
                 "id": c["id"],
