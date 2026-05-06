@@ -291,6 +291,21 @@
     .chat-msg .citations summary { user-select: none; }
     .chat-msg .citations .cit { margin-top: 0.4rem; padding: 0.4rem 0.6rem; background: white; border-left: 3px solid var(--accent); border-radius: 3px; font-style: normal; }
 
+    /* Agent plan strip */
+    .agent-plan { background: var(--paper); border: 1px solid var(--paper-edge); border-radius: 6px; padding: 0.6rem 0.8rem; margin: 0.6rem 0; font-size: 0.82rem; color: var(--ink); }
+    .agent-plan .head { font-weight: 600; color: var(--ink-soft); margin-bottom: 0.3rem; font-size: 0.78rem; }
+    .agent-step { display: flex; gap: 0.5rem; padding: 0.25rem 0; align-items: center; }
+    .agent-step .icon { width: 16px; height: 16px; display: inline-flex; align-items: center; justify-content: center; }
+    .agent-step.running .icon { animation: spin 1s linear infinite; color: var(--accent); }
+    .agent-step.done .icon { color: #2c7a2c; }
+    .agent-step.fail .icon { color: #c0392b; }
+    .agent-step .label { flex: 1; }
+    .agent-step .meta { color: var(--ink-soft); font-size: 0.75rem; }
+    @keyframes spin { 0% { transform: rotate(0deg);} 100% { transform: rotate(360deg);} }
+    .agent-step.retried .label::after { content: " (retry)"; color: #b87a30; font-style: italic; }
+    .verdict-pass { color: #2c7a2c; font-weight: 600; }
+    .verdict-fail { color: #c0392b; font-weight: 600; }
+
     .chat-input-row {
       padding: 0.75rem 1rem; border-top: 1px solid var(--paper-edge);
       display: flex; gap: 0.5rem;
@@ -385,6 +400,10 @@
             <option value="anthropic">Anthropic Claude</option>
             <option value="openai">OpenAI</option>
           </select>
+          <label style="margin-left: 0.75rem;">
+            <input type="checkbox" id="agent-mode-toggle" />
+            agent mode (Planner→Executor→Critic)
+          </label>
         </div>
       </form>
     </aside>
@@ -735,6 +754,7 @@
       if (!CURRENT_BOOK) return;
       const input = document.getElementById("chat-input");
       const provider = document.getElementById("chat-provider").value;
+      const agentMode = document.getElementById("agent-mode-toggle").checked;
       const question = input.value.trim();
       if (!question) return;
 
@@ -745,7 +765,13 @@
       input.value = "";
       document.getElementById("chat-send").disabled = true;
 
-      const thinkingEl = addMessage("bot", "Thinking…");
+      // For agent mode, show an animated plan strip while we wait
+      let planEl = null;
+      if (agentMode) {
+        planEl = renderAgentRunning();
+      }
+      const thinkingEl = agentMode ? null : addMessage("bot", "Thinking…");
+
       try {
         const res = await fetch("/api/ask", {
           method: "POST",
@@ -756,17 +782,78 @@
             book_id: CURRENT_BOOK.id,
             provider,
             top_k: 4,
+            agent_mode: agentMode,
           }),
         });
         const data = await res.json();
         if (!res.ok) throw new Error(data.error || "Request failed");
-        thinkingEl.remove();
+        if (thinkingEl) thinkingEl.remove();
+        if (planEl) planEl.remove();
+        if (data.agent) {
+          renderAgentPlan(data.agent);
+        }
         renderBotAnswer(data);
       } catch (err) {
-        thinkingEl.textContent = "Error: " + err.message;
+        if (planEl) planEl.remove();
+        if (thinkingEl) thinkingEl.textContent = "Error: " + err.message;
+        else addMessage("bot", "Error: " + err.message);
       } finally {
         document.getElementById("chat-send").disabled = false;
       }
+    }
+
+    function renderAgentRunning() {
+      const list = document.getElementById("chat-messages");
+      const el = document.createElement("div");
+      el.className = "agent-plan";
+      el.innerHTML = `
+        <div class="head">🤖 Agent (Planner → Executor → Synthesizer → Critic)</div>
+        <div class="agent-step running"><span class="icon">⟳</span><span class="label">Planning approach…</span></div>
+        <div class="agent-step"><span class="icon">·</span><span class="label">Executor</span><span class="meta">queued</span></div>
+        <div class="agent-step"><span class="icon">·</span><span class="label">Synthesizer</span><span class="meta">queued</span></div>
+        <div class="agent-step"><span class="icon">·</span><span class="label">Critic verifying</span><span class="meta">queued</span></div>
+      `;
+      list.appendChild(el);
+      list.scrollTop = list.scrollHeight;
+      return el;
+    }
+
+    function renderAgentPlan(agent) {
+      const list = document.getElementById("chat-messages");
+      const el = document.createElement("div");
+      el.className = "agent-plan";
+      const t = agent.timings || {};
+      const totalMs = (t.planner_ms || 0) + (t.executor_ms || 0) + (t.synthesizer_ms || 0) + (t.critic_ms || 0) + (t.synthesizer_retry_ms || 0);
+
+      const reason = (agent.plan && agent.plan.reasoning) ? agent.plan.reasoning : "";
+      const tcLines = (agent.tool_calls || []).map(tc => `
+        <div class="agent-step done">
+          <span class="icon">✓</span>
+          <span class="label"><code>${escapeHtml(tc.tool || '?')}(${escapeHtml(JSON.stringify(stripCtx(tc.args)).slice(1,-1))})</code></span>
+          <span class="meta">${tc.n_results ?? '?'} results · ${tc.latency_ms ?? '?'}ms</span>
+        </div>
+      `).join("");
+
+      const verdict = (agent.critic && agent.critic.verdict) || "?";
+      const verdictClass = verdict.toUpperCase() === "PASS" ? "verdict-pass" : "verdict-fail";
+      const issues = (agent.critic && agent.critic.issues) ? agent.critic.issues.join("; ") : "";
+
+      el.innerHTML = `
+        <div class="head">🤖 Agent run · ${totalMs}ms total</div>
+        <div class="agent-step done"><span class="icon">✓</span><span class="label">Plan: ${escapeHtml(reason)}</span><span class="meta">${t.planner_ms ?? '?'}ms</span></div>
+        ${tcLines}
+        <div class="agent-step done ${agent.retried ? 'retried' : ''}"><span class="icon">✓</span><span class="label">Synthesizer drafted answer</span><span class="meta">${t.synthesizer_ms ?? '?'}ms${agent.retried ? ' + ' + (t.synthesizer_retry_ms || 0) + 'ms retry' : ''}</span></div>
+        <div class="agent-step done"><span class="icon">✓</span><span class="label">Critic verdict: <span class="${verdictClass}">${verdict}</span>${issues ? ' — ' + escapeHtml(issues) : ''}</span><span class="meta">${t.critic_ms ?? '?'}ms</span></div>
+      `;
+      list.appendChild(el);
+      list.scrollTop = list.scrollHeight;
+      return el;
+    }
+
+    function stripCtx(args) {
+      const a = { ...(args || {}) };
+      delete a.book_id; delete a.chapter_limit;
+      return a;
     }
 
     function addMessage(role, text) {
