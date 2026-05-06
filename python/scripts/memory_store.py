@@ -82,6 +82,19 @@ def init_db():
           updated_at   TEXT NOT NULL DEFAULT (datetime('now')),
           PRIMARY KEY (user_id, book_id)
         );
+        CREATE TABLE IF NOT EXISTS tool_call (
+          id           INTEGER PRIMARY KEY AUTOINCREMENT,
+          turn_id      INTEGER,
+          step_index   INTEGER NOT NULL,
+          tool_name    TEXT NOT NULL,
+          args_json    TEXT NOT NULL,
+          meta_json    TEXT,
+          n_results    INTEGER,
+          latency_ms   INTEGER,
+          created_at   TEXT NOT NULL DEFAULT (datetime('now')),
+          FOREIGN KEY (turn_id) REFERENCES chat_turn(id)
+        );
+        CREATE INDEX IF NOT EXISTS tool_call_turn ON tool_call(turn_id);
         """)
 
 
@@ -142,6 +155,35 @@ def record_chat_turn(
             retrieval_mode, json.dumps(chunk_ids or []), latency_ms,
         ))
         return cur.lastrowid
+
+
+def record_tool_call(
+    turn_id: Optional[int],
+    step_index: int,
+    tool_name: str,
+    args: Dict[str, Any],
+    meta: Optional[Dict[str, Any]] = None,
+    n_results: Optional[int] = None,
+    latency_ms: Optional[int] = None,
+) -> int:
+    with _lock, _conn() as c:
+        cur = c.execute("""
+            INSERT INTO tool_call (turn_id, step_index, tool_name, args_json, meta_json, n_results, latency_ms)
+            VALUES (?, ?, ?, ?, ?, ?, ?)
+        """, (
+            turn_id, step_index, tool_name,
+            json.dumps(args), json.dumps(meta or {}), n_results, latency_ms,
+        ))
+        return cur.lastrowid
+
+
+def list_tool_calls_for_turn(turn_id: int) -> List[Dict[str, Any]]:
+    with _lock, _conn() as c:
+        rows = c.execute(
+            "SELECT * FROM tool_call WHERE turn_id=? ORDER BY step_index ASC",
+            (turn_id,),
+        ).fetchall()
+        return [dict(r) for r in rows]
 
 
 def list_chat_turns(user_id: str, book_id: str, limit: int = 20) -> List[Dict[str, Any]]:
