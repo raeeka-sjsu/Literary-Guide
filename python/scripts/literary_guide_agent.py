@@ -29,13 +29,19 @@ import json
 import os
 import sys
 from pathlib import Path
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 # Make sibling imports work when run as a script
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from rag_pipeline import build_collection, query_up_to_chapter  # noqa: E402
 from book_index import ensure_book_index, query_book  # noqa: E402
+from memory_store import (  # noqa: E402
+    record_chat_turn,
+    get_memory_summary,
+    set_reading_position,
+)
+from safety import check_answer, is_refusal  # noqa: E402
 
 
 SYSTEM_PROMPT = """You are Literary Guide, a spoiler-aware reading companion.
@@ -44,19 +50,50 @@ You will be given:
 - The reader's current chapter (they have NOT read past this chapter)
 - A question they have about the book
 - A set of numbered passages [1], [2], ... drawn ONLY from up to and including that chapter
+- (Optional) a SHORT rolling memory summary of past discussions about this book
 
-Rules:
-1. Answer ONLY using information present in the numbered passages. Do not draw on outside knowledge of the book.
-2. NEVER reference events, characters, or revelations that are not present in the passages — those are spoilers.
-3. Cite every claim inline using the bracketed number(s) of the passage(s) supporting it, e.g. "The narrator emphasizes the danger of the wilderness [1][2]."
-4. If the passages do not contain enough information, say so plainly. Do not speculate.
-5. Keep the tone thoughtful and analytical — discuss themes, symbolism, and motivations, not plot summary.
+Hard rules — never violate:
+1. Answer ONLY using information present in the numbered passages. Do not draw on outside knowledge of this book or any other source.
+2. NEVER reference events, characters, identities, deaths, marriages, betrayals, twists, or revelations that are not present in the passages. Those are spoilers.
+3. If the question explicitly asks about the ending, future events, or facts you can only know from later chapters, REFUSE: say "I can't see beyond chapter N yet — let's discuss what's happened so far." Do not hint, do not speculate, do not paraphrase the missing info.
+4. Cite every factual claim inline using bracketed numbers of supporting passages, e.g. "The narrator emphasizes the danger of the wilderness [1][2]." Claims with no citation are not allowed.
+5. If passages don't contain enough information, say so plainly. Do not invent.
+6. Keep the tone thoughtful and analytical — themes, symbolism, motivations, not plot summary.
 
 Answer style:
 - Lead with the most direct, useful answer. Don't open with caveats or chapter-bookkeeping.
 - For "who are the main characters" or similar overview questions, name them up front (drawing on any passages — they are all spoiler-safe by construction), then optionally note which appear in the current chapter.
 - Be concise. 3–6 sentences is usually plenty unless the question genuinely needs more.
 - Don't restate the question or list all passage numbers in a closing summary.
+
+If the user's question cannot be answered without spoilers, your refusal MUST contain one of:
+"I can't see beyond", "the passages do not", "haven't read that yet", "not yet visible".
+
+EXAMPLES — follow this style:
+
+Example 1 (analytical, in-bounds):
+Current chapter: 3
+Question: What does the narrator's tone reveal about her view of marriage?
+Passages:
+[1] (chapter 1) "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife."
+[2] (chapter 1) "Mr. Bennet was so odd a mixture of quick parts, sarcastic humor, reserve, and caprice..."
+ANSWER: The narrator opens with mock formality, presenting "a truth universally acknowledged" about marriage as if it were a law of nature [1]. The phrasing is satirical — it parodies the way her society treats marriage as inevitable matchmaking. Mr. Bennet's "sarcastic humor" further frames marriage as a domestic theater of mismatched temperaments [2]. The combined effect is a narrator who treats marriage as a social transaction worth gentle ridicule.
+
+Example 2 (spoiler-trap — refuse):
+Current chapter: 3
+Question: Does Elizabeth end up marrying Darcy?
+Passages:
+[1] (chapter 1) "Mr. Darcy soon drew the attention of the room by his fine, tall person..."
+[2] (chapter 3) "Elizabeth Bennet had been obliged, by the scarcity of gentlemen, to sit down for two dances..."
+ANSWER: I can't see beyond chapter 3 yet — the passages do not reveal what happens between Elizabeth and Mr. Darcy later in the novel. So far we only know that Darcy makes a strong first impression in society [1] and that Elizabeth has only briefly encountered him on the dance floor [2]. Let's discuss their early dynamic instead if you'd like.
+
+Example 3 (passage doesn't actually answer the question):
+Current chapter: 4
+Question: Where is the treasure hidden?
+Passages:
+[1] (chapter 2) "Tom whistled as he walked along the picket fence..."
+[2] (chapter 4) "Tom and Huck huddled in the dark and listened..."
+ANSWER: The passages do not yet describe a treasure or its location. Up to chapter 4 we see Tom's mischief along the fence [1] and the boys eavesdropping in the dark [2], but no treasure has been introduced.
 """
 
 
@@ -72,12 +109,22 @@ def format_context(chunks: List[Dict[str, Any]]) -> str:
     return "\n\n".join(parts)
 
 
-def build_user_prompt(question: str, current_chapter: int, chunks: List[Dict[str, Any]]) -> str:
-    return (
-        f"Current chapter: {current_chapter}\n\n"
-        f"Question: {question}\n\n"
-        f"Passages (cite by number):\n{format_context(chunks)}"
-    )
+def build_user_prompt(
+    question: str,
+    current_chapter: int,
+    chunks: List[Dict[str, Any]],
+    memory: Optional[str] = None,
+) -> str:
+    parts = [f"Current chapter: {current_chapter}"]
+    if memory:
+        parts.append(
+            "Reader memory (a SHORT rolling summary of past discussions about this book — "
+            "do not treat as new spoilers, do not cite, just use as background):\n"
+            + memory
+        )
+    parts.append(f"Question: {question}")
+    parts.append(f"Passages (cite by number):\n{format_context(chunks)}")
+    return "\n\n".join(parts)
 
 
 def call_anthropic(system: str, user: str, model: str = "claude-3-5-sonnet-latest") -> str:
@@ -140,6 +187,9 @@ def answer(
     top_k: int = 4,
     model: str | None = None,
     book_id: str | None = None,
+    user_id: str | None = None,
+    retrieval_mode: str = "hybrid",
+    persist: bool = False,
 ) -> Dict[str, Any]:
     """Retrieve, then answer.
 
@@ -152,7 +202,8 @@ def answer(
     """
     if book_id:
         ensure_book_index(book_id)
-        chunks = query_book(book_id, question, chapter_limit=current_chapter, top_k=top_k)
+        chunks = query_book(book_id, question, chapter_limit=current_chapter,
+                            top_k=top_k, mode=retrieval_mode)
     else:
         # Fallback: legacy BookSum sample retrieval
         global _COLLECTION_READY  # type: ignore
@@ -161,7 +212,14 @@ def answer(
             _COLLECTION_READY = True
         chunks = query_up_to_chapter(question, chapter_limit=current_chapter, top_k=top_k)
 
-    user_prompt = build_user_prompt(question, current_chapter, chunks)
+    # Pull persisted memory summary, if any
+    memory_text: Optional[str] = None
+    if user_id and book_id:
+        mem = get_memory_summary(user_id, book_id)
+        if mem and mem.get("summary"):
+            memory_text = mem["summary"]
+
+    user_prompt = build_user_prompt(question, current_chapter, chunks, memory=memory_text)
 
     out: Dict[str, Any] = {
         "question": question,
@@ -169,6 +227,8 @@ def answer(
         "provider": provider,
         "model": model,
         "chunks": chunks,
+        "memory_used": bool(memory_text),
+        "retrieval_mode": retrieval_mode,
         "system_prompt": SYSTEM_PROMPT,
         "user_prompt": user_prompt,
         "answer": None,
@@ -177,8 +237,10 @@ def answer(
     if provider == "dry-run":
         return out
 
+    import time as _t
+    started = _t.time()
     if provider == "anthropic":
-        out["model"] = model or "claude-3-5-sonnet-latest"
+        out["model"] = model or "claude-haiku-4-5"
         out["answer"] = call_anthropic(SYSTEM_PROMPT, user_prompt, out["model"])
     elif provider == "openai":
         out["model"] = model or "gpt-4o-mini"
@@ -188,6 +250,31 @@ def answer(
         out["answer"] = call_ollama(SYSTEM_PROMPT, user_prompt, out["model"])
     else:
         raise ValueError(f"Unknown provider: {provider!r}")
+    out["latency_ms"] = int((_t.time() - started) * 1000)
+
+    # Post-hoc safety/grounding check
+    out["safety"] = check_answer(out["answer"] or "", chunks)
+    out["is_refusal"] = is_refusal(out["answer"] or "")
+
+    # Persist the chat turn so memory summarization has data to compress
+    if persist and user_id and book_id:
+        try:
+            chunk_ids = [c.get("id") for c in chunks if c.get("id")]
+            record_chat_turn(
+                user_id=user_id,
+                book_id=book_id,
+                chapter=current_chapter,
+                question=question,
+                answer=out["answer"],
+                provider=provider,
+                model=out["model"],
+                retrieval_mode=retrieval_mode,
+                chunk_ids=chunk_ids,
+                latency_ms=out["latency_ms"],
+            )
+            set_reading_position(user_id, book_id, current_chapter)
+        except Exception as e:
+            out["persist_error"] = str(e)
 
     return out
 
