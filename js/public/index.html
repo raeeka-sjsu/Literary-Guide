@@ -231,6 +231,9 @@
     .chat-header {
       padding: 1rem 1.25rem;
       border-bottom: 1px solid var(--paper-edge);
+      display: flex; flex-direction: column; gap: 0.5rem;
+    }
+    .chat-header-row {
       display: flex; justify-content: space-between; align-items: center;
     }
     .chat-header h3 {
@@ -240,6 +243,27 @@
       font-size: 0.75rem; color: var(--ink-soft);
       background: var(--paper); padding: 0.2rem 0.5rem; border-radius: 3px;
     }
+    .memory-panel {
+      background: var(--paper);
+      border: 1px solid var(--paper-edge);
+      border-radius: 4px;
+      padding: 0.6rem 0.8rem;
+      font-size: 0.82rem;
+      color: var(--ink);
+      max-height: 140px; overflow-y: auto;
+      white-space: pre-wrap;
+    }
+    .memory-panel .memory-head {
+      display: flex; justify-content: space-between; align-items: center;
+      font-weight: 600; color: var(--ink-soft); font-size: 0.78rem; margin-bottom: 0.3rem;
+    }
+    .memory-panel button {
+      background: none; border: 1px solid var(--paper-edge);
+      padding: 0.15rem 0.5rem; border-radius: 3px; cursor: pointer;
+      font-family: inherit; font-size: 0.75rem; color: var(--ink-soft);
+    }
+    .memory-panel button:hover { background: white; }
+    .memory-empty { color: var(--ink-soft); font-style: italic; }
     .chat-messages {
       flex: 1; overflow-y: auto; padding: 1rem 1.25rem;
       display: flex; flex-direction: column; gap: 0.75rem;
@@ -333,8 +357,17 @@
 
     <aside class="chat-pane">
       <div class="chat-header">
-        <h3>Discussion</h3>
-        <span class="boundary" id="boundary-label">Spoiler boundary: chapter 1</span>
+        <div class="chat-header-row">
+          <h3>Discussion</h3>
+          <span class="boundary" id="boundary-label">Spoiler boundary: chapter 1</span>
+        </div>
+        <div class="memory-panel" id="memory-panel" style="display:none;">
+          <div class="memory-head">
+            <span>📓 Reader memory</span>
+            <button onclick="refreshMemory()">Update</button>
+          </div>
+          <div id="memory-body" class="memory-empty">No memory yet — keep chatting and click Update.</div>
+        </div>
       </div>
       <div id="chat-messages" class="chat-messages">
         <div class="chat-msg bot system">Ask about themes, symbolism, or character motives. Answers cite only passages up to your current chapter.</div>
@@ -434,6 +467,13 @@
         CURRENT_BOOK = await res.json();
         CURRENT_CH = 0;
 
+        // Pull persisted memory + reading position
+        let memData = null;
+        try {
+          const memRes = await fetch(`/api/memory/${bookId}`);
+          if (memRes.ok) memData = await memRes.json();
+        } catch (_) {}
+
         document.getElementById("library-view").style.display = "none";
         document.getElementById("reader-view").style.display = "grid";
         document.getElementById("back-btn").style.display = "inline-block";
@@ -446,9 +486,50 @@
           `<option value="${i}">${escapeHtml(c.title || `Chapter ${c.number}`)}</option>`
         ).join("");
 
-        // Reset chat with indexing-status notice
-        document.getElementById("chat-messages").innerHTML =
-          `<div class="chat-msg bot system" id="indexing-status">Indexing <em>${escapeHtml(CURRENT_BOOK.title)}</em> for chapter-aware Q&amp;A…</div>`;
+        // Restore reading position if we have one
+        const restoredCh = (memData && memData.reading_position) ? memData.reading_position : null;
+        if (restoredCh) {
+          // Reading position is the chapter NUMBER. Find matching chapter index.
+          const idx = CURRENT_BOOK.chapters.findIndex(c => (c.number || 0) === restoredCh);
+          if (idx >= 0) CURRENT_CH = idx;
+        }
+
+        // Reset chat: replay recent turns + indexing-status notice
+        const chatList = document.getElementById("chat-messages");
+        chatList.innerHTML = "";
+        if (memData && memData.recent_turns && memData.recent_turns.length) {
+          memData.recent_turns.slice(0, 8).reverse().forEach(t => {
+            const u = document.createElement("div");
+            u.className = "chat-msg user";
+            u.textContent = t.question;
+            chatList.appendChild(u);
+            const b = document.createElement("div");
+            b.className = "chat-msg bot";
+            b.textContent = t.answer || "(no answer)";
+            chatList.appendChild(b);
+          });
+          const note = document.createElement("div");
+          note.className = "chat-msg bot system";
+          note.innerHTML = `Welcome back — restored ${memData.recent_turns.length} prior turns${restoredCh ? ` and chapter ${restoredCh}` : ""}.`;
+          chatList.appendChild(note);
+        }
+        const indexNote = document.createElement("div");
+        indexNote.className = "chat-msg bot system";
+        indexNote.id = "indexing-status";
+        indexNote.innerHTML = `Indexing <em>${escapeHtml(CURRENT_BOOK.title)}</em> for chapter-aware Q&amp;A…`;
+        chatList.appendChild(indexNote);
+
+        // Memory panel
+        const memPanel = document.getElementById("memory-panel");
+        const memBody = document.getElementById("memory-body");
+        memPanel.style.display = "block";
+        if (memData && memData.memory && memData.memory.summary) {
+          memBody.classList.remove("memory-empty");
+          memBody.textContent = memData.memory.summary;
+        } else {
+          memBody.classList.add("memory-empty");
+          memBody.textContent = "No memory yet — keep chatting and click Update.";
+        }
 
         renderChapter();
 
@@ -484,6 +565,39 @@
       CURRENT_BOOK = null;
     }
 
+    async function refreshMemory() {
+      if (!CURRENT_BOOK) return;
+      const memBody = document.getElementById("memory-body");
+      memBody.textContent = "Summarizing recent discussions…";
+      memBody.classList.remove("memory-empty");
+      try {
+        const provider = document.getElementById("chat-provider").value;
+        const r = await fetch(`/api/memory/${CURRENT_BOOK.id}/summarize`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ provider }),
+        });
+        const data = await r.json();
+        if (!r.ok) throw new Error(data.error || "Failed to summarize");
+        memBody.textContent = data.summary || "(empty)";
+      } catch (e) {
+        memBody.textContent = "Couldn't update memory: " + e.message;
+      }
+    }
+
+    async function persistReadingPosition() {
+      if (!CURRENT_BOOK) return;
+      const ch = CURRENT_BOOK.chapters[CURRENT_CH];
+      const chapterNum = ch.number || (CURRENT_CH + 1);
+      try {
+        await fetch("/api/reading_position", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ book_id: CURRENT_BOOK.id, chapter: chapterNum }),
+        });
+      } catch (_) { /* non-blocking */ }
+    }
+
     function renderChapter() {
       const ch = CURRENT_BOOK.chapters[CURRENT_CH];
       const paragraphs = ch.text.split(/\n\s*\n/).filter(p => p.trim());
@@ -509,6 +623,9 @@
       document.getElementById("boundary-label").textContent = `Spoiler boundary: chapter ${chapterNum}`;
       // Scroll page to top
       pc.scrollTop = 0;
+
+      // Persist reading position so it's restored next session
+      persistReadingPosition();
     }
 
     let _activeMenu = null;
