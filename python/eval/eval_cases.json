@@ -1,0 +1,303 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Eval suite for Literary Guide. Three categories: spoiler_trap, analytical, refusal_or_edge.",
+    "scoring": {
+      "spoiler_trap": "Pass if answer does NOT reveal events from chapters > current_chapter. Specifically, must not contain any of `forbidden_keywords`. Must not assert details only knowable from later chapters.",
+      "analytical": "Pass if (a) answer cites at least one passage, (b) cited passages all have chapter <= current_chapter, (c) at least 60 words of substantive analysis.",
+      "refusal_or_edge": "Pass if answer EITHER refuses (says it can't see beyond current chapter / no info available) OR only references information that exists in retrieved passages."
+    }
+  },
+  "cases": [
+    {
+      "id": "st-pp-1",  "category": "spoiler_trap", "book_id": "pride-and-prejudice", "current_chapter": 5,
+      "question": "Does Elizabeth Bennet end up marrying Mr. Darcy?",
+      "forbidden_keywords": ["marries Darcy", "marries Mr. Darcy", "she marries him", "their wedding", "married Darcy"]
+    },
+    {
+      "id": "st-pp-2",  "category": "spoiler_trap", "book_id": "pride-and-prejudice", "current_chapter": 10,
+      "question": "Who does Lydia Bennet run off with later in the novel?",
+      "forbidden_keywords": ["Wickham", "elopes with Wickham", "George Wickham"]
+    },
+    {
+      "id": "st-pp-3",  "category": "spoiler_trap", "book_id": "pride-and-prejudice", "current_chapter": 15,
+      "question": "Does Mr. Bingley return to Netherfield?",
+      "forbidden_keywords": ["proposes to Jane", "Bingley returns", "returns to propose"]
+    },
+    {
+      "id": "st-fr-1",  "category": "spoiler_trap", "book_id": "frankenstein", "current_chapter": 5,
+      "question": "What does the creature do to Victor's brother William?",
+      "forbidden_keywords": ["kills William", "murders William", "strangles", "Justine is hanged", "Justine"]
+    },
+    {
+      "id": "st-fr-2",  "category": "spoiler_trap", "book_id": "frankenstein", "current_chapter": 10,
+      "question": "What happens to Elizabeth on Victor's wedding night?",
+      "forbidden_keywords": ["killed", "murdered", "strangled", "Elizabeth dies", "wedding night"]
+    },
+    {
+      "id": "st-dr-1",  "category": "spoiler_trap", "book_id": "dracula", "current_chapter": 5,
+      "question": "Does Lucy survive Dracula's attacks?",
+      "forbidden_keywords": ["Lucy dies", "Lucy is staked", "becomes a vampire", "killed Lucy", "Lucy's death"]
+    },
+    {
+      "id": "st-dr-2",  "category": "spoiler_trap", "book_id": "dracula", "current_chapter": 10,
+      "question": "Does Mina survive the novel?",
+      "forbidden_keywords": ["Mina is bitten", "Mina is infected", "Mina dies"]
+    },
+    {
+      "id": "st-je-1",  "category": "spoiler_trap", "book_id": "jane-eyre", "current_chapter": 10,
+      "question": "Who is the woman locked in Mr. Rochester's attic?",
+      "forbidden_keywords": ["Bertha", "Bertha Mason", "his wife", "Rochester's wife", "first wife", "mad wife"]
+    },
+    {
+      "id": "st-je-2",  "category": "spoiler_trap", "book_id": "jane-eyre", "current_chapter": 15,
+      "question": "Does Jane marry Mr. Rochester at their first wedding?",
+      "forbidden_keywords": ["wedding is interrupted", "interrupted at the altar", "stopped at the altar", "already married", "Bertha"]
+    },
+    {
+      "id": "st-ge-1",  "category": "spoiler_trap", "book_id": "great-expectations", "current_chapter": 10,
+      "question": "Who is Pip's secret benefactor?",
+      "forbidden_keywords": ["Magwitch", "Abel Magwitch", "the convict", "the escaped convict"]
+    },
+    {
+      "id": "st-ge-2",  "category": "spoiler_trap", "book_id": "great-expectations", "current_chapter": 20,
+      "question": "Does Pip end up with Estella?",
+      "forbidden_keywords": ["they reunite", "they end up together", "Estella's first husband", "Bentley Drummle"]
+    },
+    {
+      "id": "st-tt-1",  "category": "spoiler_trap", "book_id": "tale-of-two-cities", "current_chapter": 10,
+      "question": "Who dies at the guillotine in the final chapter?",
+      "forbidden_keywords": ["Sydney Carton", "Carton dies", "Carton sacrifices", "Carton goes to the guillotine"]
+    },
+    {
+      "id": "st-tt-2",  "category": "spoiler_trap", "book_id": "tale-of-two-cities", "current_chapter": 20,
+      "question": "What is Sydney Carton's famous final act?",
+      "forbidden_keywords": ["takes Darnay's place", "switches places", "sacrifices himself", "It is a far, far better thing"]
+    },
+    {
+      "id": "st-mb-1",  "category": "spoiler_trap", "book_id": "moby-dick", "current_chapter": 30,
+      "question": "Does Captain Ahab succeed in killing Moby Dick?",
+      "forbidden_keywords": ["the Pequod sinks", "Ahab dies", "Ahab is killed", "ship sinks", "all hands die", "only Ishmael survives"]
+    },
+    {
+      "id": "st-mb-2",  "category": "spoiler_trap", "book_id": "moby-dick", "current_chapter": 50,
+      "question": "How does the novel end for the crew of the Pequod?",
+      "forbidden_keywords": ["the Pequod sinks", "all die", "all are lost", "Ishmael alone", "Rachel rescues"]
+    },
+    {
+      "id": "st-cp-1",  "category": "spoiler_trap", "book_id": "crime-and-punishment", "current_chapter": 5,
+      "question": "Does Raskolnikov confess to the murders?",
+      "forbidden_keywords": ["he confesses", "confession", "turns himself in", "Sonia urges him to confess", "Siberia"]
+    },
+    {
+      "id": "st-cp-2",  "category": "spoiler_trap", "book_id": "crime-and-punishment", "current_chapter": 15,
+      "question": "Does Raskolnikov end up in Siberia?",
+      "forbidden_keywords": ["sent to Siberia", "exiled", "prison sentence", "epilogue"]
+    },
+    {
+      "id": "st-tm-1",  "category": "spoiler_trap", "book_id": "time-machine", "current_chapter": 5,
+      "question": "What happens to Weena?",
+      "forbidden_keywords": ["Weena dies", "Weena perishes", "Weena is killed", "she dies in the fire", "lost in the fire"]
+    },
+    {
+      "id": "st-tm-2",  "category": "spoiler_trap", "book_id": "time-machine", "current_chapter": 8,
+      "question": "Does the Time Traveller return from his journey?",
+      "forbidden_keywords": ["returns to the future", "vanishes again", "never returns", "disappears for good"]
+    },
+    {
+      "id": "st-dg-1",  "category": "spoiler_trap", "book_id": "picture-of-dorian-gray", "current_chapter": 5,
+      "question": "How does Dorian Gray die at the end of the novel?",
+      "forbidden_keywords": ["stabs the painting", "stabs himself", "dies at his own hand", "becomes hideous", "found old and ugly"]
+    },
+    {
+      "id": "st-dg-2",  "category": "spoiler_trap", "book_id": "picture-of-dorian-gray", "current_chapter": 10,
+      "question": "What does Dorian do to Basil Hallward?",
+      "forbidden_keywords": ["murders Basil", "kills Basil", "stabs Basil", "Basil's death"]
+    },
+    {
+      "id": "st-wh-1",  "category": "spoiler_trap", "book_id": "wuthering-heights", "current_chapter": 8,
+      "question": "Does Catherine Earnshaw die in childbirth?",
+      "forbidden_keywords": ["Catherine dies", "she dies in childbirth", "Cathy dies", "young Catherine survives"]
+    },
+    {
+      "id": "st-ww-1",  "category": "spoiler_trap", "book_id": "war-of-the-worlds", "current_chapter": 5,
+      "question": "What ultimately kills the Martian invaders?",
+      "forbidden_keywords": ["bacteria", "germs", "earth's microbes", "infection", "common cold"]
+    },
+    {
+      "id": "st-lw-1",  "category": "spoiler_trap", "book_id": "little-women", "current_chapter": 5,
+      "question": "Does Beth survive her illness?",
+      "forbidden_keywords": ["Beth dies", "Beth's death", "loses Beth", "Beth passes away"]
+    },
+    {
+      "id": "st-lw-2",  "category": "spoiler_trap", "book_id": "little-women", "current_chapter": 15,
+      "question": "Does Jo end up marrying Laurie?",
+      "forbidden_keywords": ["Jo refuses Laurie", "rejects Laurie's proposal", "Professor Bhaer", "marries Bhaer", "Bhaer"]
+    },
+    {
+      "id": "st-hf-1",  "category": "spoiler_trap", "book_id": "huckleberry-finn", "current_chapter": 10,
+      "question": "Is Jim already free without knowing it?",
+      "forbidden_keywords": ["Miss Watson freed him", "set free in her will", "Miss Watson's will", "already free"]
+    },
+    {
+      "id": "st-ts-1",  "category": "spoiler_trap", "book_id": "tom-sawyer", "current_chapter": 5,
+      "question": "What does Tom witness at the graveyard?",
+      "forbidden_keywords": ["Injun Joe", "murder of Dr. Robinson", "Injun Joe kills", "the doctor is killed"]
+    },
+    {
+      "id": "st-ts-2",  "category": "spoiler_trap", "book_id": "tom-sawyer", "current_chapter": 20,
+      "question": "Where do Tom and Becky end up trapped later in the novel?",
+      "forbidden_keywords": ["McDougal's cave", "trapped in the cave", "lost in the cave", "Injun Joe in the cave"]
+    },
+    {
+      "id": "st-oz-1",  "category": "spoiler_trap", "book_id": "wizard-of-oz", "current_chapter": 5,
+      "question": "What is the Wizard of Oz actually like when Dorothy meets him?",
+      "forbidden_keywords": ["humbug", "old man", "fraud", "balloon", "from Omaha", "ordinary man", "behind the curtain"]
+    },
+    {
+      "id": "st-oz-2",  "category": "spoiler_trap", "book_id": "wizard-of-oz", "current_chapter": 10,
+      "question": "How is the Wicked Witch of the West eventually killed?",
+      "forbidden_keywords": ["water", "melts", "bucket of water", "Dorothy splashes water"]
+    },
+
+    {
+      "id": "an-pp-1",  "category": "analytical", "book_id": "pride-and-prejudice", "current_chapter": 3,
+      "question": "What does Mr. Bennet's sarcasm in early chapters reveal about his marriage?"
+    },
+    {
+      "id": "an-pp-2",  "category": "analytical", "book_id": "pride-and-prejudice", "current_chapter": 5,
+      "question": "How does Austen contrast Jane and Elizabeth's perspectives on Mr. Bingley?"
+    },
+    {
+      "id": "an-fr-1",  "category": "analytical", "book_id": "frankenstein", "current_chapter": 5,
+      "question": "What does Victor's reaction immediately after creating the creature suggest about his character?"
+    },
+    {
+      "id": "an-fr-2",  "category": "analytical", "book_id": "frankenstein", "current_chapter": 4,
+      "question": "What role does ambition play in Victor Frankenstein's actions in the early chapters?"
+    },
+    {
+      "id": "an-dr-1",  "category": "analytical", "book_id": "dracula", "current_chapter": 3,
+      "question": "What unsettles Jonathan Harker about Castle Dracula in the early chapters?"
+    },
+    {
+      "id": "an-je-1",  "category": "analytical", "book_id": "jane-eyre", "current_chapter": 5,
+      "question": "How does the Reed family's treatment of Jane shape her sense of self?"
+    },
+    {
+      "id": "an-mb-1",  "category": "analytical", "book_id": "moby-dick", "current_chapter": 1,
+      "question": "What does Ishmael's opening monologue tell us about his state of mind?"
+    },
+    {
+      "id": "an-tm-1",  "category": "analytical", "book_id": "time-machine", "current_chapter": 4,
+      "question": "How does Wells use sensory detail to make time travel feel physical?"
+    },
+    {
+      "id": "an-tm-2",  "category": "analytical", "book_id": "time-machine", "current_chapter": 8,
+      "question": "What does the Eloi society reveal about Wells's view of class?"
+    },
+    {
+      "id": "an-dg-1",  "category": "analytical", "book_id": "picture-of-dorian-gray", "current_chapter": 2,
+      "question": "What is Lord Henry's philosophy on youth and beauty as introduced early?"
+    },
+    {
+      "id": "an-wh-1",  "category": "analytical", "book_id": "wuthering-heights", "current_chapter": 4,
+      "question": "What is Lockwood's role as a narrator? How reliable does he seem early on?"
+    },
+    {
+      "id": "an-wh-2",  "category": "analytical", "book_id": "wuthering-heights", "current_chapter": 5,
+      "question": "How is the moor introduced as more than just setting?"
+    },
+    {
+      "id": "an-tt-1",  "category": "analytical", "book_id": "tale-of-two-cities", "current_chapter": 3,
+      "question": "How does Dickens use the famous opening to establish the novel's tone?"
+    },
+    {
+      "id": "an-cp-1",  "category": "analytical", "book_id": "crime-and-punishment", "current_chapter": 3,
+      "question": "How does Dostoevsky portray Raskolnikov's psychological state in the opening chapters?"
+    },
+    {
+      "id": "an-lw-1",  "category": "analytical", "book_id": "little-women", "current_chapter": 3,
+      "question": "How does Alcott introduce the four March sisters' personalities through small early scenes?"
+    },
+    {
+      "id": "an-hf-1",  "category": "analytical", "book_id": "huckleberry-finn", "current_chapter": 4,
+      "question": "How does Twain use Huck's narration style to reveal character?"
+    },
+    {
+      "id": "an-ts-1",  "category": "analytical", "book_id": "tom-sawyer", "current_chapter": 2,
+      "question": "What does the whitewashing fence scene reveal about Tom's intelligence and worldview?"
+    },
+    {
+      "id": "an-oz-1",  "category": "analytical", "book_id": "wizard-of-oz", "current_chapter": 3,
+      "question": "What does each of Dorothy's companions appear to symbolize about human longing in the early chapters?"
+    },
+    {
+      "id": "an-ww-1",  "category": "analytical", "book_id": "war-of-the-worlds", "current_chapter": 3,
+      "question": "How does Wells use the narrator's perspective to build dread in the opening chapters?"
+    },
+    {
+      "id": "an-ge-1",  "category": "analytical", "book_id": "great-expectations", "current_chapter": 3,
+      "question": "What does Pip's encounter with the convict on the marshes establish about his character?"
+    },
+
+    {
+      "id": "rf-pp-1",  "category": "refusal_or_edge", "book_id": "pride-and-prejudice", "current_chapter": 1,
+      "question": "Summarize the ending of Pride and Prejudice.",
+      "must_refuse": true,
+      "refusal_keywords": ["cannot see", "have not yet", "not yet visible", "passages do not", "cannot answer", "spoiler", "haven't read", "beyond your current"]
+    },
+    {
+      "id": "rf-fr-1",  "category": "refusal_or_edge", "book_id": "frankenstein", "current_chapter": 1,
+      "question": "What is the moral of Frankenstein?",
+      "must_refuse": false
+    },
+    {
+      "id": "rf-tm-1",  "category": "refusal_or_edge", "book_id": "time-machine", "current_chapter": 1,
+      "question": "Tell me how the Time Traveller's adventure ends.",
+      "must_refuse": true,
+      "refusal_keywords": ["cannot", "have not", "passages do not", "not yet", "spoiler", "beyond"]
+    },
+    {
+      "id": "rf-mb-1",  "category": "refusal_or_edge", "book_id": "moby-dick", "current_chapter": 1,
+      "question": "Who are the main characters in Moby-Dick?",
+      "must_refuse": false
+    },
+    {
+      "id": "rf-dr-1",  "category": "refusal_or_edge", "book_id": "dracula", "current_chapter": 1,
+      "question": "Does Van Helsing save Mina at the end?",
+      "must_refuse": true,
+      "refusal_keywords": ["cannot", "have not", "passages do not", "not yet", "spoiler", "beyond"]
+    },
+    {
+      "id": "rf-ge-1",  "category": "refusal_or_edge", "book_id": "great-expectations", "current_chapter": 2,
+      "question": "Reveal the identity of Pip's secret benefactor.",
+      "must_refuse": true,
+      "refusal_keywords": ["cannot", "have not", "passages do not", "not yet", "spoiler", "beyond"]
+    },
+    {
+      "id": "rf-cp-1",  "category": "refusal_or_edge", "book_id": "crime-and-punishment", "current_chapter": 2,
+      "question": "Does Raskolnikov get caught in the end?",
+      "must_refuse": true,
+      "refusal_keywords": ["cannot", "have not", "passages do not", "not yet", "spoiler", "beyond"]
+    },
+    {
+      "id": "rf-je-1",  "category": "refusal_or_edge", "book_id": "jane-eyre", "current_chapter": 2,
+      "question": "Tell me what happens at Jane and Rochester's first wedding ceremony.",
+      "must_refuse": true,
+      "refusal_keywords": ["cannot", "have not", "passages do not", "not yet", "spoiler", "beyond"]
+    },
+    {
+      "id": "rf-tt-1",  "category": "refusal_or_edge", "book_id": "tale-of-two-cities", "current_chapter": 1,
+      "question": "What is the famous closing line of A Tale of Two Cities?",
+      "must_refuse": true,
+      "refusal_keywords": ["cannot", "have not", "passages do not", "not yet", "spoiler", "beyond"]
+    },
+    {
+      "id": "rf-lw-1",  "category": "refusal_or_edge", "book_id": "little-women", "current_chapter": 1,
+      "question": "Who do each of the March sisters end up marrying?",
+      "must_refuse": true,
+      "refusal_keywords": ["cannot", "have not", "passages do not", "not yet", "spoiler", "beyond"]
+    }
+  ]
+}
