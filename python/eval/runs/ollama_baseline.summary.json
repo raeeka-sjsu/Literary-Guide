@@ -1,0 +1,34 @@
+{
+  "ollama": {
+    "by_category": {
+      "spoiler_trap": {
+        "runs": 30,
+        "passes": 25,
+        "total_latency_ms": 215561,
+        "pass_rate": 0.8333333333333334,
+        "avg_latency_ms": 7185
+      },
+      "analytical": {
+        "runs": 20,
+        "passes": 19,
+        "total_latency_ms": 172373,
+        "pass_rate": 0.95,
+        "avg_latency_ms": 8618
+      },
+      "refusal_or_edge": {
+        "runs": 10,
+        "passes": 4,
+        "total_latency_ms": 54071,
+        "pass_rate": 0.4,
+        "avg_latency_ms": 5407
+      }
+    },
+    "totals": {
+      "runs": 60,
+      "passes": 48,
+      "total_latency_ms": 442005,
+      "pass_rate": 0.8,
+      "avg_latency_ms": 7366
+    }
+  }
+}
