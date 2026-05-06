@@ -1,14 +1,23 @@
 """
-Per-book RAG indexing.
+Per-book RAG indexing — DENSE + BM25 HYBRID retrieval with RRF fusion.
 
 Each book gets its own Chroma collection named "book_<id>". Each chapter is
 chunked into ~400-word passages, embedded, and stored with metadata:
     {book_id, chapter, chunk_in_chapter, chapter_title}
 
+In parallel, an in-memory BM25 index over the same chunks is built so we can
+combine sparse keyword matching with dense embedding similarity. The two
+ranked lists are fused with Reciprocal Rank Fusion (RRF), the standard
+hybrid-retrieval blending technique.
+
+This satisfies Option 2 / D1 ("Advanced RAG with Hybrid retrieval").
+
 Functions:
     ensure_book_index(book_id) -> chunk_count
-    query_book(book_id, query, chapter_limit, top_k) -> list[chunk dict]
+    query_book(book_id, query, chapter_limit, top_k, mode='hybrid') -> list[chunk dict]
     is_indexed(book_id) -> bool
+
+`mode` accepts 'dense', 'bm25', or 'hybrid' (default).
 """
 
 from __future__ import annotations
@@ -20,6 +29,7 @@ from typing import List, Dict, Any
 
 import numpy as np
 from sentence_transformers import SentenceTransformer
+from rank_bm25 import BM25Okapi
 import chromadb
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -29,6 +39,17 @@ MODEL_NAME = "all-MiniLM-L6-v2"
 _model: SentenceTransformer | None = None
 _chroma = chromadb.Client()
 _indexed: set[str] = set()
+
+# Per-book BM25 indexes + tokenized corpus, keyed by book_id
+_bm25: Dict[str, BM25Okapi] = {}
+_bm25_ids: Dict[str, List[str]] = {}  # parallel to BM25 corpus order
+
+
+_TOKEN_RE = re.compile(r"[A-Za-z][A-Za-z'-]+")
+
+
+def _tokenize(text: str) -> List[str]:
+    return [t.lower() for t in _TOKEN_RE.findall(text)]
 
 
 def _get_model() -> SentenceTransformer:
@@ -122,6 +143,11 @@ def ensure_book_index(book_id: str) -> int:
     col = _chroma.create_collection(name=name)
     col.add(ids=ids, documents=docs, metadatas=metadatas, embeddings=embeddings.tolist())
 
+    # Build BM25 index over the same chunks (sparse retrieval for hybrid search)
+    tokenized = [_tokenize(d) for d in docs]
+    _bm25[book_id] = BM25Okapi(tokenized)
+    _bm25_ids[book_id] = ids
+
     _indexed.add(book_id)
     return len(docs)
 
@@ -133,13 +159,36 @@ def _cosine(a: np.ndarray, b: np.ndarray) -> float:
     return float(np.dot(a, b) / (na * nb))
 
 
+def _rrf_fuse(rank_lists: List[List[int]], k: int = 60) -> List[tuple[int, float]]:
+    """Reciprocal Rank Fusion — combine multiple ranked lists of indices.
+
+    Score(item) = sum_over_lists(1 / (k + rank_in_list)). Items missing from a
+    list contribute 0 from that list. Returns a list of (idx, fused_score)
+    sorted by fused_score descending. Standard hybrid-retrieval blending.
+    """
+    fused: Dict[int, float] = {}
+    for ranks in rank_lists:
+        for r, idx in enumerate(ranks, start=1):
+            fused[idx] = fused.get(idx, 0.0) + 1.0 / (k + r)
+    return sorted(fused.items(), key=lambda x: x[1], reverse=True)
+
+
 def query_book(
     book_id: str,
     query: str,
     chapter_limit: int,
     top_k: int = 4,
+    mode: str = "hybrid",
 ) -> List[Dict[str, Any]]:
-    """Retrieve top_k chunks from `book_id` whose chapter <= chapter_limit."""
+    """Retrieve top_k chunks from `book_id` whose chapter <= chapter_limit.
+
+    mode:
+      - "dense":  cosine similarity over sentence-transformer embeddings only
+      - "bm25":   BM25 keyword matching only
+      - "hybrid": both, fused via Reciprocal Rank Fusion (default)
+
+    The chapter cap is enforced BEFORE ranking — this is the spoiler boundary.
+    """
     ensure_book_index(book_id)
     col = _chroma.get_collection(_collection_name(book_id))
     data = col.get(include=["embeddings", "documents", "metadatas"])
@@ -148,27 +197,77 @@ def query_book(
     metas = data["metadatas"]
     embs = np.array(data["embeddings"])
 
-    # Filter by chapter
+    # Spoiler-boundary filter (retrieval-side, hard guarantee)
     valid = [
         i for i, m in enumerate(metas)
         if int(m.get("chapter") or 0) <= chapter_limit
     ]
     if not valid:
         return []
+    valid_set = set(valid)
 
-    q = _get_model().encode([query])[0]
-    scored = sorted(
-        ((i, _cosine(embs[i], q)) for i in valid),
-        key=lambda x: x[1],
-        reverse=True,
-    )
-    out = []
-    for i, score in scored[:top_k]:
+    # ---- Dense ranking ----
+    dense_ranked: List[int] = []
+    dense_scores: Dict[int, float] = {}
+    if mode in ("dense", "hybrid"):
+        q_emb = _get_model().encode([query])[0]
+        scored = sorted(
+            ((i, _cosine(embs[i], q_emb)) for i in valid),
+            key=lambda x: x[1],
+            reverse=True,
+        )
+        # Take a wider candidate pool for fusion
+        pool = scored[: max(top_k * 5, 20)]
+        dense_ranked = [i for i, _ in pool]
+        dense_scores = {i: s for i, s in pool}
+
+    # ---- BM25 ranking ----
+    bm25_ranked: List[int] = []
+    bm25_scores: Dict[int, float] = {}
+    if mode in ("bm25", "hybrid"):
+        bm25 = _bm25.get(book_id)
+        if bm25 is not None:
+            scores = bm25.get_scores(_tokenize(query))
+            # Filter to valid indices, then sort
+            ranked_all = sorted(
+                ((i, float(scores[i])) for i in valid),
+                key=lambda x: x[1],
+                reverse=True,
+            )
+            pool = ranked_all[: max(top_k * 5, 20)]
+            bm25_ranked = [i for i, _ in pool]
+            bm25_scores = {i: s for i, s in pool}
+
+    # ---- Combine ----
+    if mode == "dense":
+        ranked = [(i, dense_scores[i]) for i in dense_ranked]
+    elif mode == "bm25":
+        ranked = [(i, bm25_scores[i]) for i in bm25_ranked]
+    else:
+        # hybrid via RRF
+        if not dense_ranked and not bm25_ranked:
+            return []
+        if not bm25_ranked:
+            ranked = [(i, dense_scores[i]) for i in dense_ranked]
+        elif not dense_ranked:
+            ranked = [(i, bm25_scores[i]) for i in bm25_ranked]
+        else:
+            fused = _rrf_fuse([dense_ranked, bm25_ranked])
+            # Use fused score directly (small numbers, but consistent ordering)
+            ranked = fused
+
+    out: List[Dict[str, Any]] = []
+    for i, score in ranked[:top_k]:
+        if i not in valid_set:
+            continue
         out.append({
             "id": ids[i],
             "document": docs[i],
             "metadata": metas[i],
-            "score": score,
+            "score": float(score),
+            "retrieval_mode": mode,
+            "dense_score": dense_scores.get(i),
+            "bm25_score": bm25_scores.get(i),
         })
     return out
 
@@ -180,14 +279,18 @@ if __name__ == "__main__":
     ap.add_argument("--query", required=True)
     ap.add_argument("--chapter", type=int, default=999)
     ap.add_argument("--top-k", type=int, default=4)
+    ap.add_argument("--mode", default="hybrid", choices=["hybrid", "dense", "bm25"])
     args = ap.parse_args()
 
     print(f"Indexing {args.book}...")
     n = ensure_book_index(args.book)
     print(f"Indexed {n} chunks.")
-    print(f"\nQuery: {args.query!r} (chapter <= {args.chapter})")
-    res = query_book(args.book, args.query, args.chapter, args.top_k)
+    print(f"\nQuery: {args.query!r} (chapter <= {args.chapter}, mode={args.mode})")
+    res = query_book(args.book, args.query, args.chapter, args.top_k, mode=args.mode)
     for i, r in enumerate(res, 1):
         m = r["metadata"]
-        print(f"\n[{i}] ch{m['chapter']} chunk{m['chunk_in_chapter']} score={r['score']:.3f}")
+        ds = r.get("dense_score"); bs = r.get("bm25_score")
+        ds_s = f" dense={ds:.3f}" if ds is not None else ""
+        bs_s = f" bm25={bs:.3f}" if bs is not None else ""
+        print(f"\n[{i}] ch{m['chapter']} chunk{m['chunk_in_chapter']} fused={r['score']:.4f}{ds_s}{bs_s}")
         print("    " + r["document"][:300].replace("\n", " ") + ("..." if len(r["document"]) > 300 else ""))
