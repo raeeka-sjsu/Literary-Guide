@@ -2,72 +2,72 @@
   {
     "canonical_name": "Elizabeth",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 3,
     "total_mentions": 56,
     "per_chapter": {
-      "4": {
+      "3": {
         "mentions": 7,
         "snippet": "Elizabeth had caught the scarlet fever; her illness was severe, and she was"
       },
-      "6": {
+      "5": {
         "mentions": 4,
         "snippet": "I thought I saw Elizabeth, in the bloom of health, walking in"
       },
-      "8": {
+      "7": {
         "mentions": 8,
         "snippet": "until night fell, when Elizabeth conjectured that he might have"
       },
-      "9": {
+      "8": {
         "mentions": 17,
         "snippet": "and when Elizabeth, in a faltering voice, proved that it was the same"
       },
-      "19": {
+      "18": {
         "mentions": 8,
         "snippet": "marriage with our dear Elizabeth as the tie of our domestic comfort and the"
       },
-      "24": {
+      "23": {
         "mentions": 6,
         "snippet": "Elizabeth observed my agitation for some time in timid and fearful silence,"
       },
-      "25": {
+      "24": {
         "mentions": 6,
         "snippet": "entrance of the cemetery where William, Elizabeth, and my father"
       }
     },
     "co_occurs_with": {
       "Clerval": 4,
+      "Ancient Mariner": 2,
       "Frankenstein": 2,
       "Ingolstadt": 2,
       "Alas": 1,
+      "Archangel": 1,
       "Black Sea": 1,
-      "Frozen Ocean": 1,
-      "Margaret": 1,
-      "Walton": 1
+      "Captain Walton": 1
     }
   },
   {
     "canonical_name": "Felix",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 12,
     "total_mentions": 48,
     "per_chapter": {
-      "13": {
+      "12": {
         "mentions": 7,
         "snippet": "_Agatha,_ and the youth _Felix, brother,_ or _son_."
       },
-      "14": {
+      "13": {
         "mentions": 13,
         "snippet": "listened to him\u2014that I observed the countenance of Felix was"
       },
-      "15": {
+      "14": {
         "mentions": 18,
         "snippet": "\u201cFelix had accidentally been present at the trial; his horror and"
       },
-      "16": {
+      "15": {
         "mentions": 4,
         "snippet": "Felix and Agatha"
       },
-      "17": {
+      "16": {
         "mentions": 6,
         "snippet": "acting before my eyes; the females were flying and the enraged Felix"
       }
@@ -86,38 +86,38 @@
   {
     "canonical_name": "Clerval",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 2,
     "total_mentions": 47,
     "per_chapter": {
-      "3": {
+      "2": {
         "mentions": 4,
         "snippet": "Clerval was the son of a merchant of Geneva."
       },
-      "4": {
+      "3": {
         "mentions": 3,
         "snippet": "Clerval spent the last"
       },
-      "7": {
+      "6": {
         "mentions": 12,
         "snippet": "Clerval then put the following letter into my hands."
       },
-      "8": {
+      "7": {
         "mentions": 4,
         "snippet": "Clerval, who had watched my countenance as I read this letter, was"
       },
-      "19": {
+      "18": {
         "mentions": 5,
         "snippet": "arranged that Clerval should join me at Strasburgh."
       },
-      "20": {
+      "19": {
         "mentions": 6,
         "snippet": "Clerval desired the"
       },
-      "22": {
+      "21": {
         "mentions": 7,
         "snippet": "Clerval stretched before me."
       },
-      "25": {
+      "24": {
         "mentions": 6,
         "snippet": "voice, and beheld Clerval enjoying health and youth."
       }
@@ -138,14 +138,14 @@
     "aliases": [
       "Kirwin"
     ],
-    "first_chapter": 21,
+    "first_chapter": 20,
     "total_mentions": 26,
     "per_chapter": {
-      "21": {
+      "20": {
         "mentions": 6,
         "snippet": "follow me to Mr."
       },
-      "22": {
+      "21": {
         "mentions": 20,
         "snippet": "Mr."
       }
@@ -161,14 +161,14 @@
   {
     "canonical_name": "Justine",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 8,
     "total_mentions": 24,
     "per_chapter": {
-      "9": {
+      "8": {
         "mentions": 21,
         "snippet": "Justine also was a girl of merit and possessed qualities which promised"
       },
-      "23": {
+      "22": {
         "mentions": 3,
         "snippet": "Justine, poor unhappy Justine, was as innocent"
       }
@@ -187,18 +187,18 @@
   {
     "canonical_name": "Safie",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 13,
     "total_mentions": 23,
     "per_chapter": {
-      "14": {
+      "13": {
         "mentions": 5,
         "snippet": "sweet Safie."
       },
-      "15": {
+      "14": {
         "mentions": 14,
         "snippet": "\u201cThe father of Safie had been the cause of their ruin."
       },
-      "16": {
+      "15": {
         "mentions": 4,
         "snippet": "presence of Safie diffused happiness among its inhabitants, and I also"
       }
@@ -217,22 +217,22 @@
   {
     "canonical_name": "Agatha",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 12,
     "total_mentions": 21,
     "per_chapter": {
-      "13": {
+      "12": {
         "mentions": 5,
         "snippet": "_Agatha,_ and the youth _Felix, brother,_ or _son_."
       },
-      "14": {
+      "13": {
         "mentions": 8,
         "snippet": "Agatha asked a question, to which the stranger only replied by"
       },
-      "15": {
+      "14": {
         "mentions": 4,
         "snippet": "in the service of his country, and Agatha had ranked with ladies of the"
       },
-      "16": {
+      "15": {
         "mentions": 4,
         "snippet": "Felix and Agatha"
       }
@@ -251,26 +251,26 @@
   {
     "canonical_name": "Geneva",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 2,
     "total_mentions": 20,
     "per_chapter": {
-      "3": {
+      "2": {
         "mentions": 3,
         "snippet": "We possessed a house in Geneva, and a _campagne_ on Belrive,"
       },
-      "7": {
+      "6": {
         "mentions": 5,
         "snippet": "A servant in Geneva does not mean the same"
       },
-      "8": {
+      "7": {
         "mentions": 4,
         "snippet": "\u201cGeneva, May 12th, 17\u2014."
       },
-      "22": {
+      "21": {
         "mentions": 5,
         "snippet": "to Geneva; nearly two months have elapsed since the departure of my letter."
       },
-      "23": {
+      "22": {
         "mentions": 3,
         "snippet": "when you quitted Geneva."
       }
@@ -289,22 +289,22 @@
   {
     "canonical_name": "Victor",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 6,
     "total_mentions": 20,
     "per_chapter": {
-      "7": {
+      "6": {
         "mentions": 3,
         "snippet": "forbidden to write\u2014to hold a pen; yet one word from you, dear Victor,"
       },
-      "8": {
+      "7": {
         "mentions": 8,
         "snippet": "\u201cMy dear Victor,"
       },
-      "10": {
+      "9": {
         "mentions": 3,
         "snippet": "\u201cDo you think, Victor,\u201d said he, \u201cthat I do not suffer"
       },
-      "23": {
+      "22": {
         "mentions": 6,
         "snippet": "\u201cMy dearest Victor, what infatuation is this?"
       }
@@ -323,22 +323,22 @@
   {
     "canonical_name": "Henry",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 6,
     "total_mentions": 16,
     "per_chapter": {
-      "7": {
+      "6": {
         "mentions": 5,
         "snippet": "kind Henry are not sufficient to reassure me on your account."
       },
-      "19": {
+      "18": {
         "mentions": 3,
         "snippet": "Nay, Henry might stand between"
       },
-      "20": {
+      "19": {
         "mentions": 4,
         "snippet": "Henry soothed me, and I could thus cheat myself into a transitory"
       },
-      "22": {
+      "21": {
         "mentions": 4,
         "snippet": "passed like a dream from my memory when I saw the lifeless form of Henry"
       }
@@ -357,18 +357,18 @@
   {
     "canonical_name": "Frankenstein",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 8,
     "total_mentions": 16,
     "per_chapter": {
-      "9": {
+      "8": {
         "mentions": 1,
         "snippet": "She nursed Madame Frankenstein, my aunt, in"
       },
-      "11": {
+      "10": {
         "mentions": 3,
         "snippet": "Oh, Frankenstein, be not equitable to every"
       },
-      "25": {
+      "24": {
         "mentions": 12,
         "snippet": "endeavoured to gain from Frankenstein the particulars of his"
       }
@@ -376,25 +376,25 @@
     "co_occurs_with": {
       "Elizabeth": 2,
       "Alas": 1,
+      "Ancient Mariner": 1,
+      "Archangel": 1,
       "Black Sea": 1,
+      "Captain Walton": 1,
       "Clerval": 1,
-      "Frozen Ocean": 1,
-      "Margaret": 1,
-      "Walton": 1,
-      "Justine": 1
+      "Frozen Ocean": 1
     }
   },
   {
     "canonical_name": "Arabian",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 13,
     "total_mentions": 11,
     "per_chapter": {
-      "14": {
+      "13": {
         "mentions": 7,
         "snippet": "well as I could distinguish, his sweet Arabian."
       },
-      "15": {
+      "14": {
         "mentions": 4,
         "snippet": "of the Arabian, who exhibited towards him the simplest and tenderest"
       }
@@ -411,46 +411,20 @@
     }
   },
   {
-    "canonical_name": "Margaret",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 10,
-    "per_chapter": {
-      "1": {
-        "mentions": 7,
-        "snippet": "There, Margaret, the sun is for ever"
-      },
-      "25": {
-        "mentions": 3,
-        "snippet": "You have read this strange and terrific story, Margaret; and do you not"
-      }
-    },
-    "co_occurs_with": {
-      "Walton": 2,
-      "Ancient Mariner": 1,
-      "Archangel": 1,
-      "Captain Walton": 1,
-      "Mrs. Saville": 1,
-      "North Pacific Ocean": 1,
-      "North Sea": 1,
-      "Robert Walton": 1
-    }
-  },
-  {
     "canonical_name": "Ingolstadt",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 3,
     "total_mentions": 10,
     "per_chapter": {
-      "4": {
+      "3": {
         "mentions": 4,
         "snippet": "should become a student at the university of Ingolstadt."
       },
-      "6": {
+      "5": {
         "mentions": 3,
         "snippet": "the streets of Ingolstadt."
       },
-      "7": {
+      "6": {
         "mentions": 3,
         "snippet": "restrained my uncle from undertaking a journey to Ingolstadt."
       }
@@ -469,18 +443,18 @@
   {
     "canonical_name": "De Lacey",
     "aliases": [],
-    "first_chapter": 15,
+    "first_chapter": 14,
     "total_mentions": 9,
     "per_chapter": {
-      "15": {
+      "14": {
         "mentions": 4,
         "snippet": "\u201cThe name of the old man was De Lacey."
       },
-      "16": {
+      "15": {
         "mentions": 2,
         "snippet": "the good will and mediation of the old De Lacey, I might by his means"
       },
-      "17": {
+      "16": {
         "mentions": 3,
         "snippet": "ought to have familiarised the old De Lacey to me, and by degrees to"
       }
@@ -499,14 +473,14 @@
   {
     "canonical_name": "Italy",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 1,
     "total_mentions": 7,
     "per_chapter": {
-      "2": {
+      "1": {
         "mentions": 4,
         "snippet": "their union they sought the pleasant climate of Italy, and the change"
       },
-      "15": {
+      "14": {
         "mentions": 3,
         "snippet": "for escape before Felix could return to Italy, Safie should remain as a"
       }
@@ -525,10 +499,10 @@
   {
     "canonical_name": "Ernest",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 7,
     "total_mentions": 7,
     "per_chapter": {
-      "8": {
+      "7": {
         "mentions": 7,
         "snippet": "returning; and then we discovered that William and Ernest, who had gone"
       }
@@ -549,23 +523,23 @@
     "aliases": [
       "Thomas"
     ],
-    "first_chapter": 1,
+    "first_chapter": 24,
     "total_mentions": 6,
     "per_chapter": {
-      "1": {
+      "24": {
         "mentions": 6,
         "snippet": "whole of our good Uncle Thomas\u2019 library."
       }
     },
     "co_occurs_with": {
+      "Alas": 1,
       "Ancient Mariner": 1,
       "Archangel": 1,
+      "Black Sea": 1,
       "Captain Walton": 1,
-      "Margaret": 1,
-      "Mrs. Saville": 1,
-      "North Pacific Ocean": 1,
-      "North Sea": 1,
-      "Robert Walton": 1
+      "Clerval": 1,
+      "Elizabeth": 1,
+      "Frankenstein": 1
     }
   },
   {
@@ -573,58 +547,32 @@
     "aliases": [
       "Saville"
     ],
-    "first_chapter": 1,
+    "first_chapter": 24,
     "total_mentions": 6,
     "per_chapter": {
-      "1": {
+      "24": {
         "mentions": 6,
         "snippet": "_To Mrs."
       }
     },
     "co_occurs_with": {
+      "Alas": 1,
       "Ancient Mariner": 1,
       "Archangel": 1,
+      "Black Sea": 1,
       "Captain Walton": 1,
-      "Margaret": 1,
-      "North Pacific Ocean": 1,
-      "North Sea": 1,
-      "Robert Walton": 1,
-      "Uncle Thomas": 1
-    }
-  },
-  {
-    "canonical_name": "Walton",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 6,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "Walton, that I have suffered great and unparalleled misfortunes."
-      },
-      "25": {
-        "mentions": 5,
-        "snippet": "swear to me, Walton, that he shall not escape, that you will seek him"
-      }
-    },
-    "co_occurs_with": {
-      "Margaret": 2,
-      "Ancient Mariner": 1,
-      "Archangel": 1,
-      "Captain Walton": 1,
-      "Mrs. Saville": 1,
-      "North Pacific Ocean": 1,
-      "North Sea": 1,
-      "Robert Walton": 1
+      "Clerval": 1,
+      "Elizabeth": 1,
+      "Frankenstein": 1
     }
   },
   {
     "canonical_name": "Beaufort",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 1,
     "total_mentions": 6,
     "per_chapter": {
-      "2": {
+      "1": {
         "mentions": 6,
         "snippet": "This man, whose name was Beaufort, was of a"
       }
@@ -639,18 +587,18 @@
     "aliases": [
       "Moritz"
     ],
-    "first_chapter": 7,
+    "first_chapter": 6,
     "total_mentions": 6,
     "per_chapter": {
-      "7": {
+      "6": {
         "mentions": 3,
         "snippet": "what occasion Justine Moritz entered our family?"
       },
-      "8": {
+      "7": {
         "mentions": 2,
         "snippet": "that Justine Moritz, who was so amiable, and fond of all the family,"
       },
-      "10": {
+      "9": {
         "mentions": 1,
         "snippet": "Justine Moritz, I no longer see the world and its works as they before"
       }
@@ -669,22 +617,22 @@
   {
     "canonical_name": "Mont Blanc",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 7,
     "total_mentions": 6,
     "per_chapter": {
-      "8": {
+      "7": {
         "mentions": 1,
         "snippet": "sides of Jura, and the bright summit of Mont Blanc."
       },
-      "10": {
+      "9": {
         "mentions": 2,
         "snippet": "magnificent Mont Blanc, raised itself from the surrounding _aiguilles_,"
       },
-      "11": {
+      "10": {
         "mentions": 1,
         "snippet": "and above it rose Mont Blanc, in awful majesty."
       },
-      "23": {
+      "22": {
         "mentions": 2,
         "snippet": "surmounting all, the beautiful Mont Blanc, and the assemblage of snowy"
       }
@@ -703,10 +651,10 @@
   {
     "canonical_name": "Leghorn",
     "aliases": [],
-    "first_chapter": 15,
+    "first_chapter": 14,
     "total_mentions": 6,
     "per_chapter": {
-      "15": {
+      "14": {
         "mentions": 6,
         "snippet": "Cenis to Leghorn, where the merchant had decided to wait a favourable"
       }
@@ -723,12 +671,34 @@
     }
   },
   {
-    "canonical_name": "Rhine",
+    "canonical_name": "Walton",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 24,
     "total_mentions": 5,
     "per_chapter": {
-      "19": {
+      "24": {
+        "mentions": 5,
+        "snippet": "swear to me, Walton, that he shall not escape, that you will seek him"
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "Ancient Mariner": 1,
+      "Archangel": 1,
+      "Black Sea": 1,
+      "Captain Walton": 1,
+      "Clerval": 1,
+      "Elizabeth": 1,
+      "Frankenstein": 1
+    }
+  },
+  {
+    "canonical_name": "Rhine",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 5,
+    "per_chapter": {
+      "18": {
         "mentions": 5,
         "snippet": "sunrise reflected in the Rhine."
       }
@@ -747,10 +717,10 @@
   {
     "canonical_name": "Oxford",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 19,
     "total_mentions": 5,
     "per_chapter": {
-      "20": {
+      "19": {
         "mentions": 5,
         "snippet": "intend to follow the great road to Edinburgh, but to visit Windsor, Oxford,"
       }
@@ -769,40 +739,40 @@
   {
     "canonical_name": "Archangel",
     "aliases": [],
-    "first_chapter": 1,
+    "first_chapter": 24,
     "total_mentions": 4,
     "per_chapter": {
-      "1": {
+      "24": {
         "mentions": 4,
         "snippet": "Archangel."
       }
     },
     "co_occurs_with": {
+      "Alas": 1,
       "Ancient Mariner": 1,
+      "Black Sea": 1,
       "Captain Walton": 1,
-      "Margaret": 1,
-      "Mrs. Saville": 1,
-      "North Pacific Ocean": 1,
-      "North Sea": 1,
-      "Robert Walton": 1,
-      "Uncle Thomas": 1
+      "Clerval": 1,
+      "Elizabeth": 1,
+      "Frankenstein": 1,
+      "Frozen Ocean": 1
     }
   },
   {
     "canonical_name": "Cornelius Agrippa",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 2,
     "total_mentions": 4,
     "per_chapter": {
-      "3": {
+      "2": {
         "mentions": 2,
         "snippet": "chanced to find a volume of the works of Cornelius Agrippa."
       },
-      "5": {
+      "4": {
         "mentions": 1,
         "snippet": "with a sly smile, how Cornelius Agrippa went on, whilst M."
       },
-      "7": {
+      "6": {
         "mentions": 1,
         "snippet": "youngster who, but a few years ago, believed in Cornelius Agrippa as firmly"
       }
@@ -821,10 +791,10 @@
   {
     "canonical_name": "Strasburgh",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 18,
     "total_mentions": 4,
     "per_chapter": {
-      "19": {
+      "18": {
         "mentions": 4,
         "snippet": "arranged that Clerval should join me at Strasburgh."
       }
@@ -843,10 +813,10 @@
   {
     "canonical_name": "Scotland",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 19,
     "total_mentions": 4,
     "per_chapter": {
-      "20": {
+      "19": {
         "mentions": 4,
         "snippet": "Scotland who had formerly been our visitor at Geneva."
       }
@@ -865,10 +835,10 @@
   {
     "canonical_name": "Edinburgh",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 19,
     "total_mentions": 4,
     "per_chapter": {
-      "20": {
+      "19": {
         "mentions": 4,
         "snippet": "intend to follow the great road to Edinburgh, but to visit Windsor, Oxford,"
       }
@@ -887,10 +857,10 @@
   {
     "canonical_name": "Switzerland",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 19,
     "total_mentions": 4,
     "per_chapter": {
-      "20": {
+      "19": {
         "mentions": 4,
         "snippet": "resembled, to a greater degree, the scenery of Switzerland; but"
       }
@@ -909,10 +879,10 @@
   {
     "canonical_name": "Such",
     "aliases": [],
-    "first_chapter": 23,
+    "first_chapter": 22,
     "total_mentions": 4,
     "per_chapter": {
-      "23": {
+      "22": {
         "mentions": 4,
         "snippet": "_\u201d Such was my sentence, and on that night would the"
       }
@@ -926,20 +896,42 @@
     }
   },
   {
-    "canonical_name": "Elizabeth Lavenza",
+    "canonical_name": "Margaret",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 24,
     "total_mentions": 3,
     "per_chapter": {
-      "2": {
+      "24": {
+        "mentions": 3,
+        "snippet": "You have read this strange and terrific story, Margaret; and do you not"
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "Ancient Mariner": 1,
+      "Archangel": 1,
+      "Black Sea": 1,
+      "Captain Walton": 1,
+      "Clerval": 1,
+      "Elizabeth": 1,
+      "Frankenstein": 1
+    }
+  },
+  {
+    "canonical_name": "Elizabeth Lavenza",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
         "mentions": 1,
         "snippet": "consulted their village priest, and the result was that Elizabeth Lavenza"
       },
-      "7": {
+      "6": {
         "mentions": 1,
         "snippet": "\u201cElizabeth Lavenza."
       },
-      "23": {
+      "22": {
         "mentions": 1,
         "snippet": "\u201cElizabeth Lavenza."
       }
@@ -958,14 +950,14 @@
   {
     "canonical_name": "Albertus Magnus",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 2,
     "total_mentions": 3,
     "per_chapter": {
-      "3": {
+      "2": {
         "mentions": 2,
         "snippet": "author, and afterwards of Paracelsus and Albertus Magnus."
       },
-      "4": {
+      "3": {
         "mentions": 1,
         "snippet": "age, to find a disciple of Albertus Magnus and Paracelsus."
       }
@@ -984,10 +976,10 @@
   {
     "canonical_name": "Madame Moritz",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "7": {
+      "6": {
         "mentions": 3,
         "snippet": "Madame Moritz,"
       }
@@ -1008,10 +1000,10 @@
     "aliases": [
       "Mansfield"
     ],
-    "first_chapter": 7,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "7": {
+      "6": {
         "mentions": 3,
         "snippet": "The pretty Miss Mansfield"
       }
@@ -1032,10 +1024,10 @@
     "aliases": [
       "Tavernier"
     ],
-    "first_chapter": 7,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "7": {
+      "6": {
         "mentions": 3,
         "snippet": "lively pretty Frenchwoman, Madame Tavernier."
       }
@@ -1054,10 +1046,10 @@
   {
     "canonical_name": "Plainpalais",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 7,
     "total_mentions": 3,
     "per_chapter": {
-      "8": {
+      "7": {
         "mentions": 3,
         "snippet": "walk in Plainpalais."
       }
@@ -1076,10 +1068,10 @@
   {
     "canonical_name": "William",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 8,
     "total_mentions": 3,
     "per_chapter": {
-      "9": {
+      "8": {
         "mentions": 3,
         "snippet": "a sleepless night and the fate of poor William was yet uncertain."
       }
@@ -1094,10 +1086,10 @@
   {
     "canonical_name": "Chamounix",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 9,
     "total_mentions": 3,
     "per_chapter": {
-      "10": {
+      "9": {
         "mentions": 3,
         "snippet": "towards the valley of Chamounix."
       }
@@ -1112,10 +1104,10 @@
   {
     "canonical_name": "Arve",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 9,
     "total_mentions": 3,
     "per_chapter": {
-      "10": {
+      "9": {
         "mentions": 3,
         "snippet": "the ravine of Arve."
       }
@@ -1130,10 +1122,10 @@
   {
     "canonical_name": "Paradise",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 15,
     "total_mentions": 3,
     "per_chapter": {
-      "16": {
+      "15": {
         "mentions": 3,
         "snippet": "had acquired at the cottage; they consisted of _Paradise Lost_, a volume"
       }
@@ -1151,10 +1143,10 @@
   {
     "canonical_name": "Plutarch",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 15,
     "total_mentions": 3,
     "per_chapter": {
-      "16": {
+      "15": {
         "mentions": 3,
         "snippet": "of _Plutarch\u2019s Lives_, and the _Sorrows of Werter_."
       }
@@ -1172,10 +1164,10 @@
   {
     "canonical_name": "Sorrows",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 15,
     "total_mentions": 3,
     "per_chapter": {
-      "16": {
+      "15": {
         "mentions": 3,
         "snippet": "of _Plutarch\u2019s Lives_, and the _Sorrows of Werter_."
       }
@@ -1193,10 +1185,10 @@
   {
     "canonical_name": "Matlock",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 19,
     "total_mentions": 3,
     "per_chapter": {
-      "20": {
+      "19": {
         "mentions": 3,
         "snippet": "Matlock, and the Cumberland lakes, resolving to arrive at the completion of"
       }
@@ -1215,10 +1207,10 @@
   {
     "canonical_name": "Cumberland",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 19,
     "total_mentions": 3,
     "per_chapter": {
-      "20": {
+      "19": {
         "mentions": 3,
         "snippet": "Matlock, and the Cumberland lakes, resolving to arrive at the completion of"
       }
@@ -1237,10 +1229,10 @@
   {
     "canonical_name": "Ireland",
     "aliases": [],
-    "first_chapter": 22,
+    "first_chapter": 21,
     "total_mentions": 3,
     "per_chapter": {
-      "22": {
+      "21": {
         "mentions": 3,
         "snippet": "Still, as I urged our leaving Ireland with such inquietude and impatience,"
       }
@@ -1256,22 +1248,23 @@
   {
     "canonical_name": "Alas",
     "aliases": [],
-    "first_chapter": 25,
+    "first_chapter": 24,
     "total_mentions": 3,
     "per_chapter": {
-      "25": {
+      "24": {
         "mentions": 3,
         "snippet": "\u201cAlas!"
       }
     },
     "co_occurs_with": {
+      "Ancient Mariner": 1,
+      "Archangel": 1,
       "Black Sea": 1,
+      "Captain Walton": 1,
       "Clerval": 1,
       "Elizabeth": 1,
       "Frankenstein": 1,
-      "Frozen Ocean": 1,
-      "Margaret": 1,
-      "Walton": 1
+      "Frozen Ocean": 1
     }
   }
 ]

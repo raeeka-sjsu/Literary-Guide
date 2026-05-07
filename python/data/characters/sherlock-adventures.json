@@ -3,62 +3,58 @@
     "canonical_name": "Holmes",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 94,
+    "total_mentions": 93,
     "per_chapter": {
       "1": {
         "mentions": 23,
         "snippet": "I had seen little of Holmes lately."
       },
-      "3": {
-        "mentions": 1,
-        "snippet": "Holmes,\u201d answered my companion, looking at her with a"
-      },
-      "4": {
+      "2": {
         "mentions": 11,
         "snippet": "Holmes?"
       },
-      "5": {
+      "3": {
         "mentions": 14,
         "snippet": "Holmes,\u201d she cried, \u201celse how could you know all that?"
       },
-      "6": {
+      "4": {
         "mentions": 2,
         "snippet": "Holmes, do tell him that"
       },
-      "7": {
+      "5": {
         "mentions": 2,
         "snippet": "Holmes."
       },
-      "8": {
+      "6": {
         "mentions": 6,
         "snippet": "Holmes, you will be good enough to explain how it is"
       },
-      "9": {
+      "7": {
         "mentions": 3,
         "snippet": "Holmes!"
       },
-      "10": {
+      "8": {
         "mentions": 4,
         "snippet": "Holmes."
       },
-      "12": {
+      "10": {
         "mentions": 6,
         "snippet": "Holmes."
       },
-      "13": {
+      "11": {
         "mentions": 7,
         "snippet": "Holmes, for I wish you to"
       },
-      "14": {
+      "12": {
         "mentions": 15,
         "snippet": "Holmes, that to me, destitute as I was, such an"
       }
     },
     "co_occurs_with": {
-      "Mr. Holmes": 11,
-      "Sherlock Holmes": 11,
       "Baker Street": 10,
       "Watson": 10,
+      "Mr. Holmes": 10,
+      "Sherlock Holmes": 10,
       "Dr. Watson": 6,
       "Very": 5,
       "Irene Adler": 4,
@@ -68,57 +64,53 @@
   {
     "canonical_name": "Mr. Holmes",
     "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 70,
+    "first_chapter": 2,
+    "total_mentions": 69,
     "per_chapter": {
-      "3": {
-        "mentions": 1,
-        "snippet": "\u201cI am Mr."
-      },
-      "4": {
+      "2": {
         "mentions": 11,
         "snippet": "\u201cHow, in the name of good-fortune, did you know all that, Mr."
       },
-      "5": {
+      "3": {
         "mentions": 14,
         "snippet": "me, Mr."
       },
-      "6": {
+      "4": {
         "mentions": 2,
         "snippet": "Oh, if you do, Mr."
       },
-      "7": {
+      "5": {
         "mentions": 2,
         "snippet": "\u201cI have heard of you, Mr."
       },
-      "8": {
+      "6": {
         "mentions": 6,
         "snippet": "\u201cThen perhaps, Mr."
       },
-      "9": {
+      "7": {
         "mentions": 3,
         "snippet": "\u201cThe goose, Mr."
       },
-      "10": {
+      "8": {
         "mentions": 4,
         "snippet": "\u201cIt is fear, Mr."
       },
-      "12": {
+      "10": {
         "mentions": 5,
         "snippet": "\u201cA most painful matter to me, as you can most readily imagine, Mr."
       },
-      "13": {
+      "11": {
         "mentions": 7,
         "snippet": "\u201cAnd now a word as to my household, Mr."
       },
-      "14": {
+      "12": {
         "mentions": 15,
         "snippet": "\u201cYou may imagine, Mr."
       }
     },
     "co_occurs_with": {
-      "Holmes": 11,
-      "Sherlock Holmes": 11,
+      "Holmes": 10,
+      "Sherlock Holmes": 10,
       "Baker Street": 9,
       "Watson": 9,
       "Dr. Watson": 5,
@@ -132,10 +124,10 @@
     "aliases": [
       "Hunter"
     ],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 53,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 53,
         "snippet": "\u201cPray take a seat, Miss Hunter."
       }
@@ -154,10 +146,10 @@
   {
     "canonical_name": "Lord St",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 49,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 49,
         "snippet": "The Lord St."
       }
@@ -174,84 +166,14 @@
     }
   },
   {
-    "canonical_name": "Sherlock Holmes",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 48,
-    "per_chapter": {
-      "2": {
-        "mentions": 1,
-        "snippet": "Sherlock Holmes\u2019 succinct description, but the locality appeared to be"
-      },
-      "3": {
-        "mentions": 7,
-        "snippet": "\u201d he cried, grasping Sherlock Holmes by either"
-      },
-      "4": {
-        "mentions": 4,
-        "snippet": "Sherlock Holmes, one day in the"
-      },
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cMy dear fellow,\u201d said Sherlock Holmes as we sat on either side of the"
-      },
-      "6": {
-        "mentions": 7,
-        "snippet": "It was from Sherlock Holmes and ran in this way:"
-      },
-      "7": {
-        "mentions": 4,
-        "snippet": "When I glance over my notes and records of the Sherlock Holmes cases"
-      },
-      "8": {
-        "mentions": 4,
-        "snippet": "surprise, was none other than Sherlock Holmes."
-      },
-      "9": {
-        "mentions": 4,
-        "snippet": "I had called upon my friend Sherlock Holmes upon the second morning"
-      },
-      "10": {
-        "mentions": 4,
-        "snippet": "Sherlock Holmes standing, fully dressed, by the side of my bed."
-      },
-      "11": {
-        "mentions": 2,
-        "snippet": "Sherlock Holmes, for solution during the years of our intimacy, there"
-      },
-      "12": {
-        "mentions": 5,
-        "snippet": "friend Sherlock Holmes had a considerable share in clearing the matter"
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "Holder,\u201d said Sherlock Holmes"
-      },
-      "14": {
-        "mentions": 2,
-        "snippet": "\u201cTo the man who loves art for its own sake,\u201d remarked Sherlock Holmes,"
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 11,
-      "Holmes": 11,
-      "Mr. Holmes": 11,
-      "Watson": 9,
-      "Very": 6,
-      "Dr. Watson": 5,
-      "Mr. Sherlock Holmes": 5,
-      "Have": 4
-    }
-  },
-  {
     "canonical_name": "Miss Stoner",
     "aliases": [
       "Stoner"
     ],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 43,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 43,
         "snippet": "I know that Miss Stoner has been here."
       }
@@ -268,6 +190,68 @@
     }
   },
   {
+    "canonical_name": "Sherlock Holmes",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 40,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "Sherlock Holmes, one day in the"
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cMy dear fellow,\u201d said Sherlock Holmes as we sat on either side of the"
+      },
+      "4": {
+        "mentions": 7,
+        "snippet": "It was from Sherlock Holmes and ran in this way:"
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "When I glance over my notes and records of the Sherlock Holmes cases"
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "surprise, was none other than Sherlock Holmes."
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "I had called upon my friend Sherlock Holmes upon the second morning"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "Sherlock Holmes standing, fully dressed, by the side of my bed."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "Sherlock Holmes, for solution during the years of our intimacy, there"
+      },
+      "10": {
+        "mentions": 5,
+        "snippet": "friend Sherlock Holmes had a considerable share in clearing the matter"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "Holder,\u201d said Sherlock Holmes"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "\u201cTo the man who loves art for its own sake,\u201d remarked Sherlock Holmes,"
+      }
+    },
+    "co_occurs_with": {
+      "Baker Street": 10,
+      "Holmes": 10,
+      "Mr. Holmes": 10,
+      "Watson": 9,
+      "Very": 6,
+      "Dr. Watson": 5,
+      "Mr. Sherlock Holmes": 5,
+      "Have": 4
+    }
+  },
+  {
     "canonical_name": "The",
     "aliases": [],
     "first_chapter": 1,
@@ -277,7 +261,7 @@
         "mentions": 13,
         "snippet": "The"
       },
-      "9": {
+      "7": {
         "mentions": 26,
         "snippet": "The matter is a perfectly trivial one\u201d\u2014he jerked his thumb in"
       }
@@ -303,11 +287,11 @@
         "mentions": 5,
         "snippet": "\u201cThere will call upon you to-night, at a quarter to eight o\u2019clock,\u201d it"
       },
-      "5": {
+      "3": {
         "mentions": 11,
         "snippet": "\u2019 There is half a column of print, but I"
       },
-      "10": {
+      "8": {
         "mentions": 18,
         "snippet": "\u201cThere is no mystery, my dear madam,\u201d said he, smiling."
       }
@@ -317,19 +301,19 @@
       "Dr. Watson": 3,
       "Holmes": 3,
       "Watson": 3,
+      "Bohemia": 2,
       "Doctor": 2,
       "Irene Adler": 2,
-      "King": 2,
-      "Mr. Holmes": 2
+      "King": 2
     }
   },
   {
     "canonical_name": "Rucastle",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 34,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 34,
         "snippet": "Rucastle"
       }
@@ -355,39 +339,39 @@
         "mentions": 1,
         "snippet": "Watson, who is occasionally good enough to help me in my cases."
       },
-      "4": {
+      "2": {
         "mentions": 1,
         "snippet": "Watson has"
       },
-      "5": {
+      "3": {
         "mentions": 1,
         "snippet": "Watson, before whom you can speak as freely as before"
       },
-      "6": {
+      "4": {
         "mentions": 4,
         "snippet": "\u201cIt is really very good of you to come, Watson,\u201d said he."
       },
-      "7": {
+      "5": {
         "mentions": 4,
         "snippet": "\u201cI think, Watson,\u201d he remarked at last, \u201cthat of all our cases we have"
       },
-      "8": {
+      "6": {
         "mentions": 1,
         "snippet": "Watson."
       },
-      "9": {
+      "7": {
         "mentions": 9,
         "snippet": "\u201cOn the contrary, Watson, you can see everything."
       },
-      "10": {
+      "8": {
         "mentions": 1,
         "snippet": "Watson, before"
       },
-      "12": {
+      "10": {
         "mentions": 1,
         "snippet": "Watson."
       },
-      "14": {
+      "12": {
         "mentions": 7,
         "snippet": "Watson, that you have so far grasped this truth that in these little"
       }
@@ -399,8 +383,8 @@
       "Sherlock Holmes": 9,
       "Dr. Watson": 6,
       "Very": 5,
-      "Mary Sutherland": 4,
-      "Miss Mary Sutherland": 4
+      "Irene Adler": 4,
+      "Mary Sutherland": 4
     }
   },
   {
@@ -408,23 +392,47 @@
     "aliases": [
       "Windibank"
     ],
-    "first_chapter": 5,
+    "first_chapter": 3,
     "total_mentions": 28,
     "per_chapter": {
-      "5": {
+      "3": {
         "mentions": 28,
         "snippet": "me angry to see the easy way in which Mr."
       }
     },
     "co_occurs_with": {
       "Baker Street": 1,
+      "Bohemia": 1,
+      "Briony Lodge": 1,
+      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1,
-      "Irene Adler": 1,
-      "James Windibank": 1,
-      "King": 1
+      "Hosmer Angel": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Wilson",
+    "aliases": [
+      "Wilson"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 26,
+    "per_chapter": {
+      "2": {
+        "mentions": 26,
+        "snippet": "This gentleman, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Arnsworth Castle": 1,
+      "Baker Street": 1,
+      "Briony Lodge": 1,
+      "China": 1,
+      "City": 1,
+      "Coburg Square": 1,
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
@@ -433,60 +441,56 @@
       "Baker"
     ],
     "first_chapter": 1,
-    "total_mentions": 26,
+    "total_mentions": 24,
     "per_chapter": {
       "1": {
         "mentions": 2,
         "snippet": "soul, remained in our lodgings in Baker Street, buried among his old"
       },
       "2": {
-        "mentions": 2,
-        "snippet": "It was a quarter past six when we left Baker Street, and it still"
-      },
-      "4": {
         "mentions": 3,
         "snippet": "\u201cI shall be at Baker Street at ten."
       },
-      "5": {
+      "3": {
         "mentions": 2,
         "snippet": "fire in his lodgings at Baker Street, \u201clife is infinitely stranger than"
       },
-      "7": {
+      "5": {
         "mentions": 2,
         "snippet": "more in my old quarters at Baker Street."
       },
-      "8": {
+      "6": {
         "mentions": 1,
         "snippet": "\u201cBut why are you not conducting the case from Baker Street?"
       },
-      "9": {
+      "7": {
         "mentions": 4,
         "snippet": "when I found myself in Baker Street once more."
       },
-      "10": {
+      "8": {
         "mentions": 1,
         "snippet": "Holmes, when we were sharing rooms as bachelors in Baker Street."
       },
-      "11": {
+      "9": {
         "mentions": 2,
         "snippet": "civil practice and had finally abandoned Holmes in his Baker Street"
       },
-      "12": {
+      "10": {
         "mentions": 1,
         "snippet": "still sharing rooms with Holmes in Baker Street, that he came home from"
       },
-      "13": {
+      "11": {
         "mentions": 3,
         "snippet": "the centre of Baker Street it had been ploughed into a brown crumbly"
       },
-      "14": {
+      "12": {
         "mentions": 3,
         "snippet": "on either side of a cheery fire in the old room at Baker Street."
       }
     },
     "co_occurs_with": {
-      "Sherlock Holmes": 11,
       "Holmes": 10,
+      "Sherlock Holmes": 10,
       "Watson": 9,
       "Mr. Holmes": 9,
       "Dr. Watson": 6,
@@ -496,80 +500,56 @@
     }
   },
   {
-    "canonical_name": "Mr. Wilson",
-    "aliases": [
-      "Wilson"
-    ],
-    "first_chapter": 4,
-    "total_mentions": 26,
-    "per_chapter": {
-      "4": {
-        "mentions": 26,
-        "snippet": "This gentleman, Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 1,
-      "China": 1,
-      "City": 1,
-      "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
-    }
-  },
-  {
     "canonical_name": "Mr. Merryweather",
     "aliases": [
       "Merryweather"
     ],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 22,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 22,
         "snippet": "Let me introduce you to Mr."
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
     "canonical_name": "Very",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 22,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 3,
         "snippet": "Very much so."
       },
-      "8": {
+      "6": {
         "mentions": 3,
         "snippet": "\u201cVery well."
       },
-      "9": {
+      "7": {
         "mentions": 4,
         "snippet": "\u201cVery."
       },
-      "10": {
+      "8": {
         "mentions": 4,
         "snippet": "\u201cVery sorry to knock you up, Watson,\u201d said he, \u201cbut it\u2019s the common lot"
       },
-      "11": {
+      "9": {
         "mentions": 4,
         "snippet": "\u201cVery murderous indeed."
       },
-      "12": {
+      "10": {
         "mentions": 4,
         "snippet": "Very right!"
       }
@@ -590,66 +570,32 @@
     "aliases": [
       "Angel"
     ],
-    "first_chapter": 5,
+    "first_chapter": 3,
     "total_mentions": 21,
     "per_chapter": {
-      "5": {
+      "3": {
         "mentions": 21,
         "snippet": "Hosmer Angel."
       }
     },
     "co_occurs_with": {
       "Baker Street": 1,
+      "Bohemia": 1,
+      "Briony Lodge": 1,
+      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Irene Adler": 1,
-      "James Windibank": 1,
-      "King": 1,
-      "Leadenhall Street": 1
-    }
-  },
-  {
-    "canonical_name": "King",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 20,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "he cried; \u201cI am the King."
-      },
-      "2": {
-        "mentions": 3,
-        "snippet": "that the King is capable of having her waylaid and searched."
-      },
-      "3": {
-        "mentions": 9,
-        "snippet": "and coffee in the morning when the King of Bohemia rushed into the"
-      },
-      "5": {
-        "mentions": 3,
-        "snippet": "a little souvenir from the King of Bohemia in return for my assistance"
-      }
-    },
-    "co_occurs_with": {
-      "Irene Adler": 4,
-      "Baker Street": 3,
-      "Holmes": 3,
-      "Sherlock Holmes": 3,
-      "Bohemia": 2,
-      "Dr. Watson": 2,
-      "Serpentine Avenue": 2,
-      "There": 2
+      "Irene Adler": 1
     }
   },
   {
     "canonical_name": "Arthur",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 11,
     "total_mentions": 20,
     "per_chapter": {
-      "13": {
+      "11": {
         "mentions": 20,
         "snippet": "Arthur."
       }
@@ -675,15 +621,15 @@
         "mentions": 3,
         "snippet": "\u201cNot a bit, Doctor."
       },
-      "4": {
+      "2": {
         "mentions": 7,
         "snippet": "\u201cYou did, Doctor, but none the less you must come round to my view, for"
       },
-      "10": {
+      "8": {
         "mentions": 6,
         "snippet": "\u201cI think that I mentioned to you that the Doctor kept a cheetah and a"
       },
-      "11": {
+      "9": {
         "mentions": 3,
         "snippet": "must go now, Doctor; I have my dooties, just the same as you."
       }
@@ -695,17 +641,17 @@
       "Watson": 3,
       "Sherlock Holmes": 3,
       "Very": 3,
-      "There": 2,
-      "Mr. Holmes": 2
+      "Irene Adler": 2,
+      "King": 2
     }
   },
   {
     "canonical_name": "Frank",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 19,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 19,
         "snippet": "the time when I saw Frank here again I just didn\u2019t know what I was"
       }
@@ -724,10 +670,10 @@
   {
     "canonical_name": "Mr. Rucastle",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 19,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 19,
         "snippet": "Mr."
       }
@@ -746,22 +692,22 @@
   {
     "canonical_name": "Pray",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 17,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 4,
         "snippet": "Pray draw up"
       },
-      "12": {
+      "10": {
         "mentions": 7,
         "snippet": "Pray give me the results of your newspaper selections."
       },
-      "13": {
+      "11": {
         "mentions": 3,
         "snippet": "Pray wait until you have recovered"
       },
-      "14": {
+      "12": {
         "mentions": 3,
         "snippet": "\u201cPray take a seat, Miss Hunter."
       }
@@ -782,10 +728,10 @@
     "aliases": [
       "Stoper"
     ],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 17,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 17,
         "snippet": "name of the founder of the business, but it is really managed by Miss"
       }
@@ -806,22 +752,22 @@
     "aliases": [
       "Sutherland"
     ],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 16,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 2,
         "snippet": "into the very simple problem presented by Miss Mary Sutherland, that"
       },
-      "5": {
+      "3": {
         "mentions": 10,
         "snippet": "to announce Miss Mary Sutherland, while the lady herself loomed behind"
       },
-      "9": {
+      "7": {
         "mentions": 2,
         "snippet": "to the singular case of Miss Mary Sutherland, and to the adventure of"
       },
-      "14": {
+      "12": {
         "mentions": 2,
         "snippet": "Miss Mary Sutherland, the problem connected with the man with the"
       }
@@ -833,8 +779,8 @@
       "Mr. Holmes": 4,
       "Sherlock Holmes": 4,
       "Watson": 4,
-      "Tottenham Court Road": 3,
-      "Dr. Watson": 2
+      "Irene Adler": 3,
+      "Tottenham Court Road": 3
     }
   },
   {
@@ -842,10 +788,10 @@
     "aliases": [
       "McCarthy"
     ],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 16,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 16,
         "snippet": "that Mr."
       }
@@ -864,10 +810,10 @@
   {
     "canonical_name": "Neville St",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 16,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 16,
         "snippet": "murder-trap on the whole riverside, and I fear that Neville St."
       }
@@ -886,22 +832,22 @@
   {
     "canonical_name": "Have",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 15,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 5,
         "snippet": "\u201c\u2018Have you never heard of the League of the Red-headed Men?"
       },
-      "6": {
+      "4": {
         "mentions": 4,
         "snippet": "\u201cHave you a couple of days to spare?"
       },
-      "12": {
+      "10": {
         "mentions": 3,
         "snippet": "\u201cHave you her photograph?"
       },
-      "13": {
+      "11": {
         "mentions": 3,
         "snippet": "\u201cHave they thought of looking outside the house?"
       }
@@ -920,18 +866,18 @@
   {
     "canonical_name": "Here",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 15,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 3,
         "snippet": "\u2018Here are the"
       },
-      "9": {
+      "7": {
         "mentions": 7,
         "snippet": "\u201cHere is my lens."
       },
-      "12": {
+      "10": {
         "mentions": 5,
         "snippet": "\u201cHere is a very fashionable epistle,\u201d I remarked as he entered."
       }
@@ -950,10 +896,10 @@
   {
     "canonical_name": "Holder",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 11,
     "total_mentions": 15,
     "per_chapter": {
-      "13": {
+      "11": {
         "mentions": 15,
         "snippet": "Holder,\u2019 said he, \u2018I have been informed that you are in the habit"
       }
@@ -970,59 +916,18 @@
     }
   },
   {
-    "canonical_name": "Irene Adler",
-    "aliases": [
-      "Adler",
-      "Irene"
-    ],
-    "first_chapter": 1,
-    "total_mentions": 13,
-    "per_chapter": {
-      "1": {
-        "mentions": 2,
-        "snippet": "akin to love for Irene Adler."
-      },
-      "2": {
-        "mentions": 5,
-        "snippet": "perhaps the house, of Miss Irene Adler."
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "\u201cIrene Adler is married,\u201d remarked Holmes."
-      },
-      "5": {
-        "mentions": 2,
-        "snippet": "in the case of the Irene Adler papers."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "You allude to my attempt to recover the Irene Adler papers,"
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 4,
-      "Holmes": 4,
-      "King": 4,
-      "Sherlock Holmes": 4,
-      "Watson": 3,
-      "Mr. Holmes": 3,
-      "Bohemia": 2,
-      "Dr. Watson": 2
-    }
-  },
-  {
     "canonical_name": "Duncan Ross",
     "aliases": [
       "Ross"
     ],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 13,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 7,
         "snippet": "Apply in person on Monday, at eleven o\u2019clock, to Duncan Ross, at the"
       },
-      "6": {
+      "4": {
         "mentions": 6,
         "snippet": "\u201cBoscombe Valley is a country district not very far from Ross, in"
       }
@@ -1034,39 +939,39 @@
       "Mr. Sherlock Holmes": 2,
       "Scotland Yard": 2,
       "Sherlock Holmes": 2,
-      "Watson": 2,
-      "Baker Street": 1
+      "Turner": 2,
+      "Watson": 2
     }
   },
   {
     "canonical_name": "Mr. Hosmer Angel",
     "aliases": [],
-    "first_chapter": 5,
+    "first_chapter": 3,
     "total_mentions": 13,
     "per_chapter": {
-      "5": {
+      "3": {
         "mentions": 13,
         "snippet": "has become of Mr."
       }
     },
     "co_occurs_with": {
       "Baker Street": 1,
+      "Bohemia": 1,
+      "Briony Lodge": 1,
+      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1,
-      "Irene Adler": 1,
-      "James Windibank": 1,
-      "King": 1
+      "Hosmer Angel": 1
     }
   },
   {
     "canonical_name": "Horner",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 13,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 13,
         "snippet": "John Horner, a"
       }
@@ -1087,10 +992,10 @@
     "aliases": [
       "Stark"
     ],
-    "first_chapter": 11,
+    "first_chapter": 9,
     "total_mentions": 13,
     "per_chapter": {
-      "11": {
+      "9": {
         "mentions": 13,
         "snippet": "He brought up a card, too, with the name of \u2018Colonel"
       }
@@ -1109,10 +1014,10 @@
   {
     "canonical_name": "Mr. Holder",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 11,
     "total_mentions": 13,
     "per_chapter": {
-      "13": {
+      "11": {
         "mentions": 13,
         "snippet": "\u201c\u2018Mr."
       }
@@ -1133,10 +1038,10 @@
     "aliases": [
       "George"
     ],
-    "first_chapter": 13,
+    "first_chapter": 11,
     "total_mentions": 13,
     "per_chapter": {
-      "13": {
+      "11": {
         "mentions": 13,
         "snippet": "each time the influence of his friend, Sir George Burnwell, was enough"
       }
@@ -1155,10 +1060,10 @@
   {
     "canonical_name": "Mrs. Rucastle",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 13,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 13,
         "snippet": "and Mrs."
       }
@@ -1184,55 +1089,55 @@
         "mentions": 1,
         "snippet": "Turner has brought in the tray I will make it clear to you."
       },
-      "6": {
+      "4": {
         "mentions": 11,
         "snippet": "Turner."
       }
     },
     "co_occurs_with": {
+      "Duncan Ross": 2,
+      "Have": 2,
+      "Holmes": 2,
+      "Mr. Holmes": 2,
+      "Mr. Sherlock Holmes": 2,
+      "Scotland Yard": 2,
       "Sherlock Holmes": 2,
-      "Alice": 1,
-      "Assizes": 1,
-      "Australian": 1,
-      "Ballarat Gang": 1,
-      "Bermuda Dockyard": 1,
-      "Boscombe Pool": 1,
-      "Boscombe Valley": 1
+      "Watson": 2
     }
   },
   {
     "canonical_name": "League",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 12,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 12,
         "snippet": "vacancy open which entitles a member of the League to a salary of \u00a3 4 a"
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
     "canonical_name": "City",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 12,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 6,
         "snippet": "business at Coburg Square, near the City."
       },
-      "8": {
+      "6": {
         "mentions": 6,
         "snippet": "east of the City."
       }
@@ -1244,17 +1149,17 @@
       "Mr. Holmes": 2,
       "Mr. Sherlock Holmes": 2,
       "Sherlock Holmes": 2,
-      "Very": 2,
-      "Watson": 2
+      "Thank God": 2,
+      "Very": 2
     }
   },
   {
     "canonical_name": "Lascar",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 12,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 12,
         "snippet": "for my own purposes, and the rascally Lascar who runs it has sworn to"
       }
@@ -1275,10 +1180,10 @@
     "aliases": [
       "Oakshott"
     ],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 12,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 12,
         "snippet": "\u201cMrs."
       }
@@ -1297,10 +1202,10 @@
   {
     "canonical_name": "Roylott",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 12,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 12,
         "snippet": "Roylott was in India he married my mother, Mrs."
       }
@@ -1321,10 +1226,10 @@
     "aliases": [
       "Toller"
     ],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 12,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 12,
         "snippet": "There only remains Mrs."
       }
@@ -1341,50 +1246,80 @@
     }
   },
   {
-    "canonical_name": "Mr. Sherlock Holmes",
+    "canonical_name": "King",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 1,
     "total_mentions": 11,
     "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "he cried; \u201cI am the King."
+      },
+      "2": {
+        "mentions": 3,
+        "snippet": "that the King is capable of having her waylaid and searched."
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "a little souvenir from the King of Bohemia in return for my assistance"
+      }
+    },
+    "co_occurs_with": {
+      "Baker Street": 3,
+      "Dr. Watson": 3,
+      "Holmes": 3,
+      "Irene Adler": 3,
+      "Watson": 3,
+      "Bohemia": 2,
+      "Doctor": 2,
+      "Serpentine Avenue": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Sherlock Holmes",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 11,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "I had called upon my friend, Mr."
+      },
       "3": {
         "mentions": 4,
         "snippet": "\u201cMr."
       },
       "4": {
         "mentions": 2,
-        "snippet": "I had called upon my friend, Mr."
-      },
-      "6": {
-        "mentions": 2,
         "snippet": "are always so interested in Mr."
       },
-      "8": {
+      "6": {
         "mentions": 1,
         "snippet": "\u201cNow, Mr."
       },
-      "11": {
+      "9": {
         "mentions": 2,
         "snippet": "Of all the problems which have been submitted to my friend, Mr."
       }
     },
     "co_occurs_with": {
       "Sherlock Holmes": 5,
+      "Baker Street": 4,
       "Holmes": 4,
       "Mr. Holmes": 4,
-      "Baker Street": 3,
+      "Watson": 4,
+      "Dr. Watson": 3,
       "Scotland Yard": 3,
-      "Very": 3,
-      "Watson": 3,
-      "City": 2
+      "Very": 3
     }
   },
   {
     "canonical_name": "Peterson",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 11,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 11,
         "snippet": "You know Peterson,"
       }
@@ -1403,10 +1338,10 @@
   {
     "canonical_name": "Dr. Roylott",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 11,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 11,
         "snippet": "\u201cWhen Dr."
       }
@@ -1420,6 +1355,43 @@
       "Dr. Grimesby Roylott": 1,
       "Dr. Watson": 1,
       "General Stoner": 1
+    }
+  },
+  {
+    "canonical_name": "Irene Adler",
+    "aliases": [
+      "Adler",
+      "Irene"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "akin to love for Irene Adler."
+      },
+      "2": {
+        "mentions": 5,
+        "snippet": "perhaps the house, of Miss Irene Adler."
+      },
+      "3": {
+        "mentions": 2,
+        "snippet": "in the case of the Irene Adler papers."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "You allude to my attempt to recover the Irene Adler papers,"
+      }
+    },
+    "co_occurs_with": {
+      "Baker Street": 4,
+      "Holmes": 4,
+      "Watson": 4,
+      "Dr. Watson": 3,
+      "King": 3,
+      "Mary Sutherland": 3,
+      "Miss Mary Sutherland": 3,
+      "Mr. Holmes": 3
     }
   },
   {
@@ -1438,23 +1410,23 @@
       }
     },
     "co_occurs_with": {
+      "Baker Street": 2,
+      "Dr. Watson": 2,
+      "Holmes": 2,
       "Irene Adler": 2,
       "King": 2,
-      "Sherlock Holmes": 2,
-      "Arnsworth Castle": 1,
-      "Baker Street": 1,
-      "Darlington Substitution Scandal": 1,
-      "Edgeware Road": 1,
-      "Godfrey Norton": 1
+      "Mary Sutherland": 2,
+      "Miss Mary Sutherland": 2,
+      "Mr. Holmes": 2
     }
   },
   {
     "canonical_name": "Miss Turner",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 10,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 10,
         "snippet": "among them Miss Turner, the daughter of the neighbouring landowner, who"
       }
@@ -1475,14 +1447,14 @@
     "aliases": [
       "Lestrade"
     ],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 10,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 4,
         "snippet": "which may have been by no means obvious to Mr."
       },
-      "12": {
+      "10": {
         "mentions": 6,
         "snippet": "Mr."
       }
@@ -1503,14 +1475,14 @@
     "aliases": [
       "Hatherley"
     ],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 10,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 5,
         "snippet": "return to Hatherley Farm."
       },
-      "11": {
+      "9": {
         "mentions": 5,
         "snippet": "Hatherley\u2019s thumb, and that of Colonel Warburton\u2019s madness."
       }
@@ -1529,18 +1501,18 @@
   {
     "canonical_name": "Alice",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 10,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 4,
         "snippet": "Alice the shock."
       },
-      "12": {
+      "10": {
         "mentions": 3,
         "snippet": "\u201cAlice is her name."
       },
-      "14": {
+      "12": {
         "mentions": 3,
         "snippet": "that stood your friend, and that I was Miss Alice\u2019s friend too."
       }
@@ -1559,10 +1531,10 @@
   {
     "canonical_name": "Horsham",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 10,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 10,
         "snippet": "\u201cYes, from Horsham."
       }
@@ -1583,10 +1555,10 @@
     "aliases": [
       "Doran"
     ],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 10,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 10,
         "snippet": "son of the Duke of Balmoral, and Miss Hatty Doran, the only daughter of"
       }
@@ -1607,10 +1579,10 @@
     "aliases": [
       "Fowler"
     ],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 10,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 10,
         "snippet": "but it never really became bad for her until after she met Mr."
       }
@@ -1629,10 +1601,10 @@
   {
     "canonical_name": "Winchester",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 10,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 10,
         "snippet": "the far side of Winchester."
       }
@@ -1651,10 +1623,10 @@
   {
     "canonical_name": "Boscombe Pool",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 9,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 9,
         "snippet": "\u201cFrom Hatherley Farmhouse to the Boscombe Pool is a quarter of a mile,"
       }
@@ -1673,10 +1645,10 @@
   {
     "canonical_name": "Witness",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 9,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 9,
         "snippet": "\u201cWitness: He mumbled a few words, but I could only catch some allusion"
       }
@@ -1695,10 +1667,10 @@
   {
     "canonical_name": "Mr. Neville St",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 9,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 9,
         "snippet": "\u201cLast Monday Mr."
       }
@@ -1717,10 +1689,10 @@
   {
     "canonical_name": "Mrs. St",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 9,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 9,
         "snippet": "Mrs."
       }
@@ -1739,10 +1711,10 @@
   {
     "canonical_name": "Henry Baker",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 9,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 9,
         "snippet": "Henry Baker\u2019 was printed upon a small card which was tied to the bird\u2019s"
       }
@@ -1761,10 +1733,10 @@
   {
     "canonical_name": "Lysander Stark",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 9,
     "total_mentions": 9,
     "per_chapter": {
-      "11": {
+      "9": {
         "mentions": 9,
         "snippet": "Lysander Stark\u2019 engraved upon it."
       }
@@ -1785,10 +1757,10 @@
     "aliases": [
       "Backwater"
     ],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 9,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 9,
         "snippet": "SHERLOCK HOLMES,\u2014Lord Backwater tells me that I may"
       }
@@ -1807,10 +1779,10 @@
   {
     "canonical_name": "Lady St",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 9,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 9,
         "snippet": "\u201cLady St."
       }
@@ -1829,10 +1801,10 @@
   {
     "canonical_name": "George Burnwell",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 11,
     "total_mentions": 9,
     "per_chapter": {
-      "13": {
+      "11": {
         "mentions": 9,
         "snippet": "each time the influence of his friend, Sir George Burnwell, was enough"
       }
@@ -1851,66 +1823,66 @@
   {
     "canonical_name": "Jabez Wilson",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 8,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 8,
         "snippet": "Jabez Wilson here has been good enough to call upon me this morning,"
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
     "canonical_name": "Coburg Square",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 8,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 8,
         "snippet": "business at Coburg Square, near the City."
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
+      "Darlington Substitution Scandal": 1,
       "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1,
-      "Farrington Street": 1
+      "Dr. Watson": 1
     }
   },
   {
     "canonical_name": "Scotland Yard",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 8,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 2,
         "snippet": "Jones, of Scotland Yard?"
       },
-      "6": {
+      "4": {
         "mentions": 2,
         "snippet": "difficulty in recognising Lestrade, of Scotland Yard."
       },
-      "11": {
+      "9": {
         "mentions": 2,
         "snippet": "precious, so if you feel equal to it we shall go down to Scotland Yard"
       },
-      "12": {
+      "10": {
         "mentions": 2,
         "snippet": "Lestrade, of Scotland Yard, is"
       }
@@ -1929,32 +1901,32 @@
   {
     "canonical_name": "Miss Sutherland",
     "aliases": [],
-    "first_chapter": 5,
+    "first_chapter": 3,
     "total_mentions": 8,
     "per_chapter": {
-      "5": {
+      "3": {
         "mentions": 8,
         "snippet": "A flush stole over Miss Sutherland\u2019s face, and she picked nervously at"
       }
     },
     "co_occurs_with": {
       "Baker Street": 1,
+      "Bohemia": 1,
+      "Briony Lodge": 1,
+      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1,
-      "Irene Adler": 1,
-      "James Windibank": 1,
-      "King": 1
+      "Hosmer Angel": 1
     }
   },
   {
     "canonical_name": "The Coroner",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 8,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 8,
         "snippet": "\u201cThe Coroner: Did your father make any statement to you before he died?"
       }
@@ -1973,14 +1945,14 @@
   {
     "canonical_name": "Precisely",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 8,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 5,
         "snippet": "\u201cPrecisely."
       },
-      "13": {
+      "11": {
         "mentions": 3,
         "snippet": "\u201c\u2018Precisely."
       }
@@ -1999,10 +1971,10 @@
   {
     "canonical_name": "Dr. Grimesby Roylott",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 8,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 8,
         "snippet": "rumours as to the death of Dr."
       }
@@ -2021,10 +1993,10 @@
   {
     "canonical_name": "Grimesby Roylott",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 8,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 8,
         "snippet": "Grimesby Roylott which tend to make the"
       }
@@ -2043,10 +2015,10 @@
   {
     "canonical_name": "Stoke Moran",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 8,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 8,
         "snippet": "with the well-known Surrey family of the Roylotts of Stoke Moran."
       }
@@ -2078,36 +2050,36 @@
       }
     },
     "co_occurs_with": {
+      "Baker Street": 2,
+      "Dr. Watson": 2,
       "Holmes": 2,
       "Irene Adler": 2,
       "King": 2,
       "Serpentine Avenue": 2,
-      "Your Majesty": 2,
-      "Baker Street": 1,
-      "Bohemian": 1,
-      "Continental Gazetteer": 1
+      "There": 2,
+      "Watson": 2
     }
   },
   {
     "canonical_name": "Mr. Jabez Wilson",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 7,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 7,
         "snippet": "Now, Mr."
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
@@ -2115,18 +2087,18 @@
     "aliases": [
       "Court"
     ],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 7,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 3,
         "snippet": "offices of the League, 7 Pope\u2019s Court, Fleet Street."
       },
-      "5": {
+      "3": {
         "mentions": 1,
         "snippet": "Tottenham Court Road, and he left a tidy business behind him, which"
       },
-      "9": {
+      "7": {
         "mentions": 3,
         "snippet": "making his way homeward down Tottenham Court Road."
       }
@@ -2134,21 +2106,21 @@
     "co_occurs_with": {
       "Baker Street": 3,
       "Holmes": 3,
+      "Irene Adler": 3,
       "Mary Sutherland": 3,
       "Miss Mary Sutherland": 3,
       "Mr. Holmes": 3,
       "Sherlock Holmes": 3,
-      "Watson": 3,
-      "Dr. Watson": 2
+      "Watson": 3
     }
   },
   {
     "canonical_name": "Cooee",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 7,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 7,
         "snippet": "\u201cCooee!"
       }
@@ -2169,10 +2141,10 @@
     "aliases": [
       "Openshaw"
     ],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 7,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 7,
         "snippet": "\u201cMy name,\u201d said he, \u201cis John Openshaw, but my own affairs have, as far"
       }
@@ -2198,23 +2170,23 @@
         "mentions": 1,
         "snippet": "\u201cThis is my friend and colleague, Dr."
       },
-      "4": {
+      "2": {
         "mentions": 1,
         "snippet": "I ask you not merely because my friend Dr."
       },
-      "5": {
+      "3": {
         "mentions": 1,
         "snippet": "my friend, Dr."
       },
-      "8": {
+      "6": {
         "mentions": 1,
         "snippet": "\u201cThis is my friend, Dr."
       },
-      "10": {
+      "8": {
         "mentions": 1,
         "snippet": "This is my intimate friend and associate, Dr."
       },
-      "12": {
+      "10": {
         "mentions": 1,
         "snippet": "This is my friend and colleague, Dr."
       }
@@ -2227,7 +2199,7 @@
       "Sherlock Holmes": 5,
       "Very": 4,
       "Doctor": 3,
-      "There": 3
+      "Irene Adler": 3
     }
   },
   {
@@ -2240,41 +2212,41 @@
         "mentions": 3,
         "snippet": "Serpentine-mews, to a man."
       },
-      "12": {
+      "10": {
         "mentions": 3,
         "snippet": "\u201cYes, I have been dragging the Serpentine."
       }
     },
     "co_occurs_with": {
       "Baker Street": 2,
+      "Dr. Watson": 2,
+      "Have": 2,
+      "Holmes": 2,
+      "Mr. Holmes": 2,
+      "Scotland Yard": 2,
       "Sherlock Holmes": 2,
-      "Alice": 1,
-      "Alicia Whittington": 1,
-      "Aloysius Doran": 1,
-      "Apache Indians": 1,
-      "Arabian Nights": 1,
-      "Balmoral": 1
+      "Very": 2
     }
   },
   {
     "canonical_name": "Mary Sutherland",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 6,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 1,
         "snippet": "into the very simple problem presented by Miss Mary Sutherland, that"
       },
-      "5": {
+      "3": {
         "mentions": 3,
         "snippet": "to announce Miss Mary Sutherland, while the lady herself loomed behind"
       },
-      "9": {
+      "7": {
         "mentions": 1,
         "snippet": "to the singular case of Miss Mary Sutherland, and to the adventure of"
       },
-      "14": {
+      "12": {
         "mentions": 1,
         "snippet": "Miss Mary Sutherland, the problem connected with the man with the"
       }
@@ -2286,83 +2258,83 @@
       "Mr. Holmes": 4,
       "Sherlock Holmes": 4,
       "Watson": 4,
-      "Tottenham Court Road": 3,
-      "Dr. Watson": 2
+      "Irene Adler": 3,
+      "Tottenham Court Road": 3
     }
   },
   {
     "canonical_name": "Mr. Duncan Ross",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 6,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 6,
         "snippet": "\u201c\u2018My name,\u2019 said he, \u2018is Mr."
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
     "canonical_name": "John Clay",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 6,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 6,
         "snippet": "\u201cJohn Clay, the murderer, thief, smasher, and forger."
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
     "canonical_name": "Saxe",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 6,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 6,
         "snippet": "\u201cI went home to Saxe-Coburg Square, and I took the advice of my"
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
     "canonical_name": "Bristol",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 6,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 6,
         "snippet": "Bristol, and had only just returned upon the morning of last Monday,"
       }
@@ -2383,10 +2355,10 @@
     "aliases": [
       "Prendergast"
     ],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 6,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 6,
         "snippet": "I heard from Major Prendergast how"
       }
@@ -2405,10 +2377,10 @@
   {
     "canonical_name": "Nothing",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 6,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 6,
         "snippet": "Nothing less would bring a man out on"
       }
@@ -2427,10 +2399,10 @@
   {
     "canonical_name": "Lone",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 6,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 6,
         "snippet": "Barque _Lone Star_, Savannah, Georgia."
       }
@@ -2449,10 +2421,10 @@
   {
     "canonical_name": "Mr. Henry Baker",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 6,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 6,
         "snippet": "the goose came from Mr."
       }
@@ -2473,14 +2445,14 @@
     "aliases": [
       "Hudson"
     ],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 6,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 2,
         "snippet": "By the way, in view of recent occurrences, perhaps I ought to ask Mrs."
       },
-      "10": {
+      "8": {
         "mentions": 4,
         "snippet": "Mrs."
       }
@@ -2499,10 +2471,10 @@
   {
     "canonical_name": "Brixton Road",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 6,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 6,
         "snippet": "Oakshott, 117, Brixton Road\u2014249,\u201d read Holmes."
       }
@@ -2521,14 +2493,14 @@
   {
     "canonical_name": "Indeed",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 6,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 3,
         "snippet": "\u201cIndeed,\u201d said Holmes."
       },
-      "12": {
+      "10": {
         "mentions": 3,
         "snippet": "\u201cIndeed."
       }
@@ -2549,10 +2521,10 @@
     "aliases": [
       "Becher"
     ],
-    "first_chapter": 11,
+    "first_chapter": 9,
     "total_mentions": 6,
     "per_chapter": {
-      "11": {
+      "9": {
         "mentions": 6,
         "snippet": "\u201cDr."
       }
@@ -2571,10 +2543,10 @@
   {
     "canonical_name": "Lord Robert St",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 6,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 6,
         "snippet": "correct, very shortly take place, between Lord Robert St."
       }
@@ -2593,10 +2565,10 @@
   {
     "canonical_name": "Miss Alice",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 6,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 6,
         "snippet": "that stood your friend, and that I was Miss Alice\u2019s friend too."
       }
@@ -2615,10 +2587,10 @@
   {
     "canonical_name": "Copper Beeches",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 6,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 6,
         "snippet": "The Copper Beeches, five miles on"
       }
@@ -2637,32 +2609,32 @@
   {
     "canonical_name": "Red",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 5,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 5,
         "snippet": "Red-headed Men."
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
     "canonical_name": "Mr. Turner",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 5,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 5,
         "snippet": "a game-keeper in the employ of Mr."
       }
@@ -2681,10 +2653,10 @@
   {
     "canonical_name": "Assizes",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 5,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 5,
         "snippet": "referred the case to the next Assizes."
       }
@@ -2703,10 +2675,10 @@
   {
     "canonical_name": "Pondicherry",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 5,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 5,
         "snippet": "up, \u2018Pondicherry postmark!"
       }
@@ -2725,10 +2697,10 @@
   {
     "canonical_name": "Savannah",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 5,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 5,
         "snippet": "Barque _Lone Star_, Savannah, Georgia."
       }
@@ -2747,10 +2719,10 @@
   {
     "canonical_name": "Swandam Lane",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 5,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 5,
         "snippet": "Upper Swandam Lane is a vile alley lurking behind the high wharves"
       }
@@ -2769,10 +2741,10 @@
   {
     "canonical_name": "Mr. Hatherley",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 9,
     "total_mentions": 5,
     "per_chapter": {
-      "11": {
+      "9": {
         "mentions": 5,
         "snippet": "of Mr."
       }
@@ -2791,10 +2763,10 @@
   {
     "canonical_name": "Perhaps",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 9,
     "total_mentions": 5,
     "per_chapter": {
-      "11": {
+      "9": {
         "mentions": 5,
         "snippet": "\u201cPerhaps you had better not speak of the matter."
       }
@@ -2813,10 +2785,10 @@
   {
     "canonical_name": "Flora Millar",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 5,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 5,
         "snippet": "\u201cThat Miss Flora Millar, the lady who had caused the disturbance, has"
       }
@@ -2835,10 +2807,10 @@
   {
     "canonical_name": "Duke",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 5,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 5,
         "snippet": "of the Duke of Balmoral."
       }
@@ -2857,10 +2829,10 @@
   {
     "canonical_name": "Sir George",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 11,
     "total_mentions": 5,
     "per_chapter": {
-      "13": {
+      "11": {
         "mentions": 5,
         "snippet": "for you to hear: there has been an understanding between Sir George"
       }
@@ -2891,11 +2863,11 @@
       "Arnsworth Castle": 1,
       "Baker Street": 1,
       "Briony Lodge": 1,
+      "China": 1,
+      "City": 1,
+      "Coburg Square": 1,
       "Darlington Substitution Scandal": 1,
-      "Edgeware Road": 1,
-      "Inner Temple": 1,
-      "Irene Adler": 1,
-      "John Hare": 1
+      "Doctor": 1
     }
   },
   {
@@ -2903,45 +2875,45 @@
     "aliases": [
       "Jones"
     ],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 4,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 4,
         "snippet": "know Mr."
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
     "canonical_name": "China",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 4,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 4,
         "snippet": "that he is a Freemason, that he has been in China, and that he has done"
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "City": 1,
       "Coburg Square": 1,
+      "Darlington Substitution Scandal": 1,
       "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1,
-      "Farrington Street": 1
+      "Dr. Watson": 1
     }
   },
   {
@@ -2949,76 +2921,76 @@
     "aliases": [
       "Hardy"
     ],
-    "first_chapter": 5,
+    "first_chapter": 3,
     "total_mentions": 4,
     "per_chapter": {
-      "5": {
+      "3": {
         "mentions": 4,
         "snippet": "mother carried on with Mr."
       }
     },
     "co_occurs_with": {
       "Baker Street": 1,
+      "Bohemia": 1,
+      "Briony Lodge": 1,
+      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1,
-      "Irene Adler": 1,
-      "James Windibank": 1,
-      "King": 1
+      "Hosmer Angel": 1
     }
   },
   {
     "canonical_name": "Mr. Angel",
     "aliases": [],
-    "first_chapter": 5,
+    "first_chapter": 3,
     "total_mentions": 4,
     "per_chapter": {
-      "5": {
+      "3": {
         "mentions": 4,
         "snippet": "Hosmer\u2014Mr."
       }
     },
     "co_occurs_with": {
       "Baker Street": 1,
+      "Bohemia": 1,
+      "Briony Lodge": 1,
+      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1,
-      "Irene Adler": 1,
-      "James Windibank": 1,
-      "King": 1
+      "Hosmer Angel": 1
     }
   },
   {
     "canonical_name": "James Windibank",
     "aliases": [],
-    "first_chapter": 5,
+    "first_chapter": 3,
     "total_mentions": 4,
     "per_chapter": {
-      "5": {
+      "3": {
         "mentions": 4,
         "snippet": "James Windibank,\u201d said Holmes."
       }
     },
     "co_occurs_with": {
       "Baker Street": 1,
+      "Bohemia": 1,
+      "Briony Lodge": 1,
+      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1,
-      "Irene Adler": 1,
-      "King": 1,
-      "Leadenhall Street": 1
+      "Hosmer Angel": 1
     }
   },
   {
     "canonical_name": "Boscombe Valley",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 4,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 4,
         "snippet": "west of England in connection with Boscombe Valley tragedy."
       }
@@ -3037,10 +3009,10 @@
   {
     "canonical_name": "Colonel Openshaw",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 4,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 4,
         "snippet": "which had been destroyed by Colonel Openshaw."
       }
@@ -3059,10 +3031,10 @@
   {
     "canonical_name": "Certainly",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 4,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 4,
         "snippet": "\u201cCertainly, madam."
       }
@@ -3083,10 +3055,10 @@
     "aliases": [
       "Windigate"
     ],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 4,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 4,
         "snippet": "\u201c\u2018Sold to Mr."
       }
@@ -3105,10 +3077,10 @@
   {
     "canonical_name": "Which",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 4,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 4,
         "snippet": "\u201cWhich surely he restored to their owner?"
       }
@@ -3127,10 +3099,10 @@
   {
     "canonical_name": "Morcar",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 4,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 4,
         "snippet": "\u201cNot the Countess of Morcar\u2019s blue carbuncle!"
       }
@@ -3149,10 +3121,10 @@
   {
     "canonical_name": "Get",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 4,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 4,
         "snippet": "Get out of this!"
       }
@@ -3171,10 +3143,10 @@
   {
     "canonical_name": "Jem",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 4,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 4,
         "snippet": "\u201c\u2018Whatever were you doing with that bird, Jem?"
       }
@@ -3193,10 +3165,10 @@
   {
     "canonical_name": "Good",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 4,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 4,
         "snippet": "\u201cGood-morning, madam,\u201d said Holmes cheerily."
       }
@@ -3215,10 +3187,10 @@
   {
     "canonical_name": "Leatherhead",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 4,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 4,
         "snippet": "started from home before six, reached Leatherhead at twenty past, and"
       }
@@ -3239,10 +3211,10 @@
     "aliases": [
       "Ferguson"
     ],
-    "first_chapter": 11,
+    "first_chapter": 9,
     "total_mentions": 4,
     "per_chapter": {
-      "11": {
+      "9": {
         "mentions": 4,
         "snippet": "introduced to me as Mr."
       }
@@ -3261,10 +3233,10 @@
   {
     "canonical_name": "Mr. Aloysius Doran",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 4,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 4,
         "snippet": "furnished house at Lancaster Gate which has been taken by Mr."
       }
@@ -3283,10 +3255,10 @@
   {
     "canonical_name": "Aloysius Doran",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 4,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 4,
         "snippet": "Aloysius"
       }
@@ -3305,10 +3277,10 @@
   {
     "canonical_name": "Balmoral",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 4,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 4,
         "snippet": "of the Duke of Balmoral."
       }
@@ -3327,10 +3299,10 @@
   {
     "canonical_name": "Frisco",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 4,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 4,
         "snippet": "any longer, and he took me away to \u2019Frisco."
       }
@@ -3349,10 +3321,10 @@
   {
     "canonical_name": "Streatham",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 11,
     "total_mentions": 4,
     "per_chapter": {
-      "13": {
+      "11": {
         "mentions": 4,
         "snippet": "at Streatham, carrying the jewel with me."
       }
@@ -3371,10 +3343,10 @@
   {
     "canonical_name": "Colonel Spence Munro",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 4,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 4,
         "snippet": "Colonel Spence Munro, but two months ago the colonel received an"
       }
@@ -3393,10 +3365,10 @@
   {
     "canonical_name": "Miss Rucastle",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 4,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 4,
         "snippet": "saw you, and afterwards from your gesture, that Miss Rucastle was"
       }
@@ -3415,10 +3387,10 @@
   {
     "canonical_name": "Rucastles",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 4,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 4,
         "snippet": "Rucastles as I felt that I had put myself in the wrong by opening a"
       }
@@ -3450,14 +3422,14 @@
       }
     },
     "co_occurs_with": {
+      "Baker Street": 2,
       "Bohemia": 2,
+      "Dr. Watson": 2,
       "Holmes": 2,
       "Irene Adler": 2,
       "King": 2,
       "Serpentine Avenue": 2,
-      "Baker Street": 1,
-      "Bohemian": 1,
-      "Continental Gazetteer": 1
+      "There": 2
     }
   },
   {
@@ -3485,120 +3457,120 @@
   {
     "canonical_name": "Vincent Spaulding",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 3,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 3,
         "snippet": "\u201cHis name is Vincent Spaulding, and he\u2019s not such a youth, either."
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
     "canonical_name": "Not",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 3,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 3,
         "snippet": "\u201cNot at all."
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
     "canonical_name": "Pope",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 3,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 3,
         "snippet": "offices of the League, 7 Pope\u2019s Court, Fleet Street."
       }
     },
     "co_occurs_with": {
+      "Arnsworth Castle": 1,
       "Baker Street": 1,
+      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Doctor": 1,
-      "Dr. Watson": 1,
-      "Duncan Ross": 1,
-      "Ezekiah Hopkins": 1
+      "Darlington Substitution Scandal": 1,
+      "Doctor": 1
     }
   },
   {
     "canonical_name": "Mr. James Windibank",
     "aliases": [],
-    "first_chapter": 5,
+    "first_chapter": 3,
     "total_mentions": 3,
     "per_chapter": {
-      "5": {
+      "3": {
         "mentions": 3,
         "snippet": "\u201cThis is the girl\u2019s stepfather, Mr."
       }
     },
     "co_occurs_with": {
       "Baker Street": 1,
+      "Bohemia": 1,
+      "Briony Lodge": 1,
+      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1,
-      "Irene Adler": 1,
-      "James Windibank": 1,
-      "King": 1
+      "Hosmer Angel": 1
     }
   },
   {
     "canonical_name": "Leadenhall Street",
     "aliases": [],
-    "first_chapter": 5,
+    "first_chapter": 3,
     "total_mentions": 3,
     "per_chapter": {
-      "5": {
+      "3": {
         "mentions": 3,
         "snippet": "\u201cNo\u2014except that it was Leadenhall Street."
       }
     },
     "co_occurs_with": {
       "Baker Street": 1,
+      "Bohemia": 1,
+      "Briony Lodge": 1,
+      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1,
-      "Irene Adler": 1,
-      "James Windibank": 1,
-      "King": 1
+      "Hosmer Angel": 1
     }
   },
   {
     "canonical_name": "William Crowder",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 3,
         "snippet": "woman, whose name is not mentioned, and the other was William Crowder,"
       }
@@ -3617,10 +3589,10 @@
   {
     "canonical_name": "Australian",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 3,
         "snippet": "Charles McCarthy, who was also an ex-Australian."
       }
@@ -3639,10 +3611,10 @@
   {
     "canonical_name": "Victoria",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 3,
         "snippet": "old days in Victoria."
       }
@@ -3661,10 +3633,10 @@
   {
     "canonical_name": "Quite",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "6": {
+      "4": {
         "mentions": 3,
         "snippet": "\u201cQuite so; at the gold-mines, where, as I understand, Mr."
       }
@@ -3685,10 +3657,10 @@
     "aliases": [
       "Freebody"
     ],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 3,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 3,
         "snippet": "home to visit an old friend of his, Major Freebody, who is in command"
       }
@@ -3709,10 +3681,10 @@
     "aliases": [
       "Calhoun"
     ],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 3,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 3,
         "snippet": "\u201d Then he sealed it and addressed it to \u201cCaptain James Calhoun,"
       }
@@ -3731,10 +3703,10 @@
   {
     "canonical_name": "Florida",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 3,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 3,
         "snippet": "a planter in Florida, where he was reported to have done very well."
       }
@@ -3753,10 +3725,10 @@
   {
     "canonical_name": "Thank",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 3,
     "per_chapter": {
-      "7": {
+      "5": {
         "mentions": 3,
         "snippet": "\u201cThank you."
       }
@@ -3775,10 +3747,10 @@
   {
     "canonical_name": "Mr. St",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 3,
         "snippet": "\u201cYes; that is Mr."
       }
@@ -3797,10 +3769,10 @@
   {
     "canonical_name": "The Cedars",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 3,
         "snippet": "My room at The Cedars is a double-bedded one."
       }
@@ -3819,10 +3791,10 @@
   {
     "canonical_name": "Hugh Boone",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 3,
         "snippet": "he had no knowledge as to the doings of Hugh Boone, his lodger, and"
       }
@@ -3841,14 +3813,14 @@
   {
     "canonical_name": "Inspector Bradstreet",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 2,
         "snippet": "\u201cInspector Bradstreet, sir."
       },
-      "11": {
+      "9": {
         "mentions": 1,
         "snippet": "Holmes, the hydraulic engineer, Inspector Bradstreet, of Scotland Yard,"
       }
@@ -3867,10 +3839,10 @@
   {
     "canonical_name": "Had",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 3,
         "snippet": "Had I been recognised in that den my life would"
       }
@@ -3889,10 +3861,10 @@
   {
     "canonical_name": "Kent",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 3,
         "snippet": "\u201cNear Lee, in Kent."
       }
@@ -3911,10 +3883,10 @@
   {
     "canonical_name": "Gravesend",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 3,
         "snippet": "coarse one and was stamped with the Gravesend postmark and with the"
       }
@@ -3933,10 +3905,10 @@
   {
     "canonical_name": "Never",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 3,
         "snippet": "\u201cNever."
       }
@@ -3955,10 +3927,10 @@
   {
     "canonical_name": "Mr. Baker",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 3,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 3,
         "snippet": "\u201cPray take this chair by the fire, Mr."
       }
@@ -3977,10 +3949,10 @@
   {
     "canonical_name": "Kilburn",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 3,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 3,
         "snippet": "things about him; so I made up my mind to go right on to Kilburn, where"
       }
@@ -3999,10 +3971,10 @@
   {
     "canonical_name": "Surrey",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 3,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 3,
         "snippet": "with the well-known Surrey family of the Roylotts of Stoke Moran."
       }
@@ -4021,10 +3993,10 @@
   {
     "canonical_name": "Waterloo",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 3,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 3,
         "snippet": "came in by the first train to Waterloo."
       }
@@ -4043,10 +4015,10 @@
   {
     "canonical_name": "India",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 3,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 3,
         "snippet": "Roylott was in India he married my mother, Mrs."
       }
@@ -4065,10 +4037,10 @@
   {
     "canonical_name": "Julia",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 3,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 3,
         "snippet": "Julia and I were twins, and we were only two years old at the time of"
       }
@@ -4087,10 +4059,10 @@
   {
     "canonical_name": "Harrow",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 3,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 3,
         "snippet": "Honoria Westphail, who lives near Harrow, and we were occasionally"
       }
@@ -4109,10 +4081,10 @@
   {
     "canonical_name": "With",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 3,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 3,
         "snippet": "With your"
       }
@@ -4133,10 +4105,10 @@
     "aliases": [
       "Warburton"
     ],
-    "first_chapter": 11,
+    "first_chapter": 9,
     "total_mentions": 3,
     "per_chapter": {
-      "11": {
+      "9": {
         "mentions": 3,
         "snippet": "Hatherley\u2019s thumb, and that of Colonel Warburton\u2019s madness."
       }
@@ -4155,10 +4127,10 @@
   {
     "canonical_name": "Berkshire",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 9,
     "total_mentions": 3,
     "per_chapter": {
-      "11": {
+      "9": {
         "mentions": 3,
         "snippet": "\u201c\u2018To Eyford, in Berkshire."
       }
@@ -4177,10 +4149,10 @@
   {
     "canonical_name": "Come",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 9,
     "total_mentions": 3,
     "per_chapter": {
-      "11": {
+      "9": {
         "mentions": 3,
         "snippet": "\u201c\u2018Come!"
       }
@@ -4199,10 +4171,10 @@
   {
     "canonical_name": "Englishman",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 9,
     "total_mentions": 3,
     "per_chapter": {
-      "11": {
+      "9": {
         "mentions": 3,
         "snippet": "Englishman, and there isn\u2019t a man in the parish who has a better-lined"
       }
@@ -4221,10 +4193,10 @@
   {
     "canonical_name": "Robert St",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 3,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 3,
         "snippet": "correct, very shortly take place, between Lord Robert St."
       }
@@ -4243,10 +4215,10 @@
   {
     "canonical_name": "Hatty Doran",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 3,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 3,
         "snippet": "son of the Duke of Balmoral, and Miss Hatty Doran, the only daughter of"
       }
@@ -4265,10 +4237,10 @@
   {
     "canonical_name": "Miss Doran",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 3,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 3,
         "snippet": "Miss Doran, whose graceful figure and striking face"
       }
@@ -4289,10 +4261,10 @@
     "aliases": [
       "Eustace"
     ],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 3,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 3,
         "snippet": "Lord Eustace and Lady Clara St."
       }
@@ -4311,10 +4283,10 @@
   {
     "canonical_name": "Miss Flora Millar",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 3,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 3,
         "snippet": "\u201cThat Miss Flora Millar, the lady who had caused the disturbance, has"
       }
@@ -4333,10 +4305,10 @@
   {
     "canonical_name": "California",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 3,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 3,
         "snippet": "with Miss Hatty Doran, the fascinating daughter of a California"
       }
@@ -4355,10 +4327,10 @@
   {
     "canonical_name": "Did",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 3,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 3,
         "snippet": "\u201cDid you become engaged then?"
       }
@@ -4377,10 +4349,10 @@
   {
     "canonical_name": "Still",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 3,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 3,
         "snippet": "Still, of course, in America they look upon these"
       }
@@ -4399,10 +4371,10 @@
   {
     "canonical_name": "Miss Holder",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 11,
     "total_mentions": 3,
     "per_chapter": {
-      "13": {
+      "11": {
         "mentions": 3,
         "snippet": "Miss Holder."
       }
@@ -4421,10 +4393,10 @@
   {
     "canonical_name": "Boots",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 11,
     "total_mentions": 3,
     "per_chapter": {
-      "13": {
+      "11": {
         "mentions": 3,
         "snippet": "found they led to the hall window, where Boots had worn all the snow"
       }
@@ -4445,10 +4417,10 @@
     "aliases": [
       "Southerton"
     ],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 3,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 3,
         "snippet": "of Lord Southerton\u2019s preserves."
       }
@@ -4467,10 +4439,10 @@
   {
     "canonical_name": "Hampshire",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 3,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 3,
         "snippet": "\u201c\u2018Hampshire."
       }
@@ -4489,10 +4461,10 @@
   {
     "canonical_name": "Southampton",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 3,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 3,
         "snippet": "on the fourth a field which slopes down to the Southampton high road,"
       }

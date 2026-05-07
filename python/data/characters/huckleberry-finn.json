@@ -2,94 +2,94 @@
   {
     "canonical_name": "Jim",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 285,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 16,
         "snippet": "nigger, named Jim, was setting in the kitchen door; we could see him"
       },
-      "11": {
+      "9": {
         "mentions": 11,
         "snippet": "bunched together, and Jim could stand up straight in it."
       },
-      "13": {
+      "11": {
         "mentions": 4,
         "snippet": "was done by a runaway nigger named Jim."
       },
-      "16": {
+      "14": {
         "mentions": 6,
         "snippet": "I told Jim all about what happened inside the wreck and at the"
       },
-      "17": {
+      "15": {
         "mentions": 16,
         "snippet": "and I was all right if that was Jim and not some other raftsman"
       },
-      "18": {
+      "16": {
         "mentions": 28,
         "snippet": "Jim said if the"
       },
-      "20": {
+      "18": {
         "mentions": 10,
         "snippet": "there asleep\u2014and, by jings, it was my old Jim!"
       },
-      "21": {
+      "19": {
         "mentions": 13,
         "snippet": "Jim said he believed it was spirits; but I says:"
       },
-      "22": {
+      "20": {
         "mentions": 18,
         "snippet": "running\u2014was Jim a runaway nigger?"
       },
-      "25": {
+      "23": {
         "mentions": 9,
         "snippet": "raft we all had a supper; and by-and-by, about midnight, they made Jim"
       },
-      "31": {
+      "29": {
         "mentions": 3,
         "snippet": "\u201cOut with you, Jim, and set her loose!"
       },
-      "32": {
+      "30": {
         "mentions": 5,
         "snippet": "stopped running till I found the canoe; and when I got here I told Jim"
       },
-      "33": {
+      "31": {
         "mentions": 17,
         "snippet": "Jim and me got uneasy."
       },
-      "35": {
+      "33": {
         "mentions": 3,
         "snippet": "Watson\u2019s Jim."
       },
-      "36": {
+      "34": {
         "mentions": 17,
         "snippet": "know where Jim is."
       },
-      "37": {
+      "35": {
         "mentions": 16,
         "snippet": "there\u2019s Jim chained by one leg, with a ten-foot chain, to the leg of"
       },
-      "38": {
+      "36": {
         "mentions": 23,
         "snippet": "said he was right behind Jim\u2019s bed now, and we\u2019d dig in under it, and"
       },
-      "39": {
+      "37": {
         "mentions": 4,
         "snippet": "whilst she was a-giving us our sailing orders, and Jim got it all"
       },
-      "40": {
+      "38": {
         "mentions": 26,
         "snippet": "Jim allowed the inscription was going to be the toughest of all."
       },
-      "41": {
+      "39": {
         "mentions": 10,
         "snippet": "things; and you never see a cabin as blithesome as Jim\u2019s was when"
       },
-      "42": {
+      "40": {
         "mentions": 12,
         "snippet": "I\u2019ll go and stuff the straw into Jim\u2019s clothes to represent his"
       },
-      "44": {
+      "42": {
         "mentions": 18,
         "snippet": "doctor; and Jim, in _her_ calico dress, with his hands tied behind him;"
       }
@@ -110,42 +110,42 @@
     "aliases": [
       "Sally"
     ],
-    "first_chapter": 34,
+    "first_chapter": 32,
     "total_mentions": 119,
     "per_chapter": {
-      "34": {
+      "32": {
         "mentions": 6,
         "snippet": "\u201cDon\u2019t say yes\u2019m\u2014say Aunt Sally."
       },
-      "35": {
+      "33": {
         "mentions": 14,
         "snippet": "In about half an hour Tom\u2019s wagon drove up to the front stile, and Aunt"
       },
-      "37": {
+      "35": {
         "mentions": 3,
         "snippet": "with Aunt Sally, just as sure as you\u2019re born."
       },
-      "38": {
+      "36": {
         "mentions": 3,
         "snippet": "him, and Aunt Sally come in to see if he was comfortable and had plenty"
       },
-      "39": {
+      "37": {
         "mentions": 11,
         "snippet": "in Aunt Sally\u2019s apron-pocket which was hanging on a chair, and t\u2019other"
       },
-      "41": {
+      "39": {
         "mentions": 18,
         "snippet": "put it in a safe place under Aunt Sally\u2019s bed."
       },
-      "42": {
+      "40": {
         "mentions": 15,
         "snippet": "half-past eleven, and Tom put on Aunt Sally\u2019s dress that he stole and"
       },
-      "43": {
+      "41": {
         "mentions": 8,
         "snippet": "must come along, and let Aunt Sally see we was all right."
       },
-      "44": {
+      "42": {
         "mentions": 41,
         "snippet": "I judged I\u2019d get the doctor\u2019s yarn to Aunt Sally somehow or other as"
       }
@@ -154,10 +154,10 @@
       "Jim": 7,
       "Uncle Silas": 7,
       "Tom Sawyer": 5,
-      "Sid": 3,
       "Phelps": 3,
+      "Sid": 3,
       "Tom": 3,
-      "Miss Watson": 2,
+      "Archibald Nichols": 2,
       "Huck Finn": 2
     }
   },
@@ -166,67 +166,63 @@
     "aliases": [
       "Watson"
     ],
-    "first_chapter": 2,
-    "total_mentions": 70,
+    "first_chapter": 1,
+    "total_mentions": 67,
     "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "Miss Watson"
-      },
-      "3": {
+      "1": {
         "mentions": 7,
         "snippet": "Her sister, Miss Watson, a tolerable slim old maid, with goggles on,"
       },
-      "4": {
+      "2": {
         "mentions": 4,
         "snippet": "Miss Watson\u2019s big"
       },
-      "5": {
+      "3": {
         "mentions": 20,
         "snippet": "Well, I got a good going-over in the morning from old Miss Watson on"
       },
-      "6": {
+      "4": {
         "mentions": 5,
         "snippet": "shoulder and keep off the bad luck, but Miss Watson was in ahead of me,"
       },
-      "8": {
+      "6": {
         "mentions": 3,
         "snippet": "forever bothering over a book, and have old Miss Watson pecking at you"
       },
-      "10": {
+      "8": {
         "mentions": 6,
         "snippet": "himself and hove off the blanket, and it was Miss Watson\u2019s Jim!"
       },
-      "16": {
+      "14": {
         "mentions": 3,
         "snippet": "the reward, and then Miss Watson would sell him South, sure."
       },
-      "18": {
+      "16": {
         "mentions": 6,
         "snippet": "poor Miss Watson done to you that you could see her nigger go off right"
       },
-      "33": {
+      "31": {
         "mentions": 5,
         "snippet": "tell Miss Watson where he was."
       },
-      "35": {
+      "33": {
         "mentions": 2,
         "snippet": "a-trying to steal out of slavery, and his name is _Jim_\u2014old Miss"
       },
-      "44": {
+      "42": {
         "mentions": 6,
         "snippet": "Miss Watson died two months ago, and she was ashamed she ever was going"
       }
     },
     "co_occurs_with": {
-      "Tom Sawyer": 8,
+      "Tom Sawyer": 7,
       "Jim": 6,
-      "Huck Finn": 4,
       "Judge Thatcher": 4,
-      "Uncle Silas": 3,
       "Aunt Polly": 3,
+      "Huck Finn": 3,
       "Jo Harper": 3,
-      "Huck": 3
+      "Huck": 3,
+      "Archibald Nichols": 2
     }
   },
   {
@@ -234,55 +230,51 @@
     "aliases": [
       "Silas"
     ],
-    "first_chapter": 2,
-    "total_mentions": 55,
+    "first_chapter": 32,
+    "total_mentions": 53,
     "per_chapter": {
-      "2": {
-        "mentions": 2,
-        "snippet": "Uncle Silas in Danger"
-      },
-      "34": {
+      "32": {
         "mentions": 3,
         "snippet": "last Christmas your uncle Silas was coming up from Newrleans on the old"
       },
-      "35": {
+      "33": {
         "mentions": 2,
         "snippet": "Uncle Silas he asked a pretty long"
       },
-      "36": {
+      "34": {
         "mentions": 3,
         "snippet": "\u201cI wonder if Uncle Silas is going to hang this nigger."
       },
-      "37": {
+      "35": {
         "mentions": 5,
         "snippet": "And Uncle Silas he trusts everybody; sends the key to the"
       },
-      "38": {
+      "36": {
         "mentions": 3,
         "snippet": "and when Jim told him Uncle Silas come in every day or two to pray with"
       },
-      "39": {
+      "37": {
         "mentions": 17,
         "snippet": "we stuck in the band of Uncle Silas\u2019s hat, which was on the bureau,"
       },
-      "43": {
+      "41": {
         "mentions": 9,
         "snippet": "and turned the corner, and nearly rammed my head into Uncle Silas\u2019s"
       },
-      "44": {
+      "42": {
         "mentions": 11,
         "snippet": "old doctor and Uncle Silas followed after Tom into the house."
       }
     },
     "co_occurs_with": {
-      "Tom Sawyer": 7,
       "Aunt Sally": 7,
       "Jim": 6,
-      "Huck Finn": 4,
-      "Miss Watson": 3,
-      "Sid": 3,
+      "Tom Sawyer": 6,
+      "Huck Finn": 3,
       "Phelps": 3,
-      "Archibald Nichols": 2
+      "Sid": 3,
+      "Archibald Nichols": 2,
+      "Miss Watson": 2
     }
   },
   {
@@ -290,30 +282,30 @@
     "aliases": [
       "Mary"
     ],
-    "first_chapter": 26,
+    "first_chapter": 24,
     "total_mentions": 40,
     "per_chapter": {
-      "26": {
+      "24": {
         "mentions": 3,
         "snippet": "be much company for him, except Mary Jane, the red-headed one; and so"
       },
-      "27": {
+      "25": {
         "mentions": 2,
         "snippet": "The king he spread his arms, and Mary Jane she jumped for"
       },
-      "28": {
+      "26": {
         "mentions": 5,
         "snippet": "Well, when they was all gone the king he asks Mary Jane how they was"
       },
-      "29": {
+      "27": {
         "mentions": 4,
         "snippet": "The person coming was Mary Jane."
       },
-      "30": {
+      "28": {
         "mentions": 23,
         "snippet": "and I see Mary Jane setting by her old hair trunk, which was open and"
       },
-      "31": {
+      "29": {
         "mentions": 3,
         "snippet": "As we went by our house I wished I hadn\u2019t sent Mary Jane out of town;"
       }
@@ -332,14 +324,14 @@
   {
     "canonical_name": "Buck",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 17,
     "total_mentions": 37,
     "per_chapter": {
-      "19": {
+      "17": {
         "mentions": 10,
         "snippet": "go and wake up Buck and tell him\u2014oh, here he is himself."
       },
-      "20": {
+      "18": {
         "mentions": 27,
         "snippet": "tumblers, and give it to me and Buck, and we drank to the old people"
       }
@@ -358,26 +350,26 @@
   {
     "canonical_name": "Tom",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 17,
     "total_mentions": 36,
     "per_chapter": {
-      "19": {
+      "17": {
         "mentions": 3,
         "snippet": "Bob and Tom, some of you, and fetch the guns."
       },
-      "20": {
+      "18": {
         "mentions": 5,
         "snippet": "Then Tom and Bob went to the sideboard"
       },
-      "39": {
+      "37": {
         "mentions": 9,
         "snippet": "shingle-nails that Tom said would be handy for a prisoner to scrabble"
       },
-      "41": {
+      "39": {
         "mentions": 11,
         "snippet": "Tom said all women was just so."
       },
-      "43": {
+      "41": {
         "mentions": 8,
         "snippet": "him, and keep him, and shove out down the river; and when Tom\u2019s done"
       }
@@ -396,108 +388,104 @@
   {
     "canonical_name": "Tom Sawyer",
     "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 34,
+    "first_chapter": 1,
+    "total_mentions": 33,
     "per_chapter": {
-      "2": {
-        "mentions": 1,
-        "snippet": "\u201cIt was Tom Sawyer\u201d"
-      },
-      "3": {
+      "1": {
         "mentions": 3,
         "snippet": "Adventures of Tom Sawyer; but that ain\u2019t no matter."
       },
-      "4": {
+      "2": {
         "mentions": 4,
         "snippet": "\u201cNow, we\u2019ll start this band of robbers and call it Tom Sawyer\u2019s Gang."
       },
-      "5": {
+      "3": {
         "mentions": 2,
         "snippet": "I didn\u2019t see no di\u2019monds, and I told Tom Sawyer so."
       },
-      "9": {
+      "7": {
         "mentions": 2,
         "snippet": "I did wish Tom Sawyer was"
       },
-      "10": {
+      "8": {
         "mentions": 1,
         "snippet": "and Judge Thatcher, and Bessie Thatcher, and Jo Harper, and Tom Sawyer,"
       },
-      "13": {
+      "11": {
         "mentions": 1,
         "snippet": "She told about me and Tom Sawyer finding the six thousand"
       },
-      "14": {
+      "12": {
         "mentions": 3,
         "snippet": "Do you reckon Tom Sawyer would ever go by this thing?"
       },
-      "30": {
+      "28": {
         "mentions": 1,
         "snippet": "reckoned Tom Sawyer couldn\u2019t a done it no neater himself."
       },
-      "33": {
+      "31": {
         "mentions": 1,
         "snippet": "slave, and so I\u2019d better write a letter to Tom Sawyer and tell him to"
       },
-      "34": {
+      "32": {
         "mentions": 2,
         "snippet": "Being Tom Sawyer was easy and"
       },
-      "35": {
+      "33": {
         "mentions": 3,
         "snippet": "wagon coming, and sure enough it was Tom Sawyer, and I stopped and"
       },
-      "36": {
+      "34": {
         "mentions": 3,
         "snippet": "If I had Tom Sawyer\u2019s head I"
       },
-      "37": {
+      "35": {
         "mentions": 2,
         "snippet": "\u201cWhy, Tom Sawyer, how you talk,\u201d I says; \u201cJim ain\u2019t got no use for a"
       },
-      "38": {
+      "36": {
         "mentions": 2,
         "snippet": "Tom Sawyer."
       },
-      "44": {
+      "42": {
         "mentions": 3,
         "snippet": "It was Tom Sawyer on a mattress; and that old"
       }
     },
     "co_occurs_with": {
-      "Miss Watson": 8,
       "Jim": 8,
-      "Huck Finn": 7,
-      "Uncle Silas": 7,
+      "Miss Watson": 7,
+      "Huck Finn": 6,
+      "Uncle Silas": 6,
       "Aunt Sally": 5,
       "Judge Thatcher": 4,
       "Aunt Polly": 3,
-      "Jo Harper": 3
+      "Phelps": 3
     }
   },
   {
     "canonical_name": "Huck",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 30,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 5,
         "snippet": "\u201cBut looky here, Huck, who wuz it dat \u2019uz killed in dat shanty ef it"
       },
-      "16": {
+      "14": {
         "mentions": 5,
         "snippet": "En what dey got to do, Huck?"
       },
-      "18": {
+      "16": {
         "mentions": 10,
         "snippet": "\u201cWe\u2019s safe, Huck, we\u2019s safe!"
       },
-      "25": {
+      "23": {
         "mentions": 7,
         "snippet": "\u201cDon\u2019t it s\u2019prise you de way dem kings carries on, Huck?"
       },
-      "42": {
+      "40": {
         "mentions": 3,
         "snippet": "Why, Huck, if it was to do over"
       }
@@ -516,14 +504,14 @@
   {
     "canonical_name": "Miss Mary Jane",
     "aliases": [],
-    "first_chapter": 29,
+    "first_chapter": 27,
     "total_mentions": 29,
     "per_chapter": {
-      "29": {
+      "27": {
         "mentions": 2,
         "snippet": "a-near your room since Miss Mary Jane took you and the duke and showed"
       },
-      "30": {
+      "28": {
         "mentions": 27,
         "snippet": "\u201cMiss Mary Jane, you can\u2019t a-bear to see people in trouble, and _I_"
       }
@@ -544,18 +532,18 @@
     "aliases": [
       "Polly"
     ],
-    "first_chapter": 3,
+    "first_chapter": 1,
     "total_mentions": 27,
     "per_chapter": {
-      "3": {
+      "1": {
         "mentions": 7,
         "snippet": "never seen anybody but lied one time or another, without it was Aunt"
       },
-      "10": {
+      "8": {
         "mentions": 3,
         "snippet": "and his old Aunt Polly, and Sid and Mary, and plenty more."
       },
-      "44": {
+      "42": {
         "mentions": 17,
         "snippet": "out, and in a little while Tom\u2019s Aunt Polly shook herself loose and"
       }
@@ -564,11 +552,11 @@
       "Judge Thatcher": 3,
       "Miss Watson": 3,
       "Tom Sawyer": 3,
-      "Don": 1,
-      "Huckleberry": 1,
-      "Mark Twain": 1,
-      "Moses": 1,
-      "Mr. Mark Twain": 1
+      "Archibald Nichols": 1,
+      "Aunt Sally": 1,
+      "Aunty": 1,
+      "Back Country": 1,
+      "Behind the Wood": 1
     }
   },
   {
@@ -576,10 +564,10 @@
     "aliases": [
       "Sophia"
     ],
-    "first_chapter": 20,
+    "first_chapter": 18,
     "total_mentions": 23,
     "per_chapter": {
-      "20": {
+      "18": {
         "mentions": 23,
         "snippet": "So was her sister, Miss Sophia, but it was a different kind."
       }
@@ -598,18 +586,18 @@
   {
     "canonical_name": "The",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 11,
     "total_mentions": 22,
     "per_chapter": {
-      "13": {
+      "11": {
         "mentions": 7,
         "snippet": "\u201cThe nigger run off the very night Huck Finn was killed."
       },
-      "32": {
+      "30": {
         "mentions": 10,
         "snippet": "The man that had a-holt of me was very good to me, and kept saying he"
       },
-      "44": {
+      "42": {
         "mentions": 5,
         "snippet": "The old man was uptown again before breakfast, but couldn\u2019t get no"
       }
@@ -619,27 +607,27 @@
       "Huck Finn": 2,
       "Judge Thatcher": 2,
       "Tom Sawyer": 2,
+      "Archibald Nichols": 1,
       "Aunt Polly": 1,
       "Aunt Sally": 1,
-      "Aunty": 1,
-      "Miss Watson": 1
+      "Aunty": 1
     }
   },
   {
     "canonical_name": "Sid",
     "aliases": [],
-    "first_chapter": 35,
+    "first_chapter": 33,
     "total_mentions": 21,
     "per_chapter": {
-      "35": {
+      "33": {
         "mentions": 3,
         "snippet": "\u201cTom, didn\u2019t _you_ think Aunt Sally \u2019d open out her arms and say, \u2018Sid"
       },
-      "43": {
+      "41": {
         "mentions": 13,
         "snippet": "\u201cWhy, me and Sid, and\u2014and\u2014and _the guns;_ that\u2019s what I mean."
       },
-      "44": {
+      "42": {
         "mentions": 5,
         "snippet": "me\u2014explanations, I mean, of how I forgot to mention about Sid being"
       }
@@ -647,12 +635,12 @@
     "co_occurs_with": {
       "Aunt Sally": 3,
       "Uncle Silas": 3,
+      "Archibald Nichols": 2,
       "Jim": 2,
       "Miss Watson": 2,
-      "Tom Sawyer": 2,
+      "Mr. Archibald Nichols": 2,
       "Phelps": 2,
-      "Archibald Nichols": 1,
-      "Mr. Archibald Nichols": 1
+      "Tom Sawyer": 2
     }
   },
   {
@@ -660,10 +648,10 @@
     "aliases": [
       "Hooker"
     ],
-    "first_chapter": 15,
+    "first_chapter": 13,
     "total_mentions": 16,
     "per_chapter": {
-      "15": {
+      "13": {
         "mentions": 16,
         "snippet": "\u201cWhy, pap and mam and sis and Miss Hooker; and if you\u2019d take your"
       }
@@ -679,10 +667,10 @@
   {
     "canonical_name": "Boggs",
     "aliases": [],
-    "first_chapter": 23,
+    "first_chapter": 21,
     "total_mentions": 14,
     "per_chapter": {
-      "23": {
+      "21": {
         "mentions": 14,
         "snippet": "\u201cHere comes old Boggs!"
       }
@@ -699,62 +687,12 @@
     }
   },
   {
-    "canonical_name": "Huck Finn",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 13,
-    "per_chapter": {
-      "2": {
-        "mentions": 1,
-        "snippet": "\u2014Yours Truly, Huck Finn."
-      },
-      "4": {
-        "mentions": 1,
-        "snippet": "\u201cHere\u2019s Huck Finn, he hain\u2019t got no family; what you going to do \u2019bout"
-      },
-      "5": {
-        "mentions": 2,
-        "snippet": "\u201cHow you talk, Huck Finn."
-      },
-      "13": {
-        "mentions": 2,
-        "snippet": "Hookerville, but we don\u2019t know who \u2019twas that killed Huck Finn."
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "\u201cHuck\u2014Huck Finn, you look me in de eye; look me in de eye."
-      },
-      "36": {
-        "mentions": 1,
-        "snippet": "complicated than _that_, Huck Finn."
-      },
-      "37": {
-        "mentions": 4,
-        "snippet": "\u201cWell, if that ain\u2019t just like you, Huck Finn."
-      },
-      "44": {
-        "mentions": 1,
-        "snippet": "bed, Huck Finn."
-      }
-    },
-    "co_occurs_with": {
-      "Tom Sawyer": 7,
-      "Jim": 6,
-      "Miss Watson": 4,
-      "Uncle Silas": 4,
-      "Ben Rogers": 2,
-      "Jo Harper": 2,
-      "New Orleans": 2,
-      "Aunt Sally": 2
-    }
-  },
-  {
     "canonical_name": "Mars Tom",
     "aliases": [],
-    "first_chapter": 40,
+    "first_chapter": 38,
     "total_mentions": 13,
     "per_chapter": {
-      "40": {
+      "38": {
         "mentions": 13,
         "snippet": "\u201cWhy, Mars Tom, I hain\u2019t got no coat o\u2019 arm; I hain\u2019t got nuffn but"
       }
@@ -769,20 +707,66 @@
     }
   },
   {
-    "canonical_name": "Harvey",
+    "canonical_name": "Huck Finn",
     "aliases": [],
-    "first_chapter": 26,
+    "first_chapter": 2,
     "total_mentions": 12,
     "per_chapter": {
-      "26": {
+      "2": {
+        "mentions": 1,
+        "snippet": "\u201cHere\u2019s Huck Finn, he hain\u2019t got no family; what you going to do \u2019bout"
+      },
+      "3": {
+        "mentions": 2,
+        "snippet": "\u201cHow you talk, Huck Finn."
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "Hookerville, but we don\u2019t know who \u2019twas that killed Huck Finn."
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "\u201cHuck\u2014Huck Finn, you look me in de eye; look me in de eye."
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "complicated than _that_, Huck Finn."
+      },
+      "35": {
+        "mentions": 4,
+        "snippet": "\u201cWell, if that ain\u2019t just like you, Huck Finn."
+      },
+      "42": {
+        "mentions": 1,
+        "snippet": "bed, Huck Finn."
+      }
+    },
+    "co_occurs_with": {
+      "Jim": 6,
+      "Tom Sawyer": 6,
+      "Miss Watson": 3,
+      "Uncle Silas": 3,
+      "Aunt Sally": 2,
+      "Judge Thatcher": 2,
+      "The": 2,
+      "Ben Rogers": 2
+    }
+  },
+  {
+    "canonical_name": "Harvey",
+    "aliases": [],
+    "first_chapter": 24,
+    "total_mentions": 12,
+    "per_chapter": {
+      "24": {
         "mentions": 6,
         "snippet": "Harvey and"
       },
-      "28": {
+      "26": {
         "mentions": 3,
         "snippet": "do for Uncle William, and she\u2019d give her own room to Uncle Harvey,"
       },
-      "30": {
+      "28": {
         "mentions": 3,
         "snippet": "Harvey and\u2014\u201d"
       }
@@ -803,10 +787,10 @@
     "aliases": [
       "Lothrop"
     ],
-    "first_chapter": 30,
+    "first_chapter": 28,
     "total_mentions": 12,
     "per_chapter": {
-      "30": {
+      "28": {
         "mentions": 12,
         "snippet": "\u201cYes; Mr."
       }
@@ -825,10 +809,10 @@
   {
     "canonical_name": "Cairo",
     "aliases": [],
-    "first_chapter": 18,
+    "first_chapter": 16,
     "total_mentions": 11,
     "per_chapter": {
-      "18": {
+      "16": {
         "mentions": 11,
         "snippet": "talked about Cairo, and wondered whether we would know it when we got"
       }
@@ -845,14 +829,14 @@
   {
     "canonical_name": "Uncle Harvey",
     "aliases": [],
-    "first_chapter": 28,
+    "first_chapter": 26,
     "total_mentions": 11,
     "per_chapter": {
-      "28": {
+      "26": {
         "mentions": 6,
         "snippet": "do for Uncle William, and she\u2019d give her own room to Uncle Harvey,"
       },
-      "30": {
+      "28": {
         "mentions": 5,
         "snippet": "\u201cI\u2019ll go to Uncle"
       }
@@ -871,18 +855,18 @@
   {
     "canonical_name": "All",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 17,
     "total_mentions": 10,
     "per_chapter": {
-      "19": {
+      "17": {
         "mentions": 3,
         "snippet": "\u201cAll ready."
       },
-      "20": {
+      "18": {
         "mentions": 4,
         "snippet": "\u201cAll right; trot ahead."
       },
-      "23": {
+      "21": {
         "mentions": 3,
         "snippet": "All the stores was along one street."
       }
@@ -901,18 +885,18 @@
   {
     "canonical_name": "Don",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 1,
     "total_mentions": 9,
     "per_chapter": {
-      "3": {
+      "1": {
         "mentions": 3,
         "snippet": "\u201cDon\u2019t put your feet up there, Huckleberry;\u201d and \u201cDon\u2019t scrunch up like"
       },
-      "20": {
+      "18": {
         "mentions": 3,
         "snippet": "Don\u2019t you know what a feud is?"
       },
-      "36": {
+      "34": {
         "mentions": 3,
         "snippet": "\u201cDon\u2019t you reckon I know what I\u2019m about?"
       }
@@ -931,18 +915,18 @@
   {
     "canonical_name": "Illinois",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 9,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 3,
         "snippet": "changed to the Illinois edge of the island to see what luck I could"
       },
-      "11": {
+      "9": {
         "mentions": 3,
         "snippet": "the side towards Illinois."
       },
-      "14": {
+      "12": {
         "mentions": 3,
         "snippet": "along we was going to take to the canoe and break for the Illinois"
       }
@@ -961,14 +945,14 @@
   {
     "canonical_name": "Bill",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 9,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 6,
         "snippet": "The man on the floor would shrivel up and say, \u201cOh, please don\u2019t, Bill;"
       },
-      "23": {
+      "21": {
         "mentions": 3,
         "snippet": "but didn\u2019t wear no coats nor waistcoats, they called one another Bill,"
       }
@@ -987,14 +971,14 @@
   {
     "canonical_name": "Juliet",
     "aliases": [],
-    "first_chapter": 22,
+    "first_chapter": 20,
     "total_mentions": 9,
     "per_chapter": {
-      "22": {
+      "20": {
         "mentions": 5,
         "snippet": "Juliet."
       },
-      "23": {
+      "21": {
         "mentions": 4,
         "snippet": "and went to getting his Romeo and Juliet by heart."
       }
@@ -1013,14 +997,14 @@
   {
     "canonical_name": "Sherburn",
     "aliases": [],
-    "first_chapter": 23,
+    "first_chapter": 21,
     "total_mentions": 9,
     "per_chapter": {
-      "23": {
+      "21": {
         "mentions": 3,
         "snippet": "because he\u2019d come to town to kill old Colonel Sherburn, and his motto"
       },
-      "24": {
+      "22": {
         "mentions": 6,
         "snippet": "They swarmed up towards Sherburn\u2019s house, a-whooping and raging like"
       }
@@ -1039,18 +1023,18 @@
   {
     "canonical_name": "William",
     "aliases": [],
-    "first_chapter": 26,
+    "first_chapter": 24,
     "total_mentions": 9,
     "per_chapter": {
-      "26": {
+      "24": {
         "mentions": 4,
         "snippet": "together\u2014and hadn\u2019t ever seen his brother William at all\u2014that\u2019s the"
       },
-      "28": {
+      "26": {
         "mentions": 1,
         "snippet": "do for Uncle William, and she\u2019d give her own room to Uncle Harvey,"
       },
-      "31": {
+      "29": {
         "mentions": 4,
         "snippet": "brother William, which can\u2019t hear nor speak\u2014and can\u2019t even make signs"
       }
@@ -1069,10 +1053,10 @@
   {
     "canonical_name": "Miss Mary",
     "aliases": [],
-    "first_chapter": 30,
+    "first_chapter": 28,
     "total_mentions": 9,
     "per_chapter": {
-      "30": {
+      "28": {
         "mentions": 9,
         "snippet": "the truth, and you want to brace up, Miss Mary, because it\u2019s a bad"
       }
@@ -1093,10 +1077,10 @@
     "aliases": [
       "Hotchkiss"
     ],
-    "first_chapter": 43,
+    "first_chapter": 41,
     "total_mentions": 9,
     "per_chapter": {
-      "43": {
+      "41": {
         "mentions": 9,
         "snippet": "\u201cAn\u2019 look at that-air ladder made out\u2019n rags, Sister Hotchkiss,\u201d says"
       }
@@ -1117,56 +1101,56 @@
     "aliases": [
       "Charlotte"
     ],
-    "first_chapter": 2,
+    "first_chapter": 18,
     "total_mentions": 8,
     "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "Miss Charlotte"
-      },
-      "20": {
+      "18": {
         "mentions": 5,
         "snippet": "Then there was Miss Charlotte; she was twenty-five, and tall and proud"
+      },
+      "42": {
+        "mentions": 3,
+        "snippet": "Miss Charlotte"
       }
     },
     "co_occurs_with": {
+      "Jim": 2,
       "Archibald Nichols": 1,
+      "Aunt Polly": 1,
+      "Aunt Sally": 1,
+      "Aunty": 1,
       "Back Country": 1,
       "Behind the Wood": 1,
-      "Best Authorities": 1,
-      "Boston Harbor": 1,
-      "Come In": 1,
-      "Dead Head": 1,
-      "Dead Man": 1
+      "Best Authorities": 1
     }
   },
   {
     "canonical_name": "Judge Thatcher",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 1,
     "total_mentions": 8,
     "per_chapter": {
-      "3": {
+      "1": {
         "mentions": 1,
         "snippet": "Well, Judge Thatcher he took it and put it out at"
       },
-      "7": {
+      "5": {
         "mentions": 3,
         "snippet": "You ask Judge Thatcher; he\u2019ll tell"
       },
-      "8": {
+      "6": {
         "mentions": 1,
         "snippet": "for Judge Thatcher in the courts to make him give up that money, and he"
       },
-      "10": {
+      "8": {
         "mentions": 1,
         "snippet": "and Judge Thatcher, and Bessie Thatcher, and Jo Harper, and Tom Sawyer,"
       },
-      "13": {
+      "11": {
         "mentions": 1,
         "snippet": "and went boo-hooing to Judge Thatcher to get money to hunt for the"
       },
-      "44": {
+      "42": {
         "mentions": 1,
         "snippet": "it all away from Judge Thatcher and drunk it up."
       }
@@ -1178,17 +1162,17 @@
       "Huck Finn": 2,
       "Jim": 2,
       "The": 2,
-      "Don": 1,
-      "Huckleberry": 1
+      "Archibald Nichols": 1,
+      "Aunt Sally": 1
     }
   },
   {
     "canonical_name": "Goshen",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 11,
     "total_mentions": 8,
     "per_chapter": {
-      "13": {
+      "11": {
         "mentions": 8,
         "snippet": "struck out for this town of Goshen."
       }
@@ -1207,14 +1191,14 @@
   {
     "canonical_name": "Bob",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 17,
     "total_mentions": 8,
     "per_chapter": {
-      "19": {
+      "17": {
         "mentions": 3,
         "snippet": "Bob and Tom, some of you, and fetch the guns."
       },
-      "20": {
+      "18": {
         "mentions": 5,
         "snippet": "Then Tom and Bob went to the sideboard"
       }
@@ -1235,26 +1219,26 @@
     "aliases": [
       "Orleans"
     ],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 7,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 1,
         "snippet": "Jim told it he said they rode him down to New Orleans; and, after that,"
       },
-      "22": {
+      "20": {
         "mentions": 1,
         "snippet": "Jacques\u2019 plantation, forty mile below New Orleans,"
       },
-      "26": {
+      "24": {
         "mentions": 3,
         "snippet": "\u201cFor the steamboat; going to Orleans."
       },
-      "37": {
+      "35": {
         "mentions": 1,
         "snippet": "take very long for Uncle Silas to hear from down there by New Orleans."
       },
-      "41": {
+      "39": {
         "mentions": 1,
         "snippet": "and New Orleans papers; and when he mentioned the St."
       }
@@ -1275,18 +1259,18 @@
     "aliases": [
       "Ben"
     ],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 7,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 5,
         "snippet": "Harper and Ben Rogers, and two or three more of the boys, hid in the"
       },
-      "5": {
+      "3": {
         "mentions": 1,
         "snippet": "and jam, though Ben Rogers got a rag doll, and Jo Harper got a"
       },
-      "22": {
+      "20": {
         "mentions": 1,
         "snippet": "break up and go down and live with Uncle Ben, who\u2019s got a little"
       }
@@ -1305,14 +1289,14 @@
   {
     "canonical_name": "Testament",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 18,
     "total_mentions": 7,
     "per_chapter": {
-      "20": {
+      "18": {
         "mentions": 3,
         "snippet": "her Testament, and left it in the seat at church between two other"
       },
-      "39": {
+      "37": {
         "mentions": 4,
         "snippet": "my Testament in, and it must be so, because my Testament ain\u2019t in; but"
       }
@@ -1331,14 +1315,14 @@
   {
     "canonical_name": "Romeo",
     "aliases": [],
-    "first_chapter": 22,
+    "first_chapter": 20,
     "total_mentions": 7,
     "per_chapter": {
-      "22": {
+      "20": {
         "mentions": 3,
         "snippet": "and the balcony scene in Romeo and"
       },
-      "23": {
+      "21": {
         "mentions": 4,
         "snippet": "and went to getting his Romeo and Juliet by heart."
       }
@@ -1359,22 +1343,22 @@
     "aliases": [
       "Wilks"
     ],
-    "first_chapter": 26,
+    "first_chapter": 24,
     "total_mentions": 7,
     "per_chapter": {
-      "26": {
+      "24": {
         "mentions": 3,
         "snippet": "Peter Wilks lives?"
       },
-      "27": {
+      "25": {
         "mentions": 1,
         "snippet": "Peter Wilks\u2019s brother!"
       },
-      "30": {
+      "28": {
         "mentions": 1,
         "snippet": "Peter Wilks\u2014and you pays your money and you takes your choice!"
       },
-      "31": {
+      "29": {
         "mentions": 2,
         "snippet": "I am Peter Wilks\u2019 brother Harvey, and this is his"
       }
@@ -1393,10 +1377,10 @@
   {
     "canonical_name": "George",
     "aliases": [],
-    "first_chapter": 26,
+    "first_chapter": 24,
     "total_mentions": 7,
     "per_chapter": {
-      "26": {
+      "24": {
         "mentions": 7,
         "snippet": "and George were the only ones that come out here; George was the"
       }
@@ -1415,18 +1399,18 @@
   {
     "canonical_name": "Susan",
     "aliases": [],
-    "first_chapter": 27,
+    "first_chapter": 25,
     "total_mentions": 7,
     "per_chapter": {
-      "27": {
+      "25": {
         "mentions": 3,
         "snippet": "Here, Mary Jane, Susan, Joanner, take the"
       },
-      "28": {
+      "26": {
         "mentions": 3,
         "snippet": "the table, with Susan alongside of her, and said how bad the biscuits"
       },
-      "30": {
+      "28": {
         "mentions": 1,
         "snippet": "I\u2019ll tell Miss Susan to give your love to your uncles and say"
       }
@@ -1445,44 +1429,44 @@
   {
     "canonical_name": "Phelps",
     "aliases": [],
-    "first_chapter": 33,
+    "first_chapter": 31,
     "total_mentions": 7,
     "per_chapter": {
-      "33": {
+      "31": {
         "mentions": 1,
         "snippet": "Phelps has got him and he will give him up for the"
       },
-      "34": {
+      "32": {
         "mentions": 3,
         "snippet": "Phelps kept it up and run on so."
       },
-      "43": {
+      "41": {
         "mentions": 2,
         "snippet": "\u201cWell, Sister Phelps, I\u2019ve ransacked that-air cabin over, an\u2019 I b\u2019lieve"
       },
-      "44": {
+      "42": {
         "mentions": 1,
         "snippet": "Phelps took me for Tom"
       }
     },
     "co_occurs_with": {
-      "Tom Sawyer": 3,
       "Aunt Sally": 3,
+      "Tom Sawyer": 3,
       "Uncle Silas": 3,
       "Jim": 2,
       "Miss Watson": 2,
       "Mrs. Phelps": 2,
       "Sid": 2,
-      "Abram Foster": 1
+      "Archibald Nichols": 1
     }
   },
   {
     "canonical_name": "Balum",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 8,
     "total_mentions": 6,
     "per_chapter": {
-      "10": {
+      "8": {
         "mentions": 6,
         "snippet": "to give it to a nigger name\u2019 Balum\u2014Balum\u2019s Ass dey call him for short;"
       }
@@ -1501,10 +1485,10 @@
   {
     "canonical_name": "Grangerfords",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 18,
     "total_mentions": 6,
     "per_chapter": {
-      "20": {
+      "18": {
         "mentions": 6,
         "snippet": "well born and rich and grand as the tribe of Grangerfords."
       }
@@ -1523,10 +1507,10 @@
   {
     "canonical_name": "Bilgewater",
     "aliases": [],
-    "first_chapter": 21,
+    "first_chapter": 19,
     "total_mentions": 6,
     "per_chapter": {
-      "21": {
+      "19": {
         "mentions": 6,
         "snippet": "\u201cLooky here, Bilgewater,\u201d he says, \u201cI\u2019m nation sorry for you, but you"
       }
@@ -1547,14 +1531,14 @@
     "aliases": [
       "Robinson"
     ],
-    "first_chapter": 26,
+    "first_chapter": 24,
     "total_mentions": 6,
     "per_chapter": {
-      "26": {
+      "24": {
         "mentions": 2,
         "snippet": "and Levi Bell, the lawyer; and Dr."
       },
-      "27": {
+      "25": {
         "mentions": 4,
         "snippet": "Bell, and Dr."
       }
@@ -1575,10 +1559,10 @@
     "aliases": [
       "Damrell"
     ],
-    "first_chapter": 43,
+    "first_chapter": 41,
     "total_mentions": 6,
     "per_chapter": {
-      "43": {
+      "41": {
         "mentions": 6,
         "snippet": "I says to Sister Damrell\u2014didn\u2019t I, Sister"
       }
@@ -1599,10 +1583,10 @@
     "aliases": [
       "Dunlap"
     ],
-    "first_chapter": 43,
+    "first_chapter": 41,
     "total_mentions": 6,
     "per_chapter": {
-      "43": {
+      "41": {
         "mentions": 6,
         "snippet": "\u2014I was a-sayin\u2019 to Sister Dunlap, jist this minute,"
       }
@@ -1621,10 +1605,10 @@
   {
     "canonical_name": "Emmeline",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 17,
     "total_mentions": 5,
     "per_chapter": {
-      "19": {
+      "17": {
         "mentions": 5,
         "snippet": "If Emmeline Grangerford could make poetry like that before she was"
       }
@@ -1643,10 +1627,10 @@
   {
     "canonical_name": "Jack",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 18,
     "total_mentions": 5,
     "per_chapter": {
-      "20": {
+      "18": {
         "mentions": 5,
         "snippet": "\u201cWhy didn\u2019t you tell my Jack to fetch me here sooner, Jim?"
       }
@@ -1665,10 +1649,10 @@
   {
     "canonical_name": "There",
     "aliases": [],
-    "first_chapter": 30,
+    "first_chapter": 28,
     "total_mentions": 5,
     "per_chapter": {
-      "30": {
+      "28": {
         "mentions": 5,
         "snippet": "There, now we\u2019re over the worst of it, you"
       }
@@ -1687,10 +1671,10 @@
   {
     "canonical_name": "Hines",
     "aliases": [],
-    "first_chapter": 31,
+    "first_chapter": 29,
     "total_mentions": 5,
     "per_chapter": {
-      "31": {
+      "29": {
         "mentions": 5,
         "snippet": "\u201cWould you know the boy again if you was to see him, Hines?"
       }
@@ -1709,10 +1693,10 @@
   {
     "canonical_name": "Nat",
     "aliases": [],
-    "first_chapter": 38,
+    "first_chapter": 36,
     "total_mentions": 5,
     "per_chapter": {
-      "38": {
+      "36": {
         "mentions": 5,
         "snippet": "other large things by Nat, the nigger that fed him, and he must be on"
       }
@@ -1728,54 +1712,54 @@
   {
     "canonical_name": "Him",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 42,
     "total_mentions": 4,
     "per_chapter": {
-      "2": {
+      "42": {
         "mentions": 4,
         "snippet": "\u201cHim and another Man\u201d"
       }
     },
     "co_occurs_with": {
       "Archibald Nichols": 1,
+      "Aunt Polly": 1,
+      "Aunt Sally": 1,
+      "Aunty": 1,
       "Back Country": 1,
       "Behind the Wood": 1,
       "Best Authorities": 1,
-      "Boston Harbor": 1,
-      "Come In": 1,
-      "Dead Head": 1,
-      "Dead Man": 1
+      "Boston Harbor": 1
     }
   },
   {
     "canonical_name": "Raft",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 42,
     "total_mentions": 4,
     "per_chapter": {
-      "2": {
+      "42": {
         "mentions": 4,
         "snippet": "On the Raft"
       }
     },
     "co_occurs_with": {
       "Archibald Nichols": 1,
+      "Aunt Polly": 1,
+      "Aunt Sally": 1,
+      "Aunty": 1,
       "Back Country": 1,
       "Behind the Wood": 1,
       "Best Authorities": 1,
-      "Boston Harbor": 1,
-      "Come In": 1,
-      "Dead Head": 1,
-      "Dead Man": 1
+      "Boston Harbor": 1
     }
   },
   {
     "canonical_name": "State",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 6,
     "total_mentions": 4,
     "per_chapter": {
-      "8": {
+      "6": {
         "mentions": 4,
         "snippet": "silver-headed cane\u2014the awfulest old gray-headed nabob in the State."
       }
@@ -1789,10 +1773,10 @@
   {
     "canonical_name": "George Jackson",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 17,
     "total_mentions": 4,
     "per_chapter": {
-      "19": {
+      "17": {
         "mentions": 4,
         "snippet": "\u201cGeorge Jackson, sir."
       }
@@ -1811,10 +1795,10 @@
   {
     "canonical_name": "Stephen Dowling Bots",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 17,
     "total_mentions": 4,
     "per_chapter": {
-      "19": {
+      "17": {
         "mentions": 4,
         "snippet": "the name of Stephen Dowling Bots that fell down a well and was"
       }
@@ -1835,10 +1819,10 @@
     "aliases": [
       "Garrick"
     ],
-    "first_chapter": 23,
+    "first_chapter": 21,
     "total_mentions": 4,
     "per_chapter": {
-      "23": {
+      "21": {
         "mentions": 4,
         "snippet": "Mr."
       }
@@ -1859,10 +1843,10 @@
     "aliases": [
       "Kean"
     ],
-    "first_chapter": 23,
+    "first_chapter": 21,
     "total_mentions": 4,
     "per_chapter": {
-      "23": {
+      "21": {
         "mentions": 4,
         "snippet": "Mr."
       }
@@ -1881,10 +1865,10 @@
   {
     "canonical_name": "Colonel Sherburn",
     "aliases": [],
-    "first_chapter": 23,
+    "first_chapter": 21,
     "total_mentions": 4,
     "per_chapter": {
-      "23": {
+      "21": {
         "mentions": 4,
         "snippet": "because he\u2019d come to town to kill old Colonel Sherburn, and his motto"
       }
@@ -1903,10 +1887,10 @@
   {
     "canonical_name": "Hamlet",
     "aliases": [],
-    "first_chapter": 23,
+    "first_chapter": 21,
     "total_mentions": 4,
     "per_chapter": {
-      "23": {
+      "21": {
         "mentions": 4,
         "snippet": "you\u2014well, let me see\u2014oh, I\u2019ve got it\u2014you can do Hamlet\u2019s soliloquy."
       }
@@ -1925,14 +1909,14 @@
   {
     "canonical_name": "Levi Bell",
     "aliases": [],
-    "first_chapter": 26,
+    "first_chapter": 24,
     "total_mentions": 4,
     "per_chapter": {
-      "26": {
+      "24": {
         "mentions": 1,
         "snippet": "and Levi Bell, the lawyer; and Dr."
       },
-      "31": {
+      "29": {
         "mentions": 3,
         "snippet": "and then and nodding their heads\u2014it was Levi Bell, the lawyer that was"
       }
@@ -1951,10 +1935,10 @@
   {
     "canonical_name": "Sheffield",
     "aliases": [],
-    "first_chapter": 28,
+    "first_chapter": 26,
     "total_mentions": 4,
     "per_chapter": {
-      "28": {
+      "26": {
         "mentions": 4,
         "snippet": "\u201cBut I thought _you_ lived in Sheffield?"
       }
@@ -1973,18 +1957,18 @@
   {
     "canonical_name": "Royal Nonesuch",
     "aliases": [],
-    "first_chapter": 30,
+    "first_chapter": 28,
     "total_mentions": 4,
     "per_chapter": {
-      "30": {
+      "28": {
         "mentions": 1,
         "snippet": "Bricksville and say they\u2019ve got the men that played the Royal Nonesuch,"
       },
-      "33": {
+      "31": {
         "mentions": 2,
         "snippet": "anybody had got any wind of the Royal Nonesuch there yet."
       },
-      "35": {
+      "33": {
         "mentions": 1,
         "snippet": "about our Royal Nonesuch rapscallions, and as much of the raft voyage"
       }
@@ -2003,14 +1987,14 @@
   {
     "canonical_name": "Mrs. Phelps",
     "aliases": [],
-    "first_chapter": 34,
+    "first_chapter": 32,
     "total_mentions": 4,
     "per_chapter": {
-      "34": {
+      "32": {
         "mentions": 3,
         "snippet": "But I couldn\u2019t get no show, Mrs."
       },
-      "44": {
+      "42": {
         "mentions": 1,
         "snippet": "was in such a tight place that when Mrs."
       }
@@ -2020,23 +2004,23 @@
       "Phelps": 2,
       "Tom Sawyer": 2,
       "Uncle Silas": 2,
+      "Archibald Nichols": 1,
       "Aunt Polly": 1,
       "Aunty": 1,
-      "Huck Finn": 1,
-      "Jim": 1
+      "Back Country": 1
     }
   },
   {
     "canonical_name": "Mars Sid",
     "aliases": [],
-    "first_chapter": 36,
+    "first_chapter": 34,
     "total_mentions": 4,
     "per_chapter": {
-      "36": {
+      "34": {
         "mentions": 1,
         "snippet": "\u201cYes, Mars Sid, _a_ dog."
       },
-      "38": {
+      "36": {
         "mentions": 3,
         "snippet": "\u201cMars Sid, you\u2019ll say I\u2019s a fool, but if I didn\u2019t b\u2019lieve I see most a"
       }
@@ -2055,10 +2039,10 @@
   {
     "canonical_name": "Here",
     "aliases": [],
-    "first_chapter": 40,
+    "first_chapter": 38,
     "total_mentions": 4,
     "per_chapter": {
-      "40": {
+      "38": {
         "mentions": 4,
         "snippet": "_Here a captive heart busted."
       }
@@ -2075,10 +2059,10 @@
   {
     "canonical_name": "Sister Phelps",
     "aliases": [],
-    "first_chapter": 43,
+    "first_chapter": 41,
     "total_mentions": 4,
     "per_chapter": {
-      "43": {
+      "41": {
         "mentions": 4,
         "snippet": "\u201cWell, Sister Phelps, I\u2019ve ransacked that-air cabin over, an\u2019 I b\u2019lieve"
       }
@@ -2097,14 +2081,14 @@
   {
     "canonical_name": "Widow Douglas",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
-      "3": {
+      "1": {
         "mentions": 2,
         "snippet": "is\u2014and Mary, and the Widow Douglas is all told about in that book,"
       },
-      "20": {
+      "18": {
         "mentions": 1,
         "snippet": "worth as much in a man as it is in a horse, so the Widow Douglas said,"
       }
@@ -2123,10 +2107,10 @@
   {
     "canonical_name": "Moses",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
-      "3": {
+      "1": {
         "mentions": 3,
         "snippet": "After supper she got out her book and learned me about Moses and the"
       }
@@ -2145,10 +2129,10 @@
   {
     "canonical_name": "Huckleberry",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
-      "3": {
+      "1": {
         "mentions": 3,
         "snippet": "\u201cDon\u2019t put your feet up there, Huckleberry;\u201d and \u201cDon\u2019t scrunch up like"
       }
@@ -2167,18 +2151,18 @@
   {
     "canonical_name": "Jo Harper",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 3,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 1,
         "snippet": "Sawyer first captain and Jo Harper second captain of the Gang, and so"
       },
-      "5": {
+      "3": {
         "mentions": 1,
         "snippet": "and jam, though Ben Rogers got a rag doll, and Jo Harper got a"
       },
-      "10": {
+      "8": {
         "mentions": 1,
         "snippet": "and Judge Thatcher, and Bessie Thatcher, and Jo Harper, and Tom Sawyer,"
       }
@@ -2197,10 +2181,10 @@
   {
     "canonical_name": "Gang",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 2,
     "total_mentions": 3,
     "per_chapter": {
-      "4": {
+      "2": {
         "mentions": 3,
         "snippet": "\u201cNow, we\u2019ll start this band of robbers and call it Tom Sawyer\u2019s Gang."
       }
@@ -2221,10 +2205,10 @@
     "aliases": [
       "Quixote"
     ],
-    "first_chapter": 5,
+    "first_chapter": 3,
     "total_mentions": 3,
     "per_chapter": {
-      "5": {
+      "3": {
         "mentions": 3,
         "snippet": "said if I warn\u2019t so ignorant, but had read a book called Don Quixote, I"
       }
@@ -2243,10 +2227,10 @@
   {
     "canonical_name": "Island",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 3,
     "per_chapter": {
-      "9": {
+      "7": {
         "mentions": 3,
         "snippet": "Jackson\u2019s Island is good enough for me; I know that island pretty well,"
       }
@@ -2258,14 +2242,14 @@
   {
     "canonical_name": "Jim Turner",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 3,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 2,
         "snippet": "\u201cIt\u2019s a lie, Jim Turner."
       },
-      "15": {
+      "13": {
         "mentions": 1,
         "snippet": "understand that they was in just as much trouble now as Jim Turner was."
       }
@@ -2284,10 +2268,10 @@
   {
     "canonical_name": "Missouri",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 12,
     "total_mentions": 3,
     "per_chapter": {
-      "14": {
+      "12": {
         "mentions": 3,
         "snippet": "We had mountains on the Missouri shore and heavy timber on the Illinois"
       }
@@ -2303,10 +2287,10 @@
   {
     "canonical_name": "Solomon",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 14,
     "total_mentions": 3,
     "per_chapter": {
-      "16": {
+      "14": {
         "mentions": 3,
         "snippet": "Solomon had one; he had about a million wives."
       }
@@ -2322,10 +2306,10 @@
   {
     "canonical_name": "Dah",
     "aliases": [],
-    "first_chapter": 18,
+    "first_chapter": 16,
     "total_mentions": 3,
     "per_chapter": {
-      "18": {
+      "16": {
         "mentions": 3,
         "snippet": "\u201cDah she is?"
       }
@@ -2342,10 +2326,10 @@
   {
     "canonical_name": "Mars Jawge",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 18,
     "total_mentions": 3,
     "per_chapter": {
-      "20": {
+      "18": {
         "mentions": 3,
         "snippet": "\u201cMars Jawge, if you\u2019ll come down into de swamp I\u2019ll show you a whole"
       }
@@ -2364,10 +2348,10 @@
   {
     "canonical_name": "Has",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 18,
     "total_mentions": 3,
     "per_chapter": {
-      "20": {
+      "18": {
         "mentions": 3,
         "snippet": "\u201cHas this one been going on long, Buck?"
       }
@@ -2386,10 +2370,10 @@
   {
     "canonical_name": "Bud",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 18,
     "total_mentions": 3,
     "per_chapter": {
-      "20": {
+      "18": {
         "mentions": 3,
         "snippet": "Bud, fourteen year old, was riding through the woods on t\u2019other side of"
       }
@@ -2408,10 +2392,10 @@
   {
     "canonical_name": "Duke",
     "aliases": [],
-    "first_chapter": 21,
+    "first_chapter": 19,
     "total_mentions": 3,
     "per_chapter": {
-      "21": {
+      "19": {
         "mentions": 3,
         "snippet": "My great-grandfather, eldest son of the Duke of Bridgewater, fled"
       }
@@ -2430,10 +2414,10 @@
   {
     "canonical_name": "Bridgewater",
     "aliases": [],
-    "first_chapter": 21,
+    "first_chapter": 19,
     "total_mentions": 3,
     "per_chapter": {
-      "21": {
+      "19": {
         "mentions": 3,
         "snippet": "My great-grandfather, eldest son of the Duke of Bridgewater, fled"
       }
@@ -2452,10 +2436,10 @@
   {
     "canonical_name": "Richard",
     "aliases": [],
-    "first_chapter": 23,
+    "first_chapter": 21,
     "total_mentions": 3,
     "per_chapter": {
-      "23": {
+      "21": {
         "mentions": 3,
         "snippet": "himself Richard III."
       }
@@ -2474,10 +2458,10 @@
   {
     "canonical_name": "Bang",
     "aliases": [],
-    "first_chapter": 23,
+    "first_chapter": 21,
     "total_mentions": 3,
     "per_chapter": {
-      "23": {
+      "21": {
         "mentions": 3,
         "snippet": "\u201d Bang!"
       }
@@ -2496,10 +2480,10 @@
   {
     "canonical_name": "Buck Harkness",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 22,
     "total_mentions": 3,
     "per_chapter": {
-      "24": {
+      "22": {
         "mentions": 3,
         "snippet": "brought _part_ of a man\u2014Buck Harkness, there\u2014and if you hadn\u2019t had him"
       }
@@ -2514,10 +2498,10 @@
   {
     "canonical_name": "Chop",
     "aliases": [],
-    "first_chapter": 25,
+    "first_chapter": 23,
     "total_mentions": 3,
     "per_chapter": {
-      "25": {
+      "23": {
         "mentions": 3,
         "snippet": "Next morning, \u2018Chop off her head!"
       }
@@ -2536,14 +2520,14 @@
   {
     "canonical_name": "Abner Shackleford",
     "aliases": [],
-    "first_chapter": 26,
+    "first_chapter": 24,
     "total_mentions": 3,
     "per_chapter": {
-      "26": {
+      "24": {
         "mentions": 1,
         "snippet": "preacher; and Deacon Lot Hovey, and Ben Rucker, and Abner Shackleford,"
       },
-      "27": {
+      "25": {
         "mentions": 2,
         "snippet": "Ben Rucker, and Abner Shackleford, and Levi"
       }
@@ -2562,10 +2546,10 @@
   {
     "canonical_name": "Cincinnati",
     "aliases": [],
-    "first_chapter": 26,
+    "first_chapter": 24,
     "total_mentions": 3,
     "per_chapter": {
-      "26": {
+      "24": {
         "mentions": 3,
         "snippet": "Louis or Cincinnati, or some other big place."
       }
@@ -2584,10 +2568,10 @@
   {
     "canonical_name": "Congress",
     "aliases": [],
-    "first_chapter": 28,
+    "first_chapter": 26,
     "total_mentions": 3,
     "per_chapter": {
-      "28": {
+      "26": {
         "mentions": 3,
         "snippet": "\u201cLooky here,\u201d I says; \u201cdid you ever see any Congress-water?"
       }
@@ -2606,10 +2590,10 @@
   {
     "canonical_name": "Hare",
     "aliases": [],
-    "first_chapter": 28,
+    "first_chapter": 26,
     "total_mentions": 3,
     "per_chapter": {
-      "28": {
+      "26": {
         "mentions": 3,
         "snippet": "Why, Hare-l\u2014why, Joanna, they never see a holiday from year\u2019s"
       }
@@ -2628,10 +2612,10 @@
   {
     "canonical_name": "Apthorps",
     "aliases": [],
-    "first_chapter": 30,
+    "first_chapter": 28,
     "total_mentions": 3,
     "per_chapter": {
-      "30": {
+      "28": {
         "mentions": 3,
         "snippet": "\u201cWhy, you must mean the Apthorps, ain\u2019t it?"
       }
@@ -2650,10 +2634,10 @@
   {
     "canonical_name": "Pint",
     "aliases": [],
-    "first_chapter": 31,
+    "first_chapter": 29,
     "total_mentions": 3,
     "per_chapter": {
-      "31": {
+      "29": {
         "mentions": 3,
         "snippet": "\u201cWell, then, how\u2019d you come to be up at the Pint in the _mornin_\u2019\u2014in a"
       }
@@ -2672,10 +2656,10 @@
   {
     "canonical_name": "Did",
     "aliases": [],
-    "first_chapter": 36,
+    "first_chapter": 34,
     "total_mentions": 3,
     "per_chapter": {
-      "36": {
+      "34": {
         "mentions": 3,
         "snippet": "\u201cDid _you_ hear anybody sing out?"
       }
@@ -2696,10 +2680,10 @@
     "aliases": [
       "Marples"
     ],
-    "first_chapter": 43,
+    "first_chapter": 41,
     "total_mentions": 3,
     "per_chapter": {
-      "43": {
+      "41": {
         "mentions": 3,
         "snippet": "\u201cPeople to _help_ him, Brother Marples!"
       }
@@ -2720,10 +2704,10 @@
     "aliases": [
       "Ridgeway"
     ],
-    "first_chapter": 43,
+    "first_chapter": 41,
     "total_mentions": 3,
     "per_chapter": {
-      "43": {
+      "41": {
         "mentions": 3,
         "snippet": "get up, or lay down, or _set_ down, Sister Ridgeway."
       }
@@ -2742,23 +2726,23 @@
   {
     "canonical_name": "Aunty",
     "aliases": [],
-    "first_chapter": 44,
+    "first_chapter": 42,
     "total_mentions": 3,
     "per_chapter": {
-      "44": {
+      "42": {
         "mentions": 3,
         "snippet": "Did you tell Aunty?"
       }
     },
     "co_occurs_with": {
+      "Archibald Nichols": 1,
       "Aunt Polly": 1,
       "Aunt Sally": 1,
-      "Huck Finn": 1,
-      "Jim": 1,
-      "Judge Thatcher": 1,
-      "Miss Watson": 1,
-      "Mrs. Phelps": 1,
-      "Phelps": 1
+      "Back Country": 1,
+      "Behind the Wood": 1,
+      "Best Authorities": 1,
+      "Boston Harbor": 1,
+      "Come In": 1
     }
   }
 ]

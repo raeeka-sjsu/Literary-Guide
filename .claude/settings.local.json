@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdftotext \"/Users/raeekayusuf/Downloads/258-ProjectProposal \\(1\\).pdf\" -)"
+    ]
+  }
+}

@@ -3,27 +3,47 @@
     "canonical_name": "Martians",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 128,
+    "total_mentions": 111,
     "per_chapter": {
       "1": {
         "mentions": 5,
-        "snippet": "as to complain if the Martians warred in the same spirit?"
+        "snippet": "that the Martians were moving Londonward and away from her."
+      },
+      "2": {
+        "mentions": 19,
+        "snippet": "lying against the triangular hole that looked out upon the Martians."
+      },
+      "3": {
+        "mentions": 8,
+        "snippet": "of life was to stop in the house until the Martians had done with their"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "he would shout and bring the Martians upon us."
       },
       "5": {
         "mentions": 5,
-        "snippet": "After the glimpse I had had of the Martians emerging from the cylinder"
+        "snippet": "alarming the Martians, I attacked the creaking rain-water pump that"
       },
       "6": {
         "mentions": 3,
-        "snippet": "It is still a matter of wonder how the Martians are able to slay men so"
+        "snippet": "explored, and much of the desolation the Martians had caused was"
       },
       "7": {
-        "mentions": 4,
-        "snippet": "me gathered the invisible terrors of the Martians; that pitiless sword"
+        "mentions": 15,
+        "snippet": "curate, the whereabouts of the Martians, and the possible fate of my"
+      },
+      "8": {
+        "mentions": 5,
+        "snippet": "largest place the Martians had made\u2014and from behind these heaps there"
       },
       "9": {
         "mentions": 9,
         "snippet": "the night the Martians had been surrounded by troops, and that guns"
+      },
+      "10": {
+        "mentions": 10,
+        "snippet": "death of the Martians is so probable as to be regarded almost as a"
       },
       "12": {
         "mentions": 10,
@@ -36,61 +56,49 @@
       "15": {
         "mentions": 13,
         "snippet": "Martians had resumed the offensive."
-      },
-      "18": {
-        "mentions": 5,
-        "snippet": "that the Martians were moving Londonward and away from her."
-      },
-      "19": {
-        "mentions": 19,
-        "snippet": "lying against the triangular hole that looked out upon the Martians."
-      },
-      "20": {
-        "mentions": 8,
-        "snippet": "of life was to stop in the house until the Martians had done with their"
-      },
-      "21": {
-        "mentions": 3,
-        "snippet": "he would shout and bring the Martians upon us."
-      },
-      "22": {
-        "mentions": 5,
-        "snippet": "alarming the Martians, I attacked the creaking rain-water pump that"
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "explored, and much of the desolation the Martians had caused was"
-      },
-      "24": {
-        "mentions": 15,
-        "snippet": "curate, the whereabouts of the Martians, and the possible fate of my"
-      },
-      "25": {
-        "mentions": 5,
-        "snippet": "largest place the Martians had made\u2014and from behind these heaps there"
-      },
-      "27": {
-        "mentions": 10,
-        "snippet": "death of the Martians is so probable as to be regarded almost as a"
       }
     },
     "co_occurs_with": {
-      "Martian": 8,
+      "Martian": 9,
       "Heat": 5,
       "Ray": 5,
+      "Woking": 5,
       "Mars": 4,
+      "Leatherhead": 4,
       "Weybridge": 4,
-      "Woking": 3,
-      "Leatherhead": 3,
-      "Black Smoke": 2
+      "Ogilvy": 3
     }
   },
   {
     "canonical_name": "Martian",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 1,
     "total_mentions": 69,
     "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "A Martian came across the fields about midday, laying the stuff with a"
+      },
+      "2": {
+        "mentions": 10,
+        "snippet": "controlling Martian whose delicate tentacles actuated its movements"
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "I lit no lamps, fearing some Martian might come beating that"
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "the hood of the Martian giant from which this howling proceeded."
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "far from my being the first discoverer of the Martian overthrow,"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "detected upon a photograph of the Martian disk."
+      },
       "11": {
         "mentions": 3,
         "snippet": "the Martian shapes."
@@ -110,41 +118,17 @@
       "17": {
         "mentions": 11,
         "snippet": "When, an hour later, a Martian appeared beyond the Clock Tower and"
-      },
-      "18": {
-        "mentions": 6,
-        "snippet": "A Martian came across the fields about midday, laying the stuff with a"
-      },
-      "19": {
-        "mentions": 10,
-        "snippet": "controlling Martian whose delicate tentacles actuated its movements"
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "I lit no lamps, fearing some Martian might come beating that"
-      },
-      "25": {
-        "mentions": 6,
-        "snippet": "the hood of the Martian giant from which this howling proceeded."
-      },
-      "26": {
-        "mentions": 4,
-        "snippet": "far from my being the first discoverer of the Martian overthrow,"
-      },
-      "27": {
-        "mentions": 3,
-        "snippet": "detected upon a photograph of the Martian disk."
       }
     },
     "co_occurs_with": {
-      "Martians": 8,
-      "Heat": 6,
-      "Ray": 6,
-      "Primrose Hill": 4,
+      "Martians": 9,
+      "Heat": 7,
+      "Ray": 7,
+      "Mars": 4,
+      "Leatherhead": 4,
       "Weybridge": 4,
-      "Black Smoke": 3,
-      "Mars": 2,
-      "Leatherhead": 2
+      "Primrose Hill": 4,
+      "Black Smoke": 3
     }
   },
   {
@@ -183,22 +167,30 @@
       }
     },
     "co_occurs_with": {
-      "Martians": 3,
+      "Martians": 5,
+      "Martian": 3,
       "Horsell": 2,
       "Heat": 2,
       "Oriental College": 2,
+      "Primrose Hill": 2,
       "Ray": 2,
-      "Horsell Common": 2,
-      "Good God": 1,
-      "Byfleet Golf Links": 1
+      "Wellington Street": 2
     }
   },
   {
     "canonical_name": "Heat",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 1,
     "total_mentions": 33,
     "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Twickenham was uninjured by either Heat-Ray or Black Smoke, and"
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "found myself praying that the Heat-Ray might have suddenly and"
+      },
       "9": {
         "mentions": 3,
         "snippet": "described the Heat-Ray to them, and they began to argue among"
@@ -218,33 +210,33 @@
       "17": {
         "mentions": 3,
         "snippet": "to the bottom forthwith with the Heat-Ray."
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "Twickenham was uninjured by either Heat-Ray or Black Smoke, and"
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "found myself praying that the Heat-Ray might have suddenly and"
       }
     },
     "co_occurs_with": {
+      "Martian": 7,
       "Ray": 7,
-      "Martian": 6,
       "Martians": 5,
       "Leatherhead": 3,
       "Weybridge": 3,
-      "Maybury Hill": 2,
-      "Oriental College": 2,
-      "Woking": 2
+      "Black Smoke": 2,
+      "Bushey Park": 2,
+      "Mars": 2
     }
   },
   {
     "canonical_name": "Ray",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 1,
     "total_mentions": 31,
     "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Twickenham was uninjured by either Heat-Ray or Black Smoke, and"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "found myself praying that the Heat-Ray might have suddenly and"
+      },
       "9": {
         "mentions": 3,
         "snippet": "described the Heat-Ray to them, and they began to argue among"
@@ -264,25 +256,17 @@
       "17": {
         "mentions": 3,
         "snippet": "to the bottom forthwith with the Heat-Ray."
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "Twickenham was uninjured by either Heat-Ray or Black Smoke, and"
-      },
-      "24": {
-        "mentions": 3,
-        "snippet": "found myself praying that the Heat-Ray might have suddenly and"
       }
     },
     "co_occurs_with": {
       "Heat": 7,
-      "Martian": 6,
+      "Martian": 7,
       "Martians": 5,
       "Leatherhead": 3,
       "Weybridge": 3,
-      "Maybury Hill": 2,
-      "Oriental College": 2,
-      "Woking": 2
+      "Black Smoke": 2,
+      "Bushey Park": 2,
+      "Mars": 2
     }
   },
   {
@@ -295,36 +279,40 @@
         "mentions": 12,
         "snippet": "fancied there might be other men upon Mars, perhaps inferior to"
       },
+      "2": {
+        "mentions": 6,
+        "snippet": "to suppose that on Mars they may have progressed upon them with some"
+      },
       "7": {
         "mentions": 5,
         "snippet": "\u201cHaven\u2019t you heard of the men from Mars?"
       },
-      "19": {
-        "mentions": 6,
-        "snippet": "to suppose that on Mars they may have progressed upon them with some"
-      },
-      "27": {
+      "10": {
         "mentions": 4,
         "snippet": "planet Mars is in conjunction, but with every return to opposition I,"
       }
     },
     "co_occurs_with": {
+      "Martian": 4,
       "Martians": 4,
-      "Martian": 2,
-      "Lick Observatory": 1,
-      "Ogilvy": 1,
-      "Oriental Terrace": 1,
-      "Poor Ogilvy": 1,
-      "the Maybury": 1,
-      "Professor Howes": 1
+      "Black Smoke": 2,
+      "Heat": 2,
+      "Ogilvy": 2,
+      "Ray": 2,
+      "Leatherhead": 2,
+      "Thing": 2
     }
   },
   {
     "canonical_name": "Weybridge",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 7,
     "total_mentions": 25,
     "per_chapter": {
+      "7": {
+        "mentions": 4,
+        "snippet": "that streamed up from the ruins of Weybridge."
+      },
       "12": {
         "mentions": 5,
         "snippet": "He\u2019s at Weybridge."
@@ -340,10 +328,6 @@
       "15": {
         "mentions": 3,
         "snippet": "Ripley and Weybridge, and so came in sight of the expectant batteries"
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "that streamed up from the ruins of Weybridge."
       }
     },
     "co_occurs_with": {
@@ -351,10 +335,10 @@
       "Martians": 4,
       "Heat": 3,
       "Ray": 3,
-      "Chertsey": 2,
       "Leatherhead": 2,
-      "Street Cobham": 2,
-      "Horsell Common": 2
+      "Regent Street": 2,
+      "Chertsey": 2,
+      "Street Cobham": 2
     }
   },
   {
@@ -388,9 +372,13 @@
   {
     "canonical_name": "Leatherhead",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 7,
     "total_mentions": 15,
     "per_chapter": {
+      "7": {
+        "mentions": 4,
+        "snippet": "Leatherhead."
+      },
       "9": {
         "mentions": 3,
         "snippet": "Then I remembered her cousins at Leatherhead."
@@ -402,21 +390,17 @@
       "12": {
         "mentions": 4,
         "snippet": "to Leatherhead; and so greatly had the strength of the Martians"
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "Leatherhead."
       }
     },
     "co_occurs_with": {
+      "Martian": 4,
+      "Martians": 4,
       "Heat": 3,
-      "Martians": 3,
-      "Maybury Hill": 3,
       "Ray": 3,
-      "Spotted Dog": 2,
-      "Martian": 2,
-      "Old Woking": 2,
-      "Weybridge": 2
+      "Maybury Hill": 3,
+      "Mars": 2,
+      "Weybridge": 2,
+      "College Arms": 2
     }
   },
   {
@@ -439,22 +423,26 @@
       }
     },
     "co_occurs_with": {
+      "Martians": 3,
+      "Mars": 2,
+      "Martian": 2,
       "Henderson": 2,
-      "Lick Observatory": 1,
-      "Mars": 1,
-      "Martians": 1,
-      "Good Lord": 1,
-      "Horsell Bridge": 1,
-      "Horsell Common": 1,
-      "Ottershaw": 1
+      "Black Smoke": 1,
+      "Bushey Park": 1,
+      "Hampton Court": 1,
+      "Heat": 1
     }
   },
   {
     "canonical_name": "Thames",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 6,
     "total_mentions": 14,
     "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "and Thames, and its swiftly growing and Titanic water fronds speedily"
+      },
       "12": {
         "mentions": 3,
         "snippet": "ourselves at the place near Shepperton Lock where the Wey and Thames"
@@ -466,29 +454,33 @@
       "17": {
         "mentions": 5,
         "snippet": "Southend and Shoeburyness, and south of the Thames to Deal and"
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "and Thames, and its swiftly growing and Titanic water fronds speedily"
       }
     },
     "co_occurs_with": {
+      "Martians": 2,
       "Heat": 2,
       "Martian": 2,
-      "Martians": 2,
       "Ray": 2,
       "Chipping Barnet": 2,
       "Miss Elphinstone": 2,
       "Mrs. Elphinstone": 2,
-      "Chertsey": 1
+      "Horsell": 1
     }
   },
   {
     "canonical_name": "Black Smoke",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 1,
     "total_mentions": 14,
     "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "Halliford whither we fled to escape the Black Smoke."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Neither is the composition of the Black Smoke known, which the Martians"
+      },
       "14": {
         "mentions": 4,
         "snippet": "\u201cBlack Smoke!"
@@ -496,25 +488,17 @@
       "17": {
         "mentions": 2,
         "snippet": "Black Smoke."
-      },
-      "18": {
-        "mentions": 7,
-        "snippet": "Halliford whither we fled to escape the Black Smoke."
-      },
-      "27": {
-        "mentions": 1,
-        "snippet": "Neither is the composition of the Black Smoke known, which the Martians"
       }
     },
     "co_occurs_with": {
       "Martian": 3,
-      "Fleet Street": 2,
-      "Martians": 2,
-      "Primrose Hill": 2,
       "Hampton Court": 2,
       "Heat": 2,
+      "Mars": 2,
+      "Martians": 2,
       "Ray": 2,
-      "Clock Tower": 2
+      "Fleet Street": 2,
+      "Primrose Hill": 2
     }
   },
   {
@@ -559,14 +543,14 @@
       }
     },
     "co_occurs_with": {
+      "Martians": 2,
       "Ogilvy": 2,
       "Good Lord": 1,
       "Horsell Bridge": 1,
       "Horsell Common": 1,
-      "Ottershaw": 1,
-      "Thing": 1,
-      "Astronomer Royal": 1,
-      "Astronomical Exchange": 1
+      "Mars": 1,
+      "Martian": 1,
+      "Ottershaw": 1
     }
   },
   {
@@ -585,14 +569,14 @@
       }
     },
     "co_occurs_with": {
+      "Mars": 2,
+      "Martian": 2,
+      "Martians": 2,
       "Good Lord": 1,
       "Henderson": 1,
       "Horsell Bridge": 1,
       "Horsell Common": 1,
-      "Ogilvy": 1,
-      "Ottershaw": 1,
-      "College Arms": 1,
-      "Leatherhead": 1
+      "Ogilvy": 1
     }
   },
   {
@@ -611,19 +595,23 @@
       }
     },
     "co_occurs_with": {
+      "Martians": 2,
       "Woking": 2,
-      "Martians": 1,
-      "Chobham": 1,
-      "Major Eden": 1
+      "Putney Common": 1,
+      "Putney Hill": 1,
+      "Roehampton": 1,
+      "Thames": 1,
+      "Albert Hall": 1,
+      "Albert Road": 1
     }
   },
   {
     "canonical_name": "Ulla",
     "aliases": [],
-    "first_chapter": 25,
+    "first_chapter": 8,
     "total_mentions": 7,
     "per_chapter": {
-      "25": {
+      "8": {
         "mentions": 7,
         "snippet": "two notes, \u201cUlla, ulla, ulla, ulla,\u201d keeping on perpetually."
       }
@@ -634,9 +622,9 @@
       "Albert Terrace": 1,
       "Baker Street": 1,
       "Brompton Road": 1,
+      "Chobham": 1,
       "Crystal Palace": 1,
-      "Exhibition Road": 1,
-      "Fulham": 1
+      "Exhibition Road": 1
     }
   },
   {
@@ -663,14 +651,14 @@
       }
     },
     "co_occurs_with": {
-      "Martian": 2,
+      "Martian": 3,
+      "Martians": 2,
       "Weybridge": 2,
       "Woking": 2,
-      "Addlestone Golf Links": 1,
-      "Are": 1,
-      "Epsom Downs": 1,
-      "Martians": 1,
-      "Good Lord": 1
+      "Good Lord": 1,
+      "Henderson": 1,
+      "Horsell Bridge": 1,
+      "Mars": 1
     }
   },
   {
@@ -694,13 +682,13 @@
     },
     "co_occurs_with": {
       "Leatherhead": 3,
-      "Heat": 2,
-      "Martians": 2,
-      "Ray": 2,
-      "Spotted Dog": 2,
+      "Martian": 3,
+      "Martians": 3,
+      "College Arms": 2,
       "Old Woking": 2,
-      "Byfleet Golf Links": 1,
-      "Horse Guards": 1
+      "Primrose Hill": 2,
+      "Spotted Dog": 2,
+      "Heat": 2
     }
   },
   {
@@ -766,6 +754,7 @@
       "Astronomer Royal": 1,
       "Astronomical Exchange": 1,
       "Henderson": 1,
+      "Martians": 1,
       "Ogilvy": 1
     }
   },
@@ -816,35 +805,35 @@
   {
     "canonical_name": "Primrose Hill",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 8,
     "total_mentions": 5,
     "per_chapter": {
-      "17": {
-        "mentions": 1,
-        "snippet": "That night fell the seventh star, falling upon Primrose Hill."
-      },
-      "25": {
+      "8": {
         "mentions": 2,
         "snippet": "Primrose Hill."
       },
-      "26": {
+      "9": {
         "mentions": 1,
         "snippet": "God upon the summit of Primrose Hill."
       },
-      "27": {
+      "10": {
         "mentions": 1,
         "snippet": "And strange, too, it is to stand on Primrose Hill, as"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "That night fell the seventh star, falling upon Primrose Hill."
       }
     },
     "co_occurs_with": {
       "Martian": 4,
+      "Martians": 3,
       "Black Smoke": 2,
-      "Martians": 2,
-      "Byfleet Road": 1,
-      "Fleet Street": 1,
-      "Mars": 1,
-      "Natural History Museum": 1,
-      "Venus": 1
+      "College Arms": 2,
+      "Leatherhead": 2,
+      "Maybury Hill": 2,
+      "Spotted Dog": 2,
+      "Heat": 2
     }
   },
   {
@@ -872,36 +861,36 @@
   {
     "canonical_name": "Putney Hill",
     "aliases": [],
-    "first_chapter": 23,
+    "first_chapter": 6,
     "total_mentions": 5,
     "per_chapter": {
-      "23": {
+      "6": {
         "mentions": 1,
         "snippet": "Putney Hill I came upon another skeleton, with the arms dislocated and"
       },
-      "24": {
+      "7": {
         "mentions": 4,
         "snippet": "I spent that night in the inn that stands at the top of Putney Hill,"
       }
     },
     "co_occurs_with": {
       "Martians": 2,
-      "Putney Common": 1,
-      "Roehampton": 1,
-      "Thames": 1,
       "British Museum": 1,
       "Great God": 1,
       "Heat": 1,
-      "Leatherhead": 1
+      "Leatherhead": 1,
+      "Lord. Very": 1,
+      "Mars": 1,
+      "Martian": 1
     }
   },
   {
     "canonical_name": "Regent",
     "aliases": [],
-    "first_chapter": 25,
+    "first_chapter": 8,
     "total_mentions": 5,
     "per_chapter": {
-      "25": {
+      "8": {
         "mentions": 5,
         "snippet": "from the district about Regent\u2019s Park."
       }
@@ -912,18 +901,18 @@
       "Albert Terrace": 1,
       "Baker Street": 1,
       "Brompton Road": 1,
+      "Chobham": 1,
       "Crystal Palace": 1,
-      "Exhibition Road": 1,
-      "Fulham": 1
+      "Exhibition Road": 1
     }
   },
   {
     "canonical_name": "Venus",
     "aliases": [],
-    "first_chapter": 27,
+    "first_chapter": 10,
     "total_mentions": 5,
     "per_chapter": {
-      "27": {
+      "10": {
         "mentions": 5,
         "snippet": "have actually succeeded in effecting a landing on the planet Venus."
       }
@@ -931,12 +920,12 @@
     "co_occurs_with": {
       "Black Smoke": 1,
       "Byfleet Road": 1,
+      "College Arms": 1,
       "Fleet Street": 1,
+      "Leatherhead": 1,
       "Mars": 1,
       "Martian": 1,
-      "Martians": 1,
-      "Natural History Museum": 1,
-      "Primrose Hill": 1
+      "Martians": 1
     }
   },
   {
@@ -951,9 +940,14 @@
       }
     },
     "co_occurs_with": {
-      "Horsell": 1,
-      "Major Eden": 1,
-      "Woking": 1
+      "Albert Hall": 1,
+      "Albert Road": 1,
+      "Albert Terrace": 1,
+      "Baker Street": 1,
+      "Brompton Road": 1,
+      "Crystal Palace": 1,
+      "Exhibition Road": 1,
+      "Fulham": 1
     }
   },
   {
@@ -981,27 +975,27 @@
   {
     "canonical_name": "Wellington Street",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 9,
     "total_mentions": 4,
     "per_chapter": {
+      "9": {
+        "mentions": 1,
+        "snippet": "Martians until I reached Wellington Street, and there I saw the red"
+      },
       "14": {
         "mentions": 3,
         "snippet": "In Wellington Street my brother met a couple of sturdy roughs who had"
-      },
-      "26": {
-        "mentions": 1,
-        "snippet": "Martians until I reached Wellington Street, and there I saw the red"
       }
     },
     "co_occurs_with": {
-      "Albany Street": 1,
-      "Black Smoke": 1,
-      "Byfleet": 1,
-      "Cardigan Regiment": 1,
-      "Chalk Farm": 1,
-      "Chertsey": 1,
-      "Clock Tower": 1,
-      "Derby Day": 1
+      "Woking": 2,
+      "Byfleet Golf Links": 1,
+      "Clapham Junction": 1,
+      "College Arms": 1,
+      "Heat": 1,
+      "Horse Guards": 1,
+      "Irish Sea": 1,
+      "Leatherhead": 1
     }
   },
   {
@@ -1090,8 +1084,10 @@
       "Henderson": 1,
       "Horsell Bridge": 1,
       "Horsell Common": 1,
-      "Ogilvy": 1,
-      "Thing": 1
+      "Mars": 1,
+      "Martian": 1,
+      "Martians": 1,
+      "Ogilvy": 1
     }
   },
   {
@@ -1106,7 +1102,10 @@
       }
     },
     "co_occurs_with": {
-      "Woking": 1
+      "For God": 1,
+      "Martians": 1,
+      "Woking": 1,
+      "the Martian": 1
     }
   },
   {
@@ -1123,9 +1122,14 @@
       }
     },
     "co_occurs_with": {
+      "Albert Hall": 1,
+      "Albert Road": 1,
+      "Albert Terrace": 1,
+      "Baker Street": 1,
+      "Brompton Road": 1,
       "Chobham": 1,
-      "Horsell": 1,
-      "Woking": 1
+      "Crystal Palace": 1,
+      "Exhibition Road": 1
     }
   },
   {
@@ -1145,69 +1149,39 @@
     },
     "co_occurs_with": {
       "Heat": 2,
+      "Martian": 2,
       "Ray": 2,
       "Woking": 2,
       "Byfleet Golf Links": 1,
-      "Horse Guards": 1,
-      "Leatherhead": 1,
-      "Martians": 1,
-      "Maybury Hill": 1
+      "Clapham Junction": 1,
+      "College Arms": 1,
+      "Horse Guards": 1
     }
   },
   {
-    "canonical_name": "Spotted Dog",
+    "canonical_name": "College Arms",
     "aliases": [],
     "first_chapter": 9,
     "total_mentions": 3,
     "per_chapter": {
       "9": {
         "mentions": 1,
-        "snippet": "the Spotted Dog, for I knew the landlord had a horse and dog cart."
+        "snippet": "burial, and so came home past the College Arms."
       },
       "10": {
-        "mentions": 1,
-        "snippet": "was the landlord of the Spotted Dog, whose conveyance I had taken."
-      },
-      "26": {
-        "mentions": 1,
-        "snippet": "there, to find the landlord of the Spotted Dog had already found"
+        "mentions": 2,
+        "snippet": "lane that ran down from the College Arms."
       }
     },
     "co_occurs_with": {
       "Leatherhead": 2,
+      "Martian": 2,
+      "Martians": 2,
       "Maybury Hill": 2,
-      "College Arms": 2,
-      "Byfleet Golf Links": 1,
-      "Heat": 1,
-      "Horse Guards": 1,
-      "Martians": 1,
-      "Maybury Inn": 1
-    }
-  },
-  {
-    "canonical_name": "College Arms",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 3,
-    "per_chapter": {
-      "10": {
-        "mentions": 2,
-        "snippet": "lane that ran down from the College Arms."
-      },
-      "26": {
-        "mentions": 1,
-        "snippet": "burial, and so came home past the College Arms."
-      }
-    },
-    "co_occurs_with": {
+      "Primrose Hill": 2,
       "Spotted Dog": 2,
-      "Leatherhead": 1,
-      "Maybury Bridge": 1,
-      "Maybury Hill": 1,
-      "Old Woking": 1,
-      "Pyrford Church": 1,
-      "Thing": 1,
-      "the College Arms": 1
+      "Black Smoke": 1,
+      "Byfleet Road": 1
     }
   },
   {
@@ -1259,16 +1233,16 @@
   {
     "canonical_name": "Hampton Court",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "We got to Hampton Court without misadventure, our minds full of strange"
+      },
       "14": {
         "mentions": 1,
         "snippet": "at Hampton Court station, but we thought it was thunder."
-      },
-      "18": {
-        "mentions": 2,
-        "snippet": "We got to Hampton Court without misadventure, our minds full of strange"
       }
     },
     "co_occurs_with": {
@@ -1276,10 +1250,10 @@
       "Bushey Park": 1,
       "Heat": 1,
       "Kew Lodge": 1,
+      "Lick Observatory": 1,
+      "Mars": 1,
       "Martian": 1,
-      "Martians": 1,
-      "Ray": 1,
-      "Richmond": 1
+      "Martians": 1
     }
   },
   {
@@ -1553,10 +1527,10 @@
   {
     "canonical_name": "Richmond",
     "aliases": [],
-    "first_chapter": 18,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
-      "18": {
+      "1": {
         "mentions": 3,
         "snippet": "We crossed Richmond"
       }
@@ -1567,9 +1541,9 @@
       "Hampton Court": 1,
       "Heat": 1,
       "Kew Lodge": 1,
-      "Martian": 1,
-      "Martians": 1,
-      "Ray": 1
+      "Lick Observatory": 1,
+      "Mars": 1,
+      "Martian": 1
     }
   },
   {
@@ -1577,45 +1551,52 @@
     "aliases": [
       "Howes"
     ],
-    "first_chapter": 19,
+    "first_chapter": 2,
     "total_mentions": 3,
     "per_chapter": {
-      "19": {
+      "2": {
         "mentions": 3,
         "snippet": "distinguished anatomist, Professor Howes, the _hands_."
       }
     },
     "co_occurs_with": {
+      "Good Lord": 1,
+      "Henderson": 1,
+      "Horsell Bridge": 1,
+      "Horsell Common": 1,
       "Mars": 1,
       "Martian": 1,
-      "Martians": 1
+      "Martians": 1,
+      "Ogilvy": 1
     }
   },
   {
     "canonical_name": "Roehampton",
     "aliases": [],
-    "first_chapter": 23,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "23": {
+      "6": {
         "mentions": 3,
         "snippet": "spate and made my way to the hill going up towards Roehampton and came"
       }
     },
     "co_occurs_with": {
+      "Horsell": 1,
       "Martians": 1,
       "Putney Common": 1,
       "Putney Hill": 1,
-      "Thames": 1
+      "Thames": 1,
+      "Woking": 1
     }
   },
   {
     "canonical_name": "Not",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 7,
     "total_mentions": 3,
     "per_chapter": {
-      "24": {
+      "7": {
         "mentions": 3,
         "snippet": "\u201cNot begun!"
       }
@@ -1626,18 +1607,18 @@
       "Heat": 1,
       "Leatherhead": 1,
       "Lord. Very": 1,
+      "Mars": 1,
       "Martian": 1,
-      "Martians": 1,
-      "New Malden": 1
+      "Martians": 1
     }
   },
   {
     "canonical_name": "Fulham",
     "aliases": [],
-    "first_chapter": 25,
+    "first_chapter": 8,
     "total_mentions": 3,
     "per_chapter": {
-      "25": {
+      "8": {
         "mentions": 3,
         "snippet": "the High Street across the bridge to Fulham."
       }
@@ -1648,18 +1629,18 @@
       "Albert Terrace": 1,
       "Baker Street": 1,
       "Brompton Road": 1,
+      "Chobham": 1,
       "Crystal Palace": 1,
-      "Exhibition Road": 1,
-      "Harrow Road": 1
+      "Exhibition Road": 1
     }
   },
   {
     "canonical_name": "Kilburn",
     "aliases": [],
-    "first_chapter": 25,
+    "first_chapter": 8,
     "total_mentions": 3,
     "per_chapter": {
-      "25": {
+      "8": {
         "mentions": 3,
         "snippet": "annihilated Ealing and Kilburn, might strike among these houses and"
       }
@@ -1670,9 +1651,9 @@
       "Albert Terrace": 1,
       "Baker Street": 1,
       "Brompton Road": 1,
+      "Chobham": 1,
       "Crystal Palace": 1,
-      "Exhibition Road": 1,
-      "Fulham": 1
+      "Exhibition Road": 1
     }
   }
 ]

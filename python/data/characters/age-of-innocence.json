@@ -5,7 +5,7 @@
       "Olenska"
     ],
     "first_chapter": 2,
-    "total_mentions": 448,
+    "total_mentions": 436,
     "per_chapter": {
       "2": {
         "mentions": 5,
@@ -55,66 +55,58 @@
         "mentions": 64,
         "snippet": "annoyed that he should be surprised by Madame Olenska's visit."
       },
-      "17": {
+      "19": {
         "mentions": 6,
         "snippet": "niece, Madame Olenska."
       },
-      "19": {
+      "21": {
         "mentions": 16,
         "snippet": "Blenkers, and that Madame Olenska might again take the opportunity"
       },
-      "20": {
+      "23": {
         "mentions": 19,
         "snippet": "The emissary,\" Madame Olenska rejoined, still smiling,"
       },
-      "22": {
+      "25": {
         "mentions": 3,
         "snippet": "ridiculous failure; he had not so much as touched Madame Olenska's hand"
       },
-      "27": {
-        "mentions": 3,
-        "snippet": "relationship to Madame Olenska--that I should take a view contrary to"
-      },
-      "29": {
-        "mentions": 9,
-        "snippet": "brought, it is hardly possible for Madame Olenska not to return to her"
-      },
-      "30": {
-        "mentions": 5,
-        "snippet": "need not trouble you with--that it would be better for Madame Olenska"
-      },
-      "32": {
+      "26": {
         "mentions": 31,
         "snippet": "quite forgiven your cousin Madame Olenska for being the first person to"
       },
-      "33": {
+      "27": {
         "mentions": 8,
         "snippet": "no longer put off seeing Madame Olenska."
       },
-      "34": {
+      "29": {
         "mentions": 14,
         "snippet": "happiness he pictured Madame Olenska's descent from the train, his"
       },
-      "35": {
+      "30": {
         "mentions": 9,
         "snippet": "circle; but Archer noticed that his wife made no allusion to Madame"
       },
-      "36": {
+      "31": {
         "mentions": 30,
         "snippet": "that Madame Olenska should have hastened from Washington in response to"
       },
-      "37": {
+      "33": {
         "mentions": 46,
         "snippet": "Ten days had passed since Madame Olenska's departure from New York."
       },
-      "38": {
+      "34": {
         "mentions": 17,
         "snippet": "death of her parents, had won its heart much as Madame Olenska had won"
+      },
+      "1000": {
+        "mentions": 5,
+        "snippet": "need not trouble you with--that it would be better for Madame Olenska"
       }
     },
     "co_occurs_with": {
-      "Archer": 23,
       "New York": 23,
+      "Archer": 22,
       "Countess Olenska": 18,
       "Newland Archer": 15,
       "Ellen Olenska": 14,
@@ -127,7 +119,7 @@
     "canonical_name": "Archer",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 238,
+    "total_mentions": 215,
     "per_chapter": {
       "1": {
         "mentions": 1,
@@ -189,74 +181,58 @@
         "mentions": 19,
         "snippet": "Archer had \"rendered an invaluable"
       },
-      "17": {
+      "19": {
         "mentions": 11,
         "snippet": "Archer's the spectators were"
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "Archer!"
       },
-      "20": {
+      "23": {
         "mentions": 18,
         "snippet": "Archer found a cab and drove to the Somerset Club for breakfast."
       },
-      "21": {
+      "24": {
         "mentions": 6,
         "snippet": "Archer kept the talk from his own affairs, not"
       },
-      "22": {
+      "25": {
         "mentions": 4,
         "snippet": "if she felt herself becoming a temptation to Archer, a temptation to"
       },
-      "23": {
-        "mentions": 5,
-        "snippet": "Archer, at ease in the midsummer leisure of the office, fixed an hour"
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "\" Archer exclaimed."
-      },
       "26": {
-        "mentions": 6,
-        "snippet": "Archer considered him ironically."
-      },
-      "29": {
-        "mentions": 8,
-        "snippet": "\" Archer exclaimed; and his visitor gave out a low murmur of"
-      },
-      "30": {
-        "mentions": 3,
-        "snippet": "\" Archer paused again, and their eyes met in another"
-      },
-      "32": {
         "mentions": 13,
         "snippet": "Archer"
       },
-      "33": {
+      "27": {
         "mentions": 1,
         "snippet": "Archer, summing it"
       },
-      "35": {
+      "30": {
         "mentions": 14,
         "snippet": "slipped from its place in her intricate hair, Archer was struck by"
       },
-      "36": {
+      "31": {
         "mentions": 12,
         "snippet": "Archer in?"
       },
-      "37": {
+      "33": {
         "mentions": 5,
         "snippet": "Archer"
       },
-      "38": {
+      "34": {
         "mentions": 1,
         "snippet": "Archer already lay"
+      },
+      "1000": {
+        "mentions": 3,
+        "snippet": "\" Archer paused again, and their eyes met in another"
       }
     },
     "co_occurs_with": {
       "New York": 26,
-      "Madame Olenska": 23,
+      "Madame Olenska": 22,
       "Countess Olenska": 21,
       "Mrs. Archer": 17,
       "Welland": 17,
@@ -335,51 +311,51 @@
         "mentions": 7,
         "snippet": "an establishment partly made up of discontented New York servants and"
       },
-      "17": {
+      "19": {
         "mentions": 12,
         "snippet": "through all the others which made of a nineteenth century New York"
       },
-      "19": {
+      "21": {
         "mentions": 3,
         "snippet": "In New York, during the previous"
       },
-      "20": {
+      "23": {
         "mentions": 2,
         "snippet": "go on to New York the following evening."
       },
-      "21": {
+      "24": {
         "mentions": 1,
         "snippet": "She had grown tired of what people called \"society\"; New York was kind,"
       },
-      "22": {
+      "25": {
         "mentions": 1,
         "snippet": "the reality of a stifling September day in New York."
       },
-      "32": {
+      "26": {
         "mentions": 7,
         "snippet": "always said that New York was very much changed."
       },
-      "33": {
+      "27": {
         "mentions": 7,
         "snippet": "bewailed in advance the loss of the best ball-room in New York."
       },
-      "34": {
+      "29": {
         "mentions": 1,
         "snippet": "trains of the Pennsylvania railway would run straight into New York."
       },
-      "35": {
+      "30": {
         "mentions": 2,
         "snippet": "\"It seems they're going to stay in New York."
       },
-      "36": {
+      "31": {
         "mentions": 6,
         "snippet": "had elapsed since her return to New York she had perhaps guessed from"
       },
-      "37": {
+      "33": {
         "mentions": 7,
         "snippet": "well-off young couples in New York should do a good deal of informal"
       },
-      "38": {
+      "34": {
         "mentions": 9,
         "snippet": "Bishop of New York, the ample magnificent irreplaceable Bishop, so"
       }
@@ -445,27 +421,27 @@
         "mentions": 5,
         "snippet": "up in surprise and saw Mrs."
       },
-      "17": {
+      "19": {
         "mentions": 11,
         "snippet": "stately rustle in the pew opposite Mrs."
       },
-      "32": {
+      "26": {
         "mentions": 13,
         "snippet": "And punctually at about this time Mrs."
       },
-      "33": {
+      "27": {
         "mentions": 1,
         "snippet": "\"The best thing the Beauforts can do,\" said Mrs."
       },
-      "36": {
+      "31": {
         "mentions": 12,
         "snippet": "\"Is Mrs."
       },
-      "37": {
+      "33": {
         "mentions": 5,
         "snippet": "As Mrs."
       },
-      "38": {
+      "34": {
         "mentions": 1,
         "snippet": "Mark's, where Mrs."
       }
@@ -531,31 +507,31 @@
         "mentions": 16,
         "snippet": "Welland's, and saw May"
       },
-      "17": {
+      "19": {
         "mentions": 5,
         "snippet": "Welland's saying, with indignant tears: \"I should as soon turn the"
       },
-      "19": {
+      "21": {
         "mentions": 18,
         "snippet": "Welland"
       },
-      "32": {
+      "26": {
         "mentions": 2,
         "snippet": "Welland"
       },
-      "33": {
+      "27": {
         "mentions": 17,
         "snippet": "Welland, who signed a haggard welcome as she"
       },
-      "35": {
+      "30": {
         "mentions": 2,
         "snippet": "Welland, long ago, had had escapes and visions, and had"
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "Welland had often been heard to"
       },
-      "37": {
+      "33": {
         "mentions": 5,
         "snippet": "Welland superintended the placing of the"
       }
@@ -597,11 +573,11 @@
         "mentions": 7,
         "snippet": "van der Luyden in his"
       },
-      "36": {
+      "31": {
         "mentions": 16,
         "snippet": "van der Luyden had come to town for a few"
       },
-      "37": {
+      "33": {
         "mentions": 18,
         "snippet": "van der Luyden had had sent from Skuytercliff."
       }
@@ -667,27 +643,27 @@
         "mentions": 10,
         "snippet": "difficulties, Mrs."
       },
-      "17": {
+      "19": {
         "mentions": 5,
         "snippet": "and that the matter should have been decided (in the negative) by Mrs."
       },
-      "19": {
+      "21": {
         "mentions": 12,
         "snippet": "As Mrs."
       },
-      "32": {
+      "26": {
         "mentions": 1,
         "snippet": "They had simply, as Mrs."
       },
-      "33": {
+      "27": {
         "mentions": 12,
         "snippet": "of her daughter, Mrs."
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "Lovell Mingott and Mrs."
       },
-      "37": {
+      "33": {
         "mentions": 4,
         "snippet": "gilt-edged bristol, while Mrs."
       }
@@ -755,31 +731,31 @@
         "mentions": 16,
         "snippet": "Her first exclamation was: \"Newland--has anything happened?"
       },
-      "19": {
+      "21": {
         "mentions": 7,
         "snippet": "Newland Archer, standing on the verandah of the house, looked curiously"
       },
-      "32": {
+      "26": {
         "mentions": 1,
         "snippet": "Newland Archer, in the winter of the second year of his marriage, was"
       },
-      "34": {
+      "29": {
         "mentions": 2,
         "snippet": "only Newland Archer, the husband of Ellen Olenska's cousin, and Ellen"
       },
-      "35": {
+      "30": {
         "mentions": 3,
         "snippet": "her say: \"Newland!"
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "Avenue, and the time the evening after Newland Archer's visit to the"
       },
-      "37": {
+      "33": {
         "mentions": 3,
         "snippet": "Newland Archer's drawing-room was generally thought"
       },
-      "38": {
+      "34": {
         "mentions": 2,
         "snippet": "her into almost cousinly relationship with Newland Archer's children,"
       }
@@ -857,33 +833,33 @@
         "mentions": 4,
         "snippet": "\"But European society is not given to divorce: Countess Olenska thought"
       },
-      "19": {
+      "21": {
         "mentions": 2,
         "snippet": "He had heard the Countess Olenska's name pronounced often enough during"
       },
-      "29": {
-        "mentions": 1,
-        "snippet": "Countess Olenska?"
-      },
-      "32": {
+      "26": {
         "mentions": 5,
         "snippet": "mention of the Countess Olenska's name, since she had surprised and"
       },
-      "33": {
+      "27": {
         "mentions": 1,
         "snippet": "gather it _is_ bad, if you're including Countess Olenska."
       },
-      "35": {
+      "30": {
         "mentions": 1,
         "snippet": "Countess Olenska."
       },
-      "37": {
+      "33": {
         "mentions": 3,
         "snippet": "Countess Olenska."
       },
-      "38": {
+      "34": {
         "mentions": 1,
         "snippet": "a message for you: the Countess Olenska expects us both at half-past"
+      },
+      "1000": {
+        "mentions": 1,
+        "snippet": "Countess Olenska?"
       }
     },
     "co_occurs_with": {
@@ -927,15 +903,15 @@
         "mentions": 3,
         "snippet": "Letterblair's mild disapproval would be smiled away by a"
       },
-      "33": {
+      "27": {
         "mentions": 7,
         "snippet": "Letterblair that the"
       },
-      "35": {
+      "30": {
         "mentions": 4,
         "snippet": "no doubt you know: persuaded me, Lovell, and Letterblair, and Augusta"
       },
-      "37": {
+      "33": {
         "mentions": 5,
         "snippet": "Letterblair, the day after Madame Olenska's departure, had"
       }
@@ -969,15 +945,15 @@
         "mentions": 6,
         "snippet": "\"Your cousin the Countess called on mother while you were away,\" Janey"
       },
-      "17": {
+      "19": {
         "mentions": 6,
         "snippet": "\"Poor Janey!"
       },
-      "36": {
+      "31": {
         "mentions": 3,
         "snippet": "kept hers in tissue paper in the hope that Janey might some day wear"
       },
-      "38": {
+      "34": {
         "mentions": 1,
         "snippet": "Even the boy's Aunt Janey, who still"
       }
@@ -1011,11 +987,11 @@
         "mentions": 1,
         "snippet": "Jackson and his sister."
       },
-      "32": {
+      "26": {
         "mentions": 19,
         "snippet": "\"It was odd, though, to preach about it on Thanksgiving,\" Miss Jackson"
       },
-      "36": {
+      "31": {
         "mentions": 2,
         "snippet": "Jackson seized the chance to place his"
       }
@@ -1061,11 +1037,11 @@
         "mentions": 3,
         "snippet": "even Mr."
       },
-      "33": {
+      "27": {
         "mentions": 7,
         "snippet": "on the following Tuesday he learned from Mr."
       },
-      "37": {
+      "33": {
         "mentions": 5,
         "snippet": "as when Mr."
       }
@@ -1127,23 +1103,23 @@
         "mentions": 2,
         "snippet": "Mingott; and a day or two after his return to town he called on her."
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "Mingott's arm, in a wild dishevelment of stripes and fringes and"
       },
-      "19": {
+      "21": {
         "mentions": 3,
         "snippet": "Mingott when the burden of"
       },
-      "33": {
+      "27": {
         "mentions": 7,
         "snippet": "Mingott's dauntless"
       },
-      "35": {
+      "30": {
         "mentions": 3,
         "snippet": "Mingott was still improving, but had been rather"
       },
-      "36": {
+      "31": {
         "mentions": 5,
         "snippet": "Mingott had almost regained"
       }
@@ -1205,19 +1181,19 @@
         "mentions": 2,
         "snippet": "Augustine charged with many messages for old Mrs."
       },
-      "19": {
+      "21": {
         "mentions": 3,
         "snippet": "rooms had been turned into a bedroom by Mrs."
       },
-      "33": {
+      "27": {
         "mentions": 7,
         "snippet": "second time, took a more hopeful view, and Mrs."
       },
-      "35": {
+      "30": {
         "mentions": 3,
         "snippet": "answered that Mrs."
       },
-      "36": {
+      "31": {
         "mentions": 5,
         "snippet": "under her roof--especially now that Mrs."
       }
@@ -1261,11 +1237,11 @@
         "mentions": 8,
         "snippet": "either prevent her from going to Mrs."
       },
-      "32": {
+      "26": {
         "mentions": 8,
         "snippet": "\"Of course, Newland, I know you let dear May go to Mrs."
       },
-      "36": {
+      "31": {
         "mentions": 2,
         "snippet": "epidemic of chicken-pox in New York the winter Mrs."
       }
@@ -1307,35 +1283,35 @@
         "mentions": 4,
         "snippet": "Beaufort"
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "Beaufort with"
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "Beaufort met them in a girlish cloud of"
       },
-      "21": {
+      "24": {
         "mentions": 3,
         "snippet": "\"And Beaufort--do you say these things to"
       },
-      "32": {
+      "26": {
         "mentions": 1,
         "snippet": "Beaufort's doom, wandered back to closer questions."
       },
-      "33": {
+      "27": {
         "mentions": 7,
         "snippet": "Beaufort appeared at the Opera wearing her old smile and a"
       },
-      "36": {
+      "31": {
         "mentions": 5,
         "snippet": "Beaufort; it made the righteous reprobation of New York"
       },
-      "37": {
+      "33": {
         "mentions": 4,
         "snippet": "over the asparagus from Florida, they were dealing with Beaufort and"
       },
-      "38": {
+      "34": {
         "mentions": 2,
         "snippet": "Beaufort sent her over from"
       }
@@ -1369,11 +1345,11 @@
         "mentions": 1,
         "snippet": "refused the Mingotts' invitation except the Beauforts and old Mr."
       },
-      "32": {
+      "26": {
         "mentions": 14,
         "snippet": "Mr."
       },
-      "36": {
+      "31": {
         "mentions": 2,
         "snippet": "It was at this point that Mr."
       }
@@ -1392,10 +1368,10 @@
   {
     "canonical_name": "Dallas",
     "aliases": [],
-    "first_chapter": 38,
+    "first_chapter": 34,
     "total_mentions": 36,
     "per_chapter": {
-      "38": {
+      "34": {
         "mentions": 36,
         "snippet": "child; and there their eldest boy, Dallas, too delicate to be taken"
       }
@@ -1443,35 +1419,35 @@
         "mentions": 5,
         "snippet": "Manson Mingott had been"
       },
-      "17": {
+      "19": {
         "mentions": 2,
         "snippet": "Manson"
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "Manson's other side, and"
       },
-      "29": {
-        "mentions": 2,
-        "snippet": "Manson"
-      },
-      "32": {
+      "26": {
         "mentions": 1,
         "snippet": "Manson"
       },
-      "33": {
+      "27": {
         "mentions": 5,
         "snippet": "Manson Mingott as much as anybody: coming at her age, there's no"
       },
-      "35": {
+      "30": {
         "mentions": 2,
         "snippet": "Manson Mingott's illness; and as May was the more"
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "Manson Mingott's."
       },
-      "37": {
+      "33": {
+        "mentions": 2,
+        "snippet": "Manson"
+      },
+      "1000": {
         "mentions": 2,
         "snippet": "Manson"
       }
@@ -1531,35 +1507,35 @@
         "mentions": 1,
         "snippet": "him to come straight out of the hell from which Ellen Olenska had just"
       },
-      "19": {
+      "21": {
         "mentions": 2,
         "snippet": "suddenly spoke her name at the archery match had Ellen Olenska become a"
       },
-      "20": {
+      "23": {
         "mentions": 1,
         "snippet": "tried to imagine Ellen Olenska in improbable scenes he could not have"
       },
-      "32": {
+      "26": {
         "mentions": 7,
         "snippet": "\"I don't think Ellen cares for society; but nobody knows exactly what"
       },
-      "33": {
+      "27": {
         "mentions": 3,
         "snippet": "\"She wants me to telegraph for Ellen Olenska."
       },
-      "34": {
+      "29": {
         "mentions": 1,
         "snippet": "only Newland Archer, the husband of Ellen Olenska's cousin, and Ellen"
       },
-      "35": {
+      "30": {
         "mentions": 3,
         "snippet": "Ellen came alone, and said she had dropped you on the way because you"
       },
-      "36": {
+      "31": {
         "mentions": 3,
         "snippet": "But to love Ellen Olenska was not to become a man like"
       },
-      "38": {
+      "34": {
         "mentions": 2,
         "snippet": "When he thought of Ellen Olenska it was"
       }
@@ -1576,10 +1552,38 @@
     }
   },
   {
+    "canonical_name": "Dr. Carver",
+    "aliases": [
+      "Carver"
+    ],
+    "first_chapter": 16,
+    "total_mentions": 32,
+    "per_chapter": {
+      "16": {
+        "mentions": 26,
+        "snippet": "called away by our dear great friend here, Dr."
+      },
+      "24": {
+        "mentions": 6,
+        "snippet": "\"But Dr."
+      }
+    },
+    "co_occurs_with": {
+      "Archer": 2,
+      "New York": 2,
+      "Selfridge Merrys": 2,
+      "Agathon Carver": 1,
+      "Because": 1,
+      "Blenker": 1,
+      "Bob Spicer": 1,
+      "Christopher Columbus": 1
+    }
+  },
+  {
     "canonical_name": "The",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 34,
+    "total_mentions": 31,
     "per_chapter": {
       "2": {
         "mentions": 5,
@@ -1597,52 +1601,20 @@
         "mentions": 12,
         "snippet": "\" The"
       },
-      "29": {
-        "mentions": 3,
-        "snippet": "The discovery that he had been excluded from a share in"
-      },
-      "30": {
+      "1000": {
         "mentions": 4,
         "snippet": "The Countess was good enough to listen patiently; she carried her"
       }
     },
     "co_occurs_with": {
-      "Archer": 6,
-      "Madame Olenska": 6,
+      "Archer": 5,
       "Countess Olenska": 5,
+      "Madame Olenska": 5,
       "Mingott": 4,
       "Mrs. Archer": 4,
       "Mrs. Mingott": 4,
       "New York": 4,
       "Newland Archer": 4
-    }
-  },
-  {
-    "canonical_name": "Dr. Carver",
-    "aliases": [
-      "Carver"
-    ],
-    "first_chapter": 16,
-    "total_mentions": 32,
-    "per_chapter": {
-      "16": {
-        "mentions": 26,
-        "snippet": "called away by our dear great friend here, Dr."
-      },
-      "21": {
-        "mentions": 6,
-        "snippet": "\"But Dr."
-      }
-    },
-    "co_occurs_with": {
-      "Archer": 2,
-      "New York": 2,
-      "Selfridge Merrys": 2,
-      "Agathon Carver": 1,
-      "Because": 1,
-      "Blenker": 1,
-      "Bob Spicer": 1,
-      "Christopher Columbus": 1
     }
   },
   {
@@ -1685,23 +1657,23 @@
         "mentions": 1,
         "snippet": "Sillerton Jackson, who was telling Mrs."
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "\" And he could imagine Sillerton Jackson adding with"
       },
-      "19": {
+      "21": {
         "mentions": 2,
         "snippet": "\" His father was Sillerton Jackson's"
       },
-      "32": {
+      "26": {
         "mentions": 5,
         "snippet": "Sillerton Jackson and Miss Sophy, to trace"
       },
-      "36": {
+      "31": {
         "mentions": 5,
         "snippet": "for Sillerton Jackson, if he should chance to pass!"
       },
-      "37": {
+      "33": {
         "mentions": 2,
         "snippet": "right to have them)--the Selfridge Merrys, Sillerton Jackson, Van"
       }
@@ -1747,33 +1719,33 @@
         "mentions": 2,
         "snippet": "service\" to the whole family, and that old Mrs."
       },
-      "17": {
+      "19": {
         "mentions": 2,
         "snippet": "the pocket of his best man; his own luggage was already at Mrs."
       },
-      "29": {
-        "mentions": 2,
-        "snippet": "understand that he represents his mother's view; and that Mrs."
-      },
-      "32": {
+      "26": {
         "mentions": 1,
         "snippet": "Even her devoted champion, old Mrs."
       },
-      "33": {
+      "27": {
         "mentions": 4,
         "snippet": "Mrs."
       },
-      "35": {
+      "30": {
         "mentions": 2,
         "snippet": "postponed since Mrs."
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "standing at the door was Mrs."
       },
-      "37": {
+      "33": {
         "mentions": 2,
         "snippet": "sent for him to go over the details of the trust which Mrs."
+      },
+      "1000": {
+        "mentions": 2,
+        "snippet": "understand that he represents his mother's view; and that Mrs."
       }
     },
     "co_occurs_with": {
@@ -1809,23 +1781,23 @@
         "mentions": 6,
         "snippet": "house which had been pointed out to him as Mr."
       },
-      "19": {
+      "21": {
         "mentions": 6,
         "snippet": "Avenue, and Mr."
       },
-      "32": {
+      "26": {
         "mentions": 1,
         "snippet": "to feel that she was already beginning to humour him like a younger Mr."
       },
-      "33": {
+      "27": {
         "mentions": 5,
         "snippet": "Mr."
       },
-      "35": {
+      "30": {
         "mentions": 2,
         "snippet": "even Mr."
       },
-      "37": {
+      "33": {
         "mentions": 1,
         "snippet": "Verbeckhoven \"Study of Sheep,\" which Mr."
       }
@@ -1846,10 +1818,10 @@
     "aliases": [
       "Carfry"
     ],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 28,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 28,
         "snippet": "\"Of course we must dine with Mrs."
       }
@@ -1901,21 +1873,21 @@
         "mentions": 1,
         "snippet": "I don't think Granny understands her, or uncle Lovell Mingott"
       },
-      "17": {
+      "19": {
         "mentions": 2,
         "snippet": "\"But I'm told that Lovell Mingott insisted"
       },
-      "29": {
-        "mentions": 1,
-        "snippet": "Lovell"
-      },
-      "33": {
+      "27": {
         "mentions": 9,
         "snippet": "Lovell Mingott had been"
       },
-      "36": {
+      "31": {
         "mentions": 2,
         "snippet": "Lovell Mingott and Mrs."
+      },
+      "1000": {
+        "mentions": 1,
+        "snippet": "Lovell"
       }
     },
     "co_occurs_with": {
@@ -1939,19 +1911,19 @@
         "mentions": 3,
         "snippet": "Granny, we can persuade them between us to do as he wishes."
       },
-      "33": {
+      "27": {
         "mentions": 5,
         "snippet": "Granny had a slight stroke"
       },
-      "34": {
+      "29": {
         "mentions": 3,
         "snippet": "\"If only it doesn't mean--poor Granny!"
       },
-      "35": {
+      "30": {
         "mentions": 6,
         "snippet": "\"I was waiting at Granny's, and"
       },
-      "36": {
+      "31": {
         "mentions": 9,
         "snippet": "\"Ah,\" she answered, \"Granny has told you?"
       }
@@ -1985,27 +1957,27 @@
         "mentions": 4,
         "snippet": "with her in company; but now their eyes met, and as Mrs."
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "same towering ostrich feathers in her bonnet, and Mrs."
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "they reached the tent and Mrs."
       },
-      "32": {
+      "26": {
         "mentions": 1,
         "snippet": "lingering over Mrs."
       },
-      "33": {
+      "27": {
         "mentions": 7,
         "snippet": "when Mrs."
       },
-      "36": {
+      "31": {
         "mentions": 5,
         "snippet": "toward Mrs."
       },
-      "38": {
+      "34": {
         "mentions": 1,
         "snippet": "believe she was a great friend of the first Mrs."
       }
@@ -2057,23 +2029,23 @@
         "mentions": 2,
         "snippet": "eighteen when Medora Manson took her back to Europe--you remember the"
       },
-      "19": {
+      "21": {
         "mentions": 7,
         "snippet": "briefest, for he presently heard Medora answering a question he had"
       },
-      "32": {
+      "26": {
         "mentions": 2,
         "snippet": "Medora Manson had taken there: he had written to her once--a few words,"
       },
-      "33": {
+      "27": {
         "mentions": 1,
         "snippet": "such hapless victims of the disaster as Medora Manson, the poor old"
       },
-      "36": {
+      "31": {
         "mentions": 2,
         "snippet": "now that Medora Manson, who shared her life, had been ruined, such a"
       },
-      "37": {
+      "33": {
         "mentions": 1,
         "snippet": "Medora Manson had first brought her to New York."
       }
@@ -2127,23 +2099,23 @@
         "mentions": 2,
         "snippet": "the young man strolled up Fifth Avenue from Waverley Place, the long"
       },
-      "17": {
+      "19": {
         "mentions": 2,
         "snippet": "She surprised him by turning, in full Fifth Avenue, and flinging her"
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "Fifth Avenue but in Wall Street."
       },
-      "34": {
+      "29": {
         "mentions": 2,
         "snippet": "illumination of Fifth Avenue."
       },
-      "36": {
+      "31": {
         "mentions": 3,
         "snippet": "At his corner he hesitated, and then walked on down Fifth Avenue."
       },
-      "37": {
+      "33": {
         "mentions": 2,
         "snippet": "than it is in Fifth Avenue."
       }
@@ -2189,31 +2161,31 @@
         "mentions": 2,
         "snippet": "Lawrence Lefferts and one or two other men."
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "\"Gad,\" Archer heard Lawrence Lefferts say, \"not one of the lot holds"
       },
-      "20": {
+      "23": {
         "mentions": 1,
         "snippet": "uncomfortable moment, of Lawrence Lefferts's masterly contrivances for"
       },
-      "32": {
+      "26": {
         "mentions": 1,
         "snippet": "furnishing details with all Lawrence Lefferts's practised glibness,"
       },
-      "33": {
+      "27": {
         "mentions": 2,
         "snippet": "saw Lawrence Lefferts at his elbow, pulling an imperturbable moustache"
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "Lawrence Lefferts and a young Chivers."
       },
-      "37": {
+      "33": {
         "mentions": 3,
         "snippet": "Chiverses--Lawrence Lefferts and Gertrude--(yes, I suppose May was"
       },
-      "38": {
+      "34": {
         "mentions": 1,
         "snippet": "of poor Lawrence Lefferts's, uttered years ago in that very room: \"If"
       }
@@ -2255,7 +2227,7 @@
         "mentions": 14,
         "snippet": "Welland know that Mr."
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "\"Oh, Mr."
       }
@@ -2335,15 +2307,15 @@
         "mentions": 1,
         "snippet": "the box but Mr."
       },
-      "32": {
+      "26": {
         "mentions": 5,
         "snippet": "able, with the help of Mr."
       },
-      "36": {
+      "31": {
         "mentions": 2,
         "snippet": "\"At the court of the Tuileries,\" said Mr."
       },
-      "37": {
+      "33": {
         "mentions": 1,
         "snippet": "\" cried Mr."
       }
@@ -2428,22 +2400,22 @@
   {
     "canonical_name": "Catherine",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 19,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 3,
         "snippet": "\"Too bad the breakfast is at old Catherine's,\" the bridegroom could"
       },
-      "32": {
+      "26": {
         "mentions": 3,
         "snippet": "\"Well--I have it on pretty good authority--in fact, on old Catherine's"
       },
-      "33": {
+      "27": {
         "mentions": 9,
         "snippet": "dropped him at old Catherine's."
       },
-      "35": {
+      "30": {
         "mentions": 4,
         "snippet": "Olenska, nor to old Catherine's reception of her."
       }
@@ -2489,15 +2461,15 @@
         "mentions": 1,
         "snippet": "passed Mrs."
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "Mrs."
       },
-      "33": {
+      "27": {
         "mentions": 5,
         "snippet": "Mrs."
       },
-      "36": {
+      "31": {
         "mentions": 2,
         "snippet": "and Mrs."
       }
@@ -2527,7 +2499,7 @@
         "mentions": 8,
         "snippet": "There was something superhuman in an attitude so recklessly unorthodox,"
       },
-      "32": {
+      "26": {
         "mentions": 4,
         "snippet": "\"There's no doubt that Dr."
       }
@@ -2587,7 +2559,7 @@
         "mentions": 3,
         "snippet": "whither the van der Luydens had promptly retreated after putting the"
       },
-      "36": {
+      "31": {
         "mentions": 3,
         "snippet": "alienated the van der Luydens ."
       }
@@ -2621,7 +2593,7 @@
         "mentions": 5,
         "snippet": "over to Skuytercliff."
       },
-      "36": {
+      "31": {
         "mentions": 3,
         "snippet": "days from Skuytercliff, whither they had precipitately fled at the"
       }
@@ -2647,7 +2619,7 @@
         "mentions": 3,
         "snippet": "\"'Ask Mamma,' I"
       },
-      "33": {
+      "27": {
         "mentions": 12,
         "snippet": "Mamma needs you dreadfully, and I"
       }
@@ -2666,18 +2638,18 @@
   {
     "canonical_name": "Washington",
     "aliases": [],
-    "first_chapter": 32,
+    "first_chapter": 26,
     "total_mentions": 14,
     "per_chapter": {
-      "32": {
+      "26": {
         "mentions": 3,
         "snippet": "that she had returned to Washington, to the little house which she and"
       },
-      "33": {
+      "27": {
         "mentions": 6,
         "snippet": "Archer had definitely made up his mind to go to Washington."
       },
-      "36": {
+      "31": {
         "mentions": 5,
         "snippet": "that Madame Olenska should have hastened from Washington in response to"
       }
@@ -2731,11 +2703,11 @@
         "mentions": 1,
         "snippet": "assure himself that neither of them belonged to Julius Beaufort."
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "tennis match at the Chiverses', or a sail on Julius Beaufort's cutter,"
       },
-      "33": {
+      "27": {
         "mentions": 1,
         "snippet": "Julius Beaufort\"--and had then closed it again"
       }
@@ -2791,7 +2763,7 @@
         "mentions": 5,
         "snippet": "appear at the Opera; indeed, she always gave her ball on an Opera night"
       },
-      "36": {
+      "31": {
         "mentions": 4,
         "snippet": "to show themselves at the Opera, and even to open their own doors."
       }
@@ -2837,15 +2809,15 @@
         "mentions": 1,
         "snippet": "Lemuel Struthers's."
       },
-      "33": {
+      "27": {
         "mentions": 1,
         "snippet": "An adventurer like Lemuel Struthers might build up the millions"
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "Lemuel"
       },
-      "37": {
+      "33": {
         "mentions": 1,
         "snippet": "Lemuel"
       }
@@ -2881,7 +2853,7 @@
         "mentions": 3,
         "snippet": "obviously bound on a visit to the Miss Lannings."
       },
-      "33": {
+      "27": {
         "mentions": 3,
         "snippet": "Miss Lannings, and certain other misguided ladies of good family who,"
       }
@@ -2911,7 +2883,7 @@
         "mentions": 6,
         "snippet": "garments besides which Nastasia was laying his own, his resentment"
       },
-      "20": {
+      "23": {
         "mentions": 3,
         "snippet": "Nastasia."
       }
@@ -2932,10 +2904,10 @@
     "aliases": [
       "Harle"
     ],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 12,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 12,
         "snippet": "Carfry was very ill, and as she and her sister Miss Harle were"
       }
@@ -2963,7 +2935,7 @@
         "mentions": 8,
         "snippet": "It was Madame Nilsson's first appearance that winter, and what the"
       },
-      "36": {
+      "31": {
         "mentions": 3,
         "snippet": "his eyes fastened on it, till suddenly Madame Nilsson's pure soprano"
       }
@@ -2999,11 +2971,11 @@
         "mentions": 5,
         "snippet": "recognised Ned Winsett; the other and older, who was unknown to"
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "last symposium with Ned Winsett."
       },
-      "38": {
+      "34": {
         "mentions": 1,
         "snippet": "It was an echo of Ned Winsett's old appeal"
       }
@@ -3032,23 +3004,23 @@
         "mentions": 1,
         "snippet": "Reggie"
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "fancy Reggie Chivers saying."
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "Reggie Chivers, the Merry girls, and divers rosy Thorleys,"
       },
-      "36": {
+      "31": {
         "mentions": 3,
         "snippet": "Lawrence Lefferts and a young Chivers."
       },
-      "37": {
+      "33": {
         "mentions": 4,
         "snippet": "and leaning over to Reggie Chivers, he cried out: \"I say, Reggie, what"
       },
-      "38": {
+      "34": {
         "mentions": 1,
         "snippet": "reliable of Reggie Chivers's many sons; and there Archer had kissed her"
       }
@@ -3074,7 +3046,7 @@
         "mentions": 5,
         "snippet": "The Beauforts' house was one of the few in New York that possessed"
       },
-      "33": {
+      "27": {
         "mentions": 5,
         "snippet": "The disappearance of the Beauforts would"
       }
@@ -3120,11 +3092,11 @@
         "mentions": 1,
         "snippet": "evening it could, of course, be only to Mrs."
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "\"It will never do, my dear Louisa, to let people like Mrs."
       },
-      "37": {
+      "33": {
         "mentions": 1,
         "snippet": "already wormed his way into certain houses, as people like Mrs."
       }
@@ -3141,70 +3113,12 @@
     }
   },
   {
-    "canonical_name": "Count Olenski",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 10,
-    "per_chapter": {
-      "5": {
-        "mentions": 1,
-        "snippet": "\"Well,\" he said after a pause, \"apparently Count Olenski takes your"
-      },
-      "11": {
-        "mentions": 1,
-        "snippet": "They consisted mainly of an exchange of letters between Count Olenski's"
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "Only Count Olenski's wife"
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "Archer had left her with the conviction that Count Olenski's accusation"
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "\"She says--she pretends that Count Olenski has asked her to persuade"
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "\" But the remembrance of Count Olenski's only letter to his wife"
-      },
-      "29": {
-        "mentions": 1,
-        "snippet": "\"Before seeing her, I saw--at Count Olenski's request--Mr."
-      },
-      "30": {
-        "mentions": 1,
-        "snippet": "I have known Count Olenski for many years."
-      },
-      "31": {
-        "mentions": 1,
-        "snippet": "asked me if I was in Count Olenski's employ."
-      },
-      "32": {
-        "mentions": 1,
-        "snippet": "returning to Count Olenski."
-      }
-    },
-    "co_occurs_with": {
-      "Madame Olenska": 9,
-      "Archer": 8,
-      "New York": 7,
-      "Countess Olenska": 6,
-      "Ellen Olenska": 5,
-      "Mingott": 5,
-      "Mrs. Archer": 5,
-      "Mrs. Mingott": 5
-    }
-  },
-  {
     "canonical_name": "Blenkers",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 21,
     "total_mentions": 10,
     "per_chapter": {
-      "19": {
+      "21": {
         "mentions": 10,
         "snippet": "\"No, I am not staying here, but with the Blenkers, in their delicious"
       }
@@ -3225,14 +3139,14 @@
     "aliases": [
       "Bencomb"
     ],
-    "first_chapter": 33,
+    "first_chapter": 27,
     "total_mentions": 10,
     "per_chapter": {
-      "33": {
+      "27": {
         "mentions": 8,
         "snippet": "May looked pale but smiling: Dr."
       },
-      "37": {
+      "33": {
         "mentions": 2,
         "snippet": "never be too grateful to Dr."
       }
@@ -3258,7 +3172,7 @@
         "mentions": 2,
         "snippet": "Blenker's."
       },
-      "19": {
+      "21": {
         "mentions": 7,
         "snippet": "Blenker and your visitors."
       }
@@ -3279,14 +3193,14 @@
     "aliases": [
       "Merry"
     ],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 9,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "Selfridge Merry would be there with the"
       },
-      "37": {
+      "33": {
         "mentions": 8,
         "snippet": "Selfridge Merry a small highly-varnished"
       }
@@ -3303,12 +3217,62 @@
     }
   },
   {
-    "canonical_name": "Miss Blenker",
+    "canonical_name": "Count Olenski",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 5,
     "total_mentions": 8,
     "per_chapter": {
-      "19": {
+      "5": {
+        "mentions": 1,
+        "snippet": "\"Well,\" he said after a pause, \"apparently Count Olenski takes your"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "They consisted mainly of an exchange of letters between Count Olenski's"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Only Count Olenski's wife"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "Archer had left her with the conviction that Count Olenski's accusation"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "\"She says--she pretends that Count Olenski has asked her to persuade"
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "\" But the remembrance of Count Olenski's only letter to his wife"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "returning to Count Olenski."
+      },
+      "1000": {
+        "mentions": 1,
+        "snippet": "asked me if I was in Count Olenski's employ."
+      }
+    },
+    "co_occurs_with": {
+      "Madame Olenska": 8,
+      "Archer": 7,
+      "New York": 7,
+      "Countess Olenska": 6,
+      "Ellen Olenska": 5,
+      "Mingott": 5,
+      "Mrs. Archer": 5,
+      "Mrs. Mingott": 5
+    }
+  },
+  {
+    "canonical_name": "Miss Blenker",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 8,
+    "per_chapter": {
+      "21": {
         "mentions": 8,
         "snippet": "Miss Blenker, shaking off the fumes of sleep, looked at him with"
       }
@@ -3327,18 +3291,18 @@
   {
     "canonical_name": "Parker House",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 21,
     "total_mentions": 8,
     "per_chapter": {
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "Parker House; it must be horrible there in this weather."
       },
-      "20": {
+      "23": {
         "mentions": 6,
         "snippet": "a messenger to take a cab to the Parker House and wait for the answer."
       },
-      "22": {
+      "25": {
         "mentions": 1,
         "snippet": "Parker House, and had noted as not conforming to type, as not having an"
       }
@@ -3372,7 +3336,7 @@
         "mentions": 2,
         "snippet": "didn't mention it: she lunched with us today, and spoke of Mr."
       },
-      "38": {
+      "34": {
         "mentions": 1,
         "snippet": "she was awfully good to Fanny when Mr."
       }
@@ -3417,14 +3381,14 @@
   {
     "canonical_name": "Portsmouth",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 21,
     "total_mentions": 7,
     "per_chapter": {
-      "19": {
+      "21": {
         "mentions": 4,
         "snippet": "solitude at Portsmouth."
       },
-      "20": {
+      "23": {
         "mentions": 3,
         "snippet": "from his expedition to Portsmouth a letter from the office, which fate"
       }
@@ -3443,14 +3407,14 @@
   {
     "canonical_name": "Boston",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 21,
     "total_mentions": 7,
     "per_chapter": {
-      "19": {
+      "21": {
         "mentions": 4,
         "snippet": "uncle, his mother a Pennilow of Boston; on each side there was wealth"
       },
-      "20": {
+      "23": {
         "mentions": 3,
         "snippet": "emerged upon a steaming midsummer Boston."
       }
@@ -3469,10 +3433,10 @@
   {
     "canonical_name": "Dad",
     "aliases": [],
-    "first_chapter": 38,
+    "first_chapter": 34,
     "total_mentions": 7,
     "per_chapter": {
-      "38": {
+      "34": {
         "mentions": 7,
         "snippet": "staggered across the floor shouting \"Dad,\" while May and the nurse"
       }
@@ -3508,7 +3472,7 @@
         "mentions": 1,
         "snippet": "The Lovell Mingotts had sent out cards for what was known as \"a formal"
       },
-      "37": {
+      "33": {
         "mentions": 1,
         "snippet": "\"Henry van der Luyden--Louisa--the Lovell Mingotts--the Reggie"
       }
@@ -3540,7 +3504,7 @@
         "mentions": 1,
         "snippet": "\"Miss Sophy Jackson has just been here."
       },
-      "32": {
+      "26": {
         "mentions": 4,
         "snippet": "in this view Miss Sophy Jackson heartily concurred."
       }
@@ -3596,11 +3560,11 @@
         "mentions": 1,
         "snippet": "Henry van der Luyden."
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "Henry van der Luyden's arm, sat"
       },
-      "33": {
+      "27": {
         "mentions": 1,
         "snippet": "Henry van der Luyden ."
       }
@@ -3630,15 +3594,15 @@
         "mentions": 2,
         "snippet": "Fanny Ring was frequently seen to wait."
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "had touched, a lady resembling Miss Fanny Ring had been seen in his"
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "York with Fanny Ring; but Mrs."
       },
-      "38": {
+      "34": {
         "mentions": 1,
         "snippet": "the notorious Fanny Ring, and had left the country with his new wife,"
       }
@@ -3664,7 +3628,7 @@
         "mentions": 3,
         "snippet": "\"Not a brass farthing."
       },
-      "21": {
+      "24": {
         "mentions": 3,
         "snippet": "\"Not if you staked your all on the success of my marriage."
       }
@@ -3735,18 +3699,18 @@
   {
     "canonical_name": "May Archer",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 6,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 2,
         "snippet": "an invitation to dine; and it was over this invitation that May Archer"
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "van der Luyden had turned her scrupulous eyes on May Archer."
       },
-      "38": {
+      "34": {
         "mentions": 3,
         "snippet": "twenty-inch waist that May Archer's azure sash so easily spanned."
       }
@@ -3765,10 +3729,10 @@
   {
     "canonical_name": "Miss Jackson",
     "aliases": [],
-    "first_chapter": 32,
+    "first_chapter": 26,
     "total_mentions": 6,
     "per_chapter": {
-      "32": {
+      "26": {
         "mentions": 6,
         "snippet": "\"It was odd, though, to preach about it on Thanksgiving,\" Miss Jackson"
       }
@@ -3787,18 +3751,18 @@
   {
     "canonical_name": "Jersey City",
     "aliases": [],
-    "first_chapter": 33,
+    "first_chapter": 27,
     "total_mentions": 6,
     "per_chapter": {
-      "33": {
+      "27": {
         "mentions": 4,
         "snippet": "lunching, the question as to who should meet her at Jersey City was"
       },
-      "34": {
+      "29": {
         "mentions": 1,
         "snippet": "Pennsylvania terminus in Jersey City."
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "to drive to Jersey City."
       }
@@ -3836,7 +3800,7 @@
         "mentions": 1,
         "snippet": "The red cloak made her look gay and vivid, like the Ellen Mingott of"
       },
-      "37": {
+      "33": {
         "mentions": 1,
         "snippet": "the little Ellen Mingott he had danced with at children's parties, when"
       }
@@ -3872,7 +3836,7 @@
         "mentions": 1,
         "snippet": "so remote and so completely of the past as his love-affair with Mrs."
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "fatuity, he had watched Mrs."
       }
@@ -3906,7 +3870,7 @@
         "mentions": 1,
         "snippet": "an invitation to spend the following Sunday with the Reggie Chiverses"
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "Then he remembered that the Reggie Chiverses,"
       }
@@ -3936,7 +3900,7 @@
         "mentions": 1,
         "snippet": "before whose newly painted door the canary-coloured brougham of Miss"
       },
-      "19": {
+      "21": {
         "mentions": 2,
         "snippet": "had touched, a lady resembling Miss Fanny Ring had been seen in his"
       }
@@ -3962,11 +3926,11 @@
         "mentions": 2,
         "snippet": "Marchioness Manson."
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "He had taken it for granted that the Marchioness Manson was still in"
       },
-      "19": {
+      "21": {
         "mentions": 2,
         "snippet": "He heard a murmur of skirts beside him, and the Marchioness Manson"
       }
@@ -3985,10 +3949,10 @@
   {
     "canonical_name": "Emerson Sillerton",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 21,
     "total_mentions": 5,
     "per_chapter": {
-      "19": {
+      "21": {
         "mentions": 5,
         "snippet": "Emerson Sillerton request the pleasure of Mr."
       }
@@ -4007,10 +3971,10 @@
   {
     "canonical_name": "Regina",
     "aliases": [],
-    "first_chapter": 32,
+    "first_chapter": 26,
     "total_mentions": 5,
     "per_chapter": {
-      "32": {
+      "26": {
         "mentions": 5,
         "snippet": "times it takes all Regina's distinction not to look like ."
       }
@@ -4058,7 +4022,7 @@
         "mentions": 3,
         "snippet": "family landau, or in the humbler but more convenient \"Brown coupe."
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "Brown the livery-stable keeper (gowned in black in his intermittent"
       }
@@ -4088,7 +4052,7 @@
         "mentions": 2,
         "snippet": "\"Miss Sophy Jackson has just been here."
       },
-      "32": {
+      "26": {
         "mentions": 1,
         "snippet": "in this view Miss Sophy Jackson heartily concurred."
       }
@@ -4114,7 +4078,7 @@
         "mentions": 1,
         "snippet": "collector and the science of a naturalist; and his sister, Miss Sophy"
       },
-      "32": {
+      "26": {
         "mentions": 3,
         "snippet": "Sillerton Jackson and Miss Sophy, to trace"
       }
@@ -4144,11 +4108,11 @@
         "mentions": 1,
         "snippet": "inn, and the Selfridge Merrys had come down for three weeks because"
       },
-      "21": {
+      "24": {
         "mentions": 1,
         "snippet": "the Selfridge Merrys?"
       },
-      "37": {
+      "33": {
         "mentions": 1,
         "snippet": "right to have them)--the Selfridge Merrys, Sillerton Jackson, Van"
       }
@@ -4178,11 +4142,11 @@
         "mentions": 1,
         "snippet": "The sad butler drew back the drawing-room porti\u00e8res and announced: \"Mr."
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "who had entered the church on Mr."
       },
-      "33": {
+      "27": {
         "mentions": 1,
         "snippet": "if only they had listened to Mr."
       }
@@ -4254,7 +4218,7 @@
         "mentions": 3,
         "snippet": "Carver bowed himself out, and Mrs."
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "turning back with them, placed himself on Mrs."
       }
@@ -4295,18 +4259,18 @@
   {
     "canonical_name": "Newland Archers",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 4,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 2,
         "snippet": "whom the Newland Archers knew; and these two they had sedulously"
       },
-      "33": {
+      "27": {
         "mentions": 1,
         "snippet": "At the Wellands', where the Newland Archers chanced to be"
       },
-      "37": {
+      "33": {
         "mentions": 1,
         "snippet": "The Newland Archers, since they had set up their household, had"
       }
@@ -4325,10 +4289,10 @@
   {
     "canonical_name": "Rector",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 4,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 4,
         "snippet": "ex-lady-loves; the fees for the Bishop and the Rector were safely in"
       }
@@ -4347,10 +4311,10 @@
   {
     "canonical_name": "Rhinebeck",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 4,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 4,
         "snippet": "The old du Lac aunts at Rhinebeck had put their house at the disposal"
       }
@@ -4369,10 +4333,10 @@
   {
     "canonical_name": "Vicar",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 4,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 4,
         "snippet": "chilly drawing-room, only another shawled lady, a genial Vicar who was"
       }
@@ -4393,10 +4357,10 @@
     "aliases": [
       "Ashmore"
     ],
-    "first_chapter": 32,
+    "first_chapter": 26,
     "total_mentions": 4,
     "per_chapter": {
-      "32": {
+      "26": {
         "mentions": 4,
         "snippet": "Dr."
       }
@@ -4415,10 +4379,10 @@
   {
     "canonical_name": "Thanksgiving",
     "aliases": [],
-    "first_chapter": 32,
+    "first_chapter": 26,
     "total_mentions": 4,
     "per_chapter": {
-      "32": {
+      "26": {
         "mentions": 4,
         "snippet": "Archer's Thanksgiving"
       }
@@ -4437,10 +4401,10 @@
   {
     "canonical_name": "Mr. Selfridge Merry",
     "aliases": [],
-    "first_chapter": 37,
+    "first_chapter": 33,
     "total_mentions": 4,
     "per_chapter": {
-      "37": {
+      "33": {
         "mentions": 4,
         "snippet": "Luyden and Mr."
       }
@@ -4459,10 +4423,10 @@
   {
     "canonical_name": "All",
     "aliases": [],
-    "first_chapter": 37,
+    "first_chapter": 33,
     "total_mentions": 4,
     "per_chapter": {
-      "37": {
+      "33": {
         "mentions": 4,
         "snippet": "\"All round?"
       }
@@ -4481,10 +4445,10 @@
   {
     "canonical_name": "Bill",
     "aliases": [],
-    "first_chapter": 38,
+    "first_chapter": 34,
     "total_mentions": 4,
     "per_chapter": {
-      "38": {
+      "34": {
         "mentions": 4,
         "snippet": "of the children: the studies of Dallas and his young brother Bill,"
       }
@@ -4503,10 +4467,10 @@
   {
     "canonical_name": "Place",
     "aliases": [],
-    "first_chapter": 38,
+    "first_chapter": 34,
     "total_mentions": 4,
     "per_chapter": {
-      "38": {
+      "34": {
         "mentions": 4,
         "snippet": "Place Vend\u00f4me."
       }
@@ -4536,7 +4500,7 @@
         "mentions": 1,
         "snippet": "drawing-room of young Mrs."
       },
-      "37": {
+      "33": {
         "mentions": 1,
         "snippet": "Mrs."
       }
@@ -4566,7 +4530,7 @@
         "mentions": 1,
         "snippet": "(of the South Carolina branch), a penniless beauty introduced to New"
       },
-      "33": {
+      "27": {
         "mentions": 1,
         "snippet": "after all, if a Dallas of South Carolina took his view of the case,"
       }
@@ -4864,7 +4828,7 @@
         "mentions": 1,
         "snippet": "Thus, as Archer crossed Washington Square, he remarked that old Mr."
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "should take place under her roof, though (as the Washington Square"
       }
@@ -4960,7 +4924,7 @@
         "mentions": 1,
         "snippet": "Thorley Rushworth gave way to wonder at the generosity of her view."
       },
-      "36": {
+      "31": {
         "mentions": 1,
         "snippet": "Thorley Rushworth play toward a fond and"
       }
@@ -5012,7 +4976,7 @@
         "mentions": 1,
         "snippet": "Grace Church eight bridesmaids please see Rector so happy love May."
       },
-      "38": {
+      "34": {
         "mentions": 1,
         "snippet": "to carry them to Grace Church--for in a world where all else had reeled"
       }
@@ -5038,11 +5002,11 @@
         "mentions": 1,
         "snippet": "Dr."
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "the baleful eloquence of Dr."
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "with a faint blush: \"This week Dr."
       }
@@ -5068,11 +5032,11 @@
         "mentions": 1,
         "snippet": "Agathon Carver, founder of the Valley of Love Community?"
       },
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "Agathon Carver, who had nearly succeeded"
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "Agathon Carver is holding a series"
       }
@@ -5098,7 +5062,7 @@
         "mentions": 2,
         "snippet": "at Mrs."
       },
-      "19": {
+      "21": {
         "mentions": 1,
         "snippet": "over on a chance of finding Mrs."
       }
@@ -5205,14 +5169,14 @@
   {
     "canonical_name": "Mrs. Selfridge Merry",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 3,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 1,
         "snippet": "the Last Trump sounded, Mrs."
       },
-      "37": {
+      "33": {
         "mentions": 2,
         "snippet": "was engaged in showing to Mrs."
       }
@@ -5231,10 +5195,10 @@
   {
     "canonical_name": "Bishop",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 3,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 3,
         "snippet": "ex-lady-loves; the fees for the Bishop and the Rector were safely in"
       }
@@ -5253,10 +5217,10 @@
   {
     "canonical_name": "Botzen",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 3,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 3,
         "snippet": "utmost precautions are sometimes unavailing; and one night at Botzen"
       }
@@ -5275,10 +5239,10 @@
   {
     "canonical_name": "Carfrys",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 19,
     "total_mentions": 3,
     "per_chapter": {
-      "17": {
+      "19": {
         "mentions": 3,
         "snippet": "May's parents had entertained the Carfrys in Fifth Avenue they would"
       }
@@ -5297,10 +5261,10 @@
   {
     "canonical_name": "Bellevue Avenue",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 21,
     "total_mentions": 3,
     "per_chapter": {
-      "19": {
+      "21": {
         "mentions": 3,
         "snippet": "shrubberies, and up and down Bellevue Avenue rolled a double line of"
       }
@@ -5319,10 +5283,10 @@
   {
     "canonical_name": "Lime Rock",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 21,
     "total_mentions": 3,
     "per_chapter": {
-      "19": {
+      "21": {
         "mentions": 3,
         "snippet": "Through their veil Archer caught the glint of the Lime Rock, with its"
       }
@@ -5341,10 +5305,10 @@
   {
     "canonical_name": "After",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 21,
     "total_mentions": 3,
     "per_chapter": {
-      "19": {
+      "21": {
         "mentions": 3,
         "snippet": "he had never before noticed in her frank fresh voice: \"After all, I"
       }
@@ -5363,10 +5327,10 @@
   {
     "canonical_name": "Cupid",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 21,
     "total_mentions": 3,
     "per_chapter": {
-      "19": {
+      "21": {
         "mentions": 3,
         "snippet": "white, surmounted by a wooden Cupid who had lost his bow and arrow but"
       }
@@ -5385,10 +5349,10 @@
   {
     "canonical_name": "Common",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 23,
     "total_mentions": 3,
     "per_chapter": {
-      "20": {
+      "23": {
         "mentions": 3,
         "snippet": "calico lounged on the door-steps of the wealthy, and the Common looked"
       }
@@ -5407,16 +5371,16 @@
   {
     "canonical_name": "Mr. Lovell Mingott",
     "aliases": [],
-    "first_chapter": 29,
+    "first_chapter": 27,
     "total_mentions": 3,
     "per_chapter": {
-      "29": {
-        "mentions": 1,
-        "snippet": "\"Before seeing her, I saw--at Count Olenski's request--Mr."
-      },
-      "33": {
+      "27": {
         "mentions": 2,
         "snippet": "Mr."
+      },
+      "1000": {
+        "mentions": 1,
+        "snippet": "\"Before seeing her, I saw--at Count Olenski's request--Mr."
       }
     },
     "co_occurs_with": {
@@ -5433,33 +5397,36 @@
   {
     "canonical_name": "Monsieur",
     "aliases": [],
-    "first_chapter": 30,
+    "first_chapter": 1000,
     "total_mentions": 3,
     "per_chapter": {
-      "30": {
+      "1000": {
         "mentions": 3,
         "snippet": "\"Ah, Monsieur, after I had seen her, after I had listened to her, I"
       }
     },
     "co_occurs_with": {
       "Archer": 1,
+      "Archery Meeting": 1,
       "Count Olenski": 1,
+      "Countess Olenska": 1,
+      "Lovell Mingott": 1,
       "Madame Olenska": 1,
-      "The": 1,
-      "United States": 1
+      "Manson Mingott": 1,
+      "Monsieur. If": 1
     }
   },
   {
     "canonical_name": "Supreme Court",
     "aliases": [],
-    "first_chapter": 32,
+    "first_chapter": 26,
     "total_mentions": 3,
     "per_chapter": {
-      "32": {
+      "26": {
         "mentions": 1,
         "snippet": "the Supreme Court--\" He gave the name of the inventor, and went on"
       },
-      "33": {
+      "27": {
         "mentions": 2,
         "snippet": "up before the Supreme Court."
       }
@@ -5478,10 +5445,10 @@
   {
     "canonical_name": "Uncle Lovell",
     "aliases": [],
-    "first_chapter": 33,
+    "first_chapter": 27,
     "total_mentions": 3,
     "per_chapter": {
-      "33": {
+      "27": {
         "mentions": 3,
         "snippet": "Uncle Lovell is away shooting, and"
       }
@@ -5500,14 +5467,14 @@
   {
     "canonical_name": "Regina Beaufort",
     "aliases": [],
-    "first_chapter": 33,
+    "first_chapter": 27,
     "total_mentions": 3,
     "per_chapter": {
-      "33": {
+      "27": {
         "mentions": 1,
         "snippet": "Regina Beaufort had come to ask her--incredible effrontery!"
       },
-      "35": {
+      "30": {
         "mentions": 2,
         "snippet": "child: gone in my carriage to see Regina Beaufort."
       }
@@ -5526,10 +5493,10 @@
   {
     "canonical_name": "Good",
     "aliases": [],
-    "first_chapter": 37,
+    "first_chapter": 33,
     "total_mentions": 3,
     "per_chapter": {
-      "37": {
+      "33": {
         "mentions": 3,
         "snippet": "\"Good-bye,\" she said."
       }
@@ -5548,10 +5515,10 @@
   {
     "canonical_name": "Fanny Beaufort",
     "aliases": [],
-    "first_chapter": 38,
+    "first_chapter": 34,
     "total_mentions": 3,
     "per_chapter": {
-      "38": {
+      "34": {
         "mentions": 3,
         "snippet": "Fanny Beaufort, whatever one might think of her, did not seem likely"
       }
@@ -5570,10 +5537,10 @@
   {
     "canonical_name": "Chicago",
     "aliases": [],
-    "first_chapter": 38,
+    "first_chapter": 34,
     "total_mentions": 3,
     "per_chapter": {
-      "38": {
+      "34": {
         "mentions": 3,
         "snippet": "\"Chicago wants you."
       }
@@ -5592,10 +5559,10 @@
   {
     "canonical_name": "Switzerland",
     "aliases": [],
-    "first_chapter": 38,
+    "first_chapter": 34,
     "total_mentions": 3,
     "per_chapter": {
-      "38": {
+      "34": {
         "mentions": 3,
         "snippet": "had made the old-fashioned tour through England, Switzerland and"
       }
@@ -5614,10 +5581,10 @@
   {
     "canonical_name": "Versailles",
     "aliases": [],
-    "first_chapter": 38,
+    "first_chapter": 34,
     "total_mentions": 3,
     "per_chapter": {
-      "38": {
+      "34": {
         "mentions": 3,
         "snippet": "Versailles afterward."
       }
@@ -5636,10 +5603,10 @@
   {
     "canonical_name": "Invalides",
     "aliases": [],
-    "first_chapter": 38,
+    "first_chapter": 34,
     "total_mentions": 3,
     "per_chapter": {
-      "38": {
+      "34": {
         "mentions": 3,
         "snippet": "Invalides."
       }

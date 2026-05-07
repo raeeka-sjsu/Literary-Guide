@@ -393,18 +393,30 @@ def build_for_book(book_id: str) -> List[dict]:
     with open(book_path) as f:
         book = json.load(f)
 
+    # Use the canonical title-derived chapter number so the spoiler filter
+    # matches what the UI displays.
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from chapter_numbering import parse_chapter_number
+
     per_chapter: Dict[str, Dict[int, dict]] = defaultdict(dict)
 
+    is_single_chapter_book = len(book["chapters"]) == 1
     for ch in book["chapters"]:
-        ch_num = int(ch.get("number") or 0)
-        if ch_num <= 0:
-            continue
+        title = ch.get("title") or ""
+        ch_num = parse_chapter_number(title)
+        if ch_num is None:
+            if is_single_chapter_book:
+                ch_num = 1
+            else:
+                continue  # skip TOC / front matter
         text = ch.get("text") or ""
         if not text:
             continue
-        # Skip front-matter / table-of-contents chapters — they leak character
-        # names from later chapter titles into early "chapters" in our parsed data.
-        if looks_like_toc_or_frontmatter(text, ch.get("title") or ""):
+        # Skip front-matter / table-of-contents detection (only when there are
+        # multiple chapters — single-chapter books bypass this since the
+        # whole book IS the chapter).
+        if not is_single_chapter_book and looks_like_toc_or_frontmatter(text, title):
             continue
         # Strip the chapter sub-title line(s) before extraction
         text = strip_chapter_subtitle(text)

@@ -1,1 +1,520 @@
-[]
+[
+  {
+    "canonical_name": "Mr. Utterson",
+    "aliases": [
+      "Utterson"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 148,
+    "per_chapter": {
+      "1": {
+        "mentions": 148,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Poole",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 61,
+    "per_chapter": {
+      "1": {
+        "mentions": 61,
+        "snippet": "Jekyll at home, Poole?"
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Dr. Jekyll",
+    "aliases": [
+      "Jekyll"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 52,
+    "per_chapter": {
+      "1": {
+        "mentions": 52,
+        "snippet": "document endorsed on the envelope as Dr."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Hyde",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 32,
+    "per_chapter": {
+      "1": {
+        "mentions": 32,
+        "snippet": "Hyde that had swelled his"
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Hyde",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 31,
+    "per_chapter": {
+      "1": {
+        "mentions": 31,
+        "snippet": "hitherto it was his ignorance of Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Enfield",
+    "aliases": [
+      "Enfield"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 24,
+    "per_chapter": {
+      "1": {
+        "mentions": 24,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Henry Jekyll",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 23,
+    "per_chapter": {
+      "1": {
+        "mentions": 23,
+        "snippet": "not only that, in case of the decease of Henry Jekyll, M."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Edward Hyde",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 20,
+    "per_chapter": {
+      "1": {
+        "mentions": 20,
+        "snippet": "of his \u201cfriend and benefactor Edward Hyde,\u201d but that in case of Dr."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Dr. Lanyon",
+    "aliases": [
+      "Lanyon"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "friend, the great Dr."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Danvers",
+    "aliases": [
+      "Danvers"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "\u201cThis is a sad business about Sir Danvers,\u201d he said."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Have",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "Have the kindness to wait"
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Soho",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "\u201d And he gave a number of a street in Soho."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "With",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "\u201cWith all my heart,\u201d said the lawyer."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Will",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Jekyll\u2019s Will and sat down"
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Guest",
+    "aliases": [
+      "Guest"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Presently after, he sat on one side of his own hearth, with Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cCome,\u201d said Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1,
+      "Dr. Fell": 1
+    }
+  },
+  {
+    "canonical_name": "Bradshaw",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Call Bradshaw."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1,
+      "Dr. Fell": 1
+    }
+  },
+  {
+    "canonical_name": "Once",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cOnce,\u201d he said."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Cavendish Square",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "the direction of Cavendish Square, that citadel of medicine, where his"
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1,
+      "Dr. Fell": 1
+    }
+  },
+  {
+    "canonical_name": "Did",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cDid you ever remark that door?"
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Dr. Denman": 1,
+      "Dr. Fell": 1
+    }
+  },
+  {
+    "canonical_name": "Indeed",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cIndeed?"
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "Satan",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "it off, sir, really like Satan."
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  },
+  {
+    "canonical_name": "One",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "One house, however, second from the corner, was still"
+      }
+    },
+    "co_occurs_with": {
+      "Bless God": 1,
+      "Bradshaw": 1,
+      "Cavendish Square": 1,
+      "Come": 1,
+      "Danvers Carew": 1,
+      "Dear Lanyon": 1,
+      "Did": 1,
+      "Dr. Denman": 1
+    }
+  }
+]

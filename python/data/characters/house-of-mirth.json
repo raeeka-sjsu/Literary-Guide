@@ -5,216 +5,78 @@
       "Bart"
     ],
     "first_chapter": 1,
-    "total_mentions": 619,
+    "total_mentions": 333,
     "per_chapter": {
       "1": {
-        "mentions": 19,
-        "snippet": "work from a hurried dip into the country; but what was Miss Bart"
+        "mentions": 30,
+        "snippet": "\u201cIt\u2019s most awfully jolly having Miss Bart back,\u201d said Lord Hubert,"
       },
       "2": {
-        "mentions": 24,
-        "snippet": "gravitated toward Miss Bart."
+        "mentions": 20,
+        "snippet": "Miss Bart, emerging late the next morning from her cabin, found"
       },
       "3": {
-        "mentions": 40,
-        "snippet": "It was not that Miss Bart was afraid of losing her newly-acquired"
+        "mentions": 53,
+        "snippet": "Miss Bart\u2019s telegram caught Lawrence Selden at the door of his"
       },
       "4": {
-        "mentions": 47,
-        "snippet": "The next morning, on her breakfast tray, Miss Bart found a note"
+        "mentions": 28,
+        "snippet": "though she lived but a street or two away; and Miss Bart and Gerty"
       },
       "5": {
-        "mentions": 23,
-        "snippet": "men and the looks of the ladies, and he was glad to find that Miss"
+        "mentions": 30,
+        "snippet": "\u201cOh\u2014\u2014\u201d Miss Bart protested, drawing back from her penitent clasp;"
       },
       "6": {
-        "mentions": 6,
-        "snippet": "\u201cAh, my dear Miss Bart, I am"
+        "mentions": 34,
+        "snippet": "part of Miss Bart\u2019s duty to attend her hostess on frequent visits"
       },
       "7": {
-        "mentions": 28,
-        "snippet": "voice, in admonishing Miss Bart, took the same note of personal"
+        "mentions": 4,
+        "snippet": "Miss Bart the September afternoon when she had climbed the slopes"
       },
       "8": {
-        "mentions": 21,
-        "snippet": "Miss Bart could shudder at this state of things without the"
+        "mentions": 30,
+        "snippet": "In Miss Bart\u2019s world the Horse Show,"
       },
       "9": {
-        "mentions": 28,
-        "snippet": "It was on this phase of the proceedings that Miss Bart entered"
+        "mentions": 23,
+        "snippet": "Gormer world and the more dimly-lit region on which Miss Bart"
       },
       "10": {
         "mentions": 21,
-        "snippet": "Miss Bart had received one or"
+        "snippet": "\u201cLook at those spangles, Miss Bart\u2014every one of \u2019em sewed on"
       },
       "11": {
-        "mentions": 6,
-        "snippet": "which Miss Bart would never have credited him with perceiving,"
+        "mentions": 3,
+        "snippet": "the first of May, and Miss Bart\u2019s attendance had of late been so"
       },
       "12": {
         "mentions": 22,
         "snippet": "Miss Bart had in fact been treading a devious way, and none of her"
       },
       "13": {
-        "mentions": 3,
-        "snippet": "that afternoon for a flying visit, and hoped Miss Bart would be"
+        "mentions": 21,
+        "snippet": "\u2014Why, it\u2019s Miss Bart!"
       },
       "14": {
-        "mentions": 20,
-        "snippet": "rather have shared her enjoyment than Miss Bart."
+        "mentions": 3,
+        "snippet": "That course, for the moment, led merely to Miss Bart\u2019s"
       },
       "15": {
         "mentions": 11,
         "snippet": "Miss Bart saw an opening."
-      },
-      "16": {
-        "mentions": 30,
-        "snippet": "\u201cIt\u2019s most awfully jolly having Miss Bart back,\u201d said Lord Hubert,"
-      },
-      "17": {
-        "mentions": 20,
-        "snippet": "Miss Bart, emerging late the next morning from her cabin, found"
-      },
-      "18": {
-        "mentions": 53,
-        "snippet": "Miss Bart\u2019s telegram caught Lawrence Selden at the door of his"
-      },
-      "19": {
-        "mentions": 28,
-        "snippet": "though she lived but a street or two away; and Miss Bart and Gerty"
-      },
-      "20": {
-        "mentions": 30,
-        "snippet": "\u201cOh\u2014\u2014\u201d Miss Bart protested, drawing back from her penitent clasp;"
-      },
-      "21": {
-        "mentions": 34,
-        "snippet": "part of Miss Bart\u2019s duty to attend her hostess on frequent visits"
-      },
-      "22": {
-        "mentions": 4,
-        "snippet": "Miss Bart the September afternoon when she had climbed the slopes"
-      },
-      "23": {
-        "mentions": 30,
-        "snippet": "In Miss Bart\u2019s world the Horse Show,"
-      },
-      "24": {
-        "mentions": 23,
-        "snippet": "Gormer world and the more dimly-lit region on which Miss Bart"
-      },
-      "25": {
-        "mentions": 21,
-        "snippet": "\u201cLook at those spangles, Miss Bart\u2014every one of \u2019em sewed on"
-      },
-      "26": {
-        "mentions": 3,
-        "snippet": "the first of May, and Miss Bart\u2019s attendance had of late been so"
-      },
-      "28": {
-        "mentions": 21,
-        "snippet": "\u2014Why, it\u2019s Miss Bart!"
-      },
-      "29": {
-        "mentions": 3,
-        "snippet": "That course, for the moment, led merely to Miss Bart\u2019s"
       }
     },
     "co_occurs_with": {
-      "Mrs. Fisher": 20,
-      "Mrs. Peniston": 18,
-      "Peniston": 18,
-      "George Dorset": 17,
-      "Lily": 17,
-      "Rosedale": 16,
-      "Van Osburgh": 16,
-      "Bertha Dorset": 16
-    }
-  },
-  {
-    "canonical_name": "Lily",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 291,
-    "per_chapter": {
-      "5": {
-        "mentions": 37,
-        "snippet": "daughters from their slumbers; but habitually, as Lily explained to"
-      },
-      "6": {
-        "mentions": 15,
-        "snippet": "slopes beyond the high-road, Lily and her companion reached a zone"
-      },
-      "7": {
-        "mentions": 1,
-        "snippet": "Rosedale: by the way, Miss Lily, I wish you\u2019d try to persuade Judy"
-      },
-      "8": {
-        "mentions": 26,
-        "snippet": "The first thousand dollar cheque which Lily received with a blotted"
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "certainly have preferred Miss Grace to Miss Lily."
-      },
-      "10": {
-        "mentions": 29,
-        "snippet": "All her life Lily had seen money go out as quickly as it came in,"
-      },
-      "11": {
-        "mentions": 27,
-        "snippet": "Lily would have been surprised to know how many"
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "Lily, you\u2019ve got to pay up for making me think so\u2014\u2014\u201d"
-      },
-      "15": {
-        "mentions": 35,
-        "snippet": "When Lily woke she had the bed to herself, and the winter light was"
-      },
-      "17": {
-        "mentions": 43,
-        "snippet": "Supplied with these facts, Lily leaned awhile over the"
-      },
-      "18": {
-        "mentions": 11,
-        "snippet": "Dorset, as if in obedience to Lily\u2019s imperative"
-      },
-      "20": {
-        "mentions": 2,
-        "snippet": "had known \u201cMiss Lily\u201d\u2014she was \u201cMiss Lily\u201d to him now\u2014before they"
-      },
-      "21": {
-        "mentions": 27,
-        "snippet": "into problems of lighting and sanitation, Lily had leisure to"
-      },
-      "22": {
-        "mentions": 5,
-        "snippet": "before saying: \u201cMy dear Miss Lily, I\u2019m sorry if there\u2019s been any"
-      },
-      "24": {
-        "mentions": 26,
-        "snippet": "When Lily woke on the morning after her translation to the Emporium"
-      },
-      "25": {
-        "mentions": 4,
-        "snippet": "\u201cWhy, what\u2019s the matter, Miss Lily?"
-      },
-      "26": {
-        "mentions": 1,
-        "snippet": "\u201cLook here, Miss Lily, I\u2019m going to Europe next week: going over"
-      }
-    },
-    "co_occurs_with": {
-      "Miss Bart": 17,
-      "Mrs. Fisher": 13,
-      "Van Osburgh": 11,
-      "Rosedale": 11,
-      "Bertha Dorset": 10,
-      "George Dorset": 10,
-      "Mr. Rosedale": 10,
-      "Carry Fisher": 9
+      "Mrs. Fisher": 15,
+      "Mrs. Peniston": 13,
+      "Peniston": 13,
+      "Bertha Dorset": 12,
+      "Carry Fisher": 12,
+      "George Dorset": 12,
+      "Mr. Rosedale": 12,
+      "Rosedale": 12
     }
   },
   {
@@ -222,28 +84,48 @@
     "aliases": [
       "Fisher"
     ],
-    "first_chapter": 3,
-    "total_mentions": 234,
+    "first_chapter": 1,
+    "total_mentions": 200,
     "per_chapter": {
+      "1": {
+        "mentions": 32,
+        "snippet": "\u201d Mrs."
+      },
+      "2": {
+        "mentions": 26,
+        "snippet": "the broad wake she left, the light figure of Mrs."
+      },
       "3": {
-        "mentions": 4,
-        "snippet": "boy now seated in abject rapture at the elbow of Mrs."
+        "mentions": 14,
+        "snippet": "suggested by Mrs."
       },
       "4": {
-        "mentions": 10,
-        "snippet": "Mrs."
+        "mentions": 2,
+        "snippet": "scrutiny; but if Judy knew when Mrs."
+      },
+      "5": {
+        "mentions": 32,
+        "snippet": "signalling hand; and the next moment Mrs."
       },
       "6": {
-        "mentions": 2,
-        "snippet": "finding it in Mrs."
+        "mentions": 30,
+        "snippet": "help of Mrs."
       },
       "7": {
+        "mentions": 4,
+        "snippet": "The light projected on the situation by Mrs."
+      },
+      "8": {
         "mentions": 8,
+        "snippet": "discerning eye than Mrs."
+      },
+      "9": {
+        "mentions": 4,
         "snippet": "Mrs."
       },
       "10": {
-        "mentions": 10,
-        "snippet": "response, for the party, though organized by Mrs."
+        "mentions": 14,
+        "snippet": "deliberation, Mrs."
       },
       "11": {
         "mentions": 2,
@@ -264,68 +146,90 @@
       "15": {
         "mentions": 2,
         "snippet": "Of course, there were things here and there\u2014things Mrs."
-      },
-      "16": {
-        "mentions": 32,
-        "snippet": "\u201d Mrs."
-      },
-      "17": {
-        "mentions": 26,
-        "snippet": "the broad wake she left, the light figure of Mrs."
-      },
-      "18": {
-        "mentions": 14,
-        "snippet": "suggested by Mrs."
-      },
-      "19": {
-        "mentions": 2,
-        "snippet": "scrutiny; but if Judy knew when Mrs."
-      },
-      "20": {
-        "mentions": 32,
-        "snippet": "signalling hand; and the next moment Mrs."
-      },
-      "21": {
-        "mentions": 30,
-        "snippet": "help of Mrs."
-      },
-      "22": {
-        "mentions": 4,
-        "snippet": "The light projected on the situation by Mrs."
-      },
-      "23": {
-        "mentions": 8,
-        "snippet": "discerning eye than Mrs."
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "Mrs."
-      },
-      "25": {
-        "mentions": 14,
-        "snippet": "deliberation, Mrs."
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 20,
-      "Bertha Dorset": 14,
-      "George Dorset": 13,
-      "Carry Fisher": 13,
-      "Lily": 13,
-      "Mrs. Peniston": 12,
-      "Peniston": 12,
-      "Rosedale": 11
+      "Miss Bart": 15,
+      "Mrs. Peniston": 13,
+      "Peniston": 13,
+      "Bertha Dorset": 12,
+      "Carry Fisher": 12,
+      "George Dorset": 12,
+      "Mr. Rosedale": 12,
+      "Rosedale": 12
+    }
+  },
+  {
+    "canonical_name": "Lily",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 181,
+    "per_chapter": {
+      "2": {
+        "mentions": 43,
+        "snippet": "Supplied with these facts, Lily leaned awhile over the"
+      },
+      "3": {
+        "mentions": 11,
+        "snippet": "Dorset, as if in obedience to Lily\u2019s imperative"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "had known \u201cMiss Lily\u201d\u2014she was \u201cMiss Lily\u201d to him now\u2014before they"
+      },
+      "6": {
+        "mentions": 27,
+        "snippet": "into problems of lighting and sanitation, Lily had leisure to"
+      },
+      "7": {
+        "mentions": 5,
+        "snippet": "before saying: \u201cMy dear Miss Lily, I\u2019m sorry if there\u2019s been any"
+      },
+      "8": {
+        "mentions": 26,
+        "snippet": "The first thousand dollar cheque which Lily received with a blotted"
+      },
+      "9": {
+        "mentions": 26,
+        "snippet": "When Lily woke on the morning after her translation to the Emporium"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cWhy, what\u2019s the matter, Miss Lily?"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "\u201cLook here, Miss Lily, I\u2019m going to Europe next week: going over"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "Lily, you\u2019ve got to pay up for making me think so\u2014\u2014\u201d"
+      },
+      "15": {
+        "mentions": 35,
+        "snippet": "When Lily woke she had the bed to herself, and the winter light was"
+      }
+    },
+    "co_occurs_with": {
+      "Miss Bart": 11,
+      "Mrs. Fisher": 11,
+      "Bertha Dorset": 9,
+      "George Dorset": 9,
+      "Mr. Rosedale": 9,
+      "Mrs. Peniston": 9,
+      "Peniston": 9,
+      "Rosedale": 9
     }
   },
   {
     "canonical_name": "Peniston",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 125,
+    "total_mentions": 119,
     "per_chapter": {
       "1": {
         "mentions": 1,
-        "snippet": "Peniston\u2019s furniture."
+        "snippet": "Peniston had to pack up and finish her cure"
       },
       "2": {
         "mentions": 1,
@@ -335,9 +239,17 @@
         "mentions": 21,
         "snippet": "Peniston with a"
       },
+      "4": {
+        "mentions": 10,
+        "snippet": "Peniston\u2019s drawing-room were drawn down against"
+      },
       "5": {
         "mentions": 1,
-        "snippet": "Peniston, who was a conscientious woman, had forwarded"
+        "snippet": "Peniston\u2019s door closed on her, that she"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Peniston cut"
       },
       "9": {
         "mentions": 26,
@@ -345,7 +257,7 @@
       },
       "10": {
         "mentions": 1,
-        "snippet": "Peniston, and only the excitement"
+        "snippet": "Peniston\u2019s legacy was paid, to realize the vision of the"
       },
       "11": {
         "mentions": 32,
@@ -356,66 +268,38 @@
         "snippet": "Peniston."
       },
       "13": {
-        "mentions": 2,
-        "snippet": "Peniston\u2019s\u2014its ugliness, its impersonality, the fact that"
+        "mentions": 1,
+        "snippet": "Peniston\u2019s legacy, and"
       },
       "14": {
         "mentions": 1,
-        "snippet": "Peniston\u2014it\u2019s past midnight!"
+        "snippet": "Peniston\u2019s executors had been entered in it."
       },
       "15": {
         "mentions": 22,
         "snippet": "Peniston in a state of agitation."
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "Peniston had to pack up and finish her cure"
-      },
-      "19": {
-        "mentions": 10,
-        "snippet": "Peniston\u2019s drawing-room were drawn down against"
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "Peniston\u2019s door closed on her, that she"
-      },
-      "23": {
-        "mentions": 1,
-        "snippet": "Peniston cut"
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "Peniston\u2019s legacy was paid, to realize the vision of the"
-      },
-      "28": {
-        "mentions": 1,
-        "snippet": "Peniston\u2019s legacy, and"
-      },
-      "29": {
-        "mentions": 1,
-        "snippet": "Peniston\u2019s executors had been entered in it."
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 18,
-      "Mrs. Peniston": 18,
-      "George Dorset": 12,
-      "Mrs. Fisher": 12,
-      "Rosedale": 11,
+      "Miss Bart": 13,
+      "Mrs. Fisher": 13,
+      "Mrs. Peniston": 13,
+      "Bertha Dorset": 10,
+      "Carry Fisher": 10,
+      "George Dorset": 10,
       "Gerty Farish": 10,
-      "Lily Bart": 10,
-      "Van Osburgh": 10
+      "Mr. Rosedale": 10
     }
   },
   {
     "canonical_name": "Mrs. Peniston",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 120,
+    "total_mentions": 114,
     "per_chapter": {
       "1": {
         "mentions": 1,
-        "snippet": "\u201cWhen I do come, it\u2019s not to look at Mrs."
+        "snippet": "so queerly that Mrs."
       },
       "2": {
         "mentions": 1,
@@ -425,9 +309,17 @@
         "mentions": 20,
         "snippet": "question threatened to remain unsolved till Mrs."
       },
+      "4": {
+        "mentions": 9,
+        "snippet": "The blinds of Mrs."
+      },
       "5": {
         "mentions": 1,
-        "snippet": "Mrs."
+        "snippet": "It seemed to Lily, as Mrs."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "And she is very poor\u2014you know Mrs."
       },
       "9": {
         "mentions": 23,
@@ -435,7 +327,7 @@
       },
       "10": {
         "mentions": 1,
-        "snippet": "her solitary existence with Mrs."
+        "snippet": "when Mrs."
       },
       "11": {
         "mentions": 32,
@@ -446,66 +338,82 @@
         "snippet": "not alarm her as it had alarmed Mrs."
       },
       "13": {
-        "mentions": 2,
-        "snippet": "Mrs."
+        "mentions": 1,
+        "snippet": "cheque represented the full amount of Mrs."
       },
       "14": {
         "mentions": 1,
-        "snippet": "\u201cBut Mrs."
+        "snippet": "dollars from Mrs."
       },
       "15": {
         "mentions": 22,
         "snippet": "Lily found Mrs."
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "so queerly that Mrs."
-      },
-      "19": {
-        "mentions": 9,
-        "snippet": "The blinds of Mrs."
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "It seemed to Lily, as Mrs."
-      },
-      "23": {
-        "mentions": 1,
-        "snippet": "And she is very poor\u2014you know Mrs."
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "when Mrs."
-      },
-      "28": {
-        "mentions": 1,
-        "snippet": "cheque represented the full amount of Mrs."
-      },
-      "29": {
-        "mentions": 1,
-        "snippet": "dollars from Mrs."
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 18,
-      "Peniston": 18,
-      "George Dorset": 12,
-      "Mrs. Fisher": 12,
-      "Rosedale": 11,
+      "Miss Bart": 13,
+      "Mrs. Fisher": 13,
+      "Peniston": 13,
+      "Bertha Dorset": 10,
+      "Carry Fisher": 10,
+      "George Dorset": 10,
       "Gerty Farish": 10,
-      "Lily Bart": 10,
-      "Van Osburgh": 10
+      "Mr. Rosedale": 10
+    }
+  },
+  {
+    "canonical_name": "Mrs. Hatch",
+    "aliases": [
+      "Hatch"
+    ],
+    "first_chapter": 9,
+    "total_mentions": 92,
+    "per_chapter": {
+      "9": {
+        "mentions": 62,
+        "snippet": "owned herself unacquainted with Mrs."
+      },
+      "10": {
+        "mentions": 24,
+        "snippet": "imperilled, if not lost, by her association with Mrs."
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "They were succeeded by Mrs."
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "sorry for the way we parted\u2014for what I said to you that day at Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Carry Fisher": 4,
+      "Dorset": 4,
+      "George Dorset": 4,
+      "Gerty Farish": 4,
+      "Miss Bart": 4,
+      "Mr. Rosedale": 4,
+      "Mrs. Dorset": 4,
+      "Mrs. Fisher": 4
     }
   },
   {
     "canonical_name": "Selden",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 102,
+    "total_mentions": 72,
     "per_chapter": {
       "1": {
-        "mentions": 2,
-        "snippet": "Selden\u2014what good luck!"
+        "mentions": 1,
+        "snippet": "Selden!"
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "Selden."
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "Selden,\u201d she said, \u201cyou promised to see me to my cab."
       },
       "5": {
         "mentions": 3,
@@ -528,233 +436,87 @@
         "snippet": "Selden,"
       },
       "12": {
-        "mentions": 23,
-        "snippet": "Lawrence Selden was among those who had yielded to the proffered"
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "The other was from Selden."
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "Selden\u2019s knack of wearing her old velvet as if it were new."
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "Selden!"
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "Selden."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "Selden,\u201d she said, \u201cyou promised to see me to my cab."
-      },
-      "27": {
         "mentions": 11,
         "snippet": "flickered on the hearth, and Selden\u2019s easy-chair, which stood near"
       },
-      "28": {
+      "13": {
         "mentions": 5,
         "snippet": "Selden and disowned her fate."
       },
-      "29": {
+      "14": {
         "mentions": 11,
         "snippet": "in its breath; and Selden, hastening along the street through the"
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 14,
-      "Mrs. Peniston": 9,
-      "Peniston": 9,
-      "Bellomont": 8,
-      "Van Osburgh": 8,
-      "Gus Trenor": 8,
-      "Mrs. Fisher": 8,
-      "Lily": 8
-    }
-  },
-  {
-    "canonical_name": "Mrs. Hatch",
-    "aliases": [
-      "Hatch"
-    ],
-    "first_chapter": 24,
-    "total_mentions": 92,
-    "per_chapter": {
-      "24": {
-        "mentions": 62,
-        "snippet": "owned herself unacquainted with Mrs."
-      },
-      "25": {
-        "mentions": 24,
-        "snippet": "imperilled, if not lost, by her association with Mrs."
-      },
-      "26": {
-        "mentions": 2,
-        "snippet": "They were succeeded by Mrs."
-      },
-      "27": {
-        "mentions": 4,
-        "snippet": "sorry for the way we parted\u2014for what I said to you that day at Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Lily": 3,
-      "Miss Bart": 3,
-      "Van Osburgh": 3,
-      "Percy Gryce": 2,
-      "Carry Fisher": 2,
-      "Freddy Van Osburgh": 2,
-      "Mr. Stancy": 2,
-      "Mrs. Fisher": 2
-    }
-  },
-  {
-    "canonical_name": "Miss Farish",
-    "aliases": [
-      "Farish"
-    ],
-    "first_chapter": 3,
-    "total_mentions": 76,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "reading-lamp, she had a vision of Miss Farish\u2019s cramped flat, with"
-      },
-      "8": {
-        "mentions": 12,
-        "snippet": "\u201d suggested Miss Farish, linking her arm in"
-      },
-      "10": {
-        "mentions": 13,
-        "snippet": "complicated elegance, she ran across Miss Farish, who had entered"
-      },
-      "11": {
-        "mentions": 2,
-        "snippet": "Miss"
-      },
-      "12": {
-        "mentions": 4,
-        "snippet": "something to do with the quality of his cousin\u2019s pleasure; but Miss"
-      },
-      "14": {
-        "mentions": 11,
-        "snippet": "blinded Miss Farish, who was accustomed, in the way of happiness,"
-      },
-      "15": {
-        "mentions": 2,
-        "snippet": "she would not have strength to reach home, she had gone to Miss"
-      },
-      "19": {
-        "mentions": 13,
-        "snippet": "But Miss Farish could not pause over the legacies; she broke into"
-      },
-      "23": {
-        "mentions": 9,
-        "snippet": "Lily, since her return to town, had not often climbed Miss"
-      },
-      "25": {
-        "mentions": 4,
-        "snippet": "for her share in the Hatch affair, joined her efforts to Miss"
-      },
-      "28": {
-        "mentions": 3,
-        "snippet": "I was one of the girls at Miss Farish\u2019s club\u2014you helped me to go"
-      }
-    },
-    "co_occurs_with": {
       "Miss Bart": 11,
-      "Mrs. Peniston": 10,
-      "Peniston": 10,
-      "Mrs. Fisher": 9,
-      "Gerty Farish": 8,
-      "Carry Fisher": 8,
-      "Rosedale": 8,
-      "Bertha Dorset": 7
+      "Mrs. Fisher": 11,
+      "Bellomont": 9,
+      "Bertha Dorset": 9,
+      "George Dorset": 9,
+      "Mr. Rosedale": 9,
+      "Mrs. Peniston": 9,
+      "Ned Silverton": 9
     }
   },
   {
-    "canonical_name": "Rosedale",
-    "aliases": [],
+    "canonical_name": "Mrs. Trenor",
+    "aliases": [
+      "Trenor"
+    ],
     "first_chapter": 1,
-    "total_mentions": 69,
+    "total_mentions": 72,
     "per_chapter": {
       "1": {
-        "mentions": 3,
-        "snippet": "Rosedale\u2014how are you?"
+        "mentions": 2,
+        "snippet": "\u201cMrs."
       },
       "2": {
-        "mentions": 10,
-        "snippet": "Rosedale was still"
+        "mentions": 4,
+        "snippet": "and the possibility of being taken for one of Mrs."
+      },
+      "4": {
+        "mentions": 12,
+        "snippet": "Mrs."
+      },
+      "5": {
+        "mentions": 14,
+        "snippet": "intentions of the family, but made Mrs."
       },
       "7": {
-        "mentions": 3,
-        "snippet": "Rosedale\u2019s name."
+        "mentions": 20,
+        "snippet": "It spoke much for the depth of Mrs."
       },
       "8": {
-        "mentions": 4,
-        "snippet": "Rosedale, who was slipping through the crowd"
-      },
-      "9": {
         "mentions": 2,
-        "snippet": "Rosedale about getting Haffen taken on"
+        "snippet": "Mrs."
       },
       "10": {
-        "mentions": 6,
-        "snippet": "Rosedale."
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "Rosedale"
+        "mentions": 2,
+        "snippet": "Mrs."
       },
       "12": {
-        "mentions": 2,
-        "snippet": "Rosedale a thousand."
+        "mentions": 6,
+        "snippet": "Mrs."
+      },
+      "13": {
+        "mentions": 8,
+        "snippet": "One was from Mrs."
       },
       "14": {
-        "mentions": 1,
-        "snippet": "Rosedale,\u201d Mrs."
-      },
-      "15": {
-        "mentions": 7,
-        "snippet": "Rosedale, tenaciously planted beside"
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "Rosedale wants"
-      },
-      "21": {
-        "mentions": 1,
-        "snippet": "Rosedale"
-      },
-      "22": {
         "mentions": 2,
-        "snippet": "Rosedale,\u201d she said quietly; \u201cand I"
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "Lily knew that Rosedale had overstated neither the difficulty"
-      },
-      "25": {
-        "mentions": 20,
-        "snippet": "Rosedale\u2014and despatched to Europe with old Ned Van Alstyne; but the"
-      },
-      "26": {
-        "mentions": 1,
-        "snippet": "Rosedale, whose presence seemed to take"
+        "snippet": "I hear Mrs."
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 16,
-      "Mr. Rosedale": 14,
-      "Mrs. Peniston": 11,
-      "Peniston": 11,
-      "Van Osburgh": 11,
-      "Mrs. Fisher": 11,
-      "Lily": 11,
-      "Gerty Farish": 10
+      "Bellomont": 10,
+      "Miss Bart": 10,
+      "Mrs. Fisher": 10,
+      "Mrs. Peniston": 9,
+      "Peniston": 9,
+      "Bertha Dorset": 8,
+      "Carry Fisher": 8,
+      "George Dorset": 8
     }
   },
   {
@@ -762,39 +524,39 @@
     "aliases": [
       "Hubert"
     ],
-    "first_chapter": 7,
+    "first_chapter": 1,
     "total_mentions": 69,
     "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "I suppose she brought in Prince Varigliano\u2014and Lord Hubert\u2014and"
-      },
-      "16": {
+      "1": {
         "mentions": 27,
         "snippet": "Lord Hubert says it\u2019s the only"
       },
-      "17": {
+      "2": {
         "mentions": 18,
         "snippet": "Lord Hubert with all his usual virtuosity, was the pleasanter"
       },
-      "18": {
+      "3": {
         "mentions": 15,
         "snippet": "Lord Hubert and Mrs."
       },
-      "19": {
+      "4": {
         "mentions": 6,
         "snippet": "catastrophe from Lord Hubert, had instantly offered her protection,"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "I suppose she brought in Prince Varigliano\u2014and Lord Hubert\u2014and"
       }
     },
     "co_occurs_with": {
       "Bertha Dorset": 5,
+      "Dorset": 5,
+      "George Dorset": 5,
       "Miss Bart": 5,
+      "Mrs. Dorset": 5,
       "Mrs. Fisher": 5,
-      "Dorset": 4,
-      "George Dorset": 4,
-      "Mr. Selden": 4,
-      "Mrs. Dorset": 4,
-      "Selden": 4
+      "Bellomont": 4,
+      "Lily Bart": 4
     }
   },
   {
@@ -802,16 +564,24 @@
     "aliases": [
       "Stepney"
     ],
-    "first_chapter": 4,
-    "total_mentions": 59,
+    "first_chapter": 3,
+    "total_mentions": 58,
     "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "Stepney slipped nervously behind her"
+      },
       "4": {
-        "mentions": 1,
-        "snippet": "Stepney had been reduced to a crust."
+        "mentions": 15,
+        "snippet": "a surging of sable figures toward the corner in which Miss Stepney"
       },
       "7": {
         "mentions": 3,
         "snippet": "Stepney and Dorset had returned to town (it seemed to Lily a last"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Stepney, trembling over the narrowness of her only brother\u2019s"
       },
       "11": {
         "mentions": 36,
@@ -820,235 +590,17 @@
       "14": {
         "mentions": 1,
         "snippet": "Stepney was right; the house is dark,"
-      },
-      "18": {
-        "mentions": 2,
-        "snippet": "Stepney slipped nervously behind her"
-      },
-      "19": {
-        "mentions": 15,
-        "snippet": "a surging of sable figures toward the corner in which Miss Stepney"
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "Stepney, trembling over the narrowness of her only brother\u2019s"
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 7,
-      "Mrs. Fisher": 7,
-      "Carry Fisher": 6,
-      "Mrs. Trenor": 5,
-      "Trenor": 5,
-      "Bertha Dorset": 5,
+      "Miss Bart": 6,
+      "Mrs. Fisher": 6,
+      "Dorset": 5,
       "George Dorset": 5,
-      "Gerty Farish": 4
-    }
-  },
-  {
-    "canonical_name": "Trenor",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 58,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "Trenor asked me; but I can\u2019t get away till the end of the"
-      },
-      "2": {
-        "mentions": 2,
-        "snippet": "Trenor\u2019s guests"
-      },
-      "4": {
-        "mentions": 20,
-        "snippet": "Trenor\u2019s summons, however, suddenly recalled her state of"
-      },
-      "5": {
-        "mentions": 7,
-        "snippet": "Trenor feel, when she"
-      },
-      "7": {
-        "mentions": 10,
-        "snippet": "Trenor\u2019s friendship that her"
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "Trenor evidently"
-      },
-      "10": {
-        "mentions": 2,
-        "snippet": "Trenor at the moment\u2014they say Gus doesn\u2019t always,"
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "Trenor was still at Bellomont, keeping the town-house open,"
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "Trenor, who announced that she was coming to town"
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "Trenor wants to build out a new ball-room,"
-      },
-      "19": {
-        "mentions": 6,
-        "snippet": "Trenor, who had treasures of easy-going tolerance for those"
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "Trenor\u2019s"
-      }
-    },
-    "co_occurs_with": {
-      "Miss Bart": 12,
-      "Mrs. Trenor": 12,
-      "Bellomont": 10,
-      "Mrs. Peniston": 9,
-      "Peniston": 9,
-      "Van Osburgh": 9,
-      "Rosedale": 8,
-      "George Dorset": 8
-    }
-  },
-  {
-    "canonical_name": "Mrs. Trenor",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 56,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "\u201cMrs."
-      },
-      "2": {
-        "mentions": 2,
-        "snippet": "and the possibility of being taken for one of Mrs."
-      },
-      "4": {
-        "mentions": 19,
-        "snippet": "Mrs."
-      },
-      "5": {
-        "mentions": 7,
-        "snippet": "intentions of the family, but made Mrs."
-      },
-      "7": {
-        "mentions": 10,
-        "snippet": "It spoke much for the depth of Mrs."
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "Mrs."
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "thinking of Mrs."
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "Mrs."
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "One was from Mrs."
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "I hear Mrs."
-      },
-      "19": {
-        "mentions": 6,
-        "snippet": "Mrs."
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Miss Bart": 12,
-      "Trenor": 12,
-      "Bellomont": 10,
-      "Mrs. Peniston": 9,
-      "Peniston": 9,
-      "Van Osburgh": 9,
-      "Rosedale": 8,
-      "George Dorset": 8
-    }
-  },
-  {
-    "canonical_name": "Dorset",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 55,
-    "per_chapter": {
-      "2": {
-        "mentions": 1,
-        "snippet": "Dorset leaned back against her travelling cushions with a"
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "Dorset might startle or dazzle him,"
-      },
-      "4": {
-        "mentions": 1,
-        "snippet": "Dorset, breaking away from a lifeless colloquy"
-      },
-      "5": {
-        "mentions": 16,
-        "snippet": "Dorset."
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "Dorset to"
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "Dorset the"
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "Dorset\u2019s letters, she might have continued to hate her; but the"
-      },
-      "12": {
-        "mentions": 2,
-        "snippet": "Dorset"
-      },
-      "16": {
-        "mentions": 2,
-        "snippet": "Dorset"
-      },
-      "17": {
-        "mentions": 12,
-        "snippet": "Dorset had not yet appeared, and that"
-      },
-      "18": {
-        "mentions": 7,
-        "snippet": "Dorset"
-      },
-      "21": {
-        "mentions": 1,
-        "snippet": "Dorset\u2019s influence was still in"
-      },
-      "22": {
-        "mentions": 2,
-        "snippet": "Dorset, for"
-      },
-      "26": {
-        "mentions": 3,
-        "snippet": "Dorset; and the temptation was the less easy to put aside because,"
-      }
-    },
-    "co_occurs_with": {
-      "Miss Bart": 14,
-      "Mrs. Dorset": 14,
-      "George Dorset": 12,
-      "Bertha Dorset": 12,
-      "Mrs. Fisher": 10,
-      "Van Osburgh": 9,
-      "Lily": 9,
-      "Lawrence Selden": 8
+      "Gerty Farish": 5,
+      "Miss Farish": 5,
+      "Mrs. Dorset": 5,
+      "Mrs. Peniston": 5
     }
   },
   {
@@ -1104,87 +656,135 @@
     },
     "co_occurs_with": {
       "Miss Bart": 11,
+      "Mrs. Fisher": 11,
       "Mrs. Trenor": 10,
-      "Trenor": 10,
-      "Van Osburgh": 9,
-      "Selden": 8,
-      "Mr. Rosedale": 7,
-      "Mrs. Peniston": 7,
-      "Peniston": 7
+      "Bertha Dorset": 9,
+      "Carry Fisher": 9,
+      "George Dorset": 9,
+      "Mr. Rosedale": 9,
+      "Mrs. Peniston": 9
     }
   },
   {
-    "canonical_name": "Mrs. Dorset",
+    "canonical_name": "Rosedale",
     "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 51,
+    "first_chapter": 1,
+    "total_mentions": 53,
     "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Rosedale\u2014how are you?"
+      },
       "2": {
-        "mentions": 1,
-        "snippet": "And Mrs."
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "Mrs."
-      },
-      "4": {
-        "mentions": 1,
-        "snippet": "to answer, Mrs."
+        "mentions": 10,
+        "snippet": "Rosedale was still"
       },
       "5": {
-        "mentions": 12,
-        "snippet": "and the ill-humour of Mrs."
+        "mentions": 1,
+        "snippet": "Rosedale wants"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "Rosedale"
       },
       "7": {
+        "mentions": 2,
+        "snippet": "Rosedale,\u201d she said quietly; \u201cand I"
+      },
+      "8": {
         "mentions": 3,
-        "snippet": "such moments of diminished interest it was usual for Mrs."
+        "snippet": "Lily knew that Rosedale had overstated neither the difficulty"
       },
       "9": {
-        "mentions": 3,
-        "snippet": "reseating herself, she went on: \u201cMolly thought Mrs."
+        "mentions": 2,
+        "snippet": "Rosedale about getting Haffen taken on"
       },
       "10": {
+        "mentions": 20,
+        "snippet": "Rosedale\u2014and despatched to Europe with old Ned Van Alstyne; but the"
+      },
+      "11": {
         "mentions": 1,
-        "snippet": "If she had destroyed Mrs."
+        "snippet": "Rosedale, whose presence seemed to take"
       },
       "12": {
         "mentions": 2,
-        "snippet": "Mrs."
+        "snippet": "Rosedale a thousand."
       },
-      "16": {
-        "mentions": 2,
-        "snippet": "Mrs."
-      },
-      "17": {
-        "mentions": 12,
-        "snippet": "from a steward that Mrs."
-      },
-      "18": {
-        "mentions": 7,
-        "snippet": "She had learned, on leaving her room, that Mrs."
-      },
-      "21": {
+      "14": {
         "mentions": 1,
-        "snippet": "immediately conscious that Mrs."
+        "snippet": "Rosedale,\u201d Mrs."
       },
-      "22": {
-        "mentions": 2,
-        "snippet": "Mrs."
-      },
-      "26": {
-        "mentions": 3,
-        "snippet": "at once, on the sole condition of a reconciliation with Mrs."
+      "15": {
+        "mentions": 7,
+        "snippet": "Rosedale, tenaciously planted beside"
       }
     },
     "co_occurs_with": {
-      "Dorset": 14,
-      "Miss Bart": 14,
-      "George Dorset": 12,
-      "Bertha Dorset": 12,
-      "Mrs. Fisher": 10,
-      "Van Osburgh": 9,
-      "Lily": 9,
-      "Lawrence Selden": 8
+      "Miss Bart": 12,
+      "Mr. Rosedale": 12,
+      "Mrs. Fisher": 12,
+      "Carry Fisher": 11,
+      "Bertha Dorset": 10,
+      "Mrs. Peniston": 10,
+      "Peniston": 10,
+      "Van Osburgh": 10
+    }
+  },
+  {
+    "canonical_name": "Miss Farish",
+    "aliases": [
+      "Farish"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 51,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "reading-lamp, she had a vision of Miss Farish\u2019s cramped flat, with"
+      },
+      "4": {
+        "mentions": 13,
+        "snippet": "But Miss Farish could not pause over the legacies; she broke into"
+      },
+      "8": {
+        "mentions": 9,
+        "snippet": "Lily, since her return to town, had not often climbed Miss"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "for her share in the Hatch affair, joined her efforts to Miss"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "Miss"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "something to do with the quality of his cousin\u2019s pleasure; but Miss"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "I was one of the girls at Miss Farish\u2019s club\u2014you helped me to go"
+      },
+      "14": {
+        "mentions": 11,
+        "snippet": "blinded Miss Farish, who was accustomed, in the way of happiness,"
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "she would not have strength to reach home, she had gone to Miss"
+      }
+    },
+    "co_occurs_with": {
+      "Miss Bart": 9,
+      "Mrs. Fisher": 9,
+      "Mrs. Peniston": 9,
+      "Peniston": 9,
+      "Gerty Farish": 7,
+      "Carry Fisher": 7,
+      "Bertha Dorset": 6,
+      "George Dorset": 6
     }
   },
   {
@@ -1232,87 +832,137 @@
     },
     "co_occurs_with": {
       "Miss Bart": 9,
+      "Mrs. Fisher": 9,
+      "Bertha Dorset": 8,
+      "Dorset": 8,
+      "George Dorset": 8,
+      "Lily": 8,
       "Mr. Gryce": 8,
-      "Percy Gryce": 8,
-      "Van Osburgh": 8,
-      "George Dorset": 7,
-      "Bellomont": 6,
-      "Dorset": 6,
-      "Judy Trenor": 6
+      "Mrs. Dorset": 8
     }
   },
   {
-    "canonical_name": "Mr. Rosedale",
+    "canonical_name": "Dorset",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 50,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "Dorset"
+      },
+      "2": {
+        "mentions": 12,
+        "snippet": "Dorset had not yet appeared, and that"
+      },
+      "3": {
+        "mentions": 7,
+        "snippet": "Dorset"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "Dorset, breaking away from a lifeless colloquy"
+      },
+      "5": {
+        "mentions": 16,
+        "snippet": "Dorset."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "Dorset\u2019s influence was still in"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "Dorset, for"
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "Dorset the"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Dorset\u2019s letters, she might have continued to hate her; but the"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "Dorset; and the temptation was the less easy to put aside because,"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "Dorset"
+      }
+    },
+    "co_occurs_with": {
+      "George Dorset": 11,
+      "Miss Bart": 11,
+      "Mrs. Dorset": 11,
+      "Mrs. Fisher": 11,
+      "Bertha Dorset": 10,
+      "Van Osburgh": 10,
+      "Carry Fisher": 9,
+      "Gerty Farish": 9
+    }
+  },
+  {
+    "canonical_name": "Mrs. Dorset",
     "aliases": [],
     "first_chapter": 1,
     "total_mentions": 46,
     "per_chapter": {
       "1": {
-        "mentions": 3,
-        "snippet": "\u201cOh, Mr."
+        "mentions": 2,
+        "snippet": "Mrs."
       },
       "2": {
-        "mentions": 10,
-        "snippet": "Mr."
+        "mentions": 12,
+        "snippet": "from a steward that Mrs."
+      },
+      "3": {
+        "mentions": 7,
+        "snippet": "She had learned, on leaving her room, that Mrs."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "to answer, Mrs."
+      },
+      "5": {
+        "mentions": 12,
+        "snippet": "and the ill-humour of Mrs."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "immediately conscious that Mrs."
       },
       "7": {
-        "mentions": 3,
-        "snippet": "rudely interrupted by the mention of Mr."
-      },
-      "8": {
-        "mentions": 4,
-        "snippet": "countenance of Mr."
+        "mentions": 2,
+        "snippet": "Mrs."
       },
       "9": {
-        "mentions": 2,
-        "snippet": "Selden or to Mr."
+        "mentions": 3,
+        "snippet": "reseating herself, she went on: \u201cMolly thought Mrs."
       },
       "10": {
-        "mentions": 6,
-        "snippet": "of a visit from Mr."
+        "mentions": 1,
+        "snippet": "If she had destroyed Mrs."
       },
       "11": {
         "mentions": 3,
-        "snippet": "Mr."
+        "snippet": "at once, on the sole condition of a reconciliation with Mrs."
       },
       "12": {
         "mentions": 2,
-        "snippet": "us five hundred, and Mr."
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "Mr."
-      },
-      "15": {
-        "mentions": 7,
-        "snippet": "till Selden appeared, but Mr."
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "to her; but after a moment she said carelessly: \u201cMr."
-      },
-      "21": {
-        "mentions": 1,
-        "snippet": "it was hardly with surprise that she found, instead, Mr."
-      },
-      "22": {
-        "mentions": 2,
-        "snippet": "\u201cI DO believe what you say, Mr."
-      },
-      "26": {
-        "mentions": 1,
-        "snippet": "conspicuous figure of Mr."
+        "snippet": "Mrs."
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 14,
-      "Rosedale": 14,
+      "Dorset": 11,
+      "George Dorset": 11,
+      "Miss Bart": 11,
+      "Mrs. Fisher": 11,
+      "Bertha Dorset": 10,
       "Van Osburgh": 10,
-      "Lily": 10,
-      "Mrs. Peniston": 9,
-      "Peniston": 9,
-      "George Dorset": 9,
-      "Mrs. Fisher": 9
+      "Carry Fisher": 9,
+      "Gerty Farish": 9
     }
   },
   {
@@ -1355,109 +1005,103 @@
       }
     },
     "co_occurs_with": {
+      "Bertha Dorset": 8,
       "Gryce": 8,
       "Miss Bart": 8,
-      "Percy Gryce": 7,
-      "Van Osburgh": 7,
-      "Bellomont": 6,
-      "Dorset": 6,
-      "George Dorset": 6,
-      "Judy Trenor": 6
+      "Mrs. Fisher": 8,
+      "Dorset": 7,
+      "George Dorset": 7,
+      "Judy Trenor": 7,
+      "Lawrence Selden": 7
     }
   },
   {
-    "canonical_name": "Bertha Dorset",
-    "aliases": [
-      "Bertha"
-    ],
-    "first_chapter": 3,
-    "total_mentions": 41,
+    "canonical_name": "Mr. Rosedale",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 40,
     "per_chapter": {
-      "3": {
-        "mentions": 1,
-        "snippet": "Bertha Dorset, whose husband showered money on her, must have"
-      },
-      "4": {
+      "1": {
         "mentions": 3,
-        "snippet": "\u201cNo\u2014I heard her tell Bertha Dorset that she had six months to put"
+        "snippet": "\u201cOh, Mr."
+      },
+      "2": {
+        "mentions": 10,
+        "snippet": "Mr."
       },
       "5": {
-        "mentions": 2,
-        "snippet": "or Bertha Dorset?"
+        "mentions": 1,
+        "snippet": "to her; but after a moment she said carelessly: \u201cMr."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "it was hardly with surprise that she found, instead, Mr."
       },
       "7": {
-        "mentions": 7,
-        "snippet": "Even Bertha kept her hands off\u2014I will"
+        "mentions": 2,
+        "snippet": "\u201cI DO believe what you say, Mr."
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "countenance of Mr."
       },
       "9": {
-        "mentions": 3,
-        "snippet": "hands Bertha Dorset\u2019s secret had been delivered!"
+        "mentions": 2,
+        "snippet": "Selden or to Mr."
       },
       "10": {
+        "mentions": 6,
+        "snippet": "of a visit from Mr."
+      },
+      "11": {
         "mentions": 1,
-        "snippet": "nothing surprising in an invitation from Bertha Dorset; but since"
+        "snippet": "conspicuous figure of Mr."
       },
       "12": {
+        "mentions": 2,
+        "snippet": "us five hundred, and Mr."
+      },
+      "14": {
         "mentions": 1,
-        "snippet": "that she owed all her troubles to the enmity of Bertha Dorset."
+        "snippet": "Mr."
       },
       "15": {
-        "mentions": 1,
-        "snippet": "Lily tore it open with shaking hands, and read Bertha Dorset\u2019s name"
-      },
-      "16": {
-        "mentions": 8,
-        "snippet": "Bertha whisked the yacht off to Sicily: the Crown Princess didn\u2019t"
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "Bertha Dorset, but neither was she without a sense of obligation,"
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "And why should Bertha Dorset have turned into an enemy at"
-      },
-      "19": {
-        "mentions": 1,
-        "snippet": "case it\u2019s a great deal easier to believe Bertha Dorset\u2019s story"
-      },
-      "21": {
-        "mentions": 2,
-        "snippet": "loneliness; and her resentment of Bertha Dorset\u2019s cruelty softened"
-      },
-      "22": {
-        "mentions": 3,
-        "snippet": "and against far greater odds, if Bertha Dorset should succeed in"
-      },
-      "23": {
-        "mentions": 4,
-        "snippet": "its last analysis, was simply the power of money: Bertha Dorset\u2019s"
-      },
-      "25": {
-        "mentions": 2,
-        "snippet": "others, and besides she\u2019s always hated Bertha Dorset."
+        "mentions": 7,
+        "snippet": "till Selden appeared, but Mr."
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 16,
-      "Mrs. Fisher": 14,
-      "George Dorset": 13,
-      "Dorset": 12,
-      "Mrs. Dorset": 12,
+      "Miss Bart": 12,
+      "Mrs. Fisher": 12,
+      "Rosedale": 12,
+      "Carry Fisher": 11,
+      "Bertha Dorset": 10,
       "Mrs. Peniston": 10,
       "Peniston": 10,
-      "Carry Fisher": 10
+      "Van Osburgh": 10
     }
   },
   {
     "canonical_name": "Bry",
     "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 41,
+    "first_chapter": 1,
+    "total_mentions": 40,
     "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "Bry"
+      },
+      "2": {
+        "mentions": 8,
+        "snippet": "Bry\u2014HE\u2019S funny\u2014\u201d but"
+      },
+      "3": {
+        "mentions": 12,
+        "snippet": "Bry."
+      },
       "10": {
         "mentions": 1,
-        "snippet": "Bry\u2019s admiration was a mirror in which Lily\u2019s self-complacency"
+        "snippet": "Bry and Mrs."
       },
       "12": {
         "mentions": 5,
@@ -1466,44 +1110,208 @@
       "14": {
         "mentions": 2,
         "snippet": "Bry thinks her house"
-      },
-      "16": {
-        "mentions": 12,
-        "snippet": "Bry"
-      },
-      "17": {
-        "mentions": 8,
-        "snippet": "Bry\u2014HE\u2019S funny\u2014\u201d but"
-      },
-      "18": {
-        "mentions": 12,
-        "snippet": "Bry."
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "Bry and Mrs."
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 7,
-      "Mrs. Bry": 7,
-      "Mrs. Fisher": 7,
-      "Bertha Dorset": 6,
-      "Dorset": 5,
-      "George Dorset": 5,
-      "Mrs. Dorset": 5,
-      "Mrs. Peniston": 5
+      "Miss Bart": 6,
+      "Mrs. Bry": 6,
+      "Mrs. Fisher": 6,
+      "Mrs. Peniston": 6,
+      "Peniston": 6,
+      "Bellomont": 5,
+      "Bertha Dorset": 5,
+      "Dorset": 5
+    }
+  },
+  {
+    "canonical_name": "Bertha Dorset",
+    "aliases": [
+      "Bertha"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 36,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "Bertha whisked the yacht off to Sicily: the Crown Princess didn\u2019t"
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "Bertha Dorset, but neither was she without a sense of obligation,"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "And why should Bertha Dorset have turned into an enemy at"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "case it\u2019s a great deal easier to believe Bertha Dorset\u2019s story"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "or Bertha Dorset?"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "loneliness; and her resentment of Bertha Dorset\u2019s cruelty softened"
+      },
+      "7": {
+        "mentions": 10,
+        "snippet": "and against far greater odds, if Bertha Dorset should succeed in"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "its last analysis, was simply the power of money: Bertha Dorset\u2019s"
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "hands Bertha Dorset\u2019s secret had been delivered!"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "others, and besides she\u2019s always hated Bertha Dorset."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "that she owed all her troubles to the enmity of Bertha Dorset."
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "Lily tore it open with shaking hands, and read Bertha Dorset\u2019s name"
+      }
+    },
+    "co_occurs_with": {
+      "Miss Bart": 12,
+      "Mrs. Fisher": 12,
+      "Carry Fisher": 10,
+      "Dorset": 10,
+      "George Dorset": 10,
+      "Mr. Rosedale": 10,
+      "Mrs. Dorset": 10,
+      "Mrs. Peniston": 10
+    }
+  },
+  {
+    "canonical_name": "Gerty",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 36,
+    "per_chapter": {
+      "9": {
+        "mentions": 10,
+        "snippet": "\u201cGerty told me that you were acting as Mrs."
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "Gerty!"
+      },
+      "14": {
+        "mentions": 12,
+        "snippet": "surprise to see, as he entered, that it had been opened by Gerty"
+      },
+      "15": {
+        "mentions": 10,
+        "snippet": "the constriction of her attitude in Gerty\u2019s bed."
+      }
+    },
+    "co_occurs_with": {
+      "Miss Bart": 4,
+      "Mrs. Fisher": 4,
+      "Mrs. Peniston": 4,
+      "Peniston": 4,
+      "Carry Fisher": 3,
+      "Lawrence Selden": 3,
+      "Miss Farish": 3,
+      "Mr. Rosedale": 3
+    }
+  },
+  {
+    "canonical_name": "Aunt Julia",
+    "aliases": [
+      "Julia"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 34,
+    "per_chapter": {
+      "4": {
+        "mentions": 6,
+        "snippet": "\u201cAny one who knew how to please Aunt Julia has a right to her"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "\u201cOh, cousin Julia ."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "room at Aunt Julia\u2019s\u2014so I came here\u2014\u2014\u201d"
+      },
+      "15": {
+        "mentions": 22,
+        "snippet": "And Aunt Julia\u2014?"
+      }
+    },
+    "co_occurs_with": {
+      "Carry Fisher": 4,
+      "Miss Bart": 4,
+      "Miss Farish": 4,
+      "Mrs. Fisher": 4,
+      "Mrs. Peniston": 4,
+      "Peniston": 4,
+      "Gerty Farish": 3,
+      "Lawrence Selden": 3
+    }
+  },
+  {
+    "canonical_name": "Mrs. Bry",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 31,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "Duchess of Beltshire has taken up Becassin\u2019s lately,\u201d Mrs."
+      },
+      "2": {
+        "mentions": 5,
+        "snippet": "Mrs."
+      },
+      "3": {
+        "mentions": 10,
+        "snippet": "Lord Hubert and Mrs."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "owed the patronage of Mrs."
+      },
+      "12": {
+        "mentions": 5,
+        "snippet": "in a dull moment, succumbed to the temptation of Mrs."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "I\u2019m sure Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Bry": 6,
+      "Miss Bart": 6,
+      "Mrs. Fisher": 6,
+      "Mrs. Peniston": 6,
+      "Peniston": 6,
+      "Bellomont": 5,
+      "Bertha Dorset": 5,
+      "Dorset": 5
     }
   },
   {
     "canonical_name": "Van Osburgh",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 40,
+    "total_mentions": 30,
     "per_chapter": {
       "1": {
-        "mentions": 2,
-        "snippet": "Van Osburgh\u2019s conservatory\u2014and some of the women"
+        "mentions": 1,
+        "snippet": "the Van Osburgh husbands were apt to do; but his wife, to his"
       },
       "2": {
         "mentions": 2,
@@ -1515,7 +1323,7 @@
       },
       "5": {
         "mentions": 1,
-        "snippet": "was certain to be playing tennis with Jack Stepney and Miss Van"
+        "snippet": "disdain of the big Van Osburgh crushes; and all he now needed was a"
       },
       "6": {
         "mentions": 1,
@@ -1530,395 +1338,31 @@
         "snippet": "the occasion of Jack Stepney\u2019s marriage to Miss Van Osburgh."
       },
       "9": {
-        "mentions": 5,
-        "snippet": "on the afternoon of her return from the Van Osburgh wedding."
+        "mentions": 2,
+        "snippet": "little Freddy Van Osburgh, the small slim heir of the Van Osburgh"
       },
       "10": {
-        "mentions": 1,
-        "snippet": "of the Van Osburgh wedding, and in his continued absence the trace"
+        "mentions": 2,
+        "snippet": "Van Osburgh was not to marry Mrs."
       },
       "11": {
         "mentions": 1,
-        "snippet": "Evie Van Osburgh was at Celeste\u2019s ordering"
+        "snippet": "Van Osburgh, swaying majestically in her"
       },
       "12": {
         "mentions": 1,
         "snippet": "They had not met since the day of the Van Osburgh wedding, and on"
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "the Van Osburgh husbands were apt to do; but his wife, to his"
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "disdain of the big Van Osburgh crushes; and all he now needed was a"
-      },
-      "24": {
-        "mentions": 2,
-        "snippet": "little Freddy Van Osburgh, the small slim heir of the Van Osburgh"
-      },
-      "25": {
-        "mentions": 2,
-        "snippet": "Van Osburgh was not to marry Mrs."
-      },
-      "26": {
-        "mentions": 1,
-        "snippet": "Van Osburgh, swaying majestically in her"
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 16,
-      "Rosedale": 11,
-      "George Dorset": 11,
-      "Lily": 11,
-      "Mr. Rosedale": 10,
-      "Mrs. Peniston": 10,
-      "Peniston": 10,
-      "Carry Fisher": 10
-    }
-  },
-  {
-    "canonical_name": "Gerty",
-    "aliases": [],
-    "first_chapter": 13,
-    "total_mentions": 36,
-    "per_chapter": {
-      "13": {
-        "mentions": 4,
-        "snippet": "Gerty!"
-      },
-      "15": {
-        "mentions": 10,
-        "snippet": "the constriction of her attitude in Gerty\u2019s bed."
-      },
-      "24": {
-        "mentions": 10,
-        "snippet": "\u201cGerty told me that you were acting as Mrs."
-      },
-      "29": {
-        "mentions": 12,
-        "snippet": "surprise to see, as he entered, that it had been opened by Gerty"
-      }
-    },
-    "co_occurs_with": {
-      "Miss Bart": 4,
-      "Mrs. Peniston": 3,
-      "Peniston": 3,
-      "Lily": 3,
-      "Mrs. Fisher": 3,
-      "Gus Trenor": 2,
-      "Selden": 2,
-      "Carry Fisher": 2
-    }
-  },
-  {
-    "canonical_name": "Aunt Julia",
-    "aliases": [
-      "Julia"
-    ],
-    "first_chapter": 11,
-    "total_mentions": 34,
-    "per_chapter": {
-      "11": {
-        "mentions": 3,
-        "snippet": "\u201cOh, cousin Julia ."
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "room at Aunt Julia\u2019s\u2014so I came here\u2014\u2014\u201d"
-      },
-      "15": {
-        "mentions": 22,
-        "snippet": "And Aunt Julia\u2014?"
-      },
-      "19": {
-        "mentions": 6,
-        "snippet": "\u201cAny one who knew how to please Aunt Julia has a right to her"
-      }
-    },
-    "co_occurs_with": {
-      "Carry Fisher": 4,
-      "Miss Bart": 4,
-      "Miss Farish": 4,
-      "Mrs. Fisher": 4,
-      "Mrs. Peniston": 4,
-      "Peniston": 4,
-      "Gerty Farish": 3,
-      "Miss Stepney": 3
-    }
-  },
-  {
-    "canonical_name": "Carry Fisher",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 32,
-    "per_chapter": {
-      "4": {
-        "mentions": 5,
-        "snippet": "They disapprove of Carry Fisher, you know."
-      },
-      "5": {
-        "mentions": 2,
-        "snippet": "Lily reviewed them with a scornful impatience: Carry Fisher, with"
-      },
-      "7": {
-        "mentions": 2,
-        "snippet": "It seems Ned told Carry Fisher;"
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "Carry Fisher here to keep him in a good humour."
-      },
-      "11": {
-        "mentions": 1,
-        "snippet": "likely to know where Carry Fisher had found the Welly Brys\u2019 CHEF"
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "never have occurred to Carry Fisher to put me on the list, and I"
-      },
-      "14": {
-        "mentions": 2,
-        "snippet": "Carry Fisher\u2019s; but she now saw that other nerve-centres were"
-      },
-      "15": {
-        "mentions": 2,
-        "snippet": "of faintness on her way back from Carry Fisher\u2019s; that, fearing"
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "luncheon, had been judiciously prevailed upon by Carry Fisher to"
-      },
-      "19": {
-        "mentions": 2,
-        "snippet": "affair was, as Carry Fisher brutally put it, to distract Dorset\u2019s"
-      },
-      "20": {
-        "mentions": 4,
-        "snippet": "knew her story\u2014of that her first long talk with Carry Fisher had"
-      },
-      "21": {
-        "mentions": 2,
-        "snippet": "possible that this was really the sense of Carry Fisher\u2019s"
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "from Carry Fisher; they thought Bertha Dorset would be such a good"
-      },
-      "24": {
-        "mentions": 1,
-        "snippet": "to whom Carry Fisher had directed her, she had been conscious of"
-      },
-      "25": {
-        "mentions": 3,
-        "snippet": "resistance; and even when Carry Fisher, momentarily penitent"
-      }
-    },
-    "co_occurs_with": {
-      "Miss Bart": 15,
-      "Mrs. Fisher": 13,
+      "Miss Bart": 11,
+      "Mrs. Fisher": 11,
       "Bertha Dorset": 10,
+      "Carry Fisher": 10,
+      "Dorset": 10,
       "George Dorset": 10,
-      "Mrs. Peniston": 10,
-      "Peniston": 10,
-      "Rosedale": 10,
-      "Van Osburgh": 10
-    }
-  },
-  {
-    "canonical_name": "Mrs. Bry",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 32,
-    "per_chapter": {
-      "10": {
-        "mentions": 1,
-        "snippet": "Mrs."
-      },
-      "12": {
-        "mentions": 5,
-        "snippet": "in a dull moment, succumbed to the temptation of Mrs."
-      },
-      "14": {
-        "mentions": 2,
-        "snippet": "I\u2019m sure Mrs."
-      },
-      "16": {
-        "mentions": 8,
-        "snippet": "Duchess of Beltshire has taken up Becassin\u2019s lately,\u201d Mrs."
-      },
-      "17": {
-        "mentions": 5,
-        "snippet": "Mrs."
-      },
-      "18": {
-        "mentions": 10,
-        "snippet": "Lord Hubert and Mrs."
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "owed the patronage of Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Bry": 7,
-      "Miss Bart": 7,
-      "Mrs. Fisher": 7,
-      "Bertha Dorset": 6,
-      "Dorset": 5,
-      "George Dorset": 5,
-      "Mrs. Dorset": 5,
-      "Mrs. Peniston": 5
-    }
-  },
-  {
-    "canonical_name": "George Dorset",
-    "aliases": [
-      "George"
-    ],
-    "first_chapter": 2,
-    "total_mentions": 31,
-    "per_chapter": {
-      "2": {
-        "mentions": 1,
-        "snippet": "George Dorset, regardless of the mild efforts of a traveller"
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "George Dorset, glittering in serpentine"
-      },
-      "4": {
-        "mentions": 3,
-        "snippet": "tell by poor George\u2019s manner."
-      },
-      "5": {
-        "mentions": 1,
-        "snippet": "Gryce, sending in the former with George Dorset, while Mr."
-      },
-      "7": {
-        "mentions": 1,
-        "snippet": "His betrothed looked shocked at the metaphor, and George Dorset"
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "But with a man of George Dorset\u2019s temper there could be no thought"
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "short by the opening of the box door to admit George Dorset."
-      },
-      "11": {
-        "mentions": 2,
-        "snippet": "Trenor\u2014and George Dorset\u2014\u2014\u201d"
-      },
-      "12": {
-        "mentions": 2,
-        "snippet": "George Dorset\u2019s pearls\u2014I"
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "after George Dorset while Bertha is reading Verlaine with Neddy"
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "They grew to sudden acuteness as she caught sight of George Dorset"
-      },
-      "19": {
-        "mentions": 1,
-        "snippet": "George Dorset."
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "\u201cDon\u2019t fly out at me till you hear my reasons\u2014George Dorset."
-      },
-      "21": {
-        "mentions": 4,
-        "snippet": "suddenly upon the figure of George Dorset."
-      },
-      "22": {
-        "mentions": 2,
-        "snippet": "her supposed influence over George Dorset; nor did the astonishing"
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "George Dorset."
-      },
-      "28": {
-        "mentions": 7,
-        "snippet": "I\u2019ve said to George again"
-      }
-    },
-    "co_occurs_with": {
-      "Miss Bart": 17,
-      "Bertha Dorset": 13,
-      "Mrs. Fisher": 13,
-      "Dorset": 12,
-      "Mrs. Dorset": 12,
-      "Mrs. Peniston": 12,
-      "Peniston": 12,
-      "Van Osburgh": 11
-    }
-  },
-  {
-    "canonical_name": "Lily Bart",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 29,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "Lily Bart."
-      },
-      "2": {
-        "mentions": 2,
-        "snippet": "afternoon hour in the company of Miss Lily Bart would have been"
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "possible factor in her plans, filled Lily Bart with envy."
-      },
-      "12": {
-        "mentions": 2,
-        "snippet": "and blood loveliness of Lily Bart."
-      },
-      "14": {
-        "mentions": 7,
-        "snippet": "to Lily Bart."
-      },
-      "16": {
-        "mentions": 2,
-        "snippet": "\u201cIt was Ned Silverton\u2019s idea\u2014but poor Dorset and Lily Bart must"
-      },
-      "19": {
-        "mentions": 3,
-        "snippet": "of the door, and Lily Bart appeared, tall and noble in her black"
-      },
-      "23": {
-        "mentions": 2,
-        "snippet": "freely with him of Lily Bart; but what had passed in the secrecy"
-      },
-      "27": {
-        "mentions": 1,
-        "snippet": "again\u2014but the Lily Bart you knew."
-      },
-      "28": {
-        "mentions": 1,
-        "snippet": "faith on Lily Bart; but the third trial had been too severe for"
-      },
-      "29": {
-        "mentions": 2,
-        "snippet": "see Lily Bart at once\u2014he had found the word he meant to say to her,"
-      }
-    },
-    "co_occurs_with": {
-      "Miss Bart": 10,
-      "Mrs. Peniston": 10,
-      "Peniston": 10,
-      "Selden": 7,
-      "Gerty Farish": 6,
-      "George Dorset": 6,
-      "Miss Farish": 6,
-      "Mrs. Fisher": 6
+      "Mr. Rosedale": 10,
+      "Mrs. Dorset": 10
     }
   },
   {
@@ -1935,126 +1379,80 @@
     "co_occurs_with": {
       "American Beauties": 1,
       "Bertha Dorset": 1,
+      "Bry": 1,
+      "Dear Mr": 1,
       "Dorset": 1,
+      "Duchess": 1,
       "George Dorset": 1,
-      "Gerty Farish": 1,
-      "Gryce": 1,
-      "Hudson Bart": 1,
-      "Judy Trenor": 1
+      "Gerty Farish": 1
     }
   },
   {
-    "canonical_name": "Gus Trenor",
+    "canonical_name": "George Dorset",
     "aliases": [
-      "Gus"
+      "George"
     ],
-    "first_chapter": 5,
-    "total_mentions": 29,
+    "first_chapter": 1,
+    "total_mentions": 27,
     "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "after George Dorset while Bertha is reading Verlaine with Neddy"
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "They grew to sudden acuteness as she caught sight of George Dorset"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "George Dorset, glittering in serpentine"
+      },
+      "4": {
+        "mentions": 4,
+        "snippet": "George Dorset."
+      },
       "5": {
-        "mentions": 2,
-        "snippet": "virtue\u2014when the house had been too uproarious over night\u2014Gus Trenor"
+        "mentions": 1,
+        "snippet": "\u201cDon\u2019t fly out at me till you hear my reasons\u2014George Dorset."
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "suddenly upon the figure of George Dorset."
       },
       "7": {
         "mentions": 2,
-        "snippet": "At the station she thought Gus Trenor seemed surprised, and not"
+        "snippet": "her supposed influence over George Dorset; nor did the astonishing"
       },
-      "8": {
-        "mentions": 3,
-        "snippet": "scrawl from Gus Trenor strengthened her self-confidence in the"
+      "9": {
+        "mentions": 1,
+        "snippet": "But with a man of George Dorset\u2019s temper there could be no thought"
       },
       "10": {
-        "mentions": 3,
-        "snippet": "added with a confidential smile: \u201cGus Trenor has promised to come"
+        "mentions": 1,
+        "snippet": "George Dorset."
       },
       "11": {
-        "mentions": 4,
-        "snippet": "\u201cGus Trenor?"
+        "mentions": 2,
+        "snippet": "Trenor\u2014and George Dorset\u2014\u2014\u201d"
       },
       "12": {
-        "mentions": 3,
-        "snippet": "imagined that the fact of letting Gus Trenor make a little money"
+        "mentions": 2,
+        "snippet": "George Dorset\u2019s pearls\u2014I"
       },
       "13": {
-        "mentions": 3,
-        "snippet": "Across it she said: \u201cDon\u2019t be absurd, Gus."
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "\u201cSorry, Gus\u2014I can\u2019t do it."
-      },
-      "25": {
-        "mentions": 2,
-        "snippet": "the eleventh hour\u2014some said by the efforts of Gus Trenor and"
-      },
-      "26": {
-        "mentions": 2,
-        "snippet": "\u201cOnly this: that it is exactly what Gus Trenor proposed; and that"
-      },
-      "28": {
-        "mentions": 1,
-        "snippet": "she had used had been Gus Trenor\u2019s."
-      },
-      "29": {
-        "mentions": 1,
-        "snippet": "the other letter he read Gus Trenor\u2019s name; and the flap of the"
+        "mentions": 7,
+        "snippet": "I\u2019ve said to George again"
       }
     },
     "co_occurs_with": {
       "Miss Bart": 12,
-      "Mrs. Peniston": 9,
-      "Peniston": 9,
-      "Mrs. Trenor": 8,
-      "Rosedale": 8,
-      "Selden": 8,
-      "Trenor": 8,
-      "Van Osburgh": 8
-    }
-  },
-  {
-    "canonical_name": "Miss Lily",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 28,
-    "per_chapter": {
-      "7": {
-        "mentions": 2,
-        "snippet": "Rosedale: by the way, Miss Lily, I wish you\u2019d try to persuade Judy"
-      },
-      "9": {
-        "mentions": 2,
-        "snippet": "certainly have preferred Miss Grace to Miss Lily."
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "wasn\u2019t my beautiful eyes you were after\u2014but I tell you what, Miss"
-      },
-      "20": {
-        "mentions": 4,
-        "snippet": "had known \u201cMiss Lily\u201d\u2014she was \u201cMiss Lily\u201d to him now\u2014before they"
-      },
-      "22": {
-        "mentions": 10,
-        "snippet": "before saying: \u201cMy dear Miss Lily, I\u2019m sorry if there\u2019s been any"
-      },
-      "25": {
-        "mentions": 7,
-        "snippet": "\u201cWhy, what\u2019s the matter, Miss Lily?"
-      },
-      "26": {
-        "mentions": 2,
-        "snippet": "\u201cLook here, Miss Lily, I\u2019m going to Europe next week: going over"
-      }
-    },
-    "co_occurs_with": {
-      "Lily": 7,
-      "Miss Bart": 7,
-      "Rosedale": 6,
-      "George Dorset": 5,
-      "Mr. Rosedale": 5,
-      "Mrs. Fisher": 5,
-      "Van Osburgh": 5,
-      "Bertha Dorset": 4
+      "Mrs. Fisher": 12,
+      "Dorset": 11,
+      "Mrs. Dorset": 11,
+      "Bertha Dorset": 10,
+      "Mrs. Peniston": 10,
+      "Peniston": 10,
+      "Van Osburgh": 10
     }
   },
   {
@@ -2090,69 +1488,45 @@
     }
   },
   {
-    "canonical_name": "Gerty Farish",
+    "canonical_name": "Miss Lily",
     "aliases": [],
-    "first_chapter": 1,
+    "first_chapter": 5,
     "total_mentions": 26,
     "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "\u201cOh, I know\u2014you mean Gerty Farish."
+      "5": {
+        "mentions": 4,
+        "snippet": "had known \u201cMiss Lily\u201d\u2014she was \u201cMiss Lily\u201d to him now\u2014before they"
       },
-      "3": {
-        "mentions": 1,
-        "snippet": "To be herself, or a Gerty Farish."
-      },
-      "8": {
-        "mentions": 2,
-        "snippet": "Gerty Farish\u2019s gown and the subdued lines of her hat: it is almost"
+      "7": {
+        "mentions": 10,
+        "snippet": "before saying: \u201cMy dear Miss Lily, I\u2019m sorry if there\u2019s been any"
       },
       "9": {
-        "mentions": 1,
-        "snippet": "was full of it: Molly was there, and Gerty Farish ran in for a"
+        "mentions": 2,
+        "snippet": "certainly have preferred Miss Grace to Miss Lily."
+      },
+      "10": {
+        "mentions": 7,
+        "snippet": "\u201cWhy, what\u2019s the matter, Miss Lily?"
       },
       "11": {
         "mentions": 2,
-        "snippet": "She knew that Gerty Farish admired her blindly, and"
+        "snippet": "\u201cLook here, Miss Lily, I\u2019m going to Europe next week: going over"
       },
-      "12": {
+      "13": {
         "mentions": 1,
-        "snippet": "He met Gerty Farish\u2019s brimming gaze."
-      },
-      "14": {
-        "mentions": 2,
-        "snippet": "had been a germ of truth in his declaration to Gerty Farish that he"
-      },
-      "19": {
-        "mentions": 7,
-        "snippet": "dress, with Gerty Farish at her side."
-      },
-      "20": {
-        "mentions": 3,
-        "snippet": "loose ends for the moment, but Gerty Farish is still in town, and"
-      },
-      "21": {
-        "mentions": 2,
-        "snippet": "Sunday with her friends; and, with Gerty Farish\u2019s aid, had"
-      },
-      "23": {
-        "mentions": 2,
-        "snippet": "To Gerty Farish, keeping watch over her with a tenderer if less"
-      },
-      "25": {
-        "mentions": 2,
-        "snippet": "To Gerty Farish\u2019s hopeful spirit a solution appeared to have been"
+        "snippet": "wasn\u2019t my beautiful eyes you were after\u2014but I tell you what, Miss"
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 12,
-      "Mrs. Peniston": 10,
-      "Peniston": 10,
-      "Rosedale": 10,
-      "Mrs. Fisher": 9,
-      "Carry Fisher": 9,
-      "Mr. Rosedale": 8,
-      "George Dorset": 8
+      "George Dorset": 6,
+      "Lily": 6,
+      "Miss Bart": 6,
+      "Mrs. Fisher": 6,
+      "Gus Trenor": 5,
+      "Mrs. Peniston": 5,
+      "Peniston": 5,
+      "Percy Gryce": 5
     }
   },
   {
@@ -2172,24 +1546,24 @@
       "Alice Wetherall": 1,
       "Benedick": 1,
       "Bertha Dorset": 1,
+      "Carry Fisher": 1,
       "Cornelia Van Alstyne": 1,
       "Dorset": 1,
       "Dying Gladiator": 1,
-      "Evie": 1,
-      "George Dorset": 1
+      "Emporium": 1
     }
   },
   {
     "canonical_name": "Duchess",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 2,
     "total_mentions": 26,
     "per_chapter": {
-      "17": {
+      "2": {
         "mentions": 21,
         "snippet": "She was engaged to breakfast that morning with the Duchess of"
       },
-      "18": {
+      "3": {
         "mentions": 5,
         "snippet": "Becassin\u2019s\u2014a little dinner to the Duchess,\u201d she flashed out before"
       }
@@ -2198,18 +1572,176 @@
       "Bertha Dorset": 2,
       "Bry": 2,
       "Dorset": 2,
+      "George Dorset": 2,
+      "Gryce": 2,
+      "Judy Trenor": 2,
       "Lawrence Selden": 2,
-      "Lily": 2,
-      "Lord Hubert": 2,
-      "Miss Bart": 2,
-      "Monte Carlo": 2
+      "Lily": 2
+    }
+  },
+  {
+    "canonical_name": "Gerty Farish",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 24,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "\u201cOh, I know\u2014you mean Gerty Farish."
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "To be herself, or a Gerty Farish."
+      },
+      "4": {
+        "mentions": 7,
+        "snippet": "dress, with Gerty Farish at her side."
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "loose ends for the moment, but Gerty Farish is still in town, and"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "Sunday with her friends; and, with Gerty Farish\u2019s aid, had"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "To Gerty Farish, keeping watch over her with a tenderer if less"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "was full of it: Molly was there, and Gerty Farish ran in for a"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "To Gerty Farish\u2019s hopeful spirit a solution appeared to have been"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "She knew that Gerty Farish admired her blindly, and"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "He met Gerty Farish\u2019s brimming gaze."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "had been a germ of truth in his declaration to Gerty Farish that he"
+      }
+    },
+    "co_occurs_with": {
+      "Miss Bart": 11,
+      "Mrs. Fisher": 11,
+      "Carry Fisher": 10,
+      "Mrs. Peniston": 10,
+      "Peniston": 10,
+      "Bertha Dorset": 9,
+      "Dorset": 9,
+      "George Dorset": 9
+    }
+  },
+  {
+    "canonical_name": "Carry Fisher",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 24,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "luncheon, had been judiciously prevailed upon by Carry Fisher to"
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "affair was, as Carry Fisher brutally put it, to distract Dorset\u2019s"
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "knew her story\u2014of that her first long talk with Carry Fisher had"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "possible that this was really the sense of Carry Fisher\u2019s"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "It seems Ned told Carry Fisher;"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "from Carry Fisher; they thought Bertha Dorset would be such a good"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "to whom Carry Fisher had directed her, she had been conscious of"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "resistance; and even when Carry Fisher, momentarily penitent"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "likely to know where Carry Fisher had found the Welly Brys\u2019 CHEF"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "never have occurred to Carry Fisher to put me on the list, and I"
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "Carry Fisher\u2019s; but she now saw that other nerve-centres were"
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "of faintness on her way back from Carry Fisher\u2019s; that, fearing"
+      }
+    },
+    "co_occurs_with": {
+      "Miss Bart": 12,
+      "Mrs. Fisher": 12,
+      "Mr. Rosedale": 11,
+      "Rosedale": 11,
+      "Bertha Dorset": 10,
+      "Gerty Farish": 10,
+      "Mrs. Peniston": 10,
+      "Peniston": 10
+    }
+  },
+  {
+    "canonical_name": "Judy",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 24,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "But Judy, though she must have been apprised of Miss"
+      },
+      "8": {
+        "mentions": 5,
+        "snippet": "We\u2019re all alone, and Judy is as cross"
+      },
+      "13": {
+        "mentions": 16,
+        "snippet": "Judy Trenor\u2019s summons was very welcome to Lily."
+      }
+    },
+    "co_occurs_with": {
+      "Bellomont": 3,
+      "Lily Bart": 3,
+      "Miss Bart": 3,
+      "Miss Farish": 3,
+      "Mrs. Fisher": 3,
+      "Mrs. Peniston": 3,
+      "Mrs. Trenor": 3,
+      "Peniston": 3
     }
   },
   {
     "canonical_name": "Percy Gryce",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 24,
+    "total_mentions": 22,
     "per_chapter": {
       "2": {
         "mentions": 4,
@@ -2241,98 +1773,112 @@
       },
       "11": {
         "mentions": 1,
-        "snippet": "Percy Gryce\u2014it seems he was really taken with her at first."
+        "snippet": "Percy Gryce at her side, and the new"
       },
       "12": {
         "mentions": 1,
-        "snippet": "Her experience with Percy Gryce"
-      },
-      "26": {
-        "mentions": 1,
-        "snippet": "Percy Gryce at her side, and the new"
-      },
-      "27": {
-        "mentions": 1,
         "snippet": "marry Percy Gryce\u2014what was it she was planning now?"
       },
-      "28": {
+      "13": {
         "mentions": 1,
         "snippet": "when she had decided to marry Percy Gryce."
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 11,
+      "Miss Bart": 10,
+      "Mrs. Fisher": 10,
       "George Dorset": 9,
-      "Van Osburgh": 9,
+      "Mrs. Peniston": 9,
+      "Peniston": 9,
+      "Bertha Dorset": 8,
       "Dorset": 8,
-      "Gryce": 8,
-      "Mrs. Dorset": 8,
-      "Mr. Gryce": 7,
-      "Mr. Rosedale": 7
+      "Gryce": 8
     }
   },
   {
-    "canonical_name": "Judy",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 24,
+    "canonical_name": "Gus Trenor",
+    "aliases": [
+      "Gus"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 22,
     "per_chapter": {
+      "5": {
+        "mentions": 2,
+        "snippet": "virtue\u2014when the house had been too uproarious over night\u2014Gus Trenor"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "At the station she thought Gus Trenor seemed surprised, and not"
+      },
       "8": {
-        "mentions": 5,
-        "snippet": "We\u2019re all alone, and Judy is as cross"
+        "mentions": 3,
+        "snippet": "scrawl from Gus Trenor strengthened her self-confidence in the"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "the eleventh hour\u2014some said by the efforts of Gus Trenor and"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "\u201cOnly this: that it is exactly what Gus Trenor proposed; and that"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "imagined that the fact of letting Gus Trenor make a little money"
       },
       "13": {
-        "mentions": 16,
-        "snippet": "Judy Trenor\u2019s summons was very welcome to Lily."
+        "mentions": 4,
+        "snippet": "she had used had been Gus Trenor\u2019s."
       },
-      "19": {
-        "mentions": 3,
-        "snippet": "But Judy, though she must have been apprised of Miss"
+      "14": {
+        "mentions": 4,
+        "snippet": "the other letter he read Gus Trenor\u2019s name; and the flap of the"
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 3,
-      "Mrs. Trenor": 3,
-      "Trenor": 3,
-      "Carry Fisher": 2,
-      "Gerty Farish": 2,
-      "Grace Stepney": 2,
-      "Jack Stepney": 2,
-      "Miss Farish": 2
+      "Miss Bart": 8,
+      "Mrs. Fisher": 8,
+      "Bellomont": 7,
+      "Carry Fisher": 7,
+      "Mr. Rosedale": 7,
+      "Mrs. Peniston": 7,
+      "Mrs. Trenor": 7,
+      "Peniston": 7
     }
   },
   {
     "canonical_name": "Brys",
     "aliases": [],
-    "first_chapter": 15,
+    "first_chapter": 1,
     "total_mentions": 22,
     "per_chapter": {
-      "15": {
-        "mentions": 3,
-        "snippet": "She had caught at the Brys\u2019 entertainment as"
-      },
-      "16": {
+      "1": {
         "mentions": 7,
         "snippet": "had come abroad with the Welly Brys at the moment when fashion"
       },
-      "17": {
+      "2": {
         "mentions": 7,
         "snippet": "to make my last will and testament\u2014I want to leave you the Brys."
       },
-      "20": {
+      "5": {
         "mentions": 5,
         "snippet": "good deal faster than the Brys, just because they didn\u2019t care as"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "She had caught at the Brys\u2019 entertainment as"
       }
     },
     "co_occurs_with": {
+      "Bertha Dorset": 4,
       "Miss Bart": 4,
+      "Mr. Rosedale": 4,
       "Mrs. Fisher": 4,
-      "Bertha Dorset": 3,
-      "Carry Fisher": 3,
-      "George Dorset": 3,
-      "Mrs. Peniston": 3,
-      "Peniston": 3,
-      "Lily": 3
+      "Mrs. Peniston": 4,
+      "Peniston": 4,
+      "Rosedale": 4,
+      "Bellomont": 3
     }
   },
   {
@@ -2340,50 +1886,114 @@
     "aliases": [
       "Gormer"
     ],
-    "first_chapter": 20,
+    "first_chapter": 5,
     "total_mentions": 22,
     "per_chapter": {
-      "20": {
+      "5": {
         "mentions": 2,
         "snippet": "genial Mrs."
       },
-      "21": {
+      "6": {
         "mentions": 14,
         "snippet": "There, while Mrs."
       },
-      "23": {
+      "8": {
         "mentions": 4,
         "snippet": "Mrs."
       },
-      "25": {
+      "10": {
         "mentions": 2,
         "snippet": "Bry and Mrs."
       }
     },
     "co_occurs_with": {
+      "Bellomont": 4,
+      "Bertha Dorset": 4,
       "Carry Fisher": 4,
       "Gerty Farish": 4,
+      "Judy Trenor": 4,
+      "Lily": 4,
       "Miss Bart": 4,
+      "Mr. Rosedale": 4
+    }
+  },
+  {
+    "canonical_name": "Lady Skiddaw",
+    "aliases": [
+      "Skiddaw"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 20,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Lady Skiddaw took her"
+      },
+      "3": {
+        "mentions": 7,
+        "snippet": "company with the Duchess, Lord and Lady Skiddaw and the Stepneys."
+      },
+      "4": {
+        "mentions": 5,
+        "snippet": "Lady Skiddaw sent her"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "Trenor, accompanied by Lady Skiddaw, who had come over for her"
+      }
+    },
+    "co_occurs_with": {
+      "Dorset": 4,
+      "George Dorset": 4,
+      "Gerty Farish": 4,
+      "Miss Bart": 4,
+      "Mrs. Dorset": 4,
       "Mrs. Fisher": 4,
-      "Rosedale": 4,
-      "Bertha Dorset": 3,
-      "Mrs. Peniston": 3,
-      "Peniston": 3
+      "Mrs. Peniston": 4,
+      "Peniston": 4
+    }
+  },
+  {
+    "canonical_name": "Miss Haines",
+    "aliases": [
+      "Haines"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 19,
+    "per_chapter": {
+      "10": {
+        "mentions": 19,
+        "snippet": "Miss Haines\u2019s active figure."
+      }
+    },
+    "co_occurs_with": {
+      "Arion Ball": 1,
+      "Bellomont": 1,
+      "Bertha Dorset": 1,
+      "Bry": 1,
+      "Carry Fisher": 1,
+      "Dorset": 1,
+      "Freddy Van Osburgh": 1,
+      "George Dorset": 1
     }
   },
   {
     "canonical_name": "Jack Stepney",
     "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 21,
+    "first_chapter": 1,
+    "total_mentions": 17,
     "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "Jack Stepney and Mrs."
+      },
       "2": {
         "mentions": 3,
         "snippet": "Jack Stepney, had obtained for him (in return for favours too"
       },
       "4": {
-        "mentions": 3,
-        "snippet": "it would be fun to get her away, and Jack Stepney, who knew her"
+        "mentions": 5,
+        "snippet": "Jack Stepney"
       },
       "5": {
         "mentions": 3,
@@ -2391,38 +2001,26 @@
       },
       "8": {
         "mentions": 1,
-        "snippet": "the occasion of Jack Stepney\u2019s marriage to Miss Van Osburgh."
+        "snippet": "for Miss Jane, and made a dreadful scene; and Jack Stepney and"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Jack Stepney:"
       },
       "14": {
         "mentions": 2,
         "snippet": "\u201d asked Jack Stepney, from the depths of a"
-      },
-      "16": {
-        "mentions": 2,
-        "snippet": "Jack Stepney and Mrs."
-      },
-      "19": {
-        "mentions": 5,
-        "snippet": "Jack Stepney"
-      },
-      "23": {
-        "mentions": 1,
-        "snippet": "for Miss Jane, and made a dreadful scene; and Jack Stepney and"
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "Jack Stepney:"
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 9,
-      "Carry Fisher": 8,
+      "Bellomont": 7,
+      "Miss Bart": 7,
+      "Mrs. Fisher": 7,
       "Mrs. Peniston": 7,
       "Mrs. Trenor": 7,
       "Peniston": 7,
-      "Trenor": 7,
-      "George Dorset": 6,
-      "Van Osburgh": 6
+      "Bertha Dorset": 6,
+      "Carry Fisher": 6
     }
   },
   {
@@ -2431,11 +2029,15 @@
       "Lawrence"
     ],
     "first_chapter": 2,
-    "total_mentions": 20,
+    "total_mentions": 17,
     "per_chapter": {
       "2": {
         "mentions": 1,
-        "snippet": "thought of the store she had laid in at Lawrence Selden\u2019s."
+        "snippet": "Dorset to consult with Lawrence Selden."
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "Miss Bart\u2019s telegram caught Lawrence Selden at the door of his"
       },
       "4": {
         "mentions": 3,
@@ -2449,9 +2051,13 @@
         "mentions": 1,
         "snippet": "You\u2019ve known Lawrence Selden for years\u2014why did"
       },
+      "8": {
+        "mentions": 1,
+        "snippet": "taking anxious counsel with Lawrence Selden, with whom, since his"
+      },
       "9": {
-        "mentions": 2,
-        "snippet": "Lawrence Selden, he was always one of the carefullest: burnt"
+        "mentions": 1,
+        "snippet": "she was surprised by a visit from Lawrence Selden."
       },
       "12": {
         "mentions": 3,
@@ -2464,93 +2070,17 @@
       "15": {
         "mentions": 2,
         "snippet": "Lawrence Selden was among the passengers sailing this"
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "Dorset to consult with Lawrence Selden."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "Miss Bart\u2019s telegram caught Lawrence Selden at the door of his"
-      },
-      "23": {
-        "mentions": 1,
-        "snippet": "taking anxious counsel with Lawrence Selden, with whom, since his"
-      },
-      "24": {
-        "mentions": 1,
-        "snippet": "she was surprised by a visit from Lawrence Selden."
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 12,
+      "Miss Bart": 10,
+      "Mrs. Fisher": 10,
       "Bertha Dorset": 9,
-      "Mrs. Fisher": 9,
-      "Dorset": 8,
-      "Mrs. Dorset": 8,
-      "Carry Fisher": 8,
-      "George Dorset": 7,
-      "Mrs. Peniston": 7
-    }
-  },
-  {
-    "canonical_name": "Lady Skiddaw",
-    "aliases": [
-      "Skiddaw"
-    ],
-    "first_chapter": 4,
-    "total_mentions": 20,
-    "per_chapter": {
-      "4": {
-        "mentions": 5,
-        "snippet": "Lady Skiddaw sent her"
-      },
-      "16": {
-        "mentions": 5,
-        "snippet": "Lady Skiddaw took her"
-      },
-      "18": {
-        "mentions": 7,
-        "snippet": "company with the Duchess, Lord and Lady Skiddaw and the Stepneys."
-      },
-      "26": {
-        "mentions": 3,
-        "snippet": "Trenor, accompanied by Lady Skiddaw, who had come over for her"
-      }
-    },
-    "co_occurs_with": {
-      "Dorset": 4,
-      "Miss Bart": 4,
-      "Mrs. Dorset": 4,
-      "Bertha Dorset": 3,
-      "Mrs. Fisher": 3,
-      "Van Osburgh": 3,
-      "Bry": 2,
-      "Carry Fisher": 2
-    }
-  },
-  {
-    "canonical_name": "Miss Haines",
-    "aliases": [
-      "Haines"
-    ],
-    "first_chapter": 25,
-    "total_mentions": 19,
-    "per_chapter": {
-      "25": {
-        "mentions": 19,
-        "snippet": "Miss Haines\u2019s active figure."
-      }
-    },
-    "co_occurs_with": {
-      "Arion Ball": 1,
-      "Bertha Dorset": 1,
-      "Bry": 1,
-      "Carry Fisher": 1,
-      "Freddy Van Osburgh": 1,
-      "George Dorset": 1,
-      "Gerty Farish": 1,
-      "Good Lord": 1
+      "Mrs. Peniston": 9,
+      "Peniston": 9,
+      "Mr. Rosedale": 8,
+      "Percy Gryce": 8,
+      "Rosedale": 8
     }
   },
   {
@@ -2558,9 +2088,17 @@
     "aliases": [
       "Grace"
     ],
-    "first_chapter": 8,
+    "first_chapter": 4,
     "total_mentions": 17,
     "per_chapter": {
+      "4": {
+        "mentions": 6,
+        "snippet": "gave a careless nod, and Grace Stepney, with a sepulchral gesture,"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "keeping house in there with Grace Stepney, eh?"
+      },
       "8": {
         "mentions": 3,
         "snippet": "than cousin Grace!"
@@ -2576,25 +2114,17 @@
       "15": {
         "mentions": 3,
         "snippet": "Grace Stepney and was taking digitalis."
-      },
-      "19": {
-        "mentions": 6,
-        "snippet": "gave a careless nod, and Grace Stepney, with a sepulchral gesture,"
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "keeping house in there with Grace Stepney, eh?"
       }
     },
     "co_occurs_with": {
+      "Carry Fisher": 6,
       "Miss Bart": 6,
-      "Carry Fisher": 5,
+      "Mrs. Fisher": 6,
+      "Mrs. Peniston": 6,
+      "Peniston": 6,
+      "Bertha Dorset": 5,
       "Gerty Farish": 5,
-      "Mrs. Peniston": 5,
-      "Peniston": 5,
-      "Lily": 5,
-      "Mr. Rosedale": 5,
-      "Rosedale": 5
+      "Gryce": 5
     }
   },
   {
@@ -2602,127 +2132,73 @@
     "aliases": [
       "Kilroy"
     ],
-    "first_chapter": 25,
+    "first_chapter": 10,
     "total_mentions": 17,
     "per_chapter": {
-      "25": {
+      "10": {
         "mentions": 17,
         "snippet": "you\u2019d better give the hat to Miss Kilroy."
       }
     },
     "co_occurs_with": {
       "Arion Ball": 1,
+      "Bellomont": 1,
       "Bertha Dorset": 1,
       "Bry": 1,
       "Carry Fisher": 1,
+      "Dorset": 1,
       "Freddy Van Osburgh": 1,
-      "George Dorset": 1,
-      "Gerty Farish": 1,
-      "Good Lord": 1
+      "George Dorset": 1
     }
   },
   {
-    "canonical_name": "New York",
+    "canonical_name": "Lily Bart",
     "aliases": [],
     "first_chapter": 1,
     "total_mentions": 16,
     "per_chapter": {
       "1": {
-        "mentions": 3,
-        "snippet": "\u201cThe resources of New York are rather meagre,\u201d he said; \u201cbut I\u2019ll"
+        "mentions": 2,
+        "snippet": "\u201cIt was Ned Silverton\u2019s idea\u2014but poor Dorset and Lily Bart must"
       },
       "2": {
         "mentions": 2,
-        "snippet": "New York, and when a girl has no mother to palpitate for her she"
+        "snippet": "afternoon hour in the company of Miss Lily Bart would have been"
       },
       "3": {
+        "mentions": 3,
+        "snippet": "possible factor in her plans, filled Lily Bart with envy."
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "of the door, and Lily Bart appeared, tall and noble in her black"
+      },
+      "8": {
         "mentions": 2,
-        "snippet": "figure presented itself on the New York dock as a buffer between"
+        "snippet": "freely with him of Lily Bart; but what had passed in the secrecy"
       },
-      "5": {
+      "12": {
         "mentions": 1,
-        "snippet": "a front pew in the most expensive church in New York, and his name"
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "the desolating dulness of New York in October, and the soapy"
-      },
-      "16": {
-        "mentions": 4,
-        "snippet": "The New York winter had presented an interminable perspective of"
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "She could not have remained in New York"
-      },
-      "24": {
-        "mentions": 1,
-        "snippet": "fashionable New York hotel\u2014a world over-heated, over-upholstered,"
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "thither, through the degradation of a New York street in the last"
-      }
-    },
-    "co_occurs_with": {
-      "Miss Bart": 9,
-      "Mrs. Peniston": 7,
-      "Peniston": 7,
-      "Van Osburgh": 7,
-      "George Dorset": 7,
-      "Dorset": 6,
-      "Mrs. Dorset": 6,
-      "Bertha Dorset": 6
-    }
-  },
-  {
-    "canonical_name": "Fifth Avenue",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 16,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "short of Fifth Avenue."
-      },
-      "11": {
-        "mentions": 2,
-        "snippet": "made the same number of millions, built a house in Fifth Avenue,"
+        "snippet": "again\u2014but the Lily Bart you knew."
       },
       "13": {
-        "mentions": 2,
-        "snippet": "her hostess to ring for a hansom, and drove up Fifth Avenue to the"
+        "mentions": 1,
+        "snippet": "faith on Lily Bart; but the third trial had been too severe for"
       },
       "14": {
-        "mentions": 3,
-        "snippet": "near the Park, and as the two men walked down Fifth Avenue the new"
-      },
-      "20": {
         "mentions": 2,
-        "snippet": "before her dull and bare as the deserted length of Fifth Avenue,"
-      },
-      "23": {
-        "mentions": 2,
-        "snippet": "in transition between country and town, and Fifth Avenue, still"
-      },
-      "26": {
-        "mentions": 3,
-        "snippet": "afternoon spectacle of Fifth Avenue."
-      },
-      "28": {
-        "mentions": 1,
-        "snippet": "reached the corner of Forty-first Street and Fifth Avenue, and she"
+        "snippet": "see Lily Bart at once\u2014he had found the word he meant to say to her,"
       }
     },
     "co_occurs_with": {
       "Miss Bart": 8,
-      "Mrs. Peniston": 7,
-      "Peniston": 7,
-      "Rosedale": 6,
-      "Gerty Farish": 5,
-      "Mr. Rosedale": 5,
-      "Gus Trenor": 5,
-      "Mrs. Fisher": 5
+      "Mrs. Fisher": 8,
+      "Mrs. Peniston": 8,
+      "Peniston": 8,
+      "Bellomont": 7,
+      "Mrs. Trenor": 7,
+      "Selden": 7,
+      "Bertha Dorset": 6
     }
   },
   {
@@ -2754,13 +2230,13 @@
     },
     "co_occurs_with": {
       "Bellomont": 5,
+      "Bertha Dorset": 5,
+      "Carry Fisher": 5,
       "Gryce": 5,
       "Miss Bart": 5,
       "Mr. Gryce": 5,
-      "Van Osburgh": 5,
-      "Carry Fisher": 4,
-      "Mrs. Trenor": 4,
-      "Percy Gryce": 4
+      "Mrs. Fisher": 5,
+      "Van Osburgh": 5
     }
   },
   {
@@ -2773,6 +2249,14 @@
         "mentions": 1,
         "snippet": "was the fact that her grandmother had been a Van Alstyne."
       },
+      "4": {
+        "mentions": 1,
+        "snippet": "Ned Van Alstyne, Jack Stepney, and a cousin or two"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "taken the Van Alstyne place at Roslyn, and I\u2019ve got CARTE BLANCHE"
+      },
       "9": {
         "mentions": 2,
         "snippet": "responded to the summons of a Van Alstyne cousin who was passing"
@@ -2784,25 +2268,17 @@
       "14": {
         "mentions": 5,
         "snippet": "Ned Van Alstyne, stroking"
-      },
-      "19": {
-        "mentions": 1,
-        "snippet": "Ned Van Alstyne, Jack Stepney, and a cousin or two"
-      },
-      "20": {
-        "mentions": 2,
-        "snippet": "taken the Van Alstyne place at Roslyn, and I\u2019ve got CARTE BLANCHE"
       }
     },
     "co_occurs_with": {
       "Gerty Farish": 6,
+      "Lawrence Selden": 6,
       "Miss Bart": 6,
+      "Mrs. Fisher": 6,
       "Mrs. Peniston": 6,
       "Peniston": 6,
-      "George Dorset": 5,
-      "Mrs. Fisher": 5,
-      "Bertha Dorset": 4,
-      "Lily Bart": 4
+      "Bertha Dorset": 5,
+      "Dorset": 5
     }
   },
   {
@@ -2810,30 +2286,322 @@
     "aliases": [
       "Jane"
     ],
-    "first_chapter": 23,
+    "first_chapter": 8,
     "total_mentions": 14,
     "per_chapter": {
-      "23": {
+      "8": {
         "mentions": 14,
         "snippet": "quite beautifully to poor Miss Jane about feeling as if Ned were"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 1,
       "Bertha Dorset": 1,
+      "By Jove": 1,
       "Carry Fisher": 1,
       "Emporium Hotel": 1,
+      "Evie Van Osburgh": 1,
       "Fifth Avenue": 1,
-      "Gerty Farish": 1,
-      "Gormers": 1,
-      "Grace Van Osburgh": 1,
-      "Herbert Melson": 1
+      "George Dorsets": 1
+    }
+  },
+  {
+    "canonical_name": "Fifth Avenue",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "short of Fifth Avenue."
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "before her dull and bare as the deserted length of Fifth Avenue,"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "in transition between country and town, and Fifth Avenue, still"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "afternoon spectacle of Fifth Avenue."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "reached the corner of Forty-first Street and Fifth Avenue, and she"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "near the Park, and as the two men walked down Fifth Avenue the new"
+      }
+    },
+    "co_occurs_with": {
+      "Miss Bart": 6,
+      "Mrs. Fisher": 6,
+      "Mrs. Peniston": 6,
+      "Peniston": 6,
+      "Bellomont": 5,
+      "Carry Fisher": 5,
+      "Gerty Farish": 5,
+      "Mr. Rosedale": 5
+    }
+  },
+  {
+    "canonical_name": "Ned Silverton",
+    "aliases": [
+      "Silverton"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "\u201cIt was Ned Silverton\u2019s idea\u2014but poor Dorset and Lily Bart must"
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "had listened to Ned Silverton reading Theocritus by moonlight,"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "ignore; and that was the non-appearance of Ned Silverton."
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "off her host for a drive; Ned Silverton was probably smoking"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "Look at a boy like Ned Silverton\u2014he\u2019s really too good to be used to"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "could understand why Ned Silverton spent so much money."
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "To find Ned Silverton"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Fisher\u2019s late property, Ned Silverton, was the rosy victim;"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "Silverton\u2019s dowdy figure take its despondent way."
+      }
+    },
+    "co_occurs_with": {
+      "Miss Bart": 9,
+      "Mrs. Fisher": 9,
+      "Selden": 9,
+      "Bertha Dorset": 8,
+      "George Dorset": 8,
+      "Mrs. Peniston": 8,
+      "Peniston": 8,
+      "Bellomont": 7
+    }
+  },
+  {
+    "canonical_name": "Dorsets",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cBy Jove, I believe that\u2019s the Dorsets back!"
+      },
+      "4": {
+        "mentions": 5,
+        "snippet": "opposed her niece\u2019s departure with the Dorsets, and had marked"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "Lily\u2019s visit to the Dorsets had"
+      }
+    },
+    "co_occurs_with": {
+      "Bellomont": 3,
+      "Bertha Dorset": 3,
+      "Carry Fisher": 3,
+      "Dorset": 3,
+      "George Dorset": 3,
+      "Gerty Farish": 3,
+      "Lily Bart": 3,
+      "Miss Bart": 3
+    }
+  },
+  {
+    "canonical_name": "Nice",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Nice in their motor-car, and Mr."
+      },
+      "2": {
+        "mentions": 6,
+        "snippet": "But the weeks at Cannes and Nice had really given"
+      }
+    },
+    "co_occurs_with": {
+      "Bellomont": 2,
+      "Bertha Dorset": 2,
+      "Bry": 2,
+      "Brys": 2,
+      "By Jove": 2,
+      "Casino": 2,
+      "Dorset": 2,
+      "George Dorset": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Stancy",
+    "aliases": [
+      "Stancy"
+    ],
+    "first_chapter": 9,
+    "total_mentions": 12,
+    "per_chapter": {
+      "9": {
+        "mentions": 10,
+        "snippet": "Socially, Mr."
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "hint from Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Bertha Dorset": 2,
+      "Carry Fisher": 2,
+      "Dorset": 2,
+      "Freddy Van Osburgh": 2,
+      "George Dorset": 2,
+      "Gerty Farish": 2,
+      "Judy Trenor": 2,
+      "Lily": 2
+    }
+  },
+  {
+    "canonical_name": "Sabrina",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 11,
+    "per_chapter": {
+      "2": {
+        "mentions": 8,
+        "snippet": "herself alone on the deck of the Sabrina."
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "she had gone back to the Sabrina."
+      }
+    },
+    "co_occurs_with": {
+      "Bertha Dorset": 2,
+      "Bry": 2,
+      "Dorset": 2,
+      "Duchess": 2,
+      "George Dorset": 2,
+      "Gryce": 2,
+      "Judy Trenor": 2,
+      "Lawrence Selden": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Selden",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "\u201cWhy, Mr."
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "inspiration: \u201cWell, go over and see Mr."
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "easy gesture, and the pale bravery of her recovered smile\u2014\u201cDear Mr."
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "But Mr."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "meant to stay on all this week, and I knew Mr."
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Bertha Dorset": 6,
+      "Dorset": 6,
+      "George Dorset": 6,
+      "Miss Bart": 6,
+      "Mrs. Dorset": 6,
+      "Mrs. Fisher": 6,
+      "Selden": 6,
+      "Mr. Rosedale": 5
+    }
+  },
+  {
+    "canonical_name": "New York",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "The New York winter had presented an interminable perspective of"
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "She could not have remained in New York"
+      },
+      "3": {
+        "mentions": 2,
+        "snippet": "figure presented itself on the New York dock as a buffer between"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "a front pew in the most expensive church in New York, and his name"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "fashionable New York hotel\u2014a world over-heated, over-upholstered,"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "thither, through the degradation of a New York street in the last"
+      }
+    },
+    "co_occurs_with": {
+      "Bertha Dorset": 6,
+      "Dorset": 6,
+      "George Dorset": 6,
+      "Miss Bart": 6,
+      "Mrs. Dorset": 6,
+      "Mrs. Fisher": 6,
+      "Mrs. Peniston": 6,
+      "Peniston": 6
     }
   },
   {
     "canonical_name": "Judy Trenor",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 13,
+    "total_mentions": 10,
     "per_chapter": {
       "2": {
         "mentions": 1,
@@ -2855,252 +2623,32 @@
         "mentions": 1,
         "snippet": "eager\u2014even Judy Trenor had warned her to go slowly."
       },
+      "8": {
+        "mentions": 1,
+        "snippet": "his cousin continued to explain: \u201cJudy Trenor and her own family"
+      },
       "9": {
         "mentions": 1,
         "snippet": "When she ceased to amuse Judy Trenor and her friends she"
       },
       "10": {
-        "mentions": 3,
-        "snippet": "two notes from Judy Trenor, reproaching her for not returning to"
+        "mentions": 1,
+        "snippet": "\u201cI went straight to Judy Trenor; she has fewer prejudices than the"
       },
       "12": {
         "mentions": 2,
         "snippet": "and at such moments, as Judy Trenor had once remarked, she felt a"
-      },
-      "23": {
-        "mentions": 1,
-        "snippet": "his cousin continued to explain: \u201cJudy Trenor and her own family"
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "\u201cI went straight to Judy Trenor; she has fewer prejudices than the"
       }
     },
     "co_occurs_with": {
-      "Miss Bart": 10,
+      "Bertha Dorset": 9,
+      "Miss Bart": 9,
+      "Mrs. Fisher": 9,
+      "Dorset": 8,
       "George Dorset": 8,
+      "Mrs. Dorset": 8,
       "Mrs. Peniston": 8,
-      "Peniston": 8,
-      "Van Osburgh": 8,
-      "Bertha Dorset": 8,
-      "Dorset": 7,
-      "Mrs. Dorset": 7
-    }
-  },
-  {
-    "canonical_name": "Ned Silverton",
-    "aliases": [
-      "Silverton"
-    ],
-    "first_chapter": 3,
-    "total_mentions": 13,
-    "per_chapter": {
-      "3": {
-        "mentions": 1,
-        "snippet": "associates\u2014in young Ned Silverton, for instance, the charming fair"
-      },
-      "5": {
-        "mentions": 1,
-        "snippet": "off her host for a drive; Ned Silverton was probably smoking"
-      },
-      "6": {
-        "mentions": 1,
-        "snippet": "Look at a boy like Ned Silverton\u2014he\u2019s really too good to be used to"
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "Fisher\u2019s late property, Ned Silverton, was the rosy victim;"
-      },
-      "16": {
-        "mentions": 2,
-        "snippet": "\u201cIt was Ned Silverton\u2019s idea\u2014but poor Dorset and Lily Bart must"
-      },
-      "17": {
-        "mentions": 2,
-        "snippet": "had listened to Ned Silverton reading Theocritus by moonlight,"
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "ignore; and that was the non-appearance of Ned Silverton."
-      },
-      "23": {
-        "mentions": 2,
-        "snippet": "could understand why Ned Silverton spent so much money."
-      },
-      "24": {
-        "mentions": 1,
-        "snippet": "To find Ned Silverton"
-      },
-      "28": {
-        "mentions": 1,
-        "snippet": "Silverton\u2019s dowdy figure take its despondent way."
-      }
-    },
-    "co_occurs_with": {
-      "Miss Bart": 10,
-      "Mrs. Fisher": 8,
-      "Bertha Dorset": 7,
-      "Selden": 7,
-      "Dorset": 6,
-      "George Dorset": 6,
-      "Mrs. Dorset": 6,
-      "Mrs. Peniston": 6
-    }
-  },
-  {
-    "canonical_name": "Mr. Selden",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 12,
-    "per_chapter": {
-      "1": {
-        "mentions": 2,
-        "snippet": "\u201cMr."
-      },
-      "5": {
-        "mentions": 3,
-        "snippet": "But Mr."
-      },
-      "7": {
-        "mentions": 1,
-        "snippet": "meant to stay on all this week, and I knew Mr."
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "Mr."
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "\u201cWhy, Mr."
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "inspiration: \u201cWell, go over and see Mr."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "easy gesture, and the pale bravery of her recovered smile\u2014\u201cDear Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Miss Bart": 7,
-      "Selden": 7,
-      "Bertha Dorset": 6,
-      "Dorset": 6,
-      "Mrs. Dorset": 6,
-      "New York": 5,
-      "Van Osburgh": 5,
-      "George Dorset": 5
-    }
-  },
-  {
-    "canonical_name": "Dorsets",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 12,
-    "per_chapter": {
-      "12": {
-        "mentions": 3,
-        "snippet": "Lily\u2019s visit to the Dorsets had"
-      },
-      "16": {
-        "mentions": 4,
-        "snippet": "\u201cBy Jove, I believe that\u2019s the Dorsets back!"
-      },
-      "19": {
-        "mentions": 5,
-        "snippet": "opposed her niece\u2019s departure with the Dorsets, and had marked"
-      }
-    },
-    "co_occurs_with": {
-      "Bertha Dorset": 3,
-      "Carry Fisher": 3,
-      "George Dorset": 3,
-      "Lily Bart": 3,
-      "Miss Bart": 3,
-      "Mrs. Fisher": 3,
-      "Mrs. Peniston": 3,
-      "Peniston": 3
-    }
-  },
-  {
-    "canonical_name": "Nice",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 12,
-    "per_chapter": {
-      "16": {
-        "mentions": 6,
-        "snippet": "Nice in their motor-car, and Mr."
-      },
-      "17": {
-        "mentions": 6,
-        "snippet": "But the weeks at Cannes and Nice had really given"
-      }
-    },
-    "co_occurs_with": {
-      "Bertha Dorset": 2,
-      "Bry": 2,
-      "Brys": 2,
-      "By Jove": 2,
-      "Casino": 2,
-      "Dorset": 2,
-      "George Dorset": 2,
-      "Hubert Dacey": 2
-    }
-  },
-  {
-    "canonical_name": "Mr. Stancy",
-    "aliases": [
-      "Stancy"
-    ],
-    "first_chapter": 24,
-    "total_mentions": 12,
-    "per_chapter": {
-      "24": {
-        "mentions": 10,
-        "snippet": "Socially, Mr."
-      },
-      "25": {
-        "mentions": 2,
-        "snippet": "hint from Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Carry Fisher": 2,
-      "Freddy Van Osburgh": 2,
-      "Lily": 2,
-      "Miss Bart": 2,
-      "Mrs. Fisher": 2,
-      "Mrs. Hatch": 2,
-      "Mrs. Norma Hatch": 2,
-      "New York": 2
-    }
-  },
-  {
-    "canonical_name": "Sabrina",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 11,
-    "per_chapter": {
-      "17": {
-        "mentions": 8,
-        "snippet": "herself alone on the deck of the Sabrina."
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "she had gone back to the Sabrina."
-      }
-    },
-    "co_occurs_with": {
-      "Bertha Dorset": 2,
-      "Bry": 2,
-      "Dorset": 2,
-      "Duchess": 2,
-      "Lawrence Selden": 2,
-      "Lily": 2,
-      "Lord Hubert": 2,
-      "Miss Bart": 2
+      "Peniston": 8
     }
   },
   {
@@ -3124,30 +2672,30 @@
     },
     "co_occurs_with": {
       "Bellomont": 3,
+      "George Dorset": 3,
+      "Lily Bart": 3,
       "Miss Bart": 3,
+      "Mrs. Fisher": 3,
+      "Mrs. Peniston": 3,
       "Mrs. Trenor": 3,
-      "Trenor": 3,
-      "Cressida Raith": 2,
-      "Fifth Avenue": 2,
-      "Gwen Van Osburgh": 2,
-      "Lady Cressida Raith": 2
+      "Peniston": 3
     }
   },
   {
     "canonical_name": "Mr. Bry",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 1,
     "total_mentions": 9,
     "per_chapter": {
-      "16": {
+      "1": {
         "mentions": 4,
         "snippet": "Mr."
       },
-      "17": {
+      "2": {
         "mentions": 3,
         "snippet": "one of your friends I like is that little Mr."
       },
-      "18": {
+      "3": {
         "mentions": 2,
         "snippet": "The dinner had been protracted over Mr."
       }
@@ -3156,37 +2704,37 @@
       "Bertha Dorset": 3,
       "Bry": 3,
       "Dorset": 3,
+      "George Dorset": 3,
+      "Lily Bart": 3,
       "Lord Hubert": 3,
       "Miss Bart": 3,
-      "Monte Carlo": 3,
-      "Mr. Selden": 3,
-      "Mrs. Bry": 3
+      "Monte Carlo": 3
     }
   },
   {
     "canonical_name": "Mme",
     "aliases": [],
-    "first_chapter": 25,
+    "first_chapter": 10,
     "total_mentions": 9,
     "per_chapter": {
-      "25": {
+      "10": {
         "mentions": 6,
         "snippet": "work-room of Mme."
       },
-      "26": {
+      "11": {
         "mentions": 3,
         "snippet": "and a week earlier Mme."
       }
     },
     "co_occurs_with": {
+      "Carry Fisher": 2,
+      "Dorset": 2,
+      "George Dorset": 2,
+      "Gerty Farish": 2,
       "Gus Trenor": 2,
       "Lily": 2,
       "Miss Bart": 2,
-      "Miss Lily": 2,
-      "Mrs. Hatch": 2,
-      "Rosedale": 2,
-      "Van Osburgh": 2,
-      "Arion Ball": 1
+      "Miss Farish": 2
     }
   },
   {
@@ -3194,23 +2742,23 @@
     "aliases": [
       "Struther"
     ],
-    "first_chapter": 28,
+    "first_chapter": 13,
     "total_mentions": 9,
     "per_chapter": {
-      "28": {
+      "13": {
         "mentions": 9,
         "snippet": "Nettie Struther\u2019s frail envelope was now alive with hope and"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 1,
       "Bryant Park": 1,
+      "Don": 1,
       "Fifth Avenue": 1,
       "George Dorset": 1,
+      "Gerty": 1,
       "Gus Trenor": 1,
-      "Lily Bart": 1,
-      "Miss Bart": 1,
-      "Miss Farish": 1,
-      "Miss Silverton": 1
+      "Judy": 1
     }
   },
   {
@@ -3235,20 +2783,20 @@
         "mentions": 1,
         "snippet": "She had failed to observe the colour of Mrs."
       },
-      "26": {
+      "11": {
         "mentions": 1,
         "snippet": "Among them was Mrs."
       }
     },
     "co_occurs_with": {
+      "Carry Fisher": 5,
+      "Gerty Farish": 5,
       "Miss Bart": 5,
+      "Mrs. Fisher": 5,
+      "Mrs. Peniston": 5,
+      "Peniston": 5,
       "Van Osburgh": 5,
-      "Mr. Rosedale": 4,
-      "Rosedale": 4,
-      "Percy Gryce": 4,
-      "Bellomont": 3,
-      "Gerty Farish": 3,
-      "Mrs. Trenor": 3
+      "Bertha Dorset": 4
     }
   },
   {
@@ -3265,14 +2813,14 @@
       }
     },
     "co_occurs_with": {
+      "Alaska": 1,
       "Alice Wetherall": 1,
       "At Home": 1,
+      "Audrey Anstell": 1,
+      "Bar Harbour": 1,
       "Bellomont": 1,
       "Bertha Dorset": 1,
-      "Carry Fisher": 1,
-      "Cressida Raith": 1,
-      "Dorset": 1,
-      "George Dorset": 1
+      "Brys": 1
     }
   },
   {
@@ -3306,147 +2854,155 @@
   {
     "canonical_name": "Hubert Dacey",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 1,
     "total_mentions": 8,
     "per_chapter": {
-      "16": {
+      "1": {
         "mentions": 7,
         "snippet": "Lord Hubert Dacey, a slender shabby-looking man, with a charming"
       },
-      "17": {
+      "2": {
         "mentions": 1,
         "snippet": "in fact even sunk it to the point of suggesting to Lord Hubert"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 2,
       "Bertha Dorset": 2,
       "Bry": 2,
       "Brys": 2,
       "By Jove": 2,
       "Casino": 2,
       "Dorset": 2,
-      "George Dorset": 2,
-      "Lord Hubert": 2
+      "George Dorset": 2
     }
   },
   {
     "canonical_name": "Monte Carlo",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 1,
     "total_mentions": 8,
     "per_chapter": {
-      "16": {
+      "1": {
         "mentions": 4,
         "snippet": "It came vividly to Selden on the Casino steps that Monte Carlo"
       },
-      "17": {
+      "2": {
         "mentions": 1,
         "snippet": "Monte Carlo is, of all places, the one where the human bond is"
       },
-      "18": {
+      "3": {
         "mentions": 2,
         "snippet": "at an hotel in Monte Carlo."
       },
-      "23": {
+      "8": {
         "mentions": 1,
         "snippet": "of their last hour at Monte Carlo still held the full heat of his"
       }
     },
     "co_occurs_with": {
       "Bertha Dorset": 4,
+      "Lily Bart": 4,
       "Miss Bart": 4,
       "Mrs. Fisher": 4,
+      "Mrs. Peniston": 4,
       "Ned Silverton": 4,
-      "Bry": 3,
-      "Dorset": 3,
-      "Lord Hubert": 3,
-      "Mr. Bry": 3
+      "Peniston": 4,
+      "Selden": 4
     }
   },
   {
     "canonical_name": "Casino",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 1,
     "total_mentions": 8,
     "per_chapter": {
-      "16": {
+      "1": {
         "mentions": 4,
         "snippet": "It came vividly to Selden on the Casino steps that Monte Carlo"
       },
-      "17": {
+      "2": {
         "mentions": 4,
         "snippet": "hectic atmosphere of the Casino."
       }
     },
     "co_occurs_with": {
+      "Bellomont": 2,
       "Bertha Dorset": 2,
       "Bry": 2,
       "Brys": 2,
       "By Jove": 2,
       "Dorset": 2,
       "George Dorset": 2,
-      "Hubert Dacey": 2,
-      "Lord Hubert": 2
+      "Hubert Dacey": 2
     }
   },
   {
     "canonical_name": "Stepneys",
     "aliases": [],
-    "first_chapter": 18,
+    "first_chapter": 3,
     "total_mentions": 8,
     "per_chapter": {
-      "18": {
+      "3": {
         "mentions": 5,
         "snippet": "company with the Duchess, Lord and Lady Skiddaw and the Stepneys."
       },
-      "19": {
+      "4": {
         "mentions": 3,
         "snippet": "They were all there: Van Alstynes, Stepneys and Melsons\u2014even a"
       }
     },
     "co_occurs_with": {
       "Bertha Dorset": 2,
-      "Lord Hubert": 2,
-      "Miss Bart": 2,
-      "Miss Stepney": 2,
-      "Mrs. Fisher": 2,
-      "Mrs. Stepney": 2,
-      "Aunt Julia": 1,
-      "Carry Fisher": 1
+      "Dorset": 2,
+      "George Dorset": 2,
+      "Gerty Farish": 2,
+      "Gryce": 2,
+      "Judy Trenor": 2,
+      "Lady Skiddaw": 2,
+      "Lawrence Selden": 2
     }
   },
   {
     "canonical_name": "Gormers",
     "aliases": [],
-    "first_chapter": 21,
+    "first_chapter": 6,
     "total_mentions": 8,
     "per_chapter": {
-      "21": {
+      "6": {
         "mentions": 3,
         "snippet": "As became persons of their rising consequence, the Gormers were"
       },
-      "23": {
+      "8": {
         "mentions": 5,
         "snippet": "new ideal, and she knew that, once the Gormers were established in"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 2,
       "Bertha Dorset": 2,
       "Carry Fisher": 2,
       "Gerty Farish": 2,
-      "Miss Bart": 2,
-      "Mrs. Fisher": 2,
-      "Mrs. Gormer": 2,
-      "Rosedale": 2,
-      "Emporium Hotel": 1
+      "Gryce": 2,
+      "Herbert Melson": 2,
+      "Judy Trenor": 2,
+      "Lily": 2
     }
   },
   {
     "canonical_name": "By Jove",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 1,
     "total_mentions": 7,
     "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cBy Jove, I believe that\u2019s the Dorsets back!"
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "\u201cBy Jove, Selden\u2019s at Nice\u2014I\u2019ll send for"
+      },
       "8": {
         "mentions": 2,
         "snippet": "\u201cBy Jove, Lily, you do look a stunner!"
@@ -3454,85 +3010,77 @@
       "14": {
         "mentions": 1,
         "snippet": "\u201cBy Jove,\u2014but isn\u2019t she about somewhere?"
-      },
-      "16": {
-        "mentions": 3,
-        "snippet": "\u201cBy Jove, I believe that\u2019s the Dorsets back!"
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "\u201cBy Jove, Selden\u2019s at Nice\u2014I\u2019ll send for"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 4,
+      "Jack Stepney": 4,
+      "Lily Bart": 4,
       "Miss Bart": 4,
-      "Selden": 4,
-      "Bry": 3,
-      "Carry Fisher": 3,
-      "Jack Stepney": 3,
-      "Mrs. Bry": 3,
-      "Mrs. Fisher": 3,
-      "Bellomont": 2
+      "Mr. Rosedale": 4,
+      "Mrs. Fisher": 4,
+      "Mrs. Peniston": 4,
+      "Mrs. Trenor": 4
     }
   },
   {
     "canonical_name": "Mrs. Jack Stepney",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 1,
     "total_mentions": 7,
     "per_chapter": {
-      "14": {
-        "mentions": 1,
-        "snippet": "\u201d exclaimed Mrs."
-      },
-      "16": {
+      "1": {
         "mentions": 2,
         "snippet": "gesture toward Mrs."
       },
-      "19": {
+      "4": {
         "mentions": 3,
         "snippet": "the doubt as to how far the others meant to go; Mrs."
       },
-      "25": {
+      "10": {
         "mentions": 1,
         "snippet": "be thus put for her by her latest bosom friend, Mrs."
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "\u201d exclaimed Mrs."
       }
     },
     "co_occurs_with": {
+      "Bellomont": 4,
       "Carry Fisher": 4,
+      "Gerty Farish": 4,
       "Jack Stepney": 4,
       "Miss Bart": 4,
       "Mrs. Fisher": 4,
       "Mrs. Peniston": 4,
-      "Peniston": 4,
-      "Bry": 3,
-      "Gerty Farish": 3
+      "Mrs. Trenor": 4
     }
   },
   {
     "canonical_name": "Mattie Gormer",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 5,
     "total_mentions": 7,
     "per_chapter": {
-      "20": {
+      "5": {
         "mentions": 5,
         "snippet": "Paul Morpeth\u2014he\u2019s painting Mattie Gormer\u2014and the Dick Bellingers,"
       },
-      "21": {
+      "6": {
         "mentions": 2,
         "snippet": "of an approaching dinner, which Mattie Gormer, with an unnatural"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 2,
+      "Bertha Dorset": 2,
       "Carry Fisher": 2,
+      "Dorset": 2,
       "George Dorset": 2,
       "Gerty Farish": 2,
-      "Lily": 2,
-      "Long Island": 2,
-      "Miss Bart": 2,
-      "Mr. Rosedale": 2,
-      "Mrs. Fisher": 2
+      "Gryce": 2,
+      "Judy Trenor": 2
     }
   },
   {
@@ -3545,6 +3093,10 @@
         "mentions": 1,
         "snippet": "over with letters to the Van Osburghs, and I heard that Maria Van"
       },
+      "5": {
+        "mentions": 2,
+        "snippet": "were doing the same things as the Trenors, the Van Osburghs and"
+      },
       "6": {
         "mentions": 1,
         "snippet": "to the Van Osburghs at Peekskill."
@@ -3553,24 +3105,20 @@
         "mentions": 1,
         "snippet": "some money I lost at bridge at the Van Osburghs\u2019."
       },
-      "20": {
-        "mentions": 2,
-        "snippet": "were doing the same things as the Trenors, the Van Osburghs and"
-      },
-      "24": {
+      "9": {
         "mentions": 1,
         "snippet": "the first time to a family banquet at the Van Osburghs\u2019."
       }
     },
     "co_occurs_with": {
+      "Bertha Dorset": 5,
+      "Carry Fisher": 5,
+      "Dorset": 5,
+      "George Dorset": 5,
+      "Gryce": 5,
       "Miss Bart": 5,
-      "Mrs. Fisher": 5,
-      "Van Osburgh": 5,
-      "Carry Fisher": 4,
-      "Lily": 4,
-      "Bellomont": 3,
-      "George Dorset": 3,
-      "Gryce": 3
+      "Mr. Gryce": 5,
+      "Mrs. Dorset": 5
     }
   },
   {
@@ -3588,37 +3136,37 @@
       "Alice Wetherall": 1,
       "Benedick": 1,
       "Bertha Dorset": 1,
+      "Carry Fisher": 1,
       "Cornelia Van Alstyne": 1,
       "Dorset": 1,
       "Dying Gladiator": 1,
-      "Evie": 1,
-      "George Dorset": 1
+      "Emporium": 1
     }
   },
   {
     "canonical_name": "Lord Hubert Dacey",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 1,
     "total_mentions": 6,
     "per_chapter": {
-      "16": {
+      "1": {
         "mentions": 5,
         "snippet": "Lord Hubert Dacey, a slender shabby-looking man, with a charming"
       },
-      "17": {
+      "2": {
         "mentions": 1,
         "snippet": "in fact even sunk it to the point of suggesting to Lord Hubert"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 2,
       "Bertha Dorset": 2,
       "Bry": 2,
       "Brys": 2,
       "By Jove": 2,
       "Casino": 2,
       "Dorset": 2,
-      "George Dorset": 2,
-      "Hubert Dacey": 2
+      "George Dorset": 2
     }
   },
   {
@@ -3635,20 +3183,20 @@
         "mentions": 2,
         "snippet": "in Madison Avenue\u2014an appalling house, all brown stone without and"
       },
-      "26": {
+      "11": {
         "mentions": 1,
         "snippet": "walk across to Madison Avenue and take the electric car."
       }
     },
     "co_occurs_with": {
+      "Dorset": 3,
+      "George Dorset": 3,
       "Miss Bart": 3,
       "Mr. Rosedale": 3,
-      "Rosedale": 3,
-      "Van Osburgh": 3,
-      "Bellomont": 2,
-      "Fifth Avenue": 2,
-      "Jefferson Gryce": 2,
-      "Lily Bart": 2
+      "Mrs. Dorset": 3,
+      "Mrs. Fisher": 3,
+      "Mrs. Peniston": 3,
+      "Peniston": 3
     }
   },
   {
@@ -3672,13 +3220,13 @@
     },
     "co_occurs_with": {
       "Bellomont": 3,
+      "Bertha Dorset": 3,
+      "Carry Fisher": 3,
       "Cressida Raith": 3,
-      "Lady Cressida Raith": 3,
-      "Miss Bart": 3,
-      "Mrs. Trenor": 3,
-      "Trenor": 3,
-      "Van Osburgh": 3,
-      "Don": 2
+      "Dorset": 3,
+      "George Dorset": 3,
+      "Gerty Farish": 3,
+      "Jack Stepney": 3
     }
   },
   {
@@ -3694,13 +3242,13 @@
     },
     "co_occurs_with": {
       "Bellomont": 1,
-      "Central Station": 1,
-      "Cressida Raith": 1,
-      "Dear Mr": 1,
-      "Dillworth": 1,
-      "Don": 1,
-      "Fifth Avenue": 1,
-      "George Dorsets": 1
+      "Beltshire": 1,
+      "Bertha Dorset": 1,
+      "Bry": 1,
+      "Brys": 1,
+      "By Jove": 1,
+      "Carry Fisher": 1,
+      "Casino": 1
     }
   },
   {
@@ -3720,13 +3268,13 @@
     },
     "co_occurs_with": {
       "Bellomont": 2,
+      "Bertha Dorset": 2,
+      "By Jove": 2,
       "Gryce": 2,
       "Jack Stepney": 2,
-      "Miss Bart": 2,
-      "Mr. Gryce": 2,
-      "Mr. Rosedale": 2,
-      "Mrs. Trenor": 2,
-      "Percy Gryce": 2
+      "Judy Trenor": 2,
+      "Lawrence Selden": 2,
+      "Lily": 2
     }
   },
   {
@@ -3745,14 +3293,14 @@
       }
     },
     "co_occurs_with": {
+      "Dorset": 2,
       "George Dorset": 2,
       "Gryce": 2,
+      "Lily": 2,
+      "Madison Avenue": 2,
       "Miss Bart": 2,
       "Mr. Rosedale": 2,
-      "Mr. Simon Rosedale": 2,
-      "Mrs. Peniston": 2,
-      "Peniston": 2,
-      "Percy Gryce": 2
+      "Mr. Simon Rosedale": 2
     }
   },
   {
@@ -3769,28 +3317,28 @@
         "mentions": 1,
         "snippet": "away impatiently as Mrs."
       },
-      "12": {
-        "mentions": 1,
-        "snippet": "Do look at Mrs."
-      },
-      "21": {
+      "6": {
         "mentions": 1,
         "snippet": "It was Mrs."
       },
-      "25": {
+      "10": {
         "mentions": 1,
         "snippet": "with Mrs."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Do look at Mrs."
       }
     },
     "co_occurs_with": {
+      "Bertha Dorset": 5,
+      "Dorset": 5,
       "George Dorset": 5,
+      "Judy Trenor": 5,
       "Miss Bart": 5,
-      "Dorset": 4,
-      "Judy Trenor": 4,
-      "Mrs. Dorset": 4,
-      "Mrs. Peniston": 4,
-      "Peniston": 4,
-      "Rosedale": 4
+      "Mrs. Dorset": 5,
+      "Mrs. Fisher": 5,
+      "Bellomont": 4
     }
   },
   {
@@ -3807,12 +3355,12 @@
     "co_occurs_with": {
       "American Beauties": 1,
       "Bertha Dorset": 1,
+      "Bry": 1,
+      "Dear Mr": 1,
       "Dorset": 1,
+      "Duchess": 1,
       "George Dorset": 1,
-      "Gerty Farish": 1,
-      "Gryce": 1,
-      "Hudson Bart": 1,
-      "Judy Trenor": 1
+      "Gerty Farish": 1
     }
   },
   {
@@ -3825,24 +3373,24 @@
         "mentions": 1,
         "snippet": "curtains had been renewed before or after Mr."
       },
+      "4": {
+        "mentions": 1,
+        "snippet": "the bulk of Mr."
+      },
       "9": {
         "mentions": 3,
         "snippet": "artistic excess of Mr."
-      },
-      "19": {
-        "mentions": 1,
-        "snippet": "the bulk of Mr."
       }
     },
     "co_occurs_with": {
       "Bertha Dorset": 3,
+      "Dorset": 3,
       "George Dorset": 3,
       "Gerty Farish": 3,
-      "Miss Bart": 3,
-      "Mrs. Peniston": 3,
-      "Peniston": 3,
-      "Van Alstyne": 3,
-      "Dorset": 2
+      "Gryce": 3,
+      "Judy Trenor": 3,
+      "Lawrence Selden": 3,
+      "Miss Bart": 3
     }
   },
   {
@@ -3850,39 +3398,47 @@
     "aliases": [
       "Melson"
     ],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 5,
     "per_chapter": {
+      "4": {
+        "mentions": 2,
+        "snippet": "Herbert Melson: \u201cI couldn\u2019t BEAR to see the Niagara anywhere"
+      },
       "6": {
         "mentions": 2,
         "snippet": "named Herbert Melson, who had blue eyes and a little wave in"
       },
-      "19": {
-        "mentions": 2,
-        "snippet": "Herbert Melson: \u201cI couldn\u2019t BEAR to see the Niagara anywhere"
-      },
-      "23": {
+      "8": {
         "mentions": 1,
         "snippet": "Herbert Melson, who were there too, told Miss Jane that Freddy was"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 3,
+      "Bertha Dorset": 3,
+      "Carry Fisher": 3,
+      "Gerty Farish": 3,
+      "Gryce": 3,
+      "Judy Trenor": 3,
       "Miss Bart": 3,
-      "Mrs. Fisher": 3,
-      "Bertha Dorset": 2,
-      "Carry Fisher": 2,
-      "Gerty Farish": 2,
-      "Jack Stepney": 2,
-      "Lily Bart": 2,
-      "Miss Farish": 2
+      "Miss Van Osburgh": 3
     }
   },
   {
     "canonical_name": "Paul Morpeth",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 5,
     "total_mentions": 5,
     "per_chapter": {
+      "5": {
+        "mentions": 2,
+        "snippet": "her; but Mattie\u2019s following, headed by Paul Morpeth, made her feel"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "portrait from Paul Morpeth."
+      },
       "12": {
         "mentions": 1,
         "snippet": "distinguished portrait painter, Paul Morpeth, had been prevailed"
@@ -3890,59 +3446,51 @@
       "14": {
         "mentions": 1,
         "snippet": "Fisher, if I could get Paul Morpeth to paint her like that,"
-      },
-      "20": {
-        "mentions": 2,
-        "snippet": "her; but Mattie\u2019s following, headed by Paul Morpeth, made her feel"
-      },
-      "21": {
-        "mentions": 1,
-        "snippet": "portrait from Paul Morpeth."
       }
     },
     "co_occurs_with": {
+      "Bellomont": 4,
       "Carry Fisher": 4,
       "Gerty Farish": 4,
       "Miss Bart": 4,
       "Mr. Rosedale": 4,
       "Mrs. Fisher": 4,
       "Rosedale": 4,
-      "George Dorset": 3,
-      "Mrs. Peniston": 3
+      "Selden": 4
     }
   },
   {
     "canonical_name": "Mrs. Stepney",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 3,
     "total_mentions": 5,
     "per_chapter": {
-      "14": {
-        "mentions": 1,
-        "snippet": "She isn\u2019t, I know; Mrs."
-      },
-      "18": {
+      "3": {
         "mentions": 2,
         "snippet": "verge of congestion, Mrs."
       },
-      "19": {
+      "4": {
         "mentions": 1,
         "snippet": "\u201cWell, it\u2019s only about four hundred thousand,\u201d Mrs."
       },
-      "25": {
+      "10": {
         "mentions": 1,
         "snippet": "Mrs."
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "She isn\u2019t, I know; Mrs."
       }
     },
     "co_occurs_with": {
+      "Gerty Farish": 4,
       "Miss Bart": 4,
+      "Miss Farish": 4,
       "Miss Stepney": 4,
       "Mrs. Fisher": 4,
-      "Bry": 3,
-      "Carry Fisher": 3,
-      "Gerty Farish": 3,
-      "Jack Stepney": 3,
-      "Miss Farish": 3
+      "Mrs. Peniston": 4,
+      "Peniston": 4,
+      "Bertha Dorset": 3
     }
   },
   {
@@ -3970,31 +3518,31 @@
   {
     "canonical_name": "Norma Hatch",
     "aliases": [],
-    "first_chapter": 23,
+    "first_chapter": 8,
     "total_mentions": 5,
     "per_chapter": {
-      "23": {
+      "8": {
         "mentions": 1,
         "snippet": "Norma Hatch, Emporium Hotel,\u201d his"
       },
-      "24": {
+      "9": {
         "mentions": 1,
         "snippet": "Norma"
       },
-      "25": {
+      "10": {
         "mentions": 3,
         "snippet": "Norma Hatch need not reduce her to"
       }
     },
     "co_occurs_with": {
+      "Bertha Dorset": 3,
       "Carry Fisher": 3,
+      "Gerty Farish": 3,
+      "Judy Trenor": 3,
+      "Lily": 3,
       "Miss Bart": 3,
-      "Mrs. Fisher": 3,
-      "Mrs. Norma Hatch": 3,
-      "Bertha Dorset": 2,
-      "Gerty Farish": 2,
-      "Jack Stepney": 2,
-      "Judy Trenor": 2
+      "Mr. Rosedale": 3,
+      "Mrs. Fisher": 3
     }
   },
   {
@@ -4018,13 +3566,13 @@
     },
     "co_occurs_with": {
       "Bellomont": 3,
+      "Bertha Dorset": 3,
+      "Carry Fisher": 3,
       "Cressida Raith": 3,
-      "Gwen Van Osburgh": 3,
-      "Miss Bart": 3,
-      "Mrs. Trenor": 3,
-      "Trenor": 3,
-      "Van Osburgh": 3,
-      "Don": 2
+      "Dorset": 3,
+      "George Dorset": 3,
+      "Gerty Farish": 3,
+      "Gwen Van Osburgh": 3
     }
   },
   {
@@ -4044,13 +3592,13 @@
     },
     "co_occurs_with": {
       "Bellomont": 2,
-      "Lily Bart": 2,
-      "Madison Avenue": 2,
-      "Miss Bart": 2,
-      "Miss Lily Bart": 2,
-      "Mr. Rosedale": 2,
-      "Mrs. Peniston": 2,
-      "Mrs. Trenor": 2
+      "Bertha Dorset": 2,
+      "Bry": 2,
+      "Brys": 2,
+      "By Jove": 2,
+      "Casino": 2,
+      "Dorset": 2,
+      "George Dorset": 2
     }
   },
   {
@@ -4065,14 +3613,14 @@
       }
     },
     "co_occurs_with": {
+      "Alaska": 1,
       "Alice Wetherall": 1,
       "At Home": 1,
+      "Audrey Anstell": 1,
+      "Bar Harbour": 1,
       "Bellomont": 1,
       "Bertha Dorset": 1,
-      "Carry Fisher": 1,
-      "Cressida Raith": 1,
-      "Dorset": 1,
-      "George Dorset": 1
+      "Brys": 1
     }
   },
   {
@@ -4087,14 +3635,14 @@
       }
     },
     "co_occurs_with": {
+      "Alaska": 1,
       "Alice Wetherall": 1,
       "At Home": 1,
+      "Audrey Anstell": 1,
+      "Bar Harbour": 1,
       "Bellomont": 1,
       "Bertha Dorset": 1,
-      "Carry Fisher": 1,
-      "Cressida Raith": 1,
-      "Dorset": 1,
-      "George Dorset": 1
+      "Brys": 1
     }
   },
   {
@@ -4109,22 +3657,26 @@
       }
     },
     "co_occurs_with": {
+      "Alaska": 1,
       "Alice Wetherall": 1,
       "At Home": 1,
+      "Audrey Anstell": 1,
+      "Bar Harbour": 1,
       "Bellomont": 1,
       "Bertha Dorset": 1,
-      "Carry Fisher": 1,
-      "Cressida Raith": 1,
-      "Dorset": 1,
-      "George Dorset": 1
+      "Brys": 1
     }
   },
   {
     "canonical_name": "Ned Van",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 4,
     "total_mentions": 4,
     "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "Jack Stepney remarked with careless loudness to Ned Van"
+      },
       "7": {
         "mentions": 1,
         "snippet": "there was some story of your having borrowed money of old Ned Van"
@@ -4136,29 +3688,29 @@
       "14": {
         "mentions": 1,
         "snippet": "Ned Van Alstyne, stroking"
-      },
-      "19": {
-        "mentions": 1,
-        "snippet": "Jack Stepney remarked with careless loudness to Ned Van"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 4,
       "Carry Fisher": 4,
+      "Lawrence Selden": 4,
       "Miss Bart": 4,
       "Mrs. Fisher": 4,
       "Mrs. Trenor": 4,
-      "Trenor": 4,
-      "Bellomont": 3,
       "Bertha Dorset": 3,
-      "George Dorset": 3
+      "Dorset": 3
     }
   },
   {
     "canonical_name": "Wall Street",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 5,
     "total_mentions": 4,
     "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "the world of affairs, and placing Wall Street under obligations"
+      },
       "7": {
         "mentions": 1,
         "snippet": "This vast mysterious Wall Street world of \u201ctips\u201d and"
@@ -4170,21 +3722,17 @@
       "11": {
         "mentions": 1,
         "snippet": "It had been a bad autumn in Wall Street, where"
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "the world of affairs, and placing Wall Street under obligations"
       }
     },
     "co_occurs_with": {
+      "Carry Fisher": 4,
+      "Dorset": 4,
       "George Dorset": 4,
+      "Gus Trenor": 4,
       "Lily": 4,
       "Miss Bart": 4,
-      "Mr. Rosedale": 4,
-      "Mrs. Fisher": 4,
-      "Rosedale": 4,
-      "Van Osburgh": 4,
-      "Carry Fisher": 3
+      "Miss Lily": 4,
+      "Mr. Rosedale": 4
     }
   },
   {
@@ -4202,11 +3750,11 @@
       "Alice Wetherall": 1,
       "Benedick": 1,
       "Bertha Dorset": 1,
+      "Carry Fisher": 1,
       "Cornelia Van Alstyne": 1,
       "Dorset": 1,
       "Dying Gladiator": 1,
-      "George Dorset": 1,
-      "Gerty Farish": 1
+      "Emporium": 1
     }
   },
   {
@@ -4223,20 +3771,28 @@
     "co_occurs_with": {
       "Alice Wetherall": 1,
       "Bertha Dorset": 1,
+      "Carry Fisher": 1,
       "Cornelia Van Alstyne": 1,
       "Dorset": 1,
       "Dying Gladiator": 1,
-      "Evie": 1,
-      "George Dorset": 1,
-      "Gerty Farish": 1
+      "Emporium": 1,
+      "Evie": 1
     }
   },
   {
     "canonical_name": "Ned Van Alstyne",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 4,
     "total_mentions": 4,
     "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "Old Ned Van Alstyne, seated"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Rosedale\u2014and despatched to Europe with old Ned Van Alstyne; but the"
+      },
       "12": {
         "mentions": 1,
         "snippet": "on Ned Van Alstyne and George Dorset the look he had dreamed of"
@@ -4244,14 +3800,6 @@
       "15": {
         "mentions": 1,
         "snippet": "He had seen men of Ned Van Alstyne\u2019s type bring"
-      },
-      "19": {
-        "mentions": 1,
-        "snippet": "Old Ned Van Alstyne, seated"
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "Rosedale\u2014and despatched to Europe with old Ned Van Alstyne; but the"
       }
     },
     "co_occurs_with": {
@@ -4262,29 +3810,29 @@
       "Mrs. Fisher": 4,
       "Mrs. Peniston": 4,
       "Peniston": 4,
-      "George Dorset": 3
+      "Bellomont": 3
     }
   },
   {
     "canonical_name": "Beltshire",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 1,
     "total_mentions": 4,
     "per_chapter": {
-      "16": {
+      "1": {
         "mentions": 4,
         "snippet": "Duchess of Beltshire has taken up Becassin\u2019s lately,\u201d Mrs."
       }
     },
     "co_occurs_with": {
+      "Americana": 1,
+      "Bellomont": 1,
       "Bertha Dorset": 1,
       "Bry": 1,
       "Brys": 1,
       "By Jove": 1,
       "Carry Fisher": 1,
-      "Casino": 1,
-      "Condamine": 1,
-      "Crown Princess": 1
+      "Casino": 1
     }
   },
   {
@@ -4292,119 +3840,119 @@
     "aliases": [
       "Dabham"
     ],
-    "first_chapter": 18,
+    "first_chapter": 3,
     "total_mentions": 4,
     "per_chapter": {
-      "18": {
+      "3": {
         "mentions": 4,
         "snippet": "Dorset\u2019s, in particular, challenged all the wealth of Mr."
       }
     },
     "co_occurs_with": {
+      "American Beauties": 1,
       "Bertha Dorset": 1,
       "Bry": 1,
       "Dear Mr": 1,
       "Dorset": 1,
       "Duchess": 1,
-      "Good God": 1,
-      "Lady Skiddaw": 1,
-      "Lawrence Selden": 1
-    }
-  },
-  {
-    "canonical_name": "Nothing",
-    "aliases": [],
-    "first_chapter": 18,
-    "total_mentions": 4,
-    "per_chapter": {
-      "18": {
-        "mentions": 4,
-        "snippet": "\u201cNothing as yet\u2014and nothing in the future, I think."
-      }
-    },
-    "co_occurs_with": {
-      "Bertha Dorset": 1,
-      "Bry": 1,
-      "Dear Mr": 1,
-      "Dorset": 1,
-      "Duchess": 1,
-      "Good God": 1,
-      "Lady Skiddaw": 1,
-      "Lawrence Selden": 1
-    }
-  },
-  {
-    "canonical_name": "Alaska",
-    "aliases": [],
-    "first_chapter": 20,
-    "total_mentions": 4,
-    "per_chapter": {
-      "20": {
-        "mentions": 4,
-        "snippet": "to Alaska next month in their private car, and Mattie, who is the"
-      }
-    },
-    "co_occurs_with": {
-      "Audrey Anstell": 1,
-      "Bar Harbour": 1,
-      "Brys": 1,
-      "Carry Fisher": 1,
-      "Dick Bellingers": 1,
-      "Fifth Avenue": 1,
       "George Dorset": 1,
       "Gerty Farish": 1
     }
   },
   {
-    "canonical_name": "Mrs. Norma Hatch",
+    "canonical_name": "Nothing",
     "aliases": [],
-    "first_chapter": 23,
+    "first_chapter": 3,
     "total_mentions": 4,
     "per_chapter": {
-      "23": {
+      "3": {
+        "mentions": 4,
+        "snippet": "\u201cNothing as yet\u2014and nothing in the future, I think."
+      }
+    },
+    "co_occurs_with": {
+      "American Beauties": 1,
+      "Bertha Dorset": 1,
+      "Bry": 1,
+      "Dear Mr": 1,
+      "Dorset": 1,
+      "Duchess": 1,
+      "George Dorset": 1,
+      "Gerty Farish": 1
+    }
+  },
+  {
+    "canonical_name": "Alaska",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "to Alaska next month in their private car, and Mattie, who is the"
+      }
+    },
+    "co_occurs_with": {
+      "Alice Wetherall": 1,
+      "At Home": 1,
+      "Audrey Anstell": 1,
+      "Bar Harbour": 1,
+      "Bellomont": 1,
+      "Bertha Dorset": 1,
+      "Brys": 1,
+      "Carry Fisher": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Norma Hatch",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 4,
+    "per_chapter": {
+      "8": {
         "mentions": 1,
         "snippet": "and he read on it: \u201cCare of Mrs."
       },
-      "24": {
+      "9": {
         "mentions": 1,
         "snippet": "Carry\u2019s vague presentment of Mrs."
       },
-      "25": {
+      "10": {
         "mentions": 2,
         "snippet": "that her separation from Mrs."
       }
     },
     "co_occurs_with": {
+      "Bertha Dorset": 3,
       "Carry Fisher": 3,
+      "Gerty Farish": 3,
+      "Judy Trenor": 3,
+      "Lily": 3,
       "Miss Bart": 3,
-      "Mrs. Fisher": 3,
-      "Norma Hatch": 3,
-      "Bertha Dorset": 2,
-      "Gerty Farish": 2,
-      "Jack Stepney": 2,
-      "Judy Trenor": 2
+      "Mr. Rosedale": 3,
+      "Mrs. Fisher": 3
     }
   },
   {
     "canonical_name": "Thank",
     "aliases": [],
-    "first_chapter": 25,
+    "first_chapter": 10,
     "total_mentions": 4,
     "per_chapter": {
-      "25": {
+      "10": {
         "mentions": 4,
         "snippet": "\u201cThank you."
       }
     },
     "co_occurs_with": {
       "Arion Ball": 1,
+      "Bellomont": 1,
       "Bertha Dorset": 1,
       "Bry": 1,
       "Carry Fisher": 1,
+      "Dorset": 1,
       "Freddy Van Osburgh": 1,
-      "George Dorset": 1,
-      "Gerty Farish": 1,
-      "Good Lord": 1
+      "George Dorset": 1
     }
   },
   {
@@ -4424,13 +3972,13 @@
     },
     "co_occurs_with": {
       "Bellomont": 2,
-      "Jefferson Gryce": 2,
-      "Lily Bart": 2,
-      "Madison Avenue": 2,
-      "Miss Bart": 2,
-      "Mr. Rosedale": 2,
-      "Mrs. Peniston": 2,
-      "Mrs. Trenor": 2
+      "Bertha Dorset": 2,
+      "Bry": 2,
+      "Brys": 2,
+      "By Jove": 2,
+      "Casino": 2,
+      "Dorset": 2,
+      "George Dorset": 2
     }
   },
   {
@@ -4454,13 +4002,13 @@
     },
     "co_occurs_with": {
       "Bellomont": 3,
+      "Bertha Dorset": 3,
+      "Carry Fisher": 3,
+      "Dorset": 3,
+      "George Dorset": 3,
+      "Gerty Farish": 3,
       "Gwen Van Osburgh": 3,
-      "Lady Cressida Raith": 3,
-      "Miss Bart": 3,
-      "Mrs. Trenor": 3,
-      "Trenor": 3,
-      "Van Osburgh": 3,
-      "Don": 2
+      "Jack Stepney": 3
     }
   },
   {
@@ -4480,13 +4028,13 @@
     },
     "co_occurs_with": {
       "Bellomont": 2,
+      "Bertha Dorset": 2,
+      "By Jove": 2,
+      "Carry Fisher": 2,
+      "Fifth Avenue": 2,
       "George Dorsets": 2,
       "Gerty Farish": 2,
-      "Miss Bart": 2,
-      "Mr. Rosedale": 2,
-      "Mrs. Trenor": 2,
-      "Mrs. Van Osburgh": 2,
-      "Rosedale": 2
+      "Jack Stepney": 2
     }
   },
   {
@@ -4499,24 +4047,24 @@
         "mentions": 1,
         "snippet": "\u201cDear Mr."
       },
+      "3": {
+        "mentions": 1,
+        "snippet": "easy gesture, and the pale bravery of her recovered smile\u2014\u201cDear Mr."
+      },
       "15": {
         "mentions": 1,
         "snippet": "the date, and \u201cDear Mr."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "easy gesture, and the pale bravery of her recovered smile\u2014\u201cDear Mr."
       }
     },
     "co_occurs_with": {
+      "Bertha Dorset": 3,
       "Miss Bart": 3,
-      "Mr. Rosedale": 2,
-      "Mr. Selden": 2,
-      "Mrs. Peniston": 2,
-      "Peniston": 2,
-      "Rosedale": 2,
-      "Selden": 2,
-      "Bertha Dorset": 2
+      "Mrs. Fisher": 3,
+      "Mrs. Peniston": 3,
+      "Peniston": 3,
+      "Bry": 2,
+      "Brys": 2,
+      "Carry Fisher": 2
     }
   },
   {
@@ -4533,12 +4081,12 @@
     "co_occurs_with": {
       "Americana": 1,
       "Bellomont": 1,
-      "Central Station": 1,
-      "Cressida Raith": 1,
-      "Dear Mr": 1,
-      "Don": 1,
-      "Fifth Avenue": 1,
-      "George Dorsets": 1
+      "Beltshire": 1,
+      "Bertha Dorset": 1,
+      "Bry": 1,
+      "Brys": 1,
+      "By Jove": 1,
+      "Carry Fisher": 1
     }
   },
   {
@@ -4562,13 +4110,13 @@
     },
     "co_occurs_with": {
       "Bertha Dorset": 3,
+      "Carry Fisher": 3,
       "Dorset": 3,
       "George Dorset": 3,
+      "Gerty Farish": 3,
+      "Grace Stepney": 3,
       "Gryce": 3,
-      "Judy Trenor": 3,
-      "Lawrence Selden": 3,
-      "Miss Bart": 3,
-      "Mr. Gryce": 3
+      "Judy Trenor": 3
     }
   },
   {
@@ -4584,43 +4132,13 @@
     },
     "co_occurs_with": {
       "Alice Wetherall": 1,
+      "Aunt Julia": 1,
       "Bellomont": 1,
       "Bertha Dorset": 1,
       "Carry Fisher": 1,
       "Christian Science": 1,
       "Cressida Raith": 1,
-      "Dearest Lily": 1,
-      "Don": 1
-    }
-  },
-  {
-    "canonical_name": "Kate Corby",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 1,
-        "snippet": "the cigarette of young despair in his bedroom; and Kate Corby"
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "or: \u201cThat must be Kate Corby, to the right there, in purple\u201d\u2014did"
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "and Kate Corby\u2014well, every one you can think of who\u2019s jolly and"
-      }
-    },
-    "co_occurs_with": {
-      "Carry Fisher": 3,
-      "George Dorset": 3,
-      "Miss Bart": 3,
-      "Mrs. Peniston": 3,
-      "Peniston": 3,
-      "Van Osburgh": 3,
-      "Bellomont": 2,
-      "Bertha Dorset": 2
+      "Dear Gerty": 1
     }
   },
   {
@@ -4635,14 +4153,14 @@
       }
     },
     "co_occurs_with": {
+      "Alaska": 1,
       "Alice Wetherall": 1,
       "At Home": 1,
+      "Audrey Anstell": 1,
+      "Bar Harbour": 1,
       "Bellomont": 1,
       "Bertha Dorset": 1,
-      "Carry Fisher": 1,
-      "Cressida Raith": 1,
-      "Dorset": 1,
-      "George Dorset": 1
+      "Brys": 1
     }
   },
   {
@@ -4658,13 +4176,13 @@
     },
     "co_occurs_with": {
       "Bellomont": 1,
-      "Gryce": 1,
-      "Herbert Melson": 1,
-      "Judy Trenor": 1,
-      "Lily": 1,
-      "Miss Bart": 1,
-      "Miss Van Osburgh": 1,
-      "Mr. Gryce": 1
+      "Bertha Dorset": 1,
+      "Carry Fisher": 1,
+      "Dorset": 1,
+      "George Dorset": 1,
+      "Gerty Farish": 1,
+      "Gormers": 1,
+      "Gryce": 1
     }
   },
   {
@@ -4681,20 +4199,24 @@
     "co_occurs_with": {
       "Bellomont": 1,
       "Bertha Dorset": 1,
+      "By George": 1,
       "Carry Fisher": 1,
       "Dear Judy": 1,
       "Dorset": 1,
       "George Dorset": 1,
-      "Gryce": 1,
-      "Gus Trenor": 1
+      "Gryce": 1
     }
   },
   {
     "canonical_name": "Mrs. Wellington Bry",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "Jack Stepney and Mrs."
+      },
       "10": {
         "mentions": 1,
         "snippet": "done; and doing things well (under competent direction) was Mrs."
@@ -4702,29 +4224,29 @@
       "13": {
         "mentions": 1,
         "snippet": "missed, and to learn exactly in what measure Mrs."
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "Jack Stepney and Mrs."
       }
     },
     "co_occurs_with": {
+      "Bellomont": 3,
+      "George Dorset": 3,
       "Miss Bart": 3,
       "Mrs. Fisher": 3,
       "Mrs. Peniston": 3,
+      "Mrs. Trenor": 3,
       "Peniston": 3,
-      "Wellington Bry": 3,
-      "Bertha Dorset": 2,
-      "Bry": 2,
-      "Dorset": 2
+      "Wellington Bry": 3
     }
   },
   {
     "canonical_name": "Wellington Bry",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "Wellington Bry, she added"
+      },
       "10": {
         "mentions": 1,
         "snippet": "Wellington Bry\u2019s strong point."
@@ -4732,21 +4254,17 @@
       "13": {
         "mentions": 1,
         "snippet": "Wellington Bry"
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "Wellington Bry, she added"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 3,
+      "George Dorset": 3,
       "Miss Bart": 3,
       "Mrs. Fisher": 3,
       "Mrs. Peniston": 3,
+      "Mrs. Trenor": 3,
       "Mrs. Wellington Bry": 3,
-      "Peniston": 3,
-      "Bertha Dorset": 2,
-      "Bry": 2,
-      "Dorset": 2
+      "Peniston": 3
     }
   },
   {
@@ -4763,12 +4281,12 @@
     "co_occurs_with": {
       "Aunt Julia": 1,
       "Carry Fisher": 1,
+      "Dorset": 1,
       "Fairy Godmother": 1,
       "Fifth Avenue": 1,
+      "Fiftieth Street": 1,
       "George Dorset": 1,
-      "Gerty Farish": 1,
-      "Grace Stepney": 1,
-      "Gryce": 1
+      "Gerty Farish": 1
     }
   },
   {
@@ -4785,12 +4303,12 @@
     "co_occurs_with": {
       "Aunt Julia": 1,
       "Carry Fisher": 1,
+      "Dorset": 1,
       "Fairy Godmother": 1,
       "Fifth Avenue": 1,
+      "Fiftieth Street": 1,
       "George Dorset": 1,
-      "Gerty Farish": 1,
-      "Grace Stepney": 1,
-      "Gryce": 1
+      "Gerty Farish": 1
     }
   },
   {
@@ -4842,155 +4360,155 @@
   {
     "canonical_name": "Condamine",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
-      "16": {
+      "1": {
         "mentions": 3,
         "snippet": "little place at the Condamine."
       }
     },
     "co_occurs_with": {
+      "Americana": 1,
+      "Bellomont": 1,
       "Beltshire": 1,
       "Bertha Dorset": 1,
       "Bry": 1,
       "Brys": 1,
       "By Jove": 1,
-      "Carry Fisher": 1,
-      "Casino": 1,
-      "Crown Princess": 1
+      "Carry Fisher": 1
     }
   },
   {
     "canonical_name": "Sicily",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
-      "16": {
+      "1": {
         "mentions": 3,
         "snippet": "They were to spend a month in Sicily,\u201d Mrs."
       }
     },
     "co_occurs_with": {
+      "Americana": 1,
+      "Bellomont": 1,
       "Beltshire": 1,
       "Bertha Dorset": 1,
       "Bry": 1,
       "Brys": 1,
       "By Jove": 1,
-      "Carry Fisher": 1,
-      "Casino": 1,
-      "Condamine": 1
+      "Carry Fisher": 1
     }
   },
   {
     "canonical_name": "Riviera",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
-      "16": {
+      "1": {
         "mentions": 3,
         "snippet": "the Riviera, where the season was virtually at an end."
       }
     },
     "co_occurs_with": {
+      "Americana": 1,
+      "Bellomont": 1,
       "Beltshire": 1,
       "Bertha Dorset": 1,
       "Bry": 1,
       "Brys": 1,
       "By Jove": 1,
-      "Carry Fisher": 1,
-      "Casino": 1,
-      "Condamine": 1
+      "Carry Fisher": 1
     }
   },
   {
     "canonical_name": "Louisa",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
-      "16": {
+      "1": {
         "mentions": 3,
         "snippet": "But Louisa spoils it all by trying to repress him and"
       }
     },
     "co_occurs_with": {
+      "Americana": 1,
+      "Bellomont": 1,
       "Beltshire": 1,
       "Bertha Dorset": 1,
       "Bry": 1,
       "Brys": 1,
       "By Jove": 1,
-      "Carry Fisher": 1,
-      "Casino": 1,
-      "Condamine": 1
+      "Carry Fisher": 1
     }
   },
   {
     "canonical_name": "Gwen Stepney",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "19": {
+      "4": {
         "mentions": 3,
         "snippet": "Gwen Stepney had got such an awful hat."
       }
     },
     "co_occurs_with": {
+      "Alice Wetherall": 1,
       "Aunt Julia": 1,
+      "Bellomont": 1,
       "Bertha Dorset": 1,
       "Carry Fisher": 1,
-      "Dear Gerty": 1,
-      "Dear Grace": 1,
-      "Did": 1,
-      "Dorsets": 1,
-      "George Dorset": 1
+      "Christian Science": 1,
+      "Cressida Raith": 1,
+      "Dear Gerty": 1
     }
   },
   {
     "canonical_name": "Did",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "19": {
+      "4": {
         "mentions": 3,
         "snippet": "\u201cDid she hear that Bertha turned me off the yacht?"
       }
     },
     "co_occurs_with": {
+      "Alice Wetherall": 1,
       "Aunt Julia": 1,
+      "Bellomont": 1,
       "Bertha Dorset": 1,
       "Carry Fisher": 1,
-      "Dear Gerty": 1,
-      "Dear Grace": 1,
-      "Dorsets": 1,
-      "George Dorset": 1,
-      "Gerty Farish": 1
+      "Christian Science": 1,
+      "Cressida Raith": 1,
+      "Dear Gerty": 1
     }
   },
   {
     "canonical_name": "Newport",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 5,
     "total_mentions": 3,
     "per_chapter": {
-      "20": {
+      "5": {
         "mentions": 3,
         "snippet": "up the same existence in a different setting: some at Newport,"
       }
     },
     "co_occurs_with": {
       "Alaska": 1,
+      "Alice Wetherall": 1,
+      "At Home": 1,
       "Audrey Anstell": 1,
       "Bar Harbour": 1,
-      "Brys": 1,
-      "Carry Fisher": 1,
-      "Dick Bellingers": 1,
-      "Fifth Avenue": 1,
-      "George Dorset": 1
+      "Bellomont": 1,
+      "Bertha Dorset": 1,
+      "Brys": 1
     }
   },
   {
@@ -4998,141 +4516,141 @@
     "aliases": [
       "Silvertons"
     ],
-    "first_chapter": 23,
+    "first_chapter": 8,
     "total_mentions": 3,
     "per_chapter": {
-      "23": {
+      "8": {
         "mentions": 3,
         "snippet": "\u201cBut what can they do\u2014the Miss Silvertons?"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 1,
       "Bertha Dorset": 1,
+      "By Jove": 1,
       "Carry Fisher": 1,
       "Emporium Hotel": 1,
+      "Evie Van Osburgh": 1,
       "Fifth Avenue": 1,
-      "Gerty Farish": 1,
-      "Gormers": 1,
-      "Grace Van Osburgh": 1,
-      "Herbert Melson": 1
+      "George Dorsets": 1
     }
   },
   {
     "canonical_name": "Miss Silverton",
     "aliases": [],
-    "first_chapter": 23,
+    "first_chapter": 8,
     "total_mentions": 3,
     "per_chapter": {
-      "23": {
+      "8": {
         "mentions": 2,
         "snippet": "as poor Miss Silverton, was a severe shock to her self-confidence."
       },
-      "28": {
+      "13": {
         "mentions": 1,
         "snippet": "of that ever-narrowing perspective down which she had seen Miss"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 2,
       "Fifth Avenue": 2,
+      "Gus Trenor": 2,
+      "Judy": 2,
+      "Lily": 2,
       "Lily Bart": 2,
       "Miss Bart": 2,
-      "Miss Farish": 2,
-      "Mrs. Peniston": 2,
-      "Ned Silverton": 2,
-      "Peniston": 2,
-      "Bertha Dorset": 1
+      "Miss Farish": 2
     }
   },
   {
     "canonical_name": "Freddy Van Osburgh",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 9,
     "total_mentions": 3,
     "per_chapter": {
-      "24": {
+      "9": {
         "mentions": 2,
         "snippet": "little Freddy Van Osburgh, the small slim heir of the Van Osburgh"
       },
-      "25": {
+      "10": {
         "mentions": 1,
         "snippet": "Hatch to marry Freddy Van Osburgh\u2014who is not in the least too"
       }
     },
     "co_occurs_with": {
+      "Bertha Dorset": 2,
       "Carry Fisher": 2,
+      "Dorset": 2,
+      "George Dorset": 2,
+      "Gerty Farish": 2,
+      "Judy Trenor": 2,
       "Lily": 2,
-      "Miss Bart": 2,
-      "Mr. Stancy": 2,
-      "Mrs. Fisher": 2,
-      "Mrs. Hatch": 2,
-      "Mrs. Norma Hatch": 2,
-      "New York": 2
+      "Miss Bart": 2
     }
   },
   {
     "canonical_name": "Emporium",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 9,
     "total_mentions": 3,
     "per_chapter": {
-      "24": {
+      "9": {
         "mentions": 3,
         "snippet": "When Lily woke on the morning after her translation to the Emporium"
       }
     },
     "co_occurs_with": {
+      "Alice Wetherall": 1,
+      "Benedick": 1,
+      "Bertha Dorset": 1,
       "Carry Fisher": 1,
-      "Freddy Van Osburgh": 1,
-      "Gerty": 1,
-      "Good God": 1,
-      "Lawrence Selden": 1,
-      "Lily": 1,
-      "Melville Stancy": 1,
-      "Miss Bart": 1
+      "Cornelia Van Alstyne": 1,
+      "Dorset": 1,
+      "Dying Gladiator": 1,
+      "Evie": 1
     }
   },
   {
     "canonical_name": "Mrs. Struther",
     "aliases": [],
-    "first_chapter": 28,
+    "first_chapter": 13,
     "total_mentions": 3,
     "per_chapter": {
-      "28": {
+      "13": {
         "mentions": 3,
         "snippet": "proximity of the kitchen fire, Mrs."
       }
     },
     "co_occurs_with": {
+      "Bellomont": 1,
       "Bryant Park": 1,
+      "Don": 1,
       "Fifth Avenue": 1,
       "George Dorset": 1,
+      "Gerty": 1,
       "Gus Trenor": 1,
-      "Lily Bart": 1,
-      "Miss Bart": 1,
-      "Miss Farish": 1,
-      "Miss Silverton": 1
+      "Judy": 1
     }
   },
   {
     "canonical_name": "Nettie Crane",
     "aliases": [],
-    "first_chapter": 28,
+    "first_chapter": 13,
     "total_mentions": 3,
     "per_chapter": {
-      "28": {
+      "13": {
         "mentions": 3,
         "snippet": "It was Nettie Crane then\u2014but I daresay you don\u2019t remember"
       }
     },
     "co_occurs_with": {
+      "Bellomont": 1,
       "Bryant Park": 1,
+      "Don": 1,
       "Fifth Avenue": 1,
       "George Dorset": 1,
+      "Gerty": 1,
       "Gus Trenor": 1,
-      "Lily Bart": 1,
-      "Miss Bart": 1,
-      "Miss Farish": 1,
-      "Miss Silverton": 1
+      "Judy": 1
     }
   }
 ]

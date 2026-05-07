@@ -1,960 +1,324 @@
 [
   {
-    "canonical_name": "Raskolnikov",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 573,
-    "per_chapter": {
-      "1": {
-        "mentions": 6,
-        "snippet": "\u201cRaskolnikov, a student, I came here a month ago,\u201d the young man made"
-      },
-      "2": {
-        "mentions": 18,
-        "snippet": "Raskolnikov was not used to crowds, and, as we said before, he avoided"
-      },
-      "3": {
-        "mentions": 6,
-        "snippet": "was now in rags and served Raskolnikov as a bed."
-      },
-      "4": {
-        "mentions": 21,
-        "snippet": "Raskolnikov is the central figure in the business, and no one else."
-      },
-      "5": {
-        "mentions": 6,
-        "snippet": "\u201d Raskolnikov thought,"
-      },
-      "6": {
-        "mentions": 6,
-        "snippet": "Later on Raskolnikov happened to find out why the huckster and his"
-      },
-      "7": {
-        "mentions": 12,
-        "snippet": "Then Raskolnikov lost"
-      },
-      "8": {
-        "mentions": 26,
-        "snippet": "Raskolnikov made no response and held the paper in his hands, without"
-      },
-      "9": {
-        "mentions": 11,
-        "snippet": "\u201d he added, looking at Raskolnikov\u2019s rags."
-      },
-      "10": {
-        "mentions": 31,
-        "snippet": "Raskolnikov sat up."
-      },
-      "11": {
-        "mentions": 9,
-        "snippet": "Raskolnikov, watching him carefully and, sitting down at the foot of the"
-      },
-      "15": {
-        "mentions": 8,
-        "snippet": "Raskolnikov got up, and sat down on the sofa."
-      },
-      "16": {
-        "mentions": 3,
-        "snippet": "Razumihin informed him that Raskolnikov was sleeping like a dormouse."
-      },
-      "17": {
-        "mentions": 17,
-        "snippet": "Raskolnikov was sitting in the opposite corner,"
-      },
-      "18": {
-        "mentions": 2,
-        "snippet": "Raskolnikov live?"
-      },
-      "19": {
-        "mentions": 50,
-        "snippet": "Raskolnikov was already entering the room."
-      },
-      "20": {
-        "mentions": 36,
-        "snippet": "perplexity to refute Raskolnikov\u2019s arguments."
-      },
-      "21": {
-        "mentions": 28,
-        "snippet": "\u201d Raskolnikov thought once more."
-      },
-      "22": {
-        "mentions": 21,
-        "snippet": "\u201d asked Raskolnikov after a pause."
-      },
-      "23": {
-        "mentions": 12,
-        "snippet": "He had called on Raskolnikov with"
-      },
-      "24": {
-        "mentions": 18,
-        "snippet": "Raskolnikov went straight to the house on the canal bank where Sonia"
-      },
-      "25": {
-        "mentions": 47,
-        "snippet": "When next morning at eleven o\u2019clock punctually Raskolnikov went into the"
-      },
-      "26": {
-        "mentions": 24,
-        "snippet": "When he remembered the scene afterwards, this is how Raskolnikov saw it."
-      },
-      "28": {
-        "mentions": 11,
-        "snippet": "Nearly ten of the twenty roubles, given by Raskolnikov for Marmeladov\u2019s"
-      },
-      "29": {
-        "mentions": 14,
-        "snippet": "Raskolnikov, standing"
-      },
-      "30": {
-        "mentions": 11,
-        "snippet": "Raskolnikov had been a vigorous and active champion of Sonia against"
-      },
-      "31": {
-        "mentions": 21,
-        "snippet": "I should find you,\u201d he said, addressing Raskolnikov suddenly, \u201cthat is,"
-      },
-      "32": {
-        "mentions": 22,
-        "snippet": "A strange period began for Raskolnikov: it was as though a fog had"
-      },
-      "33": {
-        "mentions": 26,
-        "snippet": "\u201cWhy, he\u2019s playing his professional tricks again,\u201d Raskolnikov thought"
-      },
-      "34": {
-        "mentions": 20,
-        "snippet": "about Raskolnikov\u2019s mind, and causing him great uneasiness."
-      },
-      "35": {
-        "mentions": 9,
-        "snippet": "\u201d Raskolnikov felt more and more"
-      },
-      "36": {
-        "mentions": 9,
-        "snippet": "Raskolnikov walked after him."
-      },
-      "37": {
-        "mentions": 3,
-        "snippet": "Dounia, he had recommended Raskolnikov to trust her to Razumihin\u2019s"
-      },
-      "38": {
-        "mentions": 9,
-        "snippet": "The same day, about seven o\u2019clock in the evening, Raskolnikov was on"
-      }
-    },
-    "co_occurs_with": {
-      "Razumihin": 20,
-      "Rodion Romanovitch": 15,
-      "Avdotya Romanovna": 14,
-      "Dounia": 14,
-      "Katerina Ivanovna": 12,
-      "Pyotr Petrovitch": 11,
-      "Sonia": 11,
-      "Rodya": 10
-    }
-  },
-  {
     "canonical_name": "Sonia",
     "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 384,
+    "first_chapter": 1,
+    "total_mentions": 225,
     "per_chapter": {
-      "2": {
-        "mentions": 18,
-        "snippet": "Sonia, as you may well fancy, has had no education."
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "\u201cSister Sonia sent me,\u201d answered the girl, smiling still more brightly."
-      },
-      "18": {
-        "mentions": 28,
-        "snippet": "At Sonia\u2019s entrance, Razumihin, who had been sitting on one of"
-      },
-      "20": {
-        "mentions": 4,
-        "snippet": "Sonia!"
-      },
-      "24": {
-        "mentions": 62,
-        "snippet": "Raskolnikov went straight to the house on the canal bank where Sonia"
-      },
-      "27": {
-        "mentions": 17,
-        "snippet": "Five minutes later Lebeziatnikov came in with Sonia."
-      },
-      "28": {
-        "mentions": 23,
-        "snippet": "Moreover Sonia had said with good reason that her"
-      },
-      "29": {
-        "mentions": 30,
-        "snippet": "Pyotr Petrovitch, edging by her, went to the opposite corner where Sonia"
-      },
-      "30": {
-        "mentions": 96,
-        "snippet": "Raskolnikov had been a vigorous and active champion of Sonia against"
-      },
-      "31": {
-        "mentions": 33,
-        "snippet": "from Raskolnikov to Sonia."
-      },
-      "32": {
+      "1": {
         "mentions": 10,
         "snippet": "too menacing and unmistakable words in Sonia\u2019s room at the moment of"
       },
-      "34": {
+      "2": {
+        "mentions": 23,
+        "snippet": "Moreover Sonia had said with good reason that her"
+      },
+      "3": {
         "mentions": 4,
         "snippet": "Sonia?"
       },
-      "37": {
+      "4": {
+        "mentions": 96,
+        "snippet": "Raskolnikov had been a vigorous and active champion of Sonia against"
+      },
+      "5": {
+        "mentions": 33,
+        "snippet": "from Raskolnikov to Sonia."
+      },
+      "6": {
         "mentions": 7,
         "snippet": "He went straight to Sonia."
       },
-      "39": {
+      "7": {
+        "mentions": 1,
+        "snippet": "\u201cSister Sonia sent me,\u201d answered the girl, smiling still more brightly."
+      },
+      "8": {
         "mentions": 51,
         "snippet": "When he went into Sonia\u2019s room, it was already getting dark."
       }
     },
     "co_occurs_with": {
-      "Katerina Ivanovna": 11,
-      "Raskolnikov": 11,
-      "Sofya Semyonovna": 9,
+      "Dounia": 8,
+      "Razumihin": 8,
       "Rodion Romanovitch": 8,
-      "Dounia": 7,
-      "Razumihin": 7,
+      "Sofya Semyonovna": 8,
       "Amalia Ivanovna": 7,
-      "Avdotya Romanovna": 6
+      "Katerina Ivanovna": 7,
+      "Porfiry Petrovitch": 7,
+      "Raskolnikov": 7
     }
   },
   {
     "canonical_name": "Dounia",
     "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 321,
+    "first_chapter": 1,
+    "total_mentions": 142,
     "per_chapter": {
-      "3": {
-        "mentions": 57,
-        "snippet": "to, Dounia and I, you are our all, our one hope, our one stay."
-      },
-      "4": {
-        "mentions": 19,
-        "snippet": "\u201cNo, mother, no, Dounia, you won\u2019t deceive me!"
-      },
-      "15": {
-        "mentions": 17,
-        "snippet": "\u201cCome, mamma, come out of the room at least for a minute,\u201d Dounia"
-      },
-      "16": {
-        "mentions": 13,
-        "snippet": "\u201d observed Dounia."
-      },
-      "17": {
-        "mentions": 37,
-        "snippet": "Dounia and I never go to"
-      },
-      "18": {
-        "mentions": 16,
-        "snippet": "Dounia"
-      },
-      "22": {
-        "mentions": 30,
-        "snippet": "Marfa Petrovna begged Dounia\u2019s forgiveness afterwards, and she\u2019s just"
-      },
-      "23": {
-        "mentions": 24,
-        "snippet": "When he had bitterly reminded Dounia that he had decided to take her in"
-      },
-      "27": {
-        "mentions": 4,
-        "snippet": "The morning that followed the fateful interview with Dounia and"
-      },
-      "31": {
-        "mentions": 8,
-        "snippet": "All at once the door opened and Dounia came in."
-      },
-      "32": {
+      "1": {
         "mentions": 3,
         "snippet": "The thought of Dounia and"
       },
-      "34": {
+      "2": {
+        "mentions": 30,
+        "snippet": "Marfa Petrovna begged Dounia\u2019s forgiveness afterwards, and she\u2019s just"
+      },
+      "3": {
         "mentions": 6,
         "snippet": "found out his secret and had had designs on Dounia."
       },
-      "36": {
+      "4": {
+        "mentions": 16,
+        "snippet": "Dounia"
+      },
+      "5": {
         "mentions": 35,
         "snippet": "Dounia had never met him like this in the street before and was"
       },
-      "37": {
+      "6": {
         "mentions": 3,
         "snippet": "Dounia, he had recommended Raskolnikov to trust her to Razumihin\u2019s"
       },
-      "38": {
+      "7": {
         "mentions": 25,
         "snippet": "Dounia was not"
       },
-      "39": {
+      "8": {
         "mentions": 24,
         "snippet": "Dounia had been"
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 14,
-      "Avdotya Romanovna": 12,
-      "Razumihin": 12,
-      "Rodya": 9,
-      "Pyotr Petrovitch": 9,
+      "Razumihin": 8,
       "Rodion Romanovitch": 8,
       "Sofya Semyonovna": 8,
-      "Pulcheria Alexandrovna": 8
+      "Sonia": 8,
+      "Amalia Ivanovna": 7,
+      "Katerina Ivanovna": 7,
+      "Porfiry Petrovitch": 7,
+      "Raskolnikov": 7
     }
   },
   {
-    "canonical_name": "Razumihin",
+    "canonical_name": "Raskolnikov",
     "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 279,
+    "first_chapter": 1,
+    "total_mentions": 98,
     "per_chapter": {
+      "1": {
+        "mentions": 22,
+        "snippet": "A strange period began for Raskolnikov: it was as though a fog had"
+      },
+      "2": {
+        "mentions": 26,
+        "snippet": "\u201cWhy, he\u2019s playing his professional tricks again,\u201d Raskolnikov thought"
+      },
+      "3": {
+        "mentions": 20,
+        "snippet": "about Raskolnikov\u2019s mind, and causing him great uneasiness."
+      },
       "4": {
-        "mentions": 8,
-        "snippet": "to Vassilyevsky Ostrov, to Razumihin."
+        "mentions": 9,
+        "snippet": "\u201d Raskolnikov felt more and more"
       },
       "5": {
-        "mentions": 6,
-        "snippet": "\u201cOf course, I\u2019ve been meaning lately to go to Razumihin\u2019s to ask for"
+        "mentions": 9,
+        "snippet": "Raskolnikov walked after him."
       },
-      "9": {
-        "mentions": 11,
-        "snippet": "he thought, \u201cwhy, I have not come to Razumihin of my own accord!"
-      },
-      "10": {
-        "mentions": 24,
-        "snippet": "Razumihin came in."
-      },
-      "11": {
-        "mentions": 16,
-        "snippet": "cried Razumihin."
-      },
-      "12": {
-        "mentions": 23,
-        "snippet": "unshaven face of Razumihin, who looked him boldly and inquiringly in the"
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "Razumihin, I do believe you\u2019d let anybody beat you from sheer"
-      },
-      "14": {
-        "mentions": 14,
-        "snippet": "I certainly must go to Razumihin even if"
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "Razumihin, you are forgetting."
-      },
-      "16": {
-        "mentions": 27,
-        "snippet": "Razumihin waked up next morning at eight o\u2019clock, troubled and serious."
-      },
-      "17": {
-        "mentions": 15,
-        "snippet": "yesterday_,\u201d he said, addressing Razumihin, with a friendly pressure of"
-      },
-      "18": {
-        "mentions": 23,
-        "snippet": "At Sonia\u2019s entrance, Razumihin, who had been sitting on one of"
-      },
-      "19": {
-        "mentions": 38,
-        "snippet": "Razumihin strode in gawky and awkward, shamefaced and red as a peony,"
-      },
-      "20": {
-        "mentions": 8,
-        "snippet": "\u201d repeated Razumihin, trying in"
-      },
-      "22": {
-        "mentions": 15,
-        "snippet": "\u201d asked Razumihin, as soon as they were in the"
-      },
-      "23": {
-        "mentions": 18,
-        "snippet": "recalling Razumihin too, but, he soon reassured himself on that score;"
-      },
-      "25": {
+      "6": {
         "mentions": 3,
-        "snippet": "lose your head and Razumihin\u2019s, too; he\u2019s too _good_ a man for such"
+        "snippet": "Dounia, he had recommended Raskolnikov to trust her to Razumihin\u2019s"
       },
-      "32": {
-        "mentions": 12,
-        "snippet": "The door opened and Razumihin came in."
-      },
-      "33": {
-        "mentions": 5,
-        "snippet": "Razumihin began discussing the"
-      },
-      "34": {
-        "mentions": 3,
-        "snippet": "It\u2019s true Razumihin was there to protect"
-      },
-      "35": {
-        "mentions": 1,
-        "snippet": "Razumihin--he\u2019s said to be a sensible fellow;"
-      },
-      "36": {
-        "mentions": 3,
-        "snippet": "Razumihin to escort you here."
-      },
-      "37": {
-        "mentions": 3,
-        "snippet": "Razumihin\u2019s keeping."
-      },
-      "39": {
-        "mentions": 1,
-        "snippet": "Razumihin there, your friend."
+      "7": {
+        "mentions": 9,
+        "snippet": "The same day, about seven o\u2019clock in the evening, Raskolnikov was on"
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 20,
-      "Avdotya Romanovna": 12,
-      "Dounia": 12,
-      "Rodion Romanovitch": 12,
-      "Rodya": 10,
-      "Porfiry Petrovitch": 9,
-      "Zametov": 8,
-      "Zossimov": 8
+      "Amalia Ivanovna": 7,
+      "Dounia": 7,
+      "Katerina Ivanovna": 7,
+      "Razumihin": 7,
+      "Rodion Romanovitch": 7,
+      "Sofya Semyonovna": 7,
+      "Sonia": 7,
+      "Lebeziatnikov": 6
     }
   },
   {
     "canonical_name": "Katerina Ivanovna",
     "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 144,
+    "first_chapter": 1,
+    "total_mentions": 86,
     "per_chapter": {
-      "2": {
-        "mentions": 17,
-        "snippet": "Katerina Ivanovna, my spouse, is a person of education and an officer\u2019s"
-      },
-      "14": {
-        "mentions": 24,
-        "snippet": "Having laid Marmeladov down, Raskolnikov flew to Katerina Ivanovna."
-      },
-      "18": {
-        "mentions": 7,
-        "snippet": "You come, no doubt, from Katerina Ivanovna."
-      },
-      "24": {
-        "mentions": 11,
-        "snippet": "\u201cThen you are not coming to Katerina Ivanovna to-morrow?"
-      },
-      "26": {
-        "mentions": 1,
-        "snippet": "wanted to make haste to Katerina Ivanovna\u2019s."
-      },
-      "27": {
-        "mentions": 7,
-        "snippet": "preparations for the funeral dinner at Katerina Ivanovna\u2019s excited"
-      },
-      "28": {
-        "mentions": 42,
-        "snippet": "idea of that senseless dinner in Katerina Ivanovna\u2019s disordered brain."
-      },
-      "29": {
-        "mentions": 13,
-        "snippet": "relative, Katerina Ivanovna (whose dinner I was unable to attend),"
-      },
-      "30": {
-        "mentions": 5,
-        "snippet": "So when he cried as he left Katerina Ivanovna\u2019s, \u201cWell,"
-      },
-      "31": {
-        "mentions": 10,
-        "snippet": "Katerina Ivanovna to understand, but do you know that in Paris they have"
-      },
-      "32": {
+      "1": {
         "mentions": 4,
         "snippet": "Katerina Ivanovna\u2019s death, the normal working of his mind seemed to"
       },
-      "35": {
+      "2": {
+        "mentions": 42,
+        "snippet": "idea of that senseless dinner in Katerina Ivanovna\u2019s disordered brain."
+      },
+      "3": {
+        "mentions": 13,
+        "snippet": "relative, Katerina Ivanovna (whose dinner I was unable to attend),"
+      },
+      "4": {
         "mentions": 1,
         "snippet": "\u201cBut you have provided for the children of Katerina Ivanovna."
       },
-      "36": {
+      "5": {
         "mentions": 1,
         "snippet": "Katerina Ivanovna and subscribing to the institution as well."
       },
-      "37": {
+      "6": {
         "mentions": 1,
         "snippet": "It was Katerina Ivanovna\u2019s debt and not"
+      },
+      "7": {
+        "mentions": 24,
+        "snippet": "Having laid Marmeladov down, Raskolnikov flew to Katerina Ivanovna."
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 12,
-      "Sonia": 11,
-      "Rodion Romanovitch": 9,
-      "Sofya Semyonovna": 9,
       "Amalia Ivanovna": 7,
-      "Madame Resslich": 6,
-      "Avdotya Romanovna": 6,
-      "Razumihin": 6
-    }
-  },
-  {
-    "canonical_name": "Pyotr Petrovitch",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 108,
-    "per_chapter": {
-      "3": {
-        "mentions": 8,
-        "snippet": "\u201cI have mentioned already that Pyotr Petrovitch is just setting off for"
-      },
-      "4": {
-        "mentions": 1,
-        "snippet": "\u2018Pyotr Petrovitch is such a busy man that even his wedding has to be in"
-      },
-      "12": {
-        "mentions": 17,
-        "snippet": "name of Pyotr Petrovitch for the first time."
-      },
-      "15": {
-        "mentions": 4,
-        "snippet": "that Pyotr Petrovitch was so kind as to visit you today,\u201d Pulcheria"
-      },
-      "16": {
-        "mentions": 5,
-        "snippet": "blamed Raskolnikov for intentionally insulting Pyotr Petrovitch, not"
-      },
-      "17": {
-        "mentions": 5,
-        "snippet": "rushing to find Pyotr Petrovitch to ask him to help."
-      },
-      "18": {
-        "mentions": 2,
-        "snippet": "What if Pyotr Petrovitch"
-      },
-      "21": {
-        "mentions": 1,
-        "snippet": "Luzhin, Pyotr Petrovitch?"
-      },
-      "22": {
-        "mentions": 15,
-        "snippet": "walked in first, while Pyotr Petrovitch, for good manners, lingered a"
-      },
-      "23": {
-        "mentions": 1,
-        "snippet": "spite of evil report, Pyotr Petrovitch had spoken with perfect sincerity"
-      },
-      "27": {
-        "mentions": 33,
-        "snippet": "her mother brought sobering influences to bear on Pyotr Petrovitch."
-      },
-      "28": {
-        "mentions": 8,
-        "snippet": "and because he was sharing the same room with Pyotr Petrovitch and was a"
-      },
-      "29": {
-        "mentions": 8,
-        "snippet": "\u201cPyotr Petrovitch,\u201d she cried, \u201cprotect me."
-      }
-    },
-    "co_occurs_with": {
-      "Raskolnikov": 11,
-      "Avdotya Romanovna": 9,
-      "Luzhin": 9,
-      "Dounia": 9,
-      "Razumihin": 8,
-      "Rodya": 7,
-      "Marfa Petrovna": 6,
-      "Pulcheria Alexandrovna": 6
-    }
-  },
-  {
-    "canonical_name": "Rodya",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 102,
-    "per_chapter": {
-      "3": {
-        "mentions": 15,
-        "snippet": "\u201cMy dear Rodya,\u201d wrote his mother--\u201cit\u2019s two months since I last had a"
-      },
-      "4": {
-        "mentions": 3,
-        "snippet": "does she write to me, \u2018love Dounia, Rodya, and she loves you more than"
-      },
-      "10": {
-        "mentions": 10,
-        "snippet": "You must know, Rodya, this is the second time"
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "Well, the fact is, Rodya."
-      },
-      "15": {
-        "mentions": 12,
-        "snippet": "\u201cThis evening, Rodya,\u201d answered Pulcheria Alexandrovna, \u201cthe train was"
-      },
-      "16": {
-        "mentions": 8,
-        "snippet": "Hearing that everything was going well and that Rodya had not yet waked,"
-      },
-      "18": {
-        "mentions": 5,
-        "snippet": "In spite of her embarrassment before Rodya\u2019s urgent and"
-      },
-      "19": {
-        "mentions": 3,
-        "snippet": "\u201cOnly fancy, Rodya, what we got on to yesterday."
-      },
-      "22": {
-        "mentions": 6,
-        "snippet": "Thank you, Rodya,"
-      },
-      "23": {
-        "mentions": 12,
-        "snippet": "\u201cHow do you explain him to yourself, Rodya?"
-      },
-      "38": {
-        "mentions": 19,
-        "snippet": "me, Rodya, for welcoming you so foolishly with tears: I am laughing, not"
-      },
-      "39": {
-        "mentions": 6,
-        "snippet": "that she alone knew many mysterious and important facts, and that Rodya"
-      }
-    },
-    "co_occurs_with": {
-      "Razumihin": 10,
-      "Raskolnikov": 10,
-      "Dounia": 9,
-      "Avdotya Romanovna": 7,
-      "Pulcheria Alexandrovna": 7,
-      "Pyotr Petrovitch": 7,
-      "Rodion Romanovitch": 5,
-      "Luzhin": 5
-    }
-  },
-  {
-    "canonical_name": "Avdotya Romanovna",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 85,
-    "per_chapter": {
-      "4": {
-        "mentions": 1,
-        "snippet": "determined to marry a sensible business man, Avdotya Romanovna, one"
-      },
-      "15": {
-        "mentions": 14,
-        "snippet": "\u201d Avdotya Romanovna began"
-      },
-      "16": {
-        "mentions": 16,
-        "snippet": "Avdotya Romanovna would be marrying an unworthy man for money?"
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "\u201d asked Avdotya Romanovna, distrustfully."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "in her face, as though Avdotya Romanovna\u2019s courtesy and attention were"
-      },
-      "21": {
-        "mentions": 10,
-        "snippet": "welfare of your sister, Avdotya Romanovna."
-      },
-      "22": {
-        "mentions": 10,
-        "snippet": "What can he do to harm Avdotya Romanovna?"
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "education of Avdotya Romanovna had impressed him; her helpless position"
-      },
-      "29": {
-        "mentions": 1,
-        "snippet": "engaged to be married to a young lady--my sister, Avdotya Romanovna"
-      },
-      "31": {
-        "mentions": 1,
-        "snippet": "tell Avdotya Romanovna that that is how I am spending her ten thousand."
-      },
-      "32": {
-        "mentions": 3,
-        "snippet": "her mind to come to you; Avdotya Romanovna tried to prevent her; she"
-      },
-      "34": {
-        "mentions": 1,
-        "snippet": "Avdotya Romanovna can only excite the deepest respect."
-      },
-      "35": {
-        "mentions": 8,
-        "snippet": "wonder--look at Avdotya Romanovna!"
-      },
-      "36": {
-        "mentions": 14,
-        "snippet": "He brought Avdotya Romanovna back into his sitting-room and offered her"
-      },
-      "39": {
-        "mentions": 1,
-        "snippet": "to see Avdotya Romanovna as often as possible."
-      }
-    },
-    "co_occurs_with": {
-      "Raskolnikov": 14,
-      "Dounia": 12,
-      "Razumihin": 12,
-      "Rodion Romanovitch": 10,
-      "Pyotr Petrovitch": 9,
-      "Marfa Petrovna": 8,
-      "Luzhin": 7,
-      "Pulcheria Alexandrovna": 7
+      "Dounia": 7,
+      "Raskolnikov": 7,
+      "Razumihin": 7,
+      "Rodion Romanovitch": 7,
+      "Sofya Semyonovna": 7,
+      "Sonia": 7,
+      "Lebeziatnikov": 6
     }
   },
   {
     "canonical_name": "Zossimov",
     "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 82,
+    "first_chapter": 1,
+    "total_mentions": 76,
     "per_chapter": {
-      "10": {
-        "mentions": 6,
-        "snippet": "I brought Zossimov to see"
-      },
-      "11": {
-        "mentions": 12,
-        "snippet": "Zossimov was a tall, fat man with a puffy, colourless, clean-shaven face"
-      },
-      "12": {
-        "mentions": 21,
-        "snippet": "emphasising every syllable of his question, addressed Zossimov:"
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "Zossimov said he\u2019d read it in the"
-      },
-      "14": {
-        "mentions": 7,
-        "snippet": "Wait a minute, I\u2019ll fetch Zossimov."
-      },
-      "15": {
+      "1": {
         "mentions": 16,
         "snippet": "Zossimov--that\u2019s the doctor who is looking after him, he is there, too,"
       },
-      "17": {
+      "3": {
         "mentions": 15,
         "snippet": "\u201d Zossimov cried cheerfully as they entered."
       },
-      "39": {
+      "4": {
+        "mentions": 12,
+        "snippet": "Zossimov was a tall, fat man with a puffy, colourless, clean-shaven face"
+      },
+      "5": {
+        "mentions": 21,
+        "snippet": "emphasising every syllable of his question, addressed Zossimov:"
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "Zossimov said he\u2019d read it in the"
+      },
+      "7": {
+        "mentions": 7,
+        "snippet": "Wait a minute, I\u2019ll fetch Zossimov."
+      },
+      "8": {
         "mentions": 1,
         "snippet": "Zossimov, his former fellow students, his landlady and her servant."
       }
     },
     "co_occurs_with": {
-      "Razumihin": 8,
-      "Zametov": 5,
-      "Rodya": 4,
-      "Raskolnikov": 4,
-      "Avdotya Romanovna": 3,
-      "Dounia": 3,
-      "Ilya Petrovitch": 3,
-      "Mr. Razumihin": 3
-    }
-  },
-  {
-    "canonical_name": "Rodion Romanovitch",
-    "aliases": [
-      "Rodion"
-    ],
-    "first_chapter": 4,
-    "total_mentions": 77,
-    "per_chapter": {
-      "4": {
-        "mentions": 1,
-        "snippet": "It\u2019s clear that Rodion Romanovitch"
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "\u201cPolenka, my name is Rodion."
-      },
-      "16": {
-        "mentions": 3,
-        "snippet": "request that Rodion Romanovitch may not be present at our interview--as"
-      },
-      "19": {
-        "mentions": 1,
-        "snippet": "This is my friend Rodion Romanovitch"
-      },
-      "21": {
-        "mentions": 6,
-        "snippet": "let me tell you this, Rodion Romanovitch, I don\u2019t consider it necessary"
-      },
-      "25": {
-        "mentions": 14,
-        "snippet": "my confounded laughter, please excuse it, Rodion Romanovitch."
-      },
-      "26": {
-        "mentions": 2,
-        "snippet": "\u201cMy dear Rodion Romanovitch, excuse me!"
-      },
-      "28": {
-        "mentions": 3,
-        "snippet": "\u201cThat\u2019s why I am so grateful to you, Rodion Romanovitch, that you have"
-      },
-      "29": {
-        "mentions": 1,
-        "snippet": "She sat here, by Rodion Romanovitch."
-      },
-      "31": {
-        "mentions": 6,
-        "snippet": "Ah, Rodion Romanovitch, is that you?"
-      },
-      "32": {
-        "mentions": 2,
-        "snippet": "dropping his voice, asked: \u201cBut how is it, Rodion Romanovitch; you"
-      },
-      "33": {
-        "mentions": 24,
-        "snippet": "Everything is relative, Rodion Romanovitch,"
-      },
-      "34": {
-        "mentions": 3,
-        "snippet": "having an opinion of their own, you can\u2019t fancy, Rodion Romanovitch."
-      },
-      "35": {
-        "mentions": 3,
-        "snippet": "I think you are frowning, Rodion Romanovitch?"
-      },
-      "36": {
-        "mentions": 2,
-        "snippet": "Rodion Romanovitch to know of our meeting."
-      },
-      "37": {
-        "mentions": 1,
-        "snippet": "greetings to Rodion Romanovitch."
-      },
-      "39": {
-        "mentions": 2,
-        "snippet": "\u201cRodion Romanovitch."
-      }
-    },
-    "co_occurs_with": {
-      "Raskolnikov": 15,
-      "Razumihin": 12,
-      "Avdotya Romanovna": 10,
-      "Katerina Ivanovna": 9,
-      "Dounia": 8,
-      "Sonia": 8,
-      "Porfiry Petrovitch": 7,
-      "Sofya Semyonovna": 6
-    }
-  },
-  {
-    "canonical_name": "Pulcheria Alexandrovna",
-    "aliases": [],
-    "first_chapter": 15,
-    "total_mentions": 77,
-    "per_chapter": {
-      "15": {
-        "mentions": 15,
-        "snippet": "\u201cThis evening, Rodya,\u201d answered Pulcheria Alexandrovna, \u201cthe train was"
-      },
-      "16": {
-        "mentions": 15,
-        "snippet": "had reckoned without his host: Pulcheria Alexandrovna fairly rushed at"
-      },
-      "17": {
-        "mentions": 14,
-        "snippet": "\u201d cried Pulcheria Alexandrovna."
-      },
-      "18": {
-        "mentions": 5,
-        "snippet": "and even Pulcheria Alexandrovna looked kindly at Sonia."
-      },
-      "22": {
-        "mentions": 16,
-        "snippet": "Razumihin and Raskolnikov were facing Pulcheria Alexandrovna, Razumihin"
-      },
-      "23": {
-        "mentions": 7,
-        "snippet": "\u201d Pulcheria Alexandrovna"
-      },
-      "38": {
-        "mentions": 1,
-        "snippet": "\u201cNo, no,\u201d Pulcheria Alexandrovna hurriedly interrupted, \u201cyou thought I"
-      },
-      "39": {
-        "mentions": 4,
-        "snippet": "But they were struck by the fact that Pulcheria Alexandrovna never"
-      }
-    },
-    "co_occurs_with": {
-      "Dounia": 8,
-      "Avdotya Romanovna": 7,
-      "Razumihin": 7,
-      "Rodya": 7,
-      "Raskolnikov": 7,
-      "Pyotr Petrovitch": 6,
-      "Luzhin": 5,
-      "Dmitri Prokofitch": 5
-    }
-  },
-  {
-    "canonical_name": "Luzhin",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 65,
-    "per_chapter": {
-      "4": {
-        "mentions": 11,
-        "snippet": "Luzhin be damned!"
-      },
-      "12": {
-        "mentions": 2,
-        "snippet": "Luzhin unceremoniously, Raskolnikov smiled"
-      },
-      "15": {
-        "mentions": 6,
-        "snippet": "Have you seen Luzhin?"
-      },
-      "16": {
-        "mentions": 4,
-        "snippet": "\u201cWhy is he so set against this Luzhin?"
-      },
-      "17": {
-        "mentions": 5,
-        "snippet": "\u201cI thought it was Luzhin\u2019s present,\u201d observed Raskolnikov."
-      },
-      "21": {
-        "mentions": 7,
-        "snippet": "Luzhin, Pyotr Petrovitch?"
-      },
-      "22": {
-        "mentions": 17,
-        "snippet": "to arrive before Luzhin."
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "she had only that morning thought rupture with Luzhin a terrible"
-      },
-      "27": {
-        "mentions": 3,
-        "snippet": "\u201d Luzhin went on laughing maliciously."
-      },
-      "30": {
-        "mentions": 7,
-        "snippet": "Luzhin, although he had such a load of horror and anguish in his own"
-      }
-    },
-    "co_occurs_with": {
-      "Pyotr Petrovitch": 9,
-      "Raskolnikov": 8,
-      "Avdotya Romanovna": 7,
       "Dounia": 7,
       "Razumihin": 7,
+      "Rodion Romanovitch": 7,
+      "Sofya Semyonovna": 7,
+      "Sonia": 7,
+      "Amalia Ivanovna": 6,
+      "Hay Market": 6,
+      "Katerina Ivanovna": 6
+    }
+  },
+  {
+    "canonical_name": "Pyotr Petrovitch",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 68,
+    "per_chapter": {
+      "1": {
+        "mentions": 33,
+        "snippet": "her mother brought sobering influences to bear on Pyotr Petrovitch."
+      },
+      "2": {
+        "mentions": 8,
+        "snippet": "and because he was sharing the same room with Pyotr Petrovitch and was a"
+      },
+      "3": {
+        "mentions": 8,
+        "snippet": "\u201cPyotr Petrovitch,\u201d she cried, \u201cprotect me."
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "What if Pyotr Petrovitch"
+      },
+      "5": {
+        "mentions": 17,
+        "snippet": "name of Pyotr Petrovitch for the first time."
+      }
+    },
+    "co_occurs_with": {
+      "Amalia Ivanovna": 5,
+      "Avdotya Romanovna": 5,
+      "Dounia": 5,
+      "Katerina Ivanovna": 5,
+      "Lebeziatnikov": 5,
+      "Luzhin": 5,
       "Marfa Petrovna": 5,
-      "Rodya": 5,
-      "Pulcheria Alexandrovna": 5
+      "Porfiry Petrovitch": 5
+    }
+  },
+  {
+    "canonical_name": "Rodya",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 63,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "\u201cThis evening, Rodya,\u201d answered Pulcheria Alexandrovna, \u201cthe train was"
+      },
+      "2": {
+        "mentions": 6,
+        "snippet": "Thank you, Rodya,"
+      },
+      "3": {
+        "mentions": 12,
+        "snippet": "\u201cHow do you explain him to yourself, Rodya?"
+      },
+      "4": {
+        "mentions": 5,
+        "snippet": "In spite of her embarrassment before Rodya\u2019s urgent and"
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cOnly fancy, Rodya, what we got on to yesterday."
+      },
+      "7": {
+        "mentions": 19,
+        "snippet": "me, Rodya, for welcoming you so foolishly with tears: I am laughing, not"
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "that she alone knew many mysterious and important facts, and that Rodya"
+      }
+    },
+    "co_occurs_with": {
+      "Dounia": 7,
+      "Razumihin": 7,
+      "Rodion Romanovitch": 7,
+      "Sofya Semyonovna": 7,
+      "Sonia": 7,
+      "Amalia Ivanovna": 6,
+      "Avdotya Romanovna": 6,
+      "Katerina Ivanovna": 6
     }
   },
   {
@@ -962,423 +326,565 @@
     "aliases": [
       "Porfiry"
     ],
-    "first_chapter": 18,
-    "total_mentions": 64,
+    "first_chapter": 1,
+    "total_mentions": 50,
     "per_chapter": {
-      "18": {
-        "mentions": 1,
-        "snippet": "laughing, they entered Porfiry Petrovitch\u2019s flat."
-      },
-      "19": {
-        "mentions": 13,
-        "snippet": "bowed to Porfiry Petrovitch, who stood in the middle of the room"
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "a red trunk under her bed--it\u2019s a nice hash for Porfiry Petrovitch to"
-      },
-      "22": {
-        "mentions": 3,
-        "snippet": "Then we had dinner and then I went to Porfiry\u2019s, Zametov was"
-      },
-      "25": {
-        "mentions": 22,
-        "snippet": "to Porfiry Petrovitch, he was surprised at being kept waiting so long:"
-      },
-      "26": {
-        "mentions": 10,
-        "snippet": "\u201d cried Porfiry Petrovitch, annoyed."
-      },
-      "32": {
+      "1": {
         "mentions": 1,
         "snippet": "\u201cSit down, Porfiry Petrovitch, sit down."
       },
-      "33": {
-        "mentions": 8,
+      "2": {
+        "mentions": 11,
         "snippet": "\u201d Porfiry Petrovitch ejaculated at last, having"
       },
-      "34": {
+      "3": {
         "mentions": 3,
         "snippet": "to Porfiry\u2019s?"
       },
-      "39": {
+      "4": {
+        "mentions": 1,
+        "snippet": "laughing, they entered Porfiry Petrovitch\u2019s flat."
+      },
+      "5": {
+        "mentions": 22,
+        "snippet": "to Porfiry Petrovitch, he was surprised at being kept waiting so long:"
+      },
+      "6": {
+        "mentions": 10,
+        "snippet": "\u201d cried Porfiry Petrovitch, annoyed."
+      },
+      "8": {
         "mentions": 2,
         "snippet": "suspicions even (Porfiry Petrovitch fully kept his word)--all this did"
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 9,
-      "Razumihin": 9,
+      "Dounia": 7,
+      "Razumihin": 7,
       "Rodion Romanovitch": 7,
-      "Avdotya Romanovna": 5,
-      "Dounia": 5,
-      "Sonia": 5,
-      "Rodya": 4,
-      "Zametov": 4
+      "Sofya Semyonovna": 7,
+      "Sonia": 7,
+      "Amalia Ivanovna": 6,
+      "Avdotya Romanovna": 6,
+      "Hay Market": 6
+    }
+  },
+  {
+    "canonical_name": "Pulcheria Alexandrovna",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 48,
+    "per_chapter": {
+      "1": {
+        "mentions": 15,
+        "snippet": "\u201cThis evening, Rodya,\u201d answered Pulcheria Alexandrovna, \u201cthe train was"
+      },
+      "2": {
+        "mentions": 16,
+        "snippet": "Razumihin and Raskolnikov were facing Pulcheria Alexandrovna, Razumihin"
+      },
+      "3": {
+        "mentions": 7,
+        "snippet": "\u201d Pulcheria Alexandrovna"
+      },
+      "4": {
+        "mentions": 5,
+        "snippet": "and even Pulcheria Alexandrovna looked kindly at Sonia."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "\u201cNo, no,\u201d Pulcheria Alexandrovna hurriedly interrupted, \u201cyou thought I"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "But they were struck by the fact that Pulcheria Alexandrovna never"
+      }
+    },
+    "co_occurs_with": {
+      "Dounia": 6,
+      "Razumihin": 6,
+      "Rodion Romanovitch": 6,
+      "Rodya": 6,
+      "Sofya Semyonovna": 6,
+      "Sonia": 6,
+      "Amalia Ivanovna": 5,
+      "Avdotya Romanovna": 5
     }
   },
   {
     "canonical_name": "Marfa Petrovna",
     "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 61,
+    "first_chapter": 1,
+    "total_mentions": 43,
     "per_chapter": {
-      "3": {
-        "mentions": 9,
-        "snippet": "of the kind and generous behaviour of Marfa Petrovna, Mr."
-      },
-      "16": {
-        "mentions": 4,
-        "snippet": "Marfa Petrovna."
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "\u201cDo you know, Rodya, Marfa Petrovna is dead,\u201d Pulcheria Alexandrovna"
-      },
-      "21": {
+      "1": {
         "mentions": 15,
         "snippet": "\u201cYou have got rid of Marfa Petrovna, too, so they say?"
       },
-      "22": {
+      "2": {
         "mentions": 10,
         "snippet": "his attentions, she was turned out by his wife, Marfa Petrovna."
       },
-      "23": {
-        "mentions": 2,
-        "snippet": "contradicted by Marfa Petrovna, and was by then disbelieved by all the"
-      },
-      "34": {
+      "3": {
         "mentions": 3,
         "snippet": "\u201cAs soon as you buried Marfa Petrovna?"
       },
-      "35": {
+      "4": {
         "mentions": 13,
         "snippet": "particulars how Marfa Petrovna bought me out; do you know to what a"
       },
-      "36": {
+      "5": {
         "mentions": 2,
         "snippet": "\u201cIt\u2019s not your revolver, it belonged to Marfa Petrovna, whom you killed,"
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 9,
-      "Avdotya Romanovna": 8,
-      "Dounia": 7,
-      "Razumihin": 7,
-      "Pyotr Petrovitch": 6,
+      "Amalia Ivanovna": 5,
+      "Avdotya Romanovna": 5,
+      "Dounia": 5,
+      "Katerina Ivanovna": 5,
+      "Lebeziatnikov": 5,
       "Luzhin": 5,
-      "Rodion Romanovitch": 5,
-      "Hay Market": 4
+      "Porfiry Petrovitch": 5,
+      "Pyotr Petrovitch": 5
     }
   },
   {
     "canonical_name": "Sofya Semyonovna",
     "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 58,
+    "first_chapter": 1,
+    "total_mentions": 42,
     "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "girl_ Sofya Semyonovna, your betrothed or your mistress, I don\u2019t know."
+      },
       "2": {
         "mentions": 1,
         "snippet": "respect--since then my daughter Sofya Semyonovna has been forced to take"
       },
-      "18": {
-        "mentions": 6,
-        "snippet": "\u201cMother,\u201d he said, firmly and insistently, \u201cthis is Sofya Semyonovna"
-      },
-      "27": {
-        "mentions": 6,
-        "snippet": "made love to Sofya Semyonovna!"
-      },
-      "29": {
+      "3": {
         "mentions": 13,
         "snippet": "so to speak, drove Sofya Semyonovna to it, but why did you refuse to"
       },
-      "30": {
+      "4": {
         "mentions": 2,
         "snippet": "Sofya Semyonovna, we shall see what you\u2019ll say now!"
       },
-      "31": {
-        "mentions": 4,
-        "snippet": "\u201cI\u2019ve come to you, Sofya Semyonovna,\u201d he began."
-      },
-      "32": {
-        "mentions": 3,
-        "snippet": "girl_ Sofya Semyonovna, your betrothed or your mistress, I don\u2019t know."
-      },
-      "36": {
+      "5": {
         "mentions": 14,
         "snippet": "\u201cI\u2019m coming to your lodgings, not to see you but Sofya Semyonovna, to"
       },
-      "37": {
+      "6": {
         "mentions": 5,
         "snippet": "\u201cI may be going to America, Sofya Semyonovna,\u201d said Svidriga\u00eflov, \u201cand"
       },
-      "38": {
+      "7": {
         "mentions": 2,
         "snippet": "\u201cI\u2019ve been all day with Sofya Semyonovna."
       },
-      "39": {
+      "8": {
         "mentions": 2,
         "snippet": "\u201cLittle mother Sofya Semyonovna, you"
       }
     },
     "co_occurs_with": {
-      "Katerina Ivanovna": 9,
-      "Raskolnikov": 9,
-      "Sonia": 9,
       "Dounia": 8,
-      "Avdotya Romanovna": 6,
-      "Rodion Romanovitch": 6,
-      "Razumihin": 5,
-      "Lebeziatnikov": 5
+      "Razumihin": 8,
+      "Rodion Romanovitch": 8,
+      "Sonia": 8,
+      "Amalia Ivanovna": 7,
+      "Katerina Ivanovna": 7,
+      "Porfiry Petrovitch": 7,
+      "Raskolnikov": 7
     }
   },
   {
-    "canonical_name": "Nastasya",
+    "canonical_name": "Razumihin",
     "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 43,
+    "first_chapter": 1,
+    "total_mentions": 42,
     "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "The door opened and Razumihin came in."
+      },
+      "2": {
+        "mentions": 5,
+        "snippet": "Razumihin began discussing the"
+      },
       "3": {
-        "mentions": 7,
-        "snippet": "Nastasya, the cook and only servant,"
+        "mentions": 3,
+        "snippet": "It\u2019s true Razumihin was there to protect"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "Razumihin--he\u2019s said to be a sensible fellow;"
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "Razumihin to escort you here."
       },
       "6": {
-        "mentions": 9,
-        "snippet": "Nastasya,"
+        "mentions": 3,
+        "snippet": "Razumihin\u2019s keeping."
+      },
+      "7": {
+        "mentions": 14,
+        "snippet": "I certainly must go to Razumihin even if"
       },
       "8": {
-        "mentions": 8,
-        "snippet": "Nastasya, banging with her fist on the door."
-      },
-      "9": {
-        "mentions": 8,
-        "snippet": "Even Nastasya had not touched it."
-      },
-      "12": {
-        "mentions": 5,
-        "snippet": "Nastasya and you are so"
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "Nastasya, perhaps,\u201d observed Razumihin."
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "The room was immediately crowded, yet Nastasya managed"
+        "mentions": 1,
+        "snippet": "Razumihin there, your friend."
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 5,
-      "Razumihin": 4,
-      "Pyotr Petrovitch": 3,
-      "Zossimov": 3,
-      "Dounia": 2,
-      "Marfa Petrovna": 2,
-      "Petersburg": 2,
-      "Rodya": 2
+      "Dounia": 8,
+      "Rodion Romanovitch": 8,
+      "Sofya Semyonovna": 8,
+      "Sonia": 8,
+      "Amalia Ivanovna": 7,
+      "Katerina Ivanovna": 7,
+      "Porfiry Petrovitch": 7,
+      "Raskolnikov": 7
     }
   },
   {
     "canonical_name": "Amalia Ivanovna",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 1,
     "total_mentions": 42,
     "per_chapter": {
-      "14": {
-        "mentions": 2,
-        "snippet": "not dare; I am Amalia Ivanovna."
-      },
-      "27": {
+      "1": {
         "mentions": 1,
         "snippet": "He was one of the lodgers most respected by Amalia Ivanovna, for he did"
       },
-      "28": {
+      "2": {
         "mentions": 28,
         "snippet": "and still more Amalia Ivanovna, might know \u201cthat he was in no way their"
       },
-      "29": {
+      "3": {
         "mentions": 8,
         "snippet": "squabbles with Amalia Ivanovna."
       },
-      "30": {
+      "4": {
         "mentions": 1,
         "snippet": "He told her that Amalia Ivanovna was turning them out of their lodging"
       },
-      "31": {
+      "5": {
         "mentions": 1,
         "snippet": "telling everyone, including Amalia Ivanovna; but it\u2019s difficult to"
       },
-      "37": {
+      "6": {
         "mentions": 1,
         "snippet": "Besides, you promised Amalia Ivanovna to pay"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "not dare; I am Amalia Ivanovna."
       }
     },
     "co_occurs_with": {
+      "Dounia": 7,
       "Katerina Ivanovna": 7,
+      "Raskolnikov": 7,
+      "Razumihin": 7,
+      "Rodion Romanovitch": 7,
+      "Sofya Semyonovna": 7,
       "Sonia": 7,
-      "Raskolnikov": 5,
-      "Rodion Romanovitch": 5,
-      "Lebeziatnikov": 5,
-      "Sofya Semyonovna": 5,
-      "Mr. Lebeziatnikov": 4,
-      "Madame Lippevechsel": 3
+      "Lebeziatnikov": 6
     }
   },
   {
     "canonical_name": "Nikolay",
     "aliases": [],
-    "first_chapter": 26,
+    "first_chapter": 1,
     "total_mentions": 42,
     "per_chapter": {
-      "26": {
-        "mentions": 21,
-        "snippet": "\u201cThe prisoner Nikolay has been brought,\u201d someone answered."
-      },
-      "32": {
+      "1": {
         "mentions": 7,
         "snippet": "Nikolay is a brick, for confessing."
       },
-      "33": {
+      "2": {
         "mentions": 14,
         "snippet": "Nikolay"
+      },
+      "6": {
+        "mentions": 21,
+        "snippet": "\u201cThe prisoner Nikolay has been brought,\u201d someone answered."
       }
     },
     "co_occurs_with": {
-      "Porfiry Petrovitch": 3,
-      "Raskolnikov": 3,
-      "Rodion Romanovitch": 3,
-      "Katerina Ivanovna": 2,
-      "Razumihin": 2,
-      "Alyona Ivanovna": 1,
-      "Don": 1,
-      "Gogol": 1
+      "Amalia Ivanovna": 3,
+      "Arkady Ivanovitch": 3,
+      "Dounia": 3,
+      "Ilya Petrovitch": 3,
+      "Katerina Ivanovna": 3,
+      "Mr. Razumihin": 3,
+      "Nastasya": 3,
+      "Porfiry Petrovitch": 3
+    }
+  },
+  {
+    "canonical_name": "Rodion Romanovitch",
+    "aliases": [
+      "Rodion"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 40,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "dropping his voice, asked: \u201cBut how is it, Rodion Romanovitch; you"
+      },
+      "2": {
+        "mentions": 24,
+        "snippet": "Everything is relative, Rodion Romanovitch,"
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "having an opinion of their own, you can\u2019t fancy, Rodion Romanovitch."
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "I think you are frowning, Rodion Romanovitch?"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "Rodion Romanovitch to know of our meeting."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "greetings to Rodion Romanovitch."
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cPolenka, my name is Rodion."
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "\u201cRodion Romanovitch."
+      }
+    },
+    "co_occurs_with": {
+      "Dounia": 8,
+      "Razumihin": 8,
+      "Sofya Semyonovna": 8,
+      "Sonia": 8,
+      "Amalia Ivanovna": 7,
+      "Katerina Ivanovna": 7,
+      "Porfiry Petrovitch": 7,
+      "Raskolnikov": 7
+    }
+  },
+  {
+    "canonical_name": "Avdotya Romanovna",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 37,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "her mind to come to you; Avdotya Romanovna tried to prevent her; she"
+      },
+      "2": {
+        "mentions": 10,
+        "snippet": "What can he do to harm Avdotya Romanovna?"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "Avdotya Romanovna can only excite the deepest respect."
+      },
+      "4": {
+        "mentions": 8,
+        "snippet": "wonder--look at Avdotya Romanovna!"
+      },
+      "5": {
+        "mentions": 14,
+        "snippet": "He brought Avdotya Romanovna back into his sitting-room and offered her"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "to see Avdotya Romanovna as often as possible."
+      }
+    },
+    "co_occurs_with": {
+      "Dounia": 6,
+      "Porfiry Petrovitch": 6,
+      "Razumihin": 6,
+      "Rodion Romanovitch": 6,
+      "Rodya": 6,
+      "Sofya Semyonovna": 6,
+      "Sonia": 6,
+      "Amalia Ivanovna": 5
     }
   },
   {
     "canonical_name": "Polenka",
     "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 40,
+    "first_chapter": 2,
+    "total_mentions": 37,
     "per_chapter": {
-      "14": {
-        "mentions": 12,
-        "snippet": "girl, Polenka, a child of ten, who, though there was much she did not"
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "\u201cWhy, you gave your address to Polenka yesterday."
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "morning to the shops to buy shoes for Polenka and Lida for theirs are"
-      },
-      "28": {
+      "2": {
         "mentions": 3,
         "snippet": "Polenka, Sonia and the Pole, that he was the most generous,"
       },
-      "31": {
+      "4": {
+        "mentions": 4,
+        "snippet": "morning to the shops to buy shoes for Polenka and Lida for theirs are"
+      },
+      "5": {
         "mentions": 18,
         "snippet": "to sing \u2018My Village,\u2019 the boy to dance, Polenka the same."
+      },
+      "7": {
+        "mentions": 12,
+        "snippet": "girl, Polenka, a child of ten, who, though there was much she did not"
       }
     },
     "co_occurs_with": {
-      "Katerina Ivanovna": 5,
-      "Sonia": 5,
+      "Amalia Ivanovna": 4,
+      "Dmitri Prokofitch": 4,
+      "Dounia": 4,
+      "Katerina Ivanovna": 4,
+      "Lebeziatnikov": 4,
       "Raskolnikov": 4,
-      "Madame Resslich": 3,
-      "Marmeladov": 3,
-      "Amalia Ivanovna": 3,
-      "Rodion Romanovitch": 3,
-      "Avdotya Romanovna": 2
+      "Razumihin": 4,
+      "Rodion Romanovitch": 4
     }
   },
   {
-    "canonical_name": "Marmeladov",
+    "canonical_name": "Nastasya",
     "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 34,
+    "first_chapter": 1,
+    "total_mentions": 36,
     "per_chapter": {
-      "2": {
-        "mentions": 21,
-        "snippet": "Marmeladov--such is my name; titular counsellor."
-      },
-      "14": {
+      "1": {
         "mentions": 8,
-        "snippet": "government clerk retired from the service, Marmeladov."
+        "snippet": "Nastasya, banging with her fist on the door."
       },
-      "18": {
-        "mentions": 1,
-        "snippet": "Marmeladov, who was run"
+      "2": {
+        "mentions": 8,
+        "snippet": "Even Nastasya had not touched it."
       },
-      "28": {
+      "3": {
         "mentions": 3,
-        "snippet": "Nearly ten of the twenty roubles, given by Raskolnikov for Marmeladov\u2019s"
+        "snippet": "The room was immediately crowded, yet Nastasya managed"
       },
-      "29": {
-        "mentions": 1,
-        "snippet": "Marmeladov."
+      "5": {
+        "mentions": 5,
+        "snippet": "Nastasya and you are so"
+      },
+      "6": {
+        "mentions": 9,
+        "snippet": "Nastasya,"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "Nastasya, perhaps,\u201d observed Razumihin."
       }
     },
     "co_occurs_with": {
+      "Amalia Ivanovna": 6,
+      "Dounia": 6,
+      "Katerina Ivanovna": 6,
+      "Raskolnikov": 6,
+      "Razumihin": 6,
+      "Rodion Romanovitch": 6,
+      "Sofya Semyonovna": 6,
+      "Sonia": 6
+    }
+  },
+  {
+    "canonical_name": "Luzhin",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 32,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201d Luzhin went on laughing maliciously."
+      },
+      "2": {
+        "mentions": 17,
+        "snippet": "to arrive before Luzhin."
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "she had only that morning thought rupture with Luzhin a terrible"
+      },
+      "4": {
+        "mentions": 7,
+        "snippet": "Luzhin, although he had such a load of horror and anguish in his own"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "Luzhin unceremoniously, Raskolnikov smiled"
+      }
+    },
+    "co_occurs_with": {
+      "Amalia Ivanovna": 5,
+      "Avdotya Romanovna": 5,
+      "Dounia": 5,
       "Katerina Ivanovna": 5,
-      "Sonia": 5,
-      "Raskolnikov": 4,
-      "Lebeziatnikov": 3,
-      "Mr. Lebeziatnikov": 3,
-      "Sofya Semyonovna": 3,
-      "Polenka": 3,
-      "Pyotr Petrovitch": 3
+      "Lebeziatnikov": 5,
+      "Marfa Petrovna": 5,
+      "Porfiry Petrovitch": 5,
+      "Pyotr Petrovitch": 5
     }
   },
   {
     "canonical_name": "Lebeziatnikov",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 1,
     "total_mentions": 30,
     "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "Lebeziatnikov, I hope, will assist us."
+      },
       "2": {
         "mentions": 6,
         "snippet": "Lebeziatnikov gave my wife a beating, and"
       },
-      "14": {
-        "mentions": 1,
-        "snippet": "Lebeziatnikov, who\u2019s laughing"
-      },
-      "27": {
-        "mentions": 1,
-        "snippet": "Lebeziatnikov, I hope, will assist us."
-      },
-      "29": {
+      "3": {
         "mentions": 8,
         "snippet": "Lebeziatnikov."
       },
-      "30": {
+      "4": {
         "mentions": 1,
         "snippet": "Lebeziatnikov appeared at the door."
       },
-      "31": {
+      "5": {
         "mentions": 13,
         "snippet": "Lebeziatnikov looked perturbed."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "Lebeziatnikov, who\u2019s laughing"
       }
     },
     "co_occurs_with": {
+      "Amalia Ivanovna": 6,
+      "Dounia": 6,
       "Katerina Ivanovna": 6,
-      "Sonia": 6,
-      "Mr. Lebeziatnikov": 5,
-      "Sofya Semyonovna": 5,
-      "Amalia Ivanovna": 5,
-      "Raskolnikov": 4,
-      "Marmeladov": 3,
-      "Semyon Zaharovitch": 3
+      "Raskolnikov": 6,
+      "Razumihin": 6,
+      "Rodion Romanovitch": 6,
+      "Rodya": 6,
+      "Sofya Semyonovna": 6
     }
   },
   {
     "canonical_name": "Lizaveta",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 4,
     "total_mentions": 29,
     "per_chapter": {
+      "4": {
+        "mentions": 10,
+        "snippet": "with Sonia: he _had_ to tell her who had killed Lizaveta."
+      },
       "6": {
         "mentions": 11,
         "snippet": "wife had invited Lizaveta."
@@ -1387,636 +893,326 @@
         "mentions": 4,
         "snippet": "In the middle of the room stood Lizaveta with a big bundle in her arms."
       },
-      "30": {
-        "mentions": 10,
-        "snippet": "with Sonia: he _had_ to tell her who had killed Lizaveta."
-      },
-      "39": {
+      "8": {
         "mentions": 4,
         "snippet": "one; the copper one, that is Lizaveta\u2019s--you will wear yourself, show"
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 3,
-      "Alyona Ivanovna": 2,
-      "Hay Market": 2,
-      "Siberia": 2,
-      "Sofya Semyonovna": 2,
-      "Sonia": 2,
-      "Good God": 2,
-      "Afterwards": 1
-    }
-  },
-  {
-    "canonical_name": "Petersburg",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 28,
-    "per_chapter": {
-      "3": {
-        "mentions": 7,
-        "snippet": "to get to Petersburg, so that every moment is precious to him."
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "in Petersburg myself,\u201d Pyotr Petrovitch replied huffily."
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "a fire in the Petersburg quarter."
-      },
-      "27": {
-        "mentions": 4,
-        "snippet": "had not come to stay with him on his arrival in Petersburg simply from"
-      },
-      "34": {
-        "mentions": 7,
-        "snippet": "Petersburg?"
-      },
-      "39": {
-        "mentions": 3,
-        "snippet": "Petersburg and its pavement,\u201d added a workman who was a"
-      }
-    },
-    "co_occurs_with": {
       "Dounia": 4,
       "Razumihin": 4,
-      "Sonia": 3,
-      "Zossimov": 3,
-      "Pyotr Petrovitch": 3,
-      "Avdotya Romanovna": 2,
-      "Have": 2,
-      "Hay Market": 2
+      "Rodion Romanovitch": 4,
+      "Sofya Semyonovna": 4,
+      "Sonia": 4,
+      "Zametov": 4,
+      "Zossimov": 4,
+      "All": 3
     }
   },
   {
     "canonical_name": "Zametov",
     "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 26,
+    "first_chapter": 2,
+    "total_mentions": 25,
     "per_chapter": {
-      "10": {
-        "mentions": 1,
-        "snippet": "Zametov, Alexandr Grigorievitch, the head clerk in the police office,"
-      },
-      "11": {
-        "mentions": 4,
-        "snippet": "government clerk, a musician, an officer and Zametov."
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "Zametov; entrance free to the most"
-      },
-      "14": {
-        "mentions": 4,
-        "snippet": "conversation to-day with Zametov."
-      },
-      "19": {
-        "mentions": 3,
-        "snippet": "Zametov there saw it."
-      },
-      "20": {
-        "mentions": 3,
-        "snippet": "more that wretch Zametov!"
-      },
-      "33": {
+      "2": {
         "mentions": 1,
         "snippet": "Zametov was tremendously struck by"
       },
-      "39": {
+      "3": {
+        "mentions": 1,
+        "snippet": "Zametov, Alexandr Grigorievitch, the head clerk in the police office,"
+      },
+      "4": {
+        "mentions": 4,
+        "snippet": "government clerk, a musician, an officer and Zametov."
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "Zametov there saw it."
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "more that wretch Zametov!"
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "conversation to-day with Zametov."
+      },
+      "8": {
         "mentions": 9,
         "snippet": "Zametov was not there, nor, of course, Nikodim Fomitch."
       }
     },
     "co_occurs_with": {
-      "Razumihin": 8,
-      "Zossimov": 5,
-      "Raskolnikov": 5,
-      "Nikodim Fomitch": 4,
-      "Porfiry Petrovitch": 4,
-      "Rodion Romanovitch": 4,
-      "Rodya": 4,
-      "Mr. Zametov": 4
+      "Dounia": 7,
+      "Razumihin": 7,
+      "Rodion Romanovitch": 7,
+      "Sofya Semyonovna": 7,
+      "Sonia": 7,
+      "Amalia Ivanovna": 6,
+      "Katerina Ivanovna": 6,
+      "Porfiry Petrovitch": 6
     }
   },
   {
     "canonical_name": "Ilya Petrovitch",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 1,
     "total_mentions": 24,
     "per_chapter": {
-      "8": {
+      "1": {
         "mentions": 14,
         "snippet": "\u201cIlya Petrovitch!"
       },
-      "9": {
+      "2": {
         "mentions": 3,
         "snippet": "upon that wretched Ilya Petrovitch!"
       },
-      "10": {
+      "3": {
         "mentions": 2,
         "snippet": "Nikodim Fomitch and Ilya Petrovitch, and the house-porter and Mr."
       },
-      "13": {
+      "6": {
         "mentions": 1,
         "snippet": "\u201cIlya Petrovitch is a blockhead,\u201d he decided."
       },
-      "39": {
+      "8": {
         "mentions": 4,
         "snippet": "figure of the \u201cexplosive lieutenant,\u201d Ilya Petrovitch."
       }
     },
     "co_occurs_with": {
-      "Razumihin": 4,
-      "Explosive Lieutenant": 3,
-      "Nikodim Fomitch": 3,
-      "Zametov": 3,
-      "Zossimov": 3,
-      "Luise Ivanovna": 3,
-      "Raskolnikov": 3,
-      "Five Corners": 2
+      "Dounia": 5,
+      "Porfiry Petrovitch": 5,
+      "Razumihin": 5,
+      "Rodion Romanovitch": 5,
+      "Sofya Semyonovna": 5,
+      "Sonia": 5,
+      "Amalia Ivanovna": 4,
+      "Avdotya Romanovna": 4
     }
   },
   {
-    "canonical_name": "Madame Resslich",
-    "aliases": [
-      "Resslich"
-    ],
-    "first_chapter": 18,
-    "total_mentions": 22,
+    "canonical_name": "Petersburg",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 21,
     "per_chapter": {
-      "18": {
-        "mentions": 3,
-        "snippet": "Madame Resslich\u2019s."
-      },
-      "24": {
-        "mentions": 3,
-        "snippet": "from Madame Resslich\u2019s flat, was a room which had long stood empty."
-      },
-      "31": {
-        "mentions": 6,
-        "snippet": "\u201cWhy, I lodge here at Madame Resslich\u2019s, the other side of the wall."
-      },
-      "35": {
-        "mentions": 3,
-        "snippet": "Do you know that Madame Resslich, the"
-      },
-      "36": {
+      "1": {
         "mentions": 4,
-        "snippet": "Madame Resslich\u2019s not at home."
+        "snippet": "had not come to stay with him on his arrival in Petersburg simply from"
       },
-      "37": {
+      "3": {
+        "mentions": 7,
+        "snippet": "Petersburg?"
+      },
+      "5": {
         "mentions": 3,
-        "snippet": "to that old cat, Madame Resslich, and so on and so on."
+        "snippet": "in Petersburg myself,\u201d Pyotr Petrovitch replied huffily."
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "a fire in the Petersburg quarter."
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "Petersburg and its pavement,\u201d added a workman who was a"
       }
     },
     "co_occurs_with": {
-      "Katerina Ivanovna": 6,
-      "Raskolnikov": 6,
-      "Sonia": 4,
-      "Avdotya Romanovna": 4,
-      "Razumihin": 4,
-      "Rodion Romanovitch": 4,
-      "Dounia": 4,
-      "Sofya Semyonovna": 4
+      "Dounia": 5,
+      "Hay Market": 5,
+      "Porfiry Petrovitch": 5,
+      "Razumihin": 5,
+      "Rodion Romanovitch": 5,
+      "Sofya Semyonovna": 5,
+      "Sonia": 5,
+      "Zossimov": 5
     }
   },
   {
     "canonical_name": "Dmitri",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 4,
     "total_mentions": 21,
     "per_chapter": {
-      "11": {
+      "4": {
         "mentions": 21,
         "snippet": "house, painting work with Dmitri, who comes from the same village, too."
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
       "All": 1,
       "Alyona Ivanovna": 1,
-      "Because": 1,
-      "Dushkin": 1,
-      "In Peski": 1,
-      "Koch": 1,
-      "Lizaveta Ivanovna": 1,
-      "Nikolay Dementyev": 1
+      "Amalia Ivanovna": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Because": 1
     }
   },
   {
     "canonical_name": "Mr. Luzhin",
     "aliases": [],
-    "first_chapter": 4,
+    "first_chapter": 1,
     "total_mentions": 20,
     "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "be married to Mr."
+      },
       "4": {
         "mentions": 11,
         "snippet": "Mr."
       },
-      "12": {
+      "5": {
         "mentions": 2,
         "snippet": "After scanning Mr."
-      },
-      "21": {
-        "mentions": 7,
-        "snippet": "be married to Mr."
       }
     },
     "co_occurs_with": {
-      "Luzhin": 3,
-      "Pyotr Petrovitch": 3,
-      "Avdotya Romanovna": 2,
-      "Raskolnikov": 2,
-      "Rodion Romanovitch": 2,
-      "Razumihin": 2,
-      "Arkady Ivanovitch": 1,
-      "Besides": 1
+      "Alyona Ivanovna": 3,
+      "Amalia Ivanovna": 3,
+      "Andrey Semyonovitch Lebeziatnikov": 3,
+      "Avdotya Romanovna": 3,
+      "Dounia": 3,
+      "Good God": 3,
+      "Hay Market": 3,
+      "Katerina Ivanovna": 3
     }
   },
   {
     "canonical_name": "Lida",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 5,
     "total_mentions": 20,
     "per_chapter": {
-      "14": {
-        "mentions": 6,
-        "snippet": "Lida,\u201d said she to the youngest one, \u201cyou"
-      },
-      "31": {
+      "5": {
         "mentions": 14,
         "snippet": "She is teaching Lida"
-      }
-    },
-    "co_occurs_with": {
-      "Amalia Ivanovna": 2,
-      "Katerina Ivanovna": 2,
-      "Lebeziatnikov": 2,
-      "Polenka": 2,
-      "Rodion Romanovitch": 2,
-      "Semyon Zaharovitch": 2,
-      "Sonia": 2,
-      "An Hussar": 1
-    }
-  },
-  {
-    "canonical_name": "Don",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 20,
-    "per_chapter": {
-      "16": {
-        "mentions": 3,
-        "snippet": "\u201cDon\u2019t be afraid, mother,\u201d said Dounia, kissing her, \u201cbetter have faith"
-      },
-      "17": {
-        "mentions": 4,
-        "snippet": "\u201cDon\u2019t be irritated."
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "Don\u2019t you see it?"
-      },
-      "20": {
-        "mentions": 3,
-        "snippet": "\u201cDon\u2019t believe it, then!"
-      },
-      "25": {
-        "mentions": 4,
-        "snippet": "\u201cDon\u2019t jeer at me!"
-      },
-      "26": {
-        "mentions": 3,
-        "snippet": "\u201cDon\u2019t be in a hurry about Mitka!"
-      }
-    },
-    "co_occurs_with": {
-      "Raskolnikov": 6,
-      "Razumihin": 5,
-      "Porfiry Petrovitch": 4,
-      "Rodion Romanovitch": 3,
-      "Avdotya Romanovna": 3,
-      "Dounia": 3,
-      "Pulcheria Alexandrovna": 3,
-      "Pyotr Petrovitch": 3
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 19,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "Come, who will have pity on a man like"
-      },
-      "5": {
-        "mentions": 4,
-        "snippet": "Come along!"
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "Come, that\u2019s enough,\u201d Razumihin"
-      },
-      "13": {
-        "mentions": 6,
-        "snippet": "sentimental high note, shouted sharply to the organ grinder \u201cCome on,\u201d"
-      },
-      "25": {
-        "mentions": 3,
-        "snippet": "\u201cCome, sit down, old man."
-      }
-    },
-    "co_occurs_with": {
-      "Razumihin": 4,
-      "Raskolnikov": 3,
-      "All": 2,
-      "Petersburg": 2,
-      "Rodion Romanovitch Raskolnikov": 2,
-      "Zossimov": 2,
-      "Alyona Ivanovna": 1,
-      "Father": 1
-    }
-  },
-  {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 19,
-    "per_chapter": {
-      "5": {
-        "mentions": 4,
-        "snippet": "All of a sudden there was a great uproar of shouting, singing"
       },
       "7": {
-        "mentions": 4,
-        "snippet": "All at once he noticed a string on her neck; he tugged at it, but"
-      },
-      "11": {
-        "mentions": 4,
-        "snippet": "All his acquaintances found him tedious, but said he was clever"
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "All he knew, all he felt was that everything must be"
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "\u201d All this passed vaguely and fleetingly through"
+        "mentions": 6,
+        "snippet": "Lida,\u201d said she to the youngest one, \u201cyou"
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 4,
-      "Razumihin": 4,
-      "Alyona Ivanovna": 3,
-      "Come": 2,
+      "All": 2,
+      "Alyona Ivanovna": 2,
+      "Amalia Ivanovna": 2,
+      "Dmitri Prokofitch": 2,
+      "Dounia": 2,
       "Good God": 2,
-      "Lizaveta Ivanovna": 2,
-      "Koch": 2,
-      "Palais de Cristal": 2
+      "Katerina Ivanovna": 2,
+      "Lebeziatnikov": 2
     }
   },
   {
     "canonical_name": "Koch",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 1,
     "total_mentions": 19,
     "per_chapter": {
-      "7": {
-        "mentions": 5,
-        "snippet": "\u201cGood evening, Koch."
-      },
-      "8": {
+      "1": {
         "mentions": 3,
         "snippet": "Koch, he spent half an hour at the silversmith\u2019s below, before he went"
       },
-      "11": {
+      "4": {
         "mentions": 11,
         "snippet": "It was just as they pitched on those fellows, Koch and"
-      }
-    },
-    "co_occurs_with": {
-      "Raskolnikov": 3,
-      "All": 2,
-      "Alyona Ivanovna": 2,
-      "Good God": 2,
-      "Hey": 1,
-      "Lizaveta": 1,
-      "Stay": 1,
-      "Because": 1
-    }
-  },
-  {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 19,
-    "per_chapter": {
-      "8": {
-        "mentions": 4,
-        "snippet": "\u201cHere!"
       },
-      "13": {
+      "7": {
         "mentions": 5,
-        "snippet": "Here and there they gathered in groups, on the pavement,"
-      },
-      "21": {
-        "mentions": 3,
-        "snippet": "Here at least one"
-      },
-      "30": {
-        "mentions": 3,
-        "snippet": "\u201cHere I have come."
-      },
-      "38": {
-        "mentions": 4,
-        "snippet": "\u201cHere you are!"
+        "snippet": "\u201cGood evening, Koch."
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 4,
-      "Luzhin": 2,
-      "Perhaps": 2,
-      "Explosive Lieutenant": 2,
-      "Good God": 2,
-      "Ilya Petrovitch": 2,
-      "Luise Ivanovna": 2,
-      "Have": 2
+      "Alyona Ivanovna": 3,
+      "Amalia Ivanovna": 3,
+      "Dounia": 3,
+      "Good God": 3,
+      "Here": 3,
+      "Katerina Ivanovna": 3,
+      "Lebeziatnikov": 3,
+      "Mr. Lebeziatnikov": 3
     }
   },
   {
     "canonical_name": "Nikodim Fomitch",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 1,
     "total_mentions": 18,
     "per_chapter": {
-      "8": {
+      "1": {
         "mentions": 10,
         "snippet": "the district himself, Nikodim Fomitch."
       },
-      "10": {
+      "3": {
         "mentions": 2,
         "snippet": "Nikodim Fomitch and Ilya Petrovitch, and the house-porter and Mr."
       },
-      "14": {
-        "mentions": 2,
-        "snippet": "Nikodim Fomitch knew him instantly."
-      },
-      "19": {
+      "5": {
         "mentions": 1,
         "snippet": "to Nikodim Fomitch about me?"
       },
-      "39": {
+      "7": {
+        "mentions": 2,
+        "snippet": "Nikodim Fomitch knew him instantly."
+      },
+      "8": {
         "mentions": 3,
         "snippet": "To Nikodim Fomitch?"
       }
     },
     "co_occurs_with": {
-      "Razumihin": 4,
-      "Rodya": 4,
-      "Zametov": 4,
-      "Ilya Petrovitch": 3,
-      "Rodion Romanovitch": 3,
-      "Zossimov": 3,
-      "Luise Ivanovna": 3,
-      "Raskolnikov": 3
-    }
-  },
-  {
-    "canonical_name": "Dmitri Prokofitch",
-    "aliases": [
-      "Prokofitch"
-    ],
-    "first_chapter": 16,
-    "total_mentions": 18,
-    "per_chapter": {
-      "16": {
-        "mentions": 11,
-        "snippet": "\u201cDmitri Prokofitch."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "And will you, Dmitri Prokofitch, do us the favour of dining"
-      },
-      "22": {
-        "mentions": 1,
-        "snippet": "Dmitri Prokofitch had not been sent us, I really believe by God Himself,"
-      },
-      "23": {
-        "mentions": 1,
-        "snippet": "\u201cI like what you are saying, Dmitri Prokofitch!"
-      },
-      "31": {
-        "mentions": 1,
-        "snippet": "Dmitri Prokofitch, is a very good fellow."
-      },
-      "38": {
-        "mentions": 3,
-        "snippet": "Dmitri Prokofitch"
-      }
-    },
-    "co_occurs_with": {
-      "Dounia": 6,
-      "Raskolnikov": 6,
-      "Avdotya Romanovna": 5,
-      "Pulcheria Alexandrovna": 5,
+      "Dounia": 5,
+      "Razumihin": 5,
+      "Rodion Romanovitch": 5,
       "Rodya": 5,
-      "Pyotr Petrovitch": 4,
-      "Razumihin": 4,
-      "Luzhin": 3
+      "Sofya Semyonovna": 5,
+      "Sonia": 5,
+      "Zossimov": 5,
+      "Amalia Ivanovna": 4
     }
   },
   {
-    "canonical_name": "Hay Market",
+    "canonical_name": "Mr. Lebeziatnikov",
     "aliases": [],
     "first_chapter": 1,
     "total_mentions": 17,
     "per_chapter": {
       "1": {
         "mentions": 1,
-        "snippet": "Owing to the proximity of the Hay Market, the number"
+        "snippet": "Mr."
       },
-      "5": {
-        "mentions": 4,
-        "snippet": "he had returned by the Hay Market where he had no need to go."
-      },
-      "6": {
-        "mentions": 2,
-        "snippet": "On returning from the Hay Market he flung himself on the sofa and sat"
-      },
-      "21": {
-        "mentions": 1,
-        "snippet": "Viazemsky\u2019s house in the Hay Market in the old days, and I may go up in"
-      },
-      "24": {
-        "mentions": 1,
-        "snippet": "end in the Hay Market."
-      },
-      "34": {
-        "mentions": 2,
-        "snippet": "the Hay Market, through which he had come."
-      },
-      "35": {
-        "mentions": 1,
-        "snippet": "And he walked to the right towards the Hay Market."
-      },
-      "36": {
-        "mentions": 2,
-        "snippet": "word he turned and walked back towards the Hay Market."
-      },
-      "39": {
-        "mentions": 3,
-        "snippet": "went to the Hay Market."
-      }
-    },
-    "co_occurs_with": {
-      "Raskolnikov": 8,
-      "Razumihin": 5,
-      "Avdotya Romanovna": 5,
-      "Rodion Romanovitch": 5,
-      "Marfa Petrovna": 4,
-      "Alyona Ivanovna": 3,
-      "Katerina Ivanovna": 3,
-      "Madame Resslich": 3
-    }
-  },
-  {
-    "canonical_name": "Mr. Lebeziatnikov",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 17,
-    "per_chapter": {
       "2": {
         "mentions": 6,
         "snippet": "Honoured sir, a month ago Mr."
       },
-      "14": {
-        "mentions": 1,
-        "snippet": "one of your despicable flatterers like Mr."
-      },
-      "27": {
-        "mentions": 1,
-        "snippet": "Mr."
-      },
-      "29": {
+      "3": {
         "mentions": 8,
         "snippet": "note was missing from my table, in the room of my friend Mr."
       },
-      "30": {
+      "4": {
         "mentions": 1,
         "snippet": "The flaxen head of Mr."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "one of your despicable flatterers like Mr."
       }
     },
     "co_occurs_with": {
+      "Amalia Ivanovna": 5,
+      "Dounia": 5,
       "Katerina Ivanovna": 5,
       "Lebeziatnikov": 5,
-      "Sonia": 5,
-      "Sofya Semyonovna": 4,
-      "Amalia Ivanovna": 4,
-      "Marmeladov": 3,
-      "Raskolnikov": 3,
-      "Semyon Zaharovitch": 2
+      "Pulcheria Alexandrovna": 5,
+      "Raskolnikov": 5,
+      "Razumihin": 5,
+      "Rodion Romanovitch": 5
     }
   },
   {
@@ -2033,12 +1229,50 @@
     "co_occurs_with": {
       "All": 1,
       "Alyona Ivanovna": 1,
-      "Come": 1,
-      "Father": 1,
-      "Get": 1,
-      "Good God": 1,
-      "Hay Market": 1,
-      "Lesser Neva": 1
+      "Amalia Ivanovna": 1,
+      "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Cinq": 1
+    }
+  },
+  {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 17,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "\u201cDon\u2019t be afraid, mother,\u201d said Dounia, kissing her, \u201cbetter have faith"
+      },
+      "3": {
+        "mentions": 4,
+        "snippet": "\u201cDon\u2019t be irritated."
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "Don\u2019t you see it?"
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "\u201cDon\u2019t jeer at me!"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "\u201cDon\u2019t be in a hurry about Mitka!"
+      }
+    },
+    "co_occurs_with": {
+      "Amalia Ivanovna": 5,
+      "Dounia": 5,
+      "Katerina Ivanovna": 5,
+      "Porfiry Petrovitch": 5,
+      "Raskolnikov": 5,
+      "Razumihin": 5,
+      "Rodion Romanovitch": 5,
+      "Sofya Semyonovna": 5
     }
   },
   {
@@ -2046,23 +1280,91 @@
     "aliases": [
       "Captain"
     ],
-    "first_chapter": 8,
+    "first_chapter": 1,
     "total_mentions": 16,
     "per_chapter": {
-      "8": {
+      "1": {
         "mentions": 16,
         "snippet": "\u201cThere was no sort of noise or fighting in my house, Mr."
       }
     },
     "co_occurs_with": {
-      "Explosive Lieutenant": 1,
-      "Good God": 1,
-      "Here": 1,
-      "Ilya Petrovitch": 1,
-      "Karl": 1,
-      "Koch": 1,
-      "Luise Ivanovna": 1,
-      "Mr. Tchebarov": 1
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Arkady Ivanovitch": 1,
+      "Avdotya Romanovna": 1,
+      "Besides": 1,
+      "Can": 1
+    }
+  },
+  {
+    "canonical_name": "All",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 15,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "\u201d All this passed vaguely and fleetingly through"
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "All of a sudden there was a great uproar of shouting, singing"
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "All he knew, all he felt was that everything must be"
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "All at once he noticed a string on her neck; he tugged at it, but"
+      }
+    },
+    "co_occurs_with": {
+      "Alyona Ivanovna": 4,
+      "Amalia Ivanovna": 4,
+      "Dounia": 4,
+      "Katerina Ivanovna": 4,
+      "Raskolnikov": 4,
+      "Razumihin": 4,
+      "Rodion Romanovitch": 4,
+      "Sofya Semyonovna": 4
+    }
+  },
+  {
+    "canonical_name": "Here",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 15,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Here at least one"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "\u201cHere I have come."
+      },
+      "6": {
+        "mentions": 5,
+        "snippet": "Here and there they gathered in groups, on the pavement,"
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "\u201cHere you are!"
+      }
+    },
+    "co_occurs_with": {
+      "Alyona Ivanovna": 4,
+      "Amalia Ivanovna": 4,
+      "Dounia": 4,
+      "Katerina Ivanovna": 4,
+      "Raskolnikov": 4,
+      "Razumihin": 4,
+      "Rodion Romanovitch": 4,
+      "Sofya Semyonovna": 4
     }
   },
   {
@@ -2070,537 +1372,583 @@
     "aliases": [
       "Lippevechsel"
     ],
-    "first_chapter": 12,
+    "first_chapter": 1,
     "total_mentions": 15,
     "per_chapter": {
-      "12": {
-        "mentions": 3,
-        "snippet": "Lebeziatnikov, in the flat of Madame Lippevechsel; it was he who told me"
-      },
-      "14": {
-        "mentions": 6,
-        "snippet": "all Madame Lippevechsel\u2019s lodgers had streamed in from the inner rooms"
-      },
-      "27": {
+      "1": {
         "mentions": 3,
         "snippet": "Inquiring of Madame Lippevechsel who was busy"
       },
-      "28": {
+      "2": {
         "mentions": 3,
         "snippet": "stranded at Madame Lippevechsel\u2019s."
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "Lebeziatnikov, in the flat of Madame Lippevechsel; it was he who told me"
+      },
+      "7": {
+        "mentions": 6,
+        "snippet": "all Madame Lippevechsel\u2019s lodgers had streamed in from the inner rooms"
       }
     },
     "co_occurs_with": {
-      "Amalia Ivanovna": 3,
-      "Katerina Ivanovna": 3,
-      "Pyotr Petrovitch": 3,
-      "Sonia": 3,
-      "Amalia Ludwigovna": 2,
-      "Marmeladov": 2,
-      "Polenka": 2,
-      "Pyotr Petrovitch Luzhin": 2
-    }
-  },
-  {
-    "canonical_name": "Mr. Razumihin",
-    "aliases": [],
-    "first_chapter": 13,
-    "total_mentions": 15,
-    "per_chapter": {
-      "13": {
-        "mentions": 1,
-        "snippet": "\u201cWhy, Mr."
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "\u201cExcuse me, Mr."
-      },
-      "33": {
-        "mentions": 5,
-        "snippet": "And you remember how Mr."
-      },
-      "35": {
-        "mentions": 1,
-        "snippet": "heard something of a Mr."
-      },
-      "36": {
-        "mentions": 3,
-        "snippet": "you would have asked Mr."
-      },
-      "37": {
-        "mentions": 3,
-        "snippet": "for the present in Mr."
-      },
-      "39": {
-        "mentions": 1,
-        "snippet": "different matter with you or Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Razumihin": 7,
-      "Raskolnikov": 5,
-      "Rodion Romanovitch": 5,
-      "Avdotya Romanovna": 4,
+      "Amalia Ivanovna": 4,
       "Dounia": 4,
-      "Hay Market": 3,
-      "Katerina Ivanovna": 3,
-      "Madame Resslich": 3
+      "Katerina Ivanovna": 4,
+      "Lebeziatnikov": 4,
+      "Nastasya": 4,
+      "Raskolnikov": 4,
+      "Razumihin": 4,
+      "Rodion Romanovitch": 4
     }
   },
   {
     "canonical_name": "Good",
     "aliases": [],
-    "first_chapter": 15,
+    "first_chapter": 1,
     "total_mentions": 15,
     "per_chapter": {
-      "15": {
+      "1": {
         "mentions": 6,
         "snippet": "\u201cGood Heavens!"
       },
-      "22": {
+      "2": {
         "mentions": 4,
         "snippet": "\u201cGood heavens!"
       },
-      "25": {
+      "5": {
         "mentions": 5,
         "snippet": "\u201cGood heavens!"
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 3,
-      "Razumihin": 3,
-      "Avdotya Romanovna": 2,
-      "Dounia": 2,
-      "Luzhin": 2,
-      "Pulcheria Alexandrovna": 2,
-      "Pyotr Petrovitch": 2,
-      "Rodya": 2
+      "Amalia Ivanovna": 3,
+      "Avdotya Romanovna": 3,
+      "Dounia": 3,
+      "Katerina Ivanovna": 3,
+      "Lebeziatnikov": 3,
+      "Luzhin": 3,
+      "Madame Lippevechsel": 3,
+      "Marfa Petrovna": 3
+    }
+  },
+  {
+    "canonical_name": "Mr. Razumihin",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 14,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "\u201cExcuse me, Mr."
+      },
+      "2": {
+        "mentions": 5,
+        "snippet": "And you remember how Mr."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "heard something of a Mr."
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "you would have asked Mr."
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "for the present in Mr."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "different matter with you or Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Dounia": 6,
+      "Porfiry Petrovitch": 6,
+      "Razumihin": 6,
+      "Rodion Romanovitch": 6,
+      "Sofya Semyonovna": 6,
+      "Sonia": 6,
+      "Amalia Ivanovna": 5,
+      "Avdotya Romanovna": 5
     }
   },
   {
     "canonical_name": "Kolya",
     "aliases": [],
-    "first_chapter": 31,
+    "first_chapter": 5,
     "total_mentions": 14,
     "per_chapter": {
-      "31": {
+      "5": {
         "mentions": 14,
         "snippet": "when she made Lida and Kolya dance and Polenka sing."
       }
     },
     "co_occurs_with": {
+      "All": 1,
+      "Alyona Ivanovna": 1,
       "Amalia Ivanovna": 1,
       "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
       "Avdotya Romanovna": 1,
-      "Cinq": 1,
-      "Dmitri Prokofitch": 1,
-      "Dounia": 1,
-      "Katerina Ivanovna": 1,
-      "Lebeziatnikov": 1
+      "Cinq": 1
+    }
+  },
+  {
+    "canonical_name": "Marmeladov",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 13,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Nearly ten of the twenty roubles, given by Raskolnikov for Marmeladov\u2019s"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "Marmeladov."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "Marmeladov, who was run"
+      },
+      "7": {
+        "mentions": 8,
+        "snippet": "government clerk retired from the service, Marmeladov."
+      }
+    },
+    "co_occurs_with": {
+      "Amalia Ivanovna": 4,
+      "Dmitri Prokofitch": 4,
+      "Dounia": 4,
+      "Katerina Ivanovna": 4,
+      "Lebeziatnikov": 4,
+      "Mr. Lebeziatnikov": 4,
+      "Pulcheria Alexandrovna": 4,
+      "Raskolnikov": 4
     }
   },
   {
     "canonical_name": "Let",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 3,
     "total_mentions": 13,
     "per_chapter": {
-      "10": {
+      "3": {
         "mentions": 3,
         "snippet": "Let\u2019s begin from the top."
       },
-      "13": {
-        "mentions": 4,
-        "snippet": "\u201cLet me go!"
-      },
-      "36": {
+      "5": {
         "mentions": 6,
         "snippet": "\u201cLet us make haste away,\u201d Svidriga\u00eflov whispered to her, \u201cI don\u2019t want"
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "\u201cLet me go!"
       }
     },
     "co_occurs_with": {
-      "Razumihin": 3,
-      "Mr. Razumihin": 2,
-      "Raskolnikov": 2,
-      "Ilya Petrovitch": 2,
-      "Luise Ivanovna": 2,
-      "Mr. Zametov": 2,
-      "Zametov": 2,
-      "Zossimov": 2
+      "Amalia Ivanovna": 3,
+      "Don": 3,
+      "Dounia": 3,
+      "Hay Market": 3,
+      "Katerina Ivanovna": 3,
+      "Mr. Zametov": 3,
+      "Nastasya": 3,
+      "Petersburg": 3
     }
   },
   {
     "canonical_name": "Jesus",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 4,
     "total_mentions": 13,
     "per_chapter": {
-      "24": {
+      "4": {
         "mentions": 13,
         "snippet": "\u201cThen Martha as soon as she heard that Jesus was coming went and met"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
       "Andrey Semyonovitch Lebeziatnikov": 1,
-      "For Lizaveta": 1,
-      "God Which": 1,
-      "Hay Market": 1,
-      "Him": 1,
-      "Jews": 1,
-      "Katerina Ivanovna": 1,
-      "Lazarus": 1
+      "Avdotya Romanovna": 1,
+      "Because": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 12,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Come, who will have pity on a man like"
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cCome, sit down, old man."
+      },
+      "6": {
+        "mentions": 6,
+        "snippet": "sentimental high note, shouted sharply to the organ grinder \u201cCome on,\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Amalia Ivanovna": 3,
+      "Don": 3,
+      "Dounia": 3,
+      "Katerina Ivanovna": 3,
+      "Mr. Razumihin": 3,
+      "Mr. Zametov": 3,
+      "Nastasya": 3,
+      "Porfiry Petrovitch": 3
+    }
+  },
+  {
+    "canonical_name": "Hay Market",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "Viazemsky\u2019s house in the Hay Market in the old days, and I may go up in"
+      },
+      "3": {
+        "mentions": 2,
+        "snippet": "the Hay Market, through which he had come."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "And he walked to the right towards the Hay Market."
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "word he turned and walked back towards the Hay Market."
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "On returning from the Hay Market he flung himself on the sofa and sat"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "went to the Hay Market."
+      }
+    },
+    "co_occurs_with": {
+      "Dounia": 6,
+      "Porfiry Petrovitch": 6,
+      "Razumihin": 6,
+      "Rodion Romanovitch": 6,
+      "Sofya Semyonovna": 6,
+      "Sonia": 6,
+      "Zossimov": 6,
+      "Amalia Ivanovna": 5
+    }
+  },
+  {
+    "canonical_name": "Pashenka",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 11,
+    "per_chapter": {
+      "3": {
+        "mentions": 11,
+        "snippet": "from Pashenka."
+      }
+    },
+    "co_occurs_with": {
+      "Afanasy Ivanitch": 1,
+      "Afanasy Ivanovitch": 1,
+      "Afanasy Ivanovitch Vahrushin": 1,
+      "Alexandr Grigorievitch": 1,
+      "Alexey Semyonovitch": 1,
+      "Allow": 1,
+      "Amalia Ivanovna": 1,
+      "Avdotya Romanovna": 1
+    }
+  },
+  {
+    "canonical_name": "Andrey Semyonovitch",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "have told Andrey Semyonovitch about the result of yesterday\u2019s interview."
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "myself cramped for room in a lodging with my friend Andrey Semyonovitch"
+      }
+    },
+    "co_occurs_with": {
+      "Alyona Ivanovna": 2,
+      "Amalia Ivanovna": 2,
+      "Andrey Semyonovitch Lebeziatnikov": 2,
+      "Avdotya Romanovna": 2,
+      "Dounia": 2,
+      "Good": 2,
+      "Good God": 2,
+      "Hay Market": 2
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 11,
+    "per_chapter": {
+      "5": {
+        "mentions": 8,
+        "snippet": "There was no doubt about Pyotr Petrovitch\u2019s being offended this time,"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "Directly I saw it I cried out to myself: \u2018There,"
+      }
+    },
+    "co_occurs_with": {
+      "All": 2,
+      "Alyona Ivanovna": 2,
+      "Amalia Ivanovna": 2,
+      "Dmitri Prokofitch": 2,
+      "Dounia": 2,
+      "Good God": 2,
+      "Katerina Ivanovna": 2,
+      "Lebeziatnikov": 2
+    }
+  },
+  {
+    "canonical_name": "Have",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 11,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cHave I got to bother myself about you, too, now?"
+      },
+      "4": {
+        "mentions": 4,
+        "snippet": "\u201cHave they found him?"
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "\u201cHave you"
+      }
+    },
+    "co_occurs_with": {
+      "Amalia Ivanovna": 3,
+      "Don": 3,
+      "Dounia": 3,
+      "Hay Market": 3,
+      "Katerina Ivanovna": 3,
+      "Porfiry Petrovitch": 3,
+      "Raskolnikov": 3,
+      "Razumihin": 3
+    }
+  },
+  {
+    "canonical_name": "Madame Resslich",
+    "aliases": [
+      "Resslich"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 10,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "Do you know that Madame Resslich, the"
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "Madame Resslich\u2019s not at home."
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "to that old cat, Madame Resslich, and so on and so on."
+      }
+    },
+    "co_occurs_with": {
+      "All": 3,
+      "Alyona Ivanovna": 3,
+      "Amalia Ivanovna": 3,
+      "Don": 3,
+      "Dounia": 3,
+      "Hay Market": 3,
+      "Katerina Ivanovna": 3,
+      "Lizaveta Ivanovna": 3
+    }
+  },
+  {
+    "canonical_name": "Siberia",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 10,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "Siberia!"
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "her the day before that Raskolnikov had two alternatives--Siberia or."
+      }
+    },
+    "co_occurs_with": {
+      "Avdotya Romanovna": 2,
+      "Dounia": 2,
+      "Hay Market": 2,
+      "Lizaveta": 2,
+      "Mr. Razumihin": 2,
+      "New Testament": 2,
+      "Porfiry Petrovitch": 2,
+      "Pulcheria Alexandrovna": 2
     }
   },
   {
     "canonical_name": "Alyona Ivanovna",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 11,
+    "total_mentions": 9,
     "per_chapter": {
       "1": {
         "mentions": 2,
         "snippet": "\u201cHow much will you give me for the watch, Alyona Ivanovna?"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "And the next day I heard that someone had murdered Alyona Ivanovna and"
       },
       "5": {
         "mentions": 2,
         "snippet": "\u201cUpon my word, what a fright you are in of Alyona Ivanovna,\u201d gabbled"
       },
       "6": {
-        "mentions": 2,
-        "snippet": "give him the address of Alyona Ivanovna, the old pawnbroker, in case he"
+        "mentions": 1,
+        "snippet": "\u201cAlyona Ivanovna and her sister Lizaveta Ivanovna, I."
       },
       "7": {
         "mentions": 3,
         "snippet": "\u201cGood evening, Alyona Ivanovna,\u201d he began, trying to speak easily, but"
-      },
-      "11": {
-        "mentions": 1,
-        "snippet": "And the next day I heard that someone had murdered Alyona Ivanovna and"
-      },
-      "26": {
-        "mentions": 1,
-        "snippet": "\u201cAlyona Ivanovna and her sister Lizaveta Ivanovna, I."
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 6,
-      "Hay Market": 3,
-      "All": 3,
-      "Lizaveta Ivanovna": 3,
-      "Good God": 2,
-      "Razumihin": 2,
-      "Lizaveta": 2,
-      "Koch": 2
-    }
-  },
-  {
-    "canonical_name": "Pashenka",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 11,
-    "per_chapter": {
-      "10": {
-        "mentions": 11,
-        "snippet": "from Pashenka."
-      }
-    },
-    "co_occurs_with": {
-      "Afanasy Ivanovitch": 1,
-      "Afanasy Ivanovitch Vahrushin": 1,
-      "Alexandr Grigorievitch": 1,
-      "Alexey Semyonovitch": 1,
-      "English Embassy": 1,
-      "Five Corners": 1,
-      "General Kobelev": 1,
-      "Give": 1
-    }
-  },
-  {
-    "canonical_name": "Andrey Semyonovitch",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 11,
-    "per_chapter": {
-      "12": {
-        "mentions": 1,
-        "snippet": "myself cramped for room in a lodging with my friend Andrey Semyonovitch"
-      },
-      "27": {
-        "mentions": 10,
-        "snippet": "have told Andrey Semyonovitch about the result of yesterday\u2019s interview."
-      }
-    },
-    "co_occurs_with": {
-      "Andrey Semyonovitch Lebeziatnikov": 2,
-      "Luzhin": 2,
-      "Madame Lippevechsel": 2,
-      "Petersburg": 2,
-      "Pyotr Petrovitch": 2,
-      "Amalia Ivanovna": 1,
-      "Dounia": 1,
-      "Is Raskolnikov": 1
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 11,
-    "per_chapter": {
-      "12": {
-        "mentions": 8,
-        "snippet": "There was no doubt about Pyotr Petrovitch\u2019s being offended this time,"
-      },
-      "38": {
-        "mentions": 3,
-        "snippet": "Directly I saw it I cried out to myself: \u2018There,"
-      }
-    },
-    "co_occurs_with": {
-      "Dmitri Prokofitch": 1,
-      "Dounia": 1,
-      "Here": 1,
-      "Pulcheria Alexandrovna": 1,
-      "Raskolnikov": 1,
-      "Rodya": 1,
-      "Sofya Semyonovna": 1,
-      "Thank God": 1
-    }
-  },
-  {
-    "canonical_name": "Have",
-    "aliases": [],
-    "first_chapter": 13,
-    "total_mentions": 11,
-    "per_chapter": {
-      "13": {
-        "mentions": 4,
-        "snippet": "\u201cHave you"
-      },
-      "30": {
-        "mentions": 4,
-        "snippet": "\u201cHave they found him?"
-      },
-      "34": {
-        "mentions": 3,
-        "snippet": "\u201cHave I got to bother myself about you, too, now?"
-      }
-    },
-    "co_occurs_with": {
-      "Petersburg": 2,
-      "Raskolnikov": 2,
-      "Razumihin": 2,
-      "Sonia": 2,
-      "Here": 2,
-      "Avdotya Romanovna": 1,
-      "Dounia": 1,
-      "Hay Market": 1
-    }
-  },
-  {
-    "canonical_name": "Siberia",
-    "aliases": [],
-    "first_chapter": 30,
-    "total_mentions": 10,
-    "per_chapter": {
-      "30": {
-        "mentions": 4,
-        "snippet": "Siberia!"
-      },
-      "39": {
-        "mentions": 6,
-        "snippet": "her the day before that Raskolnikov had two alternatives--Siberia or."
-      }
-    },
-    "co_occurs_with": {
-      "Lizaveta": 2,
-      "Sofya Semyonovna": 2,
-      "Sonia": 2,
-      "Avdotya Romanovna": 1,
-      "Dounia": 1,
-      "Dr. Zossimov": 1,
-      "Explosive Lieutenant": 1,
-      "Five Corners": 1
-    }
-  },
-  {
-    "canonical_name": "Praskovya Pavlovna",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 9,
-    "per_chapter": {
-      "3": {
-        "mentions": 1,
-        "snippet": "\u201cPraskovya Pavlovna means to complain to the police about you,\u201d she"
-      },
-      "10": {
-        "mentions": 2,
-        "snippet": "\u201cIt would not be amiss, Nastasya, if Praskovya Pavlovna were to send us"
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "talk on the stairs that Praskovya Pavlovna, Raskolnikov\u2019s eccentric"
-      },
-      "16": {
-        "mentions": 5,
-        "snippet": "question whether to shave his stubbly chin or not (Praskovya Pavlovna"
-      }
-    },
-    "co_occurs_with": {
-      "Raskolnikov": 4,
-      "Rodya": 4,
-      "Dounia": 3,
-      "Pyotr Petrovitch": 3,
-      "Razumihin": 3,
-      "Afanasy Ivanovitch": 2,
-      "Marfa Petrovna": 2,
-      "Zossimov": 2
-    }
-  },
-  {
-    "canonical_name": "Good God",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 9,
-    "per_chapter": {
-      "5": {
-        "mentions": 1,
-        "snippet": "\u201cGood God!"
-      },
-      "7": {
-        "mentions": 2,
-        "snippet": "\u201cGood God, am I going out of my senses?"
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "\u201cGood God, only get it over soon!"
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "\u201cGood God, only tell me one thing: do they know of it yet or not?"
-      },
-      "23": {
-        "mentions": 1,
-        "snippet": "\u201cGood God!"
-      },
-      "29": {
-        "mentions": 2,
-        "snippet": "\u201cGood God!"
-      },
-      "30": {
-        "mentions": 1,
-        "snippet": "\u201cGood God!"
-      }
-    },
-    "co_occurs_with": {
-      "Raskolnikov": 7,
-      "Razumihin": 3,
-      "All": 2,
-      "Alyona Ivanovna": 2,
-      "Koch": 2,
-      "Lizaveta": 2,
-      "Here": 2,
-      "Ilya Petrovitch": 2
+      "Amalia Ivanovna": 5,
+      "Dounia": 5,
+      "Katerina Ivanovna": 5,
+      "Raskolnikov": 5,
+      "Razumihin": 5,
+      "Rodion Romanovitch": 5,
+      "Sofya Semyonovna": 5,
+      "Sonia": 5
     }
   },
   {
     "canonical_name": "Pestryakov",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 4,
     "total_mentions": 9,
     "per_chapter": {
-      "11": {
+      "4": {
         "mentions": 9,
         "snippet": "Pestryakov, at first."
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
       "All": 1,
       "Alyona Ivanovna": 1,
-      "Because": 1,
-      "Dmitri": 1,
-      "Dushkin": 1,
-      "In Peski": 1,
-      "Koch": 1,
-      "Lizaveta Ivanovna": 1
+      "Amalia Ivanovna": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Because": 1
+    }
+  },
+  {
+    "canonical_name": "Praskovya Pavlovna",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "talk on the stairs that Praskovya Pavlovna, Raskolnikov\u2019s eccentric"
+      },
+      "2": {
+        "mentions": 5,
+        "snippet": "question whether to shave his stubbly chin or not (Praskovya Pavlovna"
+      },
+      "3": {
+        "mentions": 2,
+        "snippet": "\u201cIt would not be amiss, Nastasya, if Praskovya Pavlovna were to send us"
+      }
+    },
+    "co_occurs_with": {
+      "Amalia Ivanovna": 3,
+      "Avdotya Romanovna": 3,
+      "Dounia": 3,
+      "Ilya Petrovitch": 3,
+      "Katerina Ivanovna": 3,
+      "Lebeziatnikov": 3,
+      "Luzhin": 3,
+      "Marfa Petrovna": 3
     }
   },
   {
     "canonical_name": "Dushkin",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 4,
     "total_mentions": 8,
     "per_chapter": {
-      "11": {
+      "4": {
         "mentions": 8,
         "snippet": "A peasant called Dushkin, who keeps a"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
       "All": 1,
       "Alyona Ivanovna": 1,
-      "Because": 1,
-      "Dmitri": 1,
-      "In Peski": 1,
-      "Koch": 1,
-      "Lizaveta Ivanovna": 1,
-      "Nikolay Dementyev": 1
-    }
-  },
-  {
-    "canonical_name": "Arkady Ivanovitch",
-    "aliases": [],
-    "first_chapter": 20,
-    "total_mentions": 8,
-    "per_chapter": {
-      "20": {
-        "mentions": 1,
-        "snippet": "\u201cArkady Ivanovitch Svidriga\u00eflov, allow me to"
-      },
-      "21": {
-        "mentions": 4,
-        "snippet": "\u2018You see how I trust you, Arkady Ivanovitch\u2019--that"
-      },
-      "22": {
-        "mentions": 1,
-        "snippet": "make you acquainted with the fact that Arkady Ivanovitch Svidriga\u00eflov"
-      },
-      "37": {
-        "mentions": 2,
-        "snippet": "\u201cBut as for the money, Arkady Ivanovitch, I am very grateful to you,"
-      }
-    },
-    "co_occurs_with": {
-      "Raskolnikov": 4,
-      "Razumihin": 3,
-      "Avdotya Romanovna": 2,
-      "Luzhin": 2,
-      "Marfa Petrovna": 2,
-      "Pyotr Petrovitch": 2,
-      "Rodion Romanovitch": 2,
-      "Porfiry Petrovitch": 2
+      "Amalia Ivanovna": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Because": 1
     }
   },
   {
     "canonical_name": "Him",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 4,
     "total_mentions": 8,
     "per_chapter": {
-      "24": {
+      "4": {
         "mentions": 8,
         "snippet": "Him: but Mary sat still in the house."
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
       "Andrey Semyonovitch Lebeziatnikov": 1,
-      "For Lizaveta": 1,
-      "God Which": 1,
-      "Hay Market": 1,
-      "Jesus": 1,
-      "Jews": 1,
-      "Katerina Ivanovna": 1,
-      "Lazarus": 1
+      "Avdotya Romanovna": 1,
+      "Because": 1
     }
   },
   {
@@ -2613,24 +1961,62 @@
         "mentions": 2,
         "snippet": "\u2018Semyon Zaharovitch is in the service again,"
       },
-      "14": {
-        "mentions": 4,
-        "snippet": "You can see for yourself what has happened to Semyon Zaharovitch;"
-      },
-      "31": {
+      "5": {
         "mentions": 1,
         "snippet": "\u2018protect the orphans, for you knew my late husband, Semyon Zaharovitch,"
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "You can see for yourself what has happened to Semyon Zaharovitch;"
       }
     },
     "co_occurs_with": {
+      "Amalia Ivanovna": 3,
+      "Dmitri Prokofitch": 3,
+      "Dounia": 3,
       "Katerina Ivanovna": 3,
       "Lebeziatnikov": 3,
-      "Sonia": 3,
-      "Marmeladov": 2,
-      "Mr. Lebeziatnikov": 2,
-      "Raskolnikov": 2,
-      "Sofya Semyonovna": 2,
-      "Amalia Ivanovna": 2
+      "Madame Lippevechsel": 3,
+      "Nastasya": 3,
+      "Polenka": 3
+    }
+  },
+  {
+    "canonical_name": "Good God",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "\u201cGood God, only get it over soon!"
+      },
+      "3": {
+        "mentions": 2,
+        "snippet": "\u201cGood God!"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "\u201cGood God!"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "\u201cGood God!"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "\u201cGood God, am I going out of my senses?"
+      }
+    },
+    "co_occurs_with": {
+      "Amalia Ivanovna": 5,
+      "Dounia": 5,
+      "Katerina Ivanovna": 5,
+      "Lebeziatnikov": 5,
+      "Raskolnikov": 5,
+      "Razumihin": 5,
+      "Rodion Romanovitch": 5,
+      "Rodya": 5
     }
   },
   {
@@ -2647,654 +2033,656 @@
     "co_occurs_with": {
       "All": 1,
       "Alyona Ivanovna": 1,
-      "Come": 1,
-      "Father": 1,
-      "Good God": 1,
-      "Hay Market": 1,
-      "Lesser Neva": 1,
-      "Lizaveta Ivanovna": 1
+      "Amalia Ivanovna": 1,
+      "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Cinq": 1
     }
   },
   {
     "canonical_name": "Luise Ivanovna",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 1,
     "total_mentions": 7,
     "per_chapter": {
-      "8": {
+      "1": {
         "mentions": 3,
         "snippet": "\u201cLuise Ivanovna, you can sit down,\u201d he said casually to the"
       },
-      "10": {
+      "3": {
         "mentions": 2,
         "snippet": "I\u2019ve been with him to Luise Ivanovna"
       },
-      "13": {
+      "6": {
         "mentions": 1,
         "snippet": "you\u2019ve been with him to Luise Ivanovna\u2019s--you know, the woman you tried"
       },
-      "14": {
+      "7": {
         "mentions": 1,
         "snippet": "he is a ticklish subject; it was at Luise Ivanovna\u2019s."
       }
     },
     "co_occurs_with": {
-      "Ilya Petrovitch": 3,
-      "Nikodim Fomitch": 3,
-      "Razumihin": 3,
-      "Zametov": 3,
-      "Zossimov": 3,
-      "Explosive Lieutenant": 2,
-      "Good God": 2,
-      "Here": 2
+      "Amalia Ivanovna": 4,
+      "Dounia": 4,
+      "Katerina Ivanovna": 4,
+      "Nastasya": 4,
+      "Raskolnikov": 4,
+      "Razumihin": 4,
+      "Rodion Romanovitch": 4,
+      "Sofya Semyonovna": 4
     }
   },
   {
     "canonical_name": "Listen",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 1,
     "total_mentions": 7,
     "per_chapter": {
-      "13": {
-        "mentions": 3,
-        "snippet": "\u201cListen, you are a man of culture and education?"
-      },
-      "15": {
+      "1": {
         "mentions": 4,
         "snippet": "Listen, I\u2019ll tell you what I\u2019ll"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "\u201cListen, you are a man of culture and education?"
       }
     },
     "co_occurs_with": {
-      "Mr. Razumihin": 2,
-      "Razumihin": 2,
-      "Zossimov": 2,
-      "Avdotya Romanovna": 1,
-      "Dounia": 1,
-      "Good": 1,
-      "Luzhin": 1,
-      "Praskovya Pavlovna": 1
+      "Alyona Ivanovna": 2,
+      "Amalia Ivanovna": 2,
+      "Arkady Ivanovitch": 2,
+      "Dounia": 2,
+      "Explosive Lieutenant": 2,
+      "Hay Market": 2,
+      "Here": 2,
+      "Ilya Petrovitch": 2
     }
   },
   {
     "canonical_name": "Very",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 5,
     "total_mentions": 7,
     "per_chapter": {
-      "13": {
-        "mentions": 4,
-        "snippet": "\u201cVery much?"
-      },
-      "19": {
+      "5": {
         "mentions": 3,
         "snippet": "Very, very original, but."
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "\u201cVery much?"
       }
     },
     "co_occurs_with": {
-      "Mr. Zametov": 2,
-      "Razumihin": 2,
-      "Zametov": 2,
-      "Fool": 1,
-      "Ivan the Great": 1,
-      "Mahomet": 1,
-      "New Jerusalem": 1,
-      "Newton": 1
+      "All": 2,
+      "Alyona Ivanovna": 2,
+      "Amalia Ivanovna": 2,
+      "Come": 2,
+      "Don": 2,
+      "Dounia": 2,
+      "Hay Market": 2,
+      "Katerina Ivanovna": 2
     }
   },
   {
     "canonical_name": "Amalia Ludwigovna",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 2,
     "total_mentions": 7,
     "per_chapter": {
-      "14": {
-        "mentions": 6,
-        "snippet": "\u201cAmalia Ludwigovna, I beg you to recollect what you are saying,\u201d"
-      },
-      "28": {
+      "2": {
         "mentions": 1,
         "snippet": "was Amalia Ivanovna or Amalia Ludwigovna."
+      },
+      "7": {
+        "mentions": 6,
+        "snippet": "\u201cAmalia Ludwigovna, I beg you to recollect what you are saying,\u201d"
       }
     },
     "co_occurs_with": {
       "Amalia Ivanovna": 2,
+      "Dmitri Prokofitch": 2,
+      "Dounia": 2,
       "Katerina Ivanovna": 2,
+      "Lebeziatnikov": 2,
       "Madame Lippevechsel": 2,
       "Marmeladov": 2,
-      "Polenka": 2,
-      "Rodion Romanovitch": 2,
-      "Sonia": 2,
-      "Cough": 1
+      "Mr. Lebeziatnikov": 2
+    }
+  },
+  {
+    "canonical_name": "Dmitri Prokofitch",
+    "aliases": [
+      "Prokofitch"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 7,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Dmitri Prokofitch had not been sent us, I really believe by God Himself,"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "\u201cI like what you are saying, Dmitri Prokofitch!"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "And will you, Dmitri Prokofitch, do us the favour of dining"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "Dmitri Prokofitch, is a very good fellow."
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "Dmitri Prokofitch"
+      }
+    },
+    "co_occurs_with": {
+      "Amalia Ivanovna": 5,
+      "Dounia": 5,
+      "Katerina Ivanovna": 5,
+      "Lebeziatnikov": 5,
+      "Raskolnikov": 5,
+      "Razumihin": 5,
+      "Rodion Romanovitch": 5,
+      "Rodya": 5
+    }
+  },
+  {
+    "canonical_name": "Arkady Ivanovitch",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u2018You see how I trust you, Arkady Ivanovitch\u2019--that"
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "make you acquainted with the fact that Arkady Ivanovitch Svidriga\u00eflov"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "\u201cBut as for the money, Arkady Ivanovitch, I am very grateful to you,"
+      }
+    },
+    "co_occurs_with": {
+      "Amalia Ivanovna": 3,
+      "Dounia": 3,
+      "Ilya Petrovitch": 3,
+      "Katerina Ivanovna": 3,
+      "Mr. Razumihin": 3,
+      "Nastasya": 3,
+      "Nikolay": 3,
+      "Porfiry Petrovitch": 3
     }
   },
   {
     "canonical_name": "Perhaps",
     "aliases": [],
-    "first_chapter": 21,
+    "first_chapter": 1,
     "total_mentions": 7,
     "per_chapter": {
-      "21": {
+      "1": {
         "mentions": 4,
         "snippet": "Perhaps."
       },
-      "30": {
+      "4": {
         "mentions": 3,
         "snippet": "\u201cPerhaps I don\u2019t want to go to Siberia yet, Sonia,\u201d he said."
       }
     },
     "co_occurs_with": {
-      "Here": 2,
-      "Luzhin": 2,
-      "Raskolnikov": 2,
-      "Arkady Ivanovitch": 1,
-      "Avdotya Romanovna": 1,
-      "Besides": 1,
-      "Can": 1,
-      "Hay Market": 1
+      "Alyona Ivanovna": 2,
+      "Amalia Ivanovna": 2,
+      "Andrey Semyonovitch Lebeziatnikov": 2,
+      "Avdotya Romanovna": 2,
+      "Dounia": 2,
+      "Good God": 2,
+      "Hay Market": 2,
+      "Here": 2
     }
   },
   {
     "canonical_name": "Thou",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 4,
     "total_mentions": 7,
     "per_chapter": {
-      "24": {
+      "4": {
         "mentions": 7,
         "snippet": "\u201cThen said Martha unto Jesus, Lord, if Thou hadst been here, my brother"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
       "Andrey Semyonovitch Lebeziatnikov": 1,
-      "For Lizaveta": 1,
-      "God Which": 1,
-      "Hay Market": 1,
-      "Him": 1,
-      "Jesus": 1,
-      "Jews": 1,
-      "Katerina Ivanovna": 1
+      "Avdotya Romanovna": 1,
+      "Because": 1
     }
   },
   {
     "canonical_name": "Ach",
     "aliases": [],
-    "first_chapter": 30,
+    "first_chapter": 2,
     "total_mentions": 7,
     "per_chapter": {
-      "30": {
-        "mentions": 4,
-        "snippet": "\u201cAch, what silly stuff I am talking, eh?"
-      },
-      "33": {
+      "2": {
         "mentions": 3,
         "snippet": "Ach!"
+      },
+      "4": {
+        "mentions": 4,
+        "snippet": "\u201cAch, what silly stuff I am talking, eh?"
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 2,
-      "Amalia Ivanovna": 1,
-      "Divine Providence": 1,
-      "Good God": 1,
-      "Have": 1,
-      "Here": 1,
-      "Hush": 1,
-      "Katerina Ivanovna": 1
+      "Amalia Ivanovna": 2,
+      "Avdotya Romanovna": 2,
+      "Dmitri Prokofitch": 2,
+      "Don": 2,
+      "Dounia": 2,
+      "Katerina Ivanovna": 2,
+      "Lebeziatnikov": 2,
+      "Luzhin": 2
     }
   },
   {
     "canonical_name": "Stay",
     "aliases": [],
-    "first_chapter": 7,
+    "first_chapter": 6,
     "total_mentions": 6,
     "per_chapter": {
-      "7": {
+      "6": {
         "mentions": 3,
         "snippet": "\u201cStay!"
       },
-      "20": {
+      "7": {
         "mentions": 3,
         "snippet": "\u201cStay!"
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 2,
-      "All": 1,
-      "Alyona Ivanovna": 1,
-      "Good God": 1,
-      "Hey": 1,
-      "Koch": 1,
-      "Lizaveta": 1,
-      "Arkady Ivanovitch": 1
+      "All": 2,
+      "Alyona Ivanovna": 2,
+      "Amalia Ivanovna": 2,
+      "Dounia": 2,
+      "Here": 2,
+      "Katerina Ivanovna": 2,
+      "Lizaveta": 2,
+      "Luise Ivanovna": 2
     }
   },
   {
     "canonical_name": "Karl",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 1,
     "total_mentions": 6,
     "per_chapter": {
-      "8": {
+      "1": {
         "mentions": 3,
         "snippet": "I called the porter, and Karl came, and he took Karl and hit him in the"
       },
-      "28": {
+      "2": {
         "mentions": 3,
         "snippet": "apropos of nothing, telling a story about an acquaintance of hers \u201cKarl"
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 2,
-      "Explosive Lieutenant": 1,
-      "Good God": 1,
-      "Here": 1,
-      "Ilya Petrovitch": 1,
-      "Koch": 1,
-      "Luise Ivanovna": 1,
-      "Mr. Captain": 1
+      "Amalia Ivanovna": 2,
+      "Arkady Ivanovitch": 2,
+      "Avdotya Romanovna": 2,
+      "Dounia": 2,
+      "Good": 2,
+      "Ilya Petrovitch": 2,
+      "Katerina Ivanovna": 2,
+      "Lebeziatnikov": 2
     }
   },
   {
     "canonical_name": "Mr. Zametov",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 2,
     "total_mentions": 6,
     "per_chapter": {
-      "10": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Mr."
+      },
+      "3": {
         "mentions": 1,
         "snippet": "Nikodim Fomitch and Ilya Petrovitch, and the house-porter and Mr."
       },
-      "13": {
-        "mentions": 1,
-        "snippet": "\u201cYou must have a jolly life, Mr."
-      },
-      "19": {
+      "5": {
         "mentions": 3,
         "snippet": "Mr."
       },
-      "33": {
+      "6": {
         "mentions": 1,
-        "snippet": "Mr."
+        "snippet": "\u201cYou must have a jolly life, Mr."
       }
     },
     "co_occurs_with": {
-      "Razumihin": 4,
-      "Zametov": 4,
-      "Raskolnikov": 3,
-      "Ilya Petrovitch": 2,
-      "Let": 2,
-      "Luise Ivanovna": 2,
-      "Nikodim Fomitch": 2,
-      "Rodya": 2
+      "Amalia Ivanovna": 4,
+      "Don": 4,
+      "Dounia": 4,
+      "Katerina Ivanovna": 4,
+      "Nastasya": 4,
+      "Porfiry Petrovitch": 4,
+      "Raskolnikov": 4,
+      "Razumihin": 4
     }
   },
   {
     "canonical_name": "Quite",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 1,
     "total_mentions": 6,
     "per_chapter": {
-      "17": {
-        "mentions": 3,
-        "snippet": "Quite the contrary indeed."
-      },
-      "27": {
+      "1": {
         "mentions": 3,
         "snippet": "Quite another question!"
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "Quite the contrary indeed."
       }
     },
     "co_occurs_with": {
+      "Amalia Ivanovna": 2,
+      "Avdotya Romanovna": 2,
       "Dounia": 2,
-      "Luzhin": 2,
-      "Pyotr Petrovitch": 2,
-      "Afanasy Ivanitch": 1,
-      "Avdotya Romanovna": 1,
-      "Don": 1,
-      "Lieutenant Potanchikov": 1,
-      "Marfa Petrovna": 1
+      "Good God": 2,
+      "Hay Market": 2,
+      "Ilya Petrovitch": 2,
+      "Katerina Ivanovna": 2,
+      "Lebeziatnikov": 2
     }
   },
   {
     "canonical_name": "Not",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 5,
     "total_mentions": 6,
     "per_chapter": {
-      "19": {
+      "5": {
         "mentions": 6,
         "snippet": "\u201cNot at all, very pleasant to see you."
       }
     },
     "co_occurs_with": {
-      "Fool": 1,
-      "Ivan the Great": 1,
-      "Mahomet": 1,
-      "Mr. Zametov": 1,
-      "New Jerusalem": 1,
-      "Newton": 1,
-      "Nikodim Fomitch": 1,
-      "On Crime": 1
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Cinq": 1
     }
   },
   {
     "canonical_name": "Hush",
     "aliases": [],
-    "first_chapter": 25,
+    "first_chapter": 4,
     "total_mentions": 6,
     "per_chapter": {
-      "25": {
-        "mentions": 3,
-        "snippet": "\u201cHush, my dear man!"
-      },
-      "30": {
+      "4": {
         "mentions": 3,
         "snippet": "\u201cHush, don\u2019t laugh, blasphemer!"
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cHush, my dear man!"
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 2,
-      "Come": 1,
-      "Don": 1,
-      "General Mack": 1,
-      "Good": 1,
-      "High Court": 1,
-      "Porfiry Petrovitch": 1,
-      "Privy Councillors": 1
+      "All": 2,
+      "Alyona Ivanovna": 2,
+      "Amalia Ivanovna": 2,
+      "Andrey Semyonovitch Lebeziatnikov": 2,
+      "Avdotya Romanovna": 2,
+      "Dmitri Prokofitch": 2,
+      "Don": 2,
+      "Dounia": 2
     }
   },
   {
     "canonical_name": "Pole",
     "aliases": [],
-    "first_chapter": 28,
+    "first_chapter": 2,
     "total_mentions": 6,
     "per_chapter": {
-      "28": {
+      "2": {
         "mentions": 6,
         "snippet": "of one of the lodgers, an unfortunate little Pole who had somehow been"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Amalia Fyodorovna": 1,
+      "Amalia Fyodorovna Lippevechsel": 1,
       "Amalia Ivanovna": 1,
+      "Amalia Lippevechsel": 1,
       "Amalia Ludwigovna": 1,
-      "Cough": 1,
-      "Karl": 1,
-      "Katerina Ivanovna": 1,
-      "Madame Lippevechsel": 1,
-      "Marmeladov": 1,
-      "Petersburg Finn": 1
+      "Arkady Ivanovitch": 1,
+      "Avdotya Romanovna": 1
     }
   },
   {
     "canonical_name": "Cough",
     "aliases": [],
-    "first_chapter": 28,
+    "first_chapter": 2,
     "total_mentions": 6,
     "per_chapter": {
-      "28": {
+      "2": {
         "mentions": 6,
         "snippet": "(Cough-cough-cough."
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Amalia Fyodorovna": 1,
+      "Amalia Fyodorovna Lippevechsel": 1,
       "Amalia Ivanovna": 1,
+      "Amalia Lippevechsel": 1,
       "Amalia Ludwigovna": 1,
-      "Karl": 1,
-      "Katerina Ivanovna": 1,
-      "Madame Lippevechsel": 1,
-      "Marmeladov": 1,
-      "Petersburg Finn": 1,
-      "Petrovitch Luzhin": 1
+      "Arkady Ivanovitch": 1,
+      "Avdotya Romanovna": 1
     }
   },
   {
     "canonical_name": "Katia",
     "aliases": [],
-    "first_chapter": 34,
+    "first_chapter": 3,
     "total_mentions": 6,
     "per_chapter": {
-      "34": {
+      "3": {
         "mentions": 3,
         "snippet": "Drink, Katia!"
       },
-      "37": {
+      "6": {
         "mentions": 3,
         "snippet": "Katia too turned up and sang another gutter song, how a certain"
       }
     },
     "co_occurs_with": {
+      "Amalia Ivanovna": 2,
+      "Don": 2,
       "Dounia": 2,
-      "Raskolnikov": 2,
-      "Razumihin": 2,
-      "Rodion Romanovitch": 2,
-      "Sonia": 2,
-      "Avdotya Romanovna": 1,
-      "Have": 1,
-      "Hay Market": 1
-    }
-  },
-  {
-    "canonical_name": "Afanasy Ivanovitch",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 5,
-    "per_chapter": {
-      "3": {
-        "mentions": 1,
-        "snippet": "that Afanasy Ivanovitch will trust me now even to seventy-five roubles"
-      },
-      "4": {
-        "mentions": 2,
-        "snippet": "Afanasy Ivanovitch\u2019s debt is paid?"
-      },
-      "10": {
-        "mentions": 2,
-        "snippet": "Semyon Semyonovitch has received from Afanasy Ivanovitch at your mamma\u2019s"
-      }
-    },
-    "co_occurs_with": {
-      "Raskolnikov": 3,
-      "Rodya": 3,
-      "Dounia": 2,
-      "Praskovya Pavlovna": 2,
-      "Pyotr Petrovitch": 2,
-      "Vassilyevsky Ostrov": 2,
-      "Razumihin": 2,
-      "Marfa Petrovna": 1
-    }
-  },
-  {
-    "canonical_name": "Thank God",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 5,
-    "per_chapter": {
-      "5": {
-        "mentions": 1,
-        "snippet": "\u201cThank God, that was only a dream,\u201d he said, sitting down under a tree"
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "\u201cThank God, the doctor,\u201d exclaimed Raskolnikov, relieved."
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "\u201cThank God; I was afraid the same thing as yesterday was beginning"
-      },
-      "22": {
-        "mentions": 1,
-        "snippet": "\u201cThank God!"
-      },
-      "38": {
-        "mentions": 1,
-        "snippet": "\u201cThank God!"
-      }
-    },
-    "co_occurs_with": {
-      "Raskolnikov": 4,
-      "Razumihin": 4,
-      "Dounia": 3,
-      "Pulcheria Alexandrovna": 3,
-      "Rodya": 3,
-      "Avdotya Romanovna": 2,
-      "Luzhin": 2,
-      "Marfa Petrovna": 2
+      "Have": 2,
+      "Hay Market": 2,
+      "Ilya Petrovitch": 2,
+      "Katerina Ivanovna": 2,
+      "Let": 2
     }
   },
   {
     "canonical_name": "Palais de Cristal",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 4,
     "total_mentions": 5,
     "per_chapter": {
-      "11": {
+      "4": {
         "mentions": 1,
         "snippet": "going to the Yusupov garden and then to the Palais de Cristal."
       },
-      "13": {
+      "6": {
         "mentions": 4,
         "snippet": "\u201cBah, the Palais de Cristal!"
       }
     },
     "co_occurs_with": {
       "All": 2,
-      "Razumihin": 2,
-      "Zametov": 2,
-      "Zossimov": 2,
-      "Alyona Ivanovna": 1,
-      "Because": 1,
-      "Dmitri": 1,
-      "Dushkin": 1
+      "Alyona Ivanovna": 2,
+      "Amalia Ivanovna": 2,
+      "Don": 2,
+      "Dounia": 2,
+      "Have": 2,
+      "Hay Market": 2,
+      "Here": 2
     }
   },
   {
     "canonical_name": "Shall",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 6,
     "total_mentions": 5,
     "per_chapter": {
-      "13": {
+      "6": {
         "mentions": 5,
         "snippet": "\u201cShall I go in?"
       }
     },
     "co_occurs_with": {
+      "Achilles": 1,
+      "Afterwards": 1,
       "All": 1,
-      "Come": 1,
-      "Explosive Lieutenant": 1,
-      "Foo": 1,
-      "Have": 1,
-      "Here": 1,
-      "Ilya Petrovitch": 1,
-      "Let": 1
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "Arkady Ivanovitch": 1,
+      "Bakaleyev": 1,
+      "Come": 1
     }
   },
   {
     "canonical_name": "The",
     "aliases": [],
-    "first_chapter": 16,
+    "first_chapter": 2,
     "total_mentions": 5,
     "per_chapter": {
-      "16": {
+      "2": {
         "mentions": 5,
         "snippet": "The most awful recollection of the previous day was the way he had shown"
       }
     },
     "co_occurs_with": {
-      "Avdotya Romanovna": 1,
-      "Dear Madam": 1,
-      "Dmitri Prokofitch": 1,
-      "Don": 1,
-      "Dounia": 1,
-      "Luzhin": 1,
-      "Marfa Petrovna": 1,
-      "Praskovya Pavlovna": 1
+      "Ach": 1,
+      "Amalia Fyodorovna": 1,
+      "Amalia Fyodorovna Lippevechsel": 1,
+      "Amalia Ivanovna": 1,
+      "Amalia Lippevechsel": 1,
+      "Amalia Ludwigovna": 1,
+      "Arkady Ivanovitch": 1,
+      "Avdotya Romanovna": 1
     }
   },
   {
     "canonical_name": "Lazarus",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 4,
     "total_mentions": 5,
     "per_chapter": {
-      "24": {
+      "4": {
         "mentions": 5,
         "snippet": "\u201cWhere is the story of Lazarus?"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
       "Andrey Semyonovitch Lebeziatnikov": 1,
-      "For Lizaveta": 1,
-      "God Which": 1,
-      "Hay Market": 1,
-      "Him": 1,
-      "Jesus": 1,
-      "Jews": 1,
-      "Katerina Ivanovna": 1
+      "Avdotya Romanovna": 1,
+      "Because": 1
     }
   },
   {
     "canonical_name": "Jews",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 4,
     "total_mentions": 5,
     "per_chapter": {
-      "24": {
+      "4": {
         "mentions": 5,
         "snippet": "\u201cAnd many of the Jews came to Martha and Mary to comfort them concerning"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
       "Andrey Semyonovitch Lebeziatnikov": 1,
-      "For Lizaveta": 1,
-      "God Which": 1,
-      "Hay Market": 1,
-      "Him": 1,
-      "Jesus": 1,
-      "Katerina Ivanovna": 1,
-      "Lazarus": 1
+      "Avdotya Romanovna": 1,
+      "Because": 1
     }
   },
   {
     "canonical_name": "Martha",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 4,
     "total_mentions": 5,
     "per_chapter": {
-      "24": {
+      "4": {
         "mentions": 5,
         "snippet": "\u201cAnd many of the Jews came to Martha and Mary to comfort them concerning"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
       "Andrey Semyonovitch Lebeziatnikov": 1,
-      "For Lizaveta": 1,
-      "God Which": 1,
-      "Hay Market": 1,
-      "Him": 1,
-      "Jesus": 1,
-      "Jews": 1,
-      "Katerina Ivanovna": 1
+      "Avdotya Romanovna": 1,
+      "Because": 1
     }
   },
   {
     "canonical_name": "Achilles",
     "aliases": [],
-    "first_chapter": 37,
+    "first_chapter": 6,
     "total_mentions": 5,
     "per_chapter": {
-      "37": {
+      "6": {
         "mentions": 5,
         "snippet": "wrapped in a grey soldier\u2019s coat, with a copper Achilles helmet on his"
       }
     },
     "co_occurs_with": {
+      "Afterwards": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
       "Amalia Ivanovna": 1,
       "Arkady Ivanovitch": 1,
-      "Dounia": 1,
-      "Katerina Ivanovna": 1,
-      "Katia": 1,
-      "Little Neva": 1,
-      "Madame Resslich": 1,
-      "Mr. Razumihin": 1
+      "Bakaleyev": 1,
+      "Come": 1,
+      "Damn": 1
     }
   },
   {
@@ -3309,14 +2697,14 @@
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
       "Amalia Fyodorovna": 1,
       "Amalia Fyodorovna Lippevechsel": 1,
+      "Amalia Ivanovna": 1,
       "Amalia Lippevechsel": 1,
-      "Come": 1,
-      "Darya Frantsovna": 1,
-      "Ivan Afanasyvitch": 1,
-      "Ivan Ivanitch Klopstock": 1,
-      "Katerina Ivanovna": 1
+      "Amalia Ludwigovna": 1,
+      "Arkady Ivanovitch": 1,
+      "Avdotya Romanovna": 1
     }
   },
   {
@@ -3331,22 +2719,52 @@
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
       "Amalia Fyodorovna": 1,
       "Amalia Fyodorovna Lippevechsel": 1,
+      "Amalia Ivanovna": 1,
       "Amalia Lippevechsel": 1,
-      "Come": 1,
-      "Darya Frantsovna": 1,
-      "Honoured": 1,
-      "Ivan Afanasyvitch": 1,
-      "Ivan Ivanitch Klopstock": 1
+      "Amalia Ludwigovna": 1,
+      "Arkady Ivanovitch": 1,
+      "Avdotya Romanovna": 1
+    }
+  },
+  {
+    "canonical_name": "Afanasy Ivanovitch",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 4,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "Semyon Semyonovitch has received from Afanasy Ivanovitch at your mamma\u2019s"
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "Afanasy Ivanovitch\u2019s debt is paid?"
+      }
+    },
+    "co_occurs_with": {
+      "Amalia Ivanovna": 2,
+      "Avdotya Romanovna": 2,
+      "Dmitri Prokofitch": 2,
+      "Don": 2,
+      "Dounia": 2,
+      "Good God": 2,
+      "Have": 2,
+      "Hay Market": 2
     }
   },
   {
     "canonical_name": "Vassilyevsky Ostrov",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 2,
     "total_mentions": 4,
     "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "the bridge to Vassilyevsky Ostrov."
+      },
       "3": {
         "mentions": 1,
         "snippet": "Vassilyevsky Ostrov, walking along Vassilyevsky Prospect, as though"
@@ -3358,51 +2776,81 @@
       "5": {
         "mentions": 1,
         "snippet": "In this way he walked right across Vassilyevsky Ostrov, came"
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "the bridge to Vassilyevsky Ostrov."
       }
     },
     "co_occurs_with": {
+      "Amalia Ivanovna": 4,
+      "Avdotya Romanovna": 4,
+      "Dmitri Prokofitch": 4,
+      "Don": 4,
+      "Dounia": 4,
+      "Katerina Ivanovna": 4,
+      "Lebeziatnikov": 4,
+      "Luzhin": 4
+    }
+  },
+  {
+    "canonical_name": "Thank God",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "\u201cThank God!"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "\u201cThank God; I was afraid the same thing as yesterday was beginning"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "\u201cThank God, that was only a dream,\u201d he said, sitting down under a tree"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "\u201cThank God!"
+      }
+    },
+    "co_occurs_with": {
+      "Amalia Ivanovna": 4,
+      "Dmitri Prokofitch": 4,
+      "Dounia": 4,
+      "Katerina Ivanovna": 4,
+      "Lebeziatnikov": 4,
+      "Nastasya": 4,
       "Raskolnikov": 4,
-      "Razumihin": 3,
-      "Afanasy Ivanovitch": 2,
-      "Dounia": 2,
-      "Nastasya": 2,
-      "Pyotr Petrovitch": 2,
-      "Rodya": 2,
-      "All": 1
+      "Razumihin": 4
     }
   },
   {
     "canonical_name": "Lizaveta Ivanovna",
     "aliases": [],
-    "first_chapter": 5,
+    "first_chapter": 4,
     "total_mentions": 4,
     "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "her sister, Lizaveta Ivanovna, with an axe."
+      },
       "5": {
         "mentions": 2,
         "snippet": "This friend was Lizaveta Ivanovna, or, as everyone"
       },
-      "11": {
-        "mentions": 1,
-        "snippet": "her sister, Lizaveta Ivanovna, with an axe."
-      },
-      "26": {
+      "6": {
         "mentions": 1,
         "snippet": "\u201cAlyona Ivanovna and her sister Lizaveta Ivanovna, I."
       }
     },
     "co_occurs_with": {
+      "All": 3,
       "Alyona Ivanovna": 3,
-      "Raskolnikov": 3,
-      "All": 2,
-      "Razumihin": 2,
-      "Come": 1,
-      "Father": 1,
-      "Get": 1,
-      "Good God": 1
+      "Amalia Ivanovna": 3,
+      "Don": 3,
+      "Dounia": 3,
+      "Hay Market": 3,
+      "Katerina Ivanovna": 3,
+      "Madame Resslich": 3
     }
   },
   {
@@ -3410,281 +2858,281 @@
     "aliases": [
       "Tchebarov"
     ],
-    "first_chapter": 8,
+    "first_chapter": 1,
     "total_mentions": 4,
     "per_chapter": {
-      "8": {
+      "1": {
         "mentions": 2,
         "snippet": "months ago, and paid over by the widow Zarnitsyn to one Mr."
       },
-      "10": {
+      "3": {
         "mentions": 2,
         "snippet": "Mr."
       }
     },
     "co_occurs_with": {
+      "Amalia Ivanovna": 2,
+      "Avdotya Romanovna": 2,
+      "Dounia": 2,
       "Good God": 2,
+      "Hay Market": 2,
       "Ilya Petrovitch": 2,
-      "Luise Ivanovna": 2,
-      "Nikodim Fomitch": 2,
-      "Raskolnikov": 2,
-      "Explosive Lieutenant": 1,
-      "Here": 1,
-      "Karl": 1
+      "Katerina Ivanovna": 2,
+      "Lebeziatnikov": 2
     }
   },
   {
     "canonical_name": "Explosive Lieutenant",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 1,
     "total_mentions": 4,
     "per_chapter": {
-      "8": {
+      "1": {
         "mentions": 1,
         "snippet": "His nickname in the regiment was the Explosive Lieutenant."
       },
-      "13": {
+      "6": {
         "mentions": 1,
         "snippet": "to befriend, for whom you winked to the Explosive Lieutenant and he"
       },
-      "39": {
+      "8": {
         "mentions": 2,
         "snippet": "rather go to my friend, the Explosive Lieutenant; how I shall surprise"
       }
     },
     "co_occurs_with": {
+      "Dounia": 3,
+      "Hay Market": 3,
       "Ilya Petrovitch": 3,
-      "Mr. Razumihin": 2,
-      "Nikodim Fomitch": 2,
-      "Petersburg": 2,
-      "Razumihin": 2,
-      "Zametov": 2,
-      "Zossimov": 2,
-      "Here": 2
+      "Mr. Razumihin": 3,
+      "Petersburg": 3,
+      "Porfiry Petrovitch": 3,
+      "Razumihin": 3,
+      "Rodion Romanovitch": 3
     }
   },
   {
     "canonical_name": "Little Neva",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 2,
     "total_mentions": 4,
     "per_chapter": {
-      "9": {
+      "2": {
         "mentions": 1,
         "snippet": "He stopped suddenly, on coming out on the bank of the Little Neva, near"
       },
-      "37": {
+      "6": {
         "mentions": 3,
         "snippet": "waters of the Little Neva with a look of special interest, even inquiry."
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 2,
-      "Razumihin": 2,
-      "Ekaterininsky Canal": 1,
-      "Heruvimov": 1,
-      "Ilya Petrovitch": 1,
-      "Nastasya": 1,
-      "Vassilyevsky Ostrov": 1,
-      "the Nikolaevsky": 1
+      "Amalia Ivanovna": 2,
+      "Arkady Ivanovitch": 2,
+      "Come": 2,
+      "Don": 2,
+      "Dounia": 2,
+      "Ilya Petrovitch": 2,
+      "Katerina Ivanovna": 2,
+      "Mr. Razumihin": 2
     }
   },
   {
     "canonical_name": "Excuse",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 5,
     "total_mentions": 4,
     "per_chapter": {
-      "12": {
+      "5": {
         "mentions": 4,
         "snippet": "\u201cExcuse me, I fancied so from your inquiry."
       }
     },
     "co_occurs_with": {
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "An Hussar": 1,
       "Andrey Semyonovitch": 1,
       "Andrey Semyonovitch Lebeziatnikov": 1,
-      "Come": 1,
-      "Luzhin": 1,
-      "Madame Lippevechsel": 1,
-      "Mr. Luzhin": 1,
-      "Nastasya": 1,
-      "Petersburg": 1
+      "Avdotya Romanovna": 1,
+      "Cinq": 1
     }
   },
   {
     "canonical_name": "Run",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 7,
     "total_mentions": 4,
     "per_chapter": {
-      "14": {
+      "7": {
         "mentions": 4,
         "snippet": "\u201cRun over in the road!"
       }
     },
     "co_occurs_with": {
       "Alexandrovna Raskolnikov": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
       "Amalia Ivanovna": 1,
       "Amalia Ludwigovna": 1,
       "Ave Maria": 1,
-      "For God": 1,
-      "Ivan Mihailovitch": 1,
-      "Katerina Ivanovna": 1,
-      "Kozel": 1
+      "Dmitri Prokofitch": 1,
+      "Dounia": 1
     }
   },
   {
     "canonical_name": "Damn",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 6,
     "total_mentions": 4,
     "per_chapter": {
-      "20": {
+      "6": {
         "mentions": 4,
         "snippet": "Damn them!"
       }
     },
     "co_occurs_with": {
+      "Achilles": 1,
+      "Afterwards": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
       "Arkady Ivanovitch": 1,
       "Bakaleyev": 1,
-      "Don": 1,
-      "Porfiry Petrovitch": 1,
-      "Raskolnikov": 1,
-      "Razumihin": 1,
-      "Sonia": 1,
-      "Stay": 1
+      "Come": 1
     }
   },
   {
     "canonical_name": "Philip",
     "aliases": [],
-    "first_chapter": 22,
+    "first_chapter": 2,
     "total_mentions": 4,
     "per_chapter": {
-      "22": {
+      "2": {
         "mentions": 4,
         "snippet": "with them the story of the servant Philip who died of ill treatment he"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Amalia Fyodorovna": 1,
+      "Amalia Fyodorovna Lippevechsel": 1,
+      "Amalia Ivanovna": 1,
+      "Amalia Lippevechsel": 1,
+      "Amalia Ludwigovna": 1,
       "Arkady Ivanovitch": 1,
-      "Avdotya Romanovna": 1,
-      "Dmitri Prokofitch": 1,
-      "Dounia": 1,
-      "God Himself": 1,
-      "Good": 1,
-      "Luzhin": 1,
-      "Marfa Petrovna": 1
+      "Avdotya Romanovna": 1
     }
   },
   {
     "canonical_name": "Mary",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 4,
     "total_mentions": 4,
     "per_chapter": {
-      "24": {
+      "4": {
         "mentions": 4,
         "snippet": "\u201cAnd many of the Jews came to Martha and Mary to comfort them concerning"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
       "Andrey Semyonovitch Lebeziatnikov": 1,
-      "For Lizaveta": 1,
-      "God Which": 1,
-      "Hay Market": 1,
-      "Him": 1,
-      "Jesus": 1,
-      "Jews": 1,
-      "Katerina Ivanovna": 1
+      "Avdotya Romanovna": 1,
+      "Because": 1
     }
   },
   {
     "canonical_name": "Allow",
     "aliases": [],
-    "first_chapter": 29,
+    "first_chapter": 3,
     "total_mentions": 4,
     "per_chapter": {
-      "29": {
+      "3": {
         "mentions": 4,
         "snippet": "\u201cAllow me, madam."
       }
     },
     "co_occurs_with": {
+      "Afanasy Ivanitch": 1,
+      "Afanasy Ivanovitch": 1,
+      "Afanasy Ivanovitch Vahrushin": 1,
+      "Alexandr Grigorievitch": 1,
+      "Alexey Semyonovitch": 1,
       "Amalia Ivanovna": 1,
       "Avdotya Romanovna": 1,
-      "General Treatise": 1,
-      "Good God": 1,
-      "Katerina Ivanovna": 1,
-      "Lebeziatnikov": 1,
-      "Madame Kobilatnikov": 1,
-      "Marmeladov": 1
+      "Dmitri Prokofitch": 1
     }
   },
   {
     "canonical_name": "Napoleon",
     "aliases": [],
-    "first_chapter": 30,
+    "first_chapter": 4,
     "total_mentions": 4,
     "per_chapter": {
-      "30": {
+      "4": {
         "mentions": 4,
         "snippet": "I wanted to become a Napoleon, that is why I"
       }
     },
     "co_occurs_with": {
       "Ach": 1,
+      "Afanasy Ivanovitch": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
       "Amalia Ivanovna": 1,
-      "Divine Providence": 1,
-      "Good God": 1,
-      "Have": 1,
-      "Here": 1,
-      "Hush": 1,
-      "Katerina Ivanovna": 1
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Because": 1
     }
   },
   {
     "canonical_name": "Cinq",
     "aliases": [],
-    "first_chapter": 31,
+    "first_chapter": 5,
     "total_mentions": 4,
     "per_chapter": {
-      "31": {
+      "5": {
         "mentions": 4,
         "snippet": "\u2019 Ah, let us sing in French, \u2018Cinq sous,\u2019 I have"
       }
     },
     "co_occurs_with": {
+      "All": 1,
+      "Alyona Ivanovna": 1,
       "Amalia Ivanovna": 1,
       "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
       "Avdotya Romanovna": 1,
-      "Dmitri Prokofitch": 1,
-      "Dounia": 1,
-      "Katerina Ivanovna": 1,
-      "Kolya": 1,
-      "Lebeziatnikov": 1
+      "Come": 1
     }
   },
   {
     "canonical_name": "Open",
     "aliases": [],
-    "first_chapter": 36,
+    "first_chapter": 5,
     "total_mentions": 4,
     "per_chapter": {
-      "36": {
+      "5": {
         "mentions": 4,
         "snippet": "\u201cOpen it!"
       }
     },
     "co_occurs_with": {
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
       "Avdotya Romanovna": 1,
-      "Dounia": 1,
-      "Hay Market": 1,
-      "Katerina Ivanovna": 1,
-      "Let": 1,
-      "Madame Resslich": 1,
-      "Madame de Kapernaumov": 1,
-      "Marfa Petrovna": 1
+      "Cinq": 1
     }
   },
   {
@@ -3701,12 +3149,12 @@
     "co_occurs_with": {
       "All": 1,
       "Alyona Ivanovna": 1,
-      "Come": 1,
-      "Get": 1,
-      "Good God": 1,
-      "Hay Market": 1,
-      "Lesser Neva": 1,
-      "Lizaveta Ivanovna": 1
+      "Amalia Ivanovna": 1,
+      "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Cinq": 1
     }
   },
   {
@@ -3721,12 +3169,14 @@
       }
     },
     "co_occurs_with": {
+      "Achilles": 1,
+      "All": 1,
       "Alyona Ivanovna": 1,
-      "Hay Market": 1,
-      "Lizaveta": 1,
-      "Mihailovsky Palace": 1,
-      "Nastasya": 1,
-      "Raskolnikov": 1
+      "Amalia Ivanovna": 1,
+      "Arkady Ivanovitch": 1,
+      "Bakaleyev": 1,
+      "Come": 1,
+      "Damn": 1
     }
   },
   {
@@ -3741,227 +3191,228 @@
       }
     },
     "co_occurs_with": {
+      "Alexandrovna Raskolnikov": 1,
       "All": 1,
       "Alyona Ivanovna": 1,
-      "Good God": 1,
-      "Koch": 1,
-      "Lizaveta": 1,
-      "Raskolnikov": 1,
-      "Stay": 1
+      "Amalia Ivanovna": 1,
+      "Amalia Ludwigovna": 1,
+      "Ave Maria": 1,
+      "Dmitri Prokofitch": 1,
+      "Dounia": 1
     }
   },
   {
     "canonical_name": "Heruvimov",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 2,
     "total_mentions": 3,
     "per_chapter": {
-      "9": {
+      "2": {
         "mentions": 3,
         "snippet": "there\u2019s a bookseller, Heruvimov--and he takes the place of a lesson."
       }
     },
     "co_occurs_with": {
-      "Ekaterininsky Canal": 1,
-      "Ilya Petrovitch": 1,
-      "Little Neva": 1,
-      "Nastasya": 1,
-      "Raskolnikov": 1,
-      "Razumihin": 1,
-      "Vassilyevsky Ostrov": 1,
-      "the Nikolaevsky": 1
+      "Ach": 1,
+      "Amalia Fyodorovna": 1,
+      "Amalia Fyodorovna Lippevechsel": 1,
+      "Amalia Ivanovna": 1,
+      "Amalia Lippevechsel": 1,
+      "Amalia Ludwigovna": 1,
+      "Arkady Ivanovitch": 1,
+      "Avdotya Romanovna": 1
     }
   },
   {
     "canonical_name": "Give",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 3,
     "total_mentions": 3,
     "per_chapter": {
-      "10": {
+      "3": {
         "mentions": 3,
         "snippet": "\u201cGive it to me."
       }
     },
     "co_occurs_with": {
+      "Afanasy Ivanitch": 1,
       "Afanasy Ivanovitch": 1,
       "Afanasy Ivanovitch Vahrushin": 1,
       "Alexandr Grigorievitch": 1,
       "Alexey Semyonovitch": 1,
-      "English Embassy": 1,
-      "Five Corners": 1,
-      "General Kobelev": 1,
-      "Good God": 1
+      "Allow": 1,
+      "Amalia Ivanovna": 1,
+      "Avdotya Romanovna": 1
     }
   },
   {
     "canonical_name": "Harlamov",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 3,
     "total_mentions": 3,
     "per_chapter": {
-      "10": {
+      "3": {
         "mentions": 3,
         "snippet": "Five Corners, Harlamov\u2019s house."
       }
     },
     "co_occurs_with": {
+      "Afanasy Ivanitch": 1,
       "Afanasy Ivanovitch": 1,
       "Afanasy Ivanovitch Vahrushin": 1,
       "Alexandr Grigorievitch": 1,
       "Alexey Semyonovitch": 1,
-      "English Embassy": 1,
-      "Five Corners": 1,
-      "General Kobelev": 1,
-      "Give": 1
+      "Allow": 1,
+      "Amalia Ivanovna": 1,
+      "Avdotya Romanovna": 1
     }
   },
   {
     "canonical_name": "Because",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "11": {
+      "4": {
         "mentions": 3,
         "snippet": "Because you quarrelled"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
       "All": 1,
       "Alyona Ivanovna": 1,
-      "Dmitri": 1,
-      "Dushkin": 1,
-      "In Peski": 1,
-      "Koch": 1,
-      "Lizaveta Ivanovna": 1,
-      "Nikolay Dementyev": 1
+      "Amalia Ivanovna": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Darya Frantsovnas": 1
     }
   },
   {
     "canonical_name": "Wait",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "11": {
+      "4": {
         "mentions": 3,
         "snippet": "\u201cWait a bit, Nikolay,\u201d said I, \u201cwon\u2019t you have a drink?"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
       "All": 1,
       "Alyona Ivanovna": 1,
-      "Because": 1,
-      "Dmitri": 1,
-      "Dushkin": 1,
-      "In Peski": 1,
-      "Koch": 1,
-      "Lizaveta Ivanovna": 1
+      "Amalia Ivanovna": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Because": 1
     }
   },
   {
     "canonical_name": "Pyotr Petrovitch Luzhin",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 2,
     "total_mentions": 3,
     "per_chapter": {
-      "12": {
-        "mentions": 1,
-        "snippet": "\u201cPyotr Petrovitch Luzhin."
-      },
-      "28": {
+      "2": {
         "mentions": 1,
         "snippet": "At that minute the door opened, and Pyotr Petrovitch Luzhin appeared"
       },
-      "29": {
+      "3": {
         "mentions": 1,
         "snippet": "Pyotr Petrovitch Luzhin, with all his virtues, was not worth Sofya"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "\u201cPyotr Petrovitch Luzhin."
       }
     },
     "co_occurs_with": {
-      "Pyotr Petrovitch": 3,
-      "Amalia Ivanovna": 2,
-      "Katerina Ivanovna": 2,
-      "Madame Lippevechsel": 2,
-      "Marmeladov": 2,
-      "Raskolnikov": 2,
-      "Rodion Romanovitch": 2,
-      "Sonia": 2
+      "Amalia Ivanovna": 3,
+      "Avdotya Romanovna": 3,
+      "Dmitri Prokofitch": 3,
+      "Don": 3,
+      "Dounia": 3,
+      "Katerina Ivanovna": 3,
+      "Lebeziatnikov": 3,
+      "Luzhin": 3
     }
   },
   {
     "canonical_name": "Andrey Semyonovitch Lebeziatnikov",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
-      "12": {
+      "1": {
         "mentions": 1,
-        "snippet": "\u201cYes, Andrey Semyonovitch Lebeziatnikov, a clerk in the Ministry."
+        "snippet": "man, that even Andrey Semyonovitch Lebeziatnikov was invited in spite of"
       },
-      "24": {
+      "4": {
         "mentions": 1,
         "snippet": "had a book he had got from Andrey Semyonovitch Lebeziatnikov, he lives"
       },
-      "27": {
+      "5": {
         "mentions": 1,
-        "snippet": "man, that even Andrey Semyonovitch Lebeziatnikov was invited in spite of"
+        "snippet": "\u201cYes, Andrey Semyonovitch Lebeziatnikov, a clerk in the Ministry."
       }
     },
     "co_occurs_with": {
-      "Katerina Ivanovna": 2,
-      "Sonia": 2,
-      "Andrey Semyonovitch": 2,
-      "Luzhin": 2,
-      "Madame Lippevechsel": 2,
-      "Petersburg": 2,
-      "Pyotr Petrovitch": 2,
-      "For Lizaveta": 1
+      "Alyona Ivanovna": 3,
+      "Amalia Ivanovna": 3,
+      "Avdotya Romanovna": 3,
+      "Dounia": 3,
+      "Good God": 3,
+      "Hay Market": 3,
+      "Katerina Ivanovna": 3,
+      "Lebeziatnikov": 3
     }
   },
   {
     "canonical_name": "Foo",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "13": {
+      "6": {
         "mentions": 3,
         "snippet": "Foo!"
       }
     },
     "co_occurs_with": {
+      "Achilles": 1,
+      "Afterwards": 1,
       "All": 1,
-      "Come": 1,
-      "Explosive Lieutenant": 1,
-      "Have": 1,
-      "Here": 1,
-      "Ilya Petrovitch": 1,
-      "Let": 1,
-      "Listen": 1
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "Arkady Ivanovitch": 1,
+      "Bakaleyev": 1,
+      "Come": 1
     }
   },
   {
     "canonical_name": "Kozel",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 7,
     "total_mentions": 3,
     "per_chapter": {
-      "14": {
+      "7": {
         "mentions": 3,
         "snippet": "by in Kozel\u2019s house."
       }
     },
     "co_occurs_with": {
       "Alexandrovna Raskolnikov": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
       "Amalia Ivanovna": 1,
       "Amalia Ludwigovna": 1,
       "Ave Maria": 1,
-      "For God": 1,
-      "Ivan Mihailovitch": 1,
-      "Katerina Ivanovna": 1,
-      "Lebeziatnikov": 1
+      "Dmitri Prokofitch": 1,
+      "Dounia": 1
     }
   },
   {
@@ -3969,265 +3420,265 @@
     "aliases": [
       "Potanchikov"
     ],
-    "first_chapter": 17,
+    "first_chapter": 3,
     "total_mentions": 3,
     "per_chapter": {
-      "17": {
+      "3": {
         "mentions": 3,
         "snippet": "tragic end of Lieutenant Potanchikov, a friend of your father\u2019s--you"
       }
     },
     "co_occurs_with": {
       "Afanasy Ivanitch": 1,
-      "Avdotya Romanovna": 1,
-      "Don": 1,
-      "Dounia": 1,
-      "Luzhin": 1,
-      "Marfa Petrovna": 1,
-      "Mother": 1,
-      "Nastasya": 1
+      "Afanasy Ivanovitch": 1,
+      "Afanasy Ivanovitch Vahrushin": 1,
+      "Alexandr Grigorievitch": 1,
+      "Alexey Semyonovitch": 1,
+      "Allow": 1,
+      "Amalia Ivanovna": 1,
+      "Avdotya Romanovna": 1
     }
   },
   {
     "canonical_name": "Mother",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 3,
     "total_mentions": 3,
     "per_chapter": {
-      "17": {
+      "3": {
         "mentions": 3,
         "snippet": "\u201cMother was crossing herself with terror as she came up the"
       }
     },
     "co_occurs_with": {
       "Afanasy Ivanitch": 1,
-      "Avdotya Romanovna": 1,
-      "Don": 1,
-      "Dounia": 1,
-      "Lieutenant Potanchikov": 1,
-      "Luzhin": 1,
-      "Marfa Petrovna": 1,
-      "Nastasya": 1
+      "Afanasy Ivanovitch": 1,
+      "Afanasy Ivanovitch Vahrushin": 1,
+      "Alexandr Grigorievitch": 1,
+      "Alexey Semyonovitch": 1,
+      "Allow": 1,
+      "Amalia Ivanovna": 1,
+      "Avdotya Romanovna": 1
     }
   },
   {
     "canonical_name": "Please",
     "aliases": [],
-    "first_chapter": 18,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "18": {
+      "4": {
         "mentions": 3,
         "snippet": "\u201cPlease sit down."
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
       "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
       "Avdotya Romanovna": 1,
-      "Dmitri Prokofitch": 1,
-      "Don": 1,
-      "Dounia": 1,
-      "Katerina Ivanovna": 1,
-      "Madame Resslich": 1,
-      "Marmeladov": 1
+      "Because": 1
     }
   },
   {
     "canonical_name": "Never",
     "aliases": [],
-    "first_chapter": 18,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "18": {
+      "4": {
         "mentions": 3,
         "snippet": "\u201cNever mind, give it to me again."
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
       "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
       "Avdotya Romanovna": 1,
-      "Dmitri Prokofitch": 1,
-      "Don": 1,
-      "Dounia": 1,
-      "Katerina Ivanovna": 1,
-      "Madame Resslich": 1,
-      "Marmeladov": 1
+      "Because": 1
     }
   },
   {
     "canonical_name": "Fool",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 5,
     "total_mentions": 3,
     "per_chapter": {
-      "19": {
+      "5": {
         "mentions": 3,
         "snippet": "\u201cFool!"
       }
     },
     "co_occurs_with": {
-      "Ivan the Great": 1,
-      "Mahomet": 1,
-      "Mr. Zametov": 1,
-      "New Jerusalem": 1,
-      "Newton": 1,
-      "Nikodim Fomitch": 1,
-      "Not": 1,
-      "On Crime": 1
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Cinq": 1
     }
   },
   {
     "canonical_name": "Was",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 5,
     "total_mentions": 3,
     "per_chapter": {
-      "19": {
+      "5": {
         "mentions": 3,
         "snippet": "\u201cWas it right?"
       }
     },
     "co_occurs_with": {
-      "Fool": 1,
-      "Ivan the Great": 1,
-      "Mahomet": 1,
-      "Mr. Zametov": 1,
-      "New Jerusalem": 1,
-      "Newton": 1,
-      "Nikodim Fomitch": 1,
-      "Not": 1
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Cinq": 1
     }
   },
   {
     "canonical_name": "Weekly",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 5,
     "total_mentions": 3,
     "per_chapter": {
-      "19": {
+      "5": {
         "mentions": 3,
         "snippet": "ago when I left the university, but I sent it to the _Weekly Review_."
       }
     },
     "co_occurs_with": {
-      "Fool": 1,
-      "Ivan the Great": 1,
-      "Mahomet": 1,
-      "Mr. Zametov": 1,
-      "New Jerusalem": 1,
-      "Newton": 1,
-      "Nikodim Fomitch": 1,
-      "Not": 1
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Cinq": 1
     }
   },
   {
     "canonical_name": "Newton",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 5,
     "total_mentions": 3,
     "per_chapter": {
-      "19": {
+      "5": {
         "mentions": 3,
         "snippet": "maintain that if the discoveries of Kepler and Newton could not have"
       }
     },
     "co_occurs_with": {
-      "Fool": 1,
-      "Ivan the Great": 1,
-      "Mahomet": 1,
-      "Mr. Zametov": 1,
-      "New Jerusalem": 1,
-      "Nikodim Fomitch": 1,
-      "Not": 1,
-      "On Crime": 1
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Cinq": 1
     }
   },
   {
     "canonical_name": "Mahomet",
     "aliases": [],
-    "first_chapter": 19,
+    "first_chapter": 5,
     "total_mentions": 3,
     "per_chapter": {
-      "19": {
+      "5": {
         "mentions": 3,
         "snippet": "such as Lycurgus, Solon, Mahomet, Napoleon, and so on, were all without"
       }
     },
     "co_occurs_with": {
-      "Fool": 1,
-      "Ivan the Great": 1,
-      "Mr. Zametov": 1,
-      "New Jerusalem": 1,
-      "Newton": 1,
-      "Nikodim Fomitch": 1,
-      "Not": 1,
-      "On Crime": 1
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Cinq": 1
     }
   },
   {
     "canonical_name": "Bakaleyev",
     "aliases": [],
-    "first_chapter": 20,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "20": {
+      "6": {
         "mentions": 3,
         "snippet": "They were by now approaching Bakaleyev\u2019s lodgings, where Pulcheria"
       }
     },
     "co_occurs_with": {
+      "Achilles": 1,
+      "Afterwards": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
       "Arkady Ivanovitch": 1,
-      "Damn": 1,
-      "Don": 1,
-      "Porfiry Petrovitch": 1,
-      "Raskolnikov": 1,
-      "Razumihin": 1,
-      "Sonia": 1,
-      "Stay": 1
+      "Come": 1,
+      "Damn": 1
     }
   },
   {
     "canonical_name": "Can",
     "aliases": [],
-    "first_chapter": 21,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
-      "21": {
+      "1": {
         "mentions": 3,
         "snippet": "\u201cCan this be still a dream?"
       }
     },
     "co_occurs_with": {
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
       "Arkady Ivanovitch": 1,
       "Avdotya Romanovna": 1,
       "Besides": 1,
-      "Hay Market": 1,
-      "Here": 1,
-      "Luzhin": 1,
-      "Madam Prilukov": 1,
-      "Malaya Vishera": 1
+      "Dounia": 1
     }
   },
   {
     "canonical_name": "Besides",
     "aliases": [],
-    "first_chapter": 21,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
-      "21": {
+      "1": {
         "mentions": 3,
         "snippet": "Besides,"
       }
     },
     "co_occurs_with": {
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
       "Arkady Ivanovitch": 1,
       "Avdotya Romanovna": 1,
       "Can": 1,
-      "Hay Market": 1,
-      "Here": 1,
-      "Luzhin": 1,
-      "Madam Prilukov": 1,
-      "Malaya Vishera": 1
+      "Dounia": 1
     }
   },
   {
@@ -4235,111 +3686,111 @@
     "aliases": [
       "Russia"
     ],
-    "first_chapter": 22,
+    "first_chapter": 2,
     "total_mentions": 3,
     "per_chapter": {
-      "22": {
+      "2": {
         "mentions": 3,
         "snippet": "\u2018Mother Russia,\u2019 as they say, is a vast country."
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Amalia Fyodorovna": 1,
+      "Amalia Fyodorovna Lippevechsel": 1,
+      "Amalia Ivanovna": 1,
+      "Amalia Lippevechsel": 1,
+      "Amalia Ludwigovna": 1,
       "Arkady Ivanovitch": 1,
-      "Avdotya Romanovna": 1,
-      "Dmitri Prokofitch": 1,
-      "Dounia": 1,
-      "God Himself": 1,
-      "Good": 1,
-      "Luzhin": 1,
-      "Marfa Petrovna": 1
+      "Avdotya Romanovna": 1
     }
   },
   {
     "canonical_name": "Read",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "24": {
+      "4": {
         "mentions": 3,
         "snippet": "Read!"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
       "Andrey Semyonovitch Lebeziatnikov": 1,
-      "For Lizaveta": 1,
-      "God Which": 1,
-      "Hay Market": 1,
-      "Him": 1,
-      "Jesus": 1,
-      "Jews": 1,
-      "Katerina Ivanovna": 1
+      "Avdotya Romanovna": 1,
+      "Because": 1
     }
   },
   {
     "canonical_name": "Mitka",
     "aliases": [],
-    "first_chapter": 26,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "26": {
+      "6": {
         "mentions": 3,
         "snippet": "And Mitka is not guilty and had no share in it."
       }
     },
     "co_occurs_with": {
+      "Achilles": 1,
+      "Afterwards": 1,
+      "All": 1,
       "Alyona Ivanovna": 1,
-      "Don": 1,
-      "Gogol": 1,
-      "Katerina Ivanovna": 1,
-      "Lizaveta Ivanovna": 1,
-      "May God": 1,
-      "Nikolay": 1,
-      "Porfiry Petrovitch": 1
+      "Amalia Ivanovna": 1,
+      "Arkady Ivanovitch": 1,
+      "Bakaleyev": 1,
+      "Come": 1
     }
   },
   {
     "canonical_name": "Gogol",
     "aliases": [],
-    "first_chapter": 26,
+    "first_chapter": 6,
     "total_mentions": 3,
     "per_chapter": {
-      "26": {
+      "6": {
         "mentions": 3,
         "snippet": "that was the marked characteristic of Gogol, among the writers."
       }
     },
     "co_occurs_with": {
+      "Achilles": 1,
+      "Afterwards": 1,
+      "All": 1,
       "Alyona Ivanovna": 1,
-      "Don": 1,
-      "Katerina Ivanovna": 1,
-      "Lizaveta Ivanovna": 1,
-      "May God": 1,
-      "Mitka": 1,
-      "Nikolay": 1,
-      "Porfiry Petrovitch": 1
+      "Amalia Ivanovna": 1,
+      "Arkady Ivanovitch": 1,
+      "Bakaleyev": 1,
+      "Come": 1
     }
   },
   {
     "canonical_name": "Vater",
     "aliases": [],
-    "first_chapter": 28,
+    "first_chapter": 2,
     "total_mentions": 3,
     "per_chapter": {
-      "28": {
+      "2": {
         "mentions": 3,
         "snippet": "still more offended, and she retorted that her \u201c_Vater aus Berlin_ was a"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Amalia Fyodorovna": 1,
+      "Amalia Fyodorovna Lippevechsel": 1,
       "Amalia Ivanovna": 1,
+      "Amalia Lippevechsel": 1,
       "Amalia Ludwigovna": 1,
-      "Cough": 1,
-      "Karl": 1,
-      "Katerina Ivanovna": 1,
-      "Madame Lippevechsel": 1,
-      "Marmeladov": 1,
-      "Petersburg Finn": 1
+      "Arkady Ivanovitch": 1,
+      "Avdotya Romanovna": 1
     }
   },
   {
@@ -4347,89 +3798,89 @@
     "aliases": [
       "Kobilatnikov"
     ],
-    "first_chapter": 29,
+    "first_chapter": 3,
     "total_mentions": 3,
     "per_chapter": {
-      "29": {
+      "3": {
         "mentions": 3,
         "snippet": "But on my way I went first to Madame Kobilatnikov\u2019s to take them the"
       }
     },
     "co_occurs_with": {
+      "Afanasy Ivanitch": 1,
+      "Afanasy Ivanovitch": 1,
+      "Afanasy Ivanovitch Vahrushin": 1,
+      "Alexandr Grigorievitch": 1,
+      "Alexey Semyonovitch": 1,
       "Allow": 1,
       "Amalia Ivanovna": 1,
-      "Avdotya Romanovna": 1,
-      "General Treatise": 1,
-      "Good God": 1,
-      "Katerina Ivanovna": 1,
-      "Lebeziatnikov": 1,
-      "Marmeladov": 1
+      "Avdotya Romanovna": 1
     }
   },
   {
     "canonical_name": "Only",
     "aliases": [],
-    "first_chapter": 30,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "30": {
+      "4": {
         "mentions": 3,
         "snippet": "\u201cOnly don\u2019t talk to me as you did yesterday,\u201d she interrupted him."
       }
     },
     "co_occurs_with": {
       "Ach": 1,
+      "Afanasy Ivanovitch": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
       "Amalia Ivanovna": 1,
-      "Divine Providence": 1,
-      "Good God": 1,
-      "Have": 1,
-      "Here": 1,
-      "Hush": 1,
-      "Katerina Ivanovna": 1
+      "Andrey Semyonovitch Lebeziatnikov": 1,
+      "Avdotya Romanovna": 1,
+      "Because": 1
     }
   },
   {
     "canonical_name": "Village",
     "aliases": [],
-    "first_chapter": 31,
+    "first_chapter": 5,
     "total_mentions": 3,
     "per_chapter": {
-      "31": {
+      "5": {
         "mentions": 3,
         "snippet": "to sing \u2018My Village,\u2019 the boy to dance, Polenka the same."
       }
     },
     "co_occurs_with": {
+      "All": 1,
+      "Alyona Ivanovna": 1,
       "Amalia Ivanovna": 1,
       "An Hussar": 1,
+      "Andrey Semyonovitch": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
       "Avdotya Romanovna": 1,
-      "Cinq": 1,
-      "Dmitri Prokofitch": 1,
-      "Dounia": 1,
-      "Katerina Ivanovna": 1,
-      "Kolya": 1
+      "Cinq": 1
     }
   },
   {
     "canonical_name": "Parasha",
     "aliases": [],
-    "first_chapter": 35,
+    "first_chapter": 4,
     "total_mentions": 3,
     "per_chapter": {
-      "35": {
+      "4": {
         "mentions": 3,
         "snippet": "happened to be a girl in the house then, Parasha, a black-eyed"
       }
     },
     "co_occurs_with": {
+      "Ach": 1,
+      "Afanasy Ivanovitch": 1,
+      "All": 1,
+      "Alyona Ivanovna": 1,
+      "Amalia Ivanovna": 1,
+      "Andrey Semyonovitch Lebeziatnikov": 1,
       "Avdotya Romanovna": 1,
-      "Hay Market": 1,
-      "Katerina Ivanovna": 1,
-      "Madame Resslich": 1,
-      "Marfa Petrovna": 1,
-      "Mr. Razumihin": 1,
-      "Raskolnikov": 1,
-      "Razumihin": 1
+      "Because": 1
     }
   }
 ]
