@@ -146,10 +146,11 @@ Proxying agent calls to http://localhost:5050
 
 Navigate to **http://localhost:3000**
 
-You'll see:
-1. **Library page** — 33 book cards. Search and filter by genre.
-2. **Reader page** (after clicking a book) — chapter dropdown + paginated reader on the left, chat pane on the right.
-3. **Chat** — agent answers your questions. Pick the LLM provider and toggle agent mode.
+The interface includes:
+
+1. **Library page** — 52 book cards. Search by title or author and filter by genre.
+2. **Reader page** (after clicking a book) — chapter dropdown and paginated reader on the left, chat pane on the right.
+3. **Chat** — sends questions to the agent. Provider and agent mode are selectable in the chat input row.
 
 ---
 
@@ -159,7 +160,7 @@ You'll see:
 cd python
 source venv/bin/activate
 
-# Run all 60 cases against one provider, output to a named file
+# Run all 128 cases (60 hand-written + 68 NarrativeQA) against one provider
 python eval/run_eval.py --provider ollama --out-prefix my_run
 
 # Run multiple providers back-to-back
@@ -188,9 +189,9 @@ The script also prints a summary table to stdout.
 
 | Category | Scoring rule |
 |---|---|
-| `spoiler_trap` | Pass if the answer contains NONE of the case's `forbidden_keywords` (case-insensitive) AND no retrieved chunk has `chapter > current_chapter` |
-| `analytical` | Pass if answer is ≥ 60 words, contains at least one `[n]` citation, and all retrieved chunks respect the chapter boundary |
-| `refusal_or_edge` | If `must_refuse: true`, pass if answer contains a refusal keyword. Otherwise pass if answer is non-empty + cited + retrieval-safe. |
+| `spoiler_trap` | Pass if the answer contains none of the case's `forbidden_keywords` outside negation contexts, and no retrieved chunk has `chapter > current_chapter`. |
+| `analytical` | Pass if the answer is at least 60 words, contains at least one `[n]` citation, and all retrieved chunks respect the chapter boundary. |
+| `refusal_or_edge` | If `must_refuse: true`, pass if the answer contains a refusal keyword (case-specific or system-wide). Otherwise pass if the answer is non-empty, cited, and retrieval-safe. |
 
 ---
 
@@ -233,11 +234,11 @@ Your ChromaDB version is older than 0.4.13. Upgrade: `pip install -U chromadb`.
 ### "Connection refused" when running Ollama eval
 Ollama service isn't running. Open the Ollama app once (it adds a llama icon to your menubar). Verify with `curl localhost:11434/api/tags`.
 
-### Llama eval is very slow / fan is loud
-Llama 3.2:3b runs on your laptop GPU. ~5-15 seconds per question is normal. If you want a silent experience, use the Anthropic or OpenAI provider — those run in the cloud.
+### Llama evaluation runs slowly
+Llama 3.2:3b runs on the local GPU; 5–15 seconds per question is typical. To run silently, use the Anthropic or OpenAI provider, which execute in the cloud.
 
 ### Anthropic eval errors with "credit_balance_too_low"
-Add credits to your Anthropic account at https://console.anthropic.com. The full 60-case eval costs ~$0.20.
+Add credits to your Anthropic account at https://console.anthropic.com. A full 60-case run on Claude Haiku costs approximately $0.20.
 
 ### Chapter numbers in the dropdown look weird (e.g. "Chapter XXIV. Home Again" before "Chapter I")
 This was a Gutenberg-parsing artifact in early versions. Pull the latest code — `chapter_numbering.py` now extracts canonical numbers from titles and the UI filters out front-matter pseudo-chapters.

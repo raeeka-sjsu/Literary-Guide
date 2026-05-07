@@ -190,7 +190,7 @@ Outputs: `python/eval/runs/<prefix>.jsonl` (per-case detail) + `<prefix>.summary
 
 ## Results
 
-All three models were run against the same 60 hand-written test questions, scored programmatically by `python eval/run_eval.py`. The scorer is negation-aware (a denial like "the passages do not reveal X" no longer counts as leaking X) and falls back to a system-wide refusal classifier for varied refusal phrasing. Numbers below come directly from the per-case JSONL logs in `python/eval/runs/` — no manual edits.
+All three models were evaluated on the same 60 hand-written test questions and scored programmatically by `python eval/run_eval.py`. The scorer is negation-aware (a denial such as "the passages do not reveal X" is not counted as leaking X) and falls back to a system-wide refusal classifier when the case-specific keyword list does not match the model's chosen refusal phrasing. Numbers below are taken directly from the per-case JSONL logs in `python/eval/runs/`.
 
 | Provider | Pass rate | Mean latency | Cost / 1000 queries |
 |---|---|---|---|
@@ -206,35 +206,35 @@ Per-category breakdown:
 | Claude Haiku 4.5 | 93% | 100% | 100% |
 | GPT-4o-mini | 97% | 100% | 100% |
 
-Both Claude and GPT-4o-mini were additionally evaluated on the full 128-case suite (60 hand-written + 68 NarrativeQA). Claude scored 92/100 (92%); GPT-4o-mini scored 93/100 (93%). Llama was excluded from the extended run because local inference is laptop-GPU-bound; the 60-case suite is the apples-to-apples comparison set. Full logs in `python/eval/runs/anthropic_100.jsonl` and `openai_100.jsonl`.
+Claude and GPT-4o-mini were additionally evaluated on the full 128-case suite (60 hand-written plus 68 NarrativeQA-derived). Claude scored 92/100 (92%) and GPT-4o-mini scored 93/100 (93%). Llama was excluded from the extended run because local inference is bound to the laptop GPU; the 60-case suite serves as the directly comparable benchmark across all three providers. Full logs are available at `python/eval/runs/anthropic_100.jsonl` and `python/eval/runs/openai_100.jsonl`.
 
 ### Agent mode vs single-call RAG ablation
 
-To verify our four-stage Planner-Executor-Synthesizer-Critic architecture actually adds value over a single LLM call with the same retrieved chunks, we ran 30 cases through Claude in both modes:
+To assess whether the four-stage Planner-Executor-Synthesizer-Critic architecture improves answer quality over a single LLM call given the same retrieved chunks, 30 cases were evaluated through Claude in both modes:
 
 | Mode | Pass rate | Mean latency |
 |---|---|---|
 | Simple-RAG (1 LLM call) | 29/30 (**96.7%**) | 4,712 ms |
 | Agent mode (4 LLM calls) | 30/30 (**100%**) | 9,683 ms |
 
-Agent mode is **+3.3 points** at 2× latency. The extra cost buys: structured-tool routing (character-list questions go to a knowledge-graph lookup instead of vector search) and a Critic stage that catches synthesizer errors before they reach the user. About 15-20% of agent-mode answers trigger a Critic-driven rewrite. Full ablation discussion in `docs/failure_analysis.md`.
+Agent mode achieves a 3.3-point absolute pass-rate gain over single-call RAG, at approximately twice the latency. The additional cost is attributable to structured tool routing (character-list questions are answered by the knowledge-graph lookup rather than vector search) and the Critic stage, which validates draft answers before returning them. Approximately 15–20% of agent-mode answers result in a Critic-driven rewrite. The full ablation is reported in `docs/failure_analysis.md`.
 
-### Classification metrics — should the model refuse?
+### Classification metrics — refusal task
 
-Pass-rate is one view. We also compute precision, recall, and F1 on the binary "should this question trigger a refusal?" task. Ground-truth label = spoiler_trap or must_refuse case (38 of 60 cases). Confusion-matrix-based:
+In addition to overall pass rate, we report precision, recall, and F1 on the binary task of correctly refusing questions that require chapters the reader has not yet reached. The positive class consists of spoiler-trap cases plus refusal-or-edge cases marked `must_refuse: true` (38 of 60 cases).
 
 | Provider | Precision | Recall | F1 | Accuracy |
 |---|---:|---:|---:|---:|
-| Llama 3.2:3b | 1.000 | **0.237** | **0.383** | 0.517 |
-| Claude Haiku 4.5 | 0.902 | **0.974** | **0.937** | 0.917 |
-| GPT-4o-mini | 0.949 | **0.974** | **0.961** | 0.950 |
+| Llama 3.2:3b | 1.000 | 0.237 | 0.383 | 0.517 |
+| Claude Haiku 4.5 | 0.902 | 0.974 | 0.937 | 0.917 |
+| GPT-4o-mini | 0.949 | 0.974 | 0.961 | 0.950 |
 
-**Recall is the safety-critical metric** — of questions that should refuse, what fraction did. Llama explicitly refuses only 24% of the time; it engages with most spoiler-traps and "passes" the pass-rate check by happening to avoid forbidden keywords. Claude and GPT both refuse appropriately 97% of the time. **Llama precision = 1.000** — when it does refuse, it's always correct; it's an under-detector, not a sloppy one. Code: `python/eval/build_comparison.py::classification_metrics`.
+Recall is the safety-critical metric in this domain: it measures the fraction of refusal-eligible questions that the model correctly declined. Llama produces an explicit refusal in only 23.7% of these cases; it engages with most spoiler-trap questions and avoids the forbidden keywords by chance, which inflates its raw pass rate. Claude and GPT-4o-mini both refuse appropriately 97.4% of the time. Llama's precision of 1.000 indicates that when it does refuse, the refusal is always warranted — its weakness is in failing to refuse, not in over-refusing. Implementation: `python/eval/build_comparison.py::classification_metrics`.
 
-Findings:
-- Both commercial models reach 100% on analytical and refusal categories. Llama's biggest gap is on refusal (50% vs 100%) — small open-source models often answer questions they should decline.
-- GPT-4o-mini is the cost/quality sweet spot: best accuracy on this suite AND ~6× cheaper than Claude AND fastest.
-- Spoiler-trap pass rates: 83% / 93% / 97% across Llama / Claude / GPT — the gap shrinks dramatically with our three-layer safety enforcement, but doesn't fully close on the smallest model.
+Summary observations:
+- Both commercial models reach 100% on the analytical and refusal-or-edge categories. Llama's largest deficit is on refusal cases (50% vs 100%), consistent with the recall gap above.
+- GPT-4o-mini achieves the highest pass rate on the 60-case suite and the lowest cost per query among the cloud providers in this evaluation.
+- Spoiler-trap pass rates are 83% / 93% / 97% for Llama / Claude / GPT-4o-mini. The three-layer safety enforcement materially narrows the gap between the open-source and commercial models, but does not eliminate it.
 
 ## API Endpoints
 
@@ -290,30 +290,30 @@ Response (truncated):
 }
 ```
 
-## Novel contributions
+## System capabilities
 
-This is what distinguishes Literary Guide from a thin LLM-wrapper application. Each item is implemented in code and verifiable in the repository.
+The components below implement the non-trivial-capability requirement (Option 2 / D). All three D sub-options are present.
 
-1. **Three-layer spoiler-safety architecture.** Retrieval-side filter + prompt-side rules + post-hoc deterministic name-grounding verifier. Each layer catches what the others miss. We measure this in `docs/failure_analysis.md`.
+1. **Three-layer spoiler-safety architecture** — retrieval-side chapter filter at the database layer + synthesizer prompt rules + deterministic post-hoc name-grounding verifier. Implementation discussed in `docs/failure_analysis.md`.
 
-2. **Automated structured character knowledge index per book** (Kindle-X-Ray-style, but with no human curation). Regex+heuristic NER, alias resolution, mention timeline, co-occurrences. Stored as queryable structured data, not embeddings.
+2. **Automated structured character knowledge index per book** — regex+heuristic NER, alias resolution, mention timeline, co-occurrence tracking. Stored as queryable structured data per book under `python/data/characters/`.
 
-3. **Hybrid RAG**: BM25 sparse + sentence-transformer dense, fused via Reciprocal Rank Fusion. Spoiler boundary applied at the database level *before* ranking — guaranteed by construction.
+3. **Hybrid RAG (D1)** — BM25 sparse + sentence-transformer dense, fused via Reciprocal Rank Fusion. Spoiler boundary applied at the database level before ranking.
 
-4. **Multi-step Planner-Executor-Synthesizer-Critic agent** with 6 tools, full per-step structured logging, and a deterministic grounding override on the Critic verdict. Tested via ablation in `docs/failure_analysis.md` — agent mode is +6.7 pts on spoiler-traps vs single-call RAG with the same retrieved context.
+4. **Planner-Executor-Synthesizer-Critic agent (D2)** — six tools, full per-step structured logging, deterministic grounding override on the Critic verdict. Quantified ablation in `docs/failure_analysis.md` (+6.7 pts on spoiler-traps vs single-call RAG with the same retrieved context).
 
-5. **Long-horizon memory** that is written (chat-turn log), summarized (LLM compresses recent turns into a rolling memory), and retrieved (memory injected into next session's prompt). Persisted in SQLite with reading-position auto-restore.
+5. **Long-horizon memory (D3)** — written (chat-turn log) + summarized (LLM compresses recent turns into a rolling memory) + retrieved (memory injected into next session's prompts). Persisted in SQLite with reading-position auto-restore.
 
-6. **128-case eval suite** combining 60 hand-written cases across 13 books with 68 NarrativeQA-derived cases. Three categories with category-specific scoring rules. JSONL per-case logs. Three LLMs evaluated: Llama 3.2:3b (open-source), Claude Haiku 4.5, GPT-4o-mini.
+6. **128-case eval suite** — 60 hand-written cases across 13 books + 68 NarrativeQA-derived cases. Three categories with category-specific scoring rules. JSONL per-case logs. Three LLMs evaluated: Llama 3.2:3b (open-source), Claude Haiku 4.5, GPT-4o-mini.
 
-7. **Honest failure analysis** documenting where the system breaks, why our reported spoiler-leak rates are conservative (eval scorer over-counts on negation phrasing), where agent mode regresses vs simple-RAG, and what we'd train next.
+7. **Failure analysis** — `docs/failure_analysis.md` documents where the system breaks, why reported spoiler-leak rates are conservative (eval scorer over-counts on negation phrasing), where agent mode regresses vs simple-RAG, and what we plan to train next.
 
 ## Mapping to Option 2 rubric
 
 | Rubric requirement | Where it's implemented |
 |--------------------|------------------------|
 | **A. Problem formulation** | Spoiler-aware literary reading companion (vertical: literature education) |
-| **B. Few-shot examples + 50+ eval cases** | 3 worked examples in synthesizer prompt; **100 eval cases** (60 hand-written across 13 books + NarrativeQA-derived across 13 more, 3 categories + 68 NarrativeQA-derived) |
+| **B. Few-shot examples + 50+ eval cases** | 3 worked examples in synthesizer prompt; 128-case eval suite (60 hand-written across 13 books in three categories, plus 68 NarrativeQA-derived across 13 additional books) |
 | **C. ≥3 LLMs incl. ≥1 open-source** | Llama 3.2:3b (open-source primary) + Claude Haiku 4.5 + GPT-4o-mini, all run via `eval/run_eval.py --provider <name>` |
 | **D1. Advanced RAG** | Hybrid retrieval (BM25 + dense + RRF) in `book_index.py`; structured character lookup (Knowledge-Graph-style) in `agent_tools.py` |
 | **D2. Planner-Executor-Critic agent** | `agent_loop.py` — 4-stage pipeline; 6 tools logged to SQLite `tool_call` table |
@@ -324,7 +324,7 @@ This is what distinguishes Literary Guide from a thin LLM-wrapper application. E
 
 1. **Project Gutenberg** — primary book text source (52 books)
 2. **BookSum** ([`kmfoda/booksum`](https://huggingface.co/datasets/kmfoda/booksum)) — scholarly chapter analyses, used as the agent's `retrieve_expert_analysis` tool
-3. **NarrativeQA** ([deepmind/narrativeqa](https://github.com/google-deepmind/narrativeqa)) — human-written Q&A pairs converted into 40 additional eval cases for external validation
+3. **NarrativeQA** ([deepmind/narrativeqa](https://github.com/google-deepmind/narrativeqa)) — human-written question-answer pairs over story texts, converted into 68 additional evaluation cases that provide externally-authored validation of the system
 
 ## References
 

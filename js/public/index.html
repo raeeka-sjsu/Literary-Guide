@@ -107,28 +107,21 @@
       font-size: 0.8rem; color: var(--ink-soft);
     }
     .book-card-meta .genres { font-size: 0.7rem; }
-    /* Small circular chapter-count badge in upper-right of the spine */
+    /* Small chapter-count badge in upper-right of the spine */
     .chapter-pill {
       position: absolute;
       top: 0.5rem;
       right: 0.5rem;
-      min-width: 30px;
-      height: 30px;
-      padding: 0 0.4rem;
+      padding: 0.2rem 0.55rem;
       border-radius: 999px;
       background: rgba(255,255,255,0.18);
       backdrop-filter: blur(2px);
       color: #fbf3e2;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 0.75rem;
-      font-weight: 600;
+      display: inline-flex; align-items: center;
+      font-size: 0.7rem;
+      font-weight: 500;
       letter-spacing: 0.02em;
-    }
-    .chapter-pill::after {
-      content: " ch";
-      font-weight: 400;
-      opacity: 0.7;
-      margin-left: 1px;
+      white-space: nowrap;
     }
     .badge {
       display: inline-block; background: var(--paper-edge); color: var(--ink-soft);
@@ -414,7 +407,8 @@
       </div>
       <form class="chat-input-row" onsubmit="sendChat(event)" style="flex-direction:column; align-items:stretch;">
         <div style="display:flex; gap:0.5rem;">
-          <textarea id="chat-input" required placeholder="What does this chapter reveal about…?"></textarea>
+          <textarea id="chat-input" required placeholder="What does this chapter reveal about…? (Enter = send · Shift+Enter = newline)"
+            onkeydown="if (event.key==='Enter' && !event.shiftKey) { event.preventDefault(); event.target.form.requestSubmit(); }"></textarea>
           <button type="submit" id="chat-send">Ask</button>
         </div>
         <div class="row-meta">
@@ -464,7 +458,8 @@
     function renderLibrary() {
       const q = document.getElementById("search").value.trim().toLowerCase();
       const genre = document.getElementById("genre-filter").value;
-      const filtered = CATALOG.filter(b => {
+      // Sort alphabetically by title (standard A-Z, articles included).
+      const filtered = [...CATALOG].sort((a, b) => (a.title || "").localeCompare(b.title || "")).filter(b => {
         if (genre && !(b.genres || []).includes(genre)) return false;
         if (!q) return true;
         return (
@@ -489,7 +484,7 @@
               <h3>${escapeHtml(b.title)}</h3>
               <div class="author">${escapeHtml(b.author)}</div>
               <div class="year">${b.year || ""}</div>
-              <div class="chapter-pill" title="${b.chapter_count} chapters in this book">${b.chapter_count}</div>
+              <div class="chapter-pill" title="${b.chapter_count} chapters in this book">${b.chapter_count} ${b.chapter_count === 1 ? "chapter" : "chapters"}</div>
             </div>
             <div class="book-card-meta">
               <div class="genres">${genres}</div>

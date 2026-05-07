@@ -1,204 +1,236 @@
 # Literary Guide — Project Summary
 
-For pasting into another chat (e.g., to generate slides) so it has full context. CMPE 258 SP26 — Option 2.
+CMPE 258 Spring 2026, Option 2 (LLMs + AI Agent System). This document summarizes the project for reference and slide preparation.
 
-## What it is
+## Description
 
-A **spoiler-aware reading companion**. Open any of 52 public-domain novels, set your current chapter, ask anything — themes, character motives, symbolism, "main characters so far" — get a grounded, citation-backed answer that **never leaks events from chapters you haven't read**.
+A spoiler-aware literary reading companion. The user opens one of 52 public-domain novels, sets a current chapter, and submits questions about themes, character motives, symbolism, or character lists. The system returns a grounded, citation-backed answer that does not reference events from chapters the reader has not yet reached. Spoiler enforcement operates at three independent layers: retrieval-side filtering at the database layer, prompt-side rules in the synthesizer system prompt, and a deterministic post-hoc grounding verifier.
 
-Picture Kindle X-Ray + ChatGPT, but with three-layer architectural guarantees that the system can't reveal future plot.
+## Mapping to Option 2 requirements
 
-## Why it's not a chatbot wrapper
+| Requirement | Implementation |
+|---|---|
+| **A. Problem formulation** | Vertical use case: chapter-aware literary analysis without future-plot disclosure. |
+| **B. Data + ≥50 evaluation cases + few-shot examples** | Three datasets (Project Gutenberg full text, BookSum scholarly analyses, NarrativeQA QA pairs); 128 evaluation cases (60 hand-written, 68 NarrativeQA-derived); three few-shot examples in the synthesizer system prompt. |
+| **C. ≥3 LLMs including ≥1 open-source** | Llama 3.2:3b (open-source primary, served locally via Ollama), Claude Haiku 4.5, GPT-4o-mini. All three were evaluated on the same 60-case suite. Performance, cost, and latency are reported in `python/eval/comparison.md`. |
+| **D1. Advanced RAG** | Hybrid retrieval: BM25 sparse + sentence-transformer dense, fused via Reciprocal Rank Fusion. A structured per-book character knowledge index supports name-centered queries. |
+| **D2. Tool-using agent** | Four-stage Planner → Executor → Synthesizer → Critic loop with six tools. Every tool call is logged to a SQLite `tool_call` table. |
+| **D3. Long-horizon memory** | SQLite-backed reading position, chat-turn log, and an LLM-summarized rolling memory that is written, compressed, and retrieved into the next session's prompt. |
+| **E. UI + state + safety + structured logging + tests** | Express front-end with library, reader, chat, and memory panel; SQLite session persistence and reading-position auto-restore; three-layer spoiler safety; per-case JSONL evaluation logs and SQLite tool-call logs; programmatically scored 128-case evaluation suite. |
+| Course rules: no commercial-only model as primary | Llama is the demonstration default; Claude and GPT are used for comparison only. |
 
-1. **Multi-step agent (Planner → Executor → Synthesizer → Critic)** with 6 tools and per-step logging. Quantitative ablation: agent mode is +3.3 points on hard cases vs single LLM call.
-2. **Three-layer spoiler safety**: retrieval bound (DB-level chapter filter), prompt rules, and a deterministic post-hoc name-grounding verifier. A leak has to defeat all three.
-3. **Auto-built per-book character knowledge index** with alias resolution and co-occurrence tracking — a Knowledge-Graph-style RAG layer (no human curation, all extracted from raw text).
-4. **Hybrid retrieval** (BM25 sparse + sentence-transformer dense, fused via Reciprocal Rank Fusion) over the spoiler-bounded corpus.
-5. **Long-horizon memory** that's written, summarized, and retrieved across sessions (SQLite + LLM compression). Reading position auto-restores.
+## Approach
 
-## The story in 1 paragraph
+Pre-trained language models are likely to leak plot details from their training data when asked literary questions about well-known books. Literary Guide constrains the model's available context to the chapters the reader has already read. Each passage in the per-book retrieval index is tagged with its chapter number; queries filter to chapters at or before the reader's current chapter before ranking. A four-stage agent then routes each question to an appropriate tool — structured character lookup, vector retrieval, scholarly analysis retrieval, or full-chapter access — drafts an answer with inline citations, and runs a critic step that fails any answer mentioning a proper noun or fact not present in the cited passages. The result is a system that supports literary discussion at chapter-by-chapter granularity while preventing forward-leaking content from reaching the user.
 
-LLMs can spoil books because they've read them all in pre-training. Literary Guide solves this with a chapter-aware retrieval system: every passage in the database is tagged with its chapter; at query time, only chapters ≤ the user's current page are eligible for retrieval. A four-stage agent then routes the question to the right tool (structured character lookup vs vector retrieval vs scholarly analysis), drafts an answer, and runs a critic step that hard-fails any answer mentioning a name or fact not present in the cited passages. The result: a system that talks about books at literary-discussion depth without leaking the ending.
-
-## Architecture in one picture
+## Architecture
 
 ```
-   Reader UI (Express, :3000)
+   Reader UI (Express, localhost:3000)
             │
             ▼
-   Flask agent (Python, :5050)
+   Flask agent (Python, localhost:5050)
             │
    ┌────────┼────────────────────┐
    ▼        ▼                    ▼
 Per-book   Multi-step agent     SQLite memory
-RAG        (Planner → Executor  (reading pos,
+RAG        (Planner → Executor  (reading position,
 (Chroma +  → Synthesizer →      chat turns,
 BM25 +     → Critic, 6 tools,   LLM-summarized
 character  3-layer safety)      rolling memory)
-graph)
+index)
             │
             ▼
    LLM (Llama 3.2:3b open-source / Claude Haiku 4.5 / GPT-4o-mini)
 ```
 
-## What connects to what — file-by-file
+## File-by-file summary
 
 ```
-js/server.js                  Express proxy & static server. Routes /api/* to Flask.
-js/public/index.html          Single-page library + reader + chat UI. Renders agent steps
-                              live, displays cited passages, handles memory panel.
+js/server.js                  Express proxy and static file server. Routes /api/*
+                              requests to Flask, serves the front-end at :3000.
 
-python/scripts/api_server.py  Flask. Endpoints: /ask, /index_book, /memory/<book>,
-                              /memory/<book>/summarize, /reading_position. Hands every
-                              request off to literary_guide_agent.answer().
+js/public/index.html          Single-page application with library grid, paginated
+                              chapter reader, and chat panel. Renders agent steps
+                              live, displays cited passages, manages the memory panel.
+
+python/scripts/api_server.py  Flask application. Endpoints: /ask, /index_book,
+                              /memory/<book_id>, /memory/<book_id>/summarize,
+                              /reading_position, /recent_books. All requests
+                              dispatch to literary_guide_agent.answer().
 
 python/scripts/literary_guide_agent.py
-                              The single answer() function. In agent_mode=False, calls
-                              the LLM once with retrieved passages. In agent_mode=True,
-                              dispatches to agent_loop.run_agent. Returns a uniform
-                              dict with: answer, chunks, agent (plan/tool_calls/critic),
-                              safety report, latency.
+                              Top-level answer() function. With agent_mode=False,
+                              calls the LLM once with retrieved passages. With
+                              agent_mode=True, dispatches to agent_loop.run_agent.
+                              Returns a uniform response containing the answer,
+                              chunks, agent trace (plan, tool calls, critic verdict),
+                              safety report, and latency.
 
-python/scripts/agent_loop.py  The 4-stage Planner-Executor-Synthesizer-Critic loop.
-                              Planner (LLM) outputs JSON tool plan. Executor invokes
-                              tools, logs each call to SQLite. Synthesizer drafts
-                              answer with [n] citations. Critic verifies; deterministic
-                              grounding check overrides verdict to FAIL on hallucinated
-                              names. Up to 1 retry on FAIL.
+python/scripts/agent_loop.py  The four-stage Planner-Executor-Synthesizer-Critic
+                              loop. The Planner LLM emits a structured JSON tool
+                              plan; the Executor invokes tools in order and records
+                              each call; the Synthesizer drafts the answer with [n]
+                              citations; the Critic verifies. A deterministic
+                              grounding override forces a Critic FAIL whenever the
+                              answer contains a proper noun absent from the cited
+                              passages. Up to one retry is performed on failure.
 
-python/scripts/agent_tools.py 6 tools the agent can call:
-                              - retrieve_passages    (hybrid Gutenberg retrieval)
-                              - lookup_character     (passage retrieval focused on a name)
-                              - summarize_chapter    (full chapter text)
-                              - retrieve_expert_analysis  (BookSum scholarly commentary)
-                              - list_known_characters     (structured character lookup)
-                              - get_character_profile     (single character + timeline)
+python/scripts/agent_tools.py Implementations of the six tools the agent can call:
+                              retrieve_passages (hybrid retrieval over Gutenberg
+                              text), lookup_character (passage retrieval centered
+                              on a character name), summarize_chapter (full chapter
+                              text on demand), retrieve_expert_analysis (BookSum
+                              scholarly commentary), list_known_characters
+                              (structured character lookup), and
+                              get_character_profile (single-character timeline
+                              and co-occurrences).
 
-python/scripts/book_index.py  Per-book Chroma collection (vectors) + BM25 keyword index.
-                              query_book() does dense + BM25 retrieval, fuses via RRF,
-                              filters by chapter ≤ current. Always includes current
-                              chapter as a baseline so questions about the page you're
-                              reading always have that context.
+python/scripts/book_index.py  Per-book retrieval layer. Builds a Chroma collection
+                              of chunk embeddings and a parallel BM25 index. The
+                              query function performs both dense and sparse
+                              retrieval, fuses results via Reciprocal Rank Fusion,
+                              and applies the chapter-limit filter before ranking.
+                              Always prepends one or more chunks from the reader's
+                              current chapter so that page-local questions remain
+                              answerable.
 
 python/scripts/memory_store.py
-                              SQLite layer. Three tables: reading_position (per user
-                              per book), chat_turn (every Q&A logged), book_memory
-                              (LLM-summarized rolling memory). Exposes record_chat_turn,
-                              get_memory_summary, summarize_session.
+                              SQLite persistence layer. Three tables:
+                              reading_position (per user, per book), chat_turn
+                              (full Q&A log including provider, model, latency,
+                              and chunk IDs), and book_memory (rolling LLM-
+                              summarized memory). A tool_call table logs each
+                              agent tool invocation with foreign-key linkage to
+                              chat_turn.
 
-python/scripts/safety.py      Citation enforcement + name-grounding verifier. Extracts
-                              proper nouns from the answer, checks each appears in at
-                              least one cited chunk, flags hallucinated names.
-                              is_refusal() classifier with ~25 phrasings.
+python/scripts/safety.py      Citation enforcement and grounding verification.
+                              Extracts proper nouns from a candidate answer and
+                              checks each one against the retrieved chunks.
+                              Provides a system-wide is_refusal classifier
+                              recognizing approximately 25 refusal phrasings.
 
 python/scripts/chapter_numbering.py
-                              Single source of truth for canonical chapter numbers.
-                              Parses titles in Roman, Arabic, or word form ("Chapter ONE").
-                              Used everywhere chapters are tagged.
+                              Canonical chapter-number extraction utility.
+                              Parses chapter titles in Roman, Arabic, or word
+                              form (for example, "CHAPTER ONE"). Used wherever
+                              a chunk or character mention is tagged with a
+                              chapter number, ensuring the user-visible chapter,
+                              the chunk metadata, and the spoiler filter agree.
 
 python/scripts/build_character_index.py
-                              Pre-builds the per-book character registry: regex+heuristic
-                              NER, alias resolution, mention timeline, co-occurrences.
-                              Output to python/data/characters/<book_id>.json.
+                              Pre-computes the per-book character registry from
+                              the parsed Gutenberg text. Performs regex- and
+                              heuristic-based named entity extraction, alias
+                              resolution (for example, "Mr. Bennet" and "Bennet"
+                              are merged), mention timeline construction, and
+                              co-occurrence tracking. Output is written to
+                              python/data/characters/<book_id>.json.
 
 python/scripts/fetch_library.py
-                              Downloads books from Project Gutenberg, splits into
-                              chapters, saves to python/data/books/<book_id>.json.
+                              Downloads books from Project Gutenberg by ID,
+                              splits each into chapters using a multi-pattern
+                              regex, and saves to python/data/books/<book_id>.json.
 
 python/scripts/fetch_booksum.py
-                              Pulls human-written chapter analyses from the BookSum
-                              dataset (CliffsNotes/SparkNotes/Shmoop) for books in
-                              our catalog.
+                              Streams the BookSum dataset from Hugging Face and
+                              filters to the books in our catalog. Saves matching
+                              entries (chapter summary plus scholarly analysis)
+                              to python/data/booksum/<book_id>.json.
 
 python/scripts/fetch_narrativeqa.py
-                              Pulls human-written QA pairs from NarrativeQA, filters
-                              to books in our catalog, converts to eval cases with
-                              auto-extracted spoiler keywords.
+                              Streams the NarrativeQA dataset across all splits
+                              and filters to books in our catalog. Converts each
+                              human-written question into an evaluation case with
+                              forbidden-keyword spoiler markers automatically
+                              extracted from the human reference answer.
 
-python/eval/eval_cases.json   60 hand-written test cases across 13 books, 3 categories:
-                              spoiler_trap (30), analytical (20), refusal_or_edge (10).
+python/eval/eval_cases.json   60 hand-written test cases across 13 books in three
+                              categories: spoiler_trap (30 cases), analytical
+                              (20 cases), and refusal_or_edge (10 cases).
 
 python/eval/narrativeqa_cases.json
-                              68 NarrativeQA-derived cases for additional validation.
+                              68 NarrativeQA-derived test cases across 13
+                              additional books, used as externally-authored
+                              validation.
 
-python/eval/run_eval.py       Eval runner. Calls each provider per case, scores
-                              (negation-aware spoiler detection + system-wide refusal
-                              fallback + retrieval-violation check), writes JSONL +
-                              summary.json. Supports --agent flag.
+python/eval/run_eval.py       Evaluation runner. For each case, calls the chosen
+                              provider, scores the answer against category-
+                              specific rules (negation-aware spoiler-keyword
+                              matching, citation presence, retrieval-boundary
+                              compliance, refusal detection with system-wide
+                              fallback), and writes a per-case JSONL log.
+                              Supports the --agent flag for evaluating agent mode.
 
 python/eval/build_comparison.py
-                              Reads JSONL logs, computes per-provider stats: pass rate,
-                              latency mean/p95, cost estimate, spoiler-leak rate, AND
-                              precision/recall/F1 on the binary refusal task. Writes
-                              comparison.md (slide-ready), comparison.tsv (spreadsheet),
-                              comparison.json (machine-readable).
+                              Aggregates per-provider statistics from the JSONL
+                              logs: pass rate by category, latency mean and p95,
+                              estimated token cost, spoiler-leak rate, and
+                              precision, recall, F1, and accuracy on the binary
+                              refusal classification task. Outputs comparison.md
+                              (formatted tables), comparison.tsv (spreadsheet),
+                              and comparison.json (machine-readable).
 ```
 
-## Deep learning content
+## Deep learning components
 
-| Model | Type | Use | Trained by us? |
+| Model | Architecture | Role | Trained by us |
 |---|---|---|---|
-| `all-MiniLM-L6-v2` | 22M-param BERT-family sentence encoder | Embed every chunk and query into 384-dim vectors for cosine retrieval | No, pre-trained via contrastive learning |
-| Llama 3.2 3B | decoder-only transformer | Primary LLM, runs locally via Ollama | No, pre-trained + instruction-tuned by Meta |
-| Claude Haiku 4.5 | larger commercial transformer | Comparison LLM | No, used via API |
-| GPT-4o-mini | larger commercial transformer | Comparison LLM | No, used via API |
+| `all-MiniLM-L6-v2` | BERT-family bi-encoder, 22M parameters, contrastive pre-training | Encodes each chunk and each query into a 384-dimensional dense vector for cosine retrieval | No (pre-trained, used at inference time) |
+| Llama 3.2 3B | Decoder-only transformer | Open-source primary LLM, served locally via Ollama | No (pre-trained and instruction-tuned by Meta) |
+| Claude Haiku 4.5 | Decoder-only transformer | Comparison LLM, accessed via API | No |
+| GPT-4o-mini | Decoder-only transformer | Comparison LLM, accessed via API | No |
 
-We do not fine-tune. The rubric explicitly allows prompting OR tuning. Our novel contribution is system architecture (multi-step agent, hybrid retrieval, structured grounding, three-layer safety), not new model weights. A fine-tuned spoiler-detection classifier is on the May-19 backlog as a stretch goal.
+We do not fine-tune. The Option 2 rubric explicitly permits "for prompting OR tuning"; our work focuses on system architecture, evaluation, and safety enforcement on top of pre-trained models. A fine-tuned spoiler-detection classifier remains an item on the May 19 final-report backlog.
 
 ## Datasets
 
-1. **Project Gutenberg** — full original text of 52 public-domain novels (primary text source for retrieval AND display)
-2. **BookSum** ([`kmfoda/booksum`](https://huggingface.co/datasets/kmfoda/booksum)) — 3,813 human-written chapter analyses across 34 of those books (used as the agent's `retrieve_expert_analysis` tool)
-3. **NarrativeQA** ([deepmind/narrativeqa](https://github.com/google-deepmind/narrativeqa)) — human-written QA pairs converted into 68 eval cases for external validation
+1. **Project Gutenberg** — full original text of 52 public-domain novels. Primary text source used both for the reader UI and as the corpus for retrieval embeddings.
+2. **BookSum** ([`kmfoda/booksum`](https://huggingface.co/datasets/kmfoda/booksum)) — 3,813 human-written chapter analyses across 34 of those books, used as the agent's `retrieve_expert_analysis` tool to provide critical context alongside original-text retrieval.
+3. **NarrativeQA** ([deepmind/narrativeqa](https://github.com/google-deepmind/narrativeqa)) — human-written question-answer pairs over story texts, converted into 68 additional evaluation cases that provide externally-authored validation alongside the 60 internal cases.
 
-## Evaluation
+## Evaluation results
 
-128-case suite, 3 categories, all programmatically scored.
+The 128-case evaluation suite is divided into three categories. All cases are scored programmatically.
 
-**60-case 3-LLM comparison (apples-to-apples on the same hand-written cases):**
+### Three-LLM comparison on 60 hand-written cases
 
-| Provider | Accuracy | Recall | F1 | Mean latency | Cost / 1000 queries |
+| Provider | Pass rate | Recall | F1 | Mean latency | Cost / 1000 queries |
 |---|---|---|---|---|---|
-| Llama 3.2:3b (open-source, local) | 81.7% | 0.237 | 0.383 | 7.4 s | $0.00 |
-| Claude Haiku 4.5 | 96.7% | 0.974 | 0.937 | 4.3 s | $2.56 |
-| GPT-4o-mini | 98.3% | 0.974 | 0.961 | 3.5 s | $0.42 |
+| Llama 3.2:3b (open-source, local) | 81.7% | 0.237 | 0.383 | 7,366 ms | $0.00 |
+| Claude Haiku 4.5 | 96.7% | 0.974 | 0.937 | 4,287 ms | $2.56 |
+| GPT-4o-mini | 98.3% | 0.974 | 0.961 | 3,463 ms | $0.42 |
 
-Recall = of questions that should have triggered a refusal, what fraction did the model correctly refuse. Llama explicitly refuses 24% of the time; Claude and GPT 97%. Llama precision = 1.000 (when it does refuse, always correct) — under-detector, not sloppy.
+Recall, computed against the binary "should this question trigger a refusal?" task, captures the safety-critical aspect of the system: it measures the fraction of refusal-eligible questions for which the model produced an explicit refusal. The two commercial models refuse appropriately approximately 97% of the time. Llama refuses approximately 24% of the time; the remainder of its passes on refusal-eligible questions are attributable to the model engaging with the question while happening to avoid the case-specific forbidden keyword.
 
-**Agent vs simple-RAG ablation (same 30 cases through Claude):**
+### Agent mode vs single-call RAG ablation
 
-| Mode | Accuracy | Mean latency |
+Identical 30 cases evaluated through Claude Haiku in both modes:
+
+| Mode | Pass rate | Mean latency |
 |---|---|---|
-| Simple-RAG (1 LLM call) | 96.7% | 4.7 s |
-| Agent mode (4 LLM calls) | 100% | 9.7 s |
+| Simple-RAG (1 LLM call) | 96.7% | 4,712 ms |
+| Agent mode (4 LLM calls) | 100.0% | 9,683 ms |
 
-+3.3 points for the multi-step architecture at 2× latency. The Critic stage triggers a rewrite on ~15-20% of agent answers — those rewrites materially improve quality.
+The four-stage architecture yields a 3.3-point absolute pass-rate gain at approximately twice the latency. Approximately 15–20% of agent-mode answers are revised by the Critic stage before being returned.
 
-## What graders should walk away knowing
+## Suggested slide structure
 
-1. **All 7 of the rubric's Option-2 requirements are met** — see README "Mapping to Option 2 rubric" section.
-2. **3 LLMs evaluated on identical 60-case suite**: Llama / Claude / GPT.
-3. **Option D capability requirement: ALL THREE sub-options satisfied** (advanced RAG with hybrid + GraphRAG-style character index, Planner-Executor-Critic agent, long-horizon memory).
-4. **Real failure analysis** at `docs/failure_analysis.md` shows we know exactly where the system breaks and why our reported numbers are conservative (eval scorer originally over-counted leaks; we caught and fixed it).
-5. **Datasets faithful to original proposal**: Gutenberg, BookSum, NarrativeQA all integrated in their proper roles.
-
-## Slide structure suggestion
-
-1. Title (project, team, course)
-2. Problem (LLMs spoil books — why this is hard)
-3. Solution (chapter-aware retrieval + multi-step agent + 3-layer safety)
+1. Title slide (project name, team members, course)
+2. Problem statement (LLMs leaking plot details from training data)
+3. Approach (chapter-aware retrieval with three-layer safety enforcement and a four-stage agent)
 4. Architecture diagram
-5. Live demo (Pride and Prejudice ch 5, ask Mr. Bennet's sarcasm question; switch chapter, ask spoiler-trap, show refusal)
-6. Eval set (60 hand + 68 NarrativeQA = 128 total, 3 categories)
-7. 3-LLM comparison table (the headline numbers above)
-8. Classification metrics: precision/recall/F1 — show the recall gap between Llama (24%) and commercial models (97%)
-9. Agent ablation (+3.3 pts proves the multi-step architecture earns its compute)
-10. Failure analysis 1-slide highlights
-11. Roadmap to May 19 final report
-12. Q&A — see `docs/demo_script.md` for prepared answers
+5. Live demonstration
+6. Evaluation methodology (128-case suite, three categories, programmatic scoring)
+7. Three-LLM comparison table
+8. Classification metrics (precision, recall, F1)
+9. Agent-vs-single-call ablation
+10. Failure analysis highlights
+11. Remaining work for the May 19 final report
+12. Q&A
 
-## Repo
+## Repository
 
 https://github.com/raeeka-sjsu/Literary-Guide (branch: `raeeka-test`)
 
-Run instructions in `docs/RUN.md`. Demo script in `docs/demo_script.md`. Failure analysis in `docs/failure_analysis.md`. Final report outline in `docs/final_report_outline.md`.
+Run instructions in `docs/RUN.md`. Demonstration walkthrough in `docs/demo_script.md`. Failure analysis in `docs/failure_analysis.md`. Final-report outline in `docs/final_report_outline.md`.

@@ -1,6 +1,6 @@
 # Literary Guide — Live Demo Script
 
-For the May 7 in-class presentation. ~5 minutes total. Follow this verbatim if nervous; deviate if conversation goes well.
+For the May 7 in-class presentation. Approximately five minutes of live demonstration plus a short walkthrough of results. The narration below can be read verbatim or used as a guide.
 
 ---
 
@@ -16,7 +16,7 @@ For the May 7 in-class presentation. ~5 minutes total. Follow this verbatim if n
    curl -s http://localhost:5050/health     # → {"ok": true}
    curl -s http://localhost:3000/api/books | head -c 200   # → JSON book list
    ```
-5. **Browser tab open at http://localhost:3000** with library page loaded. Zoom set so a grader at the back can read the chat panel.
+5. **Browser tab open at http://localhost:3000** with the library page loaded. Zoom level set so the audience at the back of the room can read the chat panel.
 6. **Clear previous chat history** so the demo starts on a clean slate:
    ```bash
    sqlite3 python/data/literary_guide.sqlite "DELETE FROM chat_turn; DELETE FROM book_memory; DELETE FROM tool_call;"
@@ -33,7 +33,7 @@ Switch to the browser at http://localhost:3000.
 
 ### 0:10 — The library (~30 sec)
 
-> "We've indexed 33 public-domain novels from Project Gutenberg. They're searchable by title, author, or genre."
+> "We've indexed 52 public-domain novels from Project Gutenberg. They're searchable by title, author, or genre."
 
 - Type `austen` in search → three Austen novels filter in
 - Click **All genres** dropdown → choose `gothic` → grid filters to gothic novels
@@ -59,7 +59,7 @@ Switch to the browser at http://localhost:3000.
 > "Here's a normal literary question. I'll route it through Claude Haiku."
 
 - Set LLM dropdown to **Anthropic Claude**
-- Toggle **agent mode (Planner→Executor→Critic)** ON — this is the differentiator
+- Toggle **agent mode (Planner→Executor→Critic)** ON
 - Type: `What does Mr. Bennet's sarcasm reveal about his marriage?`
 - Hit **Ask**
 - Narrate while the agent strip animates:
@@ -105,15 +105,15 @@ Switch to the browser at http://localhost:3000.
 - Quick question: `What does the time traveler discover so far?` (Time Machine) or `What is Victor's obsession with creating life?` (Frankenstein)
 - Don't read the full answer — just demonstrate it works
 
-### 4:15 — Numbers slide (~30 sec)
+### 4:15 — Results slide (~30 sec)
 
 Switch to the slide deck for the results table.
 
-> "We evaluated all three LLMs on a 100-case test suite — 60 hand-written + 40 from the NarrativeQA dataset. GPT-4o-mini hit 90 percent, Claude 89, Llama 80. Both commercial models perfect on analytical and refusal categories. The interesting cluster is on spoiler traps — all three around 84–86 percent — that's where the difficulty actually is."
+> "All three LLMs were evaluated on the same 60 hand-written test questions. GPT-4o-mini reached 98.3 percent, Claude Haiku 96.7 percent, and Llama 3.2:3b 81.7 percent. Both commercial models reached 100 percent on the analytical and refusal-or-edge categories. The hardest category is spoiler-trap, where the spread is 83 to 97 percent."
 
-### 4:45 — Wrap (~15 sec)
+### 4:45 — Closing (~15 sec)
 
-> "Open-source primary. Real third-party data. 100-case evaluation. Multi-step agent with structured grounding. Persisted memory across sessions. Code's at github.com/raeeka-sjsu/Literary-Guide."
+> "Project summary: open-source primary model, three datasets from the proposal, 128 evaluation cases scored programmatically, multi-step agent with three-layer safety enforcement, and persisted memory across sessions. The repository is at github.com/raeeka-sjsu/Literary-Guide."
 
 ---
 
@@ -153,30 +153,30 @@ In any answer with `[1]` `[2]` etc.:
 | Ollama dies (no menubar llama) | Open Ollama app from Spotlight. Wait 5 sec. Switch LLM dropdown back. |
 | Both LLMs dead | Switch dropdown to **dry-run** — shows retrieved passages without an answer. Still demonstrates the RAG layer. |
 | Frontend can't reach Flask | Both terminals show real-time logs — find the error. Restart both with the commands at top of this doc. |
-| Whole demo dies | Switch to the backup video at `docs/demo.mp4`. Narrate over it. |
-| Nervous and forget what to click | Stop demoing live — switch to the slide deck for the results table. The slides + numbers are the real grading material. |
+| Live demo cannot recover | Switch to the backup video at `docs/demo.mp4` and narrate over it. |
+| Need to pause the live demo | Switch to the results slide; the slide deck contains the same evidence. |
 
 ---
 
-## Q&A — likely prof questions
+## Q&A — anticipated questions
 
-**Q: What's the deep learning here? Did you train any models?**
-> "We use three pre-trained transformers: a 22M-parameter BERT-family sentence encoder for retrieval embeddings, the 3-billion-parameter Llama 3.2 as our primary LLM, and Claude/GPT for comparison. The novel contribution is the system architecture — multi-step agent, hybrid retrieval, deterministic safety enforcement — not new model weights. Fine-tuning a small spoiler-detection classifier is on our future-work backlog."
+**Q: What deep-learning components does the project use, and were any models trained?**
+> "Three pre-trained transformers are in use: `all-MiniLM-L6-v2`, a 22-million-parameter BERT-family sentence encoder for retrieval embeddings; Llama 3.2 3B as the open-source primary LLM, served locally via Ollama; and Claude Haiku 4.5 and GPT-4o-mini as comparison LLMs. No model weights are trained for this project. The contribution is the system around the models — the multi-step agent, hybrid retrieval, structured grounding verification, and three-layer safety enforcement. A fine-tuned spoiler-detection classifier is part of the May 19 final-report scope."
 
-**Q: How does your retrieval work?**
-> "Hybrid: dense embeddings AND BM25 lexical, fused with Reciprocal Rank Fusion. The chapter spoiler-boundary is enforced before ranking — chunks beyond the user's current chapter are filtered out at the database level, so the model can't retrieve future content even if it wanted to."
+**Q: How does retrieval work?**
+> "Hybrid retrieval: a sentence-transformer dense index and a BM25 sparse index, both queried per request and fused via Reciprocal Rank Fusion. The chapter spoiler-boundary is applied at the database level before ranking, so chunks from chapters beyond the reader's current chapter are excluded from the candidate set entirely."
 
-**Q: How do you stop hallucination?**
-> "Three layers. Layer one: retrieval is bounded — only chapters ≤ current can be returned. Layer two: the synthesizer prompt forbids outside knowledge. Layer three: a deterministic post-hoc check extracts proper nouns from the answer and verifies each appears in a cited passage. If a name in the answer isn't in any retrieved chunk — for example the model knew 'Glinda' from training and inserted her — the critic auto-fails and forces a rewrite."
+**Q: How is hallucination prevented?**
+> "Three independent layers. First, retrieval is bounded by chapter, so the LLM cannot see future content. Second, the synthesizer system prompt explicitly forbids drawing on outside knowledge of the book. Third, a deterministic post-hoc verifier extracts proper nouns from the candidate answer and confirms each appears in at least one cited passage. If a name in the answer is absent from every retrieved chunk — for example, if the model produced 'Glinda' from its training data — the Critic verdict is overridden to FAIL and the synthesizer is asked to rewrite."
 
-**Q: Why an agent loop instead of one-shot RAG?**
-> "Different question types need different retrieval strategies. 'Main characters' is a structured-lookup question — we have a knowledge-graph-style character index for that. 'What does X symbolize' is a thematic question best answered by hybrid retrieval plus scholarly analysis from BookSum. The Planner LLM classifies the question and picks the right tool. The Critic acts as a verifier, catching errors the Synthesizer makes."
+**Q: Why a multi-step agent instead of single-call RAG?**
+> "Different question types are best served by different retrieval strategies. Character-list questions are answered most reliably by a structured lookup against the per-book character knowledge index. Thematic questions are answered well by hybrid retrieval combined with scholarly analysis from BookSum. The Planner LLM classifies the question and selects the appropriate tools; the Critic stage validates the draft answer before it is returned. We measured the value of this architecture: agent mode improves pass rate by 3.3 percentage points over single-call RAG on the same 30 cases."
 
 **Q: How is memory implemented?**
-> "Three tiers in SQLite. Episodic — every Q&A turn is logged with timestamp, model, latency, and which chunks were retrieved. Stateful — reading position per book per user, auto-restored on reopen. Semantic — the LLM compresses recent turns into a rolling summary, which is injected into the next session's prompts as background context. That's the 'written, summarized, retrieved' pattern Option 2 / D3 explicitly requires."
+> "Three tiers in SQLite. Episodic memory — every question-and-answer turn is logged with the model, provider, latency, and the IDs of the chunks retrieved. Stateful — reading position per user per book, automatically restored when the user reopens the book. Semantic — the LLM compresses recent turns into a short rolling summary, which is injected into the next session's synthesizer prompt as background context. This implements the 'written, summarized, retrieved' pattern that the rubric specifies for the long-horizon-memory option (D3)."
 
-**Q: How rigorous is your eval?**
-> "100 cases across 3 categories: spoiler-traps where the system must refuse, analytical questions where it must produce grounded analysis with citations, and edge cases. 60 are hand-written by us, 40 are derived from NarrativeQA — a public benchmark of human-written QA pairs over story texts. Each case scored programmatically with category-specific rules. All three models run on the same eval set, with per-case JSONL logs."
+**Q: How rigorous is the evaluation?**
+> "128 test cases across three categories: 30 spoiler-trap cases where the system must avoid revealing future-chapter content, 20 analytical cases where the system must produce a grounded analysis with citations, and 10 refusal-or-edge cases that test boundary behavior. Sixty cases are hand-written by the team across 13 books. The remaining 68 are derived from NarrativeQA, a public benchmark of human-written question-answer pairs over story texts. Each case is scored programmatically with category-specific rules. All three LLMs were evaluated on the same 60 hand-written cases for the directly comparable benchmark; Claude and GPT-4o-mini were additionally evaluated on the full 128-case suite. Per-case JSONL logs are checked into the repository."
 
-**Q: What's left for the final report?**
-> "Three things. One — re-running Llama on the full 100-case suite so all three providers report on the identical set. Two — recording the demo video. Three — writing the formal report. Code, eval framework, and architecture are complete."
+**Q: What is the remaining work for the final report?**
+> "Three items. First, running Llama on the full 128-case suite so all three providers report on the identical extended set. Second, recording the final demonstration video. Third, writing the formal report. The code, evaluation framework, and architecture are complete."
