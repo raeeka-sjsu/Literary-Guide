@@ -51,11 +51,45 @@ def retrieve_passages(
     """Hybrid (BM25 + dense, RRF) retrieval over the book's chapter chunks.
 
     Always enforces chapter_limit BEFORE ranking — spoiler boundary.
+
+    ALWAYS prepends at least one chunk from the user's current chapter
+    (chapter_limit) so questions about events on the current page can be
+    answered even when semantic similarity points elsewhere. Without this,
+    asking "does Dorothy return home" while reading the actual arrival scene
+    can retrieve only earlier chapters that *talk about* going home rather
+    than the current scene that *shows* her arriving.
     """
     # Local import to avoid circular dependency
-    from book_index import ensure_book_index, query_book
+    from book_index import ensure_book_index, query_book, _chroma, _collection_name
     ensure_book_index(book_id)
     chunks = query_book(book_id, query, chapter_limit, top_k=k, mode=mode)
+
+    # Force-include current-chapter chunks if not already present in top-k
+    current_chapters_in_results = {
+        int((c.get("metadata") or {}).get("chapter") or 0)
+        for c in chunks
+    }
+    if chapter_limit not in current_chapters_in_results:
+        try:
+            col = _chroma.get_collection(_collection_name(book_id))
+            data = col.get(include=["documents", "metadatas"])
+            ids = data["ids"]
+            docs = data["documents"]
+            metas = data["metadatas"]
+            current_chunks = []
+            for i, m in enumerate(metas):
+                if int(m.get("chapter") or 0) == chapter_limit:
+                    current_chunks.append({
+                        "id": ids[i],
+                        "metadata": m,
+                        "score": 0.0,  # not score-ranked, prepended for context
+                        "document": docs[i],
+                    })
+            # Take up to 2 chunks from the current chapter, prepend them
+            chunks = current_chunks[:2] + chunks[: max(0, k - 2)]
+        except Exception:
+            pass  # best-effort augmentation; never fail the main retrieval
+
     return {
         "output": [
             {
@@ -70,6 +104,7 @@ def retrieve_passages(
             "tool": "retrieve_passages",
             "args": {"query": query, "book_id": book_id, "chapter_limit": chapter_limit, "k": k, "mode": mode},
             "n_results": len(chunks),
+            "current_chapter_forced": chapter_limit not in current_chapters_in_results,
         },
     }
 

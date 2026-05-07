@@ -121,8 +121,10 @@ def ensure_book_index(book_id: str) -> int:
 
     # Some Gutenberg books have BOTH a TOC entry that parses to e.g.
     # "Chapter XXIV. Conclusion ... 315" AND the real chapter labeled the
-    # same way. Dedupe: when two chapters map to the same canonical number,
-    # keep only the one with the longest text body (the real chapter).
+    # same way. Dedupe heuristic: when two chapters map to the same canonical
+    # number, prefer the one whose POSITION in the parsed list is closest to
+    # the canonical number (real chapter N is usually around index N), with
+    # a length tiebreak (real chapters have substantial body text).
     is_single = len(book["chapters"]) == 1
     canon_to_best_idx: Dict[int, int] = {}
     canon_for: Dict[int, Optional[int]] = {}
@@ -136,8 +138,18 @@ def ensure_book_index(book_id: str) -> int:
                 continue
         canon_for[i] = c
         prev = canon_to_best_idx.get(c)
-        if prev is None or len(book["chapters"][prev].get("text") or "") < len(ch.get("text") or ""):
+        if prev is None:
             canon_to_best_idx[c] = i
+            continue
+        # Prefer the candidate whose position is closer to canonical c
+        prev_dist = abs(prev - c)
+        new_dist = abs(i - c)
+        if new_dist < prev_dist:
+            canon_to_best_idx[c] = i
+        elif new_dist == prev_dist:
+            # Tiebreak by length — real chapters have more body text
+            if len(book["chapters"][prev].get("text") or "") < len(ch.get("text") or ""):
+                canon_to_best_idx[c] = i
     keep_indices = set(canon_to_best_idx.values())
 
     docs: List[str] = []
@@ -301,6 +313,29 @@ def query_book(
             "dense_score": dense_scores.get(i),
             "bm25_score": bm25_scores.get(i),
         })
+
+    # Always include at least one chunk from the user's CURRENT chapter so
+    # questions about events on the current page can be answered even when
+    # semantic similarity points elsewhere. Prepend up to 2 current-chapter
+    # chunks if none are already in the top-k results.
+    chapters_in_results = {int((c.get("metadata") or {}).get("chapter") or 0) for c in out}
+    if chapter_limit not in chapters_in_results:
+        current_chunk_indices = [
+            i for i, m in enumerate(metas)
+            if int(m.get("chapter") or 0) == chapter_limit
+        ]
+        prepend = []
+        for i in current_chunk_indices[:2]:
+            prepend.append({
+                "id": ids[i],
+                "document": docs[i],
+                "metadata": metas[i],
+                "score": 0.0,
+                "retrieval_mode": "current_chapter_force",
+                "dense_score": None,
+                "bm25_score": None,
+            })
+        out = prepend + out[: max(0, top_k - len(prepend))]
     return out
 
 
