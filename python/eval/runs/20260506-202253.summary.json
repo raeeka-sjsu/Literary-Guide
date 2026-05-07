@@ -1,0 +1,20 @@
+{
+  "dry-run": {
+    "by_category": {
+      "spoiler_trap": {
+        "runs": 1,
+        "passes": 1,
+        "total_latency_ms": 3386,
+        "pass_rate": 1.0,
+        "avg_latency_ms": 3386
+      }
+    },
+    "totals": {
+      "runs": 1,
+      "passes": 1,
+      "total_latency_ms": 3386,
+      "pass_rate": 1.0,
+      "avg_latency_ms": 3386
+    }
+  }
+}

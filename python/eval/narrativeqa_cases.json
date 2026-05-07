@@ -1,0 +1,563 @@
+[
+  {
+    "id": "nq-age-of-innocence-1",
+    "category": "spoiler_trap",
+    "book_id": "age-of-innocence",
+    "current_chapter": 5,
+    "question": "Who does Newland Archer marry?",
+    "forbidden_keywords": [
+      "May Welland"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "May Welland",
+      "May"
+    ]
+  },
+  {
+    "id": "nq-age-of-innocence-2",
+    "category": "spoiler_trap",
+    "book_id": "age-of-innocence",
+    "current_chapter": 5,
+    "question": "Who does Newland meet that leaves him questioning his marriage?",
+    "forbidden_keywords": [
+      "Ellen Olenska"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Ellen Olenska",
+      "Ellen"
+    ]
+  },
+  {
+    "id": "nq-age-of-innocence-3",
+    "category": "spoiler_trap",
+    "book_id": "age-of-innocence",
+    "current_chapter": 5,
+    "question": "How old is Ellen when Newland meets her?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Thirty years old",
+      "30"
+    ]
+  },
+  {
+    "id": "nq-age-of-innocence-4",
+    "category": "spoiler_trap",
+    "book_id": "age-of-innocence",
+    "current_chapter": 5,
+    "question": "How are Ellen and May related to each other? ",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "They are cousins",
+      "They are cousins."
+    ]
+  },
+  {
+    "id": "nq-anna-karenina-1",
+    "category": "spoiler_trap",
+    "book_id": "anna-karenina",
+    "current_chapter": 5,
+    "question": "Who does Couny Vronsky have an affair with? ",
+    "forbidden_keywords": [
+      "Anna Karenina"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Anna Karenina",
+      "Anna Karenina"
+    ]
+  },
+  {
+    "id": "nq-anna-karenina-2",
+    "category": "spoiler_trap",
+    "book_id": "anna-karenina",
+    "current_chapter": 5,
+    "question": "Who is Anna Karenina married to?",
+    "forbidden_keywords": [
+      "Anna Karenina"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Karenin",
+      "Anna Karenina is married to a Karenin."
+    ]
+  },
+  {
+    "id": "nq-anna-karenina-3",
+    "category": "spoiler_trap",
+    "book_id": "anna-karenina",
+    "current_chapter": 5,
+    "question": "What country do Count Vronsky and Anna go to so they can be together?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Italy",
+      "Italy. "
+    ]
+  },
+  {
+    "id": "nq-anna-karenina-4",
+    "category": "spoiler_trap",
+    "book_id": "anna-karenina",
+    "current_chapter": 5,
+    "question": "Who does Konstantin Levin want to marry?",
+    "forbidden_keywords": [
+      "Princess Kitty"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Princess Kitty",
+      "Princess Kitty"
+    ]
+  },
+  {
+    "id": "nq-emma-1",
+    "category": "spoiler_trap",
+    "book_id": "emma",
+    "current_chapter": 5,
+    "question": "Whose wedding was Emma Woodhouse attending in the beginning of the story?",
+    "forbidden_keywords": [
+      "Emma Woodhouse",
+      "Miss Taylor"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Emma Woodhouse was attending the wedding of her friend Miss Taylor, who was getting married to Mr.Weston.",
+      "Miss Taylor."
+    ]
+  },
+  {
+    "id": "nq-emma-2",
+    "category": "spoiler_trap",
+    "book_id": "emma",
+    "current_chapter": 5,
+    "question": "What was Emma's plan with Harriet? ",
+    "forbidden_keywords": [
+      "Mr. Elton"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Emma planned to persuade Harriet to reject the marriage proposal from Robert and to match her with Mr.Elton.",
+      "to get her married to Mr. Elton, the vicar"
+    ]
+  },
+  {
+    "id": "nq-emma-3",
+    "category": "spoiler_trap",
+    "book_id": "emma",
+    "current_chapter": 5,
+    "question": "Why did Jane Fairfax come home before becoming a governess?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Jane came home to meet her aunt Miss.Bates and grandmother Mrs.Bates.",
+      "to see her aunt and grandmother"
+    ]
+  },
+  {
+    "id": "nq-emma-4",
+    "category": "spoiler_trap",
+    "book_id": "emma",
+    "current_chapter": 5,
+    "question": "Why was Emma envious towards Jane?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Emma was envious towards Jane because she was talented and praised by everyone.",
+      "because Jane was so talented and had everyone's praise"
+    ]
+  },
+  {
+    "id": "nq-great-expectations-1",
+    "category": "spoiler_trap",
+    "book_id": "great-expectations",
+    "current_chapter": 5,
+    "question": "Who is pip's benefactor?",
+    "forbidden_keywords": [
+      "Abel Magwitch",
+      "Miss Havisham"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Abel Magwitch",
+      "Miss Havisham. "
+    ]
+  },
+  {
+    "id": "nq-great-expectations-2",
+    "category": "spoiler_trap",
+    "book_id": "great-expectations",
+    "current_chapter": 5,
+    "question": "What does Ms. Havisham wear?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "A wedding dress",
+      "A wedding dress"
+    ]
+  },
+  {
+    "id": "nq-great-expectations-3",
+    "category": "spoiler_trap",
+    "book_id": "great-expectations",
+    "current_chapter": 5,
+    "question": "Why is Pip arrested?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "For his debt",
+      "Debt. "
+    ]
+  },
+  {
+    "id": "nq-great-expectations-4",
+    "category": "spoiler_trap",
+    "book_id": "great-expectations",
+    "current_chapter": 5,
+    "question": "Who is Estella's real father?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Magwitch",
+      "NNNNNNNNNNNNNN"
+    ]
+  },
+  {
+    "id": "nq-picture-of-dorian-gray-1",
+    "category": "spoiler_trap",
+    "book_id": "picture-of-dorian-gray",
+    "current_chapter": 5,
+    "question": "How is James related to Sibyl?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "He is her brother",
+      "brother"
+    ]
+  },
+  {
+    "id": "nq-picture-of-dorian-gray-2",
+    "category": "spoiler_trap",
+    "book_id": "picture-of-dorian-gray",
+    "current_chapter": 5,
+    "question": "How does Sibyl die?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "suicide",
+      "She swallowed prussic acid."
+    ]
+  },
+  {
+    "id": "nq-picture-of-dorian-gray-3",
+    "category": "spoiler_trap",
+    "book_id": "picture-of-dorian-gray",
+    "current_chapter": 5,
+    "question": "Who killed Dorian Gray?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "himself",
+      "himself"
+    ]
+  },
+  {
+    "id": "nq-picture-of-dorian-gray-4",
+    "category": "spoiler_trap",
+    "book_id": "picture-of-dorian-gray",
+    "current_chapter": 5,
+    "question": "How is the withered old man identified as Dorian Gray?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "the rings on his fingers",
+      "The rings on his fingers"
+    ]
+  },
+  {
+    "id": "nq-scarlet-letter-1",
+    "category": "spoiler_trap",
+    "book_id": "scarlet-letter",
+    "current_chapter": 5,
+    "question": "What new name does Hester Prynne's husband choose for himself?",
+    "forbidden_keywords": [
+      "Rodger Chillingworth",
+      "Roger Chillingworth"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Rodger Chillingworth",
+      "Roger Chillingworth"
+    ]
+  },
+  {
+    "id": "nq-scarlet-letter-2",
+    "category": "spoiler_trap",
+    "book_id": "scarlet-letter",
+    "current_chapter": 5,
+    "question": "What is the meaning of the \"A\" that Hester Prynne must wear?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "It stands for adultery",
+      "Adultress"
+    ]
+  },
+  {
+    "id": "nq-scarlet-letter-3",
+    "category": "spoiler_trap",
+    "book_id": "scarlet-letter",
+    "current_chapter": 5,
+    "question": "What does Rev. Dimmesdale do just before dying?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Confesses he is Pearl's father",
+      "Confesses his sin."
+    ]
+  },
+  {
+    "id": "nq-scarlet-letter-4",
+    "category": "spoiler_trap",
+    "book_id": "scarlet-letter",
+    "current_chapter": 5,
+    "question": "Why must Hester stand on the scaffold for 3 hours?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Public humiliation as punishment for her adultery ",
+      "So she is publicly humiliated."
+    ]
+  },
+  {
+    "id": "nq-secret-garden-1",
+    "category": "spoiler_trap",
+    "book_id": "secret-garden",
+    "current_chapter": 5,
+    "question": "Why was Mary sent to live with her uncle?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Her parents were victims of a cholera epidemic. ",
+      "Her parents died"
+    ]
+  },
+  {
+    "id": "nq-secret-garden-2",
+    "category": "spoiler_trap",
+    "book_id": "secret-garden",
+    "current_chapter": 5,
+    "question": "What changed Mary's attitude after moving with her uncle? ",
+    "forbidden_keywords": [
+      "Mrs. Craven"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "The story of Mrs. Craven.",
+      "Spending time with Martha and Ben and being outside. "
+    ]
+  },
+  {
+    "id": "nq-secret-garden-3",
+    "category": "spoiler_trap",
+    "book_id": "secret-garden",
+    "current_chapter": 5,
+    "question": "What sound did only Mary hear at night?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Crying",
+      "someone crying"
+    ]
+  },
+  {
+    "id": "nq-secret-garden-4",
+    "category": "spoiler_trap",
+    "book_id": "secret-garden",
+    "current_chapter": 5,
+    "question": "What relation was Colin to Mary?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Her cousin",
+      "Cousin's "
+    ]
+  },
+  {
+    "id": "nq-sense-and-sensibility-1",
+    "category": "spoiler_trap",
+    "book_id": "sense-and-sensibility",
+    "current_chapter": 5,
+    "question": "How many sons does Henry Dashwood have?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "1",
+      "one"
+    ]
+  },
+  {
+    "id": "nq-sense-and-sensibility-2",
+    "category": "spoiler_trap",
+    "book_id": "sense-and-sensibility",
+    "current_chapter": 5,
+    "question": "What is Henry's son's name?",
+    "forbidden_keywords": [
+      "John Dashwood"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "John",
+      "John Dashwood"
+    ]
+  },
+  {
+    "id": "nq-sense-and-sensibility-3",
+    "category": "spoiler_trap",
+    "book_id": "sense-and-sensibility",
+    "current_chapter": 5,
+    "question": "What does John inherent after Henry dies?",
+    "forbidden_keywords": [
+      "Norlan Park"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Henry's house",
+      "He inherits Norlan Park."
+    ]
+  },
+  {
+    "id": "nq-sense-and-sensibility-4",
+    "category": "spoiler_trap",
+    "book_id": "sense-and-sensibility",
+    "current_chapter": 5,
+    "question": "What promise does Fanny convince John to renig on?",
+    "forbidden_keywords": [
+      "Mr Dashwoods"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "To take care of his half sisters",
+      "take care of Mr Dashwoods half sisters"
+    ]
+  },
+  {
+    "id": "nq-sherlock-adventures-1",
+    "category": "spoiler_trap",
+    "book_id": "sherlock-adventures",
+    "current_chapter": 5,
+    "question": "What style of narrative is used in the story? ",
+    "forbidden_keywords": [
+      "First Person"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "First Person.",
+      "First person narration."
+    ]
+  },
+  {
+    "id": "nq-sherlock-adventures-2",
+    "category": "spoiler_trap",
+    "book_id": "sherlock-adventures",
+    "current_chapter": 5,
+    "question": "Which character is the narrator for the majority of the stories?",
+    "forbidden_keywords": [
+      "Dr. WAtson"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Watson. ",
+      "Dr. WAtson"
+    ]
+  },
+  {
+    "id": "nq-sherlock-adventures-3",
+    "category": "spoiler_trap",
+    "book_id": "sherlock-adventures",
+    "current_chapter": 5,
+    "question": "For what reason did the Soviet Union Ban the stoy? ",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "They alleged it contained occultism. ",
+      "occultism"
+    ]
+  },
+  {
+    "id": "nq-sherlock-adventures-4",
+    "category": "spoiler_trap",
+    "book_id": "sherlock-adventures",
+    "current_chapter": 5,
+    "question": "Name the major theme used in The Adventures of Sherlock Holmes?",
+    "forbidden_keywords": [
+      "Social Injustice"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Social Injustice ",
+      "The pointing out of social injustices."
+    ]
+  },
+  {
+    "id": "nq-time-machine-1",
+    "category": "spoiler_trap",
+    "book_id": "time-machine",
+    "current_chapter": 5,
+    "question": "Where does the Time Traveller live?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Richmond, Surrey",
+      "Richmond, Surrey"
+    ]
+  },
+  {
+    "id": "nq-time-machine-2",
+    "category": "spoiler_trap",
+    "book_id": "time-machine",
+    "current_chapter": 5,
+    "question": "Who are the small, elegant, childlike adults?",
+    "forbidden_keywords": [
+      "The Eloi"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "The Eloi",
+      "the Eloi"
+    ]
+  },
+  {
+    "id": "nq-time-machine-3",
+    "category": "spoiler_trap",
+    "book_id": "time-machine",
+    "current_chapter": 5,
+    "question": "Who are the ape-like troglodytes that live in the underground cave?",
+    "forbidden_keywords": [
+      "The Morlocks"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "The Morlocks",
+      "Morlocks"
+    ]
+  },
+  {
+    "id": "nq-time-machine-4",
+    "category": "spoiler_trap",
+    "book_id": "time-machine",
+    "current_chapter": 5,
+    "question": "What do the Morlocks eat?",
+    "forbidden_keywords": [
+      "The Eloi"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "The Eloi",
+      "Eloi"
+    ]
+  }
+]

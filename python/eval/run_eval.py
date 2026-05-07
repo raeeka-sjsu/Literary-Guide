@@ -220,6 +220,13 @@ def main():
     with open(CASES_PATH) as f:
         cases = json.load(f)["cases"]
 
+    # Append NarrativeQA-derived cases if the fetcher has produced any
+    nqa_path = CASES_PATH.parent / "narrativeqa_cases.json"
+    if nqa_path.exists():
+        with open(nqa_path) as f:
+            nqa_cases = json.load(f)
+        cases = cases + nqa_cases
+
     if args.case:
         cases = [c for c in cases if c["id"] == args.case]
     if args.category:
