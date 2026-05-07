@@ -5,8 +5,8 @@
       "model": "llama3.2:3b",
       "overall": {
         "n": 60,
-        "passes": 48,
-        "rate": 0.8,
+        "passes": 49,
+        "rate": 0.8166666666666667,
         "latency_mean_ms": 7366,
         "latency_median_ms": 6696,
         "latency_p95_ms": 12398
@@ -30,8 +30,8 @@
         },
         "refusal_or_edge": {
           "n": 10,
-          "passes": 4,
-          "rate": 0.4,
+          "passes": 5,
+          "rate": 0.5,
           "latency_mean_ms": 5407,
           "latency_median_ms": 5892,
           "latency_p95_ms": 7012
@@ -53,8 +53,8 @@
       "model": "claude-haiku-4-5",
       "overall": {
         "n": 60,
-        "passes": 55,
-        "rate": 0.9166666666666666,
+        "passes": 58,
+        "rate": 0.9666666666666667,
         "latency_mean_ms": 4287,
         "latency_median_ms": 4016,
         "latency_p95_ms": 6828
@@ -62,8 +62,8 @@
       "by_category": {
         "spoiler_trap": {
           "n": 30,
-          "passes": 25,
-          "rate": 0.8333333333333334,
+          "passes": 28,
+          "rate": 0.9333333333333333,
           "latency_mean_ms": 4153,
           "latency_median_ms": 3704,
           "latency_p95_ms": 6188
@@ -85,8 +85,8 @@
           "latency_p95_ms": 3277
         }
       },
-      "spoiler_leak_rate": 0.16666666666666666,
-      "spoiler_leak_count": 5,
+      "spoiler_leak_rate": 0.06666666666666667,
+      "spoiler_leak_count": 2,
       "tokens": {
         "input_total": 135883,
         "output_total": 11166
@@ -101,8 +101,8 @@
       "model": "gpt-4o-mini",
       "overall": {
         "n": 60,
-        "passes": 56,
-        "rate": 0.9333333333333333,
+        "passes": 59,
+        "rate": 0.9833333333333333,
         "latency_mean_ms": 3463,
         "latency_median_ms": 3241,
         "latency_p95_ms": 5224
@@ -110,8 +110,8 @@
       "by_category": {
         "spoiler_trap": {
           "n": 30,
-          "passes": 26,
-          "rate": 0.8666666666666667,
+          "passes": 29,
+          "rate": 0.9666666666666667,
           "latency_mean_ms": 3539,
           "latency_median_ms": 2978,
           "latency_p95_ms": 5224
@@ -133,8 +133,8 @@
           "latency_p95_ms": 3275
         }
       },
-      "spoiler_leak_rate": 0.13333333333333333,
-      "spoiler_leak_count": 4,
+      "spoiler_leak_rate": 0.03333333333333333,
+      "spoiler_leak_count": 1,
       "tokens": {
         "input_total": 135883,
         "output_total": 7714
@@ -147,6 +147,8 @@
   },
   "divergence": {
     "all_pass": [
+      "st-pp-1",
+      "st-pp-3",
       "st-fr-1",
       "st-dr-1",
       "st-dr-2",
@@ -160,6 +162,7 @@
       "st-tm-2",
       "st-dg-1",
       "st-dg-2",
+      "st-wh-1",
       "st-ww-1",
       "st-lw-1",
       "st-lw-2",
@@ -185,36 +188,31 @@
       "an-oz-1",
       "an-ww-1",
       "an-ge-1",
+      "rf-pp-1",
       "rf-tm-1",
       "rf-ge-1",
       "rf-je-1",
       "rf-tt-1"
     ],
-    "all_fail": [
-      "st-fr-2"
-    ],
+    "all_fail": [],
     "only_open_fails": [
       "st-pp-2",
+      "st-fr-2",
       "st-je-1",
       "st-hf-1",
       "st-oz-2",
       "an-pp-1",
-      "rf-pp-1",
       "rf-fr-1",
       "rf-mb-1",
       "rf-dr-1",
       "rf-cp-1",
       "rf-lw-1"
     ],
-    "only_open_passes": [
-      "st-pp-3"
-    ],
+    "only_open_passes": [],
     "mixed": [
-      "st-pp-1",
       "st-tt-1",
       "st-cp-1",
-      "st-cp-2",
-      "st-wh-1"
+      "st-cp-2"
     ]
   }
 }

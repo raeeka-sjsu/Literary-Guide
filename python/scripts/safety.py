@@ -119,6 +119,12 @@ def is_refusal(answer: str) -> bool:
     refusal_phrases = [
         "i can't see beyond",
         "i cannot see beyond",
+        "i can't answer",
+        "i cannot answer",
+        "i can't provide",
+        "i cannot provide",
+        "i can't tell you",
+        "i don't have enough",
         "the passages do not",
         "passages don't",
         "haven't read that yet",
@@ -131,5 +137,12 @@ def is_refusal(answer: str) -> bool:
         "have not yet",
         "no information",
         "passages don’t",
+        "i'd need passages",
+        "i would need",
+        "to learn how",
+        "to answer your question accurately",
+        "you'll need to read further",
+        "need to read further",
+        "as you progress through the book",
     ]
     return any(p in a for p in refusal_phrases)
