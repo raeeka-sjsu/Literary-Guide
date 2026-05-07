@@ -1,0 +1,3785 @@
+[
+  {
+    "canonical_name": "Captain Wentworth",
+    "aliases": [
+      "Wentworth"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 551,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "\u201cYou mean Mr Wentworth, I suppose?"
+      },
+      "4": {
+        "mentions": 6,
+        "snippet": "Captain Wentworth had no fortune."
+      },
+      "6": {
+        "mentions": 9,
+        "snippet": "), they happened to say, that her brother, Captain Wentworth,"
+      },
+      "7": {
+        "mentions": 43,
+        "snippet": "A very few days more, and Captain Wentworth was known to be at"
+      },
+      "8": {
+        "mentions": 47,
+        "snippet": "From this time Captain Wentworth and Anne Elliot were repeatedly in the"
+      },
+      "9": {
+        "mentions": 79,
+        "snippet": "Captain Wentworth was come to Kellynch as to a home, to stay as long as"
+      },
+      "10": {
+        "mentions": 41,
+        "snippet": "experience, that Captain Wentworth was not in love with either."
+      },
+      "11": {
+        "mentions": 51,
+        "snippet": "It would place her in the same village with Captain Wentworth, within"
+      },
+      "12": {
+        "mentions": 59,
+        "snippet": "suddenly ceased, on seeing Louisa and Captain Wentworth coming towards"
+      },
+      "13": {
+        "mentions": 11,
+        "snippet": "Every report agreed in Captain"
+      },
+      "14": {
+        "mentions": 7,
+        "snippet": "With regard to Captain Wentworth, though Anne hazarded no enquiries,"
+      },
+      "18": {
+        "mentions": 22,
+        "snippet": "pleased, however, for though it is not equal to her marrying Captain"
+      },
+      "19": {
+        "mentions": 32,
+        "snippet": "wish of getting Captain Wentworth to Bath, Captain Wentworth was"
+      },
+      "20": {
+        "mentions": 37,
+        "snippet": "Captain Wentworth walked in alone."
+      },
+      "21": {
+        "mentions": 9,
+        "snippet": "she might have felt had there been no Captain Wentworth in the case,"
+      },
+      "22": {
+        "mentions": 27,
+        "snippet": "Captain Wentworth, in all his own unwelcome obtrusiveness; and the evil"
+      },
+      "23": {
+        "mentions": 39,
+        "snippet": "talking to Mrs Croft, and Captain Harville to Captain Wentworth; and"
+      },
+      "24": {
+        "mentions": 28,
+        "snippet": "if such parties succeed, how should a Captain Wentworth and an Anne"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 14,
+      "Mr Elliot": 13,
+      "Miss Elliot": 12,
+      "Mrs Musgrove": 12,
+      "Anne": 11,
+      "Charles Hayter": 11,
+      "Mr Musgrove": 11,
+      "Mrs Croft": 10
+    }
+  },
+  {
+    "canonical_name": "Mr Elliot",
+    "aliases": [
+      "Elliot"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 544,
+    "per_chapter": {
+      "1": {
+        "mentions": 14,
+        "snippet": "spring excursions to London, when Elizabeth was in her first bloom, Mr"
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "and who had made herself so acceptable to Miss Elliot, as to have been"
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "afraid, Miss Elliot, of your own sweet flower gardens being neglected."
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "Miss Elliot, and Mrs Clay to Bath."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "his having asked his partner whether Miss Elliot never danced?"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cMiss Elliot, I am sure _you_ are tired,\u201d cried Mrs Croft."
+      },
+      "12": {
+        "mentions": 25,
+        "snippet": "\u201cYes, Sir, a Mr Elliot, a gentleman of large fortune, came in last"
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "expressed his hope of Miss Elliot\u2019s not being the worse for her"
+      },
+      "14": {
+        "mentions": 13,
+        "snippet": "of their meeting with, or rather missing, Mr Elliot so extraordinarily."
+      },
+      "15": {
+        "mentions": 57,
+        "snippet": "They had Mr"
+      },
+      "16": {
+        "mentions": 33,
+        "snippet": "been more thankful to ascertain even than Mr Elliot\u2019s being in love"
+      },
+      "17": {
+        "mentions": 40,
+        "snippet": "been at the trouble of inviting both Lady Russell and Mr Elliot; and Mr"
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "I am glad you find Mr Elliot so agreeable, and wish I could"
+      },
+      "19": {
+        "mentions": 32,
+        "snippet": "Mr Elliot was attending his two cousins and Mrs Clay."
+      },
+      "20": {
+        "mentions": 34,
+        "snippet": "Lady Dalrymple and Miss Carteret, escorted by Mr Elliot and"
+      },
+      "21": {
+        "mentions": 181,
+        "snippet": "Mr Elliot would be most likely to call; for to avoid Mr Elliot was"
+      },
+      "22": {
+        "mentions": 65,
+        "snippet": "feelings were relieved by this knowledge of Mr Elliot."
+      },
+      "23": {
+        "mentions": 18,
+        "snippet": "keener interest had succeeded, and she was now so little touched by Mr"
+      },
+      "24": {
+        "mentions": 12,
+        "snippet": "suffering some pain in understanding and relinquishing Mr Elliot, and"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 17,
+      "Miss Elliot": 17,
+      "Mrs Clay": 14,
+      "Sir Walter": 13,
+      "Captain Wentworth": 13,
+      "Anne": 12,
+      "Bath": 12,
+      "Kellynch Hall": 11
+    }
+  },
+  {
+    "canonical_name": "Lady Russell",
+    "aliases": [
+      "Russell"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 402,
+    "per_chapter": {
+      "1": {
+        "mentions": 16,
+        "snippet": "That Lady Russell, of steady age and character, and extremely well"
+      },
+      "2": {
+        "mentions": 41,
+        "snippet": "excellent judgement of Lady Russell, from whose known good sense he"
+      },
+      "4": {
+        "mentions": 28,
+        "snippet": "very degrading alliance; and Lady Russell, though with more tempered"
+      },
+      "5": {
+        "mentions": 32,
+        "snippet": "Hall, Anne found it most natural to take her almost daily walk to Lady"
+      },
+      "6": {
+        "mentions": 6,
+        "snippet": "such truly sympathising friend as Lady Russell."
+      },
+      "10": {
+        "mentions": 6,
+        "snippet": "papa and mamma always think it was her great friend Lady Russell\u2019s"
+      },
+      "11": {
+        "mentions": 12,
+        "snippet": "The time now approached for Lady Russell\u2019s return: the day was even"
+      },
+      "12": {
+        "mentions": 6,
+        "snippet": "Lady Russell lived at Uppercross, and were intimate with Dr Shirley."
+      },
+      "13": {
+        "mentions": 40,
+        "snippet": "sound of Lady Russell\u2019s carriage exceedingly welcome; and yet, though"
+      },
+      "14": {
+        "mentions": 56,
+        "snippet": "to be living in Uppercross; and when he discovered that Lady Russell"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "Elliot to Lady Russell, in the wish of really comprehending what had"
+      },
+      "16": {
+        "mentions": 27,
+        "snippet": "As for herself, she might always command a home with Lady Russell."
+      },
+      "17": {
+        "mentions": 27,
+        "snippet": "consulted Lady Russell, who entered thoroughly into her sentiments, and"
+      },
+      "18": {
+        "mentions": 5,
+        "snippet": "Lady Russell took her out in her carriage"
+      },
+      "19": {
+        "mentions": 30,
+        "snippet": "warm, just, and discriminating, of Lady Russell, and insinuations"
+      },
+      "20": {
+        "mentions": 15,
+        "snippet": "Upon Lady Russell\u2019s appearance soon afterwards, the whole party was"
+      },
+      "21": {
+        "mentions": 6,
+        "snippet": "have been persuaded by Lady Russell!"
+      },
+      "22": {
+        "mentions": 17,
+        "snippet": "pain Lady Russell would be feeling; for the mortifications which must"
+      },
+      "23": {
+        "mentions": 6,
+        "snippet": "intercourse of brother and sister; with Lady Russell, attempts at"
+      },
+      "24": {
+        "mentions": 23,
+        "snippet": "serious anxiety was Lady Russell."
+      }
+    },
+    "co_occurs_with": {
+      "Mr Elliot": 17,
+      "Miss Elliot": 15,
+      "Sir Walter": 14,
+      "Captain Wentworth": 14,
+      "Bath": 13,
+      "Mrs Clay": 13,
+      "Anne": 12,
+      "Kellynch Hall": 11
+    }
+  },
+  {
+    "canonical_name": "Sir Walter",
+    "aliases": [
+      "Walter"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 334,
+    "per_chapter": {
+      "1": {
+        "mentions": 38,
+        "snippet": "hands; but Sir Walter had improved it by adding, for the information of"
+      },
+      "2": {
+        "mentions": 50,
+        "snippet": "or his views on Sir Walter, would rather have the _disagreeable_"
+      },
+      "3": {
+        "mentions": 66,
+        "snippet": "\u201cI must take leave to observe, Sir Walter,\u201d said Mr Shepherd one"
+      },
+      "4": {
+        "mentions": 5,
+        "snippet": "Sir Walter, on being applied to, without actually"
+      },
+      "5": {
+        "mentions": 17,
+        "snippet": "could not but influence Sir Walter, who had besides been flattered into"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "Anne, Sir Walter and your sister are gone; and what part of Bath do you"
+      },
+      "9": {
+        "mentions": 5,
+        "snippet": "\u201cWalter,\u201d said she, \u201cget down this moment."
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "You will tell Sir Walter what we have done, and"
+      },
+      "15": {
+        "mentions": 40,
+        "snippet": "Sir Walter had taken a very good house in Camden Place, a lofty"
+      },
+      "16": {
+        "mentions": 7,
+        "snippet": "Sir Walter had once been in company with the late viscount, but had"
+      },
+      "17": {
+        "mentions": 13,
+        "snippet": "While Sir Walter and Elizabeth were assiduously pushing their good"
+      },
+      "18": {
+        "mentions": 17,
+        "snippet": "\u201d cried Sir Walter."
+      },
+      "20": {
+        "mentions": 10,
+        "snippet": "Sir Walter, his two daughters, and Mrs Clay, were the earliest of all"
+      },
+      "21": {
+        "mentions": 18,
+        "snippet": "introduced to Sir Walter and your sister before I was acquainted with"
+      },
+      "22": {
+        "mentions": 23,
+        "snippet": "opportunity of bringing him and Sir Walter together."
+      },
+      "24": {
+        "mentions": 19,
+        "snippet": "Sir Walter made no objection, and Elizabeth"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 14,
+      "Mr Elliot": 13,
+      "Mrs Clay": 12,
+      "Kellynch Hall": 11,
+      "Miss Elliot": 11,
+      "Captain Wentworth": 10,
+      "Bath": 9,
+      "Anne": 8
+    }
+  },
+  {
+    "canonical_name": "Mrs Musgrove",
+    "aliases": [
+      "Musgrove"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 213,
+    "per_chapter": {
+      "5": {
+        "mentions": 8,
+        "snippet": "Mr and Mrs Musgrove took me, and we were so"
+      },
+      "6": {
+        "mentions": 27,
+        "snippet": "the separate but very similar remark of Mr and Mrs Musgrove: \u201cSo, Miss"
+      },
+      "7": {
+        "mentions": 7,
+        "snippet": "Mr and Mrs Musgrove cannot think it wrong while I remain"
+      },
+      "8": {
+        "mentions": 38,
+        "snippet": "From thus listening and thinking, she was roused by a whisper of Mrs"
+      },
+      "9": {
+        "mentions": 11,
+        "snippet": "Mrs Musgrove and Mrs Hayter were sisters."
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "large books before him, Mr and Mrs Musgrove were sure all could not be"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "night; but to this Mr Musgrove, for the sake of his horses, would not"
+      },
+      "12": {
+        "mentions": 11,
+        "snippet": "and Mrs Musgrove; the lateness of the morning; an hour already gone"
+      },
+      "13": {
+        "mentions": 7,
+        "snippet": "future, which, in Mr and Mrs Musgrove\u2019s distressed state of spirits,"
+      },
+      "14": {
+        "mentions": 17,
+        "snippet": "Mrs Musgrove\u2019s going than Anne conceived they could have been at all"
+      },
+      "18": {
+        "mentions": 16,
+        "snippet": "We have had a very dull Christmas; Mr and Mrs Musgrove"
+      },
+      "22": {
+        "mentions": 35,
+        "snippet": "were come to Bath for a few days with Mrs Musgrove, and were at the"
+      },
+      "23": {
+        "mentions": 30,
+        "snippet": "The party before her were, Mrs Musgrove,"
+      }
+    },
+    "co_occurs_with": {
+      "Mr Musgrove": 12,
+      "Captain Wentworth": 12,
+      "Charles Hayter": 11,
+      "Lady Russell": 10,
+      "Mary": 10,
+      "Anne": 9,
+      "Miss Elliot": 9,
+      "Mr Elliot": 9
+    }
+  },
+  {
+    "canonical_name": "Mrs Clay",
+    "aliases": [
+      "Clay"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 184,
+    "per_chapter": {
+      "2": {
+        "mentions": 8,
+        "snippet": "more decided opposition to Lady Russell than in this selection of Mrs"
+      },
+      "3": {
+        "mentions": 14,
+        "snippet": "said Mrs Clay, for Mrs Clay was present: her father had driven her"
+      },
+      "5": {
+        "mentions": 25,
+        "snippet": "which was, Mrs Clay\u2019s being engaged to go to Bath with Sir Walter and"
+      },
+      "13": {
+        "mentions": 6,
+        "snippet": "Mrs Clay should still be with them, Anne would have been ashamed to"
+      },
+      "15": {
+        "mentions": 13,
+        "snippet": "Mrs Clay was very pleasant, and very smiling, but her courtesies and"
+      },
+      "16": {
+        "mentions": 21,
+        "snippet": "with Elizabeth, which was, her father\u2019s not being in love with Mrs"
+      },
+      "17": {
+        "mentions": 14,
+        "snippet": "Sir Walter, Elizabeth and Mrs Clay, returned one"
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "What an immense time Mrs Clay has been staying"
+      },
+      "19": {
+        "mentions": 20,
+        "snippet": "Mr Elliot was attending his two cousins and Mrs Clay."
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "Sir Walter, his two daughters, and Mrs Clay, were the earliest of all"
+      },
+      "21": {
+        "mentions": 9,
+        "snippet": "another motive), to watch Sir Walter and Mrs Clay."
+      },
+      "22": {
+        "mentions": 37,
+        "snippet": "affected carelessness, \u201cbut he gave so many hints; so Mrs Clay says, at"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "cared not for Mrs Clay, and had nothing to blush for in the public"
+      },
+      "24": {
+        "mentions": 5,
+        "snippet": "He soon quitted Bath; and on Mrs Clay\u2019s quitting it soon"
+      }
+    },
+    "co_occurs_with": {
+      "Mr Elliot": 14,
+      "Lady Russell": 13,
+      "Miss Elliot": 12,
+      "Sir Walter": 12,
+      "Bath": 10,
+      "Camden Place": 10,
+      "Anne": 9,
+      "Elizabeth": 9
+    }
+  },
+  {
+    "canonical_name": "Mrs Smith",
+    "aliases": [
+      "Smith"
+    ],
+    "first_chapter": 17,
+    "total_mentions": 177,
+    "per_chapter": {
+      "17": {
+        "mentions": 48,
+        "snippet": "now Mrs Smith, had shewn her kindness in one of those periods of her"
+      },
+      "19": {
+        "mentions": 7,
+        "snippet": "She had once partly promised Mrs Smith to spend the evening with her;"
+      },
+      "21": {
+        "mentions": 104,
+        "snippet": "Mrs Smith, meaning that it should engage her from home at the time when"
+      },
+      "22": {
+        "mentions": 8,
+        "snippet": "friend like Mrs Smith, but here was a reward indeed springing from it!"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "One day only had passed since Anne\u2019s conversation with Mrs Smith; but a"
+      },
+      "24": {
+        "mentions": 7,
+        "snippet": "but two friends in the world to add to his list, Lady Russell and Mrs"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 6,
+      "Mr Elliot": 6,
+      "Mrs Clay": 6,
+      "Camden Place": 5,
+      "Lady Dalrymple": 5,
+      "Miss Elliot": 5,
+      "Captain Wentworth": 5,
+      "Bath": 4
+    }
+  },
+  {
+    "canonical_name": "Captain Benwick",
+    "aliases": [
+      "Benwick"
+    ],
+    "first_chapter": 11,
+    "total_mentions": 153,
+    "per_chapter": {
+      "11": {
+        "mentions": 27,
+        "snippet": "Captain Benwick, who was staying with them."
+      },
+      "12": {
+        "mentions": 38,
+        "snippet": "Mrs Harville and Captain Benwick; with whom they had appointed to take"
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "When he came away, she was going to walk out with Captain"
+      },
+      "14": {
+        "mentions": 28,
+        "snippet": "Anne enquired after Captain Benwick."
+      },
+      "18": {
+        "mentions": 36,
+        "snippet": "rather surprised not to find Captain Benwick of the party, for he had"
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "was to marry Captain Benwick."
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "seemed solicitous to give, his wonder at Captain Benwick, his feelings"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "Mrs Harville, her children, and Captain Benwick, remained with"
+      },
+      "23": {
+        "mentions": 9,
+        "snippet": "\u201cCertainly: Captain Benwick."
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "that Captain Wentworth should be a richer man than either Captain"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 10,
+      "Lady Russell": 10,
+      "Mr Elliot": 9,
+      "Miss Elliot": 8,
+      "Camden Place": 7,
+      "Captain Harville": 7,
+      "Charles Hayter": 7,
+      "Mrs Clay": 7
+    }
+  },
+  {
+    "canonical_name": "Anne",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 135,
+    "per_chapter": {
+      "2": {
+        "mentions": 12,
+        "snippet": "the father of Anne and her sisters, was, as being Sir Walter, in her"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "What Miss Anne says, is very true,\u201d was Mr"
+      },
+      "5": {
+        "mentions": 29,
+        "snippet": "Hall, Anne found it most natural to take her almost daily walk to Lady"
+      },
+      "6": {
+        "mentions": 5,
+        "snippet": "Anne, Sir Walter and your sister are gone; and what part of Bath do you"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Miss Anne, if it had pleased Heaven to spare my poor son, I dare"
+      },
+      "10": {
+        "mentions": 22,
+        "snippet": "Anne had soon been in company with all the four together often enough"
+      },
+      "11": {
+        "mentions": 11,
+        "snippet": "fixed; and Anne, being engaged to join her as soon as she was"
+      },
+      "14": {
+        "mentions": 20,
+        "snippet": "Mrs Musgrove\u2019s going than Anne conceived they could have been at all"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "\u201cnow Miss Anne was come, she could not suppose herself at all wanted;\u201d"
+      },
+      "18": {
+        "mentions": 14,
+        "snippet": "It was the beginning of February; and Anne, having been a month in"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "thicker than Miss Anne\u2019s; and, in short, her civility rendered her"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "hard-hearted sister, Miss Anne, seems bent on cruelty."
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "Harville anywhere, remember to give Miss Anne\u2019s message."
+      },
+      "24": {
+        "mentions": 14,
+        "snippet": "if such parties succeed, how should a Captain Wentworth and an Anne"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 12,
+      "Mr Elliot": 12,
+      "Miss Elliot": 11,
+      "Captain Wentworth": 11,
+      "Charles Hayter": 10,
+      "Mrs Clay": 9,
+      "Mr Musgrove": 9,
+      "Mrs Musgrove": 9
+    }
+  },
+  {
+    "canonical_name": "Captain Harville",
+    "aliases": [
+      "Harville"
+    ],
+    "first_chapter": 8,
+    "total_mentions": 125,
+    "per_chapter": {
+      "8": {
+        "mentions": 2,
+        "snippet": "\u201cBut you, yourself, brought Mrs Harville, her sister, her cousin, and"
+      },
+      "11": {
+        "mentions": 29,
+        "snippet": "A letter from his friend, Captain Harville, having found him out at"
+      },
+      "12": {
+        "mentions": 18,
+        "snippet": "Captain Harville by her side."
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "kindness, especially of Mrs Harville\u2019s exertions as a nurse."
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "Harville\u2019s children away as much as she could, every possible supply"
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "away, and he had written to her father by Captain Harville."
+      },
+      "22": {
+        "mentions": 11,
+        "snippet": "Captain Harville, beside their two selves."
+      },
+      "23": {
+        "mentions": 52,
+        "snippet": "talking to Mrs Croft, and Captain Harville to Captain Wentworth; and"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 8,
+      "Mrs Musgrove": 8,
+      "Captain Benwick": 7,
+      "Charles Hayter": 7,
+      "Lady Russell": 7,
+      "Miss Elliot": 7,
+      "Mr Elliot": 7,
+      "Mrs Harville": 7
+    }
+  },
+  {
+    "canonical_name": "Mary",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 124,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "1789; Mary, born November 20, 1791."
+      },
+      "5": {
+        "mentions": 9,
+        "snippet": "Mary, often"
+      },
+      "6": {
+        "mentions": 17,
+        "snippet": "supplement from Mary, of\u2014\u201cUpon my word, I shall be pretty well off,"
+      },
+      "7": {
+        "mentions": 12,
+        "snippet": "She and Mary"
+      },
+      "9": {
+        "mentions": 6,
+        "snippet": "Charles gave it for Louisa, Mary for"
+      },
+      "10": {
+        "mentions": 18,
+        "snippet": "It was Mary\u2019s hope and belief that he had received a positive dismissal"
+      },
+      "12": {
+        "mentions": 12,
+        "snippet": "\u201d cried Mary; \u201cit must be our cousin; it must be our Mr"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "really left nothing for Mary to do."
+      },
+      "14": {
+        "mentions": 17,
+        "snippet": "Though Charles and Mary had remained at Lyme much longer after Mr and"
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "wanted to hear much more than Mary had communicated."
+      },
+      "22": {
+        "mentions": 19,
+        "snippet": "Elizabeth were walking Mary into the other drawing-room, and regaling"
+      }
+    },
+    "co_occurs_with": {
+      "Mrs Musgrove": 10,
+      "Lady Russell": 9,
+      "Mr Musgrove": 9,
+      "Captain Wentworth": 9,
+      "Miss Elliot": 8,
+      "Mr Elliot": 8,
+      "Charles Hayter": 8,
+      "Sir Walter": 7
+    }
+  },
+  {
+    "canonical_name": "Mrs Croft",
+    "aliases": [
+      "Croft"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 112,
+    "per_chapter": {
+      "3": {
+        "mentions": 6,
+        "snippet": "He had seen Mrs Croft, too;"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "The sister, Mrs Croft, had then been out of England, accompanying her"
+      },
+      "5": {
+        "mentions": 6,
+        "snippet": "On the morning appointed for Admiral and Mrs Croft\u2019s seeing Kellynch"
+      },
+      "6": {
+        "mentions": 22,
+        "snippet": "together; and as it chanced that Mrs Croft fell to the share of Anne,"
+      },
+      "8": {
+        "mentions": 11,
+        "snippet": "and Mrs Croft, who seemed particularly attached and happy, (Anne could"
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "morning, when he had no companion at home, for the Admiral and Mrs"
+      },
+      "10": {
+        "mentions": 9,
+        "snippet": "\u201cMiss Elliot, I am sure _you_ are tired,\u201d cried Mrs Croft."
+      },
+      "13": {
+        "mentions": 11,
+        "snippet": "the past became in a decided tone, \u201cI must call on Mrs Croft; I really"
+      },
+      "18": {
+        "mentions": 16,
+        "snippet": "her; and, to quicken the pleasure and surprise, with Admiral and Mrs"
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "Before Mrs Croft had written, he was"
+      },
+      "23": {
+        "mentions": 24,
+        "snippet": "talking to Mrs Croft, and Captain Harville to Captain Wentworth; and"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 10,
+      "Anne": 8,
+      "Miss Elliot": 8,
+      "Mr Elliot": 8,
+      "Lady Russell": 8,
+      "Charles Hayter": 8,
+      "Mrs Musgrove": 8,
+      "Kellynch Hall": 7
+    }
+  },
+  {
+    "canonical_name": "Miss Elliot",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 88,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "Miss Elliot that she had begun to be thirteen years ago, and Sir Walter"
+      },
+      "2": {
+        "mentions": 4,
+        "snippet": "and who had made herself so acceptable to Miss Elliot, as to have been"
+      },
+      "3": {
+        "mentions": 5,
+        "snippet": "afraid, Miss Elliot, of your own sweet flower gardens being neglected."
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "Miss Elliot, and Mrs Clay to Bath."
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "his having asked his partner whether Miss Elliot never danced?"
+      },
+      "10": {
+        "mentions": 6,
+        "snippet": "\u201cMiss Elliot, I am sure _you_ are tired,\u201d cried Mrs Croft."
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "\u201cMiss Elliot,\u201d said he, speaking rather low, \u201cyou have done a good deed"
+      },
+      "13": {
+        "mentions": 8,
+        "snippet": "expressed his hope of Miss Elliot\u2019s not being the worse for her"
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "overheard him telling Henrietta all about it; and then \u2018Miss Elliot\u2019"
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "habit of such general observance as \u201cMiss Elliot,\u201d that any"
+      },
+      "17": {
+        "mentions": 4,
+        "snippet": "Miss Elliot would give Mrs Smith, and Anne therefore lost no time in"
+      },
+      "18": {
+        "mentions": 5,
+        "snippet": "likely to be situated in such a part of Bath as it might suit Miss"
+      },
+      "19": {
+        "mentions": 12,
+        "snippet": "Miss Elliot to have the advantage of being conveyed home in Lady"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "Miss Elliot, surrounded by her cousins, and the principal object"
+      },
+      "21": {
+        "mentions": 13,
+        "snippet": "my dear Miss Elliot, to make it an object to yourself, of course it is"
+      },
+      "22": {
+        "mentions": 11,
+        "snippet": "Dear Miss Elliot, may"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "Miss Elliot, do you remember our walking together at"
+      }
+    },
+    "co_occurs_with": {
+      "Mr Elliot": 17,
+      "Lady Russell": 15,
+      "Mrs Clay": 12,
+      "Captain Wentworth": 12,
+      "Sir Walter": 11,
+      "Anne": 11,
+      "Bath": 11,
+      "Kellynch Hall": 10
+    }
+  },
+  {
+    "canonical_name": "Bath",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 83,
+    "per_chapter": {
+      "2": {
+        "mentions": 8,
+        "snippet": "There had been three alternatives, London, Bath, or another house in"
+      },
+      "5": {
+        "mentions": 8,
+        "snippet": "proposed removing to Bath in the course of the preceding month, there"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "Anne, Sir Walter and your sister are gone; and what part of Bath do you"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "were at dinner; and going on now for Crewkherne, in his way to Bath and"
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "entering Bath on a wet afternoon, and driving through the long course"
+      },
+      "15": {
+        "mentions": 7,
+        "snippet": "all Bath."
+      },
+      "16": {
+        "mentions": 8,
+        "snippet": "Bath."
+      },
+      "17": {
+        "mentions": 4,
+        "snippet": "being an old schoolfellow in Bath, who had the two strong claims on"
+      },
+      "18": {
+        "mentions": 15,
+        "snippet": "Bath, was growing very eager for news from Uppercross and Lyme."
+      },
+      "19": {
+        "mentions": 5,
+        "snippet": "wish of getting Captain Wentworth to Bath, Captain Wentworth was"
+      },
+      "20": {
+        "mentions": 4,
+        "snippet": "After talking, however, of the weather, and Bath, and the concert,"
+      },
+      "21": {
+        "mentions": 11,
+        "snippet": "never have passed along the streets of Bath, than Anne was sporting"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "You alone have brought me to Bath."
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 13,
+      "Mr Elliot": 12,
+      "Miss Elliot": 11,
+      "Mrs Clay": 10,
+      "Sir Walter": 9,
+      "Camden Place": 9,
+      "Anne": 8,
+      "Elizabeth": 8
+    }
+  },
+  {
+    "canonical_name": "Colonel Wallis",
+    "aliases": [
+      "Wallis"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 75,
+    "per_chapter": {
+      "15": {
+        "mentions": 21,
+        "snippet": "very intimate friend of his, a Colonel Wallis, a highly respectable"
+      },
+      "16": {
+        "mentions": 4,
+        "snippet": "Colonel Wallis said it, and Lady Russell saw it; but"
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "Elliot had made a point of leaving Colonel Wallis early, and Lady"
+      },
+      "20": {
+        "mentions": 11,
+        "snippet": "Colonel Wallis, who had happened to arrive nearly at the same instant,"
+      },
+      "21": {
+        "mentions": 34,
+        "snippet": "sure you hear nothing but good of him from Colonel Wallis; and who can"
+      }
+    },
+    "co_occurs_with": {
+      "Bath": 5,
+      "Camden Place": 5,
+      "Lady Russell": 5,
+      "Mr Elliot": 5,
+      "Mrs Clay": 5,
+      "Sir Walter": 5,
+      "Elizabeth": 4,
+      "Mrs Wallis": 4
+    }
+  },
+  {
+    "canonical_name": "Henrietta",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 68,
+    "per_chapter": {
+      "9": {
+        "mentions": 22,
+        "snippet": "pleasing young man, between whom and Henrietta there had been a"
+      },
+      "10": {
+        "mentions": 10,
+        "snippet": "Charles Hayter seemed aware of being slighted, and yet Henrietta"
+      },
+      "12": {
+        "mentions": 16,
+        "snippet": "Anne and Henrietta, finding themselves the earliest of the party the"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "overheard him telling Henrietta all about it; and then \u2018Miss Elliot\u2019"
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "She only knew that Henrietta was at home"
+      },
+      "22": {
+        "mentions": 11,
+        "snippet": "She then found that it consisted of Mrs Musgrove, Henrietta, and"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "she immediately heard that Mary and Henrietta, too impatient to wait,"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 7,
+      "Mr Musgrove": 7,
+      "Mrs Musgrove": 7,
+      "Charles Hayter": 6,
+      "Lady Russell": 6,
+      "Louisa": 6,
+      "Mary": 6,
+      "Miss Elliot": 6
+    }
+  },
+  {
+    "canonical_name": "Lady Dalrymple",
+    "aliases": [
+      "Dalrymple"
+    ],
+    "first_chapter": 16,
+    "total_mentions": 68,
+    "per_chapter": {
+      "16": {
+        "mentions": 14,
+        "snippet": "they had more pride; for \u201cour cousins Lady Dalrymple and Miss"
+      },
+      "17": {
+        "mentions": 6,
+        "snippet": "morning from Laura Place, with a sudden invitation from Lady Dalrymple"
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "Situated as we are with Lady Dalrymple, cousins,"
+      },
+      "19": {
+        "mentions": 16,
+        "snippet": "Miss Elliot to have the advantage of being conveyed home in Lady"
+      },
+      "20": {
+        "mentions": 16,
+        "snippet": "their party at the rooms in the evening; and as Lady Dalrymple must be"
+      },
+      "21": {
+        "mentions": 6,
+        "snippet": "circle; for as you went with Lady Dalrymple, you were in the seats of"
+      },
+      "22": {
+        "mentions": 5,
+        "snippet": "particularly asked to meet Mr Elliot, and be introduced to Lady"
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "Lady Dalrymple"
+      }
+    },
+    "co_occurs_with": {
+      "Camden Place": 8,
+      "Lady Russell": 8,
+      "Miss Elliot": 8,
+      "Mr Elliot": 8,
+      "Mrs Clay": 8,
+      "Bath": 7,
+      "Elizabeth": 6,
+      "Sir Walter": 6
+    }
+  },
+  {
+    "canonical_name": "Mr Shepherd",
+    "aliases": [
+      "Shepherd"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 66,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "bills of his tradespeople, and the unwelcome hints of Mr Shepherd, his"
+      },
+      "2": {
+        "mentions": 13,
+        "snippet": "Mr Shepherd, a civil, cautious lawyer, who, whatever might be his hold"
+      },
+      "3": {
+        "mentions": 39,
+        "snippet": "\u201cI must take leave to observe, Sir Walter,\u201d said Mr Shepherd one"
+      },
+      "5": {
+        "mentions": 5,
+        "snippet": "his very best and most polished behaviour by Mr Shepherd\u2019s assurances"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "that Mr Shepherd thinks it the greatest improvement the house ever had."
+      }
+    },
+    "co_occurs_with": {
+      "Kellynch Hall": 5,
+      "Miss Elliot": 5,
+      "Mr Elliot": 5,
+      "Sir Walter": 5,
+      "Lady Russell": 4,
+      "Mrs Clay": 4,
+      "Mary": 3,
+      "Sir Walter Elliot": 3
+    }
+  },
+  {
+    "canonical_name": "Elizabeth",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 66,
+    "per_chapter": {
+      "2": {
+        "mentions": 9,
+        "snippet": "Elizabeth."
+      },
+      "5": {
+        "mentions": 7,
+        "snippet": "Elizabeth\u2019s reply was, \u201cThen I am sure Anne had better stay, for nobody"
+      },
+      "15": {
+        "mentions": 8,
+        "snippet": "and Elizabeth were settled there, much to their satisfaction."
+      },
+      "16": {
+        "mentions": 8,
+        "snippet": "with Elizabeth, which was, her father\u2019s not being in love with Mrs"
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "While Sir Walter and Elizabeth were assiduously pushing their good"
+      },
+      "18": {
+        "mentions": 5,
+        "snippet": "with Elizabeth!"
+      },
+      "19": {
+        "mentions": 4,
+        "snippet": "It did not surprise, but it grieved Anne to observe that Elizabeth"
+      },
+      "20": {
+        "mentions": 5,
+        "snippet": "While they were speaking, a whispering between her father and Elizabeth"
+      },
+      "22": {
+        "mentions": 15,
+        "snippet": "\u201cI had not the smallest intention of asking him,\u201d said Elizabeth, with"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 9,
+      "Mr Elliot": 9,
+      "Mrs Clay": 9,
+      "Bath": 8,
+      "Miss Elliot": 8,
+      "Sir Walter": 8,
+      "Camden Place": 7,
+      "Anne": 6
+    }
+  },
+  {
+    "canonical_name": "Louisa",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 66,
+    "per_chapter": {
+      "9": {
+        "mentions": 9,
+        "snippet": "perhaps the prettiest, Louisa had the higher spirits; and she knew not"
+      },
+      "10": {
+        "mentions": 19,
+        "snippet": "while she considered Louisa to be rather the favourite, she could not"
+      },
+      "11": {
+        "mentions": 4,
+        "snippet": "Louisa, who was the most eager of the eager, having formed the"
+      },
+      "12": {
+        "mentions": 21,
+        "snippet": "suddenly ceased, on seeing Louisa and Captain Wentworth coming towards"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "dear Miss Louisa."
+      },
+      "14": {
+        "mentions": 7,
+        "snippet": "They had left Louisa beginning to sit up; but her head,"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Louisa, we all thought, you know, was to marry Frederick."
+      },
+      "22": {
+        "mentions": 4,
+        "snippet": "Mr Musgrove and Louisa at Uppercross."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 8,
+      "Mrs Musgrove": 8,
+      "Charles Hayter": 7,
+      "Lady Russell": 7,
+      "Mary": 7,
+      "Uppercross": 7,
+      "Mr Musgrove": 7,
+      "Captain Benwick": 6
+    }
+  },
+  {
+    "canonical_name": "Miss Musgroves",
+    "aliases": [
+      "Musgroves"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 60,
+    "per_chapter": {
+      "5": {
+        "mentions": 8,
+        "snippet": "It did not happen to suit the Miss"
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "She played a great deal better than either of the Miss Musgroves, but"
+      },
+      "7": {
+        "mentions": 11,
+        "snippet": "was right, said something to the Miss Musgroves, enough to mark an easy"
+      },
+      "8": {
+        "mentions": 9,
+        "snippet": "party; and he was very much questioned, and especially by the two Miss"
+      },
+      "9": {
+        "mentions": 11,
+        "snippet": "consciousness of superiority in the Miss Musgroves, as made them"
+      },
+      "10": {
+        "mentions": 14,
+        "snippet": "It was a very fine November day, and the Miss Musgroves came through"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "The Miss Musgroves agreed to it; and having all kindly watched him as"
+      }
+    },
+    "co_occurs_with": {
+      "Mr Musgrove": 7,
+      "Mrs Musgrove": 7,
+      "Mary": 6,
+      "Captain Wentworth": 6,
+      "Charles Hayter": 5,
+      "Mrs Croft": 5,
+      "Anne": 4,
+      "Lady Russell": 4
+    }
+  },
+  {
+    "canonical_name": "Uppercross",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 55,
+    "per_chapter": {
+      "6": {
+        "mentions": 5,
+        "snippet": "Anne had not wanted this visit to Uppercross, to learn that a removal"
+      },
+      "9": {
+        "mentions": 8,
+        "snippet": "that country, but the attractions of Uppercross induced him to put this"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "Three days had passed without his coming once to Uppercross; a"
+      },
+      "11": {
+        "mentions": 5,
+        "snippet": "her; but on the other hand, he spent so much of his time at Uppercross,"
+      },
+      "12": {
+        "mentions": 13,
+        "snippet": "better leave Uppercross entirely, and fix at Lyme."
+      },
+      "13": {
+        "mentions": 7,
+        "snippet": "The remainder of Anne\u2019s time at Uppercross, comprehending only two"
+      },
+      "14": {
+        "mentions": 10,
+        "snippet": "as soon as possible after their return to Uppercross they drove over to"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "Mr Musgrove and Louisa at Uppercross."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 8,
+      "Mrs Musgrove": 8,
+      "Charles Hayter": 7,
+      "Lady Russell": 7,
+      "Mary": 7,
+      "Mr Musgrove": 7,
+      "Louisa": 7,
+      "Anne": 5
+    }
+  },
+  {
+    "canonical_name": "Lyme",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 48,
+    "per_chapter": {
+      "12": {
+        "mentions": 7,
+        "snippet": "He declares himself, that coming to Lyme for a month, did"
+      },
+      "13": {
+        "mentions": 10,
+        "snippet": "They had an early account from Lyme the next morning."
+      },
+      "14": {
+        "mentions": 5,
+        "snippet": "Though Charles and Mary had remained at Lyme much longer after Mr and"
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "Anne mentioned the glimpses she had had of him at Lyme, but without"
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "Bath, was growing very eager for news from Uppercross and Lyme."
+      },
+      "20": {
+        "mentions": 8,
+        "snippet": "\u201cI have hardly seen you since our day at Lyme."
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "At Lyme."
+      },
+      "23": {
+        "mentions": 4,
+        "snippet": "Lyme, and grieving for him?"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 8,
+      "Mr Elliot": 8,
+      "Camden Place": 7,
+      "Captain Wentworth": 7,
+      "Miss Elliot": 7,
+      "Bath": 7,
+      "Captain Benwick": 6,
+      "Mrs Clay": 6
+    }
+  },
+  {
+    "canonical_name": "Charles Hayter",
+    "aliases": [
+      "Charles",
+      "Hayter"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 43,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "Charles"
+      },
+      "6": {
+        "mentions": 5,
+        "snippet": "Mrs Charles had a little of your method with those children."
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "Charles, my dear,\u201d (beckoning him to her), \u201cdo ask"
+      },
+      "9": {
+        "mentions": 16,
+        "snippet": "when a certain Charles Hayter returned among them, to be a good deal"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "After a short struggle, however, Charles Hayter seemed to quit the"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "Her usefulness to little Charles would always give some"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "They were indebted, the next day, to Charles Hayter, for all the minute"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Though neither Henrietta, nor Louisa, nor Charles Hayter, nor Captain"
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "Charles Hayter, who had been calling much oftener than was welcome."
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "recently, (since Mary\u2019s last letter to herself), Charles Hayter had"
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "Charles Hayter was quite wild about it, and Henrietta was pretty near"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "Benwick or Charles Hayter."
+      }
+    },
+    "co_occurs_with": {
+      "Mrs Musgrove": 11,
+      "Captain Wentworth": 11,
+      "Anne": 10,
+      "Lady Russell": 10,
+      "Mr Musgrove": 10,
+      "Mr Elliot": 9,
+      "Mary": 8,
+      "Miss Elliot": 8
+    }
+  },
+  {
+    "canonical_name": "Mrs Harville",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 41,
+    "per_chapter": {
+      "8": {
+        "mentions": 4,
+        "snippet": "\u201cBut you, yourself, brought Mrs Harville, her sister, her cousin, and"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "known already, by description, to be Captain and Mrs Harville, and a"
+      },
+      "12": {
+        "mentions": 16,
+        "snippet": "Mrs Harville and Captain Benwick; with whom they had appointed to take"
+      },
+      "13": {
+        "mentions": 6,
+        "snippet": "kindness, especially of Mrs Harville\u2019s exertions as a nurse."
+      },
+      "14": {
+        "mentions": 5,
+        "snippet": "Mrs Musgrove had got Mrs"
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "Mrs Harville must be an"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "and Mrs Harville had seemed to like the idea of it very much, as an"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Harville": 7,
+      "Captain Wentworth": 7,
+      "Mrs Musgrove": 7,
+      "Captain Benwick": 6,
+      "Charles Hayter": 6,
+      "Lady Russell": 6,
+      "Louisa": 6,
+      "Miss Elliot": 6
+    }
+  },
+  {
+    "canonical_name": "Mr Musgrove",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 35,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "except Mr Musgrove, who just stopped and spoke through the window, but"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "Mr Musgrove was,"
+      },
+      "7": {
+        "mentions": 7,
+        "snippet": "Kellynch, and Mr Musgrove had called on him, and come back warm in his"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "They were soon dining in company together at Mr"
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "insignificant compared with Mr Musgrove\u2019s; and while the Musgroves were"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "dinner; and having been found on the occasion by Mr Musgrove with some"
+      },
+      "11": {
+        "mentions": 4,
+        "snippet": "night; but to this Mr Musgrove, for the sake of his horses, would not"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "him to take a chaise from the inn, and leave Mr Musgrove\u2019s carriage and"
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "came in, of course, during their visit, and Mr Musgrove made a point of"
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "not choosing to venture to Uppercross till he had had an answer from Mr"
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "Mr Musgrove and Louisa at Uppercross."
+      },
+      "23": {
+        "mentions": 4,
+        "snippet": "many undesirable particulars; such as, \u201chow Mr Musgrove and my brother"
+      }
+    },
+    "co_occurs_with": {
+      "Mrs Musgrove": 12,
+      "Captain Wentworth": 11,
+      "Charles Hayter": 10,
+      "Anne": 9,
+      "Lady Russell": 9,
+      "Mary": 9,
+      "Miss Elliot": 8,
+      "Mr Elliot": 8
+    }
+  },
+  {
+    "canonical_name": "Miss Carteret",
+    "aliases": [
+      "Carteret"
+    ],
+    "first_chapter": 16,
+    "total_mentions": 29,
+    "per_chapter": {
+      "16": {
+        "mentions": 10,
+        "snippet": "Dowager Viscountess Dalrymple, and her daughter, the Honourable Miss"
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "Miss Carteret was with her mother; consequently it"
+      },
+      "20": {
+        "mentions": 11,
+        "snippet": "Lady Dalrymple and Miss Carteret, escorted by Mr Elliot and"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "Dalrymple and Miss Carteret, who were fortunately already engaged to"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "and Miss Carteret\u2014they would soon be innoxious cousins to her."
+      }
+    },
+    "co_occurs_with": {
+      "Camden Place": 5,
+      "Lady Dalrymple": 5,
+      "Lady Russell": 5,
+      "Miss Elliot": 5,
+      "Mr Elliot": 5,
+      "Mrs Clay": 5,
+      "Anne": 4,
+      "Bath": 4
+    }
+  },
+  {
+    "canonical_name": "Kellynch Hall",
+    "aliases": [
+      "Kellynch"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 28,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "motto:\u2014\u201cPrincipal seat, Kellynch Hall, in the county of Somerset,\u201d and"
+      },
+      "2": {
+        "mentions": 4,
+        "snippet": "to convince him and Elizabeth, that Kellynch Hall has a respectability"
+      },
+      "3": {
+        "mentions": 4,
+        "snippet": "morning at Kellynch Hall, as he laid down the newspaper, \u201cthat the"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "event of Admiral Croft\u2019s really taking Kellynch Hall, she rejoiced anew"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "the wrong of one part of the Kellynch Hall plan, when it burst on her,"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "Kellynch Hall were treated as of such general publicity and pervading"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Kellynch Hall,\u201d (with a kind bow to Anne), \u201cbeyond what I always had in"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "that they were gone who deserved not to stay, and that Kellynch Hall"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "his way over to Kellynch one day by himself, you may depend on it."
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "had been mistress of Kellynch Hall, finding extent to be proud of"
+      },
+      "17": {
+        "mentions": 4,
+        "snippet": "be able to regard you as the future mistress of Kellynch, the future"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "known in Bath as the renter of Kellynch Hall."
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "His chance for the Kellynch"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 11,
+      "Mr Elliot": 11,
+      "Sir Walter": 11,
+      "Miss Elliot": 10,
+      "Bath": 8,
+      "Mrs Clay": 8,
+      "Captain Wentworth": 8,
+      "Anne": 7
+    }
+  },
+  {
+    "canonical_name": "Dr Shirley",
+    "aliases": [
+      "Shirley"
+    ],
+    "first_chapter": 9,
+    "total_mentions": 27,
+    "per_chapter": {
+      "9": {
+        "mentions": 13,
+        "snippet": "seemed the object nearest her heart, that Dr Shirley, the rector, who"
+      },
+      "12": {
+        "mentions": 14,
+        "snippet": "the greatest service to Dr Shirley, after his illness, last spring"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 2,
+      "Captain Wentworth": 2,
+      "Henrietta": 2,
+      "Louisa": 2,
+      "Mary": 2,
+      "Miss Musgrove": 2,
+      "Miss Musgroves": 2,
+      "Mr Musgrove": 2
+    }
+  },
+  {
+    "canonical_name": "Camden Place",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 27,
+    "per_chapter": {
+      "13": {
+        "mentions": 2,
+        "snippet": "the house in Camden Place, which had been taken, and her regret that"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "of streets from the Old Bridge to Camden Place, amidst the dash of"
+      },
+      "15": {
+        "mentions": 6,
+        "snippet": "Sir Walter had taken a very good house in Camden Place, a lofty"
+      },
+      "16": {
+        "mentions": 3,
+        "snippet": "on this point, in her intercourse in Camden Place."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "such a person was known in Camden Place."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "to Camden Place, and in walking up Milsom Street she had the good"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "have walked by her side all the way to Camden Place, without saying a"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "\u201cI have not had the pleasure of visiting in Camden Place so long,\u201d"
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "with from Camden Place to Westgate Buildings."
+      },
+      "22": {
+        "mentions": 4,
+        "snippet": "He was invited again to Camden Place the very"
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "Even if he did not come to Camden Place himself, it would be in her"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 11,
+      "Mr Elliot": 11,
+      "Miss Elliot": 10,
+      "Mrs Clay": 10,
+      "Bath": 9,
+      "Captain Wentworth": 8,
+      "Sir Walter": 8,
+      "Lady Dalrymple": 8
+    }
+  },
+  {
+    "canonical_name": "Sir Walter Elliot",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 22,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "Vanity was the beginning and the end of Sir Walter Elliot\u2019s character;"
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "true dignity of Sir Walter Elliot will be very far from lessened in the"
+      },
+      "3": {
+        "mentions": 7,
+        "snippet": "would think it worth their while to observe me; but Sir Walter Elliot"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "Sir Walter Elliot!"
+      },
+      "16": {
+        "mentions": 4,
+        "snippet": "but in Bath; Sir Walter Elliot and his family will always be worth"
+      }
+    },
+    "co_occurs_with": {
+      "Miss Elliot": 5,
+      "Mr Elliot": 5,
+      "Walter Elliot": 5,
+      "Lady Russell": 4,
+      "Sir Walter": 4,
+      "Kellynch Hall": 3,
+      "Mr Shepherd": 3,
+      "Anne": 3
+    }
+  },
+  {
+    "canonical_name": "Miss Anne",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 22,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "What Miss Anne says, is very true,\u201d was Mr"
+      },
+      "6": {
+        "mentions": 8,
+        "snippet": "the separate but very similar remark of Mr and Mrs Musgrove: \u201cSo, Miss"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Miss Anne, if it had pleased Heaven to spare my poor son, I dare"
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "\u201cnow Miss Anne was come, she could not suppose herself at all wanted;\u201d"
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "thicker than Miss Anne\u2019s; and, in short, her civility rendered her"
+      },
+      "22": {
+        "mentions": 6,
+        "snippet": "hard-hearted sister, Miss Anne, seems bent on cruelty."
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "Harville anywhere, remember to give Miss Anne\u2019s message."
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 7,
+      "Captain Wentworth": 6,
+      "Miss Elliot": 6,
+      "Mr Elliot": 6,
+      "Mrs Clay": 5,
+      "Mrs Croft": 5,
+      "Lady Russell": 5,
+      "Sir Walter": 4
+    }
+  },
+  {
+    "canonical_name": "Lady Elliot",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 21,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "Lady Elliot had been an excellent woman,"
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "the head of the sinner; for when poor Lady Elliot died herself, no"
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "Lady Elliot, to look forward and see you occupying your dear mother\u2019s"
+      },
+      "21": {
+        "mentions": 4,
+        "snippet": "among Sir Walter\u2019s acquaintance, of her meaning to be Lady Elliot, and"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 4,
+      "Miss Elliot": 4,
+      "Mr Elliot": 4,
+      "Sir Walter": 4,
+      "Anne Elliot": 3,
+      "Kellynch Hall": 3,
+      "Bath": 3,
+      "Camden Place": 3
+    }
+  },
+  {
+    "canonical_name": "Mrs Wallis",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 20,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201d and there was a Mrs"
+      },
+      "16": {
+        "mentions": 4,
+        "snippet": "You must stay to be acquainted with Mrs Wallis, the beautiful"
+      },
+      "17": {
+        "mentions": 4,
+        "snippet": "Mrs Wallis of Marlborough Buildings; a mere pretty, silly, expensive,"
+      },
+      "21": {
+        "mentions": 9,
+        "snippet": "She had had it from Mrs Wallis"
+      }
+    },
+    "co_occurs_with": {
+      "Bath": 4,
+      "Camden Place": 4,
+      "Colonel Wallis": 4,
+      "Lady Russell": 4,
+      "Mr Elliot": 4,
+      "Mrs Clay": 4,
+      "Sir Walter": 4,
+      "Elizabeth": 3
+    }
+  },
+  {
+    "canonical_name": "Anne Elliot",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 19,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "A few years before, Anne Elliot had been a very pretty girl, but her"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "How eloquent could Anne Elliot have been!"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "He had not forgiven Anne Elliot."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "From this time Captain Wentworth and Anne Elliot were repeatedly in the"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "The surprise of finding himself almost alone with Anne Elliot, deprived"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "something like Anne Elliot again."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "the value of an Anne Elliot, should, eight years afterwards, be charmed"
+      },
+      "17": {
+        "mentions": 3,
+        "snippet": "\u201d said he, \u201cand who is Miss Anne Elliot to be"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "\u201cShe is pretty, I think; Anne Elliot; very pretty, when one comes to"
+      },
+      "20": {
+        "mentions": 4,
+        "snippet": "Very, very happy were both Elizabeth and Anne Elliot as they walked in."
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "I used to boast of my own Anne Elliot,"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 9,
+      "Lady Russell": 8,
+      "Miss Elliot": 8,
+      "Mr Elliot": 8,
+      "Sir Walter": 7,
+      "Kellynch Hall": 6,
+      "Mary": 5,
+      "Mrs Croft": 5
+    }
+  },
+  {
+    "canonical_name": "Admiral",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 18,
+    "per_chapter": {
+      "5": {
+        "mentions": 6,
+        "snippet": "On the morning appointed for Admiral and Mrs Croft\u2019s seeing Kellynch"
+      },
+      "8": {
+        "mentions": 8,
+        "snippet": "With the exception, perhaps, of Admiral"
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "The Admiral"
+      }
+    },
+    "co_occurs_with": {
+      "Charles Hayter": 3,
+      "Kellynch Hall": 3,
+      "Miss Elliot": 3,
+      "Mr Elliot": 3,
+      "Mrs Croft": 3,
+      "Mrs Musgrove": 3,
+      "Anne": 2,
+      "Lady Russell": 2
+    }
+  },
+  {
+    "canonical_name": "Walter Elliot",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 13,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "\u201cWalter Elliot, born March 1, 1760, married, July 15, 1784, Elizabeth,"
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "true dignity of Sir Walter Elliot will be very far from lessened in the"
+      },
+      "3": {
+        "mentions": 4,
+        "snippet": "would think it worth their while to observe me; but Sir Walter Elliot"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Sir Walter Elliot!"
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "but in Bath; Sir Walter Elliot and his family will always be worth"
+      }
+    },
+    "co_occurs_with": {
+      "Miss Elliot": 5,
+      "Mr Elliot": 5,
+      "Sir Walter Elliot": 5,
+      "Lady Russell": 4,
+      "Sir Walter": 4,
+      "Kellynch Hall": 3,
+      "Mr Shepherd": 3,
+      "Anne": 3
+    }
+  },
+  {
+    "canonical_name": "Mr Wentworth",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 13,
+    "per_chapter": {
+      "3": {
+        "mentions": 7,
+        "snippet": "\u201cYou mean Mr Wentworth, I suppose?"
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "_He_ was not Mr Wentworth, the former curate of Monkford, however"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "Croft\u2019s next words explained it to be Mr Wentworth of whom she spoke,"
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "her many years ago as the Mr Wentworth of Monkford, Captain Wentworth\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 4,
+      "Sir Walter": 4,
+      "Kellynch Hall": 3,
+      "Mrs Croft": 3,
+      "Lady Russell": 3,
+      "Admiral Croft": 2,
+      "Anne": 2,
+      "Miss Anne": 2
+    }
+  },
+  {
+    "canonical_name": "Harvilles",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 13,
+    "per_chapter": {
+      "12": {
+        "mentions": 3,
+        "snippet": "They were not off the Cobb, before the Harvilles met them."
+      },
+      "14": {
+        "mentions": 6,
+        "snippet": "Harvilles, while the Harvilles had been wanting them to come to dinner"
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "cleared yesterday, except of the little Harvilles; but you will be"
+      }
+    },
+    "co_occurs_with": {
+      "Bath": 3,
+      "Captain Benwick": 3,
+      "Captain Harville": 3,
+      "Captain Wentworth": 3,
+      "Henrietta": 3,
+      "Lady Russell": 3,
+      "Louisa": 3,
+      "Lyme": 3
+    }
+  },
+  {
+    "canonical_name": "Louisa Musgrove",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 13,
+    "per_chapter": {
+      "13": {
+        "mentions": 1,
+        "snippet": "by a Louisa Musgrove."
+      },
+      "18": {
+        "mentions": 8,
+        "snippet": "Certainly not a great match for Louisa Musgrove,"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "She had already been obliged to tell Lady Russell that Louisa Musgrove"
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "I regard Louisa Musgrove as"
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "In his preceding attempts to attach himself to Louisa Musgrove (the"
+      }
+    },
+    "co_occurs_with": {
+      "Camden Place": 5,
+      "Captain Benwick": 5,
+      "Captain Wentworth": 5,
+      "Lady Russell": 5,
+      "Miss Elliot": 5,
+      "Mr Elliot": 5,
+      "Mrs Clay": 5,
+      "Lyme": 4
+    }
+  },
+  {
+    "canonical_name": "Charles Musgrove",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "acquired a little artificial importance, by becoming Mrs Charles"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "Lady Russell had lamented her refusal; for Charles Musgrove was the"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "Charles Musgrove\u2019s way, on account of the child, and therefore,"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "One morning, about this time Charles Musgrove and Captain Wentworth"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "The word curricle made Charles Musgrove jump up that he might compare"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "enquiry after Mrs Charles Musgrove, and her fine little boys, Anne was"
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "heard, and \u201cMr and Mrs Charles Musgrove\u201d were ushered into the room."
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 6,
+      "Mary": 6,
+      "Captain Wentworth": 6,
+      "Miss Elliot": 5,
+      "Mr Elliot": 5,
+      "Mrs Charles Musgrove": 5,
+      "Mr Musgrove": 5,
+      "Mrs Musgrove": 5
+    }
+  },
+  {
+    "canonical_name": "Admiral Croft",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 12,
+    "per_chapter": {
+      "3": {
+        "mentions": 7,
+        "snippet": "Admiral Croft, with whom he shortly afterwards fell into company in"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "event of Admiral Croft\u2019s really taking Kellynch Hall, she rejoiced anew"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "heard, was just coming up, and proved to be Admiral Croft\u2019s gig."
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "I should have visited Admiral Croft, however, at any"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 4,
+      "Mrs Croft": 4,
+      "Anne": 3,
+      "Kellynch Hall": 3,
+      "Miss Elliot": 3,
+      "Mr Elliot": 3,
+      "Sir Walter": 3,
+      "Charles Musgrove": 3
+    }
+  },
+  {
+    "canonical_name": "Miss Musgrove",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 12,
+    "per_chapter": {
+      "6": {
+        "mentions": 2,
+        "snippet": "youngest Miss Musgrove walked in."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "A most improper match for Miss Musgrove"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "with regard to any attendance on Miss Musgrove, there need not be the"
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "long Miss Musgrove\u2019s recovery might yet be doubtful, and how liable she"
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "The Miss Musgrove, that all this has been happening to."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 5,
+      "Mary": 5,
+      "Mrs Musgrove": 5,
+      "Charles Hayter": 4,
+      "Lady Russell": 4,
+      "Mr Musgrove": 4,
+      "Mrs Croft": 4,
+      "Sir Walter": 4
+    }
+  },
+  {
+    "canonical_name": "Miss Anne Elliot",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 12,
+    "per_chapter": {
+      "17": {
+        "mentions": 6,
+        "snippet": "\u201d said he, \u201cand who is Miss Anne Elliot to be"
+      },
+      "20": {
+        "mentions": 4,
+        "snippet": "replied he, \u201cwithout knowing something of Miss Anne Elliot; and I do"
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "with you again in Camden Place, as Miss Anne Elliot, and from that"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 3,
+      "Bath": 3,
+      "Camden Place": 3,
+      "Colonel Wallis": 3,
+      "Lady Dalrymple": 3,
+      "Lady Russell": 3,
+      "Miss Elliot": 3,
+      "Mr Elliot": 3
+    }
+  },
+  {
+    "canonical_name": "Mrs Charles",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "acquired a little artificial importance, by becoming Mrs Charles"
+      },
+      "6": {
+        "mentions": 9,
+        "snippet": "Mrs Charles had a little of your method with those children."
+      }
+    },
+    "co_occurs_with": {
+      "Kellynch Hall": 2,
+      "Lady Russell": 2,
+      "Mary": 2,
+      "Sir Walter": 2,
+      "Anne Elliot": 1,
+      "Charles Musgrove": 1,
+      "Elizabeth Elliot": 1,
+      "Esq": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Hamilton",
+    "aliases": [
+      "Hamilton"
+    ],
+    "first_chapter": 17,
+    "total_mentions": 10,
+    "per_chapter": {
+      "17": {
+        "mentions": 10,
+        "snippet": "Miss Hamilton,"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Colonel Wallis": 1,
+      "Elizabeth": 1,
+      "Henry Russell": 1,
+      "Kellynch Hall": 1,
+      "Lady Dalrymple": 1
+    }
+  },
+  {
+    "canonical_name": "Great House",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 9,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "premises of the Great House, about a quarter of a mile farther on."
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "The party at the Great House was sometimes increased by other company."
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "were actually setting forward for the Great House, where, as she"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "leave them at the Great House very well, for a month or six weeks."
+      }
+    },
+    "co_occurs_with": {
+      "Mary": 4,
+      "Mr Musgrove": 4,
+      "Mrs Musgrove": 4,
+      "Anne": 3,
+      "Bath": 3,
+      "Charles Hayter": 3,
+      "Kellynch Hall": 3,
+      "Lady Russell": 3
+    }
+  },
+  {
+    "canonical_name": "Mr Robinson",
+    "aliases": [
+      "Robinson"
+    ],
+    "first_chapter": 7,
+    "total_mentions": 9,
+    "per_chapter": {
+      "7": {
+        "mentions": 9,
+        "snippet": "but now the collar-bone was soon replaced, and though Mr Robinson felt"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 1,
+      "Captain Wentworth": 1,
+      "Charles Musgrove": 1,
+      "Frederick Wentworth": 1,
+      "Great House": 1,
+      "Mary": 1,
+      "Miss Musgroves": 1,
+      "Mr Musgrove": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs Rooke",
+    "aliases": [
+      "Rooke"
+    ],
+    "first_chapter": 17,
+    "total_mentions": 9,
+    "per_chapter": {
+      "17": {
+        "mentions": 3,
+        "snippet": "\u201cI do not suppose the situation my friend Mrs Rooke is in at present,"
+      },
+      "21": {
+        "mentions": 6,
+        "snippet": "\u201cIt was my friend Mrs Rooke; Nurse Rooke; who, by-the-bye, had a great"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 2,
+      "Bath": 2,
+      "Camden Place": 2,
+      "Colonel Wallis": 2,
+      "Kellynch Hall": 2,
+      "Lady Dalrymple": 2,
+      "Lady Elliot": 2,
+      "Lady Russell": 2
+    }
+  },
+  {
+    "canonical_name": "Uppercross Cottage",
+    "aliases": [
+      "Cottage"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 8,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "was hardly entreaty, to come to Uppercross Cottage, and bear her"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "He was to come to breakfast, but not at the Cottage, though"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "\u201cA letter from Uppercross Cottage, Sir."
+      }
+    },
+    "co_occurs_with": {
+      "Great House": 3,
+      "Mary": 3,
+      "Mr Musgrove": 3,
+      "Mrs Musgrove": 3,
+      "Anne": 2,
+      "Bath": 2,
+      "Charles Hayter": 2,
+      "Elizabeth": 2
+    }
+  },
+  {
+    "canonical_name": "Lord Byron",
+    "aliases": [
+      "Byron"
+    ],
+    "first_chapter": 12,
+    "total_mentions": 8,
+    "per_chapter": {
+      "12": {
+        "mentions": 5,
+        "snippet": "talking as before of Mr Scott and Lord Byron, and still as unable as"
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "and Lord Byron; nay, that was probably learnt already; of course they"
+      }
+    },
+    "co_occurs_with": {
+      "Bath": 2,
+      "Captain Benwick": 2,
+      "Captain Harville": 2,
+      "Captain Wentworth": 2,
+      "Charles Musgrove": 2,
+      "Harvilles": 2,
+      "Henrietta": 2,
+      "Lady Russell": 2
+    }
+  },
+  {
+    "canonical_name": "Mrs Charles Musgrove",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "acquired a little artificial importance, by becoming Mrs Charles"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "to the Great House instead, and he seemed afraid of being in Mrs"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Mrs Charles Musgrove will, of course, wish to get back to her"
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "enquiry after Mrs Charles Musgrove, and her fine little boys, Anne was"
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "heard, and \u201cMr and Mrs Charles Musgrove\u201d were ushered into the room."
+      }
+    },
+    "co_occurs_with": {
+      "Charles Musgrove": 5,
+      "Mary": 5,
+      "Lady Russell": 4,
+      "Miss Elliot": 4,
+      "Mr Elliot": 4,
+      "Captain Wentworth": 4,
+      "Mr Musgrove": 4,
+      "Mrs Musgrove": 4
+    }
+  },
+  {
+    "canonical_name": "Frederick",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 7,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cIf you had been a week later at Lisbon, last spring, Frederick, you"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "Sir Frederick and Lady Wentworth!"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "\u201cHere, Frederick, you and I part company, I believe,\u201d said she."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 3,
+      "Charles Hayter": 3,
+      "Mr Musgrove": 3,
+      "Mrs Croft": 3,
+      "Mrs Musgrove": 3,
+      "Anne Elliot": 2,
+      "Henrietta": 2,
+      "Miss Musgroves": 2
+    }
+  },
+  {
+    "canonical_name": "Winthrop",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 7,
+    "per_chapter": {
+      "10": {
+        "mentions": 7,
+        "snippet": "by order into another path, \u201cIs not this one of the ways to Winthrop?"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Croft": 1,
+      "Anne": 1,
+      "Captain Wentworth": 1,
+      "Charles Hayter": 1,
+      "Charles Musgrove": 1,
+      "Henrietta": 1,
+      "Lady Russell": 1,
+      "Louisa": 1
+    }
+  },
+  {
+    "canonical_name": "Laura Place",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 7,
+    "per_chapter": {
+      "16": {
+        "mentions": 4,
+        "snippet": "a house, for three months, in Laura Place, and would be living in"
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "fortune in Laura Place, Anne was renewing an acquaintance of a very"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "to present him and his wife in Laura Place?"
+      }
+    },
+    "co_occurs_with": {
+      "Bath": 3,
+      "Camden Place": 3,
+      "Elizabeth": 3,
+      "Lady Dalrymple": 3,
+      "Lady Russell": 3,
+      "Miss Elliot": 3,
+      "Mr Elliot": 3,
+      "Mrs Clay": 3
+    }
+  },
+  {
+    "canonical_name": "Westgate Buildings",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 7,
+    "per_chapter": {
+      "17": {
+        "mentions": 6,
+        "snippet": "Westgate Buildings, as Anne chose to be taken."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "with from Camden Place to Westgate Buildings."
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 2,
+      "Bath": 2,
+      "Camden Place": 2,
+      "Colonel Wallis": 2,
+      "Kellynch Hall": 2,
+      "Lady Dalrymple": 2,
+      "Lady Elliot": 2,
+      "Lady Russell": 2
+    }
+  },
+  {
+    "canonical_name": "Asp",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 6,
+    "per_chapter": {
+      "8": {
+        "mentions": 6,
+        "snippet": "\u201cYour first was the Asp, I remember; we will look for the Asp."
+      }
+    },
+    "co_occurs_with": {
+      "Admiral": 1,
+      "Anne": 1,
+      "Anne Elliot": 1,
+      "Captain Harville": 1,
+      "Captain Wentworth": 1,
+      "Charles Hayter": 1,
+      "Dick Musgrove": 1,
+      "East Indies": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Alicia",
+    "aliases": [
+      "Alicia"
+    ],
+    "first_chapter": 19,
+    "total_mentions": 6,
+    "per_chapter": {
+      "19": {
+        "mentions": 3,
+        "snippet": "I was looking after some window-curtains, which Lady Alicia and Mrs"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "dinners; few people in Bath do; Lady Alicia never does; did not even"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 2,
+      "Camden Place": 2,
+      "Captain Benwick": 2,
+      "Captain Wentworth": 2,
+      "Elizabeth": 2,
+      "Lady Dalrymple": 2,
+      "Lady Russell": 2,
+      "Miss Anne": 2
+    }
+  },
+  {
+    "canonical_name": "Miss Larolles",
+    "aliases": [
+      "Larolles"
+    ],
+    "first_chapter": 20,
+    "total_mentions": 6,
+    "per_chapter": {
+      "20": {
+        "mentions": 6,
+        "snippet": "comparing herself with Miss Larolles, the inimitable Miss Larolles; but"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Captain Benwick": 1,
+      "Captain Wentworth": 1,
+      "Colonel Wallis": 1,
+      "Concert Room": 1,
+      "Elizabeth": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Basil",
+    "aliases": [
+      "Basil"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 5,
+    "per_chapter": {
+      "3": {
+        "mentions": 5,
+        "snippet": "\u2019 cried Sir"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Baldwin": 1,
+      "Admiral Croft": 1,
+      "Anne": 1,
+      "Basil Morley": 1,
+      "Captain Wentworth": 1,
+      "East Indies": 1,
+      "Governor Trent": 1,
+      "John Shepherd": 1
+    }
+  },
+  {
+    "canonical_name": "Monkford",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 5,
+    "per_chapter": {
+      "3": {
+        "mentions": 5,
+        "snippet": "Monkford."
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Baldwin": 1,
+      "Admiral Croft": 1,
+      "Anne": 1,
+      "Basil Morley": 1,
+      "Captain Wentworth": 1,
+      "East Indies": 1,
+      "Governor Trent": 1,
+      "John Shepherd": 1
+    }
+  },
+  {
+    "canonical_name": "Crofts",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 5,
+    "per_chapter": {
+      "6": {
+        "mentions": 5,
+        "snippet": "exclaimed, \u201cDear me, is not this the day the Crofts were to come to"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Bath": 1,
+      "Captain Frederick Wentworth": 1,
+      "Captain Wentworth": 1,
+      "Charles Hayter": 1,
+      "Dick Musgrove": 1,
+      "Frederick Wentworth": 1,
+      "Great House": 1
+    }
+  },
+  {
+    "canonical_name": "Cobb",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 5,
+    "per_chapter": {
+      "11": {
+        "mentions": 5,
+        "snippet": "almost hurrying into the water, the walk to the Cobb, skirting round"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Captain Benwick": 1,
+      "Captain Harville": 1,
+      "Captain Wentworth": 1,
+      "Charles Hayter": 1,
+      "Lady Russell": 1,
+      "Louisa": 1,
+      "Mr Musgrove": 1
+    }
+  },
+  {
+    "canonical_name": "Marlborough Buildings",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 5,
+    "per_chapter": {
+      "15": {
+        "mentions": 2,
+        "snippet": "added), who was living in very good style in Marlborough Buildings, and"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "Mrs Wallis of Marlborough Buildings; a mere pretty, silly, expensive,"
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "She came away from Marlborough Buildings only on Sunday; and she it was"
+      }
+    },
+    "co_occurs_with": {
+      "Bath": 3,
+      "Camden Place": 3,
+      "Colonel Wallis": 3,
+      "Kellynch Hall": 3,
+      "Lady Russell": 3,
+      "Mr Elliot": 3,
+      "Mrs Clay": 3,
+      "Mrs Wallis": 3
+    }
+  },
+  {
+    "canonical_name": "Milsom Street",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 5,
+    "per_chapter": {
+      "18": {
+        "mentions": 2,
+        "snippet": "to Camden Place, and in walking up Milsom Street she had the good"
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "Milsom Street."
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "Their first meeting in Milsom Street afforded much to be said, but the"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 3,
+      "Bath": 3,
+      "Camden Place": 3,
+      "Captain Benwick": 3,
+      "Captain Wentworth": 3,
+      "Lady Dalrymple": 3,
+      "Lady Russell": 3,
+      "Louisa Musgrove": 3
+    }
+  },
+  {
+    "canonical_name": "Sir William",
+    "aliases": [
+      "William"
+    ],
+    "first_chapter": 21,
+    "total_mentions": 5,
+    "per_chapter": {
+      "21": {
+        "mentions": 2,
+        "snippet": "He cannot bear the idea of not being Sir"
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "last into making her the wife of Sir William."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 2,
+      "Lady Russell": 2,
+      "Mr Elliot": 2,
+      "Mrs Clay": 2,
+      "Mrs Smith": 2,
+      "Sir Walter": 2,
+      "West Indies": 2,
+      "Anne Elliot": 1
+    }
+  },
+  {
+    "canonical_name": "Esq",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "daughter of James Stevenson, Esq."
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 1,
+      "Charles Musgrove": 1,
+      "Elizabeth Elliot": 1,
+      "James Stevenson": 1,
+      "Kellynch Hall": 1,
+      "Lady Elliot": 1,
+      "Lady Russell": 1,
+      "Mary": 1
+    }
+  },
+  {
+    "canonical_name": "Lord St Ives",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 4,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "instances of what I am talking of; Lord St Ives, whose father we all"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Baldwin": 1,
+      "Admiral Croft": 1,
+      "Anne": 1,
+      "Basil Morley": 1,
+      "Captain Wentworth": 1,
+      "East Indies": 1,
+      "Governor Trent": 1,
+      "John Shepherd": 1
+    }
+  },
+  {
+    "canonical_name": "Taunton",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 4,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "attending the quarter sessions at Taunton; and indeed, he had received"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Baldwin": 1,
+      "Admiral Croft": 1,
+      "Anne": 1,
+      "Basil Morley": 1,
+      "Captain Wentworth": 1,
+      "East Indies": 1,
+      "Governor Trent": 1,
+      "John Shepherd": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Frederick Wentworth",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 2,
+        "snippet": "suspicious appearances may be, but a Captain Frederick Wentworth, his"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "board Captain Frederick Wentworth\u2019s frigate, the Laconia; and from the"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 2,
+      "Frederick Wentworth": 2,
+      "Kellynch Hall": 2,
+      "Lady Russell": 2,
+      "Mr Wentworth": 2,
+      "Mrs Croft": 2,
+      "Sir Walter": 2,
+      "Admiral Croft": 1
+    }
+  },
+  {
+    "canonical_name": "Frederick Wentworth",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 2,
+        "snippet": "suspicious appearances may be, but a Captain Frederick Wentworth, his"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "board Captain Frederick Wentworth\u2019s frigate, the Laconia; and from the"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "child; and what was it to her if Frederick Wentworth were only half a"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 3,
+      "Anne Elliot": 2,
+      "Captain Frederick Wentworth": 2,
+      "Charles Musgrove": 2,
+      "Kellynch Hall": 2,
+      "Lady Russell": 2,
+      "Mr Wentworth": 2,
+      "Mrs Croft": 2
+    }
+  },
+  {
+    "canonical_name": "Richard",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 4,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "evening, especially mamma; she is thinking so much of poor Richard!"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Bath": 1,
+      "Captain Frederick Wentworth": 1,
+      "Captain Wentworth": 1,
+      "Charles Hayter": 1,
+      "Crofts": 1,
+      "Dick Musgrove": 1,
+      "Frederick Wentworth": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs Shirley",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 4,
+    "per_chapter": {
+      "12": {
+        "mentions": 4,
+        "snippet": "himself and Mrs Shirley?"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 1,
+      "Bath": 1,
+      "Captain Benwick": 1,
+      "Captain Harville": 1,
+      "Captain Wentworth": 1,
+      "Charles Musgrove": 1,
+      "Dr Shirley": 1,
+      "Grappler": 1
+    }
+  },
+  {
+    "canonical_name": "Rivers Street",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 4,
+    "per_chapter": {
+      "14": {
+        "mentions": 1,
+        "snippet": "own lodgings, in Rivers Street."
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "in Rivers Street."
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "visit in Rivers Street."
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 3,
+      "Camden Place": 3,
+      "Captain Benwick": 3,
+      "Captain Harville": 3,
+      "Captain Wentworth": 3,
+      "Charles Hayter": 3,
+      "Henrietta": 3,
+      "Lady Russell": 3
+    }
+  },
+  {
+    "canonical_name": "Sophy",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 4,
+    "per_chapter": {
+      "18": {
+        "mentions": 4,
+        "snippet": "Sophy"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Brand": 1,
+      "Admiral Croft": 1,
+      "Anne": 1,
+      "Archibald Drew": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Captain Benwick": 1,
+      "Captain Brigden": 1
+    }
+  },
+  {
+    "canonical_name": "Mr Smith",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 4,
+    "per_chapter": {
+      "21": {
+        "mentions": 4,
+        "snippet": "wife\u2019s account of him she could discern Mr Smith to have been a man of"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Captain Wentworth": 1,
+      "Charles Smith": 1,
+      "Colonel Wallis": 1,
+      "Dear Smith": 1,
+      "Indeed": 1
+    }
+  },
+  {
+    "canonical_name": "Admiral Baldwin",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "place to Lord St Ives, and a certain Admiral Baldwin, the most"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Croft": 1,
+      "Anne": 1,
+      "Basil Morley": 1,
+      "Captain Wentworth": 1,
+      "East Indies": 1,
+      "Governor Trent": 1,
+      "John Shepherd": 1,
+      "Kellynch Hall": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Hayters",
+    "aliases": [
+      "Hayters"
+    ],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "The Miss Hayters, the females of the"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral": 1,
+      "Anne": 1,
+      "Anne Elliot": 1,
+      "Asp": 1,
+      "Captain Harville": 1,
+      "Captain Wentworth": 1,
+      "Charles Hayter": 1,
+      "Dick Musgrove": 1
+    }
+  },
+  {
+    "canonical_name": "West Indies",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 1,
+        "snippet": "We do not call Bermuda or Bahama, you know, the West Indies."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "property of her husband in the West Indies, which had been for many"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "property in the West Indies, by writing for her, acting for her, and"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 3,
+      "Mr Elliot": 3,
+      "Anne Elliot": 2,
+      "Kellynch Hall": 2,
+      "Lady Russell": 2,
+      "Miss Elliot": 2,
+      "Mrs Clay": 2,
+      "Mrs Smith": 2
+    }
+  },
+  {
+    "canonical_name": "Plymouth",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "Plymouth; and here another instance of luck."
+      }
+    },
+    "co_occurs_with": {
+      "Admiral": 1,
+      "Anne": 1,
+      "Anne Elliot": 1,
+      "Asp": 1,
+      "Captain Harville": 1,
+      "Captain Wentworth": 1,
+      "Charles Hayter": 1,
+      "Dick Musgrove": 1
+    }
+  },
+  {
+    "canonical_name": "Laconia",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "thinking aloud, \u201cso then he went away to the Laconia, and there he met"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral": 1,
+      "Anne": 1,
+      "Anne Elliot": 1,
+      "Asp": 1,
+      "Captain Harville": 1,
+      "Captain Wentworth": 1,
+      "Charles Hayter": 1,
+      "Dick Musgrove": 1
+    }
+  },
+  {
+    "canonical_name": "Gibraltar",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cIt was at Gibraltar, mother, I know."
+      }
+    },
+    "co_occurs_with": {
+      "Admiral": 1,
+      "Anne": 1,
+      "Anne Elliot": 1,
+      "Asp": 1,
+      "Captain Harville": 1,
+      "Captain Wentworth": 1,
+      "Charles Hayter": 1,
+      "Dick Musgrove": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Wentworth",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "\u2018Lady"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 1,
+      "Captain Wentworth": 1,
+      "Charles Hayter": 1,
+      "Cousin Charles": 1,
+      "Dr Shirley": 1,
+      "Frederick": 1,
+      "Henrietta": 1,
+      "Louisa": 1
+    }
+  },
+  {
+    "canonical_name": "North Yarmouth",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 1,
+        "snippet": "lodgings at North Yarmouth?"
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "if we were at Kellynch, ay, or as we used to be even at North Yarmouth"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Croft": 2,
+      "Anne": 2,
+      "Captain Wentworth": 2,
+      "Charles Hayter": 2,
+      "Charles Musgrove": 2,
+      "Henrietta": 2,
+      "Lady Russell": 2,
+      "Louisa": 2
+    }
+  },
+  {
+    "canonical_name": "Mr Scott",
+    "aliases": [
+      "Scott"
+    ],
+    "first_chapter": 12,
+    "total_mentions": 3,
+    "per_chapter": {
+      "12": {
+        "mentions": 3,
+        "snippet": "talking as before of Mr Scott and Lord Byron, and still as unable as"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 1,
+      "Bath": 1,
+      "Captain Benwick": 1,
+      "Captain Harville": 1,
+      "Captain Wentworth": 1,
+      "Charles Musgrove": 1,
+      "Dr Shirley": 1,
+      "Grappler": 1
+    }
+  },
+  {
+    "canonical_name": "Grappler",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 3,
+    "per_chapter": {
+      "12": {
+        "mentions": 3,
+        "snippet": "just made into the Grappler."
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 1,
+      "Bath": 1,
+      "Captain Benwick": 1,
+      "Captain Harville": 1,
+      "Captain Wentworth": 1,
+      "Charles Musgrove": 1,
+      "Dr Shirley": 1,
+      "Harvilles": 1
+    }
+  },
+  {
+    "canonical_name": "Master Harry",
+    "aliases": [
+      "Harry"
+    ],
+    "first_chapter": 13,
+    "total_mentions": 3,
+    "per_chapter": {
+      "13": {
+        "mentions": 3,
+        "snippet": "lingering and long-petted Master Harry, sent to school after his"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral": 1,
+      "Anne Elliot": 1,
+      "Camden Place": 1,
+      "Captain Benwick": 1,
+      "Captain Harville": 1,
+      "Captain Wentworth": 1,
+      "Charles Hayter": 1,
+      "Kellynch Hall": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Louisa",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 3,
+    "per_chapter": {
+      "13": {
+        "mentions": 2,
+        "snippet": "dear Miss Louisa."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Well, this Miss"
+      }
+    },
+    "co_occurs_with": {
+      "Camden Place": 2,
+      "Captain Benwick": 2,
+      "Captain Harville": 2,
+      "Captain Wentworth": 2,
+      "Charles Hayter": 2,
+      "Kellynch Hall": 2,
+      "Lady Russell": 2,
+      "Louisa": 2
+    }
+  },
+  {
+    "canonical_name": "Gowland",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 3,
+    "per_chapter": {
+      "16": {
+        "mentions": 3,
+        "snippet": "\u201d \u201cMerely Gowland,\u201d he supposed."
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Colonel Wallis": 1,
+      "Dalrymples": 1,
+      "Dowager Viscountess": 1,
+      "Dowager Viscountess Dalrymple": 1,
+      "Elizabeth": 1
+    }
+  },
+  {
+    "canonical_name": "Dalrymples",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 3,
+    "per_chapter": {
+      "16": {
+        "mentions": 3,
+        "snippet": "for many days; for the Dalrymples (in Anne\u2019s opinion, most"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Colonel Wallis": 1,
+      "Dowager Viscountess": 1,
+      "Dowager Viscountess Dalrymple": 1,
+      "Elizabeth": 1,
+      "Gowland": 1
+    }
+  },
+  {
+    "canonical_name": "Mr Smiths",
+    "aliases": [
+      "Smiths"
+    ],
+    "first_chapter": 17,
+    "total_mentions": 3,
+    "per_chapter": {
+      "17": {
+        "mentions": 3,
+        "snippet": "One of five thousand Mr Smiths whose names are to be"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Colonel Wallis": 1,
+      "Elizabeth": 1,
+      "Henry Russell": 1,
+      "Kellynch Hall": 1,
+      "Lady Dalrymple": 1
+    }
+  },
+  {
+    "canonical_name": "Nurse Rooke",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 3,
+    "per_chapter": {
+      "17": {
+        "mentions": 2,
+        "snippet": "health, and Nurse Rooke thoroughly understands when to speak."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "\u201cIt was my friend Mrs Rooke; Nurse Rooke; who, by-the-bye, had a great"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 2,
+      "Bath": 2,
+      "Camden Place": 2,
+      "Colonel Wallis": 2,
+      "Kellynch Hall": 2,
+      "Lady Dalrymple": 2,
+      "Lady Elliot": 2,
+      "Lady Russell": 2
+    }
+  },
+  {
+    "canonical_name": "Captain Brigden",
+    "aliases": [
+      "Brigden"
+    ],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "But here comes a friend, Captain Brigden; I"
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Brand": 1,
+      "Admiral Croft": 1,
+      "Anne": 1,
+      "Archibald Drew": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Captain Benwick": 1,
+      "Captain Harville": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Archibald Drew",
+    "aliases": [
+      "Archibald"
+    ],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "There comes old Sir Archibald Drew and his grandson."
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Brand": 1,
+      "Admiral Croft": 1,
+      "Anne": 1,
+      "Archibald Drew": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Captain Benwick": 1,
+      "Captain Brigden": 1
+    }
+  },
+  {
+    "canonical_name": "James Benwick",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "You know James Benwick."
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Brand": 1,
+      "Admiral Croft": 1,
+      "Anne": 1,
+      "Archibald Drew": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Captain Benwick": 1,
+      "Captain Brigden": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Atkinson",
+    "aliases": [
+      "Atkinson"
+    ],
+    "first_chapter": 19,
+    "total_mentions": 3,
+    "per_chapter": {
+      "19": {
+        "mentions": 3,
+        "snippet": "\u201cYes, and Miss Atkinson, who dined with him once at the Wallises, says"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Anne Elliot": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Captain Benwick": 1,
+      "Captain Wentworth": 1,
+      "Elizabeth": 1,
+      "Lady Alicia": 1
+    }
+  },
+  {
+    "canonical_name": "Union Street",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 3,
+    "per_chapter": {
+      "19": {
+        "mentions": 1,
+        "snippet": "obliging) just setting off for Union Street on a commission of Mrs"
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "They were on Union Street, when a quicker step behind, a something of"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 2,
+      "Bath": 2,
+      "Camden Place": 2,
+      "Captain Benwick": 2,
+      "Captain Wentworth": 2,
+      "Lady Dalrymple": 2,
+      "Lady Russell": 2,
+      "Louisa Musgrove": 2
+    }
+  },
+  {
+    "canonical_name": "Mrs Speed",
+    "aliases": [
+      "Speed"
+    ],
+    "first_chapter": 21,
+    "total_mentions": 3,
+    "per_chapter": {
+      "21": {
+        "mentions": 3,
+        "snippet": "Was not it Mrs Speed, as usual, or the maid?"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Captain Wentworth": 1,
+      "Charles Smith": 1,
+      "Colonel Wallis": 1,
+      "Dear Smith": 1,
+      "Indeed": 1
+    }
+  },
+  {
+    "canonical_name": "Indeed",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 3,
+    "per_chapter": {
+      "21": {
+        "mentions": 3,
+        "snippet": "\u201cIndeed!"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Elliot": 1,
+      "Bath": 1,
+      "Camden Place": 1,
+      "Captain Wentworth": 1,
+      "Charles Smith": 1,
+      "Colonel Wallis": 1,
+      "Dear Smith": 1,
+      "Kellynch Hall": 1
+    }
+  },
+  {
+    "canonical_name": "White Hart",
+    "aliases": [],
+    "first_chapter": 22,
+    "total_mentions": 3,
+    "per_chapter": {
+      "22": {
+        "mentions": 2,
+        "snippet": "White Hart."
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "When she reached the White Hart, and made her way to"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 2,
+      "Camden Place": 2,
+      "Captain Benwick": 2,
+      "Captain Harville": 2,
+      "Captain Wentworth": 2,
+      "Charles Hayter": 2,
+      "Henrietta": 2,
+      "Lady Dalrymple": 2
+    }
+  }
+]

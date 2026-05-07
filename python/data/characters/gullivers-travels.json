@@ -1,0 +1,200 @@
+[
+  {
+    "canonical_name": "Glumdalclitch",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 34,
+    "per_chapter": {
+      "3": {
+        "mentions": 13,
+        "snippet": "humble creature and vassal, I must beg the favour, that Glumdalclitch,"
+      },
+      "5": {
+        "mentions": 16,
+        "snippet": "Glumdalclitch often carried me into"
+      },
+      "8": {
+        "mentions": 5,
+        "snippet": "the third, Glumdalclitch and I attended the king and queen, in a"
+      }
+    },
+    "co_occurs_with": {
+      "Good Hope": 1,
+      "Mr. Thomas Wilcocks": 1,
+      "New Holland": 1,
+      "Thomas Wilcocks": 1,
+      "Royal Sovereign": 1
+    }
+  },
+  {
+    "canonical_name": "Don Pedro",
+    "aliases": [
+      "Pedro"
+    ],
+    "first_chapter": 11,
+    "total_mentions": 13,
+    "per_chapter": {
+      "11": {
+        "mentions": 13,
+        "snippet": "After dinner, Don Pedro came to me, and desired to know my reason for"
+      }
+    },
+    "co_occurs_with": {
+      "Don Pedro de Mendez": 1,
+      "Herman Moll": 1,
+      "Lisbon": 1,
+      "Mr. Herman Moll": 1,
+      "New Holland": 1,
+      "Pedro de Mendez": 1,
+      "Portuguese": 1
+    }
+  },
+  {
+    "canonical_name": "Blefuscu",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 11,
+    "per_chapter": {
+      "7": {
+        "mentions": 11,
+        "snippet": "makes his escape to Blefuscu."
+      }
+    },
+    "co_occurs_with": {
+      "Big": 1,
+      "Deffar Plune": 1,
+      "Quinbus Flestrin": 1,
+      "Skyresh Bolgolam": 1
+    }
+  },
+  {
+    "canonical_name": "New Holland",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 4,
+    "per_chapter": {
+      "8": {
+        "mentions": 1,
+        "snippet": "sailed southward a long time, and coasting New Holland, kept our course"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "He arrives at New Holland, hoping to"
+      }
+    },
+    "co_occurs_with": {
+      "Glumdalclitch": 1,
+      "Good Hope": 1,
+      "Mr. Thomas Wilcocks": 1,
+      "Thomas Wilcocks": 1,
+      "Don Pedro": 1,
+      "Don Pedro de Mendez": 1,
+      "Herman Moll": 1,
+      "Lisbon": 1
+    }
+  },
+  {
+    "canonical_name": "Lisbon",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 4,
+    "per_chapter": {
+      "11": {
+        "mentions": 4,
+        "snippet": "would carry me _gratis_ to Lisbon, whence I might return to my own"
+      }
+    },
+    "co_occurs_with": {
+      "Don Pedro": 1,
+      "Don Pedro de Mendez": 1,
+      "Herman Moll": 1,
+      "Mr. Herman Moll": 1,
+      "New Holland": 1,
+      "Pedro de Mendez": 1,
+      "Portuguese": 1
+    }
+  },
+  {
+    "canonical_name": "Quinbus Flestrin",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "penalties of high-treason; notwithstanding, the said Quinbus Flestrin,"
+      }
+    },
+    "co_occurs_with": {
+      "Big": 1,
+      "Blefuscu": 1,
+      "Deffar Plune": 1,
+      "Skyresh Bolgolam": 1
+    }
+  },
+  {
+    "canonical_name": "Big",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "Big-endian exiles, but likewise all the people of that empire who would"
+      }
+    },
+    "co_occurs_with": {
+      "Blefuscu": 1,
+      "Deffar Plune": 1,
+      "Quinbus Flestrin": 1,
+      "Skyresh Bolgolam": 1
+    }
+  },
+  {
+    "canonical_name": "Lagado",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "letter of recommendation to a friend of his in Lagado, the metropolis."
+      }
+    },
+    "co_occurs_with": {}
+  },
+  {
+    "canonical_name": "Balnibarbi",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "already observed) he spoke the language of Balnibarbi, said to me, with"
+      }
+    },
+    "co_occurs_with": {}
+  },
+  {
+    "canonical_name": "Portuguese",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "and carried by force into a Portuguese ship."
+      }
+    },
+    "co_occurs_with": {
+      "Don Pedro": 1,
+      "Don Pedro de Mendez": 1,
+      "Herman Moll": 1,
+      "Lisbon": 1,
+      "Mr. Herman Moll": 1,
+      "New Holland": 1,
+      "Pedro de Mendez": 1
+    }
+  }
+]

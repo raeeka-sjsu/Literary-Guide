@@ -1,0 +1,2747 @@
+[
+  {
+    "canonical_name": "Master Olivier",
+    "aliases": [
+      "Olivier"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 49,
+    "per_chapter": {
+      "5": {
+        "mentions": 49,
+        "snippet": "\u201cMaster Olivier, the princes who reign over great lordships, like"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Tis",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 38,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "\u201c\u2019Tis one of my friends."
+      },
+      "3": {
+        "mentions": 6,
+        "snippet": "\u201c\u2019Tis their horses that are worth seeing,\u201d said Oudarde,"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "\u201c\u2019Tis the moon which threw this log at us,\u201d said Andry the Red."
+      },
+      "5": {
+        "mentions": 12,
+        "snippet": "\u2019Tis ruinous."
+      },
+      "8": {
+        "mentions": 5,
+        "snippet": "\u2019Tis a time for living, or Jupiter is only a scamp!"
+      }
+    },
+    "co_occurs_with": {
+      "Dieu": 3,
+      "Egypt": 3,
+      "Pierre Gringoire": 3,
+      "Dame": 2,
+      "Dom Claude": 2,
+      "Here": 2,
+      "Notre": 2,
+      "Place": 2
+    }
+  },
+  {
+    "canonical_name": "Gervaise",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 29,
+    "per_chapter": {
+      "3": {
+        "mentions": 29,
+        "snippet": "For what do you take us, Gervaise?"
+      }
+    },
+    "co_occurs_with": {
+      "Andry Musnier": 1,
+      "At the Petit": 1,
+      "Damoiselle Mahiette": 1,
+      "Demoiselle Mahiette": 1,
+      "Demoiselle Oudarde Musnier": 1,
+      "Dr. Scourable": 1,
+      "Egypt": 1,
+      "Egyptian": 1
+    }
+  },
+  {
+    "canonical_name": "Quasimodo",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 28,
+    "per_chapter": {
+      "4": {
+        "mentions": 28,
+        "snippet": "That night, Quasimodo did not sleep."
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "By the Pope": 1,
+      "Captain Clopin": 1,
+      "Clopin Trouillefou": 1,
+      "Dame": 1,
+      "Dieu": 1,
+      "Dom Claude": 1,
+      "Duke": 1
+    }
+  },
+  {
+    "canonical_name": "Sire",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 25,
+    "per_chapter": {
+      "5": {
+        "mentions": 25,
+        "snippet": "\u201cSire!"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "University",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 23,
+    "per_chapter": {
+      "2": {
+        "mentions": 23,
+        "snippet": "and history: the City, the University, the Town."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Notre",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 23,
+    "per_chapter": {
+      "4": {
+        "mentions": 14,
+        "snippet": "Notre-Dame."
+      },
+      "5": {
+        "mentions": 9,
+        "snippet": "\u201cNotre-Dame!"
+      }
+    },
+    "co_occurs_with": {
+      "Dame": 2,
+      "Dieu": 2,
+      "Here": 2,
+      "Pierre Gringoire": 2,
+      "Tis": 2,
+      "Andry the Red": 1,
+      "By the Pope": 1,
+      "Captain Clopin": 1
+    }
+  },
+  {
+    "canonical_name": "Dame",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 23,
+    "per_chapter": {
+      "4": {
+        "mentions": 14,
+        "snippet": "Notre-Dame."
+      },
+      "5": {
+        "mentions": 9,
+        "snippet": "\u201cNotre-Dame!"
+      }
+    },
+    "co_occurs_with": {
+      "Dieu": 2,
+      "Here": 2,
+      "Notre": 2,
+      "Pierre Gringoire": 2,
+      "Tis": 2,
+      "Andry the Red": 1,
+      "By the Pope": 1,
+      "Captain Clopin": 1
+    }
+  },
+  {
+    "canonical_name": "Seine",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 22,
+    "per_chapter": {
+      "2": {
+        "mentions": 22,
+        "snippet": "island was its first boundary wall, the Seine its first moat."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Reims",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 22,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "something in Reims, in our country."
+      },
+      "3": {
+        "mentions": 17,
+        "snippet": "\u201cYes,\u201d said the provincial, \u201cat Reims."
+      }
+    },
+    "co_occurs_with": {
+      "Egypt": 2,
+      "Gudule": 2,
+      "Hole": 2,
+      "Infant Jesus": 2,
+      "Mother": 2,
+      "Rat": 2,
+      "Tis": 2,
+      "Alas": 1
+    }
+  },
+  {
+    "canonical_name": "Town",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 21,
+    "per_chapter": {
+      "2": {
+        "mentions": 21,
+        "snippet": "and history: the City, the University, the Town."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "City",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 20,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "on the side of the City and belonging to the chapter of"
+      },
+      "2": {
+        "mentions": 17,
+        "snippet": "the City which has the form of a cradle."
+      }
+    },
+    "co_occurs_with": {
+      "Louis": 2,
+      "Pont Notre": 2,
+      "Alas": 1,
+      "Come": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1
+    }
+  },
+  {
+    "canonical_name": "Dieu",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 20,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "_Pasque-Dieu!"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "H\u00f4tel-Dieu, the other the Rue Saint-Pierre-aux-B\u0153ufs."
+      },
+      "5": {
+        "mentions": 11,
+        "snippet": "\u201cCroix-Dieu!"
+      }
+    },
+    "co_occurs_with": {
+      "Pierre Gringoire": 3,
+      "Tis": 3,
+      "Dame": 2,
+      "Egypt": 2,
+      "Here": 2,
+      "Notre": 2,
+      "Place": 2,
+      "Hermite": 2
+    }
+  },
+  {
+    "canonical_name": "Gudule",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 19,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "\u201cGudule!"
+      },
+      "3": {
+        "mentions": 7,
+        "snippet": "\u201d said Oudarde, \u201cSister Gudule."
+      }
+    },
+    "co_occurs_with": {
+      "Egypt": 2,
+      "Hole": 2,
+      "Infant Jesus": 2,
+      "Mother": 2,
+      "Rat": 2,
+      "Reims": 2,
+      "Tis": 2,
+      "Alas": 1
+    }
+  },
+  {
+    "canonical_name": "Thunes",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 17,
+    "per_chapter": {
+      "4": {
+        "mentions": 8,
+        "snippet": "Court of Parliament, I, Clopin Trouillefou, king of Thunes, grand"
+      },
+      "6": {
+        "mentions": 9,
+        "snippet": "powerful sovereigns: myself, Clopin Trouillefou, King of Thunes,"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 2,
+      "Clopin Trouillefou": 2,
+      "Duke": 2,
+      "Egypt": 2,
+      "Let": 2,
+      "Master Pierre Gringoire": 2,
+      "Pierre Gringoire": 2,
+      "Are": 1
+    }
+  },
+  {
+    "canonical_name": "Egypt",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 17,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "irritated, mocking intonation: \u201cDaughter of Egypt!"
+      },
+      "3": {
+        "mentions": 4,
+        "snippet": "Egypt, who play the tambourine and tell fortunes to the public."
+      },
+      "4": {
+        "mentions": 5,
+        "snippet": "Egypt, our friend Jehan, and the most daring of the scavengers."
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "Argot; Mathias Hunyadi Spicali, Duke of Egypt and of Bohemia, the"
+      }
+    },
+    "co_occurs_with": {
+      "Pierre Gringoire": 3,
+      "Tis": 3,
+      "Andry the Red": 2,
+      "Clopin Trouillefou": 2,
+      "Duke": 2,
+      "Holy Virgin": 2,
+      "Let": 2,
+      "Listen": 2
+    }
+  },
+  {
+    "canonical_name": "Louis",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 15,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "the king, Louis XI."
+      },
+      "2": {
+        "mentions": 11,
+        "snippet": "since the time of Louis XI."
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "Louis de France says his prayers."
+      }
+    },
+    "co_occurs_with": {
+      "Dieu": 2,
+      "Hermite": 2,
+      "Louvre": 2,
+      "Pasque": 2,
+      "Pierre Gringoire": 2,
+      "Porte Saint": 2,
+      "Tis": 2,
+      "City": 2
+    }
+  },
+  {
+    "canonical_name": "Flemings",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 14,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "Flemings can be seen."
+      },
+      "5": {
+        "mentions": 11,
+        "snippet": "The two Flemings were whispering together."
+      }
+    },
+    "co_occurs_with": {
+      "Tis": 2,
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1
+    }
+  },
+  {
+    "canonical_name": "Louvre",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 13,
+    "per_chapter": {
+      "2": {
+        "mentions": 10,
+        "snippet": "Notre-Dame; the Town, the Louvre and the H\u00f4tel de Ville; the"
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "chamber five toises[64] square, which he had at the Louvre, with"
+      }
+    },
+    "co_occurs_with": {
+      "Louis": 2,
+      "Porte Saint": 2,
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1
+    }
+  },
+  {
+    "canonical_name": "Gothic",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 12,
+    "per_chapter": {
+      "2": {
+        "mentions": 12,
+        "snippet": "have had the good fortune to see a Gothic city entire, complete,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Sister Gudule",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 12,
+    "per_chapter": {
+      "3": {
+        "mentions": 12,
+        "snippet": "\u201d said Oudarde, \u201cSister Gudule."
+      }
+    },
+    "co_occurs_with": {
+      "Andry Musnier": 1,
+      "At the Petit": 1,
+      "Damoiselle Mahiette": 1,
+      "Demoiselle Mahiette": 1,
+      "Demoiselle Oudarde Musnier": 1,
+      "Dr. Scourable": 1,
+      "Egypt": 1,
+      "Egyptian": 1
+    }
+  },
+  {
+    "canonical_name": "Rat",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "her at the Rat-Hole."
+      },
+      "3": {
+        "mentions": 7,
+        "snippet": "the moment when we have directed his attention to the Rat-Hole,"
+      }
+    },
+    "co_occurs_with": {
+      "Egypt": 2,
+      "Gudule": 2,
+      "Hole": 2,
+      "Infant Jesus": 2,
+      "Mother": 2,
+      "Reims": 2,
+      "Tis": 2,
+      "Alas": 1
+    }
+  },
+  {
+    "canonical_name": "Hole",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "her at the Rat-Hole."
+      },
+      "3": {
+        "mentions": 7,
+        "snippet": "the moment when we have directed his attention to the Rat-Hole,"
+      }
+    },
+    "co_occurs_with": {
+      "Egypt": 2,
+      "Gudule": 2,
+      "Infant Jesus": 2,
+      "Mother": 2,
+      "Rat": 2,
+      "Reims": 2,
+      "Tis": 2,
+      "Alas": 1
+    }
+  },
+  {
+    "canonical_name": "Place",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "The aspect of the Place, the vision which"
+      },
+      "4": {
+        "mentions": 7,
+        "snippet": "that it was a crowd\u2014spread over the Place."
+      }
+    },
+    "co_occurs_with": {
+      "Dieu": 2,
+      "Egypt": 2,
+      "Pierre Gringoire": 2,
+      "Tis": 2,
+      "Andry the Red": 1,
+      "By the Pope": 1,
+      "Captain Clopin": 1,
+      "Clopin Trouillefou": 1
+    }
+  },
+  {
+    "canonical_name": "Master Jacques",
+    "aliases": [
+      "Jacques"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 12,
+    "per_chapter": {
+      "5": {
+        "mentions": 12,
+        "snippet": "\u201cTake good care that you do not, Master Jacques."
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Bastille",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 12,
+    "per_chapter": {
+      "5": {
+        "mentions": 12,
+        "snippet": "This edifice was the Bastille."
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1,
+      "Dieu": 1
+    }
+  },
+  {
+    "canonical_name": "Pasque",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "_Pasque-Dieu!"
+      },
+      "5": {
+        "mentions": 9,
+        "snippet": "_Pasque-Dieu!"
+      }
+    },
+    "co_occurs_with": {
+      "Dieu": 2,
+      "Hermite": 2,
+      "Louis": 2,
+      "Pierre Gringoire": 2,
+      "Tis": 2,
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "Come quickly!"
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "City": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1,
+      "Give": 1,
+      "Gudule": 1
+    }
+  },
+  {
+    "canonical_name": "Esmeralda",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "La Esmeralda was sleeping at the moment when the outcasts"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cMademoiselle Esmeralda,\u201d said the poet, \u201clet us come to terms."
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "In what order was he arranging in his mind la Esmeralda, Ph\u0153bus,"
+      }
+    },
+    "co_occurs_with": {
+      "Djali": 2,
+      "Holy Virgin": 2,
+      "Pierre Gringoire": 2,
+      "Tis": 2,
+      "Celestine Fathers": 1,
+      "Jean Mangue": 1,
+      "Mademoiselle Esmeralda": 1,
+      "Pont de Charenton": 1
+    }
+  },
+  {
+    "canonical_name": "Porte Saint",
+    "aliases": [
+      "Saint"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 11,
+    "per_chapter": {
+      "2": {
+        "mentions": 10,
+        "snippet": "were, beginning with la Tournelle, the Porte Saint-Victor, the"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "Saint-Paul; and Monsieur Alphonse, son of the king of Jerusalem,"
+      }
+    },
+    "co_occurs_with": {
+      "Louis": 2,
+      "Louvre": 2,
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1
+    }
+  },
+  {
+    "canonical_name": "King",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 10,
+    "per_chapter": {
+      "6": {
+        "mentions": 10,
+        "snippet": "on recognizing in the King of the Cour des Miracles his accursed"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "Are": 1,
+      "Argot": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1,
+      "Colette la Charonne": 1,
+      "Cour": 1,
+      "Duke": 1
+    }
+  },
+  {
+    "canonical_name": "Martin",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 10,
+    "per_chapter": {
+      "2": {
+        "mentions": 10,
+        "snippet": ") was at the gates of Saint-Denis and Saint-Martin,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Ville",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 10,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Notre-Dame; the Town, the Louvre and the H\u00f4tel de Ville; the"
+      },
+      "3": {
+        "mentions": 7,
+        "snippet": "H\u00f4tel-de-Ville, where they were served with comfits and"
+      }
+    },
+    "co_occurs_with": {
+      "Tour de Nesle": 2,
+      "Andry Musnier": 1,
+      "At the Petit": 1,
+      "Damoiselle Mahiette": 1,
+      "Demoiselle Mahiette": 1,
+      "Demoiselle Oudarde Musnier": 1,
+      "Dr. Scourable": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Lady",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 10,
+    "per_chapter": {
+      "5": {
+        "mentions": 10,
+        "snippet": "And next year, if God and our Lady (here he raised his"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Hermite",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cMy name is Tristan l\u2019Hermite, and I am"
+      },
+      "5": {
+        "mentions": 6,
+        "snippet": "Tristan l\u2019Hermite bowed."
+      }
+    },
+    "co_occurs_with": {
+      "Dieu": 2,
+      "Louis": 2,
+      "Pasque": 2,
+      "Pierre Gringoire": 2,
+      "Tis": 2,
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1
+    }
+  },
+  {
+    "canonical_name": "Clopin Trouillefou",
+    "aliases": [
+      "Clopin"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 9,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "Court of Parliament, I, Clopin Trouillefou, king of Thunes, grand"
+      },
+      "6": {
+        "mentions": 6,
+        "snippet": "was indeed Clopin Trouillefou."
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 2,
+      "Duke": 2,
+      "Egypt": 2,
+      "Let": 2,
+      "Master Pierre Gringoire": 2,
+      "Pierre Gringoire": 2,
+      "Thunes": 2,
+      "Are": 1
+    }
+  },
+  {
+    "canonical_name": "Duke",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 9,
+    "per_chapter": {
+      "4": {
+        "mentions": 5,
+        "snippet": "Trouillefou had placed himself at the apex with the Duke of"
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "Argot; Mathias Hunyadi Spicali, Duke of Egypt and of Bohemia, the"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 2,
+      "Clopin Trouillefou": 2,
+      "Egypt": 2,
+      "Let": 2,
+      "Master Pierre Gringoire": 2,
+      "Pierre Gringoire": 2,
+      "Thunes": 2,
+      "Are": 1
+    }
+  },
+  {
+    "canonical_name": "Djali",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "\u201d continued Gringoire in a tone of reproach, \u201cDjali"
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cWhat dost thou want, Djali?"
+      }
+    },
+    "co_occurs_with": {
+      "Esmeralda": 2,
+      "Holy Virgin": 2,
+      "Pierre Gringoire": 2,
+      "Celestine Fathers": 1,
+      "Jean Mangue": 1,
+      "Mademoiselle Esmeralda": 1,
+      "Pont de Charenton": 1,
+      "Saint John": 1
+    }
+  },
+  {
+    "canonical_name": "Charles",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 9,
+    "per_chapter": {
+      "2": {
+        "mentions": 9,
+        "snippet": "becomes necessary, particularly on the right bank; Charles V."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "City": 1,
+      "Dame de Paris": 1
+    }
+  },
+  {
+    "canonical_name": "Master Coppenole",
+    "aliases": [
+      "Coppenole"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 9,
+    "per_chapter": {
+      "5": {
+        "mentions": 9,
+        "snippet": "\u201cYou think so, Master Coppenole?"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Listen",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cListen!"
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "Listen."
+      }
+    },
+    "co_occurs_with": {
+      "Egypt": 2,
+      "Holy Virgin": 2,
+      "Pierre Gringoire": 2,
+      "Andry the Red": 1,
+      "Are": 1,
+      "Argot": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1
+    }
+  },
+  {
+    "canonical_name": "Are",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 8,
+    "per_chapter": {
+      "5": {
+        "mentions": 5,
+        "snippet": "Are you mad, Olivier?"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "Are you anything of that sort?"
+      }
+    },
+    "co_occurs_with": {
+      "Pierre Gringoire": 2,
+      "Andry the Red": 1,
+      "Argot": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1,
+      "Colette la Charonne": 1,
+      "Cour": 1,
+      "Duke": 1
+    }
+  },
+  {
+    "canonical_name": "Here",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 8,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "Here and there black pitchforks formed horns to the"
+      },
+      "5": {
+        "mentions": 5,
+        "snippet": "Here he smiled, in the consciousness of his power; this softened"
+      }
+    },
+    "co_occurs_with": {
+      "Dame": 2,
+      "Dieu": 2,
+      "Notre": 2,
+      "Pierre Gringoire": 2,
+      "Tis": 2,
+      "Andry the Red": 1,
+      "By the Pope": 1,
+      "Captain Clopin": 1
+    }
+  },
+  {
+    "canonical_name": "Guillaume Rym",
+    "aliases": [
+      "Guillaume",
+      "Rym"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 8,
+    "per_chapter": {
+      "5": {
+        "mentions": 8,
+        "snippet": "Flemish envoys, Guillaume Rym, the sagacious pensioner of Ghent,"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Alas",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "Alas!"
+      }
+    },
+    "co_occurs_with": {
+      "City": 1,
+      "Come": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1,
+      "Give": 1,
+      "Gudule": 1
+    }
+  },
+  {
+    "canonical_name": "Miracles",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 7,
+    "per_chapter": {
+      "6": {
+        "mentions": 7,
+        "snippet": "\u201cIn the Court of Miracles,\u201d replied a fourth spectre, who had"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "Are": 1,
+      "Argot": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1,
+      "Colette la Charonne": 1,
+      "Cour": 1,
+      "Duke": 1
+    }
+  },
+  {
+    "canonical_name": "Tour de Nesle",
+    "aliases": [
+      "Tour"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 7,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "Seine, from the Tournelle to the Tour de Nesle, points which"
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "At the epoch of this history, the cell in the Tour-Roland was"
+      }
+    },
+    "co_occurs_with": {
+      "Ville": 2,
+      "Andry Musnier": 1,
+      "At the Petit": 1,
+      "Damoiselle Mahiette": 1,
+      "Demoiselle Mahiette": 1,
+      "Demoiselle Oudarde Musnier": 1,
+      "Dr. Scourable": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Rue Saint",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 7,
+    "per_chapter": {
+      "2": {
+        "mentions": 6,
+        "snippet": "Saint-Martin: it was called the Rue Saint-Jacques in the"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "H\u00f4tel-Dieu, the other the Rue Saint-Pierre-aux-B\u0153ufs."
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "By the Pope": 1,
+      "Captain Clopin": 1,
+      "Clopin Trouillefou": 1,
+      "Dame": 1,
+      "Dieu": 1,
+      "Dom Claude": 1,
+      "Duke": 1
+    }
+  },
+  {
+    "canonical_name": "Pierre Gringoire",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "\u201cPierre Gringoire."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "And Master Pierre Gringoire?"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "\u201cSire, Pierre Gringoire."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "\u201cIt strikes me, Master Pierre Gringoire,\u201d he said to"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "If you want it, here it is,\u2014Pierre Gringoire."
+      }
+    },
+    "co_occurs_with": {
+      "Egypt": 3,
+      "Holy Virgin": 3,
+      "Dieu": 3,
+      "Tis": 3,
+      "Andry the Red": 2,
+      "Are": 2,
+      "Clopin Trouillefou": 2,
+      "Duke": 2
+    }
+  },
+  {
+    "canonical_name": "Let",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 6,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "Let us return to Notre-Dame."
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "surrounded him, \u201cLet\u2019s take him to the king!"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 2,
+      "Clopin Trouillefou": 2,
+      "Duke": 2,
+      "Egypt": 2,
+      "Master Pierre Gringoire": 2,
+      "Pierre Gringoire": 2,
+      "Thunes": 2,
+      "Are": 1
+    }
+  },
+  {
+    "canonical_name": "Mademoiselle Esmeralda",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 6,
+    "per_chapter": {
+      "7": {
+        "mentions": 6,
+        "snippet": "\u201cMademoiselle Esmeralda,\u201d said the poet, \u201clet us come to terms."
+      }
+    },
+    "co_occurs_with": {
+      "Celestine Fathers": 1,
+      "Djali": 1,
+      "Esmeralda": 1,
+      "Holy Virgin": 1,
+      "Jean Mangue": 1,
+      "Pierre Gringoire": 1,
+      "Pont de Charenton": 1,
+      "Saint John": 1
+    }
+  },
+  {
+    "canonical_name": "Tournelle",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 6,
+    "per_chapter": {
+      "2": {
+        "mentions": 6,
+        "snippet": "Seine, from the Tournelle to the Tour de Nesle, points which"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Antoine",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 6,
+    "per_chapter": {
+      "2": {
+        "mentions": 6,
+        "snippet": "were: the Porte Saint-Antoine, the Porte du Temple, the Porte"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1,
+      "Dame de Paris": 1
+    }
+  },
+  {
+    "canonical_name": "Mother",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "to reclaim you, I shall say to her: \u2018Mother, look at that"
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "the hand, had not abruptly recalled the object to them: \u201cMother,\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Egypt": 2,
+      "Gudule": 2,
+      "Hole": 2,
+      "Infant Jesus": 2,
+      "Rat": 2,
+      "Reims": 2,
+      "Tis": 2,
+      "Alas": 1
+    }
+  },
+  {
+    "canonical_name": "Gossip Jacques",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 6,
+    "per_chapter": {
+      "5": {
+        "mentions": 6,
+        "snippet": "\u201cGossip Jacques, you enter very abruptly!"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Monseigneur",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "\u201cMonseigneur,\u201d said a soldier, \u201che has disappeared."
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "City": 1,
+      "Come": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1,
+      "Give": 1
+    }
+  },
+  {
+    "canonical_name": "Holy Virgin",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "would have said that she was a Holy Virgin at the foot of the"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "Did he address this fragment of litany to the Holy Virgin, or to"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "\u201cHoly Virgin!"
+      }
+    },
+    "co_occurs_with": {
+      "Pierre Gringoire": 3,
+      "Egypt": 2,
+      "Listen": 2,
+      "Djali": 2,
+      "Esmeralda": 2,
+      "Andry the Red": 1,
+      "Are": 1,
+      "Argot": 1
+    }
+  },
+  {
+    "canonical_name": "Andry the Red",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 5,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "\u201c\u2019Tis the moon which threw this log at us,\u201d said Andry the Red."
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "you, Andry the Red, will fling the stool to the ground with a"
+      }
+    },
+    "co_occurs_with": {
+      "Clopin Trouillefou": 2,
+      "Duke": 2,
+      "Egypt": 2,
+      "Let": 2,
+      "Master Pierre Gringoire": 2,
+      "Pierre Gringoire": 2,
+      "Thunes": 2,
+      "Are": 1
+    }
+  },
+  {
+    "canonical_name": "Cour",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 5,
+    "per_chapter": {
+      "6": {
+        "mentions": 5,
+        "snippet": "redoubtable Cour des Miracles, whither an honest man had never"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "Are": 1,
+      "Argot": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1,
+      "Colette la Charonne": 1,
+      "Duke": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Michel",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 5,
+    "per_chapter": {
+      "2": {
+        "mentions": 5,
+        "snippet": "left, the Petit Pont, of stone, the Pont Saint-Michel, of wood;"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Tournelles",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 5,
+    "per_chapter": {
+      "2": {
+        "mentions": 5,
+        "snippet": "the forest of spires of the Palais des Tournelles."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Father Guybertant",
+    "aliases": [
+      "Guybertant"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 5,
+    "per_chapter": {
+      "3": {
+        "mentions": 5,
+        "snippet": "the days when Father Guybertant had earned twelve sous parisian,"
+      }
+    },
+    "co_occurs_with": {
+      "Andry Musnier": 1,
+      "At the Petit": 1,
+      "Damoiselle Mahiette": 1,
+      "Demoiselle Mahiette": 1,
+      "Demoiselle Oudarde Musnier": 1,
+      "Dr. Scourable": 1,
+      "Egypt": 1,
+      "Egyptian": 1
+    }
+  },
+  {
+    "canonical_name": "Egyptian",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 5,
+    "per_chapter": {
+      "3": {
+        "mentions": 5,
+        "snippet": "has the same idea about the Egyptian woman."
+      }
+    },
+    "co_occurs_with": {
+      "Andry Musnier": 1,
+      "At the Petit": 1,
+      "Damoiselle Mahiette": 1,
+      "Demoiselle Mahiette": 1,
+      "Demoiselle Oudarde Musnier": 1,
+      "Dr. Scourable": 1,
+      "Egypt": 1,
+      "Egyptians": 1
+    }
+  },
+  {
+    "canonical_name": "Egyptians",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 5,
+    "per_chapter": {
+      "3": {
+        "mentions": 5,
+        "snippet": "Egyptians."
+      }
+    },
+    "co_occurs_with": {
+      "Andry Musnier": 1,
+      "At the Petit": 1,
+      "Damoiselle Mahiette": 1,
+      "Demoiselle Mahiette": 1,
+      "Demoiselle Oudarde Musnier": 1,
+      "Dr. Scourable": 1,
+      "Egypt": 1,
+      "Egyptian": 1
+    }
+  },
+  {
+    "canonical_name": "Argot",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 4,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "Argot; Mathias Hunyadi Spicali, Duke of Egypt and of Bohemia, the"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "Are": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1,
+      "Colette la Charonne": 1,
+      "Cour": 1,
+      "Duke": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Jew",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 4,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "What Hungarian Jew patter"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "Are": 1,
+      "Argot": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1,
+      "Colette la Charonne": 1,
+      "Cour": 1,
+      "Duke": 1
+    }
+  },
+  {
+    "canonical_name": "Bellevigne",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 4,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "\u201cBellevigne de l\u2019\u00c9toile,\u201d said the King of Thunes to an enormous"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "Are": 1,
+      "Argot": 1,
+      "Clopin Trouillefou": 1,
+      "Colette la Charonne": 1,
+      "Cour": 1,
+      "Duke": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Faubourg",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "At the end of the fifteenth century, the Faubourg"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Pol",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "that miraculous H\u00f4tel de Saint-Pol, where the King of France"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Clopin",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "\u201cCaptain Clopin,\u201d said Andry the Red, \u201che slipped away before we"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "By the Pope": 1,
+      "Clopin Trouillefou": 1,
+      "Dame": 1,
+      "Dieu": 1,
+      "Dom Claude": 1,
+      "Duke": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Ghent",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "Flemish envoys, Guillaume Rym, the sagacious pensioner of Ghent,"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "These",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "\u201cThese be dear beasts,\u201d said Louis XI."
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Burgundy",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "My fair cousin of Burgundy granted"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1,
+      "Dieu": 1
+    }
+  },
+  {
+    "canonical_name": "Good",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "\u2014Good."
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Terrain",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "the door which opened from this court upon the Terrain."
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "City": 1,
+      "Come": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1,
+      "Give": 1
+    }
+  },
+  {
+    "canonical_name": "Have",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u2014Have"
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "City": 1,
+      "Come": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1,
+      "Give": 1
+    }
+  },
+  {
+    "canonical_name": "Give",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cGive me back my child!"
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "City": 1,
+      "Come": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1,
+      "Gudule": 1
+    }
+  },
+  {
+    "canonical_name": "Make",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cMake haste!"
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "City": 1,
+      "Come": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1,
+      "Give": 1
+    }
+  },
+  {
+    "canonical_name": "Master Pierre Gringoire",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "And Master Pierre Gringoire?"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "\u201cIt strikes me, Master Pierre Gringoire,\u201d he said to"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 2,
+      "Clopin Trouillefou": 2,
+      "Duke": 2,
+      "Egypt": 2,
+      "Let": 2,
+      "Pierre Gringoire": 2,
+      "Thunes": 2,
+      "Are": 1
+    }
+  },
+  {
+    "canonical_name": "Hungarian",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "by a large dog, droned through his nose with a Hungarian accent:"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "Are": 1,
+      "Argot": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1,
+      "Colette la Charonne": 1,
+      "Cour": 1,
+      "Duke": 1
+    }
+  },
+  {
+    "canonical_name": "Emperor",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "his head; Guillaume Rousseau, Emperor of Galilee, that fat fellow"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "Are": 1,
+      "Argot": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1,
+      "Colette la Charonne": 1,
+      "Cour": 1,
+      "Duke": 1
+    }
+  },
+  {
+    "canonical_name": "Galilee",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "his head; Guillaume Rousseau, Emperor of Galilee, that fat fellow"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "Are": 1,
+      "Argot": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1,
+      "Colette la Charonne": 1,
+      "Cour": 1,
+      "Duke": 1
+    }
+  },
+  {
+    "canonical_name": "Tour de Billy",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "the Tour de Billy to the Tour du Bois; that is to say, from the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Pont Notre",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "in the direction of the Pont Notre-Dame."
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "bridges: three on the right, the Pont Notre-Dame, and the Pont au"
+      }
+    },
+    "co_occurs_with": {
+      "City": 2,
+      "Louis": 2,
+      "Alas": 1,
+      "Come": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1
+    }
+  },
+  {
+    "canonical_name": "Pont Saint",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "left, the Petit Pont, of stone, the Pont Saint-Michel, of wood;"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Bourg Saint",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "la Tournelle, the Bourg Saint-Victor, with its one arch bridge"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1,
+      "Dame de Paris": 1
+    }
+  },
+  {
+    "canonical_name": "Grand",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "fortresses,\u2014the Grand-Ch\u00e2telet on the right bank, the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Sorbonne",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "University, the Sorbonne."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Victor",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "were, beginning with la Tournelle, the Porte Saint-Victor, the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Bernardins",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "with the Bernardins the grand enclosure adjoining the Tournelle,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1,
+      "Dame de Paris": 1
+    }
+  },
+  {
+    "canonical_name": "Sulpice",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Saint-Sulpice marked one corner of the town."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Abbey",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Saint-Martin, there was the Abbey of Saint-Martin, in the midst"
+      }
+    },
+    "co_occurs_with": {
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1,
+      "Dame de Paris": 1
+    }
+  },
+  {
+    "canonical_name": "Renaissance",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Fifty years later, when the Renaissance began to mingle with this"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Greek",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "arches, Greek columns, and Gothic bases, its sculpture which was"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey": 1,
+      "Antoine": 1,
+      "Ave Maria": 1,
+      "Bernardins": 1,
+      "Bourg Saint": 1,
+      "Catherine de Medicis": 1,
+      "Charles": 1,
+      "City": 1
+    }
+  },
+  {
+    "canonical_name": "Master Eustache",
+    "aliases": [
+      "Eustache"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u2014Master Eustache, I"
+      }
+    },
+    "co_occurs_with": {
+      "Andry Musnier": 1,
+      "At the Petit": 1,
+      "Damoiselle Mahiette": 1,
+      "Demoiselle Mahiette": 1,
+      "Demoiselle Oudarde Musnier": 1,
+      "Dr. Scourable": 1,
+      "Egypt": 1,
+      "Egyptian": 1
+    }
+  },
+  {
+    "canonical_name": "Sister Sainte",
+    "aliases": [
+      "Sainte"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201d said she, \u201cSister Sainte-Gudule!"
+      }
+    },
+    "co_occurs_with": {
+      "Andry Musnier": 1,
+      "At the Petit": 1,
+      "Damoiselle Mahiette": 1,
+      "Demoiselle Mahiette": 1,
+      "Demoiselle Oudarde Musnier": 1,
+      "Dr. Scourable": 1,
+      "Egypt": 1,
+      "Egyptian": 1
+    }
+  },
+  {
+    "canonical_name": "Roland",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "At the epoch of this history, the cell in the Tour-Roland was"
+      }
+    },
+    "co_occurs_with": {
+      "Andry Musnier": 1,
+      "At the Petit": 1,
+      "Damoiselle Mahiette": 1,
+      "Demoiselle Mahiette": 1,
+      "Demoiselle Oudarde Musnier": 1,
+      "Dr. Scourable": 1,
+      "Egypt": 1,
+      "Egyptian": 1
+    }
+  },
+  {
+    "canonical_name": "Pope",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "The Pope had confessed them, it was said,"
+      }
+    },
+    "co_occurs_with": {
+      "Andry Musnier": 1,
+      "At the Petit": 1,
+      "Damoiselle Mahiette": 1,
+      "Demoiselle Mahiette": 1,
+      "Demoiselle Oudarde Musnier": 1,
+      "Dr. Scourable": 1,
+      "Egypt": 1,
+      "Egyptian": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Mignon",
+    "aliases": [
+      "Mignon"
+    ],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "mounted, and set at defiance those of Captain Mignon."
+      }
+    },
+    "co_occurs_with": {
+      "Claude Frollo": 1,
+      "Dom Claude": 1,
+      "Esmeralda": 1,
+      "Tis": 1
+    }
+  },
+  {
+    "canonical_name": "Mahom",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "in succession, the crescent of Mahom, by shaking her domes, which"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "By the Pope": 1,
+      "Captain Clopin": 1,
+      "Clopin Trouillefou": 1,
+      "Dame": 1,
+      "Dieu": 1,
+      "Dom Claude": 1,
+      "Duke": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Pilou",
+    "aliases": [
+      "Pilou"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "seen by old Madame Pilou, celebrated in _Cyrus_ under the name"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Master Guillaume",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "Master Guillaume!"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Marie",
+    "aliases": [
+      "Marie"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "you my ambassador to Madame Marie, at Ghent."
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Alphonse",
+    "aliases": [
+      "Alphonse"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "Saint-Paul; and Monsieur Alphonse, son of the king of Jerusalem,"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Flemish",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "behind them, two men dressed in garments of Flemish style were"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Jupiter",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "In the days of the pagans of Jupiter, when the people"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Hold",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "Hold, Master Olivier; I desire to see that cage myself."
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cVery fine heart of oak,\u201d said the king, striking the woodwork"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Pardieu",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cPardieu, yes sire!"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Flanders",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "forget the old proverb: \u2018The finest county is Flanders; the"
+      }
+    },
+    "co_occurs_with": {
+      "Against": 1,
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
+    }
+  },
+  {
+    "canonical_name": "Against",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "Against the duke, also, sometimes."
+      }
+    },
+    "co_occurs_with": {
+      "Are": 1,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1,
+      "Dieu": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Gibbet",
+    "aliases": [
+      "Gibbet"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Tax and Monsieur Gibbet."
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "City": 1,
+      "Come": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1,
+      "Give": 1
+    }
+  },
+  {
+    "canonical_name": "Help",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cHelp!"
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "City": 1,
+      "Come": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1,
+      "Give": 1
+    }
+  },
+  {
+    "canonical_name": "Pillar",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cThere is one yonder, under the shed of the Pillar-House,\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "City": 1,
+      "Come": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1,
+      "Give": 1
+    }
+  },
+  {
+    "canonical_name": "House",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cThere is one yonder, under the shed of the Pillar-House,\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "City": 1,
+      "Come": 1,
+      "Dieu": 1,
+      "Djali": 1,
+      "Egypt": 1,
+      "Esmeralda": 1,
+      "Give": 1
+    }
+  }
+]

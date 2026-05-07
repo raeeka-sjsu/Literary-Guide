@@ -1,0 +1,2064 @@
+[
+  {
+    "canonical_name": "Sir Henry",
+    "aliases": [
+      "Henry"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 354,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "\u201cBy advising me as to what I should do with Sir Henry"
+      },
+      "4": {
+        "mentions": 24,
+        "snippet": "\u201cPray take a seat, Sir Henry."
+      },
+      "5": {
+        "mentions": 19,
+        "snippet": "is very complex, Sir Henry."
+      },
+      "6": {
+        "mentions": 25,
+        "snippet": "\u201cI beg, Sir Henry, that you will not go"
+      },
+      "7": {
+        "mentions": 45,
+        "snippet": "Sir Henry and I sat at breakfast the sunlight flooded in through"
+      },
+      "8": {
+        "mentions": 28,
+        "snippet": "Both Sir Henry"
+      },
+      "9": {
+        "mentions": 61,
+        "snippet": "\u201d Sir Henry rubbed his hands with pleasure, and it was"
+      },
+      "10": {
+        "mentions": 31,
+        "snippet": "London, the man in the cab, and the letter which warned Sir Henry"
+      },
+      "11": {
+        "mentions": 7,
+        "snippet": "I left Sir Henry"
+      },
+      "12": {
+        "mentions": 40,
+        "snippet": "Had I been with Sir Henry and you it is confident"
+      },
+      "13": {
+        "mentions": 19,
+        "snippet": "Sir Henry was more pleased than surprised to see Sherlock Holmes,"
+      },
+      "14": {
+        "mentions": 23,
+        "snippet": "There were only two men in the room, Sir Henry and Stapleton."
+      },
+      "15": {
+        "mentions": 30,
+        "snippet": "Sir Henry and"
+      }
+    },
+    "co_occurs_with": {
+      "Watson": 11,
+      "Sir Charles": 11,
+      "Dr. Mortimer": 10,
+      "Henry Baskerville": 9,
+      "Sherlock Holmes": 9,
+      "Stapleton": 9,
+      "Baskerville Hall": 8,
+      "Dr. Watson": 8
+    }
+  },
+  {
+    "canonical_name": "Sir Charles",
+    "aliases": [
+      "Charles"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 217,
+    "per_chapter": {
+      "2": {
+        "mentions": 38,
+        "snippet": "Though Sir Charles had resided at Baskerville Hall for"
+      },
+      "3": {
+        "mentions": 21,
+        "snippet": "\u201cHad Sir Charles reached this?"
+      },
+      "5": {
+        "mentions": 29,
+        "snippet": "Barrymore, Sir Charles\u2019s butler, is"
+      },
+      "6": {
+        "mentions": 17,
+        "snippet": "of Sir Charles."
+      },
+      "7": {
+        "mentions": 22,
+        "snippet": "body of Sir Charles, and we had only his word for all the"
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "prepared the plans for Sir Charles, and with a contractor from"
+      },
+      "10": {
+        "mentions": 19,
+        "snippet": "It\u2019s about poor Sir Charles\u2019s death."
+      },
+      "11": {
+        "mentions": 38,
+        "snippet": "\u201cDid you correspond with Sir Charles?"
+      },
+      "12": {
+        "mentions": 6,
+        "snippet": "\u201cThere is Sir Charles\u2019s death."
+      },
+      "13": {
+        "mentions": 8,
+        "snippet": "\u201cYou have confessed that you asked Sir Charles to be at the gate"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "by the desire to frighten old Sir Charles to death."
+      },
+      "15": {
+        "mentions": 13,
+        "snippet": "was a son of that Rodger Baskerville, the younger brother of Sir"
+      }
+    },
+    "co_occurs_with": {
+      "Sir Henry": 11,
+      "Watson": 10,
+      "Dr. Mortimer": 9,
+      "Stapleton": 9,
+      "Baskerville Hall": 8,
+      "Henry Baskerville": 8,
+      "Sherlock Holmes": 8,
+      "Dr. Watson": 7
+    }
+  },
+  {
+    "canonical_name": "Dr. Mortimer",
+    "aliases": [
+      "Mortimer"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 146,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "companion, \u201cthat Dr."
+      },
+      "2": {
+        "mentions": 16,
+        "snippet": "\u201d Dr."
+      },
+      "3": {
+        "mentions": 22,
+        "snippet": "\u201cNow, tell me, Dr."
+      },
+      "4": {
+        "mentions": 34,
+        "snippet": "when Dr."
+      },
+      "5": {
+        "mentions": 16,
+        "snippet": "You did not know, Dr."
+      },
+      "6": {
+        "mentions": 18,
+        "snippet": "There is our friend Dr."
+      },
+      "7": {
+        "mentions": 6,
+        "snippet": "be the inn and the house of Dr."
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "The other day\u2014Thursday, to be more exact\u2014Dr."
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "As I walked back I was overtaken by Dr."
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "Lyons upon the evening before, for Dr."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "delirious in a high fever under the care of Dr."
+      },
+      "15": {
+        "mentions": 14,
+        "snippet": "Dr."
+      }
+    },
+    "co_occurs_with": {
+      "Sir Henry": 10,
+      "Sherlock Holmes": 9,
+      "Watson": 9,
+      "Sir Charles": 9,
+      "Baskerville Hall": 8,
+      "Henry Baskerville": 8,
+      "Dr. Watson": 7,
+      "Mr. Sherlock Holmes": 7
+    }
+  },
+  {
+    "canonical_name": "Watson",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 50,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "Watson."
+      },
+      "3": {
+        "mentions": 6,
+        "snippet": "This is a colleague, Watson, after our own heart."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "Watson,"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "Watson,\u201d said he."
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "Watson,\u201d said he; \u201cbut I have never seen a place to compare with"
+      },
+      "7": {
+        "mentions": 10,
+        "snippet": "Watson,\u201d said he"
+      },
+      "9": {
+        "mentions": 14,
+        "snippet": "\u201cWhat, are _you_ coming, Watson?"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Watson\u2014I tell you straight, sir, that I don\u2019t like"
+      },
+      "11": {
+        "mentions": 6,
+        "snippet": "Watson,\u201d cried he with unwonted good humour, \u201cyou"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "Watson, that\u2019s not you, is it?"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "Watson, has informed me of what you have communicated, and also"
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "You have been inside the house, have you not, Watson?"
+      }
+    },
+    "co_occurs_with": {
+      "Sir Henry": 11,
+      "Sir Charles": 10,
+      "Dr. Mortimer": 9,
+      "Dr. Watson": 9,
+      "Sherlock Holmes": 9,
+      "Baskerville Hall": 8,
+      "Holmes": 7,
+      "Henry Baskerville": 7
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 43,
+    "per_chapter": {
+      "3": {
+        "mentions": 12,
+        "snippet": "There was a"
+      },
+      "4": {
+        "mentions": 9,
+        "snippet": "\u201cThere was no possible indication that we intended to go to this"
+      },
+      "5": {
+        "mentions": 6,
+        "snippet": "\u201cThere were many insignificant sums to individuals, and a large"
+      },
+      "13": {
+        "mentions": 7,
+        "snippet": "There was no mark on any of them, as far as I"
+      },
+      "14": {
+        "mentions": 9,
+        "snippet": "There were only two men in the room, Sir Henry and Stapleton."
+      }
+    },
+    "co_occurs_with": {
+      "Holmes": 5,
+      "Mr. Holmes": 5,
+      "Sir Henry": 5,
+      "Watson": 5,
+      "Dr. Mortimer": 4,
+      "Henry Baskerville": 4,
+      "Sherlock Holmes": 4,
+      "Sir Henry Baskerville": 4
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 37,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "The thick-iron ferrule is worn down, so"
+      },
+      "5": {
+        "mentions": 14,
+        "snippet": "The book showed that two names had been added after that of"
+      },
+      "13": {
+        "mentions": 17,
+        "snippet": "The lamp beat upon his face, and so intent was it and so"
+      }
+    },
+    "co_occurs_with": {
+      "Dr. Watson": 3,
+      "Holmes": 3,
+      "Mr. Holmes": 3,
+      "Sherlock Holmes": 3,
+      "Watson": 3,
+      "Dr. Mortimer": 2,
+      "Mr. Sherlock Holmes": 2,
+      "Baker Street": 2
+    }
+  },
+  {
+    "canonical_name": "Holmes",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 34,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Holmes, a picker up of shells on the"
+      },
+      "2": {
+        "mentions": 4,
+        "snippet": "Holmes, we will give you something a little more"
+      },
+      "3": {
+        "mentions": 5,
+        "snippet": "Holmes, without disclosing these"
+      },
+      "4": {
+        "mentions": 9,
+        "snippet": "Holmes."
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "Holmes, but they\u2019ve got a bit over the mark this time."
+      },
+      "9": {
+        "mentions": 7,
+        "snippet": "I wonder what your friend Holmes"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "Holmes,\u201d she said, \u201cthis man had offered me marriage on"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Holmes."
+      }
+    },
+    "co_occurs_with": {
+      "Mr. Holmes": 7,
+      "Watson": 7,
+      "Dr. Mortimer": 6,
+      "Sherlock Holmes": 6,
+      "Sir Charles": 6,
+      "Sir Henry": 6,
+      "Henry Baskerville": 5,
+      "There": 5
+    }
+  },
+  {
+    "canonical_name": "Barrymore",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 34,
+    "per_chapter": {
+      "2": {
+        "mentions": 7,
+        "snippet": "Hall consisted of a married couple named Barrymore, the"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "Barrymore, Baskerville Hall."
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "Barrymore couple?"
+      },
+      "7": {
+        "mentions": 6,
+        "snippet": "Barrymore in the long corridor with the sun"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Barrymore is of interest to me."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "Barrymore, of the"
+      },
+      "10": {
+        "mentions": 13,
+        "snippet": "Barrymore it might possibly have"
+      }
+    },
+    "co_occurs_with": {
+      "Dr. Mortimer": 6,
+      "Sherlock Holmes": 6,
+      "Sir Charles": 6,
+      "Sir Henry": 6,
+      "Baskerville Hall": 5,
+      "Henry Baskerville": 5,
+      "Mr. Sherlock Holmes": 5,
+      "Stapleton": 5
+    }
+  },
+  {
+    "canonical_name": "Sir Henry Baskerville",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 29,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "\u201cBy advising me as to what I should do with Sir Henry"
+      },
+      "4": {
+        "mentions": 9,
+        "snippet": "\u201cThis is Sir Henry Baskerville,\u201d said Dr."
+      },
+      "5": {
+        "mentions": 6,
+        "snippet": "\u201cSir Henry Baskerville is upstairs expecting you,\u201d said the"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "Sir Henry Baskerville upon the moor."
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "\u201cI imagine that it must be Sir Henry Baskerville."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Let me, therefore, return to the facts concerning Sir"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "within us\u2014the body of Sir Henry Baskerville!"
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "arrive you will send a wire to Sir Henry Baskerville, in my name,"
+      }
+    },
+    "co_occurs_with": {
+      "Henry Baskerville": 8,
+      "Sir Henry": 8,
+      "Sherlock Holmes": 7,
+      "Watson": 7,
+      "Dr. Mortimer": 6,
+      "Dr. Watson": 6,
+      "Mr. Sherlock Holmes": 6,
+      "Sir Charles": 6
+    }
+  },
+  {
+    "canonical_name": "Mr. Holmes",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 27,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cA dabbler in science, Mr."
+      },
+      "2": {
+        "mentions": 4,
+        "snippet": "\u201cNow, Mr."
+      },
+      "3": {
+        "mentions": 5,
+        "snippet": "\u201cI could not call you in, Mr."
+      },
+      "4": {
+        "mentions": 9,
+        "snippet": "\u201cNothing of much importance, Mr."
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "best, Mr."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "\u201cMr."
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "\u201cYou\u2019re mighty close about this affair, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Holmes": 7,
+      "Dr. Mortimer": 6,
+      "Sherlock Holmes": 6,
+      "Watson": 6,
+      "Henry Baskerville": 5,
+      "Sir Charles": 5,
+      "Sir Henry": 5,
+      "There": 5
+    }
+  },
+  {
+    "canonical_name": "Dr. Watson",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 26,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "\u201cNo, this is my friend Dr."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "Suppose you and your friend, Dr."
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "\u201cWell, now, that is real kind of you, Dr."
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "\u201cI\u2019ve been over a good part of the world since I left it, Dr."
+      },
+      "7": {
+        "mentions": 10,
+        "snippet": "\u201cYou will, I am sure, excuse my presumption, Dr."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "like it, Dr."
+      },
+      "11": {
+        "mentions": 6,
+        "snippet": "\u201cGood-day, Dr."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "\u201cWhy, Dr."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "\u201cMy friend here, Dr."
+      }
+    },
+    "co_occurs_with": {
+      "Watson": 9,
+      "Sherlock Holmes": 8,
+      "Sir Henry": 8,
+      "Dr. Mortimer": 7,
+      "Baskerville Hall": 7,
+      "Sir Charles": 7,
+      "Mr. Sherlock Holmes": 6,
+      "Henry Baskerville": 6
+    }
+  },
+  {
+    "canonical_name": "Sir Charles Baskerville",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 26,
+    "per_chapter": {
+      "2": {
+        "mentions": 11,
+        "snippet": "\u201cThis family paper was committed to my care by Sir"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "You say that before Sir"
+      },
+      "11": {
+        "mentions": 8,
+        "snippet": "Coombe Tracey had written to Sir Charles Baskerville and made an"
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "the late Sir Charles Baskerville,\u201d said he."
+      },
+      "15": {
+        "mentions": 4,
+        "snippet": "was to cultivate a friendship with Sir Charles Baskerville and"
+      }
+    },
+    "co_occurs_with": {
+      "Charles Baskerville": 5,
+      "Sir Charles": 5,
+      "Dr. Mortimer": 4,
+      "Henry Baskerville": 4,
+      "Stapleton": 4,
+      "Sir Henry": 4,
+      "Holmes": 3,
+      "Mr. Holmes": 3
+    }
+  },
+  {
+    "canonical_name": "Baskerville Hall",
+    "aliases": [
+      "Hall"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 26,
+    "per_chapter": {
+      "2": {
+        "mentions": 7,
+        "snippet": "At the head was written: \u201cBaskerville Hall,\u201d and below in"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "is not advisable for you to go to Baskerville Hall."
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cTo go to Baskerville Hall."
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "\u201cBaskerville Hall,\u201d said he."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "upon both of us by our first experience of Baskerville Hall."
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "last occupant of the Hall, fulfilling so exactly the conditions"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "to Baskerville Hall if she really had been, for a trap would be"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "be at Baskerville Hall."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "to the Hall and to the scene of action."
+      }
+    },
+    "co_occurs_with": {
+      "Dr. Mortimer": 8,
+      "Sherlock Holmes": 8,
+      "Sir Charles": 8,
+      "Sir Henry": 8,
+      "Watson": 8,
+      "Dr. Watson": 7,
+      "Henry Baskerville": 6,
+      "Mr. Sherlock Holmes": 6
+    }
+  },
+  {
+    "canonical_name": "Henry Baskerville",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 25,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Henry Baskerville,"
+      },
+      "3": {
+        "mentions": 5,
+        "snippet": "\u201cBy advising me as to what I should do with Sir Henry"
+      },
+      "4": {
+        "mentions": 7,
+        "snippet": "\u201cThis is Sir Henry Baskerville,\u201d said Dr."
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "\u201cSir Henry Baskerville is upstairs expecting you,\u201d said the"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "Sir Henry Baskerville upon the moor."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "\u201cI imagine that it must be Sir Henry Baskerville."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Henry Baskerville."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "within us\u2014the body of Sir Henry Baskerville!"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "arrive you will send a wire to Sir Henry Baskerville, in my name,"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "details about the arrival of Henry Baskerville."
+      }
+    },
+    "co_occurs_with": {
+      "Sir Henry": 9,
+      "Dr. Mortimer": 8,
+      "Sherlock Holmes": 8,
+      "Sir Charles": 8,
+      "Sir Henry Baskerville": 8,
+      "Mr. Sherlock Holmes": 7,
+      "Watson": 7,
+      "Baskerville Hall": 6
+    }
+  },
+  {
+    "canonical_name": "Stapleton",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 24,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "Stapleton, the naturalist,"
+      },
+      "7": {
+        "mentions": 7,
+        "snippet": "Stapleton was a naturalist."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "there that Sir Henry made the acquaintance of Miss Stapleton."
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "woman than he is with our beautiful neighbour, Miss Stapleton."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Stapleton\u2019s house, for example, with no one but himself to defend"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "Stapleton, a neighbour and intimate"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "The lady who has passed here as Miss Stapleton is"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "Stapleton but his"
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "Stapleton sank upon the floor in front of us."
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "Stapleton, and the case"
+      }
+    },
+    "co_occurs_with": {
+      "Sir Charles": 9,
+      "Sir Henry": 9,
+      "Dr. Mortimer": 7,
+      "Sherlock Holmes": 7,
+      "Watson": 7,
+      "Baskerville Hall": 6,
+      "Henry Baskerville": 6,
+      "Barrymore": 5
+    }
+  },
+  {
+    "canonical_name": "Sherlock Holmes",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 22,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Sherlock Holmes, who was usually very late in the mornings,"
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "Sherlock Holmes."
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "Sherlock"
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "Sherlock Holmes."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "Sherlock Holmes drove with me to the station and gave me his last"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "Sherlock Holmes?"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Sherlock Holmes which lie"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "forwarded during these early days to Sherlock Holmes."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Sherlock Holmes?"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "Sir Henry was more pleased than surprised to see Sherlock Holmes,"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "One of Sherlock Holmes\u2019s defects\u2014if, indeed, one may call it a"
+      }
+    },
+    "co_occurs_with": {
+      "Dr. Mortimer": 9,
+      "Watson": 9,
+      "Sir Henry": 9,
+      "Dr. Watson": 8,
+      "Mr. Sherlock Holmes": 8,
+      "Baskerville Hall": 8,
+      "Henry Baskerville": 8,
+      "Sir Charles": 8
+    }
+  },
+  {
+    "canonical_name": "Miss Stapleton",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 21,
+    "per_chapter": {
+      "7": {
+        "mentions": 12,
+        "snippet": "I could not doubt that this was the Miss Stapleton of whom I had"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "there that Sir Henry made the acquaintance of Miss Stapleton."
+      },
+      "9": {
+        "mentions": 5,
+        "snippet": "woman than he is with our beautiful neighbour, Miss Stapleton."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "The lady who has passed here as Miss Stapleton is"
+      }
+    },
+    "co_occurs_with": {
+      "Sir Henry": 4,
+      "Stapleton": 4,
+      "Barrymore": 3,
+      "Did": 3,
+      "Henry Baskerville": 3,
+      "Mr. Sherlock Holmes": 3,
+      "Mrs. Barrymore": 3,
+      "Sherlock Holmes": 3
+    }
+  },
+  {
+    "canonical_name": "Laura Lyons",
+    "aliases": [
+      "Lyons"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 21,
+    "per_chapter": {
+      "10": {
+        "mentions": 2,
+        "snippet": "\u201cThere is Laura Lyons\u2014her initials are L."
+      },
+      "11": {
+        "mentions": 6,
+        "snippet": "Laura Lyons of"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "Laura Lyons?"
+      },
+      "13": {
+        "mentions": 5,
+        "snippet": "Laura Lyons."
+      },
+      "15": {
+        "mentions": 4,
+        "snippet": "Laura Lyons."
+      }
+    },
+    "co_occurs_with": {
+      "Mrs. Laura Lyons": 5,
+      "Sir Charles": 5,
+      "Sir Henry": 5,
+      "Stapleton": 5,
+      "Baker Street": 4,
+      "Dr. Watson": 4,
+      "Watson": 4,
+      "Coombe Tracey": 4
+    }
+  },
+  {
+    "canonical_name": "Charles Baskerville",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 17,
+    "per_chapter": {
+      "2": {
+        "mentions": 9,
+        "snippet": "Charles Baskerville, whose sudden and tragic death some three"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "Charles Baskerville\u2019s death several people saw this apparition"
+      },
+      "11": {
+        "mentions": 4,
+        "snippet": "Coombe Tracey had written to Sir Charles Baskerville and made an"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "the late Sir Charles Baskerville,\u201d said he."
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "was to cultivate a friendship with Sir Charles Baskerville and"
+      }
+    },
+    "co_occurs_with": {
+      "Sir Charles": 5,
+      "Sir Charles Baskerville": 5,
+      "Dr. Mortimer": 4,
+      "Henry Baskerville": 4,
+      "Stapleton": 4,
+      "Sir Henry": 4,
+      "Holmes": 3,
+      "Mr. Holmes": 3
+    }
+  },
+  {
+    "canonical_name": "Did",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 15,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cDid you, for example, happen to hear someone, a woman"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "Did the pale,"
+      },
+      "9": {
+        "mentions": 5,
+        "snippet": "Did you see him come out on us?"
+      },
+      "11": {
+        "mentions": 4,
+        "snippet": "\u201cDid you correspond with him?"
+      }
+    },
+    "co_occurs_with": {
+      "Sir Henry": 4,
+      "Stapleton": 4,
+      "Barrymore": 3,
+      "Dr. Mortimer": 3,
+      "Grimpen Mire": 3,
+      "Miss Stapleton": 3,
+      "Mrs. Barrymore": 3,
+      "Sir Charles": 3
+    }
+  },
+  {
+    "canonical_name": "Coombe Tracey",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 13,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "from Coombe Tracey, and it was addressed in a woman\u2019s hand."
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "care to accompany me to Coombe Tracey."
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "We will drive in to Coombe Tracey,"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "was paid off and ordered to return to Coombe Tracey forthwith,"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201cDriving back in the evening from Coombe Tracey he was in time to"
+      }
+    },
+    "co_occurs_with": {
+      "Sir Charles": 5,
+      "Sir Henry": 5,
+      "Stapleton": 5,
+      "Dr. Mortimer": 4,
+      "Laura Lyons": 4,
+      "Mrs. Laura Lyons": 4,
+      "Watson": 4,
+      "Baker Street": 3
+    }
+  },
+  {
+    "canonical_name": "Mr. Sherlock Holmes",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "pushed his spectacles up on his forehead and stared across at Mr."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "\u201cWhy, yes,\u201d said he, \u201cand the strange thing is, Mr."
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cHis name,\u201d said the cabman, \u201cwas Mr."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "Mr."
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "\u201cHas Mr."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "transcribing my own letters to Mr."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "think about it, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Sherlock Holmes": 8,
+      "Dr. Mortimer": 7,
+      "Henry Baskerville": 7,
+      "Dr. Watson": 6,
+      "Watson": 6,
+      "Baskerville Hall": 6,
+      "Sir Henry": 6,
+      "Sir Henry Baskerville": 6
+    }
+  },
+  {
+    "canonical_name": "Grimpen Mire",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 12,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cThat is the great Grimpen Mire,\u201d said he."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "the borders of the great Grimpen Mire."
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "by the distant pools which lay amid the great Grimpen Mire."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "I have said that over the great Grimpen Mire there hung a dense,"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "to penetrate the Grimpen Mire, and so had found a safe"
+      }
+    },
+    "co_occurs_with": {
+      "Sir Charles": 5,
+      "Sir Henry": 5,
+      "Stapleton": 5,
+      "Dr. Mortimer": 4,
+      "Watson": 4,
+      "Baskerville Hall": 3,
+      "Did": 3,
+      "Merripit House": 3
+    }
+  },
+  {
+    "canonical_name": "Devonshire",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 10,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "Devonshire."
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "post in Devonshire or not."
+      },
+      "15": {
+        "mentions": 4,
+        "snippet": "Devonshire he had been engaged in two affairs of the utmost"
+      }
+    },
+    "co_occurs_with": {
+      "Dr. Mortimer": 3,
+      "Henry Baskerville": 3,
+      "Sir Charles": 3,
+      "Sir Henry": 3,
+      "Baker Street": 2,
+      "Holmes": 2,
+      "Mr. Holmes": 2,
+      "Sir Henry Baskerville": 2
+    }
+  },
+  {
+    "canonical_name": "Baker Street",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 10,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "wire at Baker Street before evening."
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "we followed down Baker Street and along\u2014\u201d"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "very busy of late, for the notes which I had from Baker Street"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "as perfect as if he were in Baker Street."
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "cork, and a card, and we add him to the Baker Street collection!"
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "in Baker Street."
+      }
+    },
+    "co_occurs_with": {
+      "Sir Henry": 6,
+      "Dr. Watson": 5,
+      "Henry Baskerville": 5,
+      "Sherlock Holmes": 5,
+      "Watson": 5,
+      "Sir Charles": 5,
+      "Baskerville Hall": 4,
+      "Dr. Mortimer": 4
+    }
+  },
+  {
+    "canonical_name": "Mrs. Laura Lyons",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 10,
+    "per_chapter": {
+      "10": {
+        "mentions": 1,
+        "snippet": "this Mrs."
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "two facts of great importance, the one that Mrs."
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "\u201cTo see Mrs."
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "calling upon your acquaintance, Mrs."
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Laura Lyons": 5,
+      "Sir Charles": 5,
+      "Sir Henry": 5,
+      "Stapleton": 5,
+      "Baker Street": 4,
+      "Dr. Watson": 4,
+      "Watson": 4,
+      "Coombe Tracey": 4
+    }
+  },
+  {
+    "canonical_name": "Mrs. Lyons",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 10,
+    "per_chapter": {
+      "11": {
+        "mentions": 5,
+        "snippet": "Mrs."
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "Mrs."
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "He therefore put pressure upon Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Charles Baskerville": 3,
+      "Coombe Tracey": 3,
+      "Laura Lyons": 3,
+      "Mrs. Laura Lyons": 3,
+      "Sir Charles": 3,
+      "Sir Charles Baskerville": 3,
+      "Sir Henry": 3,
+      "Stapleton": 3
+    }
+  },
+  {
+    "canonical_name": "Lestrade",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 10,
+    "per_chapter": {
+      "13": {
+        "mentions": 3,
+        "snippet": "Lestrade."
+      },
+      "14": {
+        "mentions": 7,
+        "snippet": "\u201cAre you armed, Lestrade?"
+      }
+    },
+    "co_occurs_with": {
+      "Coombe Tracey": 2,
+      "Holmes": 2,
+      "Merripit House": 2,
+      "Mr. Holmes": 2,
+      "Sherlock Holmes": 2,
+      "Sir Charles": 2,
+      "Sir Henry": 2,
+      "Stapleton": 2
+    }
+  },
+  {
+    "canonical_name": "Frankland",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 9,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Frankland, of Lafter Hall, and Mr."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "Frankland, of Lafter Hall, who is also an unknown factor,"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Frankland, of Lafter Hall, who lives some four miles to the south"
+      },
+      "10": {
+        "mentions": 5,
+        "snippet": "thinner than that of Frankland."
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "Frankland, who was standing, grey-whiskered"
+      }
+    },
+    "co_occurs_with": {
+      "Dr. Mortimer": 5,
+      "Barrymore": 4,
+      "Baskerville Hall": 4,
+      "Mr. Frankland": 4,
+      "Sherlock Holmes": 4,
+      "Sir Charles": 4,
+      "Stapleton": 4,
+      "Sir Henry": 4
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 9,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "Very stealthily we heard it pass along until it died away in the"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cVery good, Barrymore; you can go."
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "\u201cVery good; and I will ask you also to do it blindly, without"
+      }
+    },
+    "co_occurs_with": {
+      "Sir Charles": 3,
+      "Sir Henry": 3,
+      "Stapleton": 3,
+      "Watson": 3,
+      "Baker Street": 2,
+      "Barrymore": 2,
+      "Coombe Tracey": 2,
+      "Dr. Watson": 2
+    }
+  },
+  {
+    "canonical_name": "Selden",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 9,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "and learned that you had been chasing Selden."
+      },
+      "12": {
+        "mentions": 5,
+        "snippet": "light of the candle from over the rock\u2014the face of Selden, the"
+      }
+    },
+    "co_occurs_with": {
+      "Baker Street": 2,
+      "Baskerville Hall": 2,
+      "Dr. Watson": 2,
+      "Laura Lyons": 2,
+      "Mrs. Laura Lyons": 2,
+      "Sherlock Holmes": 2,
+      "Sir Charles": 2,
+      "Sir Henry": 2
+    }
+  },
+  {
+    "canonical_name": "Merripit House",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 8,
+    "per_chapter": {
+      "7": {
+        "mentions": 2,
+        "snippet": "am Stapleton, of Merripit House."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "On our way back we stayed for lunch at Merripit House, and it was"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "I wish you to drive to Merripit House."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "while we started to walk to Merripit House."
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "manservant at Merripit House, whose name was Anthony."
+      }
+    },
+    "co_occurs_with": {
+      "Sir Henry": 5,
+      "Stapleton": 5,
+      "Dr. Mortimer": 4,
+      "Henry Baskerville": 4,
+      "Sherlock Holmes": 4,
+      "Sir Charles": 4,
+      "Grimpen Mire": 3,
+      "Sir Henry Baskerville": 3
+    }
+  },
+  {
+    "canonical_name": "Exactly",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 7,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cExactly."
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "\u201cExactly."
+      }
+    },
+    "co_occurs_with": {
+      "Henry Baskerville": 2,
+      "Sir Charles": 2,
+      "Sir Henry": 2,
+      "Sir Henry Baskerville": 2,
+      "Watson": 2,
+      "Baker Street": 1,
+      "Baskerville Hall": 1,
+      "Because": 1
+    }
+  },
+  {
+    "canonical_name": "Regent Street",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 7,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "behind, we followed into Oxford Street and so down Regent Street."
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "the two gentlemen down Regent Street."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "the cab in Regent Street?"
+      }
+    },
+    "co_occurs_with": {
+      "Baskerville Hall": 3,
+      "Dr. Mortimer": 3,
+      "Dr. Watson": 3,
+      "Henry Baskerville": 3,
+      "Mr. Sherlock Holmes": 3,
+      "Sherlock Holmes": 3,
+      "Sir Henry": 3,
+      "Sir Henry Baskerville": 3
+    }
+  },
+  {
+    "canonical_name": "Because",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 7,
+    "per_chapter": {
+      "11": {
+        "mentions": 4,
+        "snippet": "\u201cBecause I had only just learned that he was going to London next"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "\u201cBecause he foresaw that she would be very much more useful to"
+      }
+    },
+    "co_occurs_with": {
+      "Baskerville Hall": 2,
+      "Dr. Watson": 2,
+      "Laura Lyons": 2,
+      "Mrs. Laura Lyons": 2,
+      "Sir Charles": 2,
+      "Sir Henry": 2,
+      "Stapleton": 2,
+      "Watson": 2
+    }
+  },
+  {
+    "canonical_name": "Mrs. Stapleton",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 7,
+    "per_chapter": {
+      "14": {
+        "mentions": 2,
+        "snippet": "minute we had torn off the gag, unswathed the bonds, and Mrs."
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "advantage of two conversations with Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Coombe Tracey": 2,
+      "Dr. Mortimer": 2,
+      "Grimpen Mire": 2,
+      "Merripit House": 2,
+      "Sir Charles": 2,
+      "Sir Henry": 2,
+      "Stapleton": 2,
+      "Baskerville Hall": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Stapleton",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 6,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "Frankland, of Lafter Hall, and Mr."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "knew that Mr."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Look at Mr."
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "One was Mr."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "evidence may implicate not only your friend Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Sir Charles": 5,
+      "Stapleton": 5,
+      "Baskerville Hall": 4,
+      "Dr. Mortimer": 4,
+      "Sherlock Holmes": 4,
+      "Dr. Watson": 4,
+      "Sir Henry": 4,
+      "Watson": 4
+    }
+  },
+  {
+    "canonical_name": "Northumberland Hotel",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 6,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "Baskerville, Northumberland Hotel,\u201d was printed in rough"
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "the Northumberland Hotel."
+      }
+    },
+    "co_occurs_with": {
+      "Baker Street": 2,
+      "Baskerville Hall": 2,
+      "Dr. Mortimer": 2,
+      "Dr. Watson": 2,
+      "Henry Baskerville": 2,
+      "Holmes": 2,
+      "Mr. Holmes": 2,
+      "Mr. Sherlock Holmes": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Barrymore",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 6,
+    "per_chapter": {
+      "5": {
+        "mentions": 2,
+        "snippet": "Address to Mr."
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "\u201cCertainly, sir,\u201d said he, \u201cI had the telegram delivered to Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Barrymore": 2,
+      "Baskerville Hall": 2,
+      "Dr. Mortimer": 2,
+      "Dr. Watson": 2,
+      "Henry Baskerville": 2,
+      "Mr. Sherlock Holmes": 2,
+      "Regent Street": 2,
+      "Sherlock Holmes": 2
+    }
+  },
+  {
+    "canonical_name": "Stapletons",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 6,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "moments when I have thought of the Stapletons."
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "friends the Stapletons tonight."
+      }
+    },
+    "co_occurs_with": {
+      "Henry Baskerville": 2,
+      "Merripit House": 2,
+      "Sherlock Holmes": 2,
+      "Sir Henry": 2,
+      "Sir Henry Baskerville": 2,
+      "Stapleton": 2,
+      "Barrymore": 1,
+      "Did": 1
+    }
+  },
+  {
+    "canonical_name": "Lafter Hall",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 5,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Frankland, of Lafter Hall, and Mr."
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "Here is Lafter Hall,"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "Frankland, of Lafter Hall, who is also an unknown factor,"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "Frankland, of Lafter Hall, who lives some four miles to the south"
+      }
+    },
+    "co_occurs_with": {
+      "Dr. Mortimer": 4,
+      "Henry Baskerville": 4,
+      "Barrymore": 3,
+      "Frankland": 3,
+      "Mr. Frankland": 3,
+      "Mr. Sherlock Holmes": 3,
+      "Sherlock Holmes": 3,
+      "Sir Charles": 3
+    }
+  },
+  {
+    "canonical_name": "Mrs. Barrymore",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 5,
+    "per_chapter": {
+      "7": {
+        "mentions": 2,
+        "snippet": "breakfast I met Mrs."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Mrs."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "in the night, of the tear-stained face of Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Barrymore": 3,
+      "Did": 3,
+      "Miss Stapleton": 3,
+      "Sir Henry": 3,
+      "Stapleton": 3,
+      "Dr. Mortimer": 2,
+      "Grimpen Mire": 2,
+      "Henry Baskerville": 2
+    }
+  },
+  {
+    "canonical_name": "Dr. James Mortimer",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "What does Dr."
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "\u201cI have in my pocket a manuscript,\u201d said Dr."
+      }
+    },
+    "co_occurs_with": {
+      "Dr. Mortimer": 2,
+      "Holmes": 2,
+      "James Mortimer": 2,
+      "Mr. Holmes": 2,
+      "Mr. Sherlock Holmes": 2,
+      "Sherlock Holmes": 2,
+      "Charing Cross": 1,
+      "Charing Cross Hospital": 1
+    }
+  },
+  {
+    "canonical_name": "James Mortimer",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "James Mortimer, the man of science, ask of Sherlock"
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "James Mortimer."
+      }
+    },
+    "co_occurs_with": {
+      "Dr. James Mortimer": 2,
+      "Dr. Mortimer": 2,
+      "Holmes": 2,
+      "Mr. Holmes": 2,
+      "Mr. Sherlock Holmes": 2,
+      "Sherlock Holmes": 2,
+      "Charing Cross": 1,
+      "Charing Cross Hospital": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Frankland",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "With the exception of Mr."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "is Mr."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "This is Mr."
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "none other than Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Dr. Mortimer": 4,
+      "Frankland": 4,
+      "Barrymore": 3,
+      "Baskerville Hall": 3,
+      "Henry Baskerville": 3,
+      "Lafter Hall": 3,
+      "Mr. Sherlock Holmes": 3,
+      "Sherlock Holmes": 3
+    }
+  },
+  {
+    "canonical_name": "Hugo Baskerville",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "words used by Hugo Baskerville, when he was in wine, were"
+      }
+    },
+    "co_occurs_with": {
+      "Barrymore": 1,
+      "Baskerville Hall": 1,
+      "Charles Baskerville": 1,
+      "Dr. James Mortimer": 1,
+      "Dr. Mortimer": 1,
+      "Frankland": 1,
+      "Great Rebellion": 1,
+      "Henry Baskerville": 1
+    }
+  },
+  {
+    "canonical_name": "Waterloo Station",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 4,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "Baskerville, who arrives at Waterloo Station\u201d\u2014Dr."
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "Shipley\u2019s Yard, near Waterloo Station."
+      }
+    },
+    "co_occurs_with": {
+      "Devonshire": 2,
+      "Dr. Mortimer": 2,
+      "Henry Baskerville": 2,
+      "Holmes": 2,
+      "Mr. Holmes": 2,
+      "Sir Charles": 2,
+      "Sir Henry": 2,
+      "Sir Henry Baskerville": 2
+    }
+  },
+  {
+    "canonical_name": "Mrs. Oldmore",
+    "aliases": [
+      "Oldmore"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "the other Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Baker Street": 1,
+      "Barrymore": 1,
+      "Baskerville Hall": 1,
+      "Devonshire": 1,
+      "Did Barrymore": 1,
+      "Dr. Mortimer": 1,
+      "Dr. Watson": 1,
+      "Have": 1
+    }
+  },
+  {
+    "canonical_name": "Have",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "\u201cHave you any objection to my looking at your register?"
+      }
+    },
+    "co_occurs_with": {
+      "Baker Street": 1,
+      "Barrymore": 1,
+      "Baskerville Hall": 1,
+      "Devonshire": 1,
+      "Did Barrymore": 1,
+      "Dr. Mortimer": 1,
+      "Dr. Watson": 1,
+      "Henry Baskerville": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Vandeleur",
+    "aliases": [
+      "Vandeleur"
+    ],
+    "first_chapter": 13,
+    "total_mentions": 4,
+    "per_chapter": {
+      "13": {
+        "mentions": 4,
+        "snippet": "and Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Admiral Baskerville": 1,
+      "Baker Street": 1,
+      "Charles Baskerville": 1,
+      "Coombe Tracey": 1,
+      "Dr. Watson": 1,
+      "Grimpen Road": 1,
+      "Henry Baskerville": 1,
+      "Holmes": 1
+    }
+  },
+  {
+    "canonical_name": "Charing Cross",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "\u2018Charing Cross\u2019 very naturally suggest themselves."
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "characters; the post-mark \u201cCharing Cross,\u201d and the date of"
+      }
+    },
+    "co_occurs_with": {
+      "Dr. Mortimer": 2,
+      "Dr. Watson": 2,
+      "Holmes": 2,
+      "Mr. Holmes": 2,
+      "Mr. Sherlock Holmes": 2,
+      "Sherlock Holmes": 2,
+      "Watson": 2,
+      "Charing Cross Hospital": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Clarendon",
+    "aliases": [
+      "Clarendon"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "history of which by the learned Lord Clarendon I most"
+      }
+    },
+    "co_occurs_with": {
+      "Barrymore": 1,
+      "Baskerville Hall": 1,
+      "Charles Baskerville": 1,
+      "Dr. James Mortimer": 1,
+      "Dr. Mortimer": 1,
+      "Frankland": 1,
+      "Great Rebellion": 1,
+      "Henry Baskerville": 1
+    }
+  },
+  {
+    "canonical_name": "None",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cNone."
+      }
+    },
+    "co_occurs_with": {
+      "Charles Baskerville": 1,
+      "Devonshire": 1,
+      "Dr. Mortimer": 1,
+      "Exactly": 1,
+      "Had Sir Charles": 1,
+      "Henry Baskerville": 1,
+      "Holmes": 1,
+      "Lafter Hall": 1
+    }
+  },
+  {
+    "canonical_name": "Perhaps",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201cPerhaps then he pays a visit every night to that particular"
+      }
+    },
+    "co_occurs_with": {
+      "Barrymore": 1,
+      "Cleft Tor": 1,
+      "Did": 1,
+      "Grimpen Mire": 1,
+      "Holmes": 1,
+      "Miss Stapleton": 1,
+      "Mrs. Barrymore": 1,
+      "Sir Charles": 1
+    }
+  },
+  {
+    "canonical_name": "Colonel Upwood",
+    "aliases": [
+      "Upwood"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "conduct of Colonel Upwood in connection with the famous card"
+      }
+    },
+    "co_occurs_with": {
+      "Baker Street": 1,
+      "Beryl Garcia": 1,
+      "British Museum": 1,
+      "Charles Baskerville": 1,
+      "Coombe Tracey": 1,
+      "Costa Rica": 1,
+      "De Reszkes": 1,
+      "Devonshire": 1
+    }
+  },
+  {
+    "canonical_name": "Spanish",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "while Antonio is so in all Spanish or Spanish-American countries."
+      }
+    },
+    "co_occurs_with": {
+      "Baker Street": 1,
+      "Beryl Garcia": 1,
+      "British Museum": 1,
+      "Charles Baskerville": 1,
+      "Colonel Upwood": 1,
+      "Coombe Tracey": 1,
+      "Costa Rica": 1,
+      "De Reszkes": 1
+    }
+  }
+]

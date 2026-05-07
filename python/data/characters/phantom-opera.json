@@ -1,0 +1,2696 @@
+[
+  {
+    "canonical_name": "Erik",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 251,
+    "per_chapter": {
+      "9": {
+        "mentions": 6,
+        "snippet": "murmur: \"Poor Erik!"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "mademoiselle, is Erik!"
+      },
+      "12": {
+        "mentions": 27,
+        "snippet": "I am Erik!"
+      },
+      "13": {
+        "mentions": 17,
+        "snippet": "really saw Erik, what I ought to have done was to nail him to Apollo's"
+      },
+      "15": {
+        "mentions": 6,
+        "snippet": "was to accuse Erik."
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "le Commissaire, the angel is called Erik, he lives in the Opera and"
+      },
+      "19": {
+        "mentions": 8,
+        "snippet": "de Chagny,\" he said, \"that you have not betrayed Erik's"
+      },
+      "20": {
+        "mentions": 5,
+        "snippet": "have been the ordinary road taken by Erik to reach Christine's"
+      },
+      "21": {
+        "mentions": 52,
+        "snippet": "often begged the \"trap-door lover,\" as we used to call Erik in my"
+      },
+      "22": {
+        "mentions": 15,
+        "snippet": "\"The requiem mass is not at all gay,\" Erik's voice resumed, \"whereas"
+      },
+      "23": {
+        "mentions": 19,
+        "snippet": "\"Listen to me, Erik,\" sighed the girl."
+      },
+      "24": {
+        "mentions": 16,
+        "snippet": "belongs entirely to Erik, who built the first room of this kind under"
+      },
+      "25": {
+        "mentions": 18,
+        "snippet": "de Chagny to Christine, I to Erik."
+      },
+      "26": {
+        "mentions": 55,
+        "snippet": "Erik poured a drop of rum into the daroga's cup and, pointing to the"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 14,
+      "Vicomte de Chagny": 10,
+      "Opera": 7,
+      "Raoul": 7,
+      "Don Juan Triumphant": 4,
+      "Juan Triumphant": 4,
+      "Rue Scribe": 4,
+      "Mamma Valerius": 4
+    }
+  },
+  {
+    "canonical_name": "Raoul",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 236,
+    "per_chapter": {
+      "2": {
+        "mentions": 34,
+        "snippet": "sisters and his brother, Raoul, would not hear of a division and waived"
+      },
+      "8": {
+        "mentions": 19,
+        "snippet": "Raoul, of course, was the first to be astonished at the prima donna's"
+      },
+      "10": {
+        "mentions": 13,
+        "snippet": "Raoul no longer recognized the tragic"
+      },
+      "11": {
+        "mentions": 24,
+        "snippet": "\"Hush, Raoul!"
+      },
+      "12": {
+        "mentions": 44,
+        "snippet": "Raoul to come quite close to her and they walked side by side along the"
+      },
+      "15": {
+        "mentions": 11,
+        "snippet": "Raoul's first thought, after Christine Daae's fantastic disappearance,"
+      },
+      "18": {
+        "mentions": 12,
+        "snippet": "And the commissary of police, inviting Raoul to take a chair, cleared"
+      },
+      "19": {
+        "mentions": 22,
+        "snippet": "Raoul now remembered that his brother had once shown him that"
+      },
+      "20": {
+        "mentions": 50,
+        "snippet": "\" repeated Raoul's companion quickly."
+      },
+      "22": {
+        "mentions": 7,
+        "snippet": "\"Christine, Christine, it is I, Raoul!"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 10,
+      "Erik": 7,
+      "Opera": 6,
+      "Vicomte de Chagny": 6,
+      "Mamma Valerius": 4,
+      "Joseph Buquet": 3,
+      "Angel": 3,
+      "Music": 3
+    }
+  },
+  {
+    "canonical_name": "Christine Daae",
+    "aliases": [
+      "Christine"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 131,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "evening, Christine Daae had revealed her true self, for the first time,"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "speaking of Christine Daae either, though her genius is certain,"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "believe that Christine Daae was frightened by what had happened to her."
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "The part of Margarita shall be sung this evening by Christine Daae."
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "Christine Daae, she disappeared after the performance."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "down the passage, behind the scenes, that led to Christine Daae's"
+      },
+      "10": {
+        "mentions": 34,
+        "snippet": "The day after Christine had vanished before his eyes in a sort of"
+      },
+      "11": {
+        "mentions": 17,
+        "snippet": "\"What are you thinking of, Christine?"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "'You can now, Christine Daae, give to men a little of the music of"
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "\"I shall carry off Christine Daae to-night."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "with Christine Daae."
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "Raoul's first thought, after Christine Daae's fantastic disappearance,"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Christine Daae."
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "\"Is Christine Daae here?"
+      },
+      "19": {
+        "mentions": 8,
+        "snippet": "also Christine Daae's and to talk about one is to talk about the other!"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "\"We have only one means of saving Christine Daae, believe me, which is"
+      },
+      "21": {
+        "mentions": 7,
+        "snippet": "established between the monster and Christine Daae."
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "through the walls to Christine Daae, whose moans we continued to hear"
+      },
+      "23": {
+        "mentions": 12,
+        "snippet": "We heard hurried steps, Christine running back to the Louis-Philippe"
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "Louis-Philippe room in which Erik and Christine Daae were."
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "meant to convey when he said to Christine Daae:"
+      },
+      "26": {
+        "mentions": 13,
+        "snippet": "by the sublime devotion of Christine Daae."
+      }
+    },
+    "co_occurs_with": {
+      "Erik": 14,
+      "Vicomte de Chagny": 13,
+      "Opera": 12,
+      "Raoul": 10,
+      "Mamma Valerius": 7,
+      "Music": 6,
+      "Comte de Chagny": 5,
+      "Joseph Buquet": 5
+    }
+  },
+  {
+    "canonical_name": "Opera",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 90,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "the Opera, were giving a last gala performance to mark their"
+      },
+      "4": {
+        "mentions": 12,
+        "snippet": "to attend to the affairs of the Opera otherwise than by telling what"
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "not immediately continue her triumph at the Opera."
+      },
+      "7": {
+        "mentions": 8,
+        "snippet": "\"Yes, sir,\" explained Mercier, \"there are several grooms at the Opera"
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "elapsed during which she was seen neither at the Opera nor outside."
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "been picked up on the pavement of the Place de l'Opera."
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "The next day, he saw her at the Opera."
+      },
+      "12": {
+        "mentions": 7,
+        "snippet": "disappeared and that it had been stolen by the Opera ghost."
+      },
+      "13": {
+        "mentions": 6,
+        "snippet": "There was no performance at the Opera that night and the passages were"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "powers of the Angel of Music, in this domain of the Opera in which he"
+      },
+      "18": {
+        "mentions": 8,
+        "snippet": "carried off by an angel: an angel of the Opera, no doubt?"
+      },
+      "20": {
+        "mentions": 9,
+        "snippet": "opened on the Opera cellars, which were still lit."
+      },
+      "21": {
+        "mentions": 11,
+        "snippet": "the Cellars of the Opera"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 12,
+      "Erik": 7,
+      "Raoul": 6,
+      "Vicomte de Chagny": 6,
+      "Angel": 5,
+      "Mamma Valerius": 5,
+      "Rue Scribe": 5,
+      "Joseph Buquet": 4
+    }
+  },
+  {
+    "canonical_name": "Mme",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 79,
+    "per_chapter": {
+      "4": {
+        "mentions": 23,
+        "snippet": "\"Mme."
+      },
+      "7": {
+        "mentions": 8,
+        "snippet": "I absolutely insist upon the good and loyal services of Mme."
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "He wrote to her at Mme."
+      },
+      "16": {
+        "mentions": 41,
+        "snippet": "seal it with your own seal and hand it to Mme."
+      },
+      "17": {
+        "mentions": 3,
+        "snippet": "Mme."
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 4,
+      "Box Five": 4,
+      "Opera": 3,
+      "Joseph Buquet": 2,
+      "Vicomte de Chagny": 2,
+      "Moncharmin": 2,
+      "Carlotta": 2,
+      "Firmin Richard": 2
+    }
+  },
+  {
+    "canonical_name": "Moncharmin",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 70,
+    "per_chapter": {
+      "7": {
+        "mentions": 14,
+        "snippet": "Pertuiset, the lion-hunter,\" added Moncharmin."
+      },
+      "14": {
+        "mentions": 7,
+        "snippet": "\"Moncharmin opened the door at last."
+      },
+      "17": {
+        "mentions": 39,
+        "snippet": "Moncharmin's last phrase so dearly expressed the suspicion in which he"
+      },
+      "18": {
+        "mentions": 5,
+        "snippet": "As for Moncharmin, he had not the strength left to utter a word."
+      },
+      "26": {
+        "mentions": 5,
+        "snippet": "Moncharmin should describe the Opera"
+      }
+    },
+    "co_occurs_with": {
+      "Richard": 4,
+      "Christine Daae": 4,
+      "Box Five": 3,
+      "Comte de Chagny": 3,
+      "Mother Giry": 3,
+      "Vicomte de Chagny": 3,
+      "Credit Central": 2,
+      "La Borderie": 2
+    }
+  },
+  {
+    "canonical_name": "Richard",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 67,
+    "per_chapter": {
+      "6": {
+        "mentions": 8,
+        "snippet": "Moncharmin and Richard were"
+      },
+      "14": {
+        "mentions": 6,
+        "snippet": "\"This evening, Richard and Moncharmin were behaving like lunatics,"
+      },
+      "17": {
+        "mentions": 39,
+        "snippet": "at the end of which it was agreed that Richard should yield to all"
+      },
+      "18": {
+        "mentions": 7,
+        "snippet": "\" echoed Richard."
+      },
+      "26": {
+        "mentions": 7,
+        "snippet": "on Richard's table, a large envelope, inscribed, in red ink, \"WITH O."
+      }
+    },
+    "co_occurs_with": {
+      "Moncharmin": 4,
+      "Box Five": 3,
+      "Christine Daae": 3,
+      "Credit Central": 2,
+      "La Borderie": 2,
+      "National Academy": 2,
+      "Remy": 2,
+      "Comte de Chagny": 2
+    }
+  },
+  {
+    "canonical_name": "Carlotta",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 39,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "Carlotta, Sorelli and little Jammes and for a few others whose"
+      },
+      "7": {
+        "mentions": 29,
+        "snippet": "Never mind about Carlotta; she will be ill."
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "Carlotta, who had suddenly returned to Paris, to Sorelli and, at the"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "is in Carlotta's throat, in Carlotta's golden throat, in Carlotta's"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 4,
+      "Opera": 3,
+      "Box Five": 2,
+      "Did": 2,
+      "Firmin Richard": 2,
+      "Mme": 2,
+      "Mr. Manager": 2,
+      "Rue Scribe": 2
+    }
+  },
+  {
+    "canonical_name": "Angel",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 39,
+    "per_chapter": {
+      "5": {
+        "mentions": 16,
+        "snippet": "she went to sleep, to hear the Angel of Music."
+      },
+      "8": {
+        "mentions": 8,
+        "snippet": "\"Why, the Angel of Music!"
+      },
+      "9": {
+        "mentions": 5,
+        "snippet": "The Angel of Music appeared upon"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "I had never got the Angel of Music whom my poor"
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "he is the Angel of Music!"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 5,
+      "Opera": 5,
+      "Mamma Valerius": 4,
+      "Music": 4,
+      "Perros": 4,
+      "The Resurrection": 4,
+      "Raoul": 3,
+      "Vicomte de Chagny": 3
+    }
+  },
+  {
+    "canonical_name": "Music",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 35,
+    "per_chapter": {
+      "5": {
+        "mentions": 9,
+        "snippet": "she went to sleep, to hear the Angel of Music."
+      },
+      "8": {
+        "mentions": 8,
+        "snippet": "\"Why, the Angel of Music!"
+      },
+      "9": {
+        "mentions": 5,
+        "snippet": "The Angel of Music appeared upon"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "You know there is no such thing as the Angel of Music!"
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "he is the Angel of Music!"
+      },
+      "26": {
+        "mentions": 3,
+        "snippet": "the North repeat the singing of her who knew the Angel of Music!"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 6,
+      "Mamma Valerius": 5,
+      "Vicomte de Chagny": 5,
+      "Angel": 4,
+      "Opera": 4,
+      "Erik": 4,
+      "Perros": 3,
+      "Raoul": 3
+    }
+  },
+  {
+    "canonical_name": "Persian",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 33,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "and the Persian entered."
+      },
+      "19": {
+        "mentions": 27,
+        "snippet": "Persian and that he lived in a little old-fashioned flat in the Rue de"
+      }
+    },
+    "co_occurs_with": {
+      "Box Five": 1,
+      "Gabriel": 1,
+      "Jammes": 1,
+      "Joseph Buquet": 1,
+      "La Sorelli": 1,
+      "Meg Giry": 1,
+      "Opera": 1,
+      "Poligny": 1
+    }
+  },
+  {
+    "canonical_name": "Gabriel",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 32,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "\"And Gabriel saw him too!"
+      },
+      "14": {
+        "mentions": 22,
+        "snippet": "They were Gabriel, the chorus-master; Mercier,"
+      },
+      "16": {
+        "mentions": 3,
+        "snippet": "story, under the promise of secrecy, to Gabriel and Mercier, they put"
+      }
+    },
+    "co_occurs_with": {
+      "Box Five": 2,
+      "There": 2,
+      "Christine Daae": 2,
+      "Mercier": 2,
+      "Mother Giry": 2,
+      "Jammes": 1,
+      "Joseph Buquet": 1,
+      "La Sorelli": 1
+    }
+  },
+  {
+    "canonical_name": "Box Five",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 29,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "\"It's Box Five, you know, the box on the"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "'And have you considered what the loss over Box Five meant to us?"
+      },
+      "4": {
+        "mentions": 9,
+        "snippet": "Firmin Richard told his secretary to send Box Five on the grand tier"
+      },
+      "6": {
+        "mentions": 7,
+        "snippet": "they were deciding \"to look into that little matter of Box Five."
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "Moncharmin in Box Five."
+      },
+      "16": {
+        "mentions": 5,
+        "snippet": "Box Five one evening, I found a letter addressed to myself, a sort of"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "who talks in Box Five ."
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "voice tell him, in Box Five, of the manner in which he used to spend"
+      }
+    },
+    "co_occurs_with": {
+      "Mme": 4,
+      "Christine Daae": 4,
+      "Jammes": 3,
+      "Joseph Buquet": 3,
+      "Opera": 3,
+      "Firmin Richard": 3,
+      "National Academy": 3,
+      "Moncharmin": 3
+    }
+  },
+  {
+    "canonical_name": "Mercier",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 29,
+    "per_chapter": {
+      "7": {
+        "mentions": 5,
+        "snippet": "Just then, Mercier, the acting-manager, entered."
+      },
+      "14": {
+        "mentions": 20,
+        "snippet": "They were Gabriel, the chorus-master; Mercier,"
+      },
+      "16": {
+        "mentions": 4,
+        "snippet": "office which Remy and Mercier had vainly tried to enter and into which"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 3,
+      "Mother Giry": 3,
+      "Box Five": 2,
+      "Mme": 2,
+      "Moncharmin": 2,
+      "There": 2,
+      "Gabriel": 2,
+      "All": 1
+    }
+  },
+  {
+    "canonical_name": "Perros",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 28,
+    "per_chapter": {
+      "5": {
+        "mentions": 11,
+        "snippet": "Perros, in fulfilment of a sacred duty."
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "But what he had seen at Perros, what he had heard"
+      },
+      "9": {
+        "mentions": 6,
+        "snippet": "\"The death's head of Perros-Guirec!"
+      },
+      "12": {
+        "mentions": 5,
+        "snippet": "I am going to Perros to-morrow, to pray on my father's"
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 4,
+      "Christine Daae": 4,
+      "Mamma Valerius": 4,
+      "Opera": 4,
+      "The Resurrection": 4,
+      "Music": 3,
+      "Daddy Daae": 2,
+      "Professor Valerius": 2
+    }
+  },
+  {
+    "canonical_name": "Vicomte de Chagny",
+    "aliases": [
+      "Chagny"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 27,
+    "per_chapter": {
+      "5": {
+        "mentions": 6,
+        "snippet": "She showed herself nowhere; and the Vicomte de Chagny tried in vain to"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "in her hand, Christine, raising her head, saw the Vicomte de Chagny in"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "their reception of the Vicomte de Chagny, when he came to ask about"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Vicomte de Chagny called to inquire at Mamma Valerius'."
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "the Vicomte de Chagny's attention to him and said:"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "le Vicomte de Chagny!"
+      },
+      "19": {
+        "mentions": 5,
+        "snippet": "de Chagny,\" he said, \"that you have not betrayed Erik's"
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "the Vicomte de Chagny, I wondered whether, after all, I should not do"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "I seized my companion's arm: the Vicomte de Chagny was all a-quiver,"
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "The Vicomte de Chagny was so much taken aback that he"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "le Vicomte de Chagny and I were"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "The Vicomte de Chagny, realizing that"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "\"What have you done with the Vicomte de Chagny?"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 13,
+      "Erik": 10,
+      "Opera": 6,
+      "Raoul": 6,
+      "Music": 5,
+      "Mamma Valerius": 4,
+      "Comte de Chagny": 4,
+      "Angel": 3
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 26,
+    "per_chapter": {
+      "3": {
+        "mentions": 14,
+        "snippet": "\"The Opera ghost!"
+      },
+      "17": {
+        "mentions": 12,
+        "snippet": "The more so as, at the time of the first scene, as Richard himself"
+      }
+    },
+    "co_occurs_with": {
+      "Box Five": 2,
+      "Joseph Buquet": 2,
+      "National Academy": 2,
+      "Armand Moncharmin": 1,
+      "Corps de Ballet": 1,
+      "Firmin Richard": 1,
+      "Jammes": 1,
+      "Memoirs": 1
+    }
+  },
+  {
+    "canonical_name": "Poligny",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 23,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Debienne and Poligny, the managers of"
+      },
+      "2": {
+        "mentions": 3,
+        "snippet": "Poligny hear; it would upset them too much on their last day."
+      },
+      "3": {
+        "mentions": 17,
+        "snippet": "Poligny, who had"
+      }
+    },
+    "co_occurs_with": {
+      "Joseph Buquet": 3,
+      "Box Five": 2,
+      "Jammes": 2,
+      "Meg Giry": 2,
+      "Roi de Lahore": 2,
+      "There": 2,
+      "Sorelli": 2,
+      "Gabriel": 1
+    }
+  },
+  {
+    "canonical_name": "Mamma Valerius",
+    "aliases": [
+      "Valerius"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 22,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "and taking a prize only to please old Mamma Valerius, with whom she"
+      },
+      "8": {
+        "mentions": 5,
+        "snippet": "come what might, to go and inquire of Mamma Valerius."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "Mamma Valerius?"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "Vicomte de Chagny called to inquire at Mamma Valerius'."
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "morning, he ran off to Mamma Valerius, who told him that Christine had"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "that Mamma Valerius was a little bit to blame."
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "Raoul and Christine and also of Mamma Valerius, who disappeared at the"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 7,
+      "Music": 5,
+      "Opera": 5,
+      "Angel": 4,
+      "Perros": 4,
+      "Raoul": 4,
+      "The Resurrection": 4,
+      "Vicomte de Chagny": 4
+    }
+  },
+  {
+    "canonical_name": "Joseph Buquet",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 21,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "from the description of the ghost given by Joseph Buquet, the chief"
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "\"'That' is Joseph Buquet, who was found in the third cellar, hanging"
+      },
+      "3": {
+        "mentions": 4,
+        "snippet": "to have forgotten the ghost and the death of Joseph Buquet."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "repeating the ghastly description which the hanged man, Joseph Buquet,"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "who killed Joseph Buquet ."
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "exactly at the spot where Joseph Buquet died."
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "the death of Joseph Buquet."
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "Yes, Joseph Buquet had undoubtedly been through all this!"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 5,
+      "Opera": 4,
+      "Box Five": 3,
+      "Poligny": 3,
+      "Roi de Lahore": 3,
+      "Raoul": 3,
+      "Vicomte de Chagny": 3,
+      "Erik": 3
+    }
+  },
+  {
+    "canonical_name": "Mother Giry",
+    "aliases": [
+      "Giry"
+    ],
+    "first_chapter": 7,
+    "total_mentions": 21,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "\"By the way,\" said Moncharmin, \"you know that Mother Giry is going to"
+      },
+      "14": {
+        "mentions": 9,
+        "snippet": "Mother Giry came down to the foyer just now, Mercier took her by the"
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "Mother Giry out."
+      },
+      "16": {
+        "mentions": 6,
+        "snippet": "content to await events, while keeping an eye on Mother Giry."
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "by little Meg herself (the worthy Madame Giry, I am sorry to say, is no"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 5,
+      "Box Five": 3,
+      "Mercier": 3,
+      "Moncharmin": 3,
+      "Vicomte de Chagny": 3,
+      "Comte de Chagny": 2,
+      "Mme": 2,
+      "Opera": 2
+    }
+  },
+  {
+    "canonical_name": "Jammes",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 20,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "It was little Jammes--the girl with the tip-tilted"
+      },
+      "3": {
+        "mentions": 5,
+        "snippet": "except little Jammes, whose fifteen summers--happy age!"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "Carlotta, Sorelli and little Jammes and for a few others whose"
+      }
+    },
+    "co_occurs_with": {
+      "Box Five": 3,
+      "Joseph Buquet": 2,
+      "Opera": 2,
+      "Poligny": 2,
+      "Roi de Lahore": 2,
+      "Armand Moncharmin": 2,
+      "Firmin Richard": 2,
+      "Sorelli": 2
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 20,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "There was no"
+      },
+      "2": {
+        "mentions": 3,
+        "snippet": "\"There's no breathing here."
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "\"There are not two Cesars,\" said the stud-groom dryly."
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "\"There's no Mauclair and no assistants!"
+      },
+      "23": {
+        "mentions": 6,
+        "snippet": "There is some one in the torture-chamber!"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 4,
+      "Box Five": 2,
+      "Gabriel": 2,
+      "Joseph Buquet": 2,
+      "Meg Giry": 2,
+      "Opera": 2,
+      "Poligny": 2,
+      "Comte de Chagny": 2
+    }
+  },
+  {
+    "canonical_name": "Sorelli",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 14,
+    "per_chapter": {
+      "2": {
+        "mentions": 7,
+        "snippet": "On the first landing, Sorelli ran against the Comte de Chagny, who was"
+      },
+      "3": {
+        "mentions": 4,
+        "snippet": "Sorelli waited for the arrival of the retiring managers with a glass of"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "Carlotta, Sorelli and little Jammes and for a few others whose"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 2,
+      "Joseph Buquet": 2,
+      "Poligny": 2,
+      "Armand Moncharmin": 2,
+      "Box Five": 2,
+      "Firmin Richard": 2,
+      "Jammes": 2,
+      "Arctic Circle": 1
+    }
+  },
+  {
+    "canonical_name": "Count Philippe",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 13,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "while Count Philippe followed him with difficulty and continued to"
+      },
+      "13": {
+        "mentions": 5,
+        "snippet": "Servants appeared, carrying lights; Count Philippe, terribly anxious:"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "carried off by my brother, Count Philippe."
+      },
+      "26": {
+        "mentions": 6,
+        "snippet": "Count Philippe's house to inquire after the viscount's health."
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 4,
+      "Erik": 3,
+      "Comte de Chagny": 2,
+      "Raoul": 2,
+      "Darius": 2,
+      "Vicomte de Chagny": 2,
+      "Arctic Circle": 1,
+      "Chagny de La Roche": 1
+    }
+  },
+  {
+    "canonical_name": "Remy",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 13,
+    "per_chapter": {
+      "14": {
+        "mentions": 9,
+        "snippet": "the acting-manager; and Remy, the secretary."
+      },
+      "17": {
+        "mentions": 4,
+        "snippet": "Remy and those curious lapses from the dignity"
+      }
+    },
+    "co_occurs_with": {
+      "Credit Central": 2,
+      "La Borderie": 2,
+      "Moncharmin": 2,
+      "Richard": 2,
+      "Box Five": 1,
+      "Garden Act": 1,
+      "Joseph Buquet": 1,
+      "Mme": 1
+    }
+  },
+  {
+    "canonical_name": "Mauclair",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 13,
+    "per_chapter": {
+      "14": {
+        "mentions": 4,
+        "snippet": "Now Mauclair is nowhere to be found."
+      },
+      "20": {
+        "mentions": 9,
+        "snippet": "Mauclair"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 2,
+      "Commissary Mifroid": 1,
+      "Erik": 1,
+      "Gailhard": 1,
+      "Joseph Buquet": 1,
+      "Let": 1,
+      "Like the Persian": 1,
+      "Look": 1
+    }
+  },
+  {
+    "canonical_name": "Margarita",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 11,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Daae revealed a new Margarita that night, a Margarita of a splendor, a"
+      },
+      "7": {
+        "mentions": 8,
+        "snippet": "The part of Margarita shall be sung this evening by Christine Daae."
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 2,
+      "Comte de Chagny": 2,
+      "There": 2,
+      "Arctic Circle": 1,
+      "Chagny de La Roche": 1,
+      "Comtesse de Chagny": 1,
+      "Count Philibert": 1,
+      "Count Philippe": 1
+    }
+  },
+  {
+    "canonical_name": "Cesar",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 10,
+    "per_chapter": {
+      "7": {
+        "mentions": 4,
+        "snippet": "\"I did have twelve, but I have only eleven since Cesar was stolen."
+      },
+      "12": {
+        "mentions": 6,
+        "snippet": "murmured, 'Cesar!"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 2,
+      "Opera": 2,
+      "All": 1,
+      "Box Five": 1,
+      "Carlotta": 1,
+      "Carolus Fonta": 1,
+      "Comte de Chagny": 1,
+      "Doctor Faust": 1
+    }
+  },
+  {
+    "canonical_name": "Don Juan Triumphant",
+    "aliases": [
+      "Juan"
+    ],
+    "first_chapter": 12,
+    "total_mentions": 10,
+    "per_chapter": {
+      "12": {
+        "mentions": 6,
+        "snippet": "leave to look at it and read, 'Don Juan Triumphant."
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "\"No, no, he is working, I tell you, at his Don Juan Triumphant and not"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "heard an astounding music: the monster was working at his Don Juan"
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "Don Juan Triumphant is finished;"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 4,
+      "Erik": 4,
+      "Juan Triumphant": 4,
+      "Opera": 3,
+      "Rue Scribe": 3,
+      "Don Juan": 2,
+      "Vicomte Raoul": 2,
+      "Vicomte de Chagny": 2
+    }
+  },
+  {
+    "canonical_name": "Mazenderan",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 10,
+    "per_chapter": {
+      "21": {
+        "mentions": 5,
+        "snippet": "Mazenderan?"
+      },
+      "26": {
+        "mentions": 5,
+        "snippet": "chained him up nicely--a whiff of the Mazenderan scent had left him as"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 2,
+      "Erik": 2,
+      "The Persian": 2,
+      "Vicomte de Chagny": 2,
+      "Communists": 1,
+      "De Tham": 1,
+      "Don Juan": 1,
+      "Don Juan Triumphant": 1
+    }
+  },
+  {
+    "canonical_name": "Punjab",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 10,
+    "per_chapter": {
+      "21": {
+        "mentions": 7,
+        "snippet": "Punjab lasso."
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "the Punjab lasso at the foot of the iron tree."
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 2,
+      "Erik": 2,
+      "Joseph Buquet": 2,
+      "Vicomte de Chagny": 2,
+      "Communists": 1,
+      "De Tham": 1,
+      "Don Juan": 1,
+      "Don Juan Triumphant": 1
+    }
+  },
+  {
+    "canonical_name": "Comte de Chagny",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 9,
+    "per_chapter": {
+      "2": {
+        "mentions": 5,
+        "snippet": "On the first landing, Sorelli ran against the Comte de Chagny, who was"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "She knew that the Comte de Chagny, to please his brother, had done his"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "\"The Comte de Chagny?"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "le Comte de Chagny has really"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "Persian's eyes, to explain the discovery of the Comte de Chagny's"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 5,
+      "Vicomte de Chagny": 4,
+      "Moncharmin": 3,
+      "Opera": 3,
+      "Music": 3,
+      "Count Philippe": 2,
+      "Margarita": 2,
+      "Raoul": 2
+    }
+  },
+  {
+    "canonical_name": "Rue Scribe",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 9,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "Debienne lived at the corner of the Rue Scribe and"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "the gates that closed the underground passages in the Rue Scribe."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "\"The key of the gate to the underground passage in the Rue Scribe."
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "Scribe, an underground passage running straight to the Rue Scribe from"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "through the air hole in the Rue Scribe showed me absolutely nothing on"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 5,
+      "Opera": 5,
+      "Erik": 4,
+      "Don Juan Triumphant": 3,
+      "Juan Triumphant": 3,
+      "Don Juan": 2,
+      "Vicomte Raoul": 2,
+      "Vicomte de Chagny": 2
+    }
+  },
+  {
+    "canonical_name": "Did",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 9,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "\"Did you"
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "\"Did your father tell you that I love you, Christine, and that I can"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "\"Did you hear, Christine?"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 3,
+      "Carlotta": 2,
+      "Opera": 2,
+      "Vicomte de Chagny": 2,
+      "Armand Moncharmin": 1,
+      "Box Five": 1,
+      "Box Seven": 1,
+      "Box Three": 1
+    }
+  },
+  {
+    "canonical_name": "Mlle",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 9,
+    "per_chapter": {
+      "5": {
+        "mentions": 5,
+        "snippet": "\"Did Mlle."
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "You believe that Mlle."
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 2,
+      "Christine Daae": 2,
+      "Comte de Chagny": 2,
+      "Music": 2,
+      "Opera": 2,
+      "Vicomte de Chagny": 2,
+      "Breton": 1,
+      "Daddy Daae": 1
+    }
+  },
+  {
+    "canonical_name": "Red Death",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 9,
+    "per_chapter": {
+      "9": {
+        "mentions": 7,
+        "snippet": "am Red Death stalking abroad!"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "then you saw Red Death stalking about at the last masked ball."
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 2,
+      "Christine Daae": 2,
+      "Erik": 2,
+      "Mamma Valerius": 2,
+      "Opera": 2,
+      "Perros": 2,
+      "The Resurrection": 2,
+      "Bois": 1
+    }
+  },
+  {
+    "canonical_name": "Juan Triumphant",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 8,
+    "per_chapter": {
+      "12": {
+        "mentions": 4,
+        "snippet": "leave to look at it and read, 'Don Juan Triumphant."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "\"No, no, he is working, I tell you, at his Don Juan Triumphant and not"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "heard an astounding music: the monster was working at his Don Juan"
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "Don Juan Triumphant is finished;"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 4,
+      "Don Juan Triumphant": 4,
+      "Erik": 4,
+      "Opera": 3,
+      "Rue Scribe": 3,
+      "Don Juan": 2,
+      "Vicomte Raoul": 2,
+      "Vicomte de Chagny": 2
+    }
+  },
+  {
+    "canonical_name": "Darius",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 8,
+    "per_chapter": {
+      "19": {
+        "mentions": 4,
+        "snippet": "\"If only Darius has come!"
+      },
+      "26": {
+        "mentions": 4,
+        "snippet": "faithful old servant Darius showed me in to him."
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 2,
+      "Count Philippe": 2,
+      "Erik": 2,
+      "Vicomte de Chagny": 2,
+      "Ali Bey": 1,
+      "Andre Castaigne": 1,
+      "Asia Minor": 1,
+      "Bacchic Dance": 1
+    }
+  },
+  {
+    "canonical_name": "Professor Valerius",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 7,
+    "per_chapter": {
+      "5": {
+        "mentions": 5,
+        "snippet": "Fair, Professor Valerius heard them and took them to Gothenburg."
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "furnished drawing-room, in which portraits of Professor Valerius and"
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 2,
+      "Christine Daae": 2,
+      "Daddy Daae": 2,
+      "Mamma Valerius": 2,
+      "Music": 2,
+      "Opera": 2,
+      "Perros": 2,
+      "The Resurrection": 2
+    }
+  },
+  {
+    "canonical_name": "With",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 7,
+    "per_chapter": {
+      "7": {
+        "mentions": 4,
+        "snippet": "\"With whom?"
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "\"With Erik?"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 2,
+      "Vicomte de Chagny": 2,
+      "All": 1,
+      "Box Five": 1,
+      "Carlotta": 1,
+      "Carolus Fonta": 1,
+      "Cesar": 1,
+      "Comte de Chagny": 1
+    }
+  },
+  {
+    "canonical_name": "Look",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 7,
+    "per_chapter": {
+      "12": {
+        "mentions": 4,
+        "snippet": "Leaning over me, he cried, 'Look!"
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "\"Look!"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 2,
+      "Erik": 2,
+      "Opera": 2,
+      "Raoul": 2,
+      "Commissary Mifroid": 1,
+      "Gailhard": 1,
+      "Joseph Buquet": 1,
+      "Let": 1
+    }
+  },
+  {
+    "canonical_name": "Guggle",
+    "aliases": [],
+    "first_chapter": 25,
+    "total_mentions": 7,
+    "per_chapter": {
+      "25": {
+        "mentions": 7,
+        "snippet": "became a gurgling sound: \"Guggle!"
+      }
+    },
+    "co_occurs_with": {
+      "Barrels": 1,
+      "Christine Daae": 1,
+      "Erik": 1,
+      "Paris Grand Opera": 1,
+      "Vicomte de Chagny": 1
+    }
+  },
+  {
+    "canonical_name": "Firmin Richard",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 6,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "Firmin Richard and Armand Moncharmin thought that this lean and skinny"
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "active manager and went straight to Firmin Richard."
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "She saw Firmin Richard's face; and"
+      }
+    },
+    "co_occurs_with": {
+      "Box Five": 3,
+      "Armand Moncharmin": 2,
+      "Jammes": 2,
+      "Sorelli": 2,
+      "Carlotta": 2,
+      "Christine Daae": 2,
+      "Mme": 2,
+      "Mr. Manager": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Commissary",
+    "aliases": [
+      "Commissary"
+    ],
+    "first_chapter": 20,
+    "total_mentions": 6,
+    "per_chapter": {
+      "20": {
+        "mentions": 6,
+        "snippet": "\"There are things happening here, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 1,
+      "Commissary Mifroid": 1,
+      "Erik": 1,
+      "Gailhard": 1,
+      "Joseph Buquet": 1,
+      "Let": 1,
+      "Like the Persian": 1,
+      "Look": 1
+    }
+  },
+  {
+    "canonical_name": "Shah",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 6,
+    "per_chapter": {
+      "26": {
+        "mentions": 6,
+        "snippet": "sultana, the favorite of the Shah-in-Shah, was boring herself to death."
+      }
+    },
+    "co_occurs_with": {
+      "Ali Bey": 1,
+      "Andre Castaigne": 1,
+      "Asia Minor": 1,
+      "Bacchic Dance": 1,
+      "Box Five": 1,
+      "Brussels Road": 1,
+      "Caspian Sea": 1,
+      "Christine Daae": 1
+    }
+  },
+  {
+    "canonical_name": "Saack",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 5,
+    "per_chapter": {
+      "4": {
+        "mentions": 5,
+        "snippet": "Isidore Saack, who had had a leg broken by the ghost!"
+      }
+    },
+    "co_occurs_with": {
+      "Armand Moncharmin": 1,
+      "Box Five": 1,
+      "Box Seven": 1,
+      "Box Three": 1,
+      "Cafe Jacquin": 1,
+      "Carlotta": 1,
+      "Christine Daae": 1,
+      "Did": 1
+    }
+  },
+  {
+    "canonical_name": "Don Juan",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 5,
+    "per_chapter": {
+      "12": {
+        "mentions": 4,
+        "snippet": "only make you weep; but my Don Juan, Christine, burns; and yet he is"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "heard an astounding music: the monster was working at his Don Juan"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 2,
+      "Don Juan Triumphant": 2,
+      "Erik": 2,
+      "Juan Triumphant": 2,
+      "Opera": 2,
+      "Rue Scribe": 2,
+      "Communists": 1,
+      "De Tham": 1
+    }
+  },
+  {
+    "canonical_name": "Communists",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 5,
+    "per_chapter": {
+      "21": {
+        "mentions": 5,
+        "snippet": "to the well and the dungeon--the Communists' dungeon--and also the"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 1,
+      "De Tham": 1,
+      "Don Juan": 1,
+      "Don Juan Triumphant": 1,
+      "Erik": 1,
+      "Joseph Buquet": 1,
+      "Juan Triumphant": 1,
+      "Mazenderan": 1
+    }
+  },
+  {
+    "canonical_name": "Opera House",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 5,
+    "per_chapter": {
+      "26": {
+        "mentions": 5,
+        "snippet": "\"The new Opera House, commenced under the Empire and finished under the"
+      }
+    },
+    "co_occurs_with": {
+      "Ali Bey": 1,
+      "Andre Castaigne": 1,
+      "Asia Minor": 1,
+      "Bacchic Dance": 1,
+      "Box Five": 1,
+      "Brussels Road": 1,
+      "Caspian Sea": 1,
+      "Christine Daae": 1
+    }
+  },
+  {
+    "canonical_name": "National Academy",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 4,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "of the National Academy of Music the splendor that becomes the first"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "scenes, adopted by the managers of our National Academy of Music,"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "skeleton of the Opera ghost is in the archives of the National Academy"
+      }
+    },
+    "co_occurs_with": {
+      "Box Five": 3,
+      "Joseph Buquet": 2,
+      "The": 2,
+      "Moncharmin": 2,
+      "Richard": 2,
+      "Armand Moncharmin": 1,
+      "Corps de Ballet": 1,
+      "Firmin Richard": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Manager",
+    "aliases": [
+      "Manager"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 2,
+        "snippet": "Believe me to be, dear Mr."
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "\"Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Box Five": 2,
+      "Carlotta": 2,
+      "Christine Daae": 2,
+      "Firmin Richard": 2,
+      "Mme": 2,
+      "Opera": 2,
+      "Armand Moncharmin": 1,
+      "Box Seven": 1
+    }
+  },
+  {
+    "canonical_name": "Setting Sun",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "the inn known as the Setting Sun."
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 1,
+      "Breton": 1,
+      "Christine Daae": 1,
+      "Comte de Chagny": 1,
+      "Daddy Daae": 1,
+      "Did": 1,
+      "Duchess de Zurich": 1,
+      "Lotte": 1
+    }
+  },
+  {
+    "canonical_name": "Vicomte Raoul de Chagny",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "other than the Vicomte Raoul de Chagny, staying at Lannion with his"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "le Vicomte Raoul de Chagny,\" with the address in"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "that this shadow was that of the Vicomte Raoul de Chagny; but I do not"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "It was the Vicomte Raoul de Chagny."
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 4,
+      "Opera": 3,
+      "Angel": 2,
+      "Mamma Valerius": 2,
+      "Music": 2,
+      "Perros": 2,
+      "The Resurrection": 2,
+      "Erik": 2
+    }
+  },
+  {
+    "canonical_name": "The Resurrection",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "The air was The Resurrection of Lazarus,"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "He promised to play her The Resurrection"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "in Perros churchyard, to the invisible violin playing The Resurrection"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "have not lied to me, I will play you The Resurrection of Lazarus, on"
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 4,
+      "Christine Daae": 4,
+      "Mamma Valerius": 4,
+      "Opera": 4,
+      "Perros": 4,
+      "Music": 3,
+      "Daddy Daae": 2,
+      "Professor Valerius": 2
+    }
+  },
+  {
+    "canonical_name": "Breton",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "or Breton pilgrimages, the village festival and dances, he went off"
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 1,
+      "Christine Daae": 1,
+      "Comte de Chagny": 1,
+      "Daddy Daae": 1,
+      "Did": 1,
+      "Duchess de Zurich": 1,
+      "Lotte": 1,
+      "Mamma Valerius": 1
+    }
+  },
+  {
+    "canonical_name": "de Chagny",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 4,
+    "per_chapter": {
+      "8": {
+        "mentions": 1,
+        "snippet": "Raoul de Chagny rose and, with a very authoritative air, pronounced"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Raoul de Chagny to go with me."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Raoul de Chagny had completely lost his head."
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "\"Raoul de Chagny and Christine Daae?"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 4,
+      "Angel": 3,
+      "Mamma Valerius": 3,
+      "Music": 3,
+      "Opera": 3,
+      "Raoul": 3,
+      "Vicomte de Chagny": 3,
+      "Erik": 3
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 4,
+    "per_chapter": {
+      "12": {
+        "mentions": 4,
+        "snippet": "voice began to sing the leading phrase, 'Come!"
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 1,
+      "Cesar": 1,
+      "Christine Daae": 1,
+      "Don Juan": 1,
+      "Don Juan Triumphant": 1,
+      "Erik": 1,
+      "Juan Triumphant": 1,
+      "Look": 1
+    }
+  },
+  {
+    "canonical_name": "Perhaps",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 4,
+    "per_chapter": {
+      "14": {
+        "mentions": 4,
+        "snippet": "Perhaps"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 1,
+      "Credit Central": 1,
+      "Gabriel": 1,
+      "La Borderie": 1,
+      "Mauclair": 1,
+      "Mercier": 1,
+      "Moncharmin": 1,
+      "Mother Giry": 1
+    }
+  },
+  {
+    "canonical_name": "Bank",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 4,
+    "per_chapter": {
+      "16": {
+        "mentions": 4,
+        "snippet": "the \"Bank of St."
+      }
+    },
+    "co_occurs_with": {
+      "Are": 1,
+      "Box Five": 1,
+      "Christine Daae": 1,
+      "Comtesse Gilbert": 1,
+      "Dom Fernando": 1,
+      "Gabriel": 1,
+      "Jupiter Tonans": 1,
+      "King Louis": 1
+    }
+  },
+  {
+    "canonical_name": "Meg",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 4,
+    "per_chapter": {
+      "16": {
+        "mentions": 4,
+        "snippet": "Meg Giry, Empress!"
+      }
+    },
+    "co_occurs_with": {
+      "Are": 1,
+      "Bank": 1,
+      "Box Five": 1,
+      "Christine Daae": 1,
+      "Comtesse Gilbert": 1,
+      "Dom Fernando": 1,
+      "Gabriel": 1,
+      "Jupiter Tonans": 1
+    }
+  },
+  {
+    "canonical_name": "Let",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 4,
+    "per_chapter": {
+      "20": {
+        "mentions": 4,
+        "snippet": "\"Let go!"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 1,
+      "Commissary Mifroid": 1,
+      "Erik": 1,
+      "Gailhard": 1,
+      "Joseph Buquet": 1,
+      "Like the Persian": 1,
+      "Look": 1,
+      "Mauclair": 1
+    }
+  },
+  {
+    "canonical_name": "Barrels",
+    "aliases": [],
+    "first_chapter": 25,
+    "total_mentions": 4,
+    "per_chapter": {
+      "25": {
+        "mentions": 4,
+        "snippet": "powder-barrels--\"Barrels!"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 1,
+      "Erik": 1,
+      "Guggle": 1,
+      "Paris Grand Opera": 1,
+      "Vicomte de Chagny": 1
+    }
+  },
+  {
+    "canonical_name": "Sultan",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 4,
+    "per_chapter": {
+      "26": {
+        "mentions": 4,
+        "snippet": "he entered the Sultan's employment."
+      }
+    },
+    "co_occurs_with": {
+      "Ali Bey": 1,
+      "Andre Castaigne": 1,
+      "Asia Minor": 1,
+      "Bacchic Dance": 1,
+      "Box Five": 1,
+      "Brussels Road": 1,
+      "Caspian Sea": 1,
+      "Christine Daae": 1
+    }
+  },
+  {
+    "canonical_name": "Meg Giry",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "Meg Giry, heroically holding Sorelli back by her gauze skirt."
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "\" said Meg Giry."
+      }
+    },
+    "co_occurs_with": {
+      "Joseph Buquet": 2,
+      "Poligny": 2,
+      "There": 2,
+      "Box Five": 1,
+      "Gabriel": 1,
+      "Jammes": 1,
+      "La Sorelli": 1,
+      "Opera": 1
+    }
+  },
+  {
+    "canonical_name": "Roi de Lahore",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "and a scene from the Roi de Lahore."
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "and a scene from the Roi de Lahore."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "went and waited for hours behind a scene from the Roi de Lahore, which"
+      }
+    },
+    "co_occurs_with": {
+      "Joseph Buquet": 3,
+      "Box Five": 2,
+      "Jammes": 2,
+      "Opera": 2,
+      "Poligny": 2,
+      "Gabriel": 1,
+      "La Sorelli": 1,
+      "Meg Giry": 1
+    }
+  },
+  {
+    "canonical_name": "Debienne",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Debienne"
+      }
+    },
+    "co_occurs_with": {
+      "Arctic Circle": 1,
+      "Chagny de La Roche": 1,
+      "Christine Daae": 1,
+      "Comte de Chagny": 1,
+      "Comtesse de Chagny": 1,
+      "Count Philibert": 1,
+      "Count Philippe": 1,
+      "Danse Macabre": 1
+    }
+  },
+  {
+    "canonical_name": "Armand Moncharmin",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "Firmin Richard and Armand Moncharmin thought that this lean and skinny"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "\"It's harmless enough,\" observed Armand Moncharmin."
+      }
+    },
+    "co_occurs_with": {
+      "Box Five": 2,
+      "Firmin Richard": 2,
+      "Jammes": 2,
+      "Sorelli": 2,
+      "Corps de Ballet": 1,
+      "Joseph Buquet": 1,
+      "Memoirs": 1,
+      "National Academy": 1
+    }
+  },
+  {
+    "canonical_name": "Memoirs",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "Memoirs, that the guest's nose was transparent: \"long, thin and"
+      }
+    },
+    "co_occurs_with": {
+      "Armand Moncharmin": 1,
+      "Box Five": 1,
+      "Corps de Ballet": 1,
+      "Firmin Richard": 1,
+      "Jammes": 1,
+      "Joseph Buquet": 1,
+      "National Academy": 1,
+      "Poligny": 1
+    }
+  },
+  {
+    "canonical_name": "Send",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "\"Send for the inspector,\" said Richard to his secretary, who had"
+      }
+    },
+    "co_occurs_with": {
+      "Armand Moncharmin": 1,
+      "Box Five": 1,
+      "Box Seven": 1,
+      "Box Three": 1,
+      "Cafe Jacquin": 1,
+      "Carlotta": 1,
+      "Christine Daae": 1,
+      "Did": 1
+    }
+  },
+  {
+    "canonical_name": "Mephistopheles",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "Mephistopheles was singing\"--Mme."
+      }
+    },
+    "co_occurs_with": {
+      "Armand Moncharmin": 1,
+      "Box Five": 1,
+      "Box Seven": 1,
+      "Box Three": 1,
+      "Cafe Jacquin": 1,
+      "Carlotta": 1,
+      "Christine Daae": 1,
+      "Did": 1
+    }
+  },
+  {
+    "canonical_name": "Daddy Daae",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 2,
+        "snippet": "played a part in all Daddy Daae's tales; and he maintained that every"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Daddy Daae had told you."
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 2,
+      "Christine Daae": 2,
+      "Mamma Valerius": 2,
+      "Music": 2,
+      "Opera": 2,
+      "Perros": 2,
+      "Professor Valerius": 2,
+      "The Resurrection": 2
+    }
+  },
+  {
+    "canonical_name": "Lotte",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "\"Little Lotte thought of everything and nothing."
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 1,
+      "Breton": 1,
+      "Christine Daae": 1,
+      "Comte de Chagny": 1,
+      "Daddy Daae": 1,
+      "Did": 1,
+      "Duchess de Zurich": 1,
+      "Mamma Valerius": 1
+    }
+  },
+  {
+    "canonical_name": "Was",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "\"Was the gate open?"
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 1,
+      "Breton": 1,
+      "Christine Daae": 1,
+      "Comte de Chagny": 1,
+      "Daddy Daae": 1,
+      "Did": 1,
+      "Duchess de Zurich": 1,
+      "Lotte": 1
+    }
+  },
+  {
+    "canonical_name": "Carolus Fonta",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 1,
+        "snippet": "The famous baritone, Carolus Fonta, had hardly finished Doctor Faust's"
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "arms of Carolus Fonta himself?"
+      }
+    },
+    "co_occurs_with": {
+      "Carlotta": 2,
+      "Christine Daae": 2,
+      "Opera": 2,
+      "All": 1,
+      "Box Five": 1,
+      "Cesar": 1,
+      "Comte de Chagny": 1,
+      "Doctor Faust": 1
+    }
+  },
+  {
+    "canonical_name": "All",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "\"All sorts of nonsense."
+      }
+    },
+    "co_occurs_with": {
+      "Box Five": 1,
+      "Carlotta": 1,
+      "Carolus Fonta": 1,
+      "Cesar": 1,
+      "Christine Daae": 1,
+      "Comte de Chagny": 1,
+      "Doctor Faust": 1,
+      "Firmin Richard": 1
+    }
+  },
+  {
+    "canonical_name": "Madame",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "\"Madame begs Monsieur le Vicomte to excuse her,\" said the servant."
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 1,
+      "Christine Daae": 1,
+      "Daddy Daae": 1,
+      "Joseph Buquet": 1,
+      "Mamma Valerius": 1,
+      "Mme": 1,
+      "Monsieur le Vicomte": 1,
+      "Music": 1
+    }
+  },
+  {
+    "canonical_name": "Bois",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "And now he was taking her for drives in the Bois!"
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 1,
+      "Christine Daae": 1,
+      "Erik": 1,
+      "Mamma Valerius": 1,
+      "Music": 1,
+      "Opera": 1,
+      "Perros": 1,
+      "Poor": 1
+    }
+  },
+  {
+    "canonical_name": "Poor",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "murmur: \"Poor Erik!"
+      }
+    },
+    "co_occurs_with": {
+      "Angel": 1,
+      "Bois": 1,
+      "Christine Daae": 1,
+      "Erik": 1,
+      "Mamma Valerius": 1,
+      "Music": 1,
+      "Opera": 1,
+      "Perros": 1
+    }
+  },
+  {
+    "canonical_name": "Hush",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "\"Hush, Raoul!"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 1,
+      "Mamma Valerius": 1,
+      "North Pole": 1,
+      "Opera": 1,
+      "Prince Charming": 1,
+      "Raoul": 1
+    }
+  },
+  {
+    "canonical_name": "Apollo",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 3,
+    "per_chapter": {
+      "13": {
+        "mentions": 3,
+        "snippet": "really saw Erik, what I ought to have done was to nail him to Apollo's"
+      }
+    },
+    "co_occurs_with": {
+      "Carlotta": 1,
+      "Carolus Fonta": 1,
+      "Christine Daae": 1,
+      "Comte Philippe de Chagny": 1,
+      "Count Philippe": 1,
+      "Don Juan Triumphant": 1,
+      "Erik": 1,
+      "Garden Act": 1
+    }
+  },
+  {
+    "canonical_name": "Credit Central",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 1,
+        "snippet": "Parabise, the manager of the Credit Central, noticed"
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "manager of the Credit Central \"not to touch M."
+      }
+    },
+    "co_occurs_with": {
+      "La Borderie": 2,
+      "Moncharmin": 2,
+      "Remy": 2,
+      "Richard": 2,
+      "Box Five": 1,
+      "Garden Act": 1,
+      "Joseph Buquet": 1,
+      "Mme": 1
+    }
+  },
+  {
+    "canonical_name": "La Borderie",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 2,
+        "snippet": "de La Borderie, the ambassador, has no eyes to"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "de La Borderie, the ambassador, and the"
+      }
+    },
+    "co_occurs_with": {
+      "Credit Central": 2,
+      "Moncharmin": 2,
+      "Remy": 2,
+      "Richard": 2,
+      "Box Five": 1,
+      "Garden Act": 1,
+      "Joseph Buquet": 1,
+      "Mme": 1
+    }
+  },
+  {
+    "canonical_name": "Are",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 3,
+    "per_chapter": {
+      "16": {
+        "mentions": 3,
+        "snippet": "\"Are you still on good terms with the ghost?"
+      }
+    },
+    "co_occurs_with": {
+      "Bank": 1,
+      "Box Five": 1,
+      "Christine Daae": 1,
+      "Comtesse Gilbert": 1,
+      "Dom Fernando": 1,
+      "Gabriel": 1,
+      "Jupiter Tonans": 1,
+      "King Louis": 1
+    }
+  },
+  {
+    "canonical_name": "Gailhard",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "Pedro Gailhard has himself told me that he created a few"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 1,
+      "Commissary Mifroid": 1,
+      "Erik": 1,
+      "Joseph Buquet": 1,
+      "Let": 1,
+      "Like the Persian": 1,
+      "Look": 1,
+      "Mauclair": 1
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 3,
+    "per_chapter": {
+      "21": {
+        "mentions": 3,
+        "snippet": "\"Very old and worn, my dear daroga!"
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 1,
+      "Communists": 1,
+      "De Tham": 1,
+      "Don Juan": 1,
+      "Don Juan Triumphant": 1,
+      "Erik": 1,
+      "Joseph Buquet": 1,
+      "Juan Triumphant": 1
+    }
+  },
+  {
+    "canonical_name": "Tuileries",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 3,
+    "per_chapter": {
+      "26": {
+        "mentions": 3,
+        "snippet": "Rue de Rivoli, opposite the Tuileries."
+      }
+    },
+    "co_occurs_with": {
+      "Ali Bey": 1,
+      "Andre Castaigne": 1,
+      "Asia Minor": 1,
+      "Bacchic Dance": 1,
+      "Box Five": 1,
+      "Brussels Road": 1,
+      "Caspian Sea": 1,
+      "Christine Daae": 1
+    }
+  },
+  {
+    "canonical_name": "Faure",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 3,
+    "per_chapter": {
+      "26": {
+        "mentions": 3,
+        "snippet": "the case was in the hands of an examining-magistrate called Faure, an"
+      }
+    },
+    "co_occurs_with": {
+      "Ali Bey": 1,
+      "Andre Castaigne": 1,
+      "Asia Minor": 1,
+      "Bacchic Dance": 1,
+      "Box Five": 1,
+      "Brussels Road": 1,
+      "Caspian Sea": 1,
+      "Christine Daae": 1
+    }
+  }
+]

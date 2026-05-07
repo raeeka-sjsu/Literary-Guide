@@ -1,0 +1,2828 @@
+[
+  {
+    "canonical_name": "King",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 136,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "How dar\u2019st thou use the King"
+      },
+      "8": {
+        "mentions": 10,
+        "snippet": "\u201d exclaimed the King eagerly."
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "The King"
+      },
+      "16": {
+        "mentions": 6,
+        "snippet": "as if the King had been present."
+      },
+      "17": {
+        "mentions": 26,
+        "snippet": "Let us return to the vanished little King now."
+      },
+      "18": {
+        "mentions": 13,
+        "snippet": "\u201d exclaimed Hugo, eyeing the King with surprise."
+      },
+      "21": {
+        "mentions": 6,
+        "snippet": "Oh, this was the blessedest sound that had ever made music in the King\u2019s"
+      },
+      "23": {
+        "mentions": 12,
+        "snippet": "Hendon forced back a smile, and bent down and whispered in the King\u2019s"
+      },
+      "25": {
+        "mentions": 14,
+        "snippet": "As soon as Hendon and the King were out of sight of the constable, his"
+      },
+      "26": {
+        "mentions": 7,
+        "snippet": "The King sat musing a few moments, then looked up and said--"
+      },
+      "29": {
+        "mentions": 6,
+        "snippet": "and rode off, followed by the King, the crowd opening with quiet"
+      },
+      "32": {
+        "mentions": 29,
+        "snippet": "lives--the coronation of a King."
+      }
+    },
+    "co_occurs_with": {
+      "Miles Hendon": 6,
+      "Offal Court": 2,
+      "Tom Canty": 2,
+      "Coronation Day": 2,
+      "Great Seal": 2,
+      "Hendon Hall": 2,
+      "Lady Edith": 2,
+      "London Bridge": 2
+    }
+  },
+  {
+    "canonical_name": "Tom",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 47,
+    "per_chapter": {
+      "6": {
+        "mentions": 26,
+        "snippet": "Tom was conducted to the principal apartment of a noble suite, and made"
+      },
+      "7": {
+        "mentions": 15,
+        "snippet": "Somewhat after one in the afternoon, Tom resignedly underwent the ordeal"
+      },
+      "16": {
+        "mentions": 6,
+        "snippet": "but slight discomfort to Tom, and hardly any terror."
+      }
+    },
+    "co_occurs_with": {
+      "Baron Marley": 1,
+      "Greek": 1,
+      "Guilford Dudley": 1,
+      "Jane Grey": 1,
+      "Lady Elizabeth": 1,
+      "Lady Jane": 1,
+      "Lady Jane Grey": 1,
+      "Lord Guilford Dudley": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Protector",
+    "aliases": [
+      "Protector"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 47,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "Hertford would be formally chosen to the grand office of Lord Protector;"
+      },
+      "27": {
+        "mentions": 7,
+        "snippet": "looketh to come back a peer, for he is high in favour with the Lord"
+      },
+      "30": {
+        "mentions": 3,
+        "snippet": "seeming to be something more than the Lord Protector\u2019s mouthpiece."
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "trappings almost reached to the ground; his \u2018uncle,\u2019 the Lord Protector"
+      },
+      "32": {
+        "mentions": 31,
+        "snippet": "these were followed by the Lord Protector and other great officials, and"
+      }
+    },
+    "co_occurs_with": {
+      "Tom Canty": 4,
+      "Offal Court": 3,
+      "Duke": 2,
+      "The King": 2,
+      "Earl": 1,
+      "Giles Witt": 1,
+      "Grace": 1,
+      "Have": 1
+    }
+  },
+  {
+    "canonical_name": "Tom Canty",
+    "aliases": [
+      "Canty"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 44,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "But there was no talk about the other baby, Tom Canty,"
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "part where Tom Canty lived, which was not far from London Bridge."
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "\u201cTom Canty, an\u2019 it please thee, sir."
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "In sooth I am no lord, but only poor Tom Canty"
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "burst into a mighty roar of welcome; and Tom Canty, the cause and hero"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "But the effect upon Tom Canty\u2019s mother and"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "To Tom Canty, half buried in his silken cushions, these sounds and this"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "Toward daylight of the same morning, Tom Canty stirred out of a heavy"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "The third day of Tom Canty\u2019s kingship came and went much as the others"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "sometimes the victim of small spitefulness at the hands of Canty and"
+      },
+      "30": {
+        "mentions": 3,
+        "snippet": "O happy Tom Canty, late of Offal Court!"
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "Tom Canty was not sorry; for this loyal uproar was sweeter music to him"
+      },
+      "32": {
+        "mentions": 16,
+        "snippet": "burst forth, and Tom Canty, clothed in a long robe of cloth of gold,"
+      },
+      "33": {
+        "mentions": 3,
+        "snippet": "apart, and Tom Canty, quaintly but richly clothed, marched down, between"
+      }
+    },
+    "co_occurs_with": {
+      "Offal Court": 8,
+      "Jane Grey": 5,
+      "Lady Jane Grey": 5,
+      "The King": 5,
+      "Prince": 4,
+      "Lord Hertford": 4,
+      "Lord Protector": 4,
+      "Father Andrew": 3
+    }
+  },
+  {
+    "canonical_name": "Lord Hertford",
+    "aliases": [
+      "Hertford"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 43,
+    "per_chapter": {
+      "5": {
+        "mentions": 2,
+        "snippet": "Lord Hertford said--"
+      },
+      "6": {
+        "mentions": 15,
+        "snippet": "take advice in that matter of the Lord Hertford, or my humble self,"
+      },
+      "8": {
+        "mentions": 5,
+        "snippet": "At last my Lord Hertford ventured to kneel and"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "He said, in a low tone, at Lord Hertford\u2019s ear--"
+      },
+      "14": {
+        "mentions": 12,
+        "snippet": "His \u2018uncle,\u2019 Lord Hertford, took his stand by the throne, to"
+      },
+      "15": {
+        "mentions": 4,
+        "snippet": "Tom said the words which Hertford put into"
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "Give it to none but my uncle, the Lord"
+      }
+    },
+    "co_occurs_with": {
+      "Jane Grey": 4,
+      "Lady Jane Grey": 4,
+      "Tom Canty": 4,
+      "The King": 3,
+      "Norfolk": 2,
+      "Offal Court": 2,
+      "High Admiral": 2,
+      "Lady Jane": 2
+    }
+  },
+  {
+    "canonical_name": "Prince",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 41,
+    "per_chapter": {
+      "3": {
+        "mentions": 8,
+        "snippet": "You should have heard them cheer, and shout, \u201cLong live the Prince of"
+      },
+      "10": {
+        "mentions": 22,
+        "snippet": "The Prince continued"
+      },
+      "11": {
+        "mentions": 4,
+        "snippet": "ragged but real little Prince of Wales was proclaiming his rights and"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "the Prince\u2019s--no, the King\u2019s--wrist."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "In sooth, yesternight wert thou the Prince of Wales; to-day art"
+      }
+    },
+    "co_occurs_with": {
+      "Tom Canty": 4,
+      "Wales": 4,
+      "Jane Grey": 3,
+      "Lady Jane Grey": 3,
+      "Nan": 3,
+      "Offal Court": 3,
+      "The King": 3,
+      "Bet": 2
+    }
+  },
+  {
+    "canonical_name": "Sir Hugh",
+    "aliases": [
+      "Hugh"
+    ],
+    "first_chapter": 12,
+    "total_mentions": 37,
+    "per_chapter": {
+      "12": {
+        "mentions": 4,
+        "snippet": "will my good elder brother, Arthur; my other brother, Hugh--but I will"
+      },
+      "25": {
+        "mentions": 3,
+        "snippet": "\u201cHe is armed, Sir Hugh, and we are weaponless."
+      },
+      "27": {
+        "mentions": 9,
+        "snippet": "An\u2019 I were Sir Hugh, I would take"
+      },
+      "28": {
+        "mentions": 12,
+        "snippet": "\u201cHalf a dozen will better serve his turn,\u201d suggested Sir Hugh, who had"
+      },
+      "33": {
+        "mentions": 9,
+        "snippet": "These were Sir Hugh and the Lady Edith."
+      }
+    },
+    "co_occurs_with": {
+      "Miles Hendon": 5,
+      "Hendon Hall": 4,
+      "Lady Edith": 4,
+      "The King": 4,
+      "London Bridge": 3,
+      "Sir Richard": 3,
+      "De Courcy": 2,
+      "Hugh Hendon": 2
+    }
+  },
+  {
+    "canonical_name": "Hugo",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 34,
+    "per_chapter": {
+      "18": {
+        "mentions": 11,
+        "snippet": "The Ruffler put \u2018Jack\u2019 in Hugo\u2019s charge, with some brief instructions,"
+      },
+      "22": {
+        "mentions": 23,
+        "snippet": "Hugo when the Ruffler\u2019s back was turned."
+      }
+    },
+    "co_occurs_with": {
+      "Cocks": 1,
+      "Game": 1,
+      "King Foo": 1,
+      "Miles Hendon": 1,
+      "Ruffler": 1,
+      "Sir Miles": 1,
+      "Tom Canty": 1,
+      "John Canty": 1
+    }
+  },
+  {
+    "canonical_name": "Hendon",
+    "aliases": [],
+    "first_chapter": 24,
+    "total_mentions": 30,
+    "per_chapter": {
+      "24": {
+        "mentions": 5,
+        "snippet": "When he had reached the middle of it, Hendon"
+      },
+      "27": {
+        "mentions": 18,
+        "snippet": "upon his royalty, but Hendon was moody and taciturn."
+      },
+      "29": {
+        "mentions": 7,
+        "snippet": "When Hendon\u2019s term of service in the stocks was finished, he was"
+      }
+    },
+    "co_occurs_with": {
+      "The King": 2,
+      "Coronation Day": 1,
+      "Head Lieutenant": 1,
+      "Humphrey Marlow": 1,
+      "King": 1,
+      "London Bridge": 1,
+      "Sir Humphrey": 1,
+      "Sir Humphrey Marlow": 1
+    }
+  },
+  {
+    "canonical_name": "Lord St",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 26,
+    "per_chapter": {
+      "6": {
+        "mentions": 18,
+        "snippet": "The Lord St."
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "William Lord St."
+      },
+      "32": {
+        "mentions": 7,
+        "snippet": "with the easy manner of one accustomed to doing such things: \u201cMy Lord"
+      }
+    },
+    "co_occurs_with": {
+      "Great Seal": 2,
+      "Jane Grey": 2,
+      "Lady Elizabeth": 2,
+      "Lady Jane Grey": 2,
+      "Lord Hertford": 2,
+      "Offal Court": 2,
+      "Sir Thomas Seymour": 2,
+      "Tom Canty": 2
+    }
+  },
+  {
+    "canonical_name": "Lady Edith",
+    "aliases": [
+      "Edith"
+    ],
+    "first_chapter": 12,
+    "total_mentions": 24,
+    "per_chapter": {
+      "12": {
+        "mentions": 6,
+        "snippet": "none other of us but the Lady Edith, my cousin--she was sixteen"
+      },
+      "25": {
+        "mentions": 6,
+        "snippet": "My father and my brother, and the Lady Edith will be so mad with"
+      },
+      "26": {
+        "mentions": 6,
+        "snippet": "Lady Edith entered."
+      },
+      "27": {
+        "mentions": 3,
+        "snippet": "Lady Edith and the servants were to be heard on all hands; and since the"
+      },
+      "33": {
+        "mentions": 3,
+        "snippet": "These were Sir Hugh and the Lady Edith."
+      }
+    },
+    "co_occurs_with": {
+      "Miles Hendon": 5,
+      "Sir Hugh": 4,
+      "Sir Richard": 4,
+      "Hendon Hall": 3,
+      "London Bridge": 3,
+      "The King": 3,
+      "De Courcy": 2,
+      "Hugh Hendon": 2
+    }
+  },
+  {
+    "canonical_name": "The King",
+    "aliases": [
+      "The"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 23,
+    "per_chapter": {
+      "5": {
+        "mentions": 2,
+        "snippet": "\u201cThe King\u2019s majesty knoweth that the Hereditary Great Marshal of England"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "\u201cThe King hath said it."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "\u201cThe King thy father!"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "\u201cThe King is dead!"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "abroad, and the boy learned it from a thousand voices at once--\u201cThe King"
+      },
+      "13": {
+        "mentions": 6,
+        "snippet": "The King"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "\u201cThe King of England."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "\u201d The King hastened to interrupt and explain, but the hermit paid"
+      },
+      "24": {
+        "mentions": 5,
+        "snippet": "The short winter day was nearly ended."
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "\u201cThe King is _not_ mad, good man--and thou\u2019lt find it to thy advantage"
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "The King was in the act of entering a fierce protest, but Sir Hugh"
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "chronicler says, \u2018The King, as he entered the city, was received by the"
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "\u201cThe King did not name him so,\u201d he said to"
+      }
+    },
+    "co_occurs_with": {
+      "Tom Canty": 5,
+      "Miles Hendon": 5,
+      "Hendon Hall": 4,
+      "Sir Hugh": 4,
+      "Jane Grey": 3,
+      "Lady Jane Grey": 3,
+      "Lord Hertford": 3,
+      "Offal Court": 3
+    }
+  },
+  {
+    "canonical_name": "Miles Hendon",
+    "aliases": [
+      "Miles"
+    ],
+    "first_chapter": 12,
+    "total_mentions": 23,
+    "per_chapter": {
+      "12": {
+        "mentions": 5,
+        "snippet": "As soon as Miles Hendon and the little prince were clear of the mob,"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "_went_--he went, yes, because he thought Miles Hendon asked it, sweet"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "friend in the world, or a protector, until he met Miles Hendon, he would"
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "ears; for it was Miles Hendon\u2019s voice!"
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "Miles; carve me this rabble to rags!"
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "accuser, and Miles Hendon."
+      },
+      "25": {
+        "mentions": 3,
+        "snippet": "take thee to their breasts for Miles Hendon\u2019s sake, and make their house"
+      },
+      "26": {
+        "mentions": 3,
+        "snippet": "Am I Miles Hendon?"
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "I am old and poor, Sir Miles; but say the word and I will go"
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "But meantime, Miles Hendon was resolving the difficulty."
+      },
+      "33": {
+        "mentions": 4,
+        "snippet": "\u201cThen say Miles Hendon, son of Sir Richard, is here without--I shall be"
+      }
+    },
+    "co_occurs_with": {
+      "King": 6,
+      "Hendon Hall": 5,
+      "Lady Edith": 5,
+      "Sir Hugh": 5,
+      "The King": 5,
+      "Sir Richard": 4,
+      "London Bridge": 3,
+      "Sir Miles": 3
+    }
+  },
+  {
+    "canonical_name": "Sir Richard",
+    "aliases": [
+      "Richard"
+    ],
+    "first_chapter": 12,
+    "total_mentions": 21,
+    "per_chapter": {
+      "12": {
+        "mentions": 7,
+        "snippet": "a baronet--one of the smaller lords by knight service {2}--Sir Richard"
+      },
+      "26": {
+        "mentions": 3,
+        "snippet": "guardian, Sir Richard, are free of him, and at rest: better that"
+      },
+      "27": {
+        "mentions": 8,
+        "snippet": "came which brought the news of Miles\u2019s death; the shock prostrated Sir"
+      },
+      "33": {
+        "mentions": 3,
+        "snippet": "\u201cThen say Miles Hendon, son of Sir Richard, is here without--I shall be"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Edith": 4,
+      "Miles Hendon": 4,
+      "Sir Hugh": 3,
+      "The King": 3,
+      "De Courcy": 2,
+      "Hendon Hall": 2,
+      "London Bridge": 2,
+      "Majesty": 2
+    }
+  },
+  {
+    "canonical_name": "Majesty",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 21,
+    "per_chapter": {
+      "12": {
+        "mentions": 8,
+        "snippet": "humour the poor lad\u2019s madness, I must \u2018Sire\u2019 him, I must \u2018Majesty\u2019 him,"
+      },
+      "15": {
+        "mentions": 9,
+        "snippet": "\u201cSo please your Majesty, he hath taken the life of a subject by poison."
+      },
+      "33": {
+        "mentions": 4,
+        "snippet": "his Majesty is in such a worry about, then am I an ass--though belike I"
+      }
+    },
+    "co_occurs_with": {
+      "Tom Canty": 2,
+      "De Courcy": 2,
+      "Hendon Hall": 2,
+      "Lady Edith": 2,
+      "London Bridge": 2,
+      "Miles Hendon": 2,
+      "Sir Hugh": 2,
+      "Sir Richard": 2
+    }
+  },
+  {
+    "canonical_name": "Offal Court",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 16,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Offal Court, out of Pudding Lane."
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cOffal Court!"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "He kept muttering to himself, \u201cOffal Court--that is the"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "sumptuous chairs, and thought how proud he would be if the Offal Court"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "We left John Canty dragging the rightful prince into Offal Court, with"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "Then the dwarf vanished, and Tom flew to Offal Court with his prize,"
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "O happy Tom Canty, late of Offal Court!"
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "of his ragged Offal Court comrades--one of them the lord high admiral in"
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "mine old grandam--and the rough games of the lads of Offal Court--yes,"
+      }
+    },
+    "co_occurs_with": {
+      "Tom Canty": 8,
+      "Jane Grey": 4,
+      "Lady Jane Grey": 4,
+      "Father Andrew": 3,
+      "John Canty": 3,
+      "Lady Elizabeth": 3,
+      "Nan": 3,
+      "Prince": 3
+    }
+  },
+  {
+    "canonical_name": "Lord Mayor",
+    "aliases": [
+      "Mayor"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 16,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "to accompany him to the Lord Mayor\u2019s banquet in the evening, his heart"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "Tom and his little ladies were received with due ceremony by the Lord"
+      },
+      "33": {
+        "mentions": 11,
+        "snippet": "Ridley) depart till the letter was written (to the Lord Mayor), and then"
+      }
+    },
+    "co_occurs_with": {
+      "The King": 3,
+      "Jane Grey": 2,
+      "Lady Jane": 2,
+      "Lady Jane Grey": 2,
+      "Lord Hertford": 2,
+      "Princess Elizabeth": 2,
+      "Tom Canty": 2,
+      "Barge Yard": 1
+    }
+  },
+  {
+    "canonical_name": "Thou",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 16,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cThou\u2019lt meddle, wilt thou?"
+      },
+      "12": {
+        "mentions": 6,
+        "snippet": "Thou\u2019lt not escape again, I warrant thee;"
+      },
+      "17": {
+        "mentions": 6,
+        "snippet": "\u201cThou\u2019lt tarry here, and thy friend lying wounded in the wood yonder?"
+      }
+    },
+    "co_occurs_with": {
+      "John Canty": 2,
+      "London Bridge": 2,
+      "Prince": 2,
+      "The King": 2,
+      "Wales": 2,
+      "Miles Hendon": 2,
+      "Father Andrew": 1,
+      "Mrs. Canty": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Chancellor",
+    "aliases": [
+      "Chancellor"
+    ],
+    "first_chapter": 8,
+    "total_mentions": 15,
+    "per_chapter": {
+      "8": {
+        "mentions": 9,
+        "snippet": "pleasure concerning the Lord Chancellor, who was waiting without."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "wit: the Archbishop of Canterbury; the Lord Chancellor of England;"
+      },
+      "27": {
+        "mentions": 3,
+        "snippet": "Lord Chancellor, accusing him of injustice, and had been punished for"
+      }
+    },
+    "co_occurs_with": {
+      "Great Seal": 2,
+      "Lord Hertford": 2,
+      "Duke": 2,
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Jane Grey",
+    "aliases": [
+      "Jane"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 14,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "\u201cThe Lady Elizabeth, my sister, is fourteen, and the Lady Jane Grey,"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "\u201cThe Lady Jane Grey."
+      },
+      "6": {
+        "mentions": 5,
+        "snippet": "At this moment the Lady Elizabeth and the Lady Jane Grey were announced."
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "little friends at his side, the Princess Elizabeth and the Lady Jane"
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "Lady Jane Grey; though the spirits of the princesses were rather subdued"
+      },
+      "30": {
+        "mentions": 2,
+        "snippet": "He ordered my Lady Elizabeth and my Lady Jane Grey into his presence"
+      }
+    },
+    "co_occurs_with": {
+      "Jane Grey": 6,
+      "Tom Canty": 5,
+      "Lady Elizabeth": 4,
+      "Offal Court": 4,
+      "Lord Hertford": 4,
+      "Prince": 3,
+      "The King": 3,
+      "Bet": 2
+    }
+  },
+  {
+    "canonical_name": "Wales",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 14,
+    "per_chapter": {
+      "3": {
+        "mentions": 5,
+        "snippet": "Wales!"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "thee now, as I told thee before, I am Edward, Prince of Wales, and none"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "diseased ravings he called himself the Prince of Wales, and bravely doth"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "In sooth, yesternight wert thou the Prince of Wales; to-day art"
+      }
+    },
+    "co_occurs_with": {
+      "Prince": 4,
+      "Nan": 3,
+      "Offal Court": 3,
+      "Tom Canty": 3,
+      "Bet": 2,
+      "Father Andrew": 2,
+      "Jane Grey": 2,
+      "Lady Elizabeth": 2
+    }
+  },
+  {
+    "canonical_name": "Lady Elizabeth",
+    "aliases": [
+      "Elizabeth"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 13,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "\u201cThe Lady Elizabeth, my sister, is fourteen, and the Lady Jane Grey,"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "At this moment the Lady Elizabeth and the Lady Jane Grey were announced."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "John, with the Lady Elizabeth and the little"
+      },
+      "30": {
+        "mentions": 3,
+        "snippet": "He ordered my Lady Elizabeth and my Lady Jane Grey into his presence"
+      }
+    },
+    "co_occurs_with": {
+      "Jane Grey": 4,
+      "Lady Jane Grey": 4,
+      "Offal Court": 3,
+      "Tom Canty": 3,
+      "Bet": 2,
+      "Lady Mary": 2,
+      "Nan": 2,
+      "Prince": 2
+    }
+  },
+  {
+    "canonical_name": "Norfolk",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 12,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "the great lords of Norfolk and Surrey into his hands for captivity."
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "having confirmed the Duke of Norfolk\u2019s doom, they humbly wait his"
+      },
+      "33": {
+        "mentions": 6,
+        "snippet": "The Duke of Norfolk\u2019s Condemnation commanded."
+      }
+    },
+    "co_occurs_with": {
+      "Earl Marshal": 2,
+      "Lord Hertford": 2,
+      "The King": 2,
+      "Tom Canty": 2,
+      "Hereditary Great Marshal": 1,
+      "Jane Grey": 1,
+      "Lady Jane Grey": 1,
+      "Offal Court": 1
+    }
+  },
+  {
+    "canonical_name": "John Canty",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 11,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "or sober; John Canty was a thief, and his mother a beggar."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "body, then am I not John Canty, but some other."
+      },
+      "10": {
+        "mentions": 5,
+        "snippet": "We left John Canty dragging the rightful prince into Offal Court, with"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "not keep us waiting another time, mayhap,\u201d--and John Canty put out his"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "and commanded John Canty to keep away from him and let him alone; he"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "stood John Canty and Hugo!"
+      }
+    },
+    "co_occurs_with": {
+      "London Bridge": 3,
+      "Offal Court": 3,
+      "Father Andrew": 2,
+      "Tom Canty": 2,
+      "Prince": 2,
+      "The King": 2,
+      "Thou": 2,
+      "Wales": 2
+    }
+  },
+  {
+    "canonical_name": "Great Seal",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 11,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "Great Seal in commission: choose thou the lords that shall compose it,"
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "a little further, it will resolve the puzzle of the Great Seal--a loss"
+      },
+      "32": {
+        "mentions": 6,
+        "snippet": "\u201cWhere lieth the Great Seal?"
+      }
+    },
+    "co_occurs_with": {
+      "Lord Chancellor": 2,
+      "Lord Hertford": 2,
+      "Lord St": 2,
+      "Offal Court": 2,
+      "Sir Thomas Seymour": 2,
+      "Tom Canty": 2,
+      "King": 2,
+      "Alack": 1
+    }
+  },
+  {
+    "canonical_name": "Father Andrew",
+    "aliases": [
+      "Andrew"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 10,
+    "per_chapter": {
+      "2": {
+        "mentions": 5,
+        "snippet": "Father Andrew also taught Tom a little Latin, and"
+      },
+      "3": {
+        "mentions": 2,
+        "snippet": "The good priest that is called Father"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "\u2019Tis the priest, Father Andrew!"
+      }
+    },
+    "co_occurs_with": {
+      "Offal Court": 3,
+      "Tom Canty": 3,
+      "John Canty": 2,
+      "London Bridge": 2,
+      "Pudding Lane": 2,
+      "Nan": 2,
+      "Prince": 2,
+      "Wales": 2
+    }
+  },
+  {
+    "canonical_name": "Nan",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 10,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "sisters, Nan and Bet."
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cWhat, Nan!"
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "Ho, Nan!"
+      }
+    },
+    "co_occurs_with": {
+      "Offal Court": 3,
+      "Prince": 3,
+      "Tom Canty": 3,
+      "Wales": 3,
+      "Bet": 2,
+      "Father Andrew": 2,
+      "Jane Grey": 2,
+      "Lady Elizabeth": 2
+    }
+  },
+  {
+    "canonical_name": "London Bridge",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 9,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "part where Tom Canty lived, which was not far from London Bridge."
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "\u201cIf it so chance that we be separated, let each make for London Bridge;"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "way was unobstructed until they approached London Bridge; then they"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "Hendon had bought on London Bridge."
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "they stepped upon London Bridge, in the midst of a writhing, struggling"
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "London Bridge--he was more so when he got out of it."
+      }
+    },
+    "co_occurs_with": {
+      "John Canty": 3,
+      "Tom Canty": 3,
+      "The King": 3,
+      "Hendon Hall": 3,
+      "Lady Edith": 3,
+      "Miles Hendon": 3,
+      "Sir Hugh": 3,
+      "Father Andrew": 2
+    }
+  },
+  {
+    "canonical_name": "Lady Jane",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 9,
+    "per_chapter": {
+      "6": {
+        "mentions": 6,
+        "snippet": "Once the little Lady Jane turned"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "little friends at his side, the Princess Elizabeth and the Lady Jane"
+      }
+    },
+    "co_occurs_with": {
+      "Jane Grey": 2,
+      "Lady Jane Grey": 2,
+      "Lord Hertford": 2,
+      "Lord Mayor": 2,
+      "Princess Elizabeth": 2,
+      "The King": 2,
+      "Barge Yard": 1,
+      "City Sword": 1
+    }
+  },
+  {
+    "canonical_name": "Sir William Herbert",
+    "aliases": [
+      "William"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 9,
+    "per_chapter": {
+      "6": {
+        "mentions": 2,
+        "snippet": "presence of Sir William Herbert."
+      },
+      "10": {
+        "mentions": 7,
+        "snippet": "\u201cHo, Sir William Herbert!"
+      }
+    },
+    "co_occurs_with": {
+      "The King": 2,
+      "William Herbert": 2,
+      "Father Andrew": 1,
+      "John Canty": 1,
+      "London Bridge": 1,
+      "Mrs. Canty": 1,
+      "Nan": 1,
+      "Offal Court": 1
+    }
+  },
+  {
+    "canonical_name": "Duke",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 9,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "having confirmed the Duke of Norfolk\u2019s doom, they humbly wait his"
+      },
+      "27": {
+        "mentions": 3,
+        "snippet": "\u201cHis Grace the Duke of Somerset."
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "So saying, the Duke scattered a handful of coins to right and left, then"
+      }
+    },
+    "co_occurs_with": {
+      "Lord Protector": 2,
+      "The King": 2,
+      "Lord Chancellor": 2,
+      "Artillery Company": 1,
+      "Fenchurch Street": 1,
+      "Gracechurch Street": 1,
+      "Jane Seymour": 1,
+      "Lord Protector Somerset": 1
+    }
+  },
+  {
+    "canonical_name": "Hendon Hall",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 9,
+    "per_chapter": {
+      "12": {
+        "mentions": 2,
+        "snippet": "Hendon of Hendon Hall, by Monk\u2019s Holm in Kent."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "Hendon Hall--"
+      },
+      "25": {
+        "mentions": 3,
+        "snippet": "at Hendon Hall; what a surprise it would be to everybody, and what an"
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "and for assaulting the master of Hendon Hall."
+      },
+      "33": {
+        "mentions": 2,
+        "snippet": "that black day at Hendon Hall."
+      }
+    },
+    "co_occurs_with": {
+      "Miles Hendon": 5,
+      "Sir Hugh": 4,
+      "The King": 4,
+      "Lady Edith": 3,
+      "London Bridge": 3,
+      "De Courcy": 2,
+      "Hugh Hendon": 2,
+      "Majesty": 2
+    }
+  },
+  {
+    "canonical_name": "Grace",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 9,
+    "per_chapter": {
+      "14": {
+        "mentions": 6,
+        "snippet": "masters\u2019 sense of the heavy calamity which hath visited your Grace and"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201cHave I your Grace\u2019s leave to act?"
+      }
+    },
+    "co_occurs_with": {
+      "Lord Hertford": 2,
+      "Tom Canty": 2,
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1,
+      "Buckhounds": 1
+    }
+  },
+  {
+    "canonical_name": "Christ",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 8,
+    "per_chapter": {
+      "33": {
+        "mentions": 8,
+        "snippet": "that abide in the shelter of Christ\u2019s Hospital and share the King\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Commons": 1,
+      "Connecticut": 1
+    }
+  },
+  {
+    "canonical_name": "Bet",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 7,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "sisters, Nan and Bet."
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "Bet!"
+      }
+    },
+    "co_occurs_with": {
+      "Jane Grey": 2,
+      "Lady Elizabeth": 2,
+      "Lady Jane Grey": 2,
+      "Nan": 2,
+      "Offal Court": 2,
+      "Prince": 2,
+      "Tom Canty": 2,
+      "Wales": 2
+    }
+  },
+  {
+    "canonical_name": "Southwark",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 7,
+    "per_chapter": {
+      "13": {
+        "mentions": 3,
+        "snippet": "and then will we hie us to the mart by the Tabard Inn in Southwark"
+      },
+      "17": {
+        "mentions": 4,
+        "snippet": "Miles Hendon hurried along toward the Southwark end of the bridge,"
+      }
+    },
+    "co_occurs_with": {
+      "King": 2,
+      "Miles Hendon": 2,
+      "Tabard Inn": 2,
+      "Hendon Hall": 1,
+      "The King": 1,
+      "Bien Darkman": 1,
+      "Bouse Mort": 1,
+      "Edward": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Humphrey Marlow",
+    "aliases": [
+      "Humphrey"
+    ],
+    "first_chapter": 14,
+    "total_mentions": 7,
+    "per_chapter": {
+      "14": {
+        "mentions": 1,
+        "snippet": "Seeing Master Humphrey hesitate, Tom encouraged him to go on, saying he"
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "Maybe his father\u2019s old friend Sir Humphrey"
+      },
+      "33": {
+        "mentions": 4,
+        "snippet": "old Sir Humphrey Marlow and borrow a few marks, and--but that was enough"
+      }
+    },
+    "co_occurs_with": {
+      "Humphrey Marlow": 3,
+      "Tom Canty": 2,
+      "London Bridge": 2,
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1
+    }
+  },
+  {
+    "canonical_name": "Ruffler",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 7,
+    "per_chapter": {
+      "17": {
+        "mentions": 3,
+        "snippet": "The Ruffler sighed; the listeners sighed in sympathy; a general"
+      },
+      "22": {
+        "mentions": 4,
+        "snippet": "Hugo when the Ruffler\u2019s back was turned."
+      }
+    },
+    "co_occurs_with": {
+      "Miles Hendon": 2,
+      "Cocks": 1,
+      "Game": 1,
+      "Hugo": 1,
+      "King Foo": 1,
+      "Sir Miles": 1,
+      "Tom Canty": 1,
+      "Bien Darkman": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Miles",
+    "aliases": [],
+    "first_chapter": 22,
+    "total_mentions": 7,
+    "per_chapter": {
+      "22": {
+        "mentions": 1,
+        "snippet": "\u201cThou hast lagged sorely, but thou comest in good season, now, Sir"
+      },
+      "26": {
+        "mentions": 4,
+        "snippet": "\u201cOh, I spake not of _him_, Sir Miles."
+      },
+      "27": {
+        "mentions": 2,
+        "snippet": "I am old and poor, Sir Miles; but say the word and I will go"
+      }
+    },
+    "co_occurs_with": {
+      "Miles Hendon": 3,
+      "Lady Edith": 2,
+      "Sir Richard": 2,
+      "Cocks": 1,
+      "Game": 1,
+      "Hugo": 1,
+      "King Foo": 1,
+      "Ruffler": 1
+    }
+  },
+  {
+    "canonical_name": "Hume",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 7,
+    "per_chapter": {
+      "33": {
+        "mentions": 7,
+        "snippet": "{4} Hume."
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "Jane Grey",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 6,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "\u201cThe Lady Elizabeth, my sister, is fourteen, and the Lady Jane Grey,"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "\u201cThe Lady Jane Grey."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "At this moment the Lady Elizabeth and the Lady Jane Grey were announced."
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "little friends at his side, the Princess Elizabeth and the Lady Jane"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Lady Jane Grey; though the spirits of the princesses were rather subdued"
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "He ordered my Lady Elizabeth and my Lady Jane Grey into his presence"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Jane Grey": 6,
+      "Tom Canty": 5,
+      "Lady Elizabeth": 4,
+      "Offal Court": 4,
+      "Lord Hertford": 4,
+      "Prince": 3,
+      "The King": 3,
+      "Bet": 2
+    }
+  },
+  {
+    "canonical_name": "Lady Mary",
+    "aliases": [
+      "Mary"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 6,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "my sister the Lady Mary, with her gloomy mien and--Look you: do thy"
+      },
+      "30": {
+        "mentions": 3,
+        "snippet": "royal \u2018sister,\u2019 the grimly holy Lady Mary, set herself to reason with"
+      }
+    },
+    "co_occurs_with": {
+      "Jane Grey": 2,
+      "Lady Elizabeth": 2,
+      "Lady Jane Grey": 2,
+      "Offal Court": 2,
+      "Tom Canty": 2,
+      "Bet": 1,
+      "Charing Village": 1,
+      "Father Andrew": 1
+    }
+  },
+  {
+    "canonical_name": "Lord High Admiral",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 6,
+    "per_chapter": {
+      "11": {
+        "mentions": 2,
+        "snippet": "a knight, then the Lord High Admiral, and with him five nobles, in"
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "to the Lord High Admiral of England, who passed it to the Archbishop of"
+      }
+    },
+    "co_occurs_with": {
+      "High Admiral": 2,
+      "Jane Grey": 2,
+      "Lady Jane Grey": 2,
+      "Lord Hertford": 2,
+      "Prince": 2,
+      "Tom Canty": 2,
+      "Barge Yard": 1,
+      "City Sword": 1
+    }
+  },
+  {
+    "canonical_name": "Arthur",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 6,
+    "per_chapter": {
+      "12": {
+        "mentions": 6,
+        "snippet": "will my good elder brother, Arthur; my other brother, Hugh--but I will"
+      }
+    },
+    "co_occurs_with": {
+      "De Courcy": 1,
+      "Hendon Hall": 1,
+      "John Canty": 1,
+      "King Edward the Sixth": 1,
+      "Lady Edith": 1,
+      "London Bridge": 1,
+      "Lord de Courcy": 1,
+      "Majesty": 1
+    }
+  },
+  {
+    "canonical_name": "First",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 6,
+    "per_chapter": {
+      "14": {
+        "mentions": 6,
+        "snippet": "He opened his eyes--the richly clad First Lord of the Bedchamber was"
+      }
+    },
+    "co_occurs_with": {
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1,
+      "Buckhounds": 1,
+      "Canterbury": 1,
+      "Chancellor Royal": 1
+    }
+  },
+  {
+    "canonical_name": "Council",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 6,
+    "per_chapter": {
+      "14": {
+        "mentions": 6,
+        "snippet": "The Archbishop of Canterbury made report of the decree of the Council"
+      }
+    },
+    "co_occurs_with": {
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1,
+      "Buckhounds": 1,
+      "Canterbury": 1,
+      "Chancellor Royal": 1
+    }
+  },
+  {
+    "canonical_name": "Earl",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 6,
+    "per_chapter": {
+      "15": {
+        "mentions": 6,
+        "snippet": "with the Earl of Hertford and dully awaiting the striking of the hour"
+      }
+    },
+    "co_occurs_with": {
+      "Giles Witt": 1,
+      "Grace": 1,
+      "Have": 1,
+      "Lord Hertford": 1,
+      "Lord Protector": 1,
+      "Majesty": 1,
+      "New Year": 1,
+      "Please": 1
+    }
+  },
+  {
+    "canonical_name": "Welcome",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 6,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "\u201cWelcome, King!"
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "\u2018Welcome, O King!"
+      }
+    },
+    "co_occurs_with": {
+      "The King": 2,
+      "Would God": 2,
+      "Artillery Company": 1,
+      "Duke": 1,
+      "Fenchurch Street": 1,
+      "Gracechurch Street": 1,
+      "Jane Seymour": 1,
+      "Lord Protector": 1
+    }
+  },
+  {
+    "canonical_name": "Blue Laws",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 6,
+    "per_chapter": {
+      "33": {
+        "mentions": 6,
+        "snippet": "Hammond Trumbull\u2019s Blue Laws, True and False, p."
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1,
+      "Connecticut": 1
+    }
+  },
+  {
+    "canonical_name": "Humphrey Marlow",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 5,
+    "per_chapter": {
+      "14": {
+        "mentions": 2,
+        "snippet": "I am Humphrey--Humphrey Marlow."
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "Maybe his father\u2019s old friend Sir Humphrey"
+      },
+      "33": {
+        "mentions": 2,
+        "snippet": "old Sir Humphrey Marlow and borrow a few marks, and--but that was enough"
+      }
+    },
+    "co_occurs_with": {
+      "Sir Humphrey Marlow": 3,
+      "Tom Canty": 2,
+      "London Bridge": 2,
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1
+    }
+  },
+  {
+    "canonical_name": "Bedchamber",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 5,
+    "per_chapter": {
+      "14": {
+        "mentions": 5,
+        "snippet": "He opened his eyes--the richly clad First Lord of the Bedchamber was"
+      }
+    },
+    "co_occurs_with": {
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bet": 1,
+      "Bloody Mary": 1,
+      "Buckhounds": 1,
+      "Canterbury": 1,
+      "Chancellor Royal": 1,
+      "Chief Equerry": 1
+    }
+  },
+  {
+    "canonical_name": "Archbishop",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 5,
+    "per_chapter": {
+      "14": {
+        "mentions": 5,
+        "snippet": "to the Lord High Admiral of England, who passed it to the Archbishop of"
+      }
+    },
+    "co_occurs_with": {
+      "Alack": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1,
+      "Buckhounds": 1,
+      "Canterbury": 1,
+      "Chancellor Royal": 1,
+      "Chief Equerry": 1
+    }
+  },
+  {
+    "canonical_name": "Trumbull",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 5,
+    "per_chapter": {
+      "33": {
+        "mentions": 5,
+        "snippet": "Hammond Trumbull\u2019s Blue Laws, True and False, p."
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "True",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 5,
+    "per_chapter": {
+      "33": {
+        "mentions": 5,
+        "snippet": "Hammond Trumbull\u2019s Blue Laws, True and False, p."
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "False",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 5,
+    "per_chapter": {
+      "33": {
+        "mentions": 5,
+        "snippet": "Hammond Trumbull\u2019s Blue Laws, True and False, p."
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "History",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 5,
+    "per_chapter": {
+      "33": {
+        "mentions": 5,
+        "snippet": "--Hume\u2019s History of England, vol."
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "Henry",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 5,
+    "per_chapter": {
+      "33": {
+        "mentions": 5,
+        "snippet": "It was not till the end of this reign (Henry VIII."
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "Princess Elizabeth",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 4,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "tremendous part; but the tact of the Princess Elizabeth saved him, or a"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "little friends at his side, the Princess Elizabeth and the Lady Jane"
+      }
+    },
+    "co_occurs_with": {
+      "Jane Grey": 2,
+      "Lady Jane": 2,
+      "Lady Jane Grey": 2,
+      "Lord Hertford": 2,
+      "Lord Mayor": 2,
+      "The King": 2,
+      "Barge Yard": 1,
+      "City Sword": 1
+    }
+  },
+  {
+    "canonical_name": "Edward",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 4,
+    "per_chapter": {
+      "9": {
+        "mentions": 1,
+        "snippet": "a proclamation, \u201cWay for the high and mighty the Lord Edward, Prince of"
+      },
+      "17": {
+        "mentions": 3,
+        "snippet": "\u201cI am Edward, King of England."
+      }
+    },
+    "co_occurs_with": {
+      "High Chancellor": 1,
+      "Lord Edward": 1,
+      "Lord High Chancellor": 1,
+      "Tom Canty": 1,
+      "Bien Darkman": 1,
+      "Bouse Mort": 1,
+      "John Hobbs": 1,
+      "King": 1
+    }
+  },
+  {
+    "canonical_name": "Sir William",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cSir William!"
+      }
+    },
+    "co_occurs_with": {
+      "Father Andrew": 1,
+      "John Canty": 1,
+      "London Bridge": 1,
+      "Mrs. Canty": 1,
+      "Nan": 1,
+      "Offal Court": 1,
+      "Prince": 1,
+      "Sir William Herbert": 1
+    }
+  },
+  {
+    "canonical_name": "Canterbury",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 4,
+    "per_chapter": {
+      "14": {
+        "mentions": 4,
+        "snippet": "Canterbury, who passed it to the First Lord of the Bedchamber, who took"
+      }
+    },
+    "co_occurs_with": {
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1,
+      "Buckhounds": 1,
+      "Chancellor Royal": 1,
+      "Chief Equerry": 1
+    }
+  },
+  {
+    "canonical_name": "See",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 4,
+    "per_chapter": {
+      "14": {
+        "mentions": 4,
+        "snippet": "look and a whispered, \u201cSee, my lord!"
+      }
+    },
+    "co_occurs_with": {
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1,
+      "Buckhounds": 1,
+      "Canterbury": 1,
+      "Chancellor Royal": 1
+    }
+  },
+  {
+    "canonical_name": "Tis",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 4,
+    "per_chapter": {
+      "14": {
+        "mentions": 4,
+        "snippet": "\u201c\u2018Tis a strange folly."
+      }
+    },
+    "co_occurs_with": {
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1,
+      "Buckhounds": 1,
+      "Canterbury": 1,
+      "Chancellor Royal": 1
+    }
+  },
+  {
+    "canonical_name": "Kent",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 4,
+    "per_chapter": {
+      "33": {
+        "mentions": 4,
+        "snippet": "himself, he is a peer of England, Earl of Kent, and shall have gold"
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "Ibid",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 4,
+    "per_chapter": {
+      "33": {
+        "mentions": 4,
+        "snippet": "--Ibid."
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "William Herbert",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 1,
+        "snippet": "presence of Sir William Herbert."
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "\u201cHo, Sir William Herbert!"
+      }
+    },
+    "co_occurs_with": {
+      "Sir William Herbert": 2,
+      "The King": 2,
+      "Father Andrew": 1,
+      "John Canty": 1,
+      "London Bridge": 1,
+      "Mrs. Canty": 1,
+      "Nan": 1,
+      "Offal Court": 1
+    }
+  },
+  {
+    "canonical_name": "Greek",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "Once the giddy little Lady Jane fired a simple Greek phrase at Tom."
+      }
+    },
+    "co_occurs_with": {
+      "Baron Marley": 1,
+      "Guilford Dudley": 1,
+      "Jane Grey": 1,
+      "Lady Elizabeth": 1,
+      "Lady Jane": 1,
+      "Lady Jane Grey": 1,
+      "Lord Guilford Dudley": 1,
+      "Lord Hertford": 1
+    }
+  },
+  {
+    "canonical_name": "High Admiral",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 1,
+        "snippet": "a knight, then the Lord High Admiral, and with him five nobles, in"
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "to the Lord High Admiral of England, who passed it to the Archbishop of"
+      }
+    },
+    "co_occurs_with": {
+      "Jane Grey": 2,
+      "Lady Jane Grey": 2,
+      "Lord Hertford": 2,
+      "Lord High Admiral": 2,
+      "Prince": 2,
+      "Tom Canty": 2,
+      "Barge Yard": 1,
+      "City Sword": 1
+    }
+  },
+  {
+    "canonical_name": "Guildhall",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "Basinghall Street to the Guildhall."
+      }
+    },
+    "co_occurs_with": {
+      "Barge Yard": 1,
+      "City Sword": 1,
+      "Don Caesar": 1,
+      "Don Caesar de Bazan": 1,
+      "High Admiral": 1,
+      "Jane Grey": 1,
+      "Lady Jane": 1,
+      "Lady Jane Grey": 1
+    }
+  },
+  {
+    "canonical_name": "De Courcy",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 3,
+    "per_chapter": {
+      "12": {
+        "mentions": 2,
+        "snippet": "King John restored De Courcy\u2019s titles and possessions,"
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "{3} The lords of Kingsale, descendants of De Courcy, still enjoy this"
+      }
+    },
+    "co_occurs_with": {
+      "Hendon Hall": 2,
+      "Lady Edith": 2,
+      "London Bridge": 2,
+      "Majesty": 2,
+      "Miles Hendon": 2,
+      "Sir Hugh": 2,
+      "Sir Richard": 2,
+      "The King": 2
+    }
+  },
+  {
+    "canonical_name": "Sir Thomas Seymour",
+    "aliases": [
+      "Thomas"
+    ],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 2,
+        "snippet": "raising his brother, Sir Thomas Seymour, to the peerage, and likewise"
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "\u201cSir Thomas, arrest this--No, hold!"
+      }
+    },
+    "co_occurs_with": {
+      "Great Seal": 2,
+      "Lord St": 2,
+      "Offal Court": 2,
+      "Tom Canty": 2,
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1
+    }
+  },
+  {
+    "canonical_name": "Alack",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 3,
+        "snippet": "\u201cAlack, it was no dream!"
+      }
+    },
+    "co_occurs_with": {
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1,
+      "Buckhounds": 1,
+      "Canterbury": 1,
+      "Chancellor Royal": 1,
+      "Chief Equerry": 1
+    }
+  },
+  {
+    "canonical_name": "Buckhounds",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 3,
+        "snippet": "First Lord of the Buckhounds, who passed it to the Second Gentleman of"
+      }
+    },
+    "co_occurs_with": {
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1,
+      "Canterbury": 1,
+      "Chancellor Royal": 1,
+      "Chief Equerry": 1
+    }
+  },
+  {
+    "canonical_name": "Tower",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 3,
+        "snippet": "the Constable of the Tower, who passed it to the Chief Steward of the"
+      }
+    },
+    "co_occurs_with": {
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1,
+      "Buckhounds": 1,
+      "Canterbury": 1,
+      "Chancellor Royal": 1
+    }
+  },
+  {
+    "canonical_name": "Executors",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 3,
+        "snippet": "of Executors concerning the obsequies of his late most illustrious"
+      }
+    },
+    "co_occurs_with": {
+      "Alack": 1,
+      "Archbishop": 1,
+      "Bedchamber": 1,
+      "Bet": 1,
+      "Bloody Mary": 1,
+      "Buckhounds": 1,
+      "Canterbury": 1,
+      "Chancellor Royal": 1
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "There were greater matters in the programme--for on that day"
+      }
+    },
+    "co_occurs_with": {
+      "Earl": 1,
+      "Giles Witt": 1,
+      "Grace": 1,
+      "Have": 1,
+      "Lord Hertford": 1,
+      "Lord Protector": 1,
+      "Majesty": 1,
+      "New Year": 1
+    }
+  },
+  {
+    "canonical_name": "Have",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201cHave I your Grace\u2019s leave to act?"
+      }
+    },
+    "co_occurs_with": {
+      "Earl": 1,
+      "Giles Witt": 1,
+      "Grace": 1,
+      "Lord Hertford": 1,
+      "Lord Protector": 1,
+      "Majesty": 1,
+      "New Year": 1,
+      "Please": 1
+    }
+  },
+  {
+    "canonical_name": "Please",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "\u201cPlease your Majesty, the doctors testified that none die with such"
+      }
+    },
+    "co_occurs_with": {
+      "Earl": 1,
+      "Giles Witt": 1,
+      "Grace": 1,
+      "Have": 1,
+      "Lord Hertford": 1,
+      "Lord Protector": 1,
+      "Majesty": 1,
+      "New Year": 1
+    }
+  },
+  {
+    "canonical_name": "John Hobbs",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 3,
+    "per_chapter": {
+      "17": {
+        "mentions": 3,
+        "snippet": "Hobbs--John Hobbs; thine is Jack--charge thy memory accordingly."
+      }
+    },
+    "co_occurs_with": {
+      "Bien Darkman": 1,
+      "Bouse Mort": 1,
+      "Edward": 1,
+      "King": 1,
+      "Miles Hendon": 1,
+      "One": 1,
+      "Rome Coves": 1,
+      "Ruffler": 1
+    }
+  },
+  {
+    "canonical_name": "The English Rogue",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 3,
+    "per_chapter": {
+      "17": {
+        "mentions": 1,
+        "snippet": "(From\u2019The English Rogue."
+      },
+      "33": {
+        "mentions": 2,
+        "snippet": "{8} From \u2018The English Rogue."
+      }
+    },
+    "co_occurs_with": {
+      "Miles Hendon": 2,
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1
+    }
+  },
+  {
+    "canonical_name": "One",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 3,
+    "per_chapter": {
+      "17": {
+        "mentions": 3,
+        "snippet": "a song from the Bat and Dick and Dot-and-go-One!"
+      }
+    },
+    "co_occurs_with": {
+      "Bien Darkman": 1,
+      "Bouse Mort": 1,
+      "Edward": 1,
+      "John Hobbs": 1,
+      "King": 1,
+      "Miles Hendon": 1,
+      "Rome Coves": 1,
+      "Ruffler": 1
+    }
+  },
+  {
+    "canonical_name": "These",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 3,
+    "per_chapter": {
+      "17": {
+        "mentions": 3,
+        "snippet": "These were the inspiring"
+      }
+    },
+    "co_occurs_with": {
+      "Bien Darkman": 1,
+      "Bouse Mort": 1,
+      "Edward": 1,
+      "John Hobbs": 1,
+      "King": 1,
+      "Miles Hendon": 1,
+      "One": 1,
+      "Rome Coves": 1
+    }
+  },
+  {
+    "canonical_name": "Prissy",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 3,
+    "per_chapter": {
+      "19": {
+        "mentions": 3,
+        "snippet": "\u201cHow can it be else but true, Prissy?"
+      }
+    },
+    "co_occurs_with": {
+      "Alfred the Great": 1,
+      "Another English": 1,
+      "King Alfred": 1,
+      "The King": 1
+    }
+  },
+  {
+    "canonical_name": "Game",
+    "aliases": [],
+    "first_chapter": 22,
+    "total_mentions": 3,
+    "per_chapter": {
+      "22": {
+        "mentions": 3,
+        "snippet": "Ruffler, where with vast ceremony he was crowned King of the Game-Cocks;"
+      }
+    },
+    "co_occurs_with": {
+      "Cocks": 1,
+      "Hugo": 1,
+      "King Foo": 1,
+      "Miles Hendon": 1,
+      "Ruffler": 1,
+      "Sir Miles": 1,
+      "Tom Canty": 1
+    }
+  },
+  {
+    "canonical_name": "Cocks",
+    "aliases": [],
+    "first_chapter": 22,
+    "total_mentions": 3,
+    "per_chapter": {
+      "22": {
+        "mentions": 3,
+        "snippet": "Ruffler, where with vast ceremony he was crowned King of the Game-Cocks;"
+      }
+    },
+    "co_occurs_with": {
+      "Game": 1,
+      "Hugo": 1,
+      "King Foo": 1,
+      "Miles Hendon": 1,
+      "Ruffler": 1,
+      "Sir Miles": 1,
+      "Tom Canty": 1
+    }
+  },
+  {
+    "canonical_name": "Here",
+    "aliases": [],
+    "first_chapter": 25,
+    "total_mentions": 3,
+    "per_chapter": {
+      "25": {
+        "mentions": 3,
+        "snippet": "\u201cHere is the church--covered with the same"
+      }
+    },
+    "co_occurs_with": {
+      "Hendon Hall": 1,
+      "Hugh Hendon": 1,
+      "King": 1,
+      "Lady Edith": 1,
+      "London Bridge": 1,
+      "Miles Hendon": 1,
+      "Red Lion": 1,
+      "Sanctum Sanctorum": 1
+    }
+  },
+  {
+    "canonical_name": "Andrews",
+    "aliases": [],
+    "first_chapter": 27,
+    "total_mentions": 3,
+    "per_chapter": {
+      "27": {
+        "mentions": 3,
+        "snippet": "Andrews, a servant all his life in my father\u2019s family--a good honest"
+      }
+    },
+    "co_occurs_with": {
+      "Christian England": 1,
+      "Duke": 1,
+      "Edward the Sixth": 1,
+      "Great Council": 1,
+      "Hendon": 1,
+      "Lady Edith": 1,
+      "Lord Chancellor": 1,
+      "Lord Protector": 1
+    }
+  },
+  {
+    "canonical_name": "Let",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 3,
+    "per_chapter": {
+      "28": {
+        "mentions": 3,
+        "snippet": "\u201cLet the child"
+      }
+    },
+    "co_occurs_with": {
+      "Hendon Hall": 1,
+      "Miles Hendon": 1,
+      "Sir Hugh": 1,
+      "The King": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Humphrey",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "Maybe his father\u2019s old friend Sir Humphrey"
+      }
+    },
+    "co_occurs_with": {
+      "Coronation Day": 1,
+      "Head Lieutenant": 1,
+      "Hendon": 1,
+      "Humphrey Marlow": 1,
+      "King": 1,
+      "London Bridge": 1,
+      "Sir Humphrey Marlow": 1,
+      "To London": 1
+    }
+  },
+  {
+    "canonical_name": "Abbey",
+    "aliases": [],
+    "first_chapter": 32,
+    "total_mentions": 3,
+    "per_chapter": {
+      "32": {
+        "mentions": 3,
+        "snippet": "Abbey, at four o\u2019clock in the morning of this memorable Coronation Day."
+      }
+    },
+    "co_occurs_with": {
+      "Coronation Day": 1,
+      "Grace the Duke": 1,
+      "Great Seal": 1,
+      "King": 1,
+      "Lord Protector": 1,
+      "Lord St": 1,
+      "Milky Way": 1,
+      "Offal Court": 1
+    }
+  },
+  {
+    "canonical_name": "Sovereign",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "he the veritable Sovereign of England, and not the friendless poor Tom"
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "Timbs",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "--Timbs\u2019 Curiosities of London."
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "Curiosities",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "--Timbs\u2019 Curiosities of London."
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "Commons",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "Norfolk should escape him, he sent a message to the Commons, by which"
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Connecticut": 1
+    }
+  },
+  {
+    "canonical_name": "Bill",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "he desired them to hasten the Bill, on pretence that Norfolk enjoyed the"
+      }
+    },
+    "co_occurs_with": {
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1,
+      "Connecticut": 1
+    }
+  },
+  {
+    "canonical_name": "Connecticut",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "When Connecticut and New Haven were framing their first codes, larceny"
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "Bishop",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "Edward would not let him (Bishop"
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1,
+      "Connecticut": 1
+    }
+  },
+  {
+    "canonical_name": "Ridley",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "Ridley) depart till the letter was written (to the Lord Mayor), and then"
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  },
+  {
+    "canonical_name": "Governors",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "by the Treasurer and by the Governors of Christ\u2019s Hospital."
+      }
+    },
+    "co_occurs_with": {
+      "Bill": 1,
+      "Bishop": 1,
+      "Blue Law": 1,
+      "Blue Laws": 1,
+      "Bluecoat School": 1,
+      "Charles Lamb": 1,
+      "Christ": 1,
+      "Commons": 1
+    }
+  }
+]

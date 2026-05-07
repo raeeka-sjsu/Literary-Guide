@@ -1,0 +1,2149 @@
+[
+  {
+    "canonical_name": "Alyosha",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 235,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "When with an anxious and aching heart Alyosha went into his elder\u2019s"
+      },
+      "3": {
+        "mentions": 72,
+        "snippet": "It was quite dark when Rakitin and Alyosha entered her rooms, yet they"
+      },
+      "4": {
+        "mentions": 53,
+        "snippet": "It was quite late (days are short in November) when Alyosha rang at the"
+      },
+      "5": {
+        "mentions": 17,
+        "snippet": "\u201d Alyosha, who had"
+      },
+      "6": {
+        "mentions": 5,
+        "snippet": "And Ivan, on parting from Alyosha, went home to Fyodor Pavlovitch\u2019s"
+      },
+      "9": {
+        "mentions": 8,
+        "snippet": "When you flew out at Alyosha"
+      },
+      "10": {
+        "mentions": 45,
+        "snippet": "Alyosha left his father\u2019s house feeling even more exhausted and"
+      },
+      "11": {
+        "mentions": 25,
+        "snippet": "Alyosha walked quickly along the road, at that hour"
+      }
+    },
+    "co_occurs_with": {
+      "Dmitri Fyodorovitch": 5,
+      "Grushenka": 5,
+      "Alexey Fyodorovitch": 4,
+      "Katerina Ivanovna": 4,
+      "Father Zossima": 4,
+      "Madame Hohlakov": 3,
+      "Ivan": 3,
+      "Don": 3
+    }
+  },
+  {
+    "canonical_name": "Mitya",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 142,
+    "per_chapter": {
+      "3": {
+        "mentions": 14,
+        "snippet": "frightened me, Rakitin, I thought it was Mitya breaking in."
+      },
+      "4": {
+        "mentions": 35,
+        "snippet": "obtain interviews with Mitya by going through certain inevitable"
+      },
+      "7": {
+        "mentions": 88,
+        "snippet": "With his long, rapid strides, Mitya walked straight up to the table."
+      },
+      "14": {
+        "mentions": 5,
+        "snippet": "Mitya stood up, but said very"
+      }
+    },
+    "co_occurs_with": {
+      "Grushenka": 3,
+      "Alyosha": 2,
+      "Have": 2,
+      "Rakitin": 2,
+      "Dmitri Fyodorovitch": 2,
+      "Alexey Fyodorovitch": 1,
+      "Apocryphal Gospels": 1,
+      "Brother Ivan": 1
+    }
+  },
+  {
+    "canonical_name": "Ivan",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 130,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "Brother Ivan\u2014\u201d"
+      },
+      "5": {
+        "mentions": 17,
+        "snippet": "Ivan, \u201cand I am a poor hand at making one."
+      },
+      "8": {
+        "mentions": 69,
+        "snippet": "Ivan strode"
+      },
+      "9": {
+        "mentions": 43,
+        "snippet": "inevitably give the reader some account of the nature of Ivan\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 3,
+      "Katerina Ivanovna": 3,
+      "Fyodor Pavlovitch": 2,
+      "Grushenka": 2,
+      "Dmitri Fyodorovitch": 2,
+      "Smerdyakov": 2,
+      "Alexey Fyodorovitch": 1,
+      "Apocryphal Gospels": 1
+    }
+  },
+  {
+    "canonical_name": "Grushenka",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 129,
+    "per_chapter": {
+      "3": {
+        "mentions": 50,
+        "snippet": "Grushenka lived in the busiest part of the town, near the cathedral"
+      },
+      "4": {
+        "mentions": 5,
+        "snippet": "These exceptions, however, were few in number; only Grushenka, Alyosha"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "Grushenka had come on the scene, and there"
+      },
+      "7": {
+        "mentions": 46,
+        "snippet": "\u201cI\u2014there\u2019s nothing the matter,\u201d he turned suddenly to Grushenka, who"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "those taps we\u2019d agreed upon as a signal that Grushenka had come, in his"
+      },
+      "10": {
+        "mentions": 13,
+        "snippet": "The porti\u00e8re was raised and Grushenka herself, smiling and beaming,"
+      },
+      "11": {
+        "mentions": 9,
+        "snippet": "\u201cGrushenka at Katerina Ivanovna\u2019s."
+      }
+    },
+    "co_occurs_with": {
+      "Dmitri Fyodorovitch": 6,
+      "Alyosha": 5,
+      "Alexey Fyodorovitch": 4,
+      "Katerina Ivanovna": 4,
+      "Madame Hohlakov": 3,
+      "Fyodor Pavlovitch": 3,
+      "Mitya": 3,
+      "Agrafena Alexandrovna": 3
+    }
+  },
+  {
+    "canonical_name": "Rakitin",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 111,
+    "per_chapter": {
+      "3": {
+        "mentions": 84,
+        "snippet": "It was quite dark when Rakitin and Alyosha entered her rooms, yet they"
+      },
+      "4": {
+        "mentions": 27,
+        "snippet": "and Rakitin were treated like this."
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 2,
+      "Grushenka": 2,
+      "Have": 2,
+      "Mitya": 2,
+      "Alexey Fyodorovitch": 1,
+      "Apocryphal Gospels": 1,
+      "Brother Ivan": 1,
+      "Fyodor Pavlovitch": 1
+    }
+  },
+  {
+    "canonical_name": "Smerdyakov",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 93,
+    "per_chapter": {
+      "6": {
+        "mentions": 32,
+        "snippet": "On a bench in the gateway the valet Smerdyakov was sitting enjoying the"
+      },
+      "8": {
+        "mentions": 39,
+        "snippet": "lamp-posts in the part of the town where Smerdyakov lived."
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "room when Ivan came into it, on his return from Smerdyakov."
+      },
+      "12": {
+        "mentions": 19,
+        "snippet": "are left then the prisoner and Smerdyakov, and the prosecutor"
+      }
+    },
+    "co_occurs_with": {
+      "Fyodor Pavlovitch": 3,
+      "Grigory Vassilyevitch": 3,
+      "Agrafena Alexandrovna": 2,
+      "Dmitri Fyodorovitch": 2,
+      "Grushenka": 2,
+      "Ivan": 2,
+      "Katerina Ivanovna": 2,
+      "Marfa Ignatyevna": 2
+    }
+  },
+  {
+    "canonical_name": "Father Zossima",
+    "aliases": [
+      "Zossima"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 60,
+    "per_chapter": {
+      "1": {
+        "mentions": 32,
+        "snippet": "to sleep, Father Zossima had told him positively: \u201cI shall not die"
+      },
+      "2": {
+        "mentions": 3,
+        "snippet": "_(c) Recollections of Father Zossima\u2019s Youth before he became a Monk."
+      },
+      "3": {
+        "mentions": 5,
+        "snippet": "\u201cHis elder died to-day, Father Zossima, the saint."
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "treated him badly over Father Zossima."
+      },
+      "11": {
+        "mentions": 17,
+        "snippet": "There was a tremor in his heart as he went into Father"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 4,
+      "Don": 3,
+      "Dmitri Fyodorovitch": 2,
+      "Grushenka": 2,
+      "Katerina Ivanovna": 2,
+      "Good God": 2,
+      "Petersburg": 2,
+      "Alexey Fyodorovitch": 1
+    }
+  },
+  {
+    "canonical_name": "Thee",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 51,
+    "per_chapter": {
+      "5": {
+        "mentions": 51,
+        "snippet": "and I shall see Thee!"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 1,
+      "Archangel Michael": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Dost Thou": 1,
+      "Good Friday": 1,
+      "Grand Inquisitor": 1,
+      "Hast Thou": 1,
+      "Him He": 1
+    }
+  },
+  {
+    "canonical_name": "Pole",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 40,
+    "per_chapter": {
+      "7": {
+        "mentions": 40,
+        "snippet": "The Pole gazed"
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1
+    }
+  },
+  {
+    "canonical_name": "Katerina Ivanovna",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 32,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "I mean Katerina Ivanovna."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Katerina Ivanovna, been with you?"
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "Moscow by a fantastic notion of Katerina Ivanovna\u2019s to which I have"
+      },
+      "10": {
+        "mentions": 22,
+        "snippet": "Strange to say, that morning he had set out for Katerina Ivanovna\u2019s in"
+      },
+      "11": {
+        "mentions": 6,
+        "snippet": "\u201cGrushenka at Katerina Ivanovna\u2019s."
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 4,
+      "Grushenka": 4,
+      "Alexey Fyodorovitch": 3,
+      "Dmitri Fyodorovitch": 3,
+      "Madame Hohlakov": 3,
+      "Ivan": 3,
+      "Father Zossima": 2,
+      "Fyodor Pavlovitch": 2
+    }
+  },
+  {
+    "canonical_name": "Kalganov",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 28,
+    "per_chapter": {
+      "7": {
+        "mentions": 28,
+        "snippet": "had shrunk back in her chair towards Kalganov, and clasped his hand"
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1
+    }
+  },
+  {
+    "canonical_name": "Maximov",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 25,
+    "per_chapter": {
+      "7": {
+        "mentions": 25,
+        "snippet": "\u201cGood evening,\u201d Maximov ventured blandly on the left."
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1
+    }
+  },
+  {
+    "canonical_name": "Dmitri Fyodorovitch",
+    "aliases": [
+      "Dmitri"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 23,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "in court that she received Dmitri Fyodorovitch simply from fear because"
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "which Dmitri pounced upon so na\u00efvely, and paraphrased!"
+      },
+      "6": {
+        "mentions": 7,
+        "snippet": "Dmitri Fyodorovitch."
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "\u201cWhy, it\u2019s you, Dmitri Fyodorovitch!"
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "I kept expecting Dmitri Fyodorovitch to"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "I fascinated poor Dmitri Fyodorovitch that day simply for"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "lips parted, and Dmitri Fyodorovitch broke into uncontrolled,"
+      }
+    },
+    "co_occurs_with": {
+      "Grushenka": 6,
+      "Alyosha": 5,
+      "Alexey Fyodorovitch": 3,
+      "Katerina Ivanovna": 3,
+      "Agrafena Alexandrovna": 3,
+      "Madame Hohlakov": 2,
+      "Father Zossima": 2,
+      "Fyodor Pavlovitch": 2
+    }
+  },
+  {
+    "canonical_name": "Alexey Fyodorovitch",
+    "aliases": [
+      "Alexey"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 20,
+    "per_chapter": {
+      "4": {
+        "mentions": 7,
+        "snippet": "Well, Alexey, it\u2019s all over with me now."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "brother, Alexey Fyodorovitch, would have anything after the master\u2019s"
+      },
+      "10": {
+        "mentions": 10,
+        "snippet": "\u201cHelp me now, Alexey Fyodorovitch."
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "\u201cAlexey Fyodorovitch,\u201d she wrote, \u201cI am writing to you without any"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 4,
+      "Grushenka": 4,
+      "Dmitri Fyodorovitch": 3,
+      "Katerina Ivanovna": 3,
+      "Madame Hohlakov": 3,
+      "Fyodor Pavlovitch": 2,
+      "Ivan Fyodorovitch": 2,
+      "Agafya Ivanovna": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Hohlakov",
+    "aliases": [
+      "Hohlakov"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 15,
+    "per_chapter": {
+      "4": {
+        "mentions": 9,
+        "snippet": "He\u2019s written in honor of Madame Hohlakov\u2019s foot."
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cThe young lady forgot to give you this letter from Madame Hohlakov;"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "him, signed by Lise, the young daughter of Madame Hohlakov, who had"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch": 3,
+      "Alyosha": 3,
+      "Grushenka": 3,
+      "Katerina Ivanovna": 3,
+      "Dmitri Fyodorovitch": 2,
+      "Agafya Ivanovna": 1,
+      "Again Katerina": 1,
+      "High Street": 1
+    }
+  },
+  {
+    "canonical_name": "Grigory Vassilyevitch",
+    "aliases": [
+      "Grigory"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 15,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "even if Grigory Vassilyevitch comes to the door he won\u2019t open to him"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "And before that Grigory Vassilyevitch had suddenly got up"
+      },
+      "12": {
+        "mentions": 7,
+        "snippet": "\u201c\u2018Yes, but Grigory saw the door open and so the prisoner certainly was"
+      }
+    },
+    "co_occurs_with": {
+      "Fyodor Pavlovitch": 3,
+      "Smerdyakov": 3,
+      "Agrafena Alexandrovna": 2,
+      "Dmitri Fyodorovitch": 2,
+      "Grushenka": 2,
+      "Marfa Ignatyevna": 2,
+      "Mr. Prosecutor": 2,
+      "All": 1
+    }
+  },
+  {
+    "canonical_name": "Fyodor Pavlovitch",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 14,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "\u2018Fyodor Pavlovitch, our papa,\u2019 he said, \u2018was a pig, but his ideas were"
+      },
+      "6": {
+        "mentions": 6,
+        "snippet": "And Ivan, on parting from Alyosha, went home to Fyodor Pavlovitch\u2019s"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "\u201cI expected him to kill Fyodor Pavlovitch."
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "word might have been uttered by Fyodor Pavlovitch, some exclamation"
+      }
+    },
+    "co_occurs_with": {
+      "Grushenka": 3,
+      "Grigory Vassilyevitch": 3,
+      "Smerdyakov": 3,
+      "Alexey Fyodorovitch": 2,
+      "Alyosha": 2,
+      "Ivan": 2,
+      "Ivan Fyodorovitch": 2,
+      "Katerina Ivanovna": 2
+    }
+  },
+  {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 14,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cDon\u2019t inquire."
+      },
+      "3": {
+        "mentions": 6,
+        "snippet": "\u201cDon\u2019t be afraid of me, my dear Alyosha, you cannot"
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "\u201cDon\u2019t believe it then,\u201d said the gentleman, smiling amicably, \u201cwhat\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 3,
+      "Father Zossima": 3,
+      "Count Mattei": 1,
+      "Fool": 1,
+      "Ivan": 1,
+      "Jesuit": 1,
+      "Katerina Ivanovna": 1,
+      "Not": 1
+    }
+  },
+  {
+    "canonical_name": "Agrafena Alexandrovna",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 13,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "beautiful young woman into whom Agrafena Alexandrovna had meanwhile"
+      },
+      "6": {
+        "mentions": 8,
+        "snippet": "even if Agrafena Alexandrovna comes to see his father while I am ill,"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "seeing that if he had married Agrafena Alexandrovna, you wouldn\u2019t have"
+      }
+    },
+    "co_occurs_with": {
+      "Dmitri Fyodorovitch": 3,
+      "Grushenka": 3,
+      "Fyodor Pavlovitch": 2,
+      "Grigory Vassilyevitch": 2,
+      "Marfa Ignatyevna": 2,
+      "Smerdyakov": 2,
+      "Alyosha": 2,
+      "All": 1
+    }
+  },
+  {
+    "canonical_name": "Gentlemen",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 13,
+    "per_chapter": {
+      "7": {
+        "mentions": 4,
+        "snippet": "\u201cGentlemen,\u201d he said in a loud voice, almost shouting, yet stammering"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "Gentlemen of the jury, the psychological method is a"
+      },
+      "13": {
+        "mentions": 6,
+        "snippet": "Gentlemen of the jury, what is a father\u2014a"
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1
+    }
+  },
+  {
+    "canonical_name": "Polish",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 13,
+    "per_chapter": {
+      "7": {
+        "mentions": 13,
+        "snippet": "Gentlemen, gentlemen, I\u2014\u201d (He addressed the Polish gentleman with the"
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1
+    }
+  },
+  {
+    "canonical_name": "Poles",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 13,
+    "per_chapter": {
+      "7": {
+        "mentions": 13,
+        "snippet": "of notes on which the eyes of all, especially of the Poles, were fixed."
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1
+    }
+  },
+  {
+    "canonical_name": "All",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 12,
+    "per_chapter": {
+      "2": {
+        "mentions": 8,
+        "snippet": "\u201cAll this as rational and edifying,\u201d said my antagonist, \u201cand in any"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "\u201cAll I understand is that you are mad."
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Father Isaac": 1,
+      "Fyodor Pavlovitch": 1,
+      "God Himself": 1,
+      "Grigory Vassilyevitch": 1,
+      "Grushenka": 1,
+      "Here": 1
+    }
+  },
+  {
+    "canonical_name": "Petersburg",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "summoned to Petersburg to take up his post again at his own request, as"
+      },
+      "2": {
+        "mentions": 3,
+        "snippet": "at Petersburg, and in the novelty of my surroundings there, many of my"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "He means to go to Petersburg."
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 2,
+      "Father Zossima": 2,
+      "Alexey Fyodorovitch": 1,
+      "Apocryphal Gospels": 1,
+      "Brother Ivan": 1,
+      "Fyodor Pavlovitch": 1,
+      "Grusha": 1,
+      "Grushenka": 1
+    }
+  },
+  {
+    "canonical_name": "Father Anfim",
+    "aliases": [
+      "Anfim"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "fourth, Father Anfim, was a very old and humble little monk of the"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Bible": 1,
+      "Cadet Corps": 1,
+      "Christ": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Christ",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "And what is the use of Christ\u2019s words, unless we set an example?"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "of Christ!"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Bible": 1,
+      "Cadet Corps": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Egypt": 1,
+      "Elder Zossima": 1
+    }
+  },
+  {
+    "canonical_name": "Fenya",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 9,
+    "per_chapter": {
+      "3": {
+        "mentions": 9,
+        "snippet": "Fenya, fetch him a candle."
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "Alyosha": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Don": 1,
+      "Father Zossima": 1,
+      "Good God": 1,
+      "Grushenka": 1,
+      "Have": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Svyetlov",
+    "aliases": [
+      "Svyetlov"
+    ],
+    "first_chapter": 12,
+    "total_mentions": 9,
+    "per_chapter": {
+      "12": {
+        "mentions": 9,
+        "snippet": "he ran away as soon as he convinced himself that Madame Svyetlov was"
+      }
+    },
+    "co_occurs_with": {
+      "Fyodor Pavlovitch": 1,
+      "Gentlemen": 1,
+      "Grigory Vassilyevitch": 1,
+      "Ivan Karamazov": 1,
+      "Mr. Prosecutor": 1,
+      "Smerdyakov": 1
+    }
+  },
+  {
+    "canonical_name": "Grusha",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 8,
+    "per_chapter": {
+      "4": {
+        "mentions": 8,
+        "snippet": "only Grusha, Grusha!"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch": 1,
+      "Alyosha": 1,
+      "Apocryphal Gospels": 1,
+      "Brother Ivan": 1,
+      "Fyodor Pavlovitch": 1,
+      "Grushenka": 1,
+      "Have": 1,
+      "Him": 1
+    }
+  },
+  {
+    "canonical_name": "Marfa Ignatyevna",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 7,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "Marfa Ignatyevna intends to give him medicine to-morrow."
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "partition, for whenever I was ill, Marfa Ignatyevna used to put me"
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 2,
+      "Dmitri Fyodorovitch": 2,
+      "Fyodor Pavlovitch": 2,
+      "Grigory Vassilyevitch": 2,
+      "Grushenka": 2,
+      "Smerdyakov": 2,
+      "All": 1,
+      "Father Isaac": 1
+    }
+  },
+  {
+    "canonical_name": "Have",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 7,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "Have you heard her speak before of what"
+      },
+      "4": {
+        "mentions": 4,
+        "snippet": "Have you broken with him completely?"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 2,
+      "Grushenka": 2,
+      "Mitya": 2,
+      "Rakitin": 2,
+      "Alexey Fyodorovitch": 1,
+      "Apocryphal Gospels": 1,
+      "Brother Ivan": 1,
+      "Fyodor Pavlovitch": 1
+    }
+  },
+  {
+    "canonical_name": "Pan Vrublevsky",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 7,
+    "per_chapter": {
+      "7": {
+        "mentions": 7,
+        "snippet": "\u201cPan Vrublevsky,\u201d put in the Pole on the sofa."
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1
+    }
+  },
+  {
+    "canonical_name": "Fetyukovitch",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 7,
+    "per_chapter": {
+      "14": {
+        "mentions": 7,
+        "snippet": "This was how Fetyukovitch concluded his speech, and the enthusiasm of"
+      }
+    },
+    "co_occurs_with": {
+      "Christ": 1,
+      "For Thou": 1,
+      "Gospel": 1,
+      "Ippolit Kirillovitch": 1,
+      "Mihail Semyonovitch": 1,
+      "Mitya": 1,
+      "President": 1,
+      "There": 1
+    }
+  },
+  {
+    "canonical_name": "Prisoner",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 6,
+    "per_chapter": {
+      "5": {
+        "mentions": 6,
+        "snippet": "never for a moment taking his eyes off the Prisoner."
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 1,
+      "Archangel Michael": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Dost Thou": 1,
+      "Good Friday": 1,
+      "Grand Inquisitor": 1,
+      "Hast Thou": 1,
+      "Him He": 1
+    }
+  },
+  {
+    "canonical_name": "Jesuits",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 6,
+    "per_chapter": {
+      "5": {
+        "mentions": 6,
+        "snippet": "\u2019 That\u2019s how they speak and write too\u2014the Jesuits,"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 1,
+      "Archangel Michael": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Dost Thou": 1,
+      "Good Friday": 1,
+      "Grand Inquisitor": 1,
+      "Hast Thou": 1,
+      "Him He": 1
+    }
+  },
+  {
+    "canonical_name": "Mother",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "\u201cMother, don\u2019t weep, darling,\u201d he would say, \u201cI\u2019ve long to"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Bible": 1,
+      "Cadet Corps": 1,
+      "Christ": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Afanasy",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 6,
+    "per_chapter": {
+      "2": {
+        "mentions": 6,
+        "snippet": "rage with my orderly Afanasy, and gave him two blows in the face with"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Father Zossima": 1,
+      "Good God": 1,
+      "Good Lord": 1,
+      "Holy Mother": 1,
+      "New Testament": 1,
+      "Petersburg": 1,
+      "Tell": 1
+    }
+  },
+  {
+    "canonical_name": "Hush",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 6,
+    "per_chapter": {
+      "3": {
+        "mentions": 6,
+        "snippet": "\u201cHush, both of you."
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "Alyosha": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Don": 1,
+      "Father Zossima": 1,
+      "Fenya": 1,
+      "Good God": 1,
+      "Grushenka": 1
+    }
+  },
+  {
+    "canonical_name": "Listen",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 6,
+    "per_chapter": {
+      "8": {
+        "mentions": 6,
+        "snippet": "\u201cListen; I\u2019ve told you I won\u2019t go away without an answer!"
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "All": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Father Isaac": 1,
+      "Fyodor Pavlovitch": 1,
+      "God Himself": 1,
+      "Grigory Vassilyevitch": 1,
+      "Grushenka": 1
+    }
+  },
+  {
+    "canonical_name": "Fool",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 6,
+    "per_chapter": {
+      "9": {
+        "mentions": 6,
+        "snippet": "\u201cFool,\u201d laughed Ivan, \u201cdo you suppose I should stand on ceremony with"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 1,
+      "Count Mattei": 1,
+      "Don": 1,
+      "Father Zossima": 1,
+      "Ivan": 1,
+      "Jesuit": 1,
+      "Katerina Ivanovna": 1,
+      "Not": 1
+    }
+  },
+  {
+    "canonical_name": "Ivan Fyodorovitch",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 5,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "He respected Ivan Fyodorovitch, and stood in awe of his"
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "Ivan Fyodorovitch."
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch": 2,
+      "Alyosha": 2,
+      "Fyodor Pavlovitch": 2,
+      "Grushenka": 2,
+      "Apocryphal Gospels": 1,
+      "Brother Ivan": 1,
+      "Grusha": 1,
+      "Have": 1
+    }
+  },
+  {
+    "canonical_name": "Father Iosif",
+    "aliases": [
+      "Iosif"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "There were four of them: Father Iosif and Father Pa\u00efssy,"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Bible": 1,
+      "Cadet Corps": 1,
+      "Christ": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Porfiry",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "addition to Porfiry, the novice, who stood) to sit round Father Zossima"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Bible": 1,
+      "Cadet Corps": 1,
+      "Christ": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Job",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "considered my servant Job?"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Bible": 1,
+      "Cadet Corps": 1,
+      "Christ": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 5,
+    "per_chapter": {
+      "7": {
+        "mentions": 5,
+        "snippet": "\u201cCome, come, what a fellow you are!"
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1,
+      "Gentlemen": 1
+    }
+  },
+  {
+    "canonical_name": "Agrippina",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 5,
+    "per_chapter": {
+      "7": {
+        "mentions": 5,
+        "snippet": "\u201c_Pani_ Agrippina, what the gentleman saw in Poland were servant girls,"
+      }
+    },
+    "co_occurs_with": {
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1,
+      "Gentlemen": 1
+    }
+  },
+  {
+    "canonical_name": "Stay",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 5,
+    "per_chapter": {
+      "8": {
+        "mentions": 5,
+        "snippet": "\u201cStay!"
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "All": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Father Isaac": 1,
+      "Fyodor Pavlovitch": 1,
+      "God Himself": 1,
+      "Grigory Vassilyevitch": 1,
+      "Grushenka": 1
+    }
+  },
+  {
+    "canonical_name": "President",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 5,
+    "per_chapter": {
+      "14": {
+        "mentions": 5,
+        "snippet": "The President submitted, and even"
+      }
+    },
+    "co_occurs_with": {
+      "Christ": 1,
+      "Fetyukovitch": 1,
+      "For Thou": 1,
+      "Gospel": 1,
+      "Ippolit Kirillovitch": 1,
+      "Mihail Semyonovitch": 1,
+      "Mitya": 1,
+      "There": 1
+    }
+  },
+  {
+    "canonical_name": "Katya",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 4,
+    "per_chapter": {
+      "11": {
+        "mentions": 4,
+        "snippet": "That\u2019s just like Katya, who was not"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch": 1,
+      "Alyosha": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Father Zossima": 1,
+      "Grushenka": 1,
+      "Katerina Ivanovna": 1,
+      "Madame Hohlakov": 1
+    }
+  },
+  {
+    "canonical_name": "Son",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "God points to the hands and feet of her Son, nailed to the Cross, and"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 1,
+      "Archangel Michael": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Dost Thou": 1,
+      "Good Friday": 1,
+      "Grand Inquisitor": 1,
+      "Hast Thou": 1,
+      "Him He": 1
+    }
+  },
+  {
+    "canonical_name": "Seville",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "My story is laid in Spain, in Seville, in the most terrible"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 1,
+      "Archangel Michael": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Dost Thou": 1,
+      "Good Friday": 1,
+      "Grand Inquisitor": 1,
+      "Hast Thou": 1,
+      "Him He": 1
+    }
+  },
+  {
+    "canonical_name": "Rome",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "We took from him Rome and the sword of C\u00e6sar, and proclaimed"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 1,
+      "Archangel Michael": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Dost Thou": 1,
+      "Good Friday": 1,
+      "Grand Inquisitor": 1,
+      "Hast Thou": 1,
+      "Him He": 1
+    }
+  },
+  {
+    "canonical_name": "Thy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cGive him over to me and Thou wilt see that Thy servant"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Bible": 1,
+      "Cadet Corps": 1,
+      "Christ": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Word",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "people is lost without the Word of God, for its soul is athirst for the"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Bible": 1,
+      "Cadet Corps": 1,
+      "Christ": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Kuzma Kuzmitch",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 4,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "man, Kuzma Kuzmitch, and should be there till late counting up his"
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "Alyosha": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Don": 1,
+      "Father Zossima": 1,
+      "Fenya": 1,
+      "Good God": 1,
+      "Grushenka": 1
+    }
+  },
+  {
+    "canonical_name": "Samsonov",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 4,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "Samsonov, who was known to be the girl\u2019s protector."
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "Alyosha": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Don": 1,
+      "Father Zossima": 1,
+      "Fenya": 1,
+      "Good God": 1,
+      "Grushenka": 1
+    }
+  },
+  {
+    "canonical_name": "Mokroe",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 4,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "\u201cHe is at Mokroe now; he\u2019ll send a messenger from there, so he wrote; I"
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "Alyosha": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Don": 1,
+      "Father Zossima": 1,
+      "Fenya": 1,
+      "Good God": 1,
+      "Grushenka": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Prosecutor",
+    "aliases": [
+      "Prosecutor"
+    ],
+    "first_chapter": 8,
+    "total_mentions": 4,
+    "per_chapter": {
+      "8": {
+        "mentions": 2,
+        "snippet": "him; so that Mr."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "But again I ask, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Fyodor Pavlovitch": 2,
+      "Grigory Vassilyevitch": 2,
+      "Smerdyakov": 2,
+      "Agrafena Alexandrovna": 1,
+      "All": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Father Isaac": 1,
+      "God Himself": 1
+    }
+  },
+  {
+    "canonical_name": "Marya Kondratyevna",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 4,
+    "per_chapter": {
+      "8": {
+        "mentions": 4,
+        "snippet": "from Marya Kondratyevna\u2019s cottage, Ivan suddenly came upon a solitary"
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "All": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Father Isaac": 1,
+      "Fyodor Pavlovitch": 1,
+      "God Himself": 1,
+      "Grigory Vassilyevitch": 1,
+      "Grushenka": 1
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 4,
+    "per_chapter": {
+      "14": {
+        "mentions": 4,
+        "snippet": "\u201cThere are,\u201d he said to one group, as I was told afterwards, \u201cthere are"
+      }
+    },
+    "co_occurs_with": {
+      "Christ": 1,
+      "Fetyukovitch": 1,
+      "For Thou": 1,
+      "Gospel": 1,
+      "Ippolit Kirillovitch": 1,
+      "Mihail Semyonovitch": 1,
+      "Mitya": 1,
+      "President": 1
+    }
+  },
+  {
+    "canonical_name": "Moscow",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "The other aunt was a Moscow lady of style"
+      }
+    },
+    "co_occurs_with": {
+      "Agafya Ivanovna": 1,
+      "Again Katerina": 1,
+      "Alexey Fyodorovitch": 1,
+      "Alyosha": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Grushenka": 1,
+      "High Street": 1,
+      "Katerina Ivanovna": 1
+    }
+  },
+  {
+    "canonical_name": "Grand Inquisitor",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "Grand Inquisitor, in a magnificent _auto da f\u00e9_, in the presence of the"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 1,
+      "Archangel Michael": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Dost Thou": 1,
+      "Good Friday": 1,
+      "Hast Thou": 1,
+      "Him He": 1,
+      "Holy Inquisition": 1
+    }
+  },
+  {
+    "canonical_name": "Lady",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "course, from the Greek), _The Wanderings of Our Lady through Hell_,"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 1,
+      "Archangel Michael": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Dost Thou": 1,
+      "Good Friday": 1,
+      "Grand Inquisitor": 1,
+      "Hast Thou": 1,
+      "Him He": 1
+    }
+  },
+  {
+    "canonical_name": "Life",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Life will bring you many misfortunes, but you will find your"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Bible": 1,
+      "Cadet Corps": 1,
+      "Christ": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Markel",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "There were two of us, my elder brother Markel and"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Bible": 1,
+      "Cadet Corps": 1,
+      "Christ": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Bible",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Bible, which, child as I was, I was very eager to read at home."
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Cadet Corps": 1,
+      "Christ": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Egypt": 1,
+      "Elder Zossima": 1
+    }
+  },
+  {
+    "canonical_name": "Joseph",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "brothers sold Joseph, the tender boy, the dreamer and prophet, into"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Bible": 1,
+      "Cadet Corps": 1,
+      "Christ": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Egypt",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "brothers afterwards journeyed into Egypt for corn, and Joseph, already"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch Karamazov": 1,
+      "Alyosha": 1,
+      "Bible": 1,
+      "Cadet Corps": 1,
+      "Christ": 1,
+      "Divine Truth": 1,
+      "Don": 1,
+      "Elder Zossima": 1
+    }
+  },
+  {
+    "canonical_name": "Tell",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Tell that to the person whom you hold dearest"
+      }
+    },
+    "co_occurs_with": {
+      "Afanasy": 1,
+      "All": 1,
+      "Father Zossima": 1,
+      "Good God": 1,
+      "Good Lord": 1,
+      "Holy Mother": 1,
+      "New Testament": 1,
+      "Petersburg": 1
+    }
+  },
+  {
+    "canonical_name": "Morozov",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "of the widow Morozov."
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "Alyosha": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Don": 1,
+      "Father Zossima": 1,
+      "Fenya": 1,
+      "Good God": 1,
+      "Grushenka": 1
+    }
+  },
+  {
+    "canonical_name": "Let",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "Let me sit on your knee, Alyosha, like this."
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "Alyosha": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Don": 1,
+      "Father Zossima": 1,
+      "Fenya": 1,
+      "Good God": 1,
+      "Grushenka": 1
+    }
+  },
+  {
+    "canonical_name": "Forgive",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "Forgive me, _panie_,\u201d he cried wildly, \u201cI flew here and"
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "French Academy": 1,
+      "From": 1,
+      "Gentlemen": 1
+    }
+  },
+  {
+    "canonical_name": "Would",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "Would you believe it, he will have it that all our cavalry"
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1
+    }
+  },
+  {
+    "canonical_name": "From",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "From his fair face looked out beautiful pale blue eyes, with"
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "Gentlemen": 1
+    }
+  },
+  {
+    "canonical_name": "Uhlan",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "one of them dances a mazurka with a Uhlan she jumps on his knee like a"
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1
+    }
+  },
+  {
+    "canonical_name": "Panie",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201c_Panie!"
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Andrey": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1
+    }
+  },
+  {
+    "canonical_name": "Andrey",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cAnd vodka for Andrey,"
+      }
+    },
+    "co_occurs_with": {
+      "Agrippina": 1,
+      "Come": 1,
+      "Dmitri Fyodorovitch": 1,
+      "For Piron": 1,
+      "Forgive": 1,
+      "French Academy": 1,
+      "From": 1,
+      "Gentlemen": 1
+    }
+  },
+  {
+    "canonical_name": "Him",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "doesn\u2019t he dislike Him!"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch": 1,
+      "Alyosha": 1,
+      "Apocryphal Gospels": 1,
+      "Brother Ivan": 1,
+      "Fyodor Pavlovitch": 1,
+      "Grusha": 1,
+      "Grushenka": 1,
+      "Have": 1
+    }
+  },
+  {
+    "canonical_name": "Pushkin",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "\u2018Anyway it\u2019s better than your Pushkin\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch": 1,
+      "Alyosha": 1,
+      "Apocryphal Gospels": 1,
+      "Brother Ivan": 1,
+      "Fyodor Pavlovitch": 1,
+      "Grusha": 1,
+      "Grushenka": 1,
+      "Have": 1
+    }
+  },
+  {
+    "canonical_name": "Here",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "Here we are face to face; what\u2019s the use of"
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "All": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Father Isaac": 1,
+      "Fyodor Pavlovitch": 1,
+      "God Himself": 1,
+      "Grigory Vassilyevitch": 1,
+      "Grushenka": 1
+    }
+  },
+  {
+    "canonical_name": "Tchermashnya",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cYou still mean that Tchermashnya?"
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "All": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Father Isaac": 1,
+      "Fyodor Pavlovitch": 1,
+      "God Himself": 1,
+      "Grigory Vassilyevitch": 1,
+      "Grushenka": 1
+    }
+  },
+  {
+    "canonical_name": "Satan",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "Satan _sum et nihil humanum a me alienum"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 1,
+      "Count Mattei": 1,
+      "Don": 1,
+      "Father Zossima": 1,
+      "Fool": 1,
+      "Ivan": 1,
+      "Jesuit": 1,
+      "Katerina Ivanovna": 1
+    }
+  },
+  {
+    "canonical_name": "Not",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201cNot in the slightest!"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 1,
+      "Count Mattei": 1,
+      "Don": 1,
+      "Father Zossima": 1,
+      "Fool": 1,
+      "Ivan": 1,
+      "Jesuit": 1,
+      "Katerina Ivanovna": 1
+    }
+  },
+  {
+    "canonical_name": "Jesuit",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "specialist) in confession to his spiritual father\u2014a Jesuit."
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 1,
+      "Count Mattei": 1,
+      "Don": 1,
+      "Father Zossima": 1,
+      "Fool": 1,
+      "Ivan": 1,
+      "Katerina Ivanovna": 1,
+      "Not": 1
+    }
+  },
+  {
+    "canonical_name": "Russia",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 3,
+    "per_chapter": {
+      "13": {
+        "mentions": 3,
+        "snippet": "authority\u2014all Russia hears us!"
+      }
+    },
+    "co_occurs_with": {
+      "Fyodor Pavlovitch Karamazov": 1,
+      "Gentlemen": 1,
+      "Good Shepherd": 1,
+      "The Lover": 1
+    }
+  },
+  {
+    "canonical_name": "Gospel",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 3,
+        "snippet": "Gospel are corrected\u2014that\u2019s all mysticism, we are told, and ours is the"
+      }
+    },
+    "co_occurs_with": {
+      "Christ": 1,
+      "Fetyukovitch": 1,
+      "For Thou": 1,
+      "Ippolit Kirillovitch": 1,
+      "Mihail Semyonovitch": 1,
+      "Mitya": 1,
+      "President": 1,
+      "There": 1
+    }
+  }
+]

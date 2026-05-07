@@ -1,0 +1,3028 @@
+[
+  {
+    "canonical_name": "Mr Clare",
+    "aliases": [
+      "Clare"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 172,
+    "per_chapter": {
+      "10": {
+        "mentions": 172,
+        "snippet": "parish you are going to\u2014Mr Clare of Emminster."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs Durbeyfield",
+    "aliases": [
+      "Durbeyfield"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 126,
+    "per_chapter": {
+      "10": {
+        "mentions": 126,
+        "snippet": "As usual, Mrs Durbeyfield was balanced on one foot beside the tub, the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Marian",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 114,
+    "per_chapter": {
+      "10": {
+        "mentions": 114,
+        "snippet": "Dairyman Crick and his wife, the milkmaids Tess, Marian, Retty Priddle,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs Crick",
+    "aliases": [
+      "Crick"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 79,
+    "per_chapter": {
+      "10": {
+        "mentions": 79,
+        "snippet": "milking was finished for the evening they straggled indoors, where Mrs"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Sir John",
+    "aliases": [
+      "John"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 48,
+    "per_chapter": {
+      "10": {
+        "mentions": 48,
+        "snippet": "\u201cGood night, Sir John,\u201d said the parson."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Angel Clare",
+    "aliases": [
+      "Angel"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 42,
+    "per_chapter": {
+      "10": {
+        "mentions": 42,
+        "snippet": "\u201cMr Angel Clare\u2014he that is learning milking, and that plays the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Marlott",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 42,
+    "per_chapter": {
+      "10": {
+        "mentions": 42,
+        "snippet": "homeward from Shaston to the village of Marlott, in the adjoining Vale"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 38,
+    "per_chapter": {
+      "10": {
+        "mentions": 38,
+        "snippet": "Don\u2019t you really know, Durbeyfield,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs Clare",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 36,
+    "per_chapter": {
+      "10": {
+        "mentions": 36,
+        "snippet": "to enter into the consideration of unselfish Mr and Mrs Clare; though"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs Brooks",
+    "aliases": [
+      "Brooks"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 31,
+    "per_chapter": {
+      "10": {
+        "mentions": 31,
+        "snippet": "Mrs Brooks, the lady who was the householder at The Herons and owner of"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Tis",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 30,
+    "per_chapter": {
+      "10": {
+        "mentions": 30,
+        "snippet": "\u2019Tis recorded in"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Urbervilles",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 28,
+    "per_chapter": {
+      "10": {
+        "mentions": 28,
+        "snippet": "family of the d\u2019Urbervilles, who derive their descent from Sir Pagan"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Izz Huett",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 24,
+    "per_chapter": {
+      "10": {
+        "mentions": 24,
+        "snippet": "Izz Huett, and the married ones from the cottages; also Mr Clare,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Tessy",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 21,
+    "per_chapter": {
+      "10": {
+        "mentions": 21,
+        "snippet": "\u201cTessy\u2014don\u2019t you love me ever so little now?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Liza",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 20,
+    "per_chapter": {
+      "10": {
+        "mentions": 20,
+        "snippet": "Eliza-Louisa of twelve and a half, called \u201c\u2019Liza-Lu,\u201d the youngest ones"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Tess Durbeyfield",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 17,
+    "per_chapter": {
+      "10": {
+        "mentions": 17,
+        "snippet": "Why, Tess Durbeyfield, if there isn\u2019t thy father"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Never",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 17,
+    "per_chapter": {
+      "10": {
+        "mentions": 17,
+        "snippet": "\u201cNever heard it before, sir!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Prince",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 17,
+    "per_chapter": {
+      "10": {
+        "mentions": 17,
+        "snippet": "laden, and the girl led out the horse, Prince, only a degree less"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Flintcomb",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 16,
+    "per_chapter": {
+      "10": {
+        "mentions": 16,
+        "snippet": "had, in fact, reached Flintcomb-Ash, the place of Marian\u2019s sojourn."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 15,
+    "per_chapter": {
+      "10": {
+        "mentions": 15,
+        "snippet": "\u201cVery well said, Tess!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Brazil",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 15,
+    "per_chapter": {
+      "10": {
+        "mentions": 15,
+        "snippet": "Empire of Brazil as a field for the emigrating agriculturist."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "The Chase",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 12,
+    "per_chapter": {
+      "10": {
+        "mentions": 12,
+        "snippet": "out by Trantridge, on the edge o\u2019 The Chase, of the name of"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Shaston",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 12,
+    "per_chapter": {
+      "10": {
+        "mentions": 12,
+        "snippet": "homeward from Shaston to the village of Marlott, in the adjoining Vale"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Because",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 12,
+    "per_chapter": {
+      "10": {
+        "mentions": 12,
+        "snippet": "Because I cannot help myself here."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Are",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 12,
+    "per_chapter": {
+      "10": {
+        "mentions": 12,
+        "snippet": "\u201cAre you cold?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Joan Durbeyfield",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 11,
+    "per_chapter": {
+      "10": {
+        "mentions": 11,
+        "snippet": "with a young family, Joan Durbeyfield was a passionate lover of tune."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Vicar",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 11,
+    "per_chapter": {
+      "10": {
+        "mentions": 11,
+        "snippet": "The Vicar felt himself cornered."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mr Crick",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 10,
+    "per_chapter": {
+      "10": {
+        "mentions": 10,
+        "snippet": "happened that Mr Crick was glad to get a new hand\u2014for the days were"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mercy Chant",
+    "aliases": [
+      "Chant"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 9,
+    "per_chapter": {
+      "10": {
+        "mentions": 9,
+        "snippet": "young lady was Miss Mercy Chant, the only daughter of his father\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Dairyman Crick",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 9,
+    "per_chapter": {
+      "10": {
+        "mentions": 9,
+        "snippet": "surprise\u2014indeed, slight contempt\u2014of Dairyman Crick, to whose mind it"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs Angel Clare",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 9,
+    "per_chapter": {
+      "10": {
+        "mentions": 9,
+        "snippet": "Mrs Angel Clare, indeed, but had she any moral right to the name?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Tell",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 9,
+    "per_chapter": {
+      "10": {
+        "mentions": 9,
+        "snippet": "\u201cTell \u2019em at hwome that I should like for supper,\u2014well, lamb\u2019s fry if"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Indeed",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 9,
+    "per_chapter": {
+      "10": {
+        "mentions": 9,
+        "snippet": "\u201cIndeed, then, I shall not fight!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Blackmoor Vale",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 8,
+    "per_chapter": {
+      "10": {
+        "mentions": 8,
+        "snippet": "No ditty floated into Blackmoor Vale from the outer world but Tess\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Talbothays Dairy",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 8,
+    "per_chapter": {
+      "10": {
+        "mentions": 8,
+        "snippet": "of the county, and had arrived at Talbothays Dairy as a six months\u2019"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mother",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 8,
+    "per_chapter": {
+      "10": {
+        "mentions": 8,
+        "snippet": "\u201cMother asked me to come,\u201d Tess continued; \u201cand, indeed, I was in the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Twas",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 7,
+    "per_chapter": {
+      "10": {
+        "mentions": 7,
+        "snippet": "\u2019Twas said that"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Durbeyfields",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 7,
+    "per_chapter": {
+      "10": {
+        "mentions": 7,
+        "snippet": "Durbeyfields had weightier concerns to talk of now than common folks"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Goodbye",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 7,
+    "per_chapter": {
+      "10": {
+        "mentions": 7,
+        "snippet": "\u201cGoodbye, father,\u201d said Tess, with a lumpy throat."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Pooh",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 7,
+    "per_chapter": {
+      "10": {
+        "mentions": 7,
+        "snippet": "Pooh!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Cambridge",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 7,
+    "per_chapter": {
+      "10": {
+        "mentions": 7,
+        "snippet": "the Church, what was the use of sending him to Cambridge?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Pagan",
+    "aliases": [
+      "Pagan"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 6,
+    "per_chapter": {
+      "10": {
+        "mentions": 6,
+        "snippet": "family of the d\u2019Urbervilles, who derive their descent from Sir Pagan"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Retty Priddle",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 6,
+    "per_chapter": {
+      "10": {
+        "mentions": 6,
+        "snippet": "Why, our little Retty Priddle here, you"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Look",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 6,
+    "per_chapter": {
+      "10": {
+        "mentions": 6,
+        "snippet": "\u201cLook here; I won\u2019t walk another inch with you, if you say any jokes"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Chaseborough",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 6,
+    "per_chapter": {
+      "10": {
+        "mentions": 6,
+        "snippet": "eastward to Chaseborough, passing near Trantridge, the parish in which"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Somebody",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 6,
+    "per_chapter": {
+      "10": {
+        "mentions": 6,
+        "snippet": "Somebody gave it to him."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "More",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 6,
+    "per_chapter": {
+      "10": {
+        "mentions": 6,
+        "snippet": "Maiden No More"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Sandbourne",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 6,
+    "per_chapter": {
+      "10": {
+        "mentions": 6,
+        "snippet": "ornamental butter-pats for the Anglebury and Sandbourne ladies?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Jonathan Kail",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 5,
+    "per_chapter": {
+      "10": {
+        "mentions": 5,
+        "snippet": "\u201c\u2019Tis because there\u2019s a new hand come among us,\u201d said Jonathan Kail."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Old Pretty",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 5,
+    "per_chapter": {
+      "10": {
+        "mentions": 5,
+        "snippet": "Fancy, Lofty, Mist, Old Pretty, Young Pretty, Tidy, and Loud\u2014who,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "New Year",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 5,
+    "per_chapter": {
+      "10": {
+        "mentions": 5,
+        "snippet": "The thirty-first of December, New Year\u2019s Eve, was the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Stourcastle",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 5,
+    "per_chapter": {
+      "10": {
+        "mentions": 5,
+        "snippet": "dark before we get to Stourcastle, and there\u2019s no place we can sleep at"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Beauty",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 5,
+    "per_chapter": {
+      "10": {
+        "mentions": 5,
+        "snippet": "\u201cWell, my Beauty, what can I do for you?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Say",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 5,
+    "per_chapter": {
+      "10": {
+        "mentions": 5,
+        "snippet": "\u201cSay \u2018Amen,\u2019 children."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Evangelical",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 5,
+    "per_chapter": {
+      "10": {
+        "mentions": 5,
+        "snippet": "out of it, but in the old and ardent sense of the Evangelical school:"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs Rolliver",
+    "aliases": [
+      "Rolliver"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "with a great woollen shawl lately discarded by the landlady, Mrs"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Chant",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "think that a young woman equally pure and virtuous as Miss Chant, but"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "John Durbeyfield",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cWho be you, then, John Durbeyfield,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "The Slopes",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "The Slopes, would be found."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Emminster Vicarage",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "Talbothays from Emminster Vicarage immediately after the departure of"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Old Lady",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "agreeing to remain till Old Lady-Day."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Bulbarrow",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "Bulbarrow, Nettlecombe-Tout, Dogbury, High Stoy, and Bubb Down."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Coz",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "we walk round the grounds to pass the time, my pretty Coz?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Nonsense",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cNonsense!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Sissy",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cI do want to walk a little-ways wi\u2019 Sissy, now she\u2019s going to marry"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Going",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cGoing to work, my dears, for our rich relation, and help get enough"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mis",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "that Tess did not quite understand, she explained, \u201cMis\u2019ess is a old"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Spades",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "gait\u2014to wit, a dark virago, Car Darch, dubbed Queen of Spades, till"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Diamonds",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "Queen of Diamonds; and the young married woman who had already tumbled"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Another",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "Another brought some lunch."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Father",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cSORROW, I baptize thee in the name of the Father, and of the Son, and"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Really",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cReally I must not."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Thou",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "Augustine: \u201cThou hast counselled a better course than Thou hast"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Sun",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "chanted: \u201cO ye Sun and Moon ."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "University",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "son who had not taken a University degree, though he was the single one"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Hodge",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "known as Hodge\u2014were obliterated after a few days\u2019 residence."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "About",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 4,
+        "snippet": "About this time they would hear Dairyman Crick\u2019s voice, lecturing the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1,
+      "Angel Clare": 1
+    }
+  },
+  {
+    "canonical_name": "Sir Johns",
+    "aliases": [
+      "Johns"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "generations of Sir Johns among you, and if knighthood were hereditary,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mr Simon Stoke",
+    "aliases": [
+      "Stoke"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "When old Mr Simon Stoke, latterly deceased, had made his fortune as an"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mr Alec",
+    "aliases": [
+      "Alec"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "representative of the spurious house; for this was Mr Alec, the only"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Independence",
+    "aliases": [
+      "Independence"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cVery well, Miss Independence."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mr Angel Clare",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cMr Angel Clare\u2014he that is learning milking, and that plays the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Mercy Chant",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "young lady was Miss Mercy Chant, the only daughter of his father\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Reverend Felix",
+    "aliases": [
+      "Felix"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "father and mother, his brother the Reverend Felix\u2014curate at a town in"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Reverend Cuthbert",
+    "aliases": [
+      "Cuthbert"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "brother, the Reverend Cuthbert, the classical scholar, and Fellow and"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Flirt",
+    "aliases": [
+      "Flirt"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cNow, Miss Flirt, before you go down,\u201d he said peremptorily."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs Alexander",
+    "aliases": [
+      "Alexander"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "she not more truly Mrs Alexander d\u2019Urberville?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Stagfoot Lane",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "the antiquary, of Stagfoot Lane."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "The Pure Drop",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "road in a chaise belonging to The Pure Drop, driven by a frizzle-headed"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Sixth Standard",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "the dialect; her daughter, who had passed the Sixth Standard in the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Trantridge Cross",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "She alighted from the van at Trantridge Cross, and ascended on foot a"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Christmas Eve",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "It was not Christmas Eve then, but it came into his head to play"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Froom Valley",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "travellers through the Froom Valley; once portion of a fine manorial"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "The Herons",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "at The Herons,\u201d said the second."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Conqueror",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "the Conqueror, as appears by Battle Abbey Roll?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Anything",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "Anything else I can do for \u2019ee, Sir John?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Bless",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cBless thy simplicity, Tess,\u201d said her companions."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Certainly",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cCertainly."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Ssh",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201c\u2019Ssh\u2014don\u2019t be so for\u2019ard!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Get",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cGet up his strength!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Fortune",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cAnd take the _Compleat Fortune-Teller_ to the outhouse,\u201d Joan"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Lard",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cOh, \u2019tis you, Mrs Durbeyfield\u2014Lard\u2014how you frightened me!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Jacky",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cHush\u2014don\u2019t be so silly, Jacky,\u201d said his wife."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Which",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cWhich do we live on\u2014a splendid one or a blighted one?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Aby",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cO Aby, don\u2019t\u2014don\u2019t talk of that any more!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1,
+      "Angel Clare": 1
+    }
+  },
+  {
+    "canonical_name": "Art",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "thing in Nature or Art as you look, \u2018Cousin\u2019 Tess (\u2018Cousin\u2019 had a faint"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Does",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cDoes she?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Take",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "He suited the action to the word, and whistled a line of \u201cTake, O take"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Several",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "Several other women also chimed in,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Amen",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cSay \u2018Amen,\u2019 children."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "American Continent": 1,
+      "Angel Clare": 1
+    }
+  },
+  {
+    "canonical_name": "Weatherbury",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "He was going to Weatherbury, and"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Life",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "clear as the pure River of Life shown to the Evangelist, rapid as the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Long",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "Long thatched"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Colonies",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "view either to the Colonies or the tenure of a home-farm, as"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Gospel",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "intend to be a minister of the Gospel!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Orders",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "that I should prefer not to take Orders."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Bible",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "of Sheba who lived in the Bible."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Adam",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "isolation, as if they were Adam and Eve."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1,
+      "Angel Clare": 1
+    }
+  },
+  {
+    "canonical_name": "Deb",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cFor Heaven\u2019s sake, pop thy hands under the pump, Deb!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Twould",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u2019Twould have melted a marble stone!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Scripture",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cFie\u2014it is Scripture, Izz!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Nor",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cNor I."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "College",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "Dean of his College, down from Cambridge for the long vacation."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Possibly",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "Possibly the Talbothays milk was not very thoroughly skimmed that"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Land",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "Highest in the Land\u2014have had a Trouble in their time; and why"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Word",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "promise me never to let it out by Word or Deed, having your Welfare"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "True",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cTrue, comely enough."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Married",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cMarried!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Cupid",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "fine in figure; roundly built; had deep red lips like Cupid\u2019s bow; dark"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Chalk",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "towards the village of Chalk-Newton, where she meant to pass the night."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Newton",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "towards the village of Chalk-Newton, where she meant to pass the night."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Hand",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "following the elevated way she reached Cross-in-Hand, where the stone"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Spirit",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "of the Spirit, while she remained unregenerate."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Abbot",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cI have to preach at Abbot\u2019s-Cernel at six this evening, and my"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1,
+      "Angel Clare": 1
+    }
+  },
+  {
+    "canonical_name": "Cernel",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cI have to preach at Abbot\u2019s-Cernel at six this evening, and my"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  },
+  {
+    "canonical_name": "Egypt",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "Egypt of one family was the Land of Promise to the family who saw it"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Abbot": 1,
+      "About": 1,
+      "Aby": 1,
+      "Adam": 1,
+      "Amby Seedling": 1,
+      "Amen": 1,
+      "American Continent": 1
+    }
+  }
+]

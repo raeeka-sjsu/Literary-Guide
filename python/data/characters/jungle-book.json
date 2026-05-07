@@ -1,0 +1,2430 @@
+[
+  {
+    "canonical_name": "Rikki",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 110,
+    "per_chapter": {
+      "1": {
+        "mentions": 110,
+        "snippet": "\u201cRikki-Tikki-Tavi\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Father Wolf",
+    "aliases": [
+      "Wolf"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 100,
+    "per_chapter": {
+      "1": {
+        "mentions": 100,
+        "snippet": "Father Wolf woke up from his day\u2019s rest, scratched himself, yawned, and"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Kotick",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 78,
+    "per_chapter": {
+      "1": {
+        "mentions": 78,
+        "snippet": "Kotick, Matkah\u2019s baby, was born in the middle of that confusion, and he"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Shere Khan",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 70,
+    "per_chapter": {
+      "1": {
+        "mentions": 70,
+        "snippet": "\u201cShere Khan, the Big One, has shifted his hunting grounds."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Kala Nag",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 47,
+    "per_chapter": {
+      "1": {
+        "mentions": 47,
+        "snippet": "same drive with Kala Nag, told him, before his little milk tusks had"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Teddy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 45,
+    "per_chapter": {
+      "1": {
+        "mentions": 45,
+        "snippet": "\u201cDon\u2019t be frightened, Teddy,\u201d said his father."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Nagaina",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 39,
+    "per_chapter": {
+      "1": {
+        "mentions": 39,
+        "snippet": "of Nagaina, Nag\u2019s wicked wife."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "All",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 36,
+    "per_chapter": {
+      "1": {
+        "mentions": 36,
+        "snippet": "\u201cAll thanks for this good meal,\u201d he said, licking his lips."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1,
+      "Back Blocks": 1
+    }
+  },
+  {
+    "canonical_name": "Billy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 34,
+    "per_chapter": {
+      "1": {
+        "mentions": 34,
+        "snippet": "\u201cBilly."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Mother Wolf",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 32,
+    "per_chapter": {
+      "1": {
+        "mentions": 32,
+        "snippet": "Mother Wolf lay with her big gray nose dropped across her"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Little Toomai",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 32,
+    "per_chapter": {
+      "1": {
+        "mentions": 32,
+        "snippet": "\u201cHe is afraid of me also,\u201d said Little Toomai, standing up to his full"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Darzee",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 31,
+    "per_chapter": {
+      "1": {
+        "mentions": 31,
+        "snippet": "Darzee\u2019s Chant"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Petersen Sahib",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 22,
+    "per_chapter": {
+      "1": {
+        "mentions": 22,
+        "snippet": "of white men, but Petersen Sahib was the greatest white man in the world"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Two Tails",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 21,
+    "per_chapter": {
+      "1": {
+        "mentions": 21,
+        "snippet": "as Two Tails trumpets."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Buldeo",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 21,
+    "per_chapter": {
+      "1": {
+        "mentions": 21,
+        "snippet": "the barber, who knew all the gossip of the village, and old Buldeo, the"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Look",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 20,
+    "per_chapter": {
+      "1": {
+        "mentions": 20,
+        "snippet": "Look!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Master Words",
+    "aliases": [
+      "Words"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 17,
+    "per_chapter": {
+      "1": {
+        "mentions": 17,
+        "snippet": "\u201cI am now teaching him the Master Words of the Jungle that"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Gray Brother",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 16,
+    "per_chapter": {
+      "1": {
+        "mentions": 16,
+        "snippet": "\u201d said Gray Brother (he was the eldest of Mother Wolf\u2019s cubs)."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 16,
+    "per_chapter": {
+      "1": {
+        "mentions": 16,
+        "snippet": "Don\u2019t you envy our pranceful bands?"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Matkah",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 16,
+    "per_chapter": {
+      "1": {
+        "mentions": 16,
+        "snippet": "Matkah, his soft, sleek, gentle-eyed wife, came up out of the sea,"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Council Rock",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 14,
+    "per_chapter": {
+      "1": {
+        "mentions": 14,
+        "snippet": "Council Rock--a hilltop covered with stones and boulders where a hundred"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Little Brother",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 14,
+    "per_chapter": {
+      "1": {
+        "mentions": 14,
+        "snippet": "along, Little Brother,\u201d and at first Mowgli would cling like the sloth,"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Messua",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 13,
+    "per_chapter": {
+      "1": {
+        "mentions": 13,
+        "snippet": "honor, Messua, he is not unlike thy boy that was taken by the tiger."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Keddah",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 13,
+    "per_chapter": {
+      "1": {
+        "mentions": 13,
+        "snippet": "Keddah--that is, the stockade--looked like a picture of the end of the"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Sea Catch",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "he could, but Sea Catch would not help him."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Here",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "\u201d Here Baloo rubbed his faded brown shoulder against the Panther,"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Rama",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "on the back of Rama, the great herd bull."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Sea Vitch",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 11,
+        "snippet": "Sea Vitch."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Sea Cow",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 11,
+        "snippet": "\u201cGo and ask Sea Cow,\u201d said Sea Vitch."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Free People",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "What have the Free People to do with a man\u2019s cub?"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Big Toomai",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "\u201cYes,\u201d said Big Toomai, his driver, the son of Black Toomai who had"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Song",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "Hunting-Song of the Seeonee Pack"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Keep",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "\u201cKeep him!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Remember",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "\u201cRemember that it"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Once",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "Once, twice and again!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Kerick",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "The men were no less than Kerick"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Thou",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "Thou hast"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Chuchundra",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "Darzee, the Tailorbird, helped him, and Chuchundra, the"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Karait",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "\u201d It was Karait, the"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Pudmini",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "Petersen Sahib came in on his clever she-elephant Pudmini; he had been"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Vixen",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "Little Vixen, my fox terrier, went out through the"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Elephants",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "Toomai of the Elephants"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Shiv",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "Shiv and the Grasshopper"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Are",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "Are there"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Australia": 1,
+      "Back Blocks": 1
+    }
+  },
+  {
+    "canonical_name": "From",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "From the pond in the wood where the wild deer sup."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Machua Appa",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "Machua Appa, the head tracker, said in an undertone to a friend of his,"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Not",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "\u201cNot even I can"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Bear",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "For though they are little and fubsy, it may be the Bear is their mother."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Amir",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "the Amir of Afghanistan--a wild king of a very wild country."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Are": 1,
+      "Australia": 1,
+      "Back Blocks": 1
+    }
+  },
+  {
+    "canonical_name": "Master Word",
+    "aliases": [
+      "Word"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "The boy held the Master Word."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Lone Wolf",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Akela, the great gray Lone Wolf, who led all the Pack"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Black Panther",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "\u201cOh, thou art a man\u2019s cub,\u201d said the Black Panther very tenderly."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Red Flower",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "the men\u2019s huts in the valley, and take some of the Red Flower which they"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Cold Lairs",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "city--to the Cold Lairs."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Sambhur",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "hence, or by the Sambhur that I killed (I eat no starved cattle), back"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Listen",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "\u201cListen to"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Run",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Run!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Limmershin",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Limmershin, the Winter Wren, told me the tale"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Patalamon",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Booterin, the chief of the seal-hunters on the island, and Patalamon,"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Viceroy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "crashing trumpet-peal that only the Viceroy of India hears, the Salaamut"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Monkey People",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Monkey People."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Sea Lion",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "So they went on very slowly, past Sea Lion\u2019s Neck, past"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Never",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "\u201cNever while we can follow a trail,\u201d said the cubs."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Sit",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Sit still and think!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Children",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "voice, called out of the darkness to the right--\u201cChildren, what are you"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "The Beaches",
+    "aliases": [
+      "The"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "The Beaches of Lukannon\u2014two million voices strong."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Walrus Islet",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "talking to your betters--suppose you go to Walrus Islet and talk to"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Black Snake",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Kala Nag, which means Black Snake, had served the Indian Government in"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Shiva the Preserver",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "All things made he--Shiva the Preserver."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Brothers",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Mowgli\u2019s Brothers"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Shall",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cShall I tell him of your gratitude?"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Out",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cOut!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Take",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cTake him away,\u201d he said to Father Wolf, \u201cand train him as befits one of"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Make",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Make a plan."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Those",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Those"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cVery soft is his skin, and he is"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "True",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cTrue, but he has cost us heavily in time which might have been spent in"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Nathoo",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "So she said, \u201cNathoo, O Nathoo!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Khanhiwara",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "journey to the market at Khanhiwara."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Tower",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "village hunter, who had a Tower musket, met and smoked."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Fire",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "all holluschickie, and we can dance the Fire-dance in the breakers off"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Hear",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cHear you, fat pigs of the sea."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Rikk",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "he scuttled through the long grass was: \u201cRikk-tikk-tikki-tikki-tchk!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Stop",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Stop singing a minute, Darzee."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Garo",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "catch wild elephants among the Garo hills."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Australia",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "The first time I ever saw a man (it was in Australia"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Back Blocks": 1
+    }
+  },
+  {
+    "canonical_name": "Seeonee Pack",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Hunting-Song of the Seeonee Pack"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "White Seal",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "The White Seal"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Jungle People",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "the Jungle People like being disturbed, and all are very ready to fly at"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Hunting Call",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Then, too, Mowgli was taught the Strangers\u2019 Hunting Call,"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Bonnie Dundee",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "cavalry came up, to the beautiful cavalry canter of \u201cBonnie Dundee,\u201d and"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Tikki",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cRikki-Tikki-Tavi\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Lungri",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cHis mother did not call him Lungri [the Lame One] for nothing,\u201d said"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Something",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cSomething is coming uphill,\u201d said Mother Wolf, twitching one ear."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Son",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cWhat is it, Son?"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Bah",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Then Shere Khan roared: \u201cBah!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Feet",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Feet in the jungle that leave no mark!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Teacher",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "So Baloo, the Teacher of"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Oho",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cOho, Baloo, what dost thou do"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Hah",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cHah!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Zaharrof",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Perhaps it is old Zaharrof\u2019s ghost."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Neck",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "So they went on very slowly, past Sea Lion\u2019s Neck, past"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Clam",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cClam-eater!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Eye",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Red-Eye called to Wrinkle-Skin."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Chua",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cMy cousin Chua, the rat, told me--\u201d said Chuchundra, and then he"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Wah",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cWah!"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Keddahs",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cRemember, though, that Keddahs are not"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Gods",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "By all the Gods of the Hills, these new"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Thorn",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Thorn for the camel, fodder for the kine,"
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Afghanistan": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1
+    }
+  },
+  {
+    "canonical_name": "Afghanistan",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "the Amir of Afghanistan--a wild king of a very wild country."
+      }
+    },
+    "co_occurs_with": {
+      "Abyssinian War": 1,
+      "Afghan War": 1,
+      "Ali Musjid": 1,
+      "All": 1,
+      "Amir": 1,
+      "Are": 1,
+      "Australia": 1,
+      "Back Blocks": 1
+    }
+  }
+]

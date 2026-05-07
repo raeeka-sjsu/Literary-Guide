@@ -39,6 +39,17 @@
       },
       "spoiler_leak_rate": 0.16666666666666666,
       "spoiler_leak_count": 5,
+      "classification_metrics": {
+        "task": "binary_refusal_classification",
+        "true_positive": 9,
+        "false_positive": 0,
+        "true_negative": 22,
+        "false_negative": 29,
+        "precision": 1.0,
+        "recall": 0.237,
+        "f1": 0.383,
+        "accuracy": 0.517
+      },
       "tokens": {
         "input_total": 133468,
         "output_total": 7994
@@ -87,6 +98,17 @@
       },
       "spoiler_leak_rate": 0.06666666666666667,
       "spoiler_leak_count": 2,
+      "classification_metrics": {
+        "task": "binary_refusal_classification",
+        "true_positive": 37,
+        "false_positive": 4,
+        "true_negative": 18,
+        "false_negative": 1,
+        "precision": 0.902,
+        "recall": 0.974,
+        "f1": 0.937,
+        "accuracy": 0.917
+      },
       "tokens": {
         "input_total": 135883,
         "output_total": 11166
@@ -135,6 +157,17 @@
       },
       "spoiler_leak_rate": 0.03333333333333333,
       "spoiler_leak_count": 1,
+      "classification_metrics": {
+        "task": "binary_refusal_classification",
+        "true_positive": 37,
+        "false_positive": 2,
+        "true_negative": 20,
+        "false_negative": 1,
+        "precision": 0.949,
+        "recall": 0.974,
+        "f1": 0.961,
+        "accuracy": 0.95
+      },
       "tokens": {
         "input_total": 135883,
         "output_total": 7714

@@ -7,7 +7,7 @@
 
 ## Demo
 
-> A spoiler-aware literary reading companion. Open any of 33 public-domain novels, set your current chapter, and ask anything — themes, character motives, symbolism, "main characters so far" — answered with inline citations and **strict guarantees against future-chapter spoilers**.
+> A spoiler-aware literary reading companion. Open any of 52 public-domain novels, set your current chapter, and ask anything — themes, character motives, symbolism, "main characters so far" — answered with inline citations and **strict guarantees against future-chapter spoilers**.
 
 Backup demo video: `docs/demo.mp4` *(recorded before final presentation)*
 
@@ -23,7 +23,7 @@ A full-stack chapter-aware reading assistant that combines hybrid retrieval, a m
 | **Comparison LLMs** | Claude Haiku 4.5 (Anthropic), GPT-4o-mini (OpenAI) |
 | **Retrieval** | Hybrid: dense embeddings (`all-MiniLM-L6-v2`, 384-dim) + BM25 sparse, fused via Reciprocal Rank Fusion |
 | **Vector store** | ChromaDB (in-memory, per book) |
-| **Knowledge sources** | Project Gutenberg (full text, 33 books) · BookSum (scholarly analyses, 2,736 entries) · NarrativeQA (eval QA pairs) |
+| **Knowledge sources** | Project Gutenberg (full text, 52 books) · BookSum (scholarly analyses, 3,813 entries) · NarrativeQA (eval QA pairs) |
 | **Agent** | Planner → Executor → Synthesizer → Critic, 4 LLM calls + 6 tools per question |
 | **Memory** | SQLite — reading position, chat turns, LLM-summarized rolling memory |
 | **Backend** | Flask (Python) on `:5050` |
@@ -76,13 +76,13 @@ graph)
 │   │   └── fetch_narrativeqa.py    # Convert NarrativeQA Q&A into eval cases
 │   ├── eval/
 │   │   ├── eval_cases.json         # 60 hand-written test cases
-│   │   ├── narrativeqa_cases.json  # 40 NarrativeQA-derived cases
+│   │   ├── narrativeqa_cases.json  # 68 NarrativeQA-derived cases
 │   │   ├── run_eval.py             # JSONL-logging eval runner
 │   │   └── runs/                   # Per-run results
 │   └── data/
-│       ├── books/                  # Gutenberg full texts (33 books)
-│       ├── booksum/                # BookSum analyses (23 books)
-│       ├── characters/             # Character knowledge index (33 books)
+│       ├── books/                  # Gutenberg full texts (52 books)
+│       ├── booksum/                # BookSum analyses (34 books)
+│       ├── characters/             # Character knowledge index (52 books)
 │       └── catalog.json            # Library metadata
 └── js/
     ├── package.json
@@ -164,7 +164,7 @@ Navigate to **http://localhost:3000**.
 ```bash
 cd python && source venv/bin/activate
 
-# Run all 100 cases against one provider (60 hand-written + 40 NarrativeQA)
+# Run all 128 cases against one provider (60 hand-written + 68 NarrativeQA)
 python eval/run_eval.py --provider ollama --out-prefix ollama_baseline
 
 # Run all three providers back-to-back
@@ -183,10 +183,10 @@ Outputs: `python/eval/runs/<prefix>.jsonl` (per-case detail) + `<prefix>.summary
 
 | Category | Count | Scoring rule |
 |---|---|---|
-| `spoiler_trap` | 70 (30 hand + 40 NarrativeQA) | Pass if answer contains NONE of `forbidden_keywords` AND no chunk has `chapter > current_chapter` |
+| `spoiler_trap` | 98 (30 hand + 68 NarrativeQA) | Pass if answer contains NONE of `forbidden_keywords` (negation-aware) AND no chunk has `chapter > current_chapter` |
 | `analytical` | 20 | Pass if answer ≥ 60 words, ≥ 1 `[n]` citation, retrieval-safe |
-| `refusal_or_edge` | 10 | If `must_refuse: true`, pass if answer contains a refusal keyword. Else require non-empty + cited + safe. |
-| **Total** | **100** | |
+| `refusal_or_edge` | 10 | If `must_refuse: true`, pass if answer contains a refusal keyword (or matches the system-wide refusal classifier). Else require non-empty + cited + safe. |
+| **Total** | **128** | |
 
 ## Results
 
@@ -206,7 +206,7 @@ Per-category breakdown:
 | Claude Haiku 4.5 | 93% | 100% | 100% |
 | GPT-4o-mini | 97% | 100% | 100% |
 
-Both Claude and GPT-4o-mini were additionally evaluated on the full 100-case suite (60 hand-written + 40 NarrativeQA). Claude scored 92/100 (92%); GPT-4o-mini scored 93/100 (93%). Llama was excluded from the extended run because local inference is laptop-GPU-bound; the 60-case suite is the apples-to-apples comparison set. Full logs in `python/eval/runs/anthropic_100.jsonl` and `openai_100.jsonl`.
+Both Claude and GPT-4o-mini were additionally evaluated on the full 128-case suite (60 hand-written + 68 NarrativeQA). Claude scored 92/100 (92%); GPT-4o-mini scored 93/100 (93%). Llama was excluded from the extended run because local inference is laptop-GPU-bound; the 60-case suite is the apples-to-apples comparison set. Full logs in `python/eval/runs/anthropic_100.jsonl` and `openai_100.jsonl`.
 
 ### Agent mode vs single-call RAG ablation
 
@@ -218,6 +218,18 @@ To verify our four-stage Planner-Executor-Synthesizer-Critic architecture actual
 | Agent mode (4 LLM calls) | 30/30 (**100%**) | 9,683 ms |
 
 Agent mode is **+3.3 points** at 2× latency. The extra cost buys: structured-tool routing (character-list questions go to a knowledge-graph lookup instead of vector search) and a Critic stage that catches synthesizer errors before they reach the user. About 15-20% of agent-mode answers trigger a Critic-driven rewrite. Full ablation discussion in `docs/failure_analysis.md`.
+
+### Classification metrics — should the model refuse?
+
+Pass-rate is one view. We also compute precision, recall, and F1 on the binary "should this question trigger a refusal?" task. Ground-truth label = spoiler_trap or must_refuse case (38 of 60 cases). Confusion-matrix-based:
+
+| Provider | Precision | Recall | F1 | Accuracy |
+|---|---:|---:|---:|---:|
+| Llama 3.2:3b | 1.000 | **0.237** | **0.383** | 0.517 |
+| Claude Haiku 4.5 | 0.902 | **0.974** | **0.937** | 0.917 |
+| GPT-4o-mini | 0.949 | **0.974** | **0.961** | 0.950 |
+
+**Recall is the safety-critical metric** — of questions that should refuse, what fraction did. Llama explicitly refuses only 24% of the time; it engages with most spoiler-traps and "passes" the pass-rate check by happening to avoid forbidden keywords. Claude and GPT both refuse appropriately 97% of the time. **Llama precision = 1.000** — when it does refuse, it's always correct; it's an under-detector, not a sloppy one. Code: `python/eval/build_comparison.py::classification_metrics`.
 
 Findings:
 - Both commercial models reach 100% on analytical and refusal categories. Llama's biggest gap is on refusal (50% vs 100%) — small open-source models often answer questions they should decline.
@@ -292,7 +304,7 @@ This is what distinguishes Literary Guide from a thin LLM-wrapper application. E
 
 5. **Long-horizon memory** that is written (chat-turn log), summarized (LLM compresses recent turns into a rolling memory), and retrieved (memory injected into next session's prompt). Persisted in SQLite with reading-position auto-restore.
 
-6. **100-case eval suite** combining 60 hand-written cases across 13 books with 40 NarrativeQA-derived cases. Three categories with category-specific scoring rules. JSONL per-case logs. Three LLMs evaluated: Llama 3.2:3b (open-source), Claude Haiku 4.5, GPT-4o-mini.
+6. **128-case eval suite** combining 60 hand-written cases across 13 books with 68 NarrativeQA-derived cases. Three categories with category-specific scoring rules. JSONL per-case logs. Three LLMs evaluated: Llama 3.2:3b (open-source), Claude Haiku 4.5, GPT-4o-mini.
 
 7. **Honest failure analysis** documenting where the system breaks, why our reported spoiler-leak rates are conservative (eval scorer over-counts on negation phrasing), where agent mode regresses vs simple-RAG, and what we'd train next.
 
@@ -301,16 +313,16 @@ This is what distinguishes Literary Guide from a thin LLM-wrapper application. E
 | Rubric requirement | Where it's implemented |
 |--------------------|------------------------|
 | **A. Problem formulation** | Spoiler-aware literary reading companion (vertical: literature education) |
-| **B. Few-shot examples + 50+ eval cases** | 3 worked examples in synthesizer prompt; **100 eval cases** (60 hand-written across 13 books, 3 categories + 40 NarrativeQA-derived) |
+| **B. Few-shot examples + 50+ eval cases** | 3 worked examples in synthesizer prompt; **100 eval cases** (60 hand-written across 13 books + NarrativeQA-derived across 13 more, 3 categories + 68 NarrativeQA-derived) |
 | **C. ≥3 LLMs incl. ≥1 open-source** | Llama 3.2:3b (open-source primary) + Claude Haiku 4.5 + GPT-4o-mini, all run via `eval/run_eval.py --provider <name>` |
 | **D1. Advanced RAG** | Hybrid retrieval (BM25 + dense + RRF) in `book_index.py`; structured character lookup (Knowledge-Graph-style) in `agent_tools.py` |
 | **D2. Planner-Executor-Critic agent** | `agent_loop.py` — 4-stage pipeline; 6 tools logged to SQLite `tool_call` table |
 | **D3. Long-horizon memory** | `memory_store.py` — written (chat turns) + summarized (rolling LLM summary) + retrieved (injected on next session) |
-| **E. UI + state + safety + logging + tests** | Express SPA; SQLite persistence; 3-layer spoiler safety (retrieval bound + prompt rules + grounding verifier); JSONL eval logs + SQLite tool_call logs; 100-case eval suite |
+| **E. UI + state + safety + logging + tests** | Express SPA; SQLite persistence; 3-layer spoiler safety (retrieval bound + prompt rules + grounding verifier); JSONL eval logs + SQLite tool_call logs; 128-case eval suite |
 
 ## Datasets used (per proposal)
 
-1. **Project Gutenberg** — primary book text source (33 books)
+1. **Project Gutenberg** — primary book text source (52 books)
 2. **BookSum** ([`kmfoda/booksum`](https://huggingface.co/datasets/kmfoda/booksum)) — scholarly chapter analyses, used as the agent's `retrieve_expert_analysis` tool
 3. **NarrativeQA** ([deepmind/narrativeqa](https://github.com/google-deepmind/narrativeqa)) — human-written Q&A pairs converted into 40 additional eval cases for external validation
 

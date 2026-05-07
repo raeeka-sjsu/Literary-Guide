@@ -1,0 +1,1006 @@
+[
+  {
+    "canonical_name": "Xury",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 31,
+    "per_chapter": {
+      "2": {
+        "mentions": 23,
+        "snippet": "gone, I turned to the boy, whom they called Xury, and said to him,"
+      },
+      "3": {
+        "mentions": 8,
+        "snippet": "inclined to have gone on shore to them; but Xury was my better"
+      }
+    },
+    "co_occurs_with": {
+      "Guinea": 2,
+      "Canary Islands": 1,
+      "Cape de Verde Islands": 1,
+      "Moor": 1,
+      "Moors": 1,
+      "Mountain Teneriffe": 1,
+      "Sallee": 1,
+      "Bay": 1
+    }
+  },
+  {
+    "canonical_name": "Brazils",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 27,
+    "per_chapter": {
+      "3": {
+        "mentions": 7,
+        "snippet": "should be delivered safe to me when I came to the Brazils."
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "have done well enough, and I might have gone back into the Brazils with"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "have a notion in the Brazils that they live a hundred years."
+      },
+      "19": {
+        "mentions": 9,
+        "snippet": "information of the state of my plantation in the Brazils, and of what"
+      },
+      "20": {
+        "mentions": 5,
+        "snippet": "And now, having resolved to dispose of my plantation in the Brazils, I"
+      }
+    },
+    "co_occurs_with": {
+      "Lisbon": 3,
+      "Brazil": 2,
+      "East Indies": 2,
+      "Portuguese": 2,
+      "Father Abraham": 1,
+      "God Himself": 1,
+      "Indians": 1,
+      "Sallee": 1
+    }
+  },
+  {
+    "canonical_name": "Spaniard",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 23,
+    "per_chapter": {
+      "16": {
+        "mentions": 14,
+        "snippet": "my charge ready, because I had given the Spaniard my pistol and sword:"
+      },
+      "17": {
+        "mentions": 9,
+        "snippet": "serious discourse with the Spaniard, and when I understood that there"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "God Himself": 1,
+      "Leeward Islands": 1,
+      "New Spain": 1,
+      "Spaniards": 1,
+      "Spanish": 1
+    }
+  },
+  {
+    "canonical_name": "Lisbon",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 18,
+    "per_chapter": {
+      "3": {
+        "mentions": 6,
+        "snippet": "I had a neighbour, a Portuguese, of Lisbon, but born of English"
+      },
+      "19": {
+        "mentions": 9,
+        "snippet": "resolved to go to Lisbon, and see if I might not come at some"
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "wrote to my old friend at Lisbon, who, having offered it to the two"
+      }
+    },
+    "co_occurs_with": {
+      "Brazils": 3,
+      "Brazil": 2,
+      "East Indies": 2,
+      "Portuguese": 2,
+      "Bay": 1,
+      "Cape St": 1,
+      "Cape de Verde": 1,
+      "Caribbee Islands": 1
+    }
+  },
+  {
+    "canonical_name": "Spaniards",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 12,
+    "per_chapter": {
+      "12": {
+        "mentions": 3,
+        "snippet": "the Spaniards in all their barbarities practised in America, where they"
+      },
+      "17": {
+        "mentions": 3,
+        "snippet": "to the next harvest, though all the sixteen Spaniards had been on shore"
+      },
+      "20": {
+        "mentions": 6,
+        "snippet": "inclination I had to see my island, and to know if the poor Spaniards"
+      }
+    },
+    "co_occurs_with": {
+      "God Himself": 2,
+      "Brazils": 1,
+      "East Indies": 1,
+      "Lisbon": 1,
+      "Toulouse": 1,
+      "All": 1,
+      "Leeward Islands": 1,
+      "New Spain": 1
+    }
+  },
+  {
+    "canonical_name": "Nov",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 10,
+    "per_chapter": {
+      "5": {
+        "mentions": 10,
+        "snippet": "_Nov."
+      }
+    },
+    "co_occurs_with": {
+      "Dec": 1,
+      "From": 1,
+      "Oct": 1,
+      "Robinson Crusoe": 1,
+      "The Island": 1
+    }
+  },
+  {
+    "canonical_name": "Guinea",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 9,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "vulgarly called it, a voyage to Guinea."
+      },
+      "3": {
+        "mentions": 6,
+        "snippet": "either to the coast of Guinea or to Brazil, or to the East Indies, made"
+      }
+    },
+    "co_occurs_with": {
+      "Xury": 2,
+      "Canary Islands": 1,
+      "Cape de Verde Islands": 1,
+      "Moor": 1,
+      "Moors": 1,
+      "Mountain Teneriffe": 1,
+      "Sallee": 1,
+      "Bay": 1
+    }
+  },
+  {
+    "canonical_name": "Spanish",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 9,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "observations, must be near the Spanish dominions, and perhaps was all"
+      },
+      "17": {
+        "mentions": 3,
+        "snippet": "and found they were a Spanish ship, bound from the Rio de la Plata to"
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "handled, as also the money I found in the wreck of the Spanish ship."
+      }
+    },
+    "co_occurs_with": {
+      "Blessed Virgin": 1,
+      "Brazil": 1,
+      "Brazils": 1,
+      "Lisbon": 1,
+      "Madrid": 1,
+      "Old Castile": 1,
+      "Pampeluna": 1,
+      "Portuguese": 1
+    }
+  },
+  {
+    "canonical_name": "Brazil",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 8,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "either to the coast of Guinea or to Brazil, or to the East Indies, made"
+      },
+      "19": {
+        "mentions": 4,
+        "snippet": "from a young man, into his ship, and who still used the Brazil trade."
+      }
+    },
+    "co_occurs_with": {
+      "Brazils": 2,
+      "Lisbon": 2,
+      "Portuguese": 2,
+      "Bay": 1,
+      "Cape St": 1,
+      "Cape de Verde": 1,
+      "Caribbee Islands": 1,
+      "East Indies": 1
+    }
+  },
+  {
+    "canonical_name": "Portuguese",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 8,
+    "per_chapter": {
+      "3": {
+        "mentions": 5,
+        "snippet": "that it was a Portuguese ship; and, as I thought, was bound to the"
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "will, and had made him, the Portuguese captain, my universal heir, &c."
+      }
+    },
+    "co_occurs_with": {
+      "Brazil": 2,
+      "Brazils": 2,
+      "Lisbon": 2,
+      "Bay": 1,
+      "Cape St": 1,
+      "Cape de Verde": 1,
+      "Caribbee Islands": 1,
+      "East Indies": 1
+    }
+  },
+  {
+    "canonical_name": "Moor",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 7,
+    "per_chapter": {
+      "2": {
+        "mentions": 7,
+        "snippet": "sometimes he would send me with a Moor, one of his kinsmen, and the"
+      }
+    },
+    "co_occurs_with": {
+      "Canary Islands": 1,
+      "Cape de Verde Islands": 1,
+      "Guinea": 1,
+      "Moors": 1,
+      "Mountain Teneriffe": 1,
+      "Sallee": 1,
+      "Xury": 1
+    }
+  },
+  {
+    "canonical_name": "Dec",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 7,
+    "per_chapter": {
+      "5": {
+        "mentions": 7,
+        "snippet": "_Dec."
+      }
+    },
+    "co_occurs_with": {
+      "From": 1,
+      "Nov": 1,
+      "Oct": 1,
+      "Robinson Crusoe": 1,
+      "The Island": 1
+    }
+  },
+  {
+    "canonical_name": "Scripture",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 7,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "strength, my thoughts ran exceedingly upon this Scripture, \u201cI will"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "reading the Scripture, to let him know, as well as I could, the meaning"
+      }
+    },
+    "co_occurs_with": {
+      "Can God": 1,
+      "Can God Himself": 1,
+      "Journal": 1,
+      "Power": 1,
+      "Very": 1,
+      "Went": 1,
+      "Worked": 1,
+      "Benamuckee": 1
+    }
+  },
+  {
+    "canonical_name": "Him",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 7,
+    "per_chapter": {
+      "11": {
+        "mentions": 4,
+        "snippet": "He thought fit; and who, as I was a creature that had offended Him, had"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "the equity and justice of paying homage to Him that made us, and the"
+      }
+    },
+    "co_occurs_with": {
+      "Benamuckee": 1,
+      "Christ Jesus": 1,
+      "Jesus Christ": 1,
+      "Lord Jesus": 1,
+      "Saviour Jesus Christ": 1,
+      "Scripture": 1,
+      "Spirit": 1,
+      "Word": 1
+    }
+  },
+  {
+    "canonical_name": "Sallee",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 6,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Turkish rover of Sallee, who gave chase to us with all the sail she"
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "my escape from Sallee; my being taken up by the Portuguese master of"
+      }
+    },
+    "co_occurs_with": {
+      "Brazils": 1,
+      "Father Abraham": 1,
+      "God Himself": 1,
+      "Indians": 1,
+      "Yarmouth Roads": 1,
+      "Canary Islands": 1,
+      "Cape de Verde Islands": 1,
+      "Guinea": 1
+    }
+  },
+  {
+    "canonical_name": "Moors",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 6,
+    "per_chapter": {
+      "2": {
+        "mentions": 6,
+        "snippet": "port belonging to the Moors."
+      }
+    },
+    "co_occurs_with": {
+      "Canary Islands": 1,
+      "Cape de Verde Islands": 1,
+      "Guinea": 1,
+      "Moor": 1,
+      "Mountain Teneriffe": 1,
+      "Sallee": 1,
+      "Xury": 1
+    }
+  },
+  {
+    "canonical_name": "Benamuckee",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 5,
+    "per_chapter": {
+      "15": {
+        "mentions": 5,
+        "snippet": "He told me, \u201cIt was one Benamuckee, that lived"
+      }
+    },
+    "co_occurs_with": {
+      "Christ Jesus": 1,
+      "Him": 1,
+      "Jesus Christ": 1,
+      "Lord Jesus": 1,
+      "Saviour Jesus Christ": 1,
+      "Scripture": 1,
+      "Spirit": 1,
+      "Word": 1
+    }
+  },
+  {
+    "canonical_name": "Word",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 5,
+    "per_chapter": {
+      "15": {
+        "mentions": 5,
+        "snippet": "Saviour Jesus Christ, I mean the Word of God, and the Spirit of God,"
+      }
+    },
+    "co_occurs_with": {
+      "Benamuckee": 1,
+      "Christ Jesus": 1,
+      "Him": 1,
+      "Jesus Christ": 1,
+      "Lord Jesus": 1,
+      "Saviour Jesus Christ": 1,
+      "Scripture": 1,
+      "Spirit": 1
+    }
+  },
+  {
+    "canonical_name": "Pampeluna",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 5,
+    "per_chapter": {
+      "19": {
+        "mentions": 5,
+        "snippet": "Pampeluna, after having attempted at an extreme hazard to pass on."
+      }
+    },
+    "co_occurs_with": {
+      "Blessed Virgin": 1,
+      "Brazil": 1,
+      "Brazils": 1,
+      "Lisbon": 1,
+      "Madrid": 1,
+      "Old Castile": 1,
+      "Portuguese": 1,
+      "Pyrenean Mountains": 1
+    }
+  },
+  {
+    "canonical_name": "Hull",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "settled first at Hull."
+      }
+    },
+    "co_occurs_with": {
+      "Colonel Lockhart": 1,
+      "Low Country": 1,
+      "Robinson Kreutznaer": 1,
+      "Winterton Ness": 1,
+      "Yarmouth Roads": 1
+    }
+  },
+  {
+    "canonical_name": "Went",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 4,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "\u2014Went to the wreck again, not with an intent to work, but found"
+      }
+    },
+    "co_occurs_with": {
+      "Can God": 1,
+      "Can God Himself": 1,
+      "Journal": 1,
+      "Power": 1,
+      "Scripture": 1,
+      "Very": 1,
+      "Worked": 1
+    }
+  },
+  {
+    "canonical_name": "Jesus Christ",
+    "aliases": [
+      "Jesus"
+    ],
+    "first_chapter": 7,
+    "total_mentions": 4,
+    "per_chapter": {
+      "7": {
+        "mentions": 1,
+        "snippet": "through Jesus Christ; and not having tasted the least refreshment for"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "attention, and received with pleasure the notion of Jesus Christ being"
+      }
+    },
+    "co_occurs_with": {
+      "Benamuckee": 1,
+      "Christ Jesus": 1,
+      "Him": 1,
+      "Lord Jesus": 1,
+      "Saviour Jesus Christ": 1,
+      "Scripture": 1,
+      "Spirit": 1,
+      "Word": 1
+    }
+  },
+  {
+    "canonical_name": "Robin Crusoe",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "Robin Crusoe: poor Robin Crusoe!"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "talked pretty well, and would all call \u201cRobin Crusoe,\u201d but none like my"
+      }
+    },
+    "co_occurs_with": {
+      "Brazils": 1,
+      "Poll": 1,
+      "Poor Robin Crusoe": 1
+    }
+  },
+  {
+    "canonical_name": "Spirit",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 4,
+    "per_chapter": {
+      "15": {
+        "mentions": 4,
+        "snippet": "Saviour Jesus Christ, I mean the Word of God, and the Spirit of God,"
+      }
+    },
+    "co_occurs_with": {
+      "Benamuckee": 1,
+      "Christ Jesus": 1,
+      "Him": 1,
+      "Jesus Christ": 1,
+      "Lord Jesus": 1,
+      "Saviour Jesus Christ": 1,
+      "Scripture": 1,
+      "Word": 1
+    }
+  },
+  {
+    "canonical_name": "All",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 4,
+    "per_chapter": {
+      "17": {
+        "mentions": 4,
+        "snippet": "All this while I had no thought of what the matter really was, but"
+      }
+    },
+    "co_occurs_with": {
+      "God Himself": 1,
+      "Leeward Islands": 1,
+      "New Spain": 1,
+      "Spaniard": 1,
+      "Spaniards": 1,
+      "Spanish": 1
+    }
+  },
+  {
+    "canonical_name": "Tom Smith",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 4,
+    "per_chapter": {
+      "18": {
+        "mentions": 4,
+        "snippet": "of them, \u201cTom Smith!"
+      }
+    },
+    "co_occurs_with": {
+      "For God": 1,
+      "Robinson": 1,
+      "Will Atkins": 1,
+      "Will Fry": 1
+    }
+  },
+  {
+    "canonical_name": "Madrid",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 4,
+    "per_chapter": {
+      "19": {
+        "mentions": 4,
+        "snippet": "Paris, and so to Calais and Dover; or to go up to Madrid, and so all"
+      }
+    },
+    "co_occurs_with": {
+      "Blessed Virgin": 1,
+      "Brazil": 1,
+      "Brazils": 1,
+      "Lisbon": 1,
+      "Old Castile": 1,
+      "Pampeluna": 1,
+      "Portuguese": 1,
+      "Pyrenean Mountains": 1
+    }
+  },
+  {
+    "canonical_name": "Colonel Lockhart",
+    "aliases": [
+      "Lockhart"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Colonel Lockhart, and was killed at the battle near Dunkirk against the"
+      }
+    },
+    "co_occurs_with": {
+      "Hull": 1,
+      "Low Country": 1,
+      "Robinson Kreutznaer": 1,
+      "Winterton Ness": 1,
+      "Yarmouth Roads": 1
+    }
+  },
+  {
+    "canonical_name": "Yarmouth Roads",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "The sixth day of our being at sea we came into Yarmouth Roads; the wind"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "ship in Yarmouth Roads, that same day-year afterwards I made my escape"
+      }
+    },
+    "co_occurs_with": {
+      "Colonel Lockhart": 1,
+      "Hull": 1,
+      "Low Country": 1,
+      "Robinson Kreutznaer": 1,
+      "Winterton Ness": 1,
+      "Brazils": 1,
+      "Father Abraham": 1,
+      "God Himself": 1
+    }
+  },
+  {
+    "canonical_name": "European",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "in hopes to meet with some European ship; and if I did not, I knew not"
+      }
+    },
+    "co_occurs_with": {
+      "Bay": 1,
+      "Brazil": 1,
+      "Brazils": 1,
+      "Cape St": 1,
+      "Cape de Verde": 1,
+      "Caribbee Islands": 1,
+      "East Indies": 1,
+      "Fernando de Noronha": 1
+    }
+  },
+  {
+    "canonical_name": "Bay",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "We had a very good voyage to the Brazils, and I arrived in the Bay de"
+      }
+    },
+    "co_occurs_with": {
+      "Brazil": 1,
+      "Brazils": 1,
+      "Cape St": 1,
+      "Cape de Verde": 1,
+      "Caribbee Islands": 1,
+      "East Indies": 1,
+      "European": 1,
+      "Fernando de Noronha": 1
+    }
+  },
+  {
+    "canonical_name": "From",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "_From the 1st of October to the 24th_."
+      }
+    },
+    "co_occurs_with": {
+      "Dec": 1,
+      "Nov": 1,
+      "Oct": 1,
+      "Robinson Crusoe": 1,
+      "The Island": 1
+    }
+  },
+  {
+    "canonical_name": "Oct",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "_Oct."
+      }
+    },
+    "co_occurs_with": {
+      "Dec": 1,
+      "From": 1,
+      "Nov": 1,
+      "Robinson Crusoe": 1,
+      "The Island": 1
+    }
+  },
+  {
+    "canonical_name": "Worked",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "\u2014Worked on the wreck; cut another beam asunder, and brought"
+      }
+    },
+    "co_occurs_with": {
+      "Can God": 1,
+      "Can God Himself": 1,
+      "Journal": 1,
+      "Power": 1,
+      "Scripture": 1,
+      "Very": 1,
+      "Went": 1
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "\u2014Very ill, and shivering, as if the weather had been cold."
+      }
+    },
+    "co_occurs_with": {
+      "Can God": 1,
+      "Can God Himself": 1,
+      "Journal": 1,
+      "Power": 1,
+      "Scripture": 1,
+      "Went": 1,
+      "Worked": 1
+    }
+  },
+  {
+    "canonical_name": "Journal",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "The growing up of the corn, as is hinted in my Journal, had at first"
+      }
+    },
+    "co_occurs_with": {
+      "Can God": 1,
+      "Can God Himself": 1,
+      "Power": 1,
+      "Scripture": 1,
+      "Very": 1,
+      "Went": 1,
+      "Worked": 1
+    }
+  },
+  {
+    "canonical_name": "Power",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "more immediately directing to the invisible Power which alone directs"
+      }
+    },
+    "co_occurs_with": {
+      "Can God": 1,
+      "Can God Himself": 1,
+      "Journal": 1,
+      "Scripture": 1,
+      "Very": 1,
+      "Went": 1,
+      "Worked": 1
+    }
+  },
+  {
+    "canonical_name": "Father Abraham",
+    "aliases": [
+      "Abraham"
+    ],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "well might I say, as Father Abraham to Dives, \u201cBetween me and thee is a"
+      }
+    },
+    "co_occurs_with": {
+      "Brazils": 1,
+      "God Himself": 1,
+      "Indians": 1,
+      "Sallee": 1,
+      "Yarmouth Roads": 1
+    }
+  },
+  {
+    "canonical_name": "God Himself",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 1,
+        "snippet": "may say) with even God Himself, by ejaculations, was not better than"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "thus: \u201cHow do I know what God Himself judges in this particular case?"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "even against God Himself, that delivered them, when they came to want"
+      }
+    },
+    "co_occurs_with": {
+      "Spaniards": 2,
+      "Brazils": 1,
+      "Father Abraham": 1,
+      "Indians": 1,
+      "Sallee": 1,
+      "Yarmouth Roads": 1,
+      "All": 1,
+      "Leeward Islands": 1
+    }
+  },
+  {
+    "canonical_name": "Indians",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "fire and infinite labour, made a hollow place in it, as the Indians in"
+      }
+    },
+    "co_occurs_with": {
+      "Brazils": 1,
+      "Father Abraham": 1,
+      "God Himself": 1,
+      "Sallee": 1,
+      "Yarmouth Roads": 1
+    }
+  },
+  {
+    "canonical_name": "Poll",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "consternation; but no sooner were my eyes open, but I saw my Poll"
+      }
+    },
+    "co_occurs_with": {
+      "Poor Robin Crusoe": 1,
+      "Robin Crusoe": 1
+    }
+  },
+  {
+    "canonical_name": "Will Atkins",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "Will Atkins."
+      }
+    },
+    "co_occurs_with": {
+      "For God": 1,
+      "Robinson": 1,
+      "Tom Smith": 1,
+      "Will Fry": 1
+    }
+  },
+  {
+    "canonical_name": "Robinson",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "that Robinson?"
+      }
+    },
+    "co_occurs_with": {
+      "For God": 1,
+      "Tom Smith": 1,
+      "Will Atkins": 1,
+      "Will Fry": 1
+    }
+  },
+  {
+    "canonical_name": "Toulouse",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "were obliged to take a new guide here, and go to Toulouse, where we"
+      }
+    },
+    "co_occurs_with": {
+      "Brazils": 1,
+      "East Indies": 1,
+      "Lisbon": 1,
+      "Spaniards": 1
+    }
+  }
+]

@@ -1,0 +1,5124 @@
+[
+  {
+    "canonical_name": "Marilla",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 524,
+    "per_chapter": {
+      "2": {
+        "mentions": 5,
+        "snippet": "Matthew dreaded all women except Marilla and Mrs."
+      },
+      "3": {
+        "mentions": 26,
+        "snippet": "But there _must_ have been a boy,\u201d insisted Marilla."
+      },
+      "4": {
+        "mentions": 24,
+        "snippet": "Marilla had come in unheard"
+      },
+      "5": {
+        "mentions": 10,
+        "snippet": "\u201cNo, I don\u2019t know as I ever did,\u201d said Marilla mercilessly, \u201cand I"
+      },
+      "7": {
+        "mentions": 12,
+        "snippet": "WHEN Marilla took Anne up to bed that night she said stiffly:"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "Can I call you Aunt Marilla?"
+      },
+      "10": {
+        "mentions": 33,
+        "snippet": "Marilla told"
+      },
+      "11": {
+        "mentions": 15,
+        "snippet": "\u201d said Marilla."
+      },
+      "12": {
+        "mentions": 20,
+        "snippet": "IT was not until the next Friday that Marilla heard the story of the"
+      },
+      "13": {
+        "mentions": 28,
+        "snippet": "IT\u2019S time Anne was in to do her sewing,\u201d said Marilla, glancing at the"
+      },
+      "14": {
+        "mentions": 56,
+        "snippet": "ON the Monday evening before the picnic Marilla came down from her room"
+      },
+      "16": {
+        "mentions": 41,
+        "snippet": "\u201cOh, Marilla,\u201d she exclaimed one Saturday morning, coming dancing in"
+      },
+      "17": {
+        "mentions": 10,
+        "snippet": "\u201cIt is all over,\u201d she informed Marilla."
+      },
+      "20": {
+        "mentions": 30,
+        "snippet": "Marilla?"
+      },
+      "21": {
+        "mentions": 45,
+        "snippet": "\u201cWasn\u2019t it fortunate, Marilla, that"
+      },
+      "22": {
+        "mentions": 17,
+        "snippet": "Marilla, when Anne had just come in from a run to the post office."
+      },
+      "23": {
+        "mentions": 21,
+        "snippet": "\u201cSmall and select,\u201d Anne assured Marilla."
+      },
+      "24": {
+        "mentions": 14,
+        "snippet": "critical Marilla glowing accounts of schoolwork and aims."
+      },
+      "26": {
+        "mentions": 11,
+        "snippet": "I suppose that is why Marilla disapproves of them."
+      },
+      "27": {
+        "mentions": 36,
+        "snippet": "Marilla was not given to subjective analysis"
+      },
+      "28": {
+        "mentions": 7,
+        "snippet": "There they had found nobody either, for Marilla"
+      },
+      "32": {
+        "mentions": 4,
+        "snippet": "as I did four years ago when I asked Marilla if I might stay at Green"
+      },
+      "33": {
+        "mentions": 6,
+        "snippet": "in, Marilla conniving at them resignedly, until it was as sweet and"
+      },
+      "34": {
+        "mentions": 21,
+        "snippet": "ample and pretty, for Matthew saw to that, and Marilla for once made"
+      },
+      "36": {
+        "mentions": 12,
+        "snippet": "\u201cOh, won\u2019t Matthew and Marilla be pleased!"
+      },
+      "37": {
+        "mentions": 17,
+        "snippet": "It was Marilla who spoke, alarm in every jerky word."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 20,
+      "Mrs. Lynde": 16,
+      "Anne Shirley": 15,
+      "Barry": 14,
+      "Diana": 11,
+      "Allan": 11,
+      "Mrs. Allan": 11,
+      "Matthew": 10
+    }
+  },
+  {
+    "canonical_name": "Anne",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 339,
+    "per_chapter": {
+      "4": {
+        "mentions": 20,
+        "snippet": "IT was broad daylight when Anne awoke and sat up in bed, staring"
+      },
+      "5": {
+        "mentions": 13,
+        "snippet": "DO you know,\u201d said Anne confidentially, \u201cI\u2019ve made up my mind to enjoy"
+      },
+      "7": {
+        "mentions": 20,
+        "snippet": "WHEN Marilla took Anne up to bed that night she said stiffly:"
+      },
+      "8": {
+        "mentions": 33,
+        "snippet": "FOR reasons best known to herself, Marilla did not tell Anne that"
+      },
+      "9": {
+        "mentions": 30,
+        "snippet": "Anne had made good use of every waking moment of that fortnight."
+      },
+      "10": {
+        "mentions": 43,
+        "snippet": "Anne proved still refractory the next morning an explanation had to be"
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "\u201cI\u2019ll settle Miss Anne when she comes home,\u201d said Marilla grimly, as"
+      },
+      "29": {
+        "mentions": 32,
+        "snippet": "The cows swung placidly down the lane, and Anne followed them dreamily,"
+      },
+      "31": {
+        "mentions": 23,
+        "snippet": "Marilla offered no objections to Anne\u2019s gypsyings."
+      },
+      "32": {
+        "mentions": 33,
+        "snippet": "Anne and Diana walked home that"
+      },
+      "34": {
+        "mentions": 36,
+        "snippet": "THE next three weeks were busy ones at Green Gables, for Anne was"
+      },
+      "36": {
+        "mentions": 28,
+        "snippet": "posted on the bulletin board at Queen\u2019s, Anne and Jane walked down the"
+      },
+      "37": {
+        "mentions": 27,
+        "snippet": "Anne came through"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 11,
+      "Marilla": 10,
+      "Mrs. Lynde": 8,
+      "Matthew": 7,
+      "Allan": 7,
+      "Mrs. Allan": 7,
+      "Rachel": 5,
+      "Diana": 5
+    }
+  },
+  {
+    "canonical_name": "Mrs. Lynde",
+    "aliases": [
+      "Lynde"
+    ],
+    "first_chapter": 9,
+    "total_mentions": 262,
+    "per_chapter": {
+      "9": {
+        "mentions": 16,
+        "snippet": "ANNE had been a fortnight at Green Gables before Mrs."
+      },
+      "10": {
+        "mentions": 34,
+        "snippet": "willing to apologize to Mrs."
+      },
+      "11": {
+        "mentions": 12,
+        "snippet": "\u201cYou\u2019ll have to go down and call for Mrs."
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "She came home from Mrs."
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "Mrs."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "She could not even go to Mrs."
+      },
+      "15": {
+        "mentions": 6,
+        "snippet": "Marilla found Mrs."
+      },
+      "16": {
+        "mentions": 14,
+        "snippet": "Mrs."
+      },
+      "18": {
+        "mentions": 8,
+        "snippet": "I wonder how Marilla and Mrs."
+      },
+      "19": {
+        "mentions": 16,
+        "snippet": "she went down to Mrs."
+      },
+      "21": {
+        "mentions": 30,
+        "snippet": "Mrs."
+      },
+      "22": {
+        "mentions": 8,
+        "snippet": "Mrs."
+      },
+      "23": {
+        "mentions": 4,
+        "snippet": "Mrs."
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "\u201cMrs."
+      },
+      "25": {
+        "mentions": 16,
+        "snippet": "Remained only Mrs."
+      },
+      "26": {
+        "mentions": 10,
+        "snippet": "Mrs."
+      },
+      "27": {
+        "mentions": 2,
+        "snippet": "Mrs."
+      },
+      "28": {
+        "mentions": 6,
+        "snippet": "Mrs."
+      },
+      "29": {
+        "mentions": 10,
+        "snippet": "Matthew going to Mrs."
+      },
+      "30": {
+        "mentions": 16,
+        "snippet": "Mrs."
+      },
+      "31": {
+        "mentions": 10,
+        "snippet": "Mrs."
+      },
+      "32": {
+        "mentions": 8,
+        "snippet": "As Mrs."
+      },
+      "36": {
+        "mentions": 2,
+        "snippet": "win the Avery scholarship--well, well, Mrs."
+      },
+      "37": {
+        "mentions": 8,
+        "snippet": "Mrs."
+      },
+      "38": {
+        "mentions": 16,
+        "snippet": "Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 21,
+      "Anne Shirley": 17,
+      "Marilla": 16,
+      "Barry": 15,
+      "Allan": 14,
+      "Matthew": 13,
+      "Diana": 13,
+      "Mrs. Allan": 13
+    }
+  },
+  {
+    "canonical_name": "Diana",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 253,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Her name is Diana."
+      },
+      "13": {
+        "mentions": 12,
+        "snippet": "\u201cShe stayed playing with Diana more than half an"
+      },
+      "15": {
+        "mentions": 43,
+        "snippet": "and hot,\u201d said Diana practically, peeping into her dinner basket and"
+      },
+      "18": {
+        "mentions": 19,
+        "snippet": "and the next moment the kitchen door was flung open and in rushed Diana"
+      },
+      "19": {
+        "mentions": 50,
+        "snippet": "MARILLA, can I go over to see Diana just for a minute?"
+      },
+      "20": {
+        "mentions": 8,
+        "snippet": "\u201cDiana says perhaps they have something better,"
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "be back again at the little brown desk beside Diana, with Ruby Gillis"
+      },
+      "26": {
+        "mentions": 18,
+        "snippet": "At first, as she told Diana, she did not really"
+      },
+      "27": {
+        "mentions": 4,
+        "snippet": "\u201cShe\u2019s gadding off somewhere with Diana, writing"
+      },
+      "28": {
+        "mentions": 16,
+        "snippet": "OF course you must be Elaine, Anne,\u201d said Diana."
+      },
+      "29": {
+        "mentions": 23,
+        "snippet": "behold Diana coming through the gate that led into the Barry field and"
+      },
+      "30": {
+        "mentions": 17,
+        "snippet": "you were out with Diana."
+      },
+      "33": {
+        "mentions": 15,
+        "snippet": "PUT on your white organdy, by all means, Anne,\u201d advised Diana"
+      },
+      "34": {
+        "mentions": 4,
+        "snippet": "in one fine September morning, after a tearful parting with Diana and an"
+      },
+      "36": {
+        "mentions": 7,
+        "snippet": "Diana was at Green Gables to meet her."
+      },
+      "37": {
+        "mentions": 8,
+        "snippet": "Diana, going to"
+      },
+      "38": {
+        "mentions": 3,
+        "snippet": "gone over to Orchard Slope with Diana and came back to find Marilla in"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 15,
+      "Barry": 14,
+      "Mrs. Lynde": 13,
+      "Anne Shirley": 12,
+      "Marilla": 11,
+      "Allan": 10,
+      "Mrs. Allan": 10,
+      "Matthew": 9
+    }
+  },
+  {
+    "canonical_name": "Miss Stacy",
+    "aliases": [
+      "Stacy"
+    ],
+    "first_chapter": 23,
+    "total_mentions": 162,
+    "per_chapter": {
+      "23": {
+        "mentions": 6,
+        "snippet": "Friday afternoons they don\u2019t have recitations Miss Stacy takes them"
+      },
+      "24": {
+        "mentions": 17,
+        "snippet": "Miss Stacy"
+      },
+      "26": {
+        "mentions": 10,
+        "snippet": "in Miss Stacy\u2019s little kingdom went on with regularity and smoothness."
+      },
+      "27": {
+        "mentions": 3,
+        "snippet": "Allan and Miss Stacy, and grow up to be a"
+      },
+      "29": {
+        "mentions": 3,
+        "snippet": "of their English course the preceding winter and which Miss Stacy had"
+      },
+      "30": {
+        "mentions": 64,
+        "snippet": "\u201cAnne,\u201d said Marilla abruptly, \u201cMiss Stacy was here this afternoon when"
+      },
+      "31": {
+        "mentions": 24,
+        "snippet": "Allan or Miss Stacy I want it more than ever and I want to do just what"
+      },
+      "32": {
+        "mentions": 28,
+        "snippet": "WITH the end of June came the close of the term and the close of Miss"
+      },
+      "33": {
+        "mentions": 2,
+        "snippet": "Miss Stacy\u2019s photograph occupied"
+      },
+      "34": {
+        "mentions": 2,
+        "snippet": "intended taking up the Second Year work being advised to do so by Miss"
+      },
+      "35": {
+        "mentions": 3,
+        "snippet": "So it may be fairly stated that Miss Stacy\u2019s old"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 9,
+      "Mrs. Allan": 9,
+      "Josie Pye": 8,
+      "Matthew": 8,
+      "Mrs. Lynde": 8,
+      "Ruby Gillis": 8,
+      "Anne Shirley": 7,
+      "Diana": 7
+    }
+  },
+  {
+    "canonical_name": "Matthew",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 145,
+    "per_chapter": {
+      "4": {
+        "mentions": 12,
+        "snippet": "Matthew also held his tongue,--but this"
+      },
+      "6": {
+        "mentions": 14,
+        "snippet": "\u201cbut I promised Matthew I\u2019d be home early."
+      },
+      "9": {
+        "mentions": 5,
+        "snippet": "see Matthew and Marilla\u2019s orphan, concerning whom all sorts of stories"
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "the woodpile talking to Matthew, nineteen to the dozen, when she knows"
+      },
+      "16": {
+        "mentions": 8,
+        "snippet": "You\u2019ll have to get Matthew and Jerry their"
+      },
+      "18": {
+        "mentions": 30,
+        "snippet": "took it, leaving Anne and Matthew to keep house until her return the"
+      },
+      "19": {
+        "mentions": 12,
+        "snippet": "upstairs, Matthew, who had been apparently sound asleep on the lounge"
+      },
+      "21": {
+        "mentions": 6,
+        "snippet": "discussed the same in full with Matthew, Marilla always declining from"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "Anne went to bed that night speechless with misery because Matthew had"
+      },
+      "24": {
+        "mentions": 4,
+        "snippet": "wholesome influence and carried home to the admiring Matthew and the"
+      },
+      "27": {
+        "mentions": 4,
+        "snippet": "prepare the meal herself against Matthew\u2019s return from plowing."
+      },
+      "29": {
+        "mentions": 6,
+        "snippet": "Matthew going to Mrs."
+      },
+      "30": {
+        "mentions": 7,
+        "snippet": "Matthew and me if we would like to have you join it."
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "you and Matthew and Mrs."
+      },
+      "32": {
+        "mentions": 9,
+        "snippet": "to \u201cpass high\u201d for the sake of Matthew and Marilla--especially Matthew."
+      },
+      "33": {
+        "mentions": 9,
+        "snippet": "Matthew was in"
+      },
+      "34": {
+        "mentions": 9,
+        "snippet": "ample and pretty, for Matthew saw to that, and Marilla for once made"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 15,
+      "Mrs. Lynde": 13,
+      "Marilla": 10,
+      "Anne Shirley": 10,
+      "Diana": 9,
+      "Allan": 9,
+      "Mrs. Allan": 9,
+      "Barry": 8
+    }
+  },
+  {
+    "canonical_name": "Barry",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 99,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "Barry lives up there in that house."
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "Barry is a"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "Barry, and if you like you can come with me and get"
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "Barry\u2019s."
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "Barry\u2019s back field and past Willowmere."
+      },
+      "16": {
+        "mentions": 17,
+        "snippet": "Barry picking apples that morning in excellent health and"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "Barry may feel remorse for what she has done and will let Diana"
+      },
+      "18": {
+        "mentions": 9,
+        "snippet": "Barry had engaged to stay with the children"
+      },
+      "19": {
+        "mentions": 19,
+        "snippet": "Barry\u2019s letting Diana go."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "Barry if she\u2019ll lend me Diana\u2019s apron pattern."
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "Barry had _her_ table decorated,\u201d said Anne, who was not entirely"
+      },
+      "23": {
+        "mentions": 7,
+        "snippet": "Barry\u2019s kitchen roof."
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "But I\u2019m glad Miss Barry liked them."
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "Barry kept for duck shooting."
+      },
+      "29": {
+        "mentions": 21,
+        "snippet": "Barry should take the girls in on the following Tuesday."
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "Barry says that some evening he\u2019ll take Diana and me over to"
+      },
+      "34": {
+        "mentions": 2,
+        "snippet": "Academy that it was out of the question; so Miss Barry hunted up a"
+      },
+      "35": {
+        "mentions": 1,
+        "snippet": "Sunday dinners there and went to church with Miss Barry."
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "Miss Barry, who was sitting behind them, leaned forward and poked"
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "Barry over."
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "Barry"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 18,
+      "Mrs. Lynde": 15,
+      "Diana": 14,
+      "Marilla": 14,
+      "Anne Shirley": 14,
+      "Mrs. Barry": 11,
+      "Gilbert Blythe": 11,
+      "Ruby Gillis": 10
+    }
+  },
+  {
+    "canonical_name": "Mr. Phillips",
+    "aliases": [
+      "Phillips"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 90,
+    "per_chapter": {
+      "15": {
+        "mentions": 44,
+        "snippet": "Mr."
+      },
+      "16": {
+        "mentions": 6,
+        "snippet": "\u201csassed\u201d Mr."
+      },
+      "17": {
+        "mentions": 12,
+        "snippet": "Mr."
+      },
+      "18": {
+        "mentions": 8,
+        "snippet": "Mr."
+      },
+      "19": {
+        "mentions": 4,
+        "snippet": "with a stricter teacher than Mr."
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "21": {
+        "mentions": 12,
+        "snippet": "\u201cI never thought you were so fond of Mr."
+      },
+      "32": {
+        "mentions": 2,
+        "snippet": "have been quite as touching as Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 7,
+      "Green Gables": 7,
+      "Anne Shirley": 6,
+      "Mrs. Barry": 6,
+      "Mrs. Lynde": 6,
+      "Matthew": 5,
+      "Ruby Gillis": 5,
+      "Gilbert Blythe": 5
+    }
+  },
+  {
+    "canonical_name": "Green Gables",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 80,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "the big red brook field away over by Green Gables."
+      },
+      "2": {
+        "mentions": 6,
+        "snippet": "Matthew Cuthbert of Green Gables?"
+      },
+      "4": {
+        "mentions": 4,
+        "snippet": "This was Green Gables and they didn\u2019t want her because she"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "stay at Green Gables?"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "Please let me stay at Green Gables; and please let"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "she was to stay at Green Gables until the next afternoon."
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "ANNE had been a fortnight at Green Gables before Mrs."
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "let me stay at Green Gables although I\u2019m not a boy."
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "she had an awful temper; Jerry Buote, the hired boy at Green Gables,"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "live at Green Gables."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "I\u2019d rather be Anne of Green Gables sewing patchwork than Anne of any"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "Birds sang around Green Gables; the Madonna lilies"
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "Lover\u2019s Lane opened out below the orchard at Green Gables and stretched"
+      },
+      "16": {
+        "mentions": 4,
+        "snippet": "OCTOBER was a beautiful month at Green Gables, when the birches in the"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "anything to do with the fortunes of little Anne Shirley at Green Gables."
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "\u201cI\u2019m Anne of Green Gables,\u201d said the small visitor tremulously, clasping"
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "SPRING had come once more to Green Gables--the beautiful capricious,"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "Monday and Tuesday great preparations went on at Green Gables."
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "\u2018Miss Anne Shirley, Green Gables."
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "come to Green Gables."
+      },
+      "27": {
+        "mentions": 2,
+        "snippet": "Her eyes dwelt affectionately on Green Gables, peering through its"
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "brook to Green Gables."
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "Green Gables winked her a friendly welcome back, and through the open"
+      },
+      "30": {
+        "mentions": 4,
+        "snippet": "Green Gables, and the only light in the kitchen came from the dancing"
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "Diana was over at Green Gables when she"
+      },
+      "33": {
+        "mentions": 3,
+        "snippet": "Green Gables."
+      },
+      "34": {
+        "mentions": 3,
+        "snippet": "THE next three weeks were busy ones at Green Gables, for Anne was"
+      },
+      "35": {
+        "mentions": 1,
+        "snippet": "all purple down in the hollow below Green Gables and that little ferns"
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "Diana was at Green Gables to meet her."
+      },
+      "37": {
+        "mentions": 4,
+        "snippet": "neighbors thronged Green Gables and came and went on errands of kindness"
+      },
+      "38": {
+        "mentions": 5,
+        "snippet": "\u201cHe heard that I was going to sell Green Gables and he wants to buy it."
+      }
+    },
+    "co_occurs_with": {
+      "Mrs. Lynde": 21,
+      "Marilla": 20,
+      "Barry": 18,
+      "Anne Shirley": 18,
+      "Matthew": 15,
+      "Diana": 15,
+      "Allan": 13,
+      "Gilbert Blythe": 13
+    }
+  },
+  {
+    "canonical_name": "Allan",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 74,
+    "per_chapter": {
+      "21": {
+        "mentions": 23,
+        "snippet": "Allan."
+      },
+      "22": {
+        "mentions": 10,
+        "snippet": "Allan left the letter for me at the post"
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "Allan as a little girl."
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "Allan is going to"
+      },
+      "26": {
+        "mentions": 9,
+        "snippet": "Allan says we should never make uncharitable"
+      },
+      "27": {
+        "mentions": 4,
+        "snippet": "Allan"
+      },
+      "28": {
+        "mentions": 3,
+        "snippet": "Allan the next day, \u201cand it"
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "Allan wants us to decorate it,\u201d cried Anne."
+      },
+      "30": {
+        "mentions": 4,
+        "snippet": "Allan thinks it is a"
+      },
+      "31": {
+        "mentions": 5,
+        "snippet": "Allan said last Sunday."
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "Allan at the manse, knelt sweetly by her open"
+      },
+      "33": {
+        "mentions": 2,
+        "snippet": "Allan."
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "Allan to help me"
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "Allan;"
+      },
+      "37": {
+        "mentions": 4,
+        "snippet": "Allan"
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "Allan did"
+      }
+    },
+    "co_occurs_with": {
+      "Mrs. Allan": 15,
+      "Mrs. Lynde": 14,
+      "Green Gables": 13,
+      "Marilla": 11,
+      "Anne Shirley": 10,
+      "Diana": 10,
+      "Barry": 10,
+      "Gilbert Blythe": 10
+    }
+  },
+  {
+    "canonical_name": "Rachel",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 64,
+    "per_chapter": {
+      "1": {
+        "mentions": 25,
+        "snippet": "Rachel was sitting at her window,"
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "Rachel; he had an"
+      },
+      "9": {
+        "mentions": 17,
+        "snippet": "Rachel, to do her justice, was not to blame for this."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Rachel and held out her hands beseechingly."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "Rachel says you went to church last Sunday with your hat"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "Rachel nodded."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Rachel were enjoying themselves hugely"
+      },
+      "30": {
+        "mentions": 5,
+        "snippet": "Rachel, who had not the slightest intention of doing anything else."
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "in Avonlea with Rachel to oversee them."
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "Rachel\u2019s critical eye."
+      },
+      "36": {
+        "mentions": 3,
+        "snippet": "Speaking of Rachel reminds me--did you hear anything about the"
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "Rachel deposited her substantial person upon the stone bench by the"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 11,
+      "Mrs. Rachel": 10,
+      "Mrs. Lynde": 10,
+      "Barry": 7,
+      "Marilla Cuthbert": 6,
+      "Anne Shirley": 6,
+      "Diana": 6,
+      "Gilbert Blythe": 6
+    }
+  },
+  {
+    "canonical_name": "Mrs. Allan",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 62,
+    "per_chapter": {
+      "21": {
+        "mentions": 20,
+        "snippet": "\u201cMrs."
+      },
+      "22": {
+        "mentions": 10,
+        "snippet": "Mrs."
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "Mrs."
+      },
+      "26": {
+        "mentions": 7,
+        "snippet": "Mrs."
+      },
+      "27": {
+        "mentions": 4,
+        "snippet": "I don\u2019t care if Mrs."
+      },
+      "28": {
+        "mentions": 3,
+        "snippet": "\u201cI was horribly frightened,\u201d she told Mrs."
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "Mrs."
+      },
+      "30": {
+        "mentions": 2,
+        "snippet": "read _any_ book now unless either Miss Stacy or Mrs."
+      },
+      "31": {
+        "mentions": 2,
+        "snippet": "I do really want to be good; and when I\u2019m with you or Mrs."
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "little talk with Mrs."
+      },
+      "33": {
+        "mentions": 2,
+        "snippet": "good pictures given Anne by Mrs."
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "I got Mrs."
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "Vale; she called at the manse and had a satisfying talk with Mrs."
+      },
+      "37": {
+        "mentions": 4,
+        "snippet": "these things now that he has gone,\u201d she said wistfully to Mrs."
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 15,
+      "Mrs. Lynde": 13,
+      "Green Gables": 12,
+      "Marilla": 11,
+      "Anne Shirley": 10,
+      "Diana": 10,
+      "Barry": 10,
+      "Matthew": 9
+    }
+  },
+  {
+    "canonical_name": "Mrs. Rachel",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 58,
+    "per_chapter": {
+      "1": {
+        "mentions": 25,
+        "snippet": "probably was conscious that Mrs."
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "Matthew dreaded all women except Marilla and Mrs."
+      },
+      "9": {
+        "mentions": 17,
+        "snippet": "Mrs."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "astonished Mrs."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "\u201cAnne, Mrs."
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "Mrs."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Hence, while Marilla and Mrs."
+      },
+      "30": {
+        "mentions": 5,
+        "snippet": "Mrs."
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "hide her extreme pride in Anne from Mrs."
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 10,
+      "Rachel": 10,
+      "Mrs. Lynde": 8,
+      "Barry": 6,
+      "Marilla Cuthbert": 5,
+      "Anne Shirley": 5,
+      "Diana": 5,
+      "Avonlea": 4
+    }
+  },
+  {
+    "canonical_name": "Miss Barry",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 57,
+    "per_chapter": {
+      "19": {
+        "mentions": 25,
+        "snippet": "\u201cSo you and Diana nearly frightened poor old Miss Barry to death last"
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "But I\u2019m glad Miss Barry liked them."
+      },
+      "29": {
+        "mentions": 23,
+        "snippet": "Miss Barry met them at the door"
+      },
+      "34": {
+        "mentions": 4,
+        "snippet": "Academy that it was out of the question; so Miss Barry hunted up a"
+      },
+      "35": {
+        "mentions": 2,
+        "snippet": "Sunday dinners there and went to church with Miss Barry."
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "Miss Barry, who was sitting behind them, leaned forward and poked"
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 6,
+      "Diana": 5,
+      "Green Gables": 5,
+      "Allan": 4,
+      "Anne Shirley": 4,
+      "Gilbert Blythe": 4,
+      "Josie Pye": 4,
+      "Moody Spurgeon": 4
+    }
+  },
+  {
+    "canonical_name": "Avonlea",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 55,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "Rachel Lynde lived just where the Avonlea main road dipped down"
+      },
+      "15": {
+        "mentions": 8,
+        "snippet": "The little girls of Avonlea school always pooled their lunches, and"
+      },
+      "21": {
+        "mentions": 7,
+        "snippet": "of the Avonlea people."
+      },
+      "23": {
+        "mentions": 4,
+        "snippet": "Daring was the fashionable amusement among the Avonlea small fry just"
+      },
+      "25": {
+        "mentions": 4,
+        "snippet": "Lynde; for of no other woman in Avonlea would Matthew"
+      },
+      "31": {
+        "mentions": 4,
+        "snippet": "in Avonlea with Rachel to oversee them."
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "Stacy\u2019s rule in Avonlea school."
+      },
+      "33": {
+        "mentions": 3,
+        "snippet": "and Laura Spencer of Spencervale and Anne Shirley of Avonlea were to"
+      },
+      "34": {
+        "mentions": 6,
+        "snippet": "you didn\u2019t belong in Avonlea at all--and I just got lonesome thinking it"
+      },
+      "38": {
+        "mentions": 6,
+        "snippet": "convenient as if I had the Avonlea school."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 8,
+      "Allan": 8,
+      "Gilbert Blythe": 7,
+      "Mrs. Lynde": 7,
+      "Mrs. Allan": 7,
+      "Ruby Gillis": 6,
+      "Rachel": 5,
+      "Anne Shirley": 5
+    }
+  },
+  {
+    "canonical_name": "Mrs. Barry",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 47,
+    "per_chapter": {
+      "8": {
+        "mentions": 2,
+        "snippet": "Mrs."
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "pattern from Mrs."
+      },
+      "16": {
+        "mentions": 17,
+        "snippet": "seen Mrs."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "Mrs."
+      },
+      "18": {
+        "mentions": 9,
+        "snippet": "from the creek, whom Mrs."
+      },
+      "19": {
+        "mentions": 5,
+        "snippet": "I\u2019m surprised at Mrs."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "ask Mrs."
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "\u201cMrs."
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "answer Mrs."
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "and Mrs."
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "and Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 11,
+      "Green Gables": 9,
+      "Marilla": 9,
+      "Anne Shirley": 8,
+      "Mrs. Lynde": 8,
+      "Mr. Phillips": 6,
+      "Orchard Slope": 6,
+      "Diana": 5
+    }
+  },
+  {
+    "canonical_name": "Gilbert Blythe",
+    "aliases": [
+      "Blythe"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 43,
+    "per_chapter": {
+      "15": {
+        "mentions": 14,
+        "snippet": "\u201cI guess Gilbert Blythe will be in school today,\u201d said Diana."
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "she\u2019s come to school again; and Gilbert Blythe--"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "and soul, determined not to be outdone in any class by Gilbert Blythe."
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "Gilbert Blythe spelled her down in class and left her clear out"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "\u201cGilbert Blythe was just"
+      },
+      "28": {
+        "mentions": 3,
+        "snippet": "arms and wrists another moment, Gilbert Blythe came rowing under the"
+      },
+      "30": {
+        "mentions": 3,
+        "snippet": "would Anne have had Gilbert Blythe or Josie Pye see those tears."
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "at pass lists of the Entrance exams, where Gilbert Blythe\u2019s name was"
+      },
+      "32": {
+        "mentions": 2,
+        "snippet": "Diana knew it would be useless to ask how Gilbert Blythe had fared, so"
+      },
+      "33": {
+        "mentions": 2,
+        "snippet": "audience, she saw Gilbert Blythe away at the back of the room, bending"
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "Stacy; Gilbert Blythe elected to do the same."
+      },
+      "35": {
+        "mentions": 3,
+        "snippet": "Andrews that she didn\u2019t understand half the things Gilbert Blythe said;"
+      },
+      "36": {
+        "mentions": 2,
+        "snippet": "found the hall full of boys who were carrying Gilbert Blythe around on"
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "\u201cGilbert Blythe is going to teach too, isn\u2019t he?"
+      },
+      "38": {
+        "mentions": 4,
+        "snippet": "Gilbert Blythe."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 13,
+      "Barry": 11,
+      "Mrs. Lynde": 11,
+      "Allan": 10,
+      "Anne Shirley": 9,
+      "Diana": 9,
+      "Mrs. Allan": 9,
+      "Josie Pye": 8
+    }
+  },
+  {
+    "canonical_name": "Miss Cuthbert",
+    "aliases": [
+      "Cuthbert"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 42,
+    "per_chapter": {
+      "2": {
+        "mentions": 5,
+        "snippet": "Cuthbert!"
+      },
+      "6": {
+        "mentions": 20,
+        "snippet": "\u201cShe certainly did, Miss Cuthbert,\u201d corroborated Flora Jane earnestly."
+      },
+      "8": {
+        "mentions": 12,
+        "snippet": "\u201cOh, please, Miss Cuthbert, won\u2019t you tell me if you are going to send"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Cuthbert is hauling potatoes"
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "Miss Cuthbert tells me you have a little plot all your own."
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "Cuthbert?"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 6,
+      "Barry": 4,
+      "Marilla": 4,
+      "Mr. Cuthbert": 3,
+      "Anne Shirley": 3,
+      "Matthew": 3,
+      "Mrs. Lynde": 3,
+      "Mrs. Barry": 3
+    }
+  },
+  {
+    "canonical_name": "Anne Shirley",
+    "aliases": [
+      "Shirley"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 39,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "\u201cAnne Shirley,\u201d reluctantly faltered forth the owner of that name, \u201cbut,"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "\u201cAnne Shirley,\u201d faltered the shrinking child, not daring to make any"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "\u201cAnne Shirley!"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "\u201cYes, this is Anne Shirley,\u201d said Marilla."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "You\u2019ll go to no picnic today, Anne Shirley."
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "\u201cAnne Shirley, don\u2019t let me hear you talking about your teacher in that"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "\u201cAnne Shirley, when I ask you a question I want to be answered."
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "anything to do with the fortunes of little Anne Shirley at Green Gables."
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "\u201cI\u2019m no telltale, Anne Shirley, and anyhow I was just as much to blame"
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "\u201cWhat has got into your head now, Anne Shirley?"
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "\u201cAnne Shirley!"
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "\u2018Miss Anne Shirley, Green Gables."
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "Anne Shirley dared her to walk along the top of the board fence which"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "excited as Anne Shirley, who threw herself into the undertaking heart"
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "because Moody Spurgeon had said that Anne Shirley put on airs about"
+      },
+      "27": {
+        "mentions": 3,
+        "snippet": "\u201cAnne Shirley, whatever is the matter with you?"
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "\u201cAnne Shirley!"
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "had evinced no recognition whatever of the existence of Anne Shirley."
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "and Laura Spencer of Spencervale and Anne Shirley of Avonlea were to"
+      },
+      "35": {
+        "mentions": 3,
+        "snippet": "he talked just like Anne Shirley did when she had a thoughtful fit on"
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "\u201cThree cheers for Miss Shirley, winner of the Avery!"
+      },
+      "38": {
+        "mentions": 2,
+        "snippet": "When it became noised abroad in Avonlea that Anne Shirley had given up"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 18,
+      "Mrs. Lynde": 17,
+      "Marilla": 15,
+      "Barry": 14,
+      "Diana": 12,
+      "Jane Andrews": 10,
+      "Matthew": 10,
+      "Ruby Gillis": 10
+    }
+  },
+  {
+    "canonical_name": "Ruby Gillis",
+    "aliases": [
+      "Gillis",
+      "Ruby"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 39,
+    "per_chapter": {
+      "15": {
+        "mentions": 2,
+        "snippet": "Ruby Gillis says she doesn\u2019t believe it had anything to do with the"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "her--Diana\u2019s--blood run cold; Ruby Gillis had charmed all her warts"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "is a Grit too because Prissy Andrews\u2019s father is one, and Ruby Gillis"
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "Ruby Gillis started it."
+      },
+      "23": {
+        "mentions": 4,
+        "snippet": "First of all Carrie Sloane dared Ruby Gillis to climb to a certain point"
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "be back again at the little brown desk beside Diana, with Ruby Gillis"
+      },
+      "26": {
+        "mentions": 6,
+        "snippet": "\u201cRuby Gillis says she means to have a beau as soon as she\u2019s fifteen,\u201d"
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "\u201cNor I,\u201d said Ruby Gillis, with a shiver."
+      },
+      "30": {
+        "mentions": 4,
+        "snippet": "I asked Ruby Gillis why Myrtle was blighted, and Ruby"
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "Gillis measured me at Ruby\u2019s party."
+      },
+      "32": {
+        "mentions": 6,
+        "snippet": "nor Ruby probably."
+      },
+      "34": {
+        "mentions": 6,
+        "snippet": "Jane and Ruby and Josie have got \u2018evening dresses,\u2019 as they call them,"
+      },
+      "35": {
+        "mentions": 2,
+        "snippet": "Gilbert Blythe nearly always walked with Ruby Gillis and carried her"
+      }
+    },
+    "co_occurs_with": {
+      "Mrs. Lynde": 11,
+      "Anne Shirley": 10,
+      "Barry": 10,
+      "Green Gables": 9,
+      "Jane Andrews": 8,
+      "Matthew": 8,
+      "Gilbert Blythe": 8,
+      "Josie Pye": 8
+    }
+  },
+  {
+    "canonical_name": "Spencer",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 35,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Spencer has visited her and knows all about it."
+      },
+      "2": {
+        "mentions": 11,
+        "snippet": "Spencer came off the train"
+      },
+      "3": {
+        "mentions": 5,
+        "snippet": "Spencer to bring a boy."
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "Spencer."
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "Spencer came."
+      },
+      "6": {
+        "mentions": 10,
+        "snippet": "Spencer lived in a big"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Spencer would go too."
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "Spencer made--if it _was_ luck."
+      }
+    },
+    "co_occurs_with": {
+      "Mrs. Spencer": 7,
+      "Green Gables": 6,
+      "Marilla": 5,
+      "Nova Scotia": 4,
+      "White Sands": 4,
+      "Matthew": 4,
+      "Shining Waters": 4,
+      "Marilla Cuthbert": 3
+    }
+  },
+  {
+    "canonical_name": "Mrs. Spencer",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 34,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Her cousin lives there and Mrs."
+      },
+      "2": {
+        "mentions": 11,
+        "snippet": "\u201cMrs."
+      },
+      "3": {
+        "mentions": 5,
+        "snippet": "word to Mrs."
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "and see Mrs."
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "to take me and I was there four months until Mrs."
+      },
+      "6": {
+        "mentions": 10,
+        "snippet": "Mrs."
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "than what Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Spencer": 7,
+      "Green Gables": 5,
+      "Marilla": 5,
+      "Nova Scotia": 4,
+      "White Sands": 4,
+      "Shining Waters": 4,
+      "Matthew Cuthbert": 3,
+      "Anne": 3
+    }
+  },
+  {
+    "canonical_name": "Aunt Josephine",
+    "aliases": [
+      "Josephine"
+    ],
+    "first_chapter": 19,
+    "total_mentions": 32,
+    "per_chapter": {
+      "19": {
+        "mentions": 14,
+        "snippet": "\u201cIt was Aunt Josephine,\u201d said Diana, gasping with laughter."
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "Aunt Josephine sent us out a big box with ever so many things in"
+      },
+      "26": {
+        "mentions": 5,
+        "snippet": "Diana wrote her Aunt Josephine about our club and her Aunt"
+      },
+      "29": {
+        "mentions": 8,
+        "snippet": "Mother had a letter from Aunt Josephine today, and Aunt Josephine"
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "It was so kind of your Aunt Josephine to"
+      }
+    },
+    "co_occurs_with": {
+      "Mrs. Lynde": 5,
+      "Allan": 4,
+      "Green Gables": 4,
+      "Charlie Sloane": 3,
+      "Gilbert Blythe": 3,
+      "Josie Pye": 3,
+      "Matthew": 3,
+      "Miss Stacy": 3
+    }
+  },
+  {
+    "canonical_name": "Jane",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 29,
+    "per_chapter": {
+      "29": {
+        "mentions": 4,
+        "snippet": "\u201cJane\u2019s mother is going to let her have a birthday party?"
+      },
+      "32": {
+        "mentions": 8,
+        "snippet": "Miss Stacy won\u2019t be there, nor you nor Jane"
+      },
+      "34": {
+        "mentions": 6,
+        "snippet": "Jane and Ruby and Josie have got \u2018evening dresses,\u2019 as they call them,"
+      },
+      "36": {
+        "mentions": 11,
+        "snippet": "posted on the bulletin board at Queen\u2019s, Anne and Jane walked down the"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 4,
+      "Anne": 4,
+      "Green Gables": 4,
+      "Moody Spurgeon": 4,
+      "Mrs. Allan": 4,
+      "Gilbert Blythe": 3,
+      "Josie Pye": 3,
+      "Marilla": 3
+    }
+  },
+  {
+    "canonical_name": "Josie Pye",
+    "aliases": [
+      "Josie"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 27,
+    "per_chapter": {
+      "15": {
+        "mentions": 2,
+        "snippet": "\u2019 Josie Pye was head and, mind you, she peeped"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "Never mind Josie Pye."
+      },
+      "24": {
+        "mentions": 4,
+        "snippet": "Josie Pye is sulky because she didn\u2019t get the part she wanted in"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "the shape of Josie Pye, dared not deny."
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "not \u201cspeak\u201d for three months, because Josie Pye had told Bessie Wright"
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "Marilla, I _cannot_ face Josie Pye."
+      },
+      "30": {
+        "mentions": 4,
+        "snippet": "especially when I heard Josie Pye giggling."
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "And then my number is thirteen and Josie Pye says it\u2019s so"
+      },
+      "34": {
+        "mentions": 2,
+        "snippet": "The flood of tears would have come, no doubt, had not Josie Pye appeared"
+      },
+      "35": {
+        "mentions": 1,
+        "snippet": "\u201c_I_ don\u2019t care,\u201d said Josie Pye."
+      },
+      "36": {
+        "mentions": 2,
+        "snippet": "\u201cJosie Pye told me you did."
+      },
+      "37": {
+        "mentions": 2,
+        "snippet": "almost decided to give up trying to like Josie Pye."
+      }
+    },
+    "co_occurs_with": {
+      "Mrs. Lynde": 10,
+      "Allan": 9,
+      "Green Gables": 9,
+      "Anne Shirley": 8,
+      "Diana": 8,
+      "Marilla": 8,
+      "Miss Stacy": 8,
+      "Mrs. Allan": 8
+    }
+  },
+  {
+    "canonical_name": "Mr. Bell",
+    "aliases": [
+      "Bell"
+    ],
+    "first_chapter": 11,
+    "total_mentions": 24,
+    "per_chapter": {
+      "11": {
+        "mentions": 10,
+        "snippet": "a quarterly from Mr."
+      },
+      "15": {
+        "mentions": 6,
+        "snippet": "straight through Mr."
+      },
+      "21": {
+        "mentions": 4,
+        "snippet": "\u201cIt\u2019s very naughty of you to speak so about Mr."
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "Idlewild was a thing of the past, Mr."
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "and Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 5,
+      "Mrs. Lynde": 5,
+      "Anne Shirley": 4,
+      "Barry": 4,
+      "Diana": 3,
+      "Mr. Barry": 3,
+      "Ruby Gillis": 3,
+      "Marilla": 3
+    }
+  },
+  {
+    "canonical_name": "Thomas",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 22,
+    "per_chapter": {
+      "5": {
+        "mentions": 12,
+        "snippet": "Thomas said that they"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "Thomas told me that God made my hair red _on purpose_, and I\u2019ve"
+      },
+      "8": {
+        "mentions": 5,
+        "snippet": "Thomas often told me I was"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "Thomas\u2019 intoxicated husband."
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Thomas\u2019s husband!"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "Thomas\u2019s father was pursued home one night by a lamb of fire with"
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "Thomas and"
+      }
+    },
+    "co_occurs_with": {
+      "Mrs. Thomas": 7,
+      "Green Gables": 6,
+      "Marilla": 6,
+      "Anne": 4,
+      "Matthew": 3,
+      "Mrs. Lynde": 3,
+      "Barry": 3,
+      "Mrs. Barry": 3
+    }
+  },
+  {
+    "canonical_name": "Matthew Cuthbert",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 21,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "beyond the barn; and Matthew Cuthbert ought to have been sowing his on"
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "shy Matthew Cuthbert was so ludicrously afraid."
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cMatthew Cuthbert, who\u2019s that?"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "\u201cMatthew Cuthbert, it\u2019s about time somebody adopted that child and"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "\u201cMatthew Cuthbert, I\u2019m astonished at you."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "I\u2019m getting fond of her, but don\u2019t you rub it in, Matthew Cuthbert."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "ugly truth, Matthew Cuthbert, and we might as well look it in the face."
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "Miss Harris had heard Matthew Cuthbert called odd."
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "to rub things in, Matthew Cuthbert."
+      },
+      "37": {
+        "mentions": 3,
+        "snippet": "For the first time shy, quiet Matthew Cuthbert"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 9,
+      "Marilla": 8,
+      "Mrs. Lynde": 6,
+      "Rachel": 5,
+      "Mrs. Rachel": 4,
+      "Anne": 4,
+      "Shining Waters": 4,
+      "Barry": 4
+    }
+  },
+  {
+    "canonical_name": "Mrs. Blewett",
+    "aliases": [
+      "Blewett"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 20,
+    "per_chapter": {
+      "6": {
+        "mentions": 20,
+        "snippet": "afternoon, Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 1,
+      "Flora Jane": 1,
+      "Green Gables": 1,
+      "Marilla Cuthbert": 1,
+      "Matthew": 1,
+      "Miss Cuthbert": 1,
+      "Mrs. Peter": 1,
+      "Mrs. Peter Blewett": 1
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 19,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "\u201cThere wasn\u2019t any boy,\u201d said Matthew wretchedly."
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cThere, that looks something like."
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "There are a lot of nice"
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "\u201cThere\u2019s just one more thing, Marilla,\u201d said Anne, with the air of"
+      },
+      "38": {
+        "mentions": 6,
+        "snippet": "There were tears in"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 4,
+      "Green Gables": 4,
+      "Barry": 3,
+      "Diana": 3,
+      "Gilbert Blythe": 3,
+      "Mrs. Lynde": 3,
+      "Avonlea": 2,
+      "Jane Andrews": 2
+    }
+  },
+  {
+    "canonical_name": "Mrs. Thomas",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 19,
+    "per_chapter": {
+      "5": {
+        "mentions": 10,
+        "snippet": "Mrs."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "Mrs."
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "will be uphill work, I expect, for Mrs."
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "hurt before even by Mrs."
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Mrs."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "Mrs."
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "I told her everything--about Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Thomas": 7,
+      "Green Gables": 6,
+      "Marilla": 6,
+      "Anne": 4,
+      "Matthew": 3,
+      "Mrs. Lynde": 3,
+      "Barry": 3,
+      "Mrs. Barry": 3
+    }
+  },
+  {
+    "canonical_name": "Queen",
+    "aliases": [],
+    "first_chapter": 30,
+    "total_mentions": 19,
+    "per_chapter": {
+      "30": {
+        "mentions": 9,
+        "snippet": "who mean to study for the entrance examination into Queen\u2019s."
+      },
+      "34": {
+        "mentions": 6,
+        "snippet": "getting ready to go to Queen\u2019s, and there was much sewing to be done,"
+      },
+      "35": {
+        "mentions": 4,
+        "snippet": "By this time all the Queen\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 3,
+      "Gilbert Blythe": 3,
+      "Green Gables": 3,
+      "Josie Pye": 3,
+      "Miss Stacy": 3,
+      "Ruby Gillis": 3,
+      "Allan": 2,
+      "Anne Shirley": 2
+    }
+  },
+  {
+    "canonical_name": "Jane Andrews",
+    "aliases": [
+      "Andrews"
+    ],
+    "first_chapter": 14,
+    "total_mentions": 18,
+    "per_chapter": {
+      "14": {
+        "mentions": 1,
+        "snippet": "Andrews hadn\u2019t caught her by her"
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "Marilla, Jane Andrews told me that Minnie MacPherson told her that she"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Jane Andrews had lent her that day."
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "Prissy Andrews is going to recite \u2018Curfew"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "Then Josie Pye dared Jane Andrews to hop on her"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "and Anne at first, but soon it was extended to include Jane Andrews"
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "\u201cOf course it would be romantic,\u201d conceded Jane Andrews, \u201cbut I know I"
+      },
+      "30": {
+        "mentions": 2,
+        "snippet": "Shirley, Ruby Gillis, Jane Andrews, Josie Pye, Charlie Sloane, and Moody"
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "had nerves like Jane Andrews."
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "Anne and Diana were to drive over with Jane Andrews and her brother"
+      },
+      "35": {
+        "mentions": 1,
+        "snippet": "of hair-dressing, and Jane Andrews--plain, plodding, conscientious"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 10,
+      "Mrs. Lynde": 9,
+      "Barry": 8,
+      "Green Gables": 8,
+      "Ruby Gillis": 8,
+      "Diana": 7,
+      "Gilbert Blythe": 7,
+      "Allan": 6
+    }
+  },
+  {
+    "canonical_name": "Mr. Barry",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 16,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "\u201cI reckon because Mr."
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "that runs up between our farm and Mr."
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "and walked through Mr."
+      },
+      "23": {
+        "mentions": 4,
+        "snippet": "up there and walk the ridgepole of Mr."
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "little flat-bottomed dory Mr."
+      },
+      "29": {
+        "mentions": 4,
+        "snippet": "Mr."
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "And Mr."
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 8,
+      "Diana": 7,
+      "Green Gables": 7,
+      "Mrs. Lynde": 7,
+      "Anne Shirley": 5,
+      "Allan": 5,
+      "Mrs. Allan": 5,
+      "Marilla": 4
+    }
+  },
+  {
+    "canonical_name": "Shining Waters",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 15,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "Lake of Shining Waters."
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "Delight and the Lake of Shining Waters it wouldn\u2019t be so hard."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "other side of the Lake of Shining Waters was visible."
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "Lake of Shining Waters today?"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Lake of Shining Waters and ripple it all up into little sparkling waves."
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "Lake of Shining Waters, so I just gazed at that and imagined all sorts"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "near the lake of Shining Waters."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "When I was going over the bridge across the Lake of Shining Waters"
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "we can look down to the Lake of Shining Waters."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "Lake of Shining Waters, and the air was full of the savor of clover"
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "of Shining Waters again she would answer very differently."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 9,
+      "Marilla": 9,
+      "Mrs. Lynde": 6,
+      "Anne Shirley": 6,
+      "Barry": 5,
+      "Diana": 5,
+      "Mr. Barry": 4,
+      "Matthew Cuthbert": 4
+    }
+  },
+  {
+    "canonical_name": "Marilla Cuthbert",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 14,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "that Marilla Cuthbert swept that yard over as often as she swept her"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "\u201cMarilla Cuthbert, you don\u2019t say so!"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "\u201cMarilla Cuthbert, you don\u2019t mean to say that you are upholding her in"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "be useful in looking after the horse--and Marilla Cuthbert with her."
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "go home to Miss Marilla Cuthbert."
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "head of arithmetic and that\u2019s where Marilla Cuthbert makes her mistake."
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "\u201cI thought Marilla Cuthbert was an old fool when I heard she\u2019d adopted"
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "Thomas, says I, \u2018Mark my words, Thomas, Marilla Cuthbert \u2018ll live to"
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "Marilla Cuthbert by another person."
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "\u201cMarilla Cuthbert has got _mellow_."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 9,
+      "Mrs. Lynde": 8,
+      "Matthew": 7,
+      "Rachel": 6,
+      "Mrs. Rachel": 5,
+      "Anne Shirley": 5,
+      "Barry": 5,
+      "Diana": 5
+    }
+  },
+  {
+    "canonical_name": "Miss Rogerson",
+    "aliases": [
+      "Rogerson"
+    ],
+    "first_chapter": 11,
+    "total_mentions": 14,
+    "per_chapter": {
+      "11": {
+        "mentions": 14,
+        "snippet": "on when the opening exercises were over and Anne found herself in Miss"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 1,
+      "Green Gables": 1,
+      "Jerry Buote": 1,
+      "Marilla": 1,
+      "Mr. Bell": 1,
+      "Mrs. Lynde": 1,
+      "Shining Waters": 1,
+      "The Dog": 1
+    }
+  },
+  {
+    "canonical_name": "Haunted Wood",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 14,
+    "per_chapter": {
+      "20": {
+        "mentions": 2,
+        "snippet": "\u201cI can\u2019t go through the Haunted Wood, Marilla,\u201d cried Anne desperately."
+      },
+      "21": {
+        "mentions": 2,
+        "snippet": "the matter of the Haunted Wood."
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "in the Haunted Wood were all feathery and wonderful; the birches"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "the Haunted Wood, but she said we went the wrong way about it in that."
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "might, while Jane and Diana flew through the Haunted Wood and across the"
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "the eastern sky behind the firs of the Haunted Wood was all silvery"
+      },
+      "30": {
+        "mentions": 2,
+        "snippet": "Diana and I were only over in the Haunted Wood."
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "burnished silver, hung over the Haunted Wood; the air was full of sweet"
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "shadows of the Haunted Wood."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 8,
+      "Green Gables": 8,
+      "Anne Shirley": 7,
+      "Barry": 7,
+      "Diana": 7,
+      "Mrs. Allan": 7,
+      "Mrs. Lynde": 7,
+      "Gilbert Blythe": 5
+    }
+  },
+  {
+    "canonical_name": "Miss Harris",
+    "aliases": [
+      "Harris"
+    ],
+    "first_chapter": 25,
+    "total_mentions": 14,
+    "per_chapter": {
+      "25": {
+        "mentions": 14,
+        "snippet": "Miss Harris looked somewhat surprised, as well she might, to hear a man"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Aunt Josephine": 1,
+      "Avonlea": 1,
+      "Charlie Sloane": 1,
+      "Christmas Eve": 1,
+      "Diana Barry": 1,
+      "For the Anne": 1,
+      "Gertie Pye": 1
+    }
+  },
+  {
+    "canonical_name": "Elaine",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 14,
+    "per_chapter": {
+      "28": {
+        "mentions": 14,
+        "snippet": "OF course you must be Elaine, Anne,\u201d said Diana."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Barry": 1,
+      "Camelot": 1,
+      "Dear God": 1,
+      "Diana": 1,
+      "Edward Island": 1,
+      "Gilbert Blythe": 1
+    }
+  },
+  {
+    "canonical_name": "Hammond",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 13,
+    "per_chapter": {
+      "5": {
+        "mentions": 8,
+        "snippet": "Hammond from up the river came"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "Hammond"
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "Hammond had twins three times."
+      }
+    },
+    "co_occurs_with": {
+      "Mrs. Hammond": 3,
+      "Barry": 2,
+      "Green Gables": 2,
+      "Mrs. Barry": 2,
+      "Spencer": 2,
+      "Anne": 2,
+      "Marilla": 2,
+      "Mr. Thomas": 2
+    }
+  },
+  {
+    "canonical_name": "Moody Spurgeon",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 13,
+    "per_chapter": {
+      "26": {
+        "mentions": 3,
+        "snippet": "Finally, Charlie Sloane fought Moody Spurgeon MacPherson,"
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "Moody Spurgeon MacPherson saw you home from prayer meeting last night."
+      },
+      "30": {
+        "mentions": 2,
+        "snippet": "really the thought of Moody Spurgeon being a minister makes me laugh."
+      },
+      "32": {
+        "mentions": 4,
+        "snippet": "The first person we saw was Moody Spurgeon sitting"
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "Josie, Charlie, and Moody Spurgeon, not being troubled with the"
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "Isn\u2019t it splendid to think we all got through even to Moody Spurgeon and"
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "So are Moody Spurgeon and"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 7,
+      "Mrs. Allan": 7,
+      "Barry": 6,
+      "Diana": 6,
+      "Green Gables": 6,
+      "Josie Pye": 6,
+      "Mrs. Lynde": 6,
+      "Gilbert Blythe": 5
+    }
+  },
+  {
+    "canonical_name": "Mr. Allan",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 12,
+    "per_chapter": {
+      "21": {
+        "mentions": 3,
+        "snippet": "I\u2019m very glad they\u2019ve called Mr."
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "Mind you, Mr."
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "30": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "strong man to run a race, as Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 5,
+      "Mrs. Lynde": 5,
+      "Haunted Wood": 4,
+      "Mrs. Allan": 4,
+      "Ruby Gillis": 4,
+      "Anne Shirley": 3,
+      "Barry": 3,
+      "Charlie Sloane": 3
+    }
+  },
+  {
+    "canonical_name": "Rachel Lynde",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Rachel Lynde\u2019s door without due regard for decency and decorum; it"
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "Rachel Lynde\u2019s emphatic comment."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "\u201cIt\u2019s a good thing Rachel Lynde got a calling down; she\u2019s a meddlesome"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "Rachel Lynde are going to make ice cream--think of it, Marilla--_ice"
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "Rachel Lynde had gone too."
+      },
+      "27": {
+        "mentions": 2,
+        "snippet": "am saying the very thing I was so riled with Rachel Lynde for saying at"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 6,
+      "Mrs. Lynde": 5,
+      "Mrs. Rachel": 4,
+      "Mrs. Rachel Lynde": 4,
+      "Rachel": 4,
+      "Matthew": 4,
+      "Marilla Cuthbert": 3,
+      "Anne": 3
+    }
+  },
+  {
+    "canonical_name": "Cordelia",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 11,
+    "per_chapter": {
+      "3": {
+        "mentions": 9,
+        "snippet": "\u201cWill you please call me Cordelia?"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Cordelia."
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "was the Lady Cordelia if I had a real amethyst brooch on."
+      }
+    },
+    "co_occurs_with": {
+      "Marilla": 3,
+      "Anne Shirley": 2,
+      "Matthew Cuthbert": 2,
+      "Shining Waters": 2,
+      "White Way": 2,
+      "Cordelia Fitzgerald": 2,
+      "Green Gables": 2,
+      "Lady Cordelia": 2
+    }
+  },
+  {
+    "canonical_name": "Mrs. Hammond",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 11,
+    "per_chapter": {
+      "5": {
+        "mentions": 6,
+        "snippet": "Then Mrs."
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "When I went to live with Mrs."
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "You forget that Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Hammond": 3,
+      "Barry": 2,
+      "Green Gables": 2,
+      "Mrs. Barry": 2,
+      "Spencer": 2,
+      "Anne": 2,
+      "Marilla": 2,
+      "Mr. Thomas": 2
+    }
+  },
+  {
+    "canonical_name": "Orchard Slope",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 11,
+    "per_chapter": {
+      "8": {
+        "mentions": 1,
+        "snippet": "\u201cDiana Barry lives over at Orchard Slope and she\u2019s about your age."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "They went over to Orchard Slope by the short cut across the brook and up"
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "path to Orchard Slope, to ask Diana to tea."
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "across the crusted fields to Orchard Slope."
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "They were standing on the bank of the pond, below Orchard Slope, where"
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "western gable of Orchard Slope, a token that Diana was also up."
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "the frogs were singing in the marsh beyond Orchard Slope."
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "started at once for the doctor, calling at Orchard Slope on his way to"
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "gone over to Orchard Slope with Diana and came back to find Marilla in"
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 9,
+      "Green Gables": 9,
+      "Mrs. Lynde": 8,
+      "Anne Shirley": 6,
+      "Marilla": 6,
+      "Mrs. Barry": 6,
+      "Diana": 6,
+      "Gilbert Blythe": 6
+    }
+  },
+  {
+    "canonical_name": "Charlie Sloane",
+    "aliases": [
+      "Charlie",
+      "Sloane"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 11,
+    "per_chapter": {
+      "15": {
+        "mentions": 2,
+        "snippet": "And I hate Charlie Sloane, I can\u2019t bear a boy with goggle"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "You know Charlie Sloane\u2019s grandmother"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "Sloane wiping away tears when I sat down."
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "Finally, Charlie Sloane fought Moody Spurgeon MacPherson,"
+      },
+      "30": {
+        "mentions": 2,
+        "snippet": "Shirley, Ruby Gillis, Jane Andrews, Josie Pye, Charlie Sloane, and Moody"
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "Moody Spurgeon still thinks he failed in history and Charlie says he"
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "Charlie Sloane."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 6,
+      "Josie Pye": 6,
+      "Mrs. Lynde": 6,
+      "Barry": 5,
+      "Diana": 5,
+      "Gilbert Blythe": 5,
+      "Allan": 5,
+      "Anne Shirley": 4
+    }
+  },
+  {
+    "canonical_name": "Carmody",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 11,
+    "per_chapter": {
+      "16": {
+        "mentions": 3,
+        "snippet": "meeting of the Aid Society at Carmody this afternoon, Anne, and I won\u2019t"
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "Phillips told me last week in Blair\u2019s store at Carmody"
+      },
+      "38": {
+        "mentions": 4,
+        "snippet": "sight as Sadler from Carmody."
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 3,
+      "Barry": 3,
+      "Green Gables": 3,
+      "Mrs. Lynde": 3,
+      "Diana": 2,
+      "Gertie Pye": 2,
+      "Marilla Cuthbert": 2,
+      "Mary Joe": 2
+    }
+  },
+  {
+    "canonical_name": "Avery",
+    "aliases": [],
+    "first_chapter": 35,
+    "total_mentions": 11,
+    "per_chapter": {
+      "35": {
+        "mentions": 4,
+        "snippet": "have said so for the Avery scholarship."
+      },
+      "36": {
+        "mentions": 7,
+        "snippet": "won the medal and who the Avery."
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 2,
+      "Barry": 2,
+      "Gilbert Blythe": 2,
+      "Green Gables": 2,
+      "Josie Pye": 2,
+      "Miss Barry": 2,
+      "Stella Maynard": 2,
+      "Allan": 1
+    }
+  },
+  {
+    "canonical_name": "White Sands",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "White Sands station herself."
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "this morning for I\u2019ll have to drive over to White Sands in the afternoon"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "How far is it to White Sands?"
+      },
+      "29": {
+        "mentions": 2,
+        "snippet": "in their double-seated buggy to the American concert at the White Sands"
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "of driving to White Sands with that slim, upright figure beside him."
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "White Sands with some of her Carmody cousins, where she contrived"
+      },
+      "38": {
+        "mentions": 2,
+        "snippet": "He said he was going to teach at White Sands."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 6,
+      "Avonlea": 4,
+      "Mrs. Spencer": 4,
+      "Spencer": 4,
+      "Allan": 4,
+      "Diana": 4,
+      "Mrs. Allan": 4,
+      "Anne": 4
+    }
+  },
+  {
+    "canonical_name": "Prissy Andrews",
+    "aliases": [
+      "Prissy"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 10,
+    "per_chapter": {
+      "15": {
+        "mentions": 4,
+        "snippet": "and making eyes at Prissy Andrews."
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "is a Grit too because Prissy Andrews\u2019s father is one, and Ruby Gillis"
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "Prissy Andrews is going to recite \u2018Curfew"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "Phillips gave all the Mayflowers he found to Prissy Andrews"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 4,
+      "Barry": 4,
+      "Diana": 4,
+      "Green Gables": 4,
+      "Mr. Phillips": 4,
+      "Jane Andrews": 3,
+      "Mrs. Barry": 3,
+      "Mrs. Lynde": 3
+    }
+  },
+  {
+    "canonical_name": "Minnie May",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 10,
+    "per_chapter": {
+      "18": {
+        "mentions": 7,
+        "snippet": "\u201cMinnie May is"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "have to sleep with Minnie May--and you can\u2019t think how she kicks."
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "Never, since the night on which Minnie May had had the"
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "doctor who had come the night Minnie May had the croup met Anne at the"
+      }
+    },
+    "co_occurs_with": {
+      "Jane Andrews": 4,
+      "Marilla Cuthbert": 4,
+      "Matthew": 4,
+      "Mrs. Lynde": 4,
+      "Anne Shirley": 3,
+      "Barry": 3,
+      "Diana": 3,
+      "Green Gables": 3
+    }
+  },
+  {
+    "canonical_name": "Josephine Barry",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 10,
+    "per_chapter": {
+      "19": {
+        "mentions": 6,
+        "snippet": "Miss Josephine Barry did not appear at the early breakfast the next"
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "Miss Josephine Barry"
+      },
+      "34": {
+        "mentions": 2,
+        "snippet": "Miss Josephine Barry"
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 3,
+      "Diana": 3,
+      "Miss Barry": 3,
+      "Miss Josephine Barry": 3,
+      "Allan": 2,
+      "Gilbert Blythe": 2,
+      "Green Gables": 2,
+      "Josie Pye": 2
+    }
+  },
+  {
+    "canonical_name": "Bright River",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cMatthew went to Bright River."
+      },
+      "2": {
+        "mentions": 3,
+        "snippet": "miles to Bright River."
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "from Bright River on that June evening four years before."
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "\u201cFather brought the paper home from Bright River not ten minutes"
+      }
+    },
+    "co_occurs_with": {
+      "Rachel": 4,
+      "Avonlea": 3,
+      "Green Gables": 3,
+      "Mrs. Rachel": 3,
+      "Alexander Spencer": 2,
+      "Marilla Cuthbert": 2,
+      "Matthew Cuthbert": 2,
+      "Mrs. Alexander Spencer": 2
+    }
+  },
+  {
+    "canonical_name": "Mayflowers",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 9,
+    "per_chapter": {
+      "20": {
+        "mentions": 9,
+        "snippet": "Silas Sloane\u2019s place, the Mayflowers blossomed"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 1,
+      "Arty Gillis": 1,
+      "Barry": 1,
+      "Charlie Sloane": 1,
+      "Diana": 1,
+      "Green Gables": 1,
+      "Haunted Wood": 1,
+      "Marilla": 1
+    }
+  },
+  {
+    "canonical_name": "Entrance",
+    "aliases": [],
+    "first_chapter": 30,
+    "total_mentions": 9,
+    "per_chapter": {
+      "30": {
+        "mentions": 4,
+        "snippet": "since Ruby and Jane began to talk of studying for the Entrance."
+      },
+      "31": {
+        "mentions": 5,
+        "snippet": "pathway already, loomed up that fateful thing known as \u201cthe Entrance,\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 2,
+      "Debating Club": 2,
+      "Gilbert Blythe": 2,
+      "Jane Andrews": 2,
+      "Marilla Cuthbert": 2,
+      "Matthew": 2,
+      "Minnie May": 2,
+      "Miss Stacy": 2
+    }
+  },
+  {
+    "canonical_name": "Mrs. Rachel Lynde",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "well-conducted little stream, for not even a brook could run past Mrs."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "was Mrs."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "Superintendent Bell and Mrs."
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 4,
+      "Rachel Lynde": 4,
+      "Marilla Cuthbert": 3,
+      "Mrs. Rachel": 3,
+      "Rachel": 3,
+      "Matthew": 3,
+      "Mrs. Lynde": 3,
+      "Spencer": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Cuthbert",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 8,
+    "per_chapter": {
+      "2": {
+        "mentions": 5,
+        "snippet": "Spencer says--oh, Mr."
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "I suppose Mr."
+      },
+      "25": {
+        "mentions": 2,
+        "snippet": "\u201cWhat can I do for you this evening, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 3,
+      "Miss Cuthbert": 3,
+      "Barry": 2,
+      "Marilla": 2,
+      "Matthew Cuthbert": 2,
+      "Gertie Pye": 2,
+      "Gilbert Blythe": 2,
+      "Mrs. Lynde": 2
+    }
+  },
+  {
+    "canonical_name": "Birch Path",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 8,
+    "per_chapter": {
+      "15": {
+        "mentions": 4,
+        "snippet": "the Birch Path was romantic, if ever anything was."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "I couldn\u2019t bear to go by the Birch Path all alone."
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "The Birch Path was a canopy"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "way of the Birch Path."
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "the Birch Path and Violet Vale, it was all the former could do to keep"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 4,
+      "Barry": 4,
+      "Diana": 4,
+      "Josie Pye": 4,
+      "Mrs. Lynde": 4,
+      "Ruby Gillis": 4,
+      "Charlie Sloane": 3,
+      "Gilbert Blythe": 3
+    }
+  },
+  {
+    "canonical_name": "Lover",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 8,
+    "per_chapter": {
+      "15": {
+        "mentions": 5,
+        "snippet": "unromantic; but to go by Lover\u2019s Lane and Willowmere and Violet Vale and"
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "Lover\u2019s Lane and across the crusted field beyond, for the snow was too"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 2,
+      "Barry": 2,
+      "Diana": 2,
+      "Gertie Pye": 2,
+      "Green Gables": 2,
+      "Jane Andrews": 2,
+      "Lane": 2,
+      "Mr. Phillips": 2
+    }
+  },
+  {
+    "canonical_name": "Lane",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 8,
+    "per_chapter": {
+      "15": {
+        "mentions": 5,
+        "snippet": "unromantic; but to go by Lover\u2019s Lane and Willowmere and Violet Vale and"
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "Lover\u2019s Lane and across the crusted field beyond, for the snow was too"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 2,
+      "Barry": 2,
+      "Diana": 2,
+      "Gertie Pye": 2,
+      "Green Gables": 2,
+      "Jane Andrews": 2,
+      "Lover": 2,
+      "Mr. Phillips": 2
+    }
+  },
+  {
+    "canonical_name": "Mrs. Evans",
+    "aliases": [
+      "Evans"
+    ],
+    "first_chapter": 33,
+    "total_mentions": 8,
+    "per_chapter": {
+      "33": {
+        "mentions": 8,
+        "snippet": "elocutionist, Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Avonlea": 1,
+      "Billy": 1,
+      "Charlottetown Symphony Club": 1,
+      "Debating Club": 1,
+      "Diana": 1,
+      "Gilbert Blythe": 1
+    }
+  },
+  {
+    "canonical_name": "Katie Maurice",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 7,
+    "per_chapter": {
+      "8": {
+        "mentions": 6,
+        "snippet": "I called her Katie Maurice, and we were very intimate."
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "the twins and Katie Maurice and Violetta and coming to Green Gables and"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 2,
+      "Marilla": 2,
+      "Mrs. Thomas": 2,
+      "Thomas": 2,
+      "Anne": 1,
+      "Aunt Marilla": 1,
+      "Barry": 1,
+      "Christ Blessing Little Children": 1
+    }
+  },
+  {
+    "canonical_name": "Gertie Pye",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 7,
+    "per_chapter": {
+      "15": {
+        "mentions": 2,
+        "snippet": "\u201cGertie Pye actually went and put"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "She had to sit with Gertie Pye and she hated"
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "was sitting with Gertie Pye embittered Anne\u2019s little triumph."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "sit together in school again, and Gertie Pye can go with Minnie Andrews."
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "Mind you, Rob Wright went home with Gertie Pye from the"
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 4,
+      "Green Gables": 4,
+      "Mr. Phillips": 4,
+      "Mrs. Lynde": 4,
+      "Gilbert Blythe": 4,
+      "Anne Shirley": 3,
+      "Mrs. Barry": 3,
+      "Ruby Gillis": 3
+    }
+  },
+  {
+    "canonical_name": "Ben Hur",
+    "aliases": [],
+    "first_chapter": 30,
+    "total_mentions": 7,
+    "per_chapter": {
+      "30": {
+        "mentions": 7,
+        "snippet": "Miss Stacy caught me reading Ben Hur in school"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Barry": 1,
+      "Birch Path": 1,
+      "Charlie Sloane": 1,
+      "Dear Stacy": 1,
+      "Debating Club": 1,
+      "Diana": 1
+    }
+  },
+  {
+    "canonical_name": "Nova Scotia",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "orphan asylum in Nova Scotia and he\u2019s coming on the train tonight."
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "from Nova Scotia for me."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "her back to Nova Scotia at once."
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "\u201cAnd I was born in Bolingbroke, Nova Scotia."
+      }
+    },
+    "co_occurs_with": {
+      "Mrs. Spencer": 4,
+      "Spencer": 4,
+      "Green Gables": 3,
+      "White Sands": 3,
+      "Marilla": 3,
+      "Shining Waters": 3,
+      "Alexander Spencer": 2,
+      "Bright River": 2
+    }
+  },
+  {
+    "canonical_name": "Prince Edward Island",
+    "aliases": [
+      "Island"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 6,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "heard that Prince Edward Island was the prettiest place in the world,"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "include Prince Edward Island in a political tour could have much or"
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "girl in Prince Edward Island."
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "all over the Island."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 4,
+      "Diana": 3,
+      "Matthew": 3,
+      "Mrs. Lynde": 3,
+      "Mrs. Rachel": 3,
+      "Rachel": 3,
+      "Marilla": 3,
+      "Anne Shirley": 2
+    }
+  },
+  {
+    "canonical_name": "Lake",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 6,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "Lake of Shining Waters today?"
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "When I was going over the bridge across the Lake of Shining Waters"
+      }
+    },
+    "co_occurs_with": {
+      "Marilla": 2,
+      "Shining Waters": 2,
+      "Anne": 1,
+      "Bertha Shirley": 1,
+      "Bolingbroke": 1,
+      "Fifth Reader": 1,
+      "Hammond": 1,
+      "James Thompson": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Peter",
+    "aliases": [
+      "Peter"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 6,
+    "per_chapter": {
+      "6": {
+        "mentions": 6,
+        "snippet": "Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 1,
+      "Flora Jane": 1,
+      "Green Gables": 1,
+      "Marilla Cuthbert": 1,
+      "Matthew": 1,
+      "Miss Cuthbert": 1,
+      "Mrs. Blewett": 1,
+      "Mrs. Peter Blewett": 1
+    }
+  },
+  {
+    "canonical_name": "Violet Vale",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 6,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "unromantic; but to go by Lover\u2019s Lane and Willowmere and Violet Vale and"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "was the afternoon I was trying to think of a name for Violet Vale and it"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "After the Mayflowers came the violets, and Violet Vale was empurpled"
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "the Birch Path and Violet Vale, it was all the former could do to keep"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 4,
+      "Barry": 4,
+      "Green Gables": 4,
+      "Charlie Sloane": 3,
+      "Diana": 3,
+      "Gilbert Blythe": 3,
+      "Mr. Phillips": 3,
+      "Mrs. Lynde": 3
+    }
+  },
+  {
+    "canonical_name": "William Blair",
+    "aliases": [
+      "Blair"
+    ],
+    "first_chapter": 18,
+    "total_mentions": 6,
+    "per_chapter": {
+      "18": {
+        "mentions": 1,
+        "snippet": "Blair went to town and I guess Dr."
+      },
+      "25": {
+        "mentions": 4,
+        "snippet": "instead of William Blair\u2019s."
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "Blair told me"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 3,
+      "Marilla Cuthbert": 3,
+      "Mrs. Lynde": 3,
+      "Anne Shirley": 2,
+      "Barry": 2,
+      "Carmody": 2,
+      "Diana": 2,
+      "Gertie Pye": 2
+    }
+  },
+  {
+    "canonical_name": "Miss Josephine Barry",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 6,
+    "per_chapter": {
+      "19": {
+        "mentions": 4,
+        "snippet": "Miss Josephine Barry did not appear at the early breakfast the next"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "Miss Josephine Barry"
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "Miss Josephine Barry"
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 3,
+      "Diana": 3,
+      "Josephine Barry": 3,
+      "Miss Barry": 3,
+      "Allan": 2,
+      "Gilbert Blythe": 2,
+      "Green Gables": 2,
+      "Josie Pye": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Bentley",
+    "aliases": [
+      "Bentley"
+    ],
+    "first_chapter": 21,
+    "total_mentions": 6,
+    "per_chapter": {
+      "21": {
+        "mentions": 6,
+        "snippet": "Old Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Allan Anne": 1,
+      "Anne Shirley": 1,
+      "Avonlea": 1,
+      "Barry": 1,
+      "Best Vanilla": 1,
+      "Diana Tuesday": 1,
+      "Green Gables": 1
+    }
+  },
+  {
+    "canonical_name": "Bertram",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 6,
+    "per_chapter": {
+      "26": {
+        "mentions": 6,
+        "snippet": "Then Bertram"
+      }
+    },
+    "co_occurs_with": {
+      "Alice Bell": 1,
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Aunt Josephine": 1,
+      "Barry": 1,
+      "Bells": 1,
+      "Bessie Wright": 1,
+      "Birch Path": 1
+    }
+  },
+  {
+    "canonical_name": "Billy",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 6,
+    "per_chapter": {
+      "33": {
+        "mentions": 6,
+        "snippet": "Billy in their double-seated buggy; and several other Avonlea girls and"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Avonlea": 1,
+      "Charlottetown Symphony Club": 1,
+      "Debating Club": 1,
+      "Diana": 1,
+      "Gilbert Blythe": 1,
+      "Green Gables": 1
+    }
+  },
+  {
+    "canonical_name": "White Way",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 5,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "White Way of Delight."
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "If I hadn\u2019t seen the White Way of"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "I thank Thee for the White Way of Delight and the Lake of Shining"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "was glad about the White Way and the cherry blossoms--but this!"
+      }
+    },
+    "co_occurs_with": {
+      "Marilla": 4,
+      "Green Gables": 3,
+      "Matthew Cuthbert": 3,
+      "Barry": 2,
+      "Miss Cuthbert": 2,
+      "Mrs. Spencer": 2,
+      "Shining Waters": 2,
+      "Spencer": 2
+    }
+  },
+  {
+    "canonical_name": "Avenue",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 5,
+    "per_chapter": {
+      "2": {
+        "mentions": 5,
+        "snippet": "simply rounded a curve in the road and found themselves in the \u201cAvenue."
+      }
+    },
+    "co_occurs_with": {
+      "Alexander Spencer": 1,
+      "Barry": 1,
+      "Bright River": 1,
+      "Diana": 1,
+      "Green Gables": 1,
+      "Has Mr": 1,
+      "Hepzibah Jenkins": 1,
+      "Marilla": 1
+    }
+  },
+  {
+    "canonical_name": "Aunt Marilla",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 5,
+    "per_chapter": {
+      "8": {
+        "mentions": 5,
+        "snippet": "Can I call you Aunt Marilla?"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Barry": 1,
+      "Christ Blessing Little Children": 1,
+      "Cordelia": 1,
+      "Cordelia Fitzgerald": 1,
+      "Dear Snow Queen": 1,
+      "Diana Barry": 1,
+      "Green Gables": 1
+    }
+  },
+  {
+    "canonical_name": "Diana Barry",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 5,
+    "per_chapter": {
+      "8": {
+        "mentions": 1,
+        "snippet": "\u201cDiana Barry lives over at Orchard Slope and she\u2019s about your age."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "friend, Diana Barry, as long as the sun and moon shall endure."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "so the marked absence of any tribute or recognition from Diana Barry who"
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "A week after the tea at the manse Diana Barry gave a party."
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "dress--something like Diana Barry always wore."
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 4,
+      "Marilla": 4,
+      "Mrs. Barry": 4,
+      "Green Gables": 3,
+      "Mrs. Lynde": 3,
+      "Anne Shirley": 2,
+      "Matthew Cuthbert": 2,
+      "Orchard Slope": 2
+    }
+  },
+  {
+    "canonical_name": "Harmon Andrews",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 5,
+    "per_chapter": {
+      "13": {
+        "mentions": 1,
+        "snippet": "Harmon Andrews\u2019s field, right"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Harmon Andrews took us all for a row on the Lake of Shining Waters--six"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Harmon Andrews\u2019s that morning in Matthew\u2019s cart."
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "bridge in Harmon Andrews\u2019s dory!"
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "Harmon Andrews took second prize for Gravenstein apples"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 5,
+      "Mrs. Lynde": 5,
+      "Barry": 4,
+      "Marilla": 4,
+      "Mr. Harmon Andrews": 4,
+      "Diana": 3,
+      "Matthew": 3,
+      "Mr. Barry": 3
+    }
+  },
+  {
+    "canonical_name": "Superintendent Bell",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 5,
+    "per_chapter": {
+      "13": {
+        "mentions": 1,
+        "snippet": "Superintendent Bell and Mrs."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "Superintendent Bell."
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "Why, even Superintendent Bell came"
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "Lynde can pray every bit as well as Superintendent Bell"
+      }
+    },
+    "co_occurs_with": {
+      "Mrs. Lynde": 4,
+      "Barry": 3,
+      "Marilla": 3,
+      "Matthew": 3,
+      "Allan": 3,
+      "Avonlea": 3,
+      "Mrs. Allan": 3,
+      "Ruby Gillis": 3
+    }
+  },
+  {
+    "canonical_name": "Julia Bell",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 5,
+    "per_chapter": {
+      "15": {
+        "mentions": 1,
+        "snippet": "porch wall with Julia Bell\u2019s and a big \u2018Take Notice\u2019 over them?"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "her a perfume bottle to keep slate water in, and Julia Bell copied"
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "Josie Pye and Julia Bell did"
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "Julia Bell could see this--she puts on such airs about her mother\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 4,
+      "Birch Path": 3,
+      "Diana": 3,
+      "Mrs. Lynde": 3,
+      "Anne Shirley": 2,
+      "Charlie Sloane": 2,
+      "Gertie Pye": 2,
+      "Gilbert Blythe": 2
+    }
+  },
+  {
+    "canonical_name": "Mrs. Chester Ross",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 5,
+    "per_chapter": {
+      "16": {
+        "mentions": 5,
+        "snippet": "and Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Aid Society": 1,
+      "Anne Shirley": 1,
+      "Barry": 1,
+      "Carmody": 1,
+      "Chester Ross": 1,
+      "Don": 1,
+      "Em White": 1,
+      "Gertie Pye": 1
+    }
+  },
+  {
+    "canonical_name": "Chester Ross",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 5,
+    "per_chapter": {
+      "16": {
+        "mentions": 5,
+        "snippet": "Chester"
+      }
+    },
+    "co_occurs_with": {
+      "Aid Society": 1,
+      "Anne Shirley": 1,
+      "Barry": 1,
+      "Carmody": 1,
+      "Don": 1,
+      "Em White": 1,
+      "Gertie Pye": 1,
+      "Gilbert Blythe": 1
+    }
+  },
+  {
+    "canonical_name": "Mary Joe",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 5,
+    "per_chapter": {
+      "16": {
+        "mentions": 1,
+        "snippet": "away, true\u2019s you live, with a magic pebble that old Mary Joe from the"
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "Young Mary Joe says--and Father and Mother"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 2,
+      "Barry": 2,
+      "Carmody": 2,
+      "Gertie Pye": 2,
+      "Green Gables": 2,
+      "Matthew": 2,
+      "Mr. Phillips": 2,
+      "Mrs. Barry": 2
+    }
+  },
+  {
+    "canonical_name": "Minnie Andrews",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 5,
+    "per_chapter": {
+      "17": {
+        "mentions": 3,
+        "snippet": "Phillips said Minnie Andrews was a model"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "sit together in school again, and Gertie Pye can go with Minnie Andrews."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "I can tell you I wished I\u2019d been a model pupil like Minnie Andrews."
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 3,
+      "Mr. Phillips": 3,
+      "Mrs. Barry": 3,
+      "Anne Shirley": 2,
+      "Gertie Pye": 2,
+      "Green Gables": 2,
+      "Matthew": 2,
+      "Mrs. Lynde": 2
+    }
+  },
+  {
+    "canonical_name": "Debating Club",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 5,
+    "per_chapter": {
+      "19": {
+        "mentions": 2,
+        "snippet": "Newbridge in a big pung sleigh to go to the Debating Club concert at"
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "other of them from prayer meeting or Debating Club."
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "The Debating Club flourished and gave several concerts; there were one"
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "at the Debating Club, filled with the homely, sympathetic faces of"
+      }
+    },
+    "co_occurs_with": {
+      "Gilbert Blythe": 4,
+      "Jane Andrews": 4,
+      "Matthew": 4,
+      "Allan": 3,
+      "Anne Shirley": 3,
+      "Diana": 3,
+      "Green Gables": 3,
+      "Marilla Cuthbert": 3
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 5,
+    "per_chapter": {
+      "21": {
+        "mentions": 5,
+        "snippet": "farewell speech beginning, \u2018The time has come for us to part."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Allan Anne": 1,
+      "Anne Shirley": 1,
+      "Avonlea": 1,
+      "Barry": 1,
+      "Best Vanilla": 1,
+      "Diana Tuesday": 1,
+      "Green Gables": 1
+    }
+  },
+  {
+    "canonical_name": "Academy",
+    "aliases": [],
+    "first_chapter": 34,
+    "total_mentions": 5,
+    "per_chapter": {
+      "34": {
+        "mentions": 5,
+        "snippet": "hurry off to the Academy."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Anne": 1,
+      "Avonlea": 1,
+      "Barry": 1,
+      "Class": 1,
+      "Diana": 1,
+      "Emily": 1,
+      "English Literature": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Alexander Spencer",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cMrs."
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Alexander Spencer": 2,
+      "Bright River": 2,
+      "Green Gables": 2,
+      "Matthew Cuthbert": 2,
+      "Mrs. Rachel": 2,
+      "Mrs. Spencer": 2,
+      "Nova Scotia": 2,
+      "Rachel": 2
+    }
+  },
+  {
+    "canonical_name": "Alexander Spencer",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Alexander Spencer was up here one day before"
+      },
+      "2": {
+        "mentions": 1,
+        "snippet": "Alexander Spencer was to bring him over"
+      }
+    },
+    "co_occurs_with": {
+      "Bright River": 2,
+      "Green Gables": 2,
+      "Matthew Cuthbert": 2,
+      "Mrs. Alexander Spencer": 2,
+      "Mrs. Rachel": 2,
+      "Mrs. Spencer": 2,
+      "Nova Scotia": 2,
+      "Rachel": 2
+    }
+  },
+  {
+    "canonical_name": "Snow Queen",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 1,
+        "snippet": "I called it Snow Queen because it was so white."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "Waters and Bonny and the Snow Queen."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "boughs of the Snow Queen, once more bestarred with its tufts of blossom."
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "the old Snow Queen."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 4,
+      "Marilla": 4,
+      "Anne": 3,
+      "Anne Shirley": 2,
+      "Barry": 2,
+      "Diana": 2,
+      "Matthew Cuthbert": 2,
+      "Shining Waters": 2
+    }
+  },
+  {
+    "canonical_name": "White Sands Hotel",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "\u201cThat\u2019s the White Sands Hotel."
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "White Sands Hotel tonight and her sister is to recite at it."
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "the White Sands Hotel and have dinner there."
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "Anne was dressing for a concert at the White Sands Hotel."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 3,
+      "Anne Shirley": 3,
+      "Green Gables": 3,
+      "Matthew": 3,
+      "Mrs. Allan": 3,
+      "Marilla": 3,
+      "Debating Club": 2,
+      "Diana": 2
+    }
+  },
+  {
+    "canonical_name": "Bolingbroke",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 4,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "\u201cAnd I was born in Bolingbroke, Nova Scotia."
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Bertha Shirley": 1,
+      "Fifth Reader": 1,
+      "Hammond": 1,
+      "James Thompson": 1,
+      "Lake": 1,
+      "Marilla": 1,
+      "Marysville": 1
+    }
+  },
+  {
+    "canonical_name": "Him",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 4,
+    "per_chapter": {
+      "8": {
+        "mentions": 4,
+        "snippet": "notice her--except Him."
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Aunt Marilla": 1,
+      "Barry": 1,
+      "Christ Blessing Little Children": 1,
+      "Cordelia": 1,
+      "Cordelia Fitzgerald": 1,
+      "Dear Snow Queen": 1,
+      "Diana Barry": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Harmon Andrews",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 4,
+    "per_chapter": {
+      "13": {
+        "mentions": 1,
+        "snippet": "Sunday-school picnic next week--in Mr."
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "We had a splendid tea and then Mr."
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "down to Mr."
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 4,
+      "Harmon Andrews": 4,
+      "Mrs. Lynde": 4,
+      "Barry": 3,
+      "Marilla": 3,
+      "Matthew": 3,
+      "Diana": 2,
+      "Mr. Barry": 2
+    }
+  },
+  {
+    "canonical_name": "Conservative",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 4,
+    "per_chapter": {
+      "18": {
+        "mentions": 4,
+        "snippet": "\u201cConservative,\u201d said Matthew promptly."
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 1,
+      "Barry": 1,
+      "Canadian Premier": 1,
+      "Carmody": 1,
+      "Diana": 1,
+      "Dr. Blair": 1,
+      "Dr. Spencer": 1,
+      "Gertie Pye": 1
+    }
+  },
+  {
+    "canonical_name": "Carrie Sloane",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 4,
+    "per_chapter": {
+      "23": {
+        "mentions": 3,
+        "snippet": "First of all Carrie Sloane dared Ruby Gillis to climb to a certain point"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "nodding across the aisle and Carrie Sloane sending up notes and Julia"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 2,
+      "Josie Pye": 2,
+      "Marilla": 2,
+      "Miss Stacy": 2,
+      "Mrs. Lynde": 2,
+      "Ruby Gillis": 2,
+      "Allan": 1,
+      "Avonlea": 1
+    }
+  },
+  {
+    "canonical_name": "Class",
+    "aliases": [],
+    "first_chapter": 34,
+    "total_mentions": 4,
+    "per_chapter": {
+      "34": {
+        "mentions": 4,
+        "snippet": "First Class teacher\u2019s license in one year instead of two, if they were"
+      }
+    },
+    "co_occurs_with": {
+      "Academy": 1,
+      "Allan": 1,
+      "Anne": 1,
+      "Avonlea": 1,
+      "Barry": 1,
+      "Diana": 1,
+      "Emily": 1,
+      "English Literature": 1
+    }
+  },
+  {
+    "canonical_name": "Stella Maynard",
+    "aliases": [],
+    "first_chapter": 35,
+    "total_mentions": 4,
+    "per_chapter": {
+      "35": {
+        "mentions": 2,
+        "snippet": "\u201crose-red\u201d girl, Stella Maynard, and the \u201cdream girl,\u201d Priscilla Grant,"
+      },
+      "36": {
+        "mentions": 2,
+        "snippet": "\u201cI thought you liked that Stella Maynard better than me,\u201d said"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 2,
+      "Avery": 2,
+      "Barry": 2,
+      "Gilbert Blythe": 2,
+      "Green Gables": 2,
+      "Josie Pye": 2,
+      "Miss Barry": 2,
+      "Allan": 1
+    }
+  },
+  {
+    "canonical_name": "Martin",
+    "aliases": [],
+    "first_chapter": 37,
+    "total_mentions": 4,
+    "per_chapter": {
+      "37": {
+        "mentions": 4,
+        "snippet": "\u201cAnne, run for Martin--quick, quick!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Bank": 1,
+      "Allan": 1,
+      "Anne": 1,
+      "Barry": 1,
+      "Charlie Sloane": 1,
+      "Diana": 1,
+      "Doctor Spencer": 1,
+      "Gilbert Blythe": 1
+    }
+  },
+  {
+    "canonical_name": "New Brunswick",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "heard of a case over in New Brunswick where an orphan asylum child did"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "visiting his cousins over in New Brunswick all summer and he only came"
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "A wealthy manufacturer of New Brunswick had died and left part of his"
+      }
+    },
+    "co_occurs_with": {
+      "Avonlea": 3,
+      "Green Gables": 3,
+      "Mrs. Rachel": 2,
+      "Mrs. Spencer": 2,
+      "Rachel": 2,
+      "Spencer": 2,
+      "White Sands": 2,
+      "Barry": 2
+    }
+  },
+  {
+    "canonical_name": "Newbridge",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "The \u201cAvenue,\u201d so called by the Newbridge people, was a stretch of road"
+      }
+    },
+    "co_occurs_with": {
+      "Alexander Spencer": 1,
+      "Avenue": 1,
+      "Barry": 1,
+      "Bright River": 1,
+      "Diana": 1,
+      "Green Gables": 1,
+      "Has Mr": 1,
+      "Hepzibah Jenkins": 1
+    }
+  },
+  {
+    "canonical_name": "Bonny",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "it--let me see--Bonny would do--may I call it Bonny while I\u2019m here?"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Green Gables": 1,
+      "Little Jerry Buote": 1,
+      "Marilla": 1,
+      "Matthew": 1,
+      "Mrs. Spencer": 1,
+      "Nova Scotia": 1,
+      "Shining Waters": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Thomas",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 2,
+        "snippet": "Then Mr."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 2,
+      "Hammond": 2,
+      "Marilla": 2,
+      "Mrs. Hammond": 2,
+      "Mrs. Thomas": 2,
+      "Thomas": 2,
+      "Bertha Shirley": 1,
+      "Bolingbroke": 1
+    }
+  },
+  {
+    "canonical_name": "Marysville",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "Thomas moved away from Bolingbroke to Marysville, and I"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Bertha Shirley": 1,
+      "Bolingbroke": 1,
+      "Fifth Reader": 1,
+      "Hammond": 1,
+      "James Thompson": 1,
+      "Lake": 1,
+      "Marilla": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Cordelia Fitzgerald",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 1,
+        "snippet": "My name is the Lady"
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "the Lady Cordelia Fitzgerald."
+      }
+    },
+    "co_occurs_with": {
+      "Cordelia": 2,
+      "Cordelia Fitzgerald": 2,
+      "Green Gables": 2,
+      "Lady Cordelia": 2,
+      "Marilla": 2,
+      "Aid Society": 1,
+      "Anne Shirley": 1,
+      "Harmon Andrews": 1
+    }
+  },
+  {
+    "canonical_name": "Cordelia Fitzgerald",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 2,
+        "snippet": "Cordelia Fitzgerald."
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "the Lady Cordelia Fitzgerald."
+      }
+    },
+    "co_occurs_with": {
+      "Cordelia": 2,
+      "Green Gables": 2,
+      "Lady Cordelia": 2,
+      "Lady Cordelia Fitzgerald": 2,
+      "Marilla": 2,
+      "Aid Society": 1,
+      "Anne Shirley": 1,
+      "Harmon Andrews": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Cordelia",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 1,
+        "snippet": "just as you are looking now, whenever I try to imagine I\u2019m the Lady"
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "was the Lady Cordelia if I had a real amethyst brooch on."
+      }
+    },
+    "co_occurs_with": {
+      "Cordelia": 2,
+      "Cordelia Fitzgerald": 2,
+      "Green Gables": 2,
+      "Lady Cordelia Fitzgerald": 2,
+      "Marilla": 2,
+      "Aid Society": 1,
+      "Anne Shirley": 1,
+      "Harmon Andrews": 1
+    }
+  },
+  {
+    "canonical_name": "Violetta",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "was a little girl called Violetta and we were great friends and I loved"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Aunt Marilla": 1,
+      "Barry": 1,
+      "Christ Blessing Little Children": 1,
+      "Cordelia": 1,
+      "Cordelia Fitzgerald": 1,
+      "Dear Snow Queen": 1,
+      "Diana Barry": 1
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "Very small and unhappy she looked, and Matthew\u2019s heart"
+      }
+    },
+    "co_occurs_with": {
+      "Anne": 1,
+      "Green Gables": 1,
+      "Marilla": 1,
+      "Matthew Cuthbert": 1,
+      "Mrs. Lynde": 1,
+      "Mrs. Rachel": 1,
+      "Rachel": 1,
+      "Rachel Lynde": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. William Bell",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 3,
+    "per_chapter": {
+      "12": {
+        "mentions": 1,
+        "snippet": "Diana and I are going to build a playhouse in Mr."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "It belongs to Mr."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "When she reached Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 3,
+      "Green Gables": 3,
+      "Marilla": 3,
+      "William Bell": 3,
+      "Diana": 2,
+      "Mrs. Lynde": 2,
+      "Shining Waters": 2,
+      "Anne Shirley": 2
+    }
+  },
+  {
+    "canonical_name": "William Bell",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 3,
+    "per_chapter": {
+      "12": {
+        "mentions": 1,
+        "snippet": "William Bell\u2019s birch grove tomorrow."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "William"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "William Bell\u2019s field she fled across it as if pursued by an army of"
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 3,
+      "Green Gables": 3,
+      "Marilla": 3,
+      "Mr. William Bell": 3,
+      "Diana": 2,
+      "Mrs. Lynde": 2,
+      "Shining Waters": 2,
+      "Anne Shirley": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Andrews",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 1,
+        "snippet": "out to pick water lilies and if Mr."
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "Blythe came along in Mr."
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 3,
+      "Green Gables": 3,
+      "Jane Andrews": 3,
+      "Mrs. Lynde": 3,
+      "Allan": 2,
+      "Barry": 2,
+      "Diana": 2,
+      "Gilbert Blythe": 2
+    }
+  },
+  {
+    "canonical_name": "Lizzie Wright",
+    "aliases": [
+      "Wright"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 1,
+        "snippet": "Wright\u2019s lane"
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "perfectly sickening; and Lizzie Wright didn\u2019t speak to Mamie Wilson"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 2,
+      "Barry": 2,
+      "Gertie Pye": 2,
+      "Gilbert Blythe": 2,
+      "Green Gables": 2,
+      "Mr. Phillips": 2,
+      "Mrs. Lynde": 2,
+      "Ruby Gillis": 2
+    }
+  },
+  {
+    "canonical_name": "Willowmere",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "unromantic; but to go by Lover\u2019s Lane and Willowmere and Violet Vale and"
+      }
+    },
+    "co_occurs_with": {
+      "About Anne": 1,
+      "Alice Andrews": 1,
+      "Andrew Bell": 1,
+      "Ann Shirley": 1,
+      "Anne Shirley": 1,
+      "Avonlea": 1,
+      "Barry": 1,
+      "Birch Path": 1
+    }
+  },
+  {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 3,
+    "per_chapter": {
+      "16": {
+        "mentions": 3,
+        "snippet": "Don\u2019t"
+      }
+    },
+    "co_occurs_with": {
+      "Aid Society": 1,
+      "Anne Shirley": 1,
+      "Barry": 1,
+      "Carmody": 1,
+      "Chester Ross": 1,
+      "Em White": 1,
+      "Gertie Pye": 1,
+      "Gilbert Blythe": 1
+    }
+  },
+  {
+    "canonical_name": "Let",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 3,
+    "per_chapter": {
+      "16": {
+        "mentions": 3,
+        "snippet": "\u201cLet\u2019s go out to the orchard and get some of the Red Sweetings,"
+      }
+    },
+    "co_occurs_with": {
+      "Aid Society": 1,
+      "Anne Shirley": 1,
+      "Barry": 1,
+      "Carmody": 1,
+      "Chester Ross": 1,
+      "Don": 1,
+      "Em White": 1,
+      "Gertie Pye": 1
+    }
+  },
+  {
+    "canonical_name": "Young Mary Joe",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "awful bad and Young Mary Joe doesn\u2019t know what to do--and oh, Anne, I\u2019m"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 1,
+      "Barry": 1,
+      "Canadian Premier": 1,
+      "Carmody": 1,
+      "Conservative": 1,
+      "Diana": 1,
+      "Dr. Blair": 1,
+      "Dr. Spencer": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Marilla Cuthbert",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 3,
+    "per_chapter": {
+      "19": {
+        "mentions": 3,
+        "snippet": "go home to Miss Marilla Cuthbert."
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 1,
+      "Aunt Josephine": 1,
+      "Avonlea Debating Club": 1,
+      "Barry": 1,
+      "Debating Club": 1,
+      "Diana": 1,
+      "Far Above the Gentle Daisies": 1,
+      "Gilbert Blythe": 1
+    }
+  },
+  {
+    "canonical_name": "Sloanes",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 3,
+    "per_chapter": {
+      "26": {
+        "mentions": 3,
+        "snippet": "None of the Sloanes"
+      }
+    },
+    "co_occurs_with": {
+      "Alice Bell": 1,
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Aunt Josephine": 1,
+      "Barry": 1,
+      "Bells": 1,
+      "Bertram": 1,
+      "Bessie Wright": 1
+    }
+  },
+  {
+    "canonical_name": "Bells",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 3,
+    "per_chapter": {
+      "26": {
+        "mentions": 3,
+        "snippet": "would have any dealings with the Bells, because the Bells had declared"
+      }
+    },
+    "co_occurs_with": {
+      "Alice Bell": 1,
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Aunt Josephine": 1,
+      "Barry": 1,
+      "Bertram": 1,
+      "Bessie Wright": 1,
+      "Birch Path": 1
+    }
+  },
+  {
+    "canonical_name": "Susan",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 3,
+    "per_chapter": {
+      "26": {
+        "mentions": 3,
+        "snippet": "Malcolm Andres proposed to her sister Susan."
+      }
+    },
+    "co_occurs_with": {
+      "Alice Bell": 1,
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Aunt Josephine": 1,
+      "Barry": 1,
+      "Bells": 1,
+      "Bertram": 1,
+      "Bessie Wright": 1
+    }
+  },
+  {
+    "canonical_name": "Aid",
+    "aliases": [],
+    "first_chapter": 27,
+    "total_mentions": 3,
+    "per_chapter": {
+      "27": {
+        "mentions": 3,
+        "snippet": "MARILLA, walking home one late April evening from an Aid meeting,"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Angel Gabriel": 1,
+      "Anne": 1,
+      "Anne Shirley": 1,
+      "Diana": 1,
+      "German Jew": 1,
+      "Green Gables": 1,
+      "Josie Pye": 1
+    }
+  },
+  {
+    "canonical_name": "Lancelot",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 3,
+    "per_chapter": {
+      "28": {
+        "mentions": 3,
+        "snippet": "left in it for them, but at least the fair lily maid and Lancelot and"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Barry": 1,
+      "Camelot": 1,
+      "Dear God": 1,
+      "Diana": 1,
+      "Edward Island": 1,
+      "Elaine": 1
+    }
+  },
+  {
+    "canonical_name": "Guinevere",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 3,
+    "per_chapter": {
+      "28": {
+        "mentions": 3,
+        "snippet": "Guinevere and King Arthur had become very real people to them, and Anne"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Barry": 1,
+      "Camelot": 1,
+      "Dear God": 1,
+      "Diana": 1,
+      "Edward Island": 1,
+      "Elaine": 1
+    }
+  },
+  {
+    "canonical_name": "Camelot",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 3,
+    "per_chapter": {
+      "28": {
+        "mentions": 3,
+        "snippet": "was devoured by secret regret that she had not been born in Camelot."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Barry": 1,
+      "Dear God": 1,
+      "Diana": 1,
+      "Edward Island": 1,
+      "Elaine": 1,
+      "Gilbert Blythe": 1
+    }
+  },
+  {
+    "canonical_name": "Exhibition",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 3,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "Exhibition."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Anne": 1,
+      "Aunt Josephine": 1,
+      "Barry": 1,
+      "Charlotte Gillis": 1,
+      "Diana": 1,
+      "Green Gables": 1,
+      "Harmon Andrews": 1
+    }
+  },
+  {
+    "canonical_name": "Spencervale",
+    "aliases": [],
+    "first_chapter": 31,
+    "total_mentions": 3,
+    "per_chapter": {
+      "31": {
+        "mentions": 3,
+        "snippet": "The Spencervale"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Anne": 1,
+      "Avonlea": 1,
+      "Bright River": 1,
+      "Debating Club": 1,
+      "Entrance": 1,
+      "Gilbert Blythe": 1,
+      "Jane Andrews": 1
+    }
+  },
+  {
+    "canonical_name": "Titian",
+    "aliases": [],
+    "first_chapter": 33,
+    "total_mentions": 3,
+    "per_chapter": {
+      "33": {
+        "mentions": 3,
+        "snippet": "splendid Titian hair?"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Avonlea": 1,
+      "Billy": 1,
+      "Charlottetown Symphony Club": 1,
+      "Debating Club": 1,
+      "Diana": 1,
+      "Gilbert Blythe": 1
+    }
+  },
+  {
+    "canonical_name": "Emily",
+    "aliases": [],
+    "first_chapter": 34,
+    "total_mentions": 3,
+    "per_chapter": {
+      "34": {
+        "mentions": 3,
+        "snippet": "pick it in town last week, and we\u2019ll get Emily Gillis to make it for"
+      }
+    },
+    "co_occurs_with": {
+      "Academy": 1,
+      "Allan": 1,
+      "Anne": 1,
+      "Avonlea": 1,
+      "Barry": 1,
+      "Class": 1,
+      "Diana": 1,
+      "English Literature": 1
+    }
+  },
+  {
+    "canonical_name": "First",
+    "aliases": [],
+    "first_chapter": 34,
+    "total_mentions": 3,
+    "per_chapter": {
+      "34": {
+        "mentions": 3,
+        "snippet": "First Class teacher\u2019s license in one year instead of two, if they were"
+      }
+    },
+    "co_occurs_with": {
+      "Academy": 1,
+      "Allan": 1,
+      "Anne": 1,
+      "Avonlea": 1,
+      "Barry": 1,
+      "Class": 1,
+      "Diana": 1,
+      "Emily": 1
+    }
+  },
+  {
+    "canonical_name": "Professor Tremaine",
+    "aliases": [
+      "Tremaine"
+    ],
+    "first_chapter": 35,
+    "total_mentions": 3,
+    "per_chapter": {
+      "35": {
+        "mentions": 3,
+        "snippet": "that Professor Tremaine said Gilbert Blythe was sure to get the medal"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 1,
+      "Avery": 1,
+      "Avonlea the Mayflowers": 1,
+      "Barry": 1,
+      "Frank Stockley": 1,
+      "Gilbert Blythe": 1,
+      "Green Gables": 1,
+      "Jane Andrews": 1
+    }
+  },
+  {
+    "canonical_name": "Redmond",
+    "aliases": [],
+    "first_chapter": 38,
+    "total_mentions": 3,
+    "per_chapter": {
+      "38": {
+        "mentions": 3,
+        "snippet": "going to Redmond."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 1,
+      "Anne Shirley": 1,
+      "Avonlea": 1,
+      "Barry": 1,
+      "Carmody": 1,
+      "Diana": 1,
+      "Gilbert Blythe": 1,
+      "Green Gables": 1
+    }
+  }
+]

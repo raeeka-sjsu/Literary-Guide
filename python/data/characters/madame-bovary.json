@@ -1,0 +1,3126 @@
+[
+  {
+    "canonical_name": "Madame Bovary",
+    "aliases": [
+      "Bovary"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 326,
+    "per_chapter": {
+      "1": {
+        "mentions": 326,
+        "snippet": "\u201d Madame Bovary bit her lips, and the child"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Lheureux",
+    "aliases": [
+      "Lheureux"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 71,
+    "per_chapter": {
+      "1": {
+        "mentions": 71,
+        "snippet": "Monsieur Lheureux, a draper, who happened to be in the coach with"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Homais",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 70,
+    "per_chapter": {
+      "1": {
+        "mentions": 70,
+        "snippet": "chemist\u2019s shop of Monsieur Homais."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Homais",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 69,
+    "per_chapter": {
+      "1": {
+        "mentions": 69,
+        "snippet": "chemist\u2019s shop of Monsieur Homais."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Yonville",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 66,
+    "per_chapter": {
+      "1": {
+        "mentions": 66,
+        "snippet": "called Yonville-l\u2019Abbaye, whose doctor, a Polish refugee, had decamped a"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Lefrancois",
+    "aliases": [
+      "Lefrancois"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 64,
+    "per_chapter": {
+      "1": {
+        "mentions": 64,
+        "snippet": "\u201cSince that one is coming to pieces, Madame Lefrancois."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Homais",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 52,
+    "per_chapter": {
+      "1": {
+        "mentions": 52,
+        "snippet": "for his education; Madame Homais liked him for his good-nature, for"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Bovary",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 45,
+    "per_chapter": {
+      "1": {
+        "mentions": 45,
+        "snippet": "Monsieur Bovary, caring little for letters, said, \u201cIt was not worth"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Justin",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 38,
+    "per_chapter": {
+      "1": {
+        "mentions": 38,
+        "snippet": "Besides the servant to look after them, they had Justin, the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Bournisien",
+    "aliases": [
+      "Bournisien"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 37,
+    "per_chapter": {
+      "1": {
+        "mentions": 37,
+        "snippet": "to go on a pilgrimage to Bon-Secours if he were cured; to which Monsieur"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Guillaumin",
+    "aliases": [
+      "Guillaumin"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 32,
+    "per_chapter": {
+      "1": {
+        "mentions": 32,
+        "snippet": "notary\u2019s, Monsieur Guillaumin, Monsieur L\u00e9on Dupuis (it was he who"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Canivet",
+    "aliases": [
+      "Canivet"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 29,
+    "per_chapter": {
+      "1": {
+        "mentions": 29,
+        "snippet": "asked him if she could not, as a forlorn hope, send for Monsieur Canivet"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Binet",
+    "aliases": [
+      "Binet"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 28,
+    "per_chapter": {
+      "1": {
+        "mentions": 28,
+        "snippet": "And what about Monsieur Binet?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 28,
+    "per_chapter": {
+      "1": {
+        "mentions": 28,
+        "snippet": "Then, in a gentler tone, \u201cCome, you\u2019ll find your cap again; it hasn\u2019t"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Rouault",
+    "aliases": [
+      "Rouault"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 24,
+    "per_chapter": {
+      "1": {
+        "mentions": 24,
+        "snippet": "that Monsieur Rouault must be one of the well-to-do farmers."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Hirondelle",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 23,
+    "per_chapter": {
+      "1": {
+        "mentions": 23,
+        "snippet": "The \u2018Hirondelle\u2019 might run into it when"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Boulanger",
+    "aliases": [
+      "Boulanger"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 22,
+    "per_chapter": {
+      "1": {
+        "mentions": 22,
+        "snippet": "Monsieur Boulanger introduced his man, who"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Tuvache",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 21,
+    "per_chapter": {
+      "1": {
+        "mentions": 21,
+        "snippet": "evening this was known in Yonville, and Madame Tuvache, the mayor\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Bertaux",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 21,
+    "per_chapter": {
+      "1": {
+        "mentions": 21,
+        "snippet": "Bovary to come immediately to the farm of the Bertaux to set a broken"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Lion",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 21,
+    "per_chapter": {
+      "1": {
+        "mentions": 21,
+        "snippet": "But that which most attracts the eye is opposite the Lion d\u2019Or inn, the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Tuvache",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 19,
+    "per_chapter": {
+      "1": {
+        "mentions": 19,
+        "snippet": "evening this was known in Yonville, and Madame Tuvache, the mayor\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Tuvache",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 19,
+    "per_chapter": {
+      "1": {
+        "mentions": 19,
+        "snippet": "publicans, the cure, and finally, Monsieur Tuvache, the mayor, with his"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Are",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 17,
+    "per_chapter": {
+      "1": {
+        "mentions": 17,
+        "snippet": "\u201cAre you the doctor?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Lestiboudois",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 15,
+    "per_chapter": {
+      "1": {
+        "mentions": 15,
+        "snippet": "\u201cYou live on the dead, Lestiboudois!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Hivert",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 15,
+    "per_chapter": {
+      "1": {
+        "mentions": 15,
+        "snippet": "But that dawdler, Hivert, doesn\u2019t come!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Derozerays",
+    "aliases": [
+      "Derozerays"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 13,
+    "per_chapter": {
+      "1": {
+        "mentions": 13,
+        "snippet": "This was the president of the jury, Monsieur Derozerays de"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Caron",
+    "aliases": [
+      "Caron"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 13,
+    "per_chapter": {
+      "1": {
+        "mentions": 13,
+        "snippet": "These were Madame Langlois, Madame Caron,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Vaubyessard",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 13,
+    "per_chapter": {
+      "1": {
+        "mentions": 13,
+        "snippet": "life; she was invited by the Marquis d\u2019Andervilliers to Vaubyessard."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Not",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "Not like Monsieur L\u00e9on; he sometimes comes"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Viscount",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 11,
+        "snippet": "One of the waltzers, however, who was familiarly called Viscount, and"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Take",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 11,
+        "snippet": "\u201cTake her away,\u201d she said."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Lariviere",
+    "aliases": [
+      "Lariviere"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "away from celebrities, so he begged Monsieur Lariviere to do him the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Mademoiselle Lempereur",
+    "aliases": [
+      "Lempereur"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "\u201cIt is Mademoiselle Lempereur, isn\u2019t it, who gives you lessons?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Sundays",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "Sundays after his shop was shut, sent him for a walk on the quay to"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Rodolphe",
+    "aliases": [
+      "Rodolphe"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "And as she objected that she had no horse, Monsieur Rodolphe offered"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Dubreuil",
+    "aliases": [
+      "Dubreuil"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "Madame Dubreuil, Madame Tuvache, and regularly from two to five o\u2019clock"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Vincart",
+    "aliases": [
+      "Vincart"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "house, saying he had been sent by Monsieur Vincart of Rouen."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "Don\u2019t I know all about it?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Have",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "\u201cHave you given her warning for good?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Poor",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "\u201cPoor fellow!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Croix",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "The diligence stopped at the \u201cCroix-Rouge\u201d in the Place Beauvoisine."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Rouge",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 9,
+        "snippet": "The diligence stopped at the \u201cCroix-Rouge\u201d in the Place Beauvoisine."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Mademoiselle Emma",
+    "aliases": [
+      "Emma"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "Mademoiselle Emma tried to sew some pads."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Lieuvain",
+    "aliases": [
+      "Lieuvain"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "Monsieur Lieuvain had just wiped his mouth with a pocket-handkerchief."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Never",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "Never speaks a rough word!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Government",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "I, if I were the Government, I\u2019d have"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Athalie",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "romanticism, but Athalie was a homage to the greatest masterpiece of the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Mere Rollet",
+    "aliases": [
+      "Rollet"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "\u201cDo make haste, Mere Rollet!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Get",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "\u201cGet rid of your helmet,\u201d said the master, who was a bit of a wag."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Will",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "\u201cWill you take something?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Certainly",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "\u201cCertainly,\u201d replied the clerk."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Lagardy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 7,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "Lagardy."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Dubuc",
+    "aliases": [
+      "Dubuc"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "the spring has buds, Madame Dubuc had no lack of suitors."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Six",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Six months more passed, and the year after Charles was finally sent to"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Gothic",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "in Gothic letters \u201cTo dear Papa."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Andervilliers",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "life; she was invited by the Marquis d\u2019Andervilliers to Vaubyessard."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Normandy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Here we are on the confines of Normandy, Picardy, and the Ile-de-France,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Excuse",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Bovary, \u201cExcuse me,\u201d he said; \u201cI did not recognise you."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Can",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "\u201cCan he suspect anything?"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Honour",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Honour, then, to the generous savants!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Guillaume",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "makes the experiment before his friends at his summer-house at Guillaume"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Bridoux",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 6,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "a glass of garus at Bridoux\u2019."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Mademoiselle Rouault",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Mademoiselle Rouault did not at all like the country, especially now"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "La Huchette",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "house--\u201cTell him that Monsieur Rodolphe Boulanger of La Huchette is"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Yvetot",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "better by the first doctor of Yvetot, or even of Rouen."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Three",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Chapter Three"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Four",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Chapter Four"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Jean",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "She read: \u201cJean-Antoine"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Spanish",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "After supper, where were plenty of Spanish and Rhine wines, soups _\u00e0 la"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Bois",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "addresses of the best tailors, the days of the Bois and the Opera."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Argueil",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Argueil, with the steeps of the Saint-Jean hills scarred from top"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Quincampoix",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "fragments on the pavements of Quincampoix!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "\u201cVery well!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Pshaw",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Pshaw!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Adieu",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "Adieu!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1,
+      "Andervilliers": 1
+    }
+  },
+  {
+    "canonical_name": "Capharnaum",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "\u201cWho told you to go and fetch it in the Capharnaum."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Derozeray",
+    "aliases": [
+      "Derozeray"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "quantity of other things, and Bovary was impatiently expecting Monsieur"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Langlois",
+    "aliases": [
+      "Langlois"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "These were Madame Langlois, Madame Caron,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Lormeaux",
+    "aliases": [
+      "Lormeaux"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Monsieur Lormeaux, of the Rue Grand-Pont, was"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Fanal de Rouen",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "periodicals, among them the \u2018Fanal de Rouen\u2019 daily, having the advantage"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Mere Lefrancois",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "This did not prevent Mere Lefrancois, from coming five days after,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Five",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cFive hundred lines for all the class!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Silence",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cSilence!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Latin",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "of his village who had taught him his first Latin; his parents, from"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Dieppe",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Dieppe--who was forty-five and had an income of twelve hundred francs."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Marchioness",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Marchioness herself) came to meet Emma."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Lent",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Bovary senior, when she came to spend part of Lent at Tostes, was much"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Abbaye",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "called Yonville-l\u2019Abbaye, whose doctor, a Polish refugee, had decamped a"
+      }
+    },
+    "co_occurs_with": {
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1,
+      "Andervilliers": 1
+    }
+  },
+  {
+    "canonical_name": "Buchy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "to be its correspondent for the districts of Buchy, Forges, Neufch\u00e2tel,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Because",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cBecause--\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsignor",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "other day I repeated that just to Monsignor, and he laughed at it; he"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Courage",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cCourage!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Despite",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201c\u2018Despite the prejudices that still invest a part of the face of Europe"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Sit",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cSit down,\u201d she said; \u201cyou fidget me."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Really",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "\u201cReally!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Edgar",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Suddenly Edgar-Lagardy"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Barneville",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 4,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "reminded her of a miserable little hovel situated at Barneville, near"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Roger",
+    "aliases": [
+      "Roger"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cMonsieur Roger, here is a pupil whom I recommend to your care; he\u2019ll be"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Charles",
+    "aliases": [
+      "Charles"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Monsieur and Madame Charles arrived at Tostes about six o\u2019clock."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Lady Superior",
+    "aliases": [
+      "Superior"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "The Lady Superior even thought that she"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Arabella",
+    "aliases": [
+      "Arabella"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "young man who the week before had beaten \u201cMiss Arabella\u201d and \u201cRomolus,\u201d"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Rodolphe Boulanger",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "house--\u201cTell him that Monsieur Rodolphe Boulanger of La Huchette is"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Rodolphe Boulanger",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "house--\u201cTell him that Monsieur Rodolphe Boulanger of La Huchette is"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Leigeard",
+    "aliases": [
+      "Leigeard"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cAbout six o\u2019clock a banquet prepared in the meadow of Monsieur Leigeard"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Leplichey",
+    "aliases": [
+      "Leplichey"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "sisters; Monsieur Leplichey, Progress."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Alexandre",
+    "aliases": [
+      "Alexandre"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cWell, I spent the afternoon at Monsieur Alexandre\u2019s."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Boulard",
+    "aliases": [
+      "Boulard"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "certain limit he wrote to Monsieur Boulard, bookseller to Monsignor,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Liegard",
+    "aliases": [
+      "Liegard"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Madame Liegard assured me that her three young ladies who are at"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Liegeard",
+    "aliases": [
+      "Liegeard"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cWell, I saw her just now,\u201d Charles went on, \u201cat Madame Liegeard\u2019s."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "National Guard",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "The National Guard of Buchy (there was"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Hotel de Boulogne",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Arrived in front of the Hotel de Boulogne, L\u00e9on left him abruptly, ran"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Maitre Hareng",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cMaitre Hareng, bailiff at Buchy,\u201d so frightened her that she rushed in"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Antoine",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Marie-Antoine-Jules Senard"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Dear",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Dear and Illustrious Friend,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Charbovari",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "in the word \u201cCharbovari."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Picardy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "the provinces of Caux and Picardy, in a kind of place half farm, half"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Victor",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "country by way of Longueville and Saint-Victor."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Vassonville",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "As he passed Vassonville he came upon a boy sitting on the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Seven",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Chapter Seven"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Eight",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Chapter Eight"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Bovarys",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "being crammed in, the Bovarys paid their respects to the Marquis and"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Nastasie",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Nastasie answered rudely."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Nine",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Chapter Nine"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Church",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "The Church is on the other side of the street, twenty paces farther"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Last",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cLast week two travelers in the"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Angelus",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "evening, he left for the church, from which the Angelus was ringing."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Franklin",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Franklin, of Voltaire, and of Beranger!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Dupuis",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "notary\u2019s, Monsieur Guillaumin, Monsieur L\u00e9on Dupuis (it was he who"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Seine",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "themselves passing over the Seine, reach us sometimes all at once like"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Has",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cHas it ever happened to you,\u201d L\u00e9on went on, \u201cto come across some vague"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Irma",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "represented glory and Franklin liberty; Irma was perhaps a concession to"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Always",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cAlways very busy, no doubt; for he and I are certainly the busiest"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Ambrose Pare": 1,
+      "Andervilliers": 1
+    }
+  },
+  {
+    "canonical_name": "Look",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cLook, dear!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Bah",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cBah!"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Midnight",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Midnight struck."
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Girard",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "the bottom under some vine leaves, and at once ordered Girard, his"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Ashton",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Ashton, Charles, seeing the false troth-ring that is to deceive Lucie,"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Unless",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cUnless,\u201d he"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  },
+  {
+    "canonical_name": "Chinese",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "He would have quoted Chinese"
+      }
+    },
+    "co_occurs_with": {
+      "Abbaye": 1,
+      "Abbe Bournisien": 1,
+      "Abbe Frayssinous": 1,
+      "Adieu": 1,
+      "Agnes Sorel": 1,
+      "Agricultural Society": 1,
+      "Always": 1,
+      "Ambrose Pare": 1
+    }
+  }
+]

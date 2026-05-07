@@ -114,6 +114,66 @@
     ]
   },
   {
+    "id": "nq-anne-green-gables-1",
+    "category": "spoiler_trap",
+    "book_id": "anne-green-gables",
+    "current_chapter": 5,
+    "question": "What Canadian province is Anne from?",
+    "forbidden_keywords": [
+      "Nova Scotia",
+      "Prince Edward Island"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Nova Scotia",
+      "Prince Edward Island"
+    ]
+  },
+  {
+    "id": "nq-anne-green-gables-2",
+    "category": "spoiler_trap",
+    "book_id": "anne-green-gables",
+    "current_chapter": 5,
+    "question": "Where is Anne sent?",
+    "forbidden_keywords": [
+      "Prince Edward Island"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Prince Edward Island",
+      "Prince Edward Island."
+    ]
+  },
+  {
+    "id": "nq-anne-green-gables-3",
+    "category": "spoiler_trap",
+    "book_id": "anne-green-gables",
+    "current_chapter": 5,
+    "question": "Who adopts Anne?",
+    "forbidden_keywords": [
+      "Matthew Cuthbert",
+      "Mathew Cuthbert"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Marilla & Matthew Cuthbert",
+      "Marilla and Mathew Cuthbert"
+    ]
+  },
+  {
+    "id": "nq-anne-green-gables-4",
+    "category": "spoiler_trap",
+    "book_id": "anne-green-gables",
+    "current_chapter": 5,
+    "question": "How are Marilla and Matthew related?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "siblings",
+      "They are siblings."
+    ]
+  },
+  {
     "id": "nq-emma-1",
     "category": "spoiler_trap",
     "book_id": "emma",
@@ -226,6 +286,276 @@
     ]
   },
   {
+    "id": "nq-hound-baskervilles-1",
+    "category": "spoiler_trap",
+    "book_id": "hound-baskervilles",
+    "current_chapter": 5,
+    "question": "Who asks Sherlock Homes to investigate the death of Sir Charles Baskerville?",
+    "forbidden_keywords": [
+      "Dr. James"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Dr. James Mortimer",
+      "Dr. James Mortimer"
+    ]
+  },
+  {
+    "id": "nq-hound-baskervilles-2",
+    "category": "spoiler_trap",
+    "book_id": "hound-baskervilles",
+    "current_chapter": 5,
+    "question": "Who is Selden to Mrs. Barrymore?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "A brother",
+      "her brother"
+    ]
+  },
+  {
+    "id": "nq-hound-baskervilles-3",
+    "category": "spoiler_trap",
+    "book_id": "hound-baskervilles",
+    "current_chapter": 5,
+    "question": "Why did Stapleton take Sir Henry's boots?",
+    "forbidden_keywords": [
+      "Sir Henry"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "To give the hound Sir Henry's scent",
+      "To give the hound his scent."
+    ]
+  },
+  {
+    "id": "nq-hound-baskervilles-4",
+    "category": "spoiler_trap",
+    "book_id": "hound-baskervilles",
+    "current_chapter": 5,
+    "question": "Why did the hound mistake Selden for Sir Henry?",
+    "forbidden_keywords": [
+      "Sir Henry"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Selden was wearing Sir Henry's clothes",
+      "because Selden was wearing Sir Henry's old clothes"
+    ]
+  },
+  {
+    "id": "nq-hunchback-notre-dame-1",
+    "category": "spoiler_trap",
+    "book_id": "hunchback-notre-dame",
+    "current_chapter": 5,
+    "question": "What crime is Esmeralda accused of?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "The attempted murder of Phoebus.",
+      "Attempted murder"
+    ]
+  },
+  {
+    "id": "nq-hunchback-notre-dame-2",
+    "category": "spoiler_trap",
+    "book_id": "hunchback-notre-dame",
+    "current_chapter": 5,
+    "question": "Who is the leader of the Gypsies?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Clopin",
+      "Clopin"
+    ]
+  },
+  {
+    "id": "nq-hunchback-notre-dame-3",
+    "category": "spoiler_trap",
+    "book_id": "hunchback-notre-dame",
+    "current_chapter": 5,
+    "question": "What happens to the skeletons at the end of the story?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "They crumble to dust.",
+      "They crumble to dust when someone attempts to separate them"
+    ]
+  },
+  {
+    "id": "nq-hunchback-notre-dame-4",
+    "category": "spoiler_trap",
+    "book_id": "hunchback-notre-dame",
+    "current_chapter": 5,
+    "question": "Where does Quasimodo die?",
+    "forbidden_keywords": [
+      "In Montfaucon"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "In Montfaucon next to Esmeralda's body.",
+      "Graveyard "
+    ]
+  },
+  {
+    "id": "nq-madame-bovary-1",
+    "category": "spoiler_trap",
+    "book_id": "madame-bovary",
+    "current_chapter": 5,
+    "question": "What does Charles Bovary's new classmates do to him?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "ridicule him",
+      "They ridicule him."
+    ]
+  },
+  {
+    "id": "nq-madame-bovary-2",
+    "category": "spoiler_trap",
+    "book_id": "madame-bovary",
+    "current_chapter": 5,
+    "question": "What kind of degree does Charles obtain?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "medical",
+      "a second rate medical degree"
+    ]
+  },
+  {
+    "id": "nq-madame-bovary-3",
+    "category": "spoiler_trap",
+    "book_id": "madame-bovary",
+    "current_chapter": 5,
+    "question": "Where does Charles become an officer?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "de sante in the public health service",
+      "Normandy."
+    ]
+  },
+  {
+    "id": "nq-madame-bovary-4",
+    "category": "spoiler_trap",
+    "book_id": "madame-bovary",
+    "current_chapter": 5,
+    "question": "Who choses Charles' wife?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "his mother",
+      "his mother"
+    ]
+  },
+  {
+    "id": "nq-persuasion-1",
+    "category": "spoiler_trap",
+    "book_id": "persuasion",
+    "current_chapter": 5,
+    "question": "How old was Anne Elliot when she became engaged to Commander Frederick Wentworth?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "19",
+      "Nineteen years old."
+    ]
+  },
+  {
+    "id": "nq-persuasion-2",
+    "category": "spoiler_trap",
+    "book_id": "persuasion",
+    "current_chapter": 5,
+    "question": "By the end of the war, who is residing at Kellynch Hall?",
+    "forbidden_keywords": [
+      "Admiral Croft"
+    ],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Admiral Croft and his wife Sophia",
+      "Croft and Sophia"
+    ]
+  },
+  {
+    "id": "nq-persuasion-3",
+    "category": "spoiler_trap",
+    "book_id": "persuasion",
+    "current_chapter": 5,
+    "question": "Under what circumstance does Anne meet up with her one-time fiancee Frederick Wentworth?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Anne is visiting her sister Mary and Frederick is visiting his sister Sophia",
+      "at a hotel where he writes her a letter professing his love"
+    ]
+  },
+  {
+    "id": "nq-persuasion-4",
+    "category": "spoiler_trap",
+    "book_id": "persuasion",
+    "current_chapter": 5,
+    "question": "Frederick learns that Anne had another proposal of marriage from Charles Hayter who is now engaged to which sister of Charles Musgrove?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Henrietta",
+      "Henrietta"
+    ]
+  },
+  {
+    "id": "nq-phantom-opera-1",
+    "category": "spoiler_trap",
+    "book_id": "phantom-opera",
+    "current_chapter": 5,
+    "question": "What is the phantom's name?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Erik",
+      "Erik"
+    ]
+  },
+  {
+    "id": "nq-phantom-opera-2",
+    "category": "spoiler_trap",
+    "book_id": "phantom-opera",
+    "current_chapter": 5,
+    "question": "What opera was being performed at the Paris Opera?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Faust",
+      "Faust"
+    ]
+  },
+  {
+    "id": "nq-phantom-opera-3",
+    "category": "spoiler_trap",
+    "book_id": "phantom-opera",
+    "current_chapter": 5,
+    "question": "Who lost her voice during a performance?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "Carlotta",
+      "Carlotta"
+    ]
+  },
+  {
+    "id": "nq-phantom-opera-4",
+    "category": "spoiler_trap",
+    "book_id": "phantom-opera",
+    "current_chapter": 5,
+    "question": "Where is Raoul and the Persian trapped by Erik?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "torture chamber",
+      "A hot torture chamber "
+    ]
+  },
+  {
     "id": "nq-picture-of-dorian-gray-1",
     "category": "spoiler_trap",
     "book_id": "picture-of-dorian-gray",
@@ -275,6 +605,58 @@
     "reference_answers": [
       "the rings on his fingers",
       "The rings on his fingers"
+    ]
+  },
+  {
+    "id": "nq-robinson-crusoe-1",
+    "category": "spoiler_trap",
+    "book_id": "robinson-crusoe",
+    "current_chapter": 5,
+    "question": "What career does Robinson Crusoe's parent's want him to pursue?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "They want him to be a lawyer.",
+      "law"
+    ]
+  },
+  {
+    "id": "nq-robinson-crusoe-2",
+    "category": "spoiler_trap",
+    "book_id": "robinson-crusoe",
+    "current_chapter": 5,
+    "question": "Why was Robinson Crusoe's first journey not successful?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "His ship was wrecked in a storm.",
+      "storm wreck"
+    ]
+  },
+  {
+    "id": "nq-robinson-crusoe-3",
+    "category": "spoiler_trap",
+    "book_id": "robinson-crusoe",
+    "current_chapter": 5,
+    "question": "Why was Robinson Crusoe's second journey not successful?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "He was captured by pirates and held captive for 2 years.",
+      "the ship is taken over by pirates"
+    ]
+  },
+  {
+    "id": "nq-robinson-crusoe-4",
+    "category": "spoiler_trap",
+    "book_id": "robinson-crusoe",
+    "current_chapter": 5,
+    "question": "What was Robinson Crusoe doing when he got shipwrecked at \"the island of despair\"?",
+    "forbidden_keywords": [],
+    "source": "narrativeqa",
+    "reference_answers": [
+      "He was bringing slaves from Africa.",
+      "bringing slaves from Africa"
     ]
   },
   {

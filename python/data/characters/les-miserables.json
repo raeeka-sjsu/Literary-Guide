@@ -1,0 +1,2634 @@
+[
+  {
+    "canonical_name": "Marius",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 228,
+    "per_chapter": {
+      "1": {
+        "mentions": 55,
+        "snippet": "Marius, be it said in passing, a"
+      },
+      "4": {
+        "mentions": 57,
+        "snippet": "Marius left the table, and was on the point of withdrawing to his"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "It is Monsieur Marius."
+      },
+      "12": {
+        "mentions": 13,
+        "snippet": "Basque and the porter had carried Marius into the drawing-room, as he"
+      },
+      "14": {
+        "mentions": 23,
+        "snippet": "\u201cYes,\u201d said Marius."
+      },
+      "17": {
+        "mentions": 17,
+        "snippet": "Marius decided that the moment had now arrived when he must resume his"
+      },
+      "18": {
+        "mentions": 5,
+        "snippet": "out in the case of Marius, and we shall see the consequences; they are"
+      },
+      "20": {
+        "mentions": 41,
+        "snippet": "Marius felt proud of that unknown man."
+      },
+      "21": {
+        "mentions": 4,
+        "snippet": "The barricade had Enjolras at one of its extremities and Marius at the"
+      },
+      "22": {
+        "mentions": 4,
+        "snippet": "Enjolras and Marius at the two extremities of the barricade, the"
+      },
+      "24": {
+        "mentions": 8,
+        "snippet": "Marius was, in fact, a prisoner."
+      }
+    },
+    "co_occurs_with": {
+      "Jean Valjean": 4,
+      "Basque": 4,
+      "Jondrette": 4,
+      "Pontmercy": 4,
+      "Colonel Pontmercy": 3,
+      "Rue Saint": 3,
+      "Enjolras": 2,
+      "Javert": 2
+    }
+  },
+  {
+    "canonical_name": "Cosette",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 114,
+    "per_chapter": {
+      "4": {
+        "mentions": 20,
+        "snippet": "Cosette had taken the grandfather\u2019s arm and was strolling in the"
+      },
+      "8": {
+        "mentions": 66,
+        "snippet": "Cosette could not refrain from casting a sidelong glance at the big"
+      },
+      "9": {
+        "mentions": 23,
+        "snippet": "the wife, who was thinking of the doll bestowed on Cosette in the"
+      },
+      "13": {
+        "mentions": 5,
+        "snippet": "But what will become of Cosette?"
+      }
+    },
+    "co_occurs_with": {
+      "Monsieur le Baron": 3,
+      "Javert": 2,
+      "Madame": 2,
+      "Eternal Father": 1,
+      "Fantine": 1,
+      "Holy Virgin": 1,
+      "Inspector Javert": 1,
+      "Monsieur Bamatabois": 1
+    }
+  },
+  {
+    "canonical_name": "Jean Valjean",
+    "aliases": [
+      "Jean"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 64,
+    "per_chapter": {
+      "1": {
+        "mentions": 23,
+        "snippet": "\u201d asked Jean Valjean."
+      },
+      "3": {
+        "mentions": 16,
+        "snippet": "than Jean Valjean."
+      },
+      "4": {
+        "mentions": 16,
+        "snippet": "\u201cHis name is Jean Valjean."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "5 (return) [ This parenthesis is due to Jean Valjean."
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "Javert raised his head, saw Jean Valjean, made an almost imperceptible"
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "After the last cannon-shot had been fired, the plain of Mont-Saint-Jean"
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "Jean Valjean."
+      }
+    },
+    "co_occurs_with": {
+      "Marius": 4,
+      "Javert": 3,
+      "There": 2,
+      "Basque": 2,
+      "Colonel Pontmercy": 2,
+      "Monsieur le Baron": 2,
+      "Pontmercy": 2,
+      "Waterloo": 2
+    }
+  },
+  {
+    "canonical_name": "Bishop",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 59,
+    "per_chapter": {
+      "3": {
+        "mentions": 13,
+        "snippet": "What the Bishop had wished to make of him, that he carried out."
+      },
+      "10": {
+        "mentions": 42,
+        "snippet": "Nevertheless, the Bishop meditated on the subject, and from time to"
+      },
+      "11": {
+        "mentions": 4,
+        "snippet": "Bishop of a mountain diocese, living"
+      }
+    },
+    "co_occurs_with": {
+      "Monseigneur Bienvenu": 2,
+      "Monseigneur Welcome": 2,
+      "Bienvenu Myriel": 1,
+      "Cartouche": 1,
+      "Convention": 1,
+      "Dead Tree Street": 1,
+      "French Revolution": 1,
+      "Jesus Christ": 1
+    }
+  },
+  {
+    "canonical_name": "Javert",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 38,
+    "per_chapter": {
+      "3": {
+        "mentions": 6,
+        "snippet": "Javert."
+      },
+      "4": {
+        "mentions": 14,
+        "snippet": "Javert."
+      },
+      "13": {
+        "mentions": 12,
+        "snippet": "\u201cMonsieur Javert,\u201d said she, \u201cI beseech your mercy."
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "These arrangements made, he turned to Javert and said:"
+      }
+    },
+    "co_occurs_with": {
+      "Jean Valjean": 3,
+      "Fantine": 2,
+      "Monsieur le Maire": 2,
+      "Cosette": 2,
+      "Marius": 2,
+      "Bishop": 1,
+      "Candlesticks Into the Fire": 1,
+      "Champmathieu": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur le Baron",
+    "aliases": [
+      "Monsieur"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 36,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "\u201cMonsieur le Baron,\u201d said Basque, drawing himself up."
+      },
+      "4": {
+        "mentions": 22,
+        "snippet": "\u201cMonsieur le Baron:\u2014If the Supreme Being had given me the talents, I"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cMonsieur,\u201d said she."
+      },
+      "9": {
+        "mentions": 9,
+        "snippet": "\u201cMonsieur Th\u00e9nardier, you are right; he certainly owes that,\u201d murmured"
+      }
+    },
+    "co_occurs_with": {
+      "Cosette": 3,
+      "Basque": 2,
+      "Colonel Pontmercy": 2,
+      "Jean Valjean": 2,
+      "Marius": 2,
+      "Pontmercy": 2,
+      "Madame": 2,
+      "Baron Pontmercy": 1
+    }
+  },
+  {
+    "canonical_name": "Enjolras",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 34,
+    "per_chapter": {
+      "18": {
+        "mentions": 11,
+        "snippet": "The twelve strokes had not finished striking when Enjolras sprang to"
+      },
+      "22": {
+        "mentions": 10,
+        "snippet": "Enjolras and Marius at the two extremities of the barricade, the"
+      },
+      "23": {
+        "mentions": 13,
+        "snippet": "his feet, Enjolras."
+      }
+    },
+    "co_occurs_with": {
+      "Marius": 2,
+      "Feuilly": 1,
+      "Javert": 1,
+      "Jean Valjean": 1,
+      "Rue Transnonain": 1,
+      "Grantaire": 1
+    }
+  },
+  {
+    "canonical_name": "Montparnasse",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 31,
+    "per_chapter": {
+      "2": {
+        "mentions": 31,
+        "snippet": "\u201cHullo, is that you, Montparnasse?"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Antoine": 1,
+      "Babet": 1,
+      "Bastille": 1,
+      "Don": 1,
+      "Emperor": 1,
+      "Gavroche": 1,
+      "General Lafayette": 1
+    }
+  },
+  {
+    "canonical_name": "Madame",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 27,
+    "per_chapter": {
+      "8": {
+        "mentions": 22,
+        "snippet": "\u201cMadame,\u201d said Cosette, trembling all over, \u201chere\u2019s a gentleman who"
+      },
+      "9": {
+        "mentions": 5,
+        "snippet": "\u201d said Madame Th\u00e9nardier; \u201cis Monsieur leaving us"
+      }
+    },
+    "co_occurs_with": {
+      "Cosette": 2,
+      "Monsieur le Baron": 2,
+      "Azelma": 1,
+      "Catherine": 1,
+      "Duchesse de Berry": 1,
+      "Forty": 1,
+      "Will": 1,
+      "Lark": 1
+    }
+  },
+  {
+    "canonical_name": "Basque",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 25,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "when Basque, with napkin and feather-duster under his arm, busy in"
+      },
+      "4": {
+        "mentions": 6,
+        "snippet": "study, having a case to look over, Basque handed him a letter saying:"
+      },
+      "7": {
+        "mentions": 5,
+        "snippet": "landing-place so vigorously with his cane when Basque was slow in"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "Basque and the porter had carried Marius into the drawing-room, as he"
+      }
+    },
+    "co_occurs_with": {
+      "Marius": 4,
+      "Pontmercy": 3,
+      "Colonel Pontmercy": 2,
+      "Jean Valjean": 2,
+      "Monsieur le Baron": 2,
+      "Rue Saint": 2,
+      "Madame Pontmercy": 2,
+      "Monsieur Fauchelevent": 2
+    }
+  },
+  {
+    "canonical_name": "Monsieur Javert",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 22,
+    "per_chapter": {
+      "13": {
+        "mentions": 22,
+        "snippet": "\u201cMonsieur Javert,\u201d said she, \u201cI beseech your mercy."
+      }
+    },
+    "co_occurs_with": {
+      "Cosette": 1,
+      "Eternal Father": 1,
+      "Fantine": 1,
+      "Holy Virgin": 1,
+      "Inspector Javert": 1,
+      "Javert": 1,
+      "Monsieur Bamatabois": 1,
+      "Monsieur Inspector": 1
+    }
+  },
+  {
+    "canonical_name": "Jondrette",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 20,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "The Jondrette garret rose before his mind."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "Jondrette\u2019s; the dog is, at times, no less terrible to meet than the"
+      },
+      "17": {
+        "mentions": 2,
+        "snippet": "Marius heard Mother Jondrette\u2019s heavy hand fumbling at his lock in the"
+      },
+      "20": {
+        "mentions": 11,
+        "snippet": "It appeared that the arrival of these men was what Jondrette had been"
+      }
+    },
+    "co_occurs_with": {
+      "Marius": 4,
+      "Colonel Pontmercy": 2,
+      "Pontmercy": 2,
+      "Rue Saint": 2,
+      "Waterloo": 2,
+      "Baron Pontmercy": 1,
+      "Basque": 1,
+      "Champ de Mars": 1
+    }
+  },
+  {
+    "canonical_name": "Gillenormand",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 20,
+    "per_chapter": {
+      "7": {
+        "mentions": 17,
+        "snippet": "At that epoch, Father Gillenormand was well past his ninety-first"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "Aunt Gillenormand had risen."
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Gillenormand": 2,
+      "Basque": 2,
+      "Mademoiselle Gillenormand": 2,
+      "Marius": 2,
+      "Come": 1,
+      "Duc de Berry": 1,
+      "Father Gillenormand": 1,
+      "Lieutenant Gillenormand": 1
+    }
+  },
+  {
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 19,
+    "per_chapter": {
+      "5": {
+        "mentions": 8,
+        "snippet": "There"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "There are"
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "to me: \u2018There\u2019s a young man here; say that it is M."
+      },
+      "19": {
+        "mentions": 4,
+        "snippet": "There are reputations which are"
+      }
+    },
+    "co_occurs_with": {
+      "Jean Valjean": 2,
+      "Faubourg Saint": 2,
+      "Rue Saint": 2,
+      "Aventine Hill": 1,
+      "Condemned Man": 1,
+      "French Alps": 1,
+      "French Revolution": 1,
+      "From April": 1
+    }
+  },
+  {
+    "canonical_name": "Fantine",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 17,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "He repaired to Fantine\u2019s bed of suffering, as usual, and prolonged his"
+      },
+      "13": {
+        "mentions": 14,
+        "snippet": "by a detachment, Javert opened the door, entered with Fantine, and shut"
+      }
+    },
+    "co_occurs_with": {
+      "Javert": 2,
+      "Monsieur le Maire": 2,
+      "Bishop": 1,
+      "Candlesticks Into the Fire": 1,
+      "Champmathieu": 1,
+      "Hold": 1,
+      "Jean Valjean": 1,
+      "Little Gervais": 1
+    }
+  },
+  {
+    "canonical_name": "Convention",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 16,
+    "per_chapter": {
+      "10": {
+        "mentions": 16,
+        "snippet": "state at once, was a former member of the Convention."
+      }
+    },
+    "co_occurs_with": {
+      "Bienvenu Myriel": 1,
+      "Bishop": 1,
+      "Cartouche": 1,
+      "Dead Tree Street": 1,
+      "French Revolution": 1,
+      "Jesus Christ": 1,
+      "Let": 1,
+      "Louis": 1
+    }
+  },
+  {
+    "canonical_name": "Gavroche",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 15,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "inquire for Monsieur Gavroche."
+      },
+      "15": {
+        "mentions": 13,
+        "snippet": "Gavroche had taken a bottle basket from the wine-shop, had made his way"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Antoine": 1,
+      "Babet": 1,
+      "Bastille": 1,
+      "Don": 1,
+      "Emperor": 1,
+      "General Lafayette": 1,
+      "Hey": 1
+    }
+  },
+  {
+    "canonical_name": "Father Gillenormand",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 15,
+    "per_chapter": {
+      "7": {
+        "mentions": 15,
+        "snippet": "At that epoch, Father Gillenormand was well past his ninety-first"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Gillenormand": 1,
+      "Basque": 1,
+      "Come": 1,
+      "Duc de Berry": 1,
+      "Gillenormand": 1,
+      "Lieutenant Gillenormand": 1,
+      "Madame Pontmercy": 1,
+      "Madame la Baronne de Pontmercy": 1
+    }
+  },
+  {
+    "canonical_name": "Pontmercy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 13,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "\u201cMonsieur Pontmercy."
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "could honor Colonel Pontmercy\u2019s recommendation."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "portrait of his other daughter, who was dead, Madame Pontmercy, a"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "That liberator of Colonel Pontmercy was on the"
+      }
+    },
+    "co_occurs_with": {
+      "Marius": 4,
+      "Basque": 3,
+      "Colonel Pontmercy": 3,
+      "Rue Saint": 3,
+      "Jean Valjean": 2,
+      "Jondrette": 2,
+      "Monsieur le Baron": 2,
+      "Waterloo": 2
+    }
+  },
+  {
+    "canonical_name": "Antoine",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 13,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Gavroche led them up the Rue Saint-Antoine in the direction of the"
+      },
+      "5": {
+        "mentions": 10,
+        "snippet": "Paris; Paris kept an eye on the Faubourg Saint-Antoine."
+      }
+    },
+    "co_occurs_with": {
+      "All": 2,
+      "Rue Saint": 2,
+      "Babet": 1,
+      "Bastille": 1,
+      "Don": 1,
+      "Emperor": 1,
+      "Gavroche": 1,
+      "General Lafayette": 1
+    }
+  },
+  {
+    "canonical_name": "Faubourg Saint",
+    "aliases": [
+      "Saint"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 12,
+    "per_chapter": {
+      "5": {
+        "mentions": 9,
+        "snippet": "Paris; Paris kept an eye on the Faubourg Saint-Antoine."
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "After the last cannon-shot had been fired, the plain of Mont-Saint-Jean"
+      }
+    },
+    "co_occurs_with": {
+      "There": 2,
+      "Jean Valjean": 1,
+      "La Belle": 1,
+      "La Haie": 1,
+      "Lord Bathurst": 1,
+      "Mont": 1,
+      "The English": 1,
+      "Waterloo": 1
+    }
+  },
+  {
+    "canonical_name": "Waterloo",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 12,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "of Waterloo, he had only heard the last two syllables, for which he"
+      },
+      "19": {
+        "mentions": 5,
+        "snippet": "Waterloo to draw up his report to Lord Bathurst."
+      },
+      "20": {
+        "mentions": 4,
+        "snippet": "hail-storm of grape-shot on the heroic field of Waterloo, and repay it"
+      }
+    },
+    "co_occurs_with": {
+      "Colonel Pontmercy": 2,
+      "Jean Valjean": 2,
+      "Jondrette": 2,
+      "Marius": 2,
+      "Pontmercy": 2,
+      "Rue Saint": 2,
+      "Baron Pontmercy": 1,
+      "Basque": 1
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 12,
+    "per_chapter": {
+      "14": {
+        "mentions": 12,
+        "snippet": "\u201cThe commissary of police is not here,\u201d said a clerk; \u201cbut there is an"
+      }
+    },
+    "co_occurs_with": {
+      "Are": 1,
+      "Father What": 1,
+      "Inspector Javert": 1,
+      "Jondrette": 1,
+      "Marius": 1,
+      "Monsieur le Commissaire de Police": 1,
+      "Rue de Pontoise": 1
+    }
+  },
+  {
+    "canonical_name": "Rue Saint",
+    "aliases": [
+      "Rue"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 12,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Gavroche led them up the Rue Saint-Antoine in the direction of the"
+      },
+      "4": {
+        "mentions": 5,
+        "snippet": "There was in Paris at that epoch, in a low-lived old lodging in the Rue"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "A caf\u00e9 in the Rue Saint-Hyacinthe and the wine-shop of the"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "the corner of the Rue Saint-Louis."
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "Urbain Fabre\u2019s, Rue Saint-Dominique-D\u2019Enfer,"
+      }
+    },
+    "co_occurs_with": {
+      "Marius": 3,
+      "Pontmercy": 3,
+      "All": 2,
+      "Antoine": 2,
+      "Don": 2,
+      "Basque": 2,
+      "Colonel Pontmercy": 2,
+      "Jondrette": 2
+    }
+  },
+  {
+    "canonical_name": "Bastille",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 11,
+    "per_chapter": {
+      "2": {
+        "mentions": 11,
+        "snippet": "Bastille."
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Antoine": 1,
+      "Babet": 1,
+      "Don": 1,
+      "Emperor": 1,
+      "Gavroche": 1,
+      "General Lafayette": 1,
+      "Hey": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Fauchelevent",
+    "aliases": [
+      "Fauchelevent"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 11,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "lied, it is true, have deceived you all, and remained Monsieur"
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "\u201cMademoiselle Fauchelevent."
+      }
+    },
+    "co_occurs_with": {
+      "Basque": 2,
+      "Madame Pontmercy": 2,
+      "Marius": 2,
+      "Pontmercy": 2,
+      "Rue Plumet": 2,
+      "Captain Cook": 1,
+      "Colonel Pontmercy": 1,
+      "Jean Valjean": 1
+    }
+  },
+  {
+    "canonical_name": "Louis",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 10,
+    "per_chapter": {
+      "10": {
+        "mentions": 10,
+        "snippet": "\u201cSo far as Louis XVI."
+      }
+    },
+    "co_occurs_with": {
+      "Bienvenu Myriel": 1,
+      "Bishop": 1,
+      "Cartouche": 1,
+      "Convention": 1,
+      "Dead Tree Street": 1,
+      "French Revolution": 1,
+      "Jesus Christ": 1,
+      "Let": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Mayor",
+    "aliases": [
+      "Mayor"
+    ],
+    "first_chapter": 13,
+    "total_mentions": 10,
+    "per_chapter": {
+      "13": {
+        "mentions": 10,
+        "snippet": "\u201cExcuse me, Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Cosette": 1,
+      "Eternal Father": 1,
+      "Fantine": 1,
+      "Holy Virgin": 1,
+      "Inspector Javert": 1,
+      "Javert": 1,
+      "Monsieur Bamatabois": 1,
+      "Monsieur Inspector": 1
+    }
+  },
+  {
+    "canonical_name": "Champmathieu",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 10,
+    "per_chapter": {
+      "3": {
+        "mentions": 10,
+        "snippet": "was to go, to run and denounce himself, to take that Champmathieu out"
+      }
+    },
+    "co_occurs_with": {
+      "Bishop": 1,
+      "Candlesticks Into the Fire": 1,
+      "Fantine": 1,
+      "Hold": 1,
+      "Javert": 1,
+      "Jean Valjean": 1,
+      "Little Gervais": 1,
+      "Mayor Madeleine": 1
+    }
+  },
+  {
+    "canonical_name": "Azelma",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 10,
+    "per_chapter": {
+      "8": {
+        "mentions": 10,
+        "snippet": "In the meantime, a door had opened, and \u00c9ponine and Azelma entered."
+      }
+    },
+    "co_occurs_with": {
+      "Catherine": 1,
+      "Cosette": 1,
+      "Duchesse de Berry": 1,
+      "Forty": 1,
+      "Madame": 1,
+      "Monsieur le Baron": 1,
+      "Will": 1
+    }
+  },
+  {
+    "canonical_name": "Here",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 10,
+    "per_chapter": {
+      "16": {
+        "mentions": 3,
+        "snippet": "barracks, who was gazing through the fence, said: \u201cHere is the Spring"
+      },
+      "20": {
+        "mentions": 7,
+        "snippet": "Here Th\u00e9nardier took a step towards the men who stood near the door,"
+      }
+    },
+    "co_occurs_with": {
+      "Benvenuto Cellinis": 1,
+      "Bigrenaille": 1,
+      "Colonel Pontmercy": 1,
+      "Come": 1,
+      "David": 1,
+      "Dominique": 1,
+      "Don": 1,
+      "Is Boulatruelle": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Pontmercy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 10,
+    "per_chapter": {
+      "1": {
+        "mentions": 10,
+        "snippet": "\u201cMonsieur Pontmercy."
+      }
+    },
+    "co_occurs_with": {
+      "Basque": 1,
+      "Captain Cook": 1,
+      "Colonel Pontmercy": 1,
+      "Jean Valjean": 1,
+      "Madame Pontmercy": 1,
+      "Marius": 1,
+      "Monsieur Fauchelevent": 1,
+      "Monsieur le Baron": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 9,
+    "per_chapter": {
+      "7": {
+        "mentions": 4,
+        "snippet": "\u201cCome, now, what do you want of me?"
+      },
+      "20": {
+        "mentions": 5,
+        "snippet": "Come, I\u2019ve got you!"
+      }
+    },
+    "co_occurs_with": {
+      "Marius": 2,
+      "Pontmercy": 2,
+      "Rue Saint": 2,
+      "Benvenuto Cellinis": 1,
+      "Bigrenaille": 1,
+      "Colonel Pontmercy": 1,
+      "David": 1,
+      "Dominique": 1
+    }
+  },
+  {
+    "canonical_name": "Mademoiselle Gillenormand",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 9,
+    "per_chapter": {
+      "7": {
+        "mentions": 8,
+        "snippet": "He still lived with Mademoiselle Gillenormand in the Rue des"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Mademoiselle Gillenormand, on perceiving that"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Gillenormand": 2,
+      "Basque": 2,
+      "Gillenormand": 2,
+      "Marius": 2,
+      "Come": 1,
+      "Duc de Berry": 1,
+      "Father Gillenormand": 1,
+      "Lieutenant Gillenormand": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Pontmercy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 9,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "She is Madame Pontmercy."
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "portrait of his other daughter, who was dead, Madame Pontmercy, a"
+      }
+    },
+    "co_occurs_with": {
+      "Basque": 2,
+      "Marius": 2,
+      "Monsieur Fauchelevent": 2,
+      "Pontmercy": 2,
+      "Rue Plumet": 2,
+      "Captain Cook": 1,
+      "Colonel Pontmercy": 1,
+      "Jean Valjean": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Inspector",
+    "aliases": [
+      "Inspector"
+    ],
+    "first_chapter": 13,
+    "total_mentions": 8,
+    "per_chapter": {
+      "13": {
+        "mentions": 8,
+        "snippet": "you know that, Monsieur Inspector?"
+      }
+    },
+    "co_occurs_with": {
+      "Cosette": 1,
+      "Eternal Father": 1,
+      "Fantine": 1,
+      "Holy Virgin": 1,
+      "Inspector Javert": 1,
+      "Javert": 1,
+      "Monsieur Bamatabois": 1,
+      "Monsieur Javert": 1
+    }
+  },
+  {
+    "canonical_name": "Montfermeil",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 8,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201cSo Monsieur has no business in Montfermeil?"
+      },
+      "20": {
+        "mentions": 5,
+        "snippet": "I am the inn-keeper of Montfermeil!"
+      }
+    },
+    "co_occurs_with": {
+      "Cosette": 1,
+      "Lark": 1,
+      "Madame": 1,
+      "Monsieur le Baron": 1,
+      "Twenty": 1,
+      "Benvenuto Cellinis": 1,
+      "Bigrenaille": 1,
+      "Colonel Pontmercy": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Fabre",
+    "aliases": [
+      "Fabre"
+    ],
+    "first_chapter": 20,
+    "total_mentions": 8,
+    "per_chapter": {
+      "20": {
+        "mentions": 8,
+        "snippet": "\u201cBy the way, Monsieur Fabre, I might as well say it to you at once."
+      }
+    },
+    "co_occurs_with": {
+      "Benvenuto Cellinis": 1,
+      "Bigrenaille": 1,
+      "Colonel Pontmercy": 1,
+      "Come": 1,
+      "David": 1,
+      "Dominique": 1,
+      "Don": 1,
+      "Here": 1
+    }
+  },
+  {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 8,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "\u201cDon\u2019t be scared, infants."
+      },
+      "20": {
+        "mentions": 4,
+        "snippet": "\u201cDon\u2019t you stir!"
+      }
+    },
+    "co_occurs_with": {
+      "Rue Saint": 2,
+      "All": 1,
+      "Antoine": 1,
+      "Babet": 1,
+      "Bastille": 1,
+      "Emperor": 1,
+      "Gavroche": 1,
+      "General Lafayette": 1
+    }
+  },
+  {
+    "canonical_name": "Bigrenaille",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 8,
+    "per_chapter": {
+      "20": {
+        "mentions": 8,
+        "snippet": "Panchaud, alias Printanier, alias Bigrenaille, lifted above M."
+      }
+    },
+    "co_occurs_with": {
+      "Benvenuto Cellinis": 1,
+      "Colonel Pontmercy": 1,
+      "Come": 1,
+      "David": 1,
+      "Dominique": 1,
+      "Don": 1,
+      "Here": 1,
+      "Is Boulatruelle": 1
+    }
+  },
+  {
+    "canonical_name": "Voltaire",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 8,
+    "per_chapter": {
+      "15": {
+        "mentions": 8,
+        "snippet": "C\u2019est la faute \u00e0 Voltaire;"
+      }
+    },
+    "co_occurs_with": {
+      "Courfeyrac": 1,
+      "Gavroche": 1,
+      "National Guardsmen": 1,
+      "Rousseau": 1,
+      "Tis": 1
+    }
+  },
+  {
+    "canonical_name": "Tis",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 8,
+    "per_chapter": {
+      "15": {
+        "mentions": 8,
+        "snippet": "\u2019Tis the fault of Voltaire;"
+      }
+    },
+    "co_occurs_with": {
+      "Courfeyrac": 1,
+      "Gavroche": 1,
+      "National Guardsmen": 1,
+      "Rousseau": 1,
+      "Voltaire": 1
+    }
+  },
+  {
+    "canonical_name": "Emperor",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 7,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "the Emperor\u2019s, had become the box of a street urchin."
+      },
+      "11": {
+        "mentions": 4,
+        "snippet": "Emperor had made him a baron of the Empire, in company with many other"
+      }
+    },
+    "co_occurs_with": {
+      "Bishop": 1,
+      "Cardinal Fesch": 1,
+      "Hundred Days": 1,
+      "Mademoiselle Baptistine": 1,
+      "Monseigneur Bienvenu": 1,
+      "Monseigneur Welcome": 1,
+      "Napoleon": 1,
+      "Rue Cassette": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur le Maire",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 7,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "Monsieur le Maire; remain honorable and honored; enrich the town;"
+      },
+      "13": {
+        "mentions": 6,
+        "snippet": "\u201cThis wretch has just insulted Monsieur le Maire."
+      }
+    },
+    "co_occurs_with": {
+      "Fantine": 2,
+      "Javert": 2,
+      "Bishop": 1,
+      "Candlesticks Into the Fire": 1,
+      "Champmathieu": 1,
+      "Hold": 1,
+      "Jean Valjean": 1,
+      "Little Gervais": 1
+    }
+  },
+  {
+    "canonical_name": "All",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 7,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "All three of them placed end to end would have hardly made a measure."
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201d All this in"
+      }
+    },
+    "co_occurs_with": {
+      "Antoine": 2,
+      "Rue Saint": 2,
+      "Babet": 1,
+      "Bastille": 1,
+      "Don": 1,
+      "Emperor": 1,
+      "Gavroche": 1,
+      "General Lafayette": 1
+    }
+  },
+  {
+    "canonical_name": "Grantaire",
+    "aliases": [],
+    "first_chapter": 23,
+    "total_mentions": 7,
+    "per_chapter": {
+      "23": {
+        "mentions": 7,
+        "snippet": "Grantaire had waked up a few moments before."
+      }
+    },
+    "co_occurs_with": {
+      "Enjolras": 1
+    }
+  },
+  {
+    "canonical_name": "Changer",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 7,
+    "per_chapter": {
+      "4": {
+        "mentions": 7,
+        "snippet": "This costumer was called \u201cthe Changer\u201d; the pickpockets of Paris had"
+      }
+    },
+    "co_occurs_with": {
+      "Baron Pontmercy": 1,
+      "Basque": 1,
+      "Champ de Mars": 1,
+      "Chateaubriand": 1,
+      "Colonel Pontmercy": 1,
+      "Cosette": 1,
+      "Grand Sewer": 1,
+      "Javert": 1
+    }
+  },
+  {
+    "canonical_name": "Italy",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 7,
+    "per_chapter": {
+      "6": {
+        "mentions": 7,
+        "snippet": "Italy as well as to France, to Germany as well as to Ireland, to"
+      }
+    },
+    "co_occurs_with": {
+      "Aventine Hill": 1,
+      "Condemned Man": 1,
+      "French Alps": 1,
+      "French Revolution": 1,
+      "From April": 1,
+      "Goblet Junior": 1,
+      "Italians": 1,
+      "Jean Valjean": 1
+    }
+  },
+  {
+    "canonical_name": "Let",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 6,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "\u201cLet us be calm, young \u2019uns."
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "Let us come to an understanding."
+      }
+    },
+    "co_occurs_with": {
+      "Bienvenu Myriel": 1,
+      "Bishop": 1,
+      "Cartouche": 1,
+      "Convention": 1,
+      "Dead Tree Street": 1,
+      "French Revolution": 1,
+      "Jesus Christ": 1,
+      "Louis": 1
+    }
+  },
+  {
+    "canonical_name": "Napoleon",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 6,
+    "per_chapter": {
+      "11": {
+        "mentions": 6,
+        "snippet": "was summoned by Napoleon to the synod of the bishops of France and"
+      }
+    },
+    "co_occurs_with": {
+      "Bishop": 1,
+      "Cardinal Fesch": 1,
+      "Emperor": 1,
+      "Hundred Days": 1,
+      "Mademoiselle Baptistine": 1,
+      "Monseigneur Bienvenu": 1,
+      "Monseigneur Welcome": 1,
+      "Rue Cassette": 1
+    }
+  },
+  {
+    "canonical_name": "Ursule",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 6,
+    "per_chapter": {
+      "20": {
+        "mentions": 6,
+        "snippet": "seemed to him that he heard \u201chis Ursule\u201d supplicating for her father"
+      }
+    },
+    "co_occurs_with": {
+      "Benvenuto Cellinis": 1,
+      "Bigrenaille": 1,
+      "Colonel Pontmercy": 1,
+      "Come": 1,
+      "David": 1,
+      "Dominique": 1,
+      "Don": 1,
+      "Here": 1
+    }
+  },
+  {
+    "canonical_name": "Babet",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 6,
+    "per_chapter": {
+      "2": {
+        "mentions": 6,
+        "snippet": "\u201cI\u2019m going to find Babet."
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Antoine": 1,
+      "Bastille": 1,
+      "Don": 1,
+      "Emperor": 1,
+      "Gavroche": 1,
+      "General Lafayette": 1,
+      "Hey": 1
+    }
+  },
+  {
+    "canonical_name": "Nothing",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 6,
+    "per_chapter": {
+      "7": {
+        "mentions": 6,
+        "snippet": "Nothing could be seen but his calm, grave, but strangely"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Gillenormand": 1,
+      "Basque": 1,
+      "Come": 1,
+      "Duc de Berry": 1,
+      "Father Gillenormand": 1,
+      "Gillenormand": 1,
+      "Lieutenant Gillenormand": 1,
+      "Madame Pontmercy": 1
+    }
+  },
+  {
+    "canonical_name": "Rousseau",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 6,
+    "per_chapter": {
+      "15": {
+        "mentions": 6,
+        "snippet": "C\u2019est la faute \u00e0 Rousseau."
+      }
+    },
+    "co_occurs_with": {
+      "Courfeyrac": 1,
+      "Gavroche": 1,
+      "National Guardsmen": 1,
+      "Tis": 1,
+      "Voltaire": 1
+    }
+  },
+  {
+    "canonical_name": "Twenty",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 5,
+    "per_chapter": {
+      "9": {
+        "mentions": 5,
+        "snippet": "\u201cTwenty-three francs!"
+      }
+    },
+    "co_occurs_with": {
+      "Cosette": 1,
+      "Lark": 1,
+      "Madame": 1,
+      "Monsieur le Baron": 1,
+      "Montfermeil": 1
+    }
+  },
+  {
+    "canonical_name": "Colonel Pontmercy",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "But Colonel Pontmercy had written: \u201cMy"
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "could honor Colonel Pontmercy\u2019s recommendation."
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "That liberator of Colonel Pontmercy was on the"
+      }
+    },
+    "co_occurs_with": {
+      "Marius": 3,
+      "Pontmercy": 3,
+      "Basque": 2,
+      "Jean Valjean": 2,
+      "Jondrette": 2,
+      "Monsieur le Baron": 2,
+      "Rue Saint": 2,
+      "Waterloo": 2
+    }
+  },
+  {
+    "canonical_name": "Rights",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 5,
+    "per_chapter": {
+      "5": {
+        "mentions": 5,
+        "snippet": "Rights of Man, with the names and dwellings of the chiefs of sections."
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Another": 1,
+      "Antoine": 1,
+      "Equal Workingmen": 1,
+      "Faubourg Saint": 1,
+      "From": 1,
+      "Gallic Society": 1,
+      "Man": 1
+    }
+  },
+  {
+    "canonical_name": "Man",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 5,
+    "per_chapter": {
+      "5": {
+        "mentions": 5,
+        "snippet": "Rights of Man, with the names and dwellings of the chiefs of sections."
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Another": 1,
+      "Antoine": 1,
+      "Equal Workingmen": 1,
+      "Faubourg Saint": 1,
+      "From": 1,
+      "Gallic Society": 1,
+      "Middle Ages": 1
+    }
+  },
+  {
+    "canonical_name": "Hey",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 5,
+    "per_chapter": {
+      "2": {
+        "mentions": 5,
+        "snippet": "\u201cHey!"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Antoine": 1,
+      "Babet": 1,
+      "Bastille": 1,
+      "Don": 1,
+      "Emperor": 1,
+      "Gavroche": 1,
+      "General Lafayette": 1
+    }
+  },
+  {
+    "canonical_name": "Rue Plumet",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "there was a railing on a garden, the Rue Plumet."
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "words \u201cRue Plumet\u201d he interrupted his inhalation and allowed the"
+      }
+    },
+    "co_occurs_with": {
+      "Basque": 2,
+      "Madame Pontmercy": 2,
+      "Marius": 2,
+      "Monsieur Fauchelevent": 2,
+      "Pontmercy": 2,
+      "Captain Cook": 1,
+      "Colonel Pontmercy": 1,
+      "Jean Valjean": 1
+    }
+  },
+  {
+    "canonical_name": "Baron Pontmercy",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 5,
+    "per_chapter": {
+      "4": {
+        "mentions": 5,
+        "snippet": "He beheld this Baron Pontmercy for the first time, and, in spite of his"
+      }
+    },
+    "co_occurs_with": {
+      "Basque": 1,
+      "Champ de Mars": 1,
+      "Changer": 1,
+      "Chateaubriand": 1,
+      "Colonel Pontmercy": 1,
+      "Cosette": 1,
+      "Grand Sewer": 1,
+      "Javert": 1
+    }
+  },
+  {
+    "canonical_name": "Les",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 5,
+    "per_chapter": {
+      "6": {
+        "mentions": 5,
+        "snippet": "Publisher of the Italian translation of _Les Mis\u00e9rables_ in Milan."
+      }
+    },
+    "co_occurs_with": {
+      "Aventine Hill": 1,
+      "Condemned Man": 1,
+      "French Alps": 1,
+      "French Revolution": 1,
+      "From April": 1,
+      "Goblet Junior": 1,
+      "Italians": 1,
+      "Italy": 1
+    }
+  },
+  {
+    "canonical_name": "Monseigneur Bienvenu",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 4,
+    "per_chapter": {
+      "10": {
+        "mentions": 1,
+        "snippet": "this intrenchment, the last resource of Monseigneur Bienvenu\u2019s"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "the events of that epoch, supposing that Monseigneur Bienvenu ever"
+      }
+    },
+    "co_occurs_with": {
+      "Bishop": 2,
+      "Monseigneur Welcome": 2,
+      "Bienvenu Myriel": 1,
+      "Cartouche": 1,
+      "Convention": 1,
+      "Dead Tree Street": 1,
+      "French Revolution": 1,
+      "Jesus Christ": 1
+    }
+  },
+  {
+    "canonical_name": "Inspector Javert",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 4,
+    "per_chapter": {
+      "13": {
+        "mentions": 3,
+        "snippet": "\u201cInspector Javert, set this woman at liberty."
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "You will ask for Inspector Javert."
+      }
+    },
+    "co_occurs_with": {
+      "Cosette": 1,
+      "Eternal Father": 1,
+      "Fantine": 1,
+      "Holy Virgin": 1,
+      "Javert": 1,
+      "Monsieur Bamatabois": 1,
+      "Monsieur Inspector": 1,
+      "Monsieur Javert": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Gavroche",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "inquire for Monsieur Gavroche."
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Antoine": 1,
+      "Babet": 1,
+      "Bastille": 1,
+      "Don": 1,
+      "Emperor": 1,
+      "Gavroche": 1,
+      "General Lafayette": 1
+    }
+  },
+  {
+    "canonical_name": "Luxembourg",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 4,
+    "per_chapter": {
+      "16": {
+        "mentions": 4,
+        "snippet": "At that same moment, in the garden of the Luxembourg,\u2014for the gaze of"
+      }
+    },
+    "co_occurs_with": {
+      "From the Tuileries": 1,
+      "Here": 1,
+      "Madame. As": 1,
+      "Marie de Medici": 1,
+      "National Guardsman": 1,
+      "Rue Madame": 1,
+      "Rues Madame": 1
+    }
+  },
+  {
+    "canonical_name": "Jeanne",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 4,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "Jeanne, at thy mirror thou deckest thyself!"
+      }
+    },
+    "co_occurs_with": {
+      "Aventine Hill": 1,
+      "Condemned Man": 1,
+      "French Alps": 1,
+      "French Revolution": 1,
+      "From April": 1,
+      "Goblet Junior": 1,
+      "Italians": 1,
+      "Italy": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Priest",
+    "aliases": [
+      "Priest"
+    ],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cAh, Monsieur Priest, you love not the crudities of the true."
+      }
+    },
+    "co_occurs_with": {
+      "Bienvenu Myriel": 1,
+      "Bishop": 1,
+      "Cartouche": 1,
+      "Convention": 1,
+      "Dead Tree Street": 1,
+      "French Revolution": 1,
+      "Jesus Christ": 1,
+      "Let": 1
+    }
+  },
+  {
+    "canonical_name": "Monseigneur Welcome",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 1,
+        "snippet": "people call Monseigneur Welcome?"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "conclude from this that Monseigneur Welcome was \u201ca philosophical"
+      }
+    },
+    "co_occurs_with": {
+      "Bishop": 2,
+      "Monseigneur Bienvenu": 2,
+      "Bienvenu Myriel": 1,
+      "Cartouche": 1,
+      "Convention": 1,
+      "Dead Tree Street": 1,
+      "French Revolution": 1,
+      "Jesus Christ": 1
+    }
+  },
+  {
+    "canonical_name": "French Revolution",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 1,
+        "snippet": "the French Revolution; books must cease to be exclusively French,"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "The French Revolution is the"
+      }
+    },
+    "co_occurs_with": {
+      "Bienvenu Myriel": 1,
+      "Bishop": 1,
+      "Cartouche": 1,
+      "Convention": 1,
+      "Dead Tree Street": 1,
+      "Jesus Christ": 1,
+      "Let": 1,
+      "Louis": 1
+    }
+  },
+  {
+    "canonical_name": "Cartouche",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "To me, the brother of Cartouche,"
+      }
+    },
+    "co_occurs_with": {
+      "Bienvenu Myriel": 1,
+      "Bishop": 1,
+      "Convention": 1,
+      "Dead Tree Street": 1,
+      "French Revolution": 1,
+      "Jesus Christ": 1,
+      "Let": 1,
+      "Louis": 1
+    }
+  },
+  {
+    "canonical_name": "Mademoiselle Baptistine",
+    "aliases": [
+      "Baptistine"
+    ],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "Besides his sister, Mademoiselle Baptistine, he had two brothers, one a"
+      }
+    },
+    "co_occurs_with": {
+      "Bishop": 1,
+      "Cardinal Fesch": 1,
+      "Emperor": 1,
+      "Hundred Days": 1,
+      "Monseigneur Bienvenu": 1,
+      "Monseigneur Welcome": 1,
+      "Napoleon": 1,
+      "Rue Cassette": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Bamatabois",
+    "aliases": [
+      "Bamatabois"
+    ],
+    "first_chapter": 13,
+    "total_mentions": 3,
+    "per_chapter": {
+      "13": {
+        "mentions": 3,
+        "snippet": "Monsieur Bamatabois, who is an elector and the proprietor of that"
+      }
+    },
+    "co_occurs_with": {
+      "Cosette": 1,
+      "Eternal Father": 1,
+      "Fantine": 1,
+      "Holy Virgin": 1,
+      "Inspector Javert": 1,
+      "Javert": 1,
+      "Monsieur Inspector": 1,
+      "Monsieur Javert": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Madeleine",
+    "aliases": [
+      "Madeleine"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "citizen Monsieur Madeleine would emerge more honored, more peaceful,"
+      }
+    },
+    "co_occurs_with": {
+      "Bishop": 1,
+      "Candlesticks Into the Fire": 1,
+      "Champmathieu": 1,
+      "Fantine": 1,
+      "Hold": 1,
+      "Javert": 1,
+      "Jean Valjean": 1,
+      "Little Gervais": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Laffitte",
+    "aliases": [
+      "Laffitte"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "_To Monsieur Laffitte, Banker, Rue d\u2019Artois, Paris_."
+      }
+    },
+    "co_occurs_with": {
+      "Bishop": 1,
+      "Candlesticks Into the Fire": 1,
+      "Champmathieu": 1,
+      "Fantine": 1,
+      "Hold": 1,
+      "Javert": 1,
+      "Jean Valjean": 1,
+      "Little Gervais": 1
+    }
+  },
+  {
+    "canonical_name": "Hold",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cHold!"
+      }
+    },
+    "co_occurs_with": {
+      "Bishop": 1,
+      "Candlesticks Into the Fire": 1,
+      "Champmathieu": 1,
+      "Fantine": 1,
+      "Javert": 1,
+      "Jean Valjean": 1,
+      "Little Gervais": 1,
+      "Mayor Madeleine": 1
+    }
+  },
+  {
+    "canonical_name": "Lord Bathurst",
+    "aliases": [
+      "Bathurst"
+    ],
+    "first_chapter": 19,
+    "total_mentions": 3,
+    "per_chapter": {
+      "19": {
+        "mentions": 3,
+        "snippet": "Waterloo to draw up his report to Lord Bathurst."
+      }
+    },
+    "co_occurs_with": {
+      "Faubourg Saint": 1,
+      "Jean Valjean": 1,
+      "La Belle": 1,
+      "La Haie": 1,
+      "Mont": 1,
+      "The English": 1,
+      "There": 1,
+      "Waterloo": 1
+    }
+  },
+  {
+    "canonical_name": "Mont",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 3,
+    "per_chapter": {
+      "19": {
+        "mentions": 3,
+        "snippet": "After the last cannon-shot had been fired, the plain of Mont-Saint-Jean"
+      }
+    },
+    "co_occurs_with": {
+      "Faubourg Saint": 1,
+      "Jean Valjean": 1,
+      "La Belle": 1,
+      "La Haie": 1,
+      "Lord Bathurst": 1,
+      "The English": 1,
+      "There": 1,
+      "Waterloo": 1
+    }
+  },
+  {
+    "canonical_name": "Forty",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cForty sous."
+      }
+    },
+    "co_occurs_with": {
+      "Azelma": 1,
+      "Catherine": 1,
+      "Cosette": 1,
+      "Duchesse de Berry": 1,
+      "Madame": 1,
+      "Monsieur le Baron": 1,
+      "Will": 1
+    }
+  },
+  {
+    "canonical_name": "Will",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "Will"
+      }
+    },
+    "co_occurs_with": {
+      "Azelma": 1,
+      "Catherine": 1,
+      "Cosette": 1,
+      "Duchesse de Berry": 1,
+      "Forty": 1,
+      "Madame": 1,
+      "Monsieur le Baron": 1
+    }
+  },
+  {
+    "canonical_name": "Catherine",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cI shall call her Catherine,\u201d she said."
+      }
+    },
+    "co_occurs_with": {
+      "Azelma": 1,
+      "Cosette": 1,
+      "Duchesse de Berry": 1,
+      "Forty": 1,
+      "Madame": 1,
+      "Monsieur le Baron": 1,
+      "Will": 1
+    }
+  },
+  {
+    "canonical_name": "Lark",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "A noise was audible in the house; it was the Lark sweeping the"
+      }
+    },
+    "co_occurs_with": {
+      "Cosette": 1,
+      "Madame": 1,
+      "Monsieur le Baron": 1,
+      "Montfermeil": 1,
+      "Twenty": 1
+    }
+  },
+  {
+    "canonical_name": "Are",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 3,
+        "snippet": "Are you"
+      }
+    },
+    "co_occurs_with": {
+      "Father What": 1,
+      "Inspector Javert": 1,
+      "Jondrette": 1,
+      "Marius": 1,
+      "Monsieur le Commissaire de Police": 1,
+      "Rue de Pontoise": 1,
+      "The": 1
+    }
+  },
+  {
+    "canonical_name": "Mother Jondrette",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 3,
+    "per_chapter": {
+      "17": {
+        "mentions": 3,
+        "snippet": "Marius heard Mother Jondrette\u2019s heavy hand fumbling at his lock in the"
+      }
+    },
+    "co_occurs_with": {
+      "Jondrette": 1,
+      "Marius": 1,
+      "Rue Pierre": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Leblanc",
+    "aliases": [
+      "Leblanc"
+    ],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "on whom Courfeyrac had bestowed the sobriquet of Monsieur Leblanc."
+      }
+    },
+    "co_occurs_with": {
+      "Benvenuto Cellinis": 1,
+      "Bigrenaille": 1,
+      "Colonel Pontmercy": 1,
+      "Come": 1,
+      "David": 1,
+      "Dominique": 1,
+      "Don": 1,
+      "Here": 1
+    }
+  },
+  {
+    "canonical_name": "Mademoiselle Fabre",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "\u201cAddress it, \u2018Mademoiselle Fabre,\u2019 at your house."
+      }
+    },
+    "co_occurs_with": {
+      "Benvenuto Cellinis": 1,
+      "Bigrenaille": 1,
+      "Colonel Pontmercy": 1,
+      "Come": 1,
+      "David": 1,
+      "Dominique": 1,
+      "Don": 1,
+      "Here": 1
+    }
+  },
+  {
+    "canonical_name": "Urbain Fabre",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "\u201cUrbain Fabre,\u201d said the prisoner."
+      }
+    },
+    "co_occurs_with": {
+      "Benvenuto Cellinis": 1,
+      "Bigrenaille": 1,
+      "Colonel Pontmercy": 1,
+      "Come": 1,
+      "David": 1,
+      "Dominique": 1,
+      "Don": 1,
+      "Here": 1
+    }
+  },
+  {
+    "canonical_name": "David",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "you see here, and which was painted by David at Bruqueselles,\u2014do you"
+      }
+    },
+    "co_occurs_with": {
+      "Benvenuto Cellinis": 1,
+      "Bigrenaille": 1,
+      "Colonel Pontmercy": 1,
+      "Come": 1,
+      "Dominique": 1,
+      "Don": 1,
+      "Here": 1,
+      "Is Boulatruelle": 1
+    }
+  },
+  {
+    "canonical_name": "Dominique",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "Urbain Fabre\u2019s, Rue Saint-Dominique-D\u2019Enfer,"
+      }
+    },
+    "co_occurs_with": {
+      "Benvenuto Cellinis": 1,
+      "Bigrenaille": 1,
+      "Colonel Pontmercy": 1,
+      "Come": 1,
+      "David": 1,
+      "Don": 1,
+      "Here": 1,
+      "Is Boulatruelle": 1
+    }
+  },
+  {
+    "canonical_name": "Through",
+    "aliases": [],
+    "first_chapter": 20,
+    "total_mentions": 3,
+    "per_chapter": {
+      "20": {
+        "mentions": 3,
+        "snippet": "Through the window, of course."
+      }
+    },
+    "co_occurs_with": {
+      "Benvenuto Cellinis": 1,
+      "Bigrenaille": 1,
+      "Colonel Pontmercy": 1,
+      "Come": 1,
+      "David": 1,
+      "Dominique": 1,
+      "Don": 1,
+      "Here": 1
+    }
+  },
+  {
+    "canonical_name": "Another",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "Another said: \u201cI don\u2019t ask for six months, I don\u2019t ask for even two."
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Antoine": 1,
+      "Equal Workingmen": 1,
+      "Faubourg Saint": 1,
+      "From": 1,
+      "Gallic Society": 1,
+      "Man": 1,
+      "Middle Ages": 1
+    }
+  },
+  {
+    "canonical_name": "From",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201d From time to"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Another": 1,
+      "Antoine": 1,
+      "Equal Workingmen": 1,
+      "Faubourg Saint": 1,
+      "Gallic Society": 1,
+      "Man": 1,
+      "Middle Ages": 1
+    }
+  },
+  {
+    "canonical_name": "Place",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "the Place de la Bastille, near the basin of the canal, excavated in the"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Antoine": 1,
+      "Babet": 1,
+      "Bastille": 1,
+      "Don": 1,
+      "Emperor": 1,
+      "Gavroche": 1,
+      "General Lafayette": 1
+    }
+  },
+  {
+    "canonical_name": "Opera",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Opera."
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Antoine": 1,
+      "Babet": 1,
+      "Bastille": 1,
+      "Don": 1,
+      "Emperor": 1,
+      "Gavroche": 1,
+      "General Lafayette": 1
+    }
+  },
+  {
+    "canonical_name": "Aunt Gillenormand",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 3,
+    "per_chapter": {
+      "7": {
+        "mentions": 1,
+        "snippet": "Aunt Gillenormand renounced every effort, and pronounced this acute"
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "Aunt Gillenormand had risen."
+      }
+    },
+    "co_occurs_with": {
+      "Basque": 2,
+      "Gillenormand": 2,
+      "Mademoiselle Gillenormand": 2,
+      "Marius": 2,
+      "Come": 1,
+      "Duc de Berry": 1,
+      "Father Gillenormand": 1,
+      "Lieutenant Gillenormand": 1
+    }
+  },
+  {
+    "canonical_name": "National Guardsmen",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "cartridge-boxes of the National Guardsmen who had been killed on the"
+      }
+    },
+    "co_occurs_with": {
+      "Courfeyrac": 1,
+      "Gavroche": 1,
+      "Rousseau": 1,
+      "Tis": 1,
+      "Voltaire": 1
+    }
+  },
+  {
+    "canonical_name": "Courfeyrac",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 3,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "Courfeyrac suddenly caught sight of some one at the base of the"
+      }
+    },
+    "co_occurs_with": {
+      "Gavroche": 1,
+      "National Guardsmen": 1,
+      "Rousseau": 1,
+      "Tis": 1,
+      "Voltaire": 1
+    }
+  },
+  {
+    "canonical_name": "Feuilly",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 3,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "A few loop-holes carefully planned by Feuilly, the"
+      }
+    },
+    "co_occurs_with": {
+      "Enjolras": 1,
+      "Javert": 1,
+      "Jean Valjean": 1,
+      "Marius": 1
+    }
+  },
+  {
+    "canonical_name": "Captain Cook",
+    "aliases": [
+      "Cook"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "your Voyages of Captain Cook and the other,\u2014Vancouver\u2019s and all your"
+      }
+    },
+    "co_occurs_with": {
+      "Basque": 1,
+      "Colonel Pontmercy": 1,
+      "Jean Valjean": 1,
+      "Madame Pontmercy": 1,
+      "Marius": 1,
+      "Monsieur Fauchelevent": 1,
+      "Monsieur Pontmercy": 1,
+      "Monsieur le Baron": 1
+    }
+  },
+  {
+    "canonical_name": "Nicolette",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Nicolette has sent for the chimney-sweep, that Toussaint and Nicolette"
+      }
+    },
+    "co_occurs_with": {
+      "Basque": 1,
+      "Captain Cook": 1,
+      "Colonel Pontmercy": 1,
+      "Jean Valjean": 1,
+      "Madame Pontmercy": 1,
+      "Marius": 1,
+      "Monsieur Fauchelevent": 1,
+      "Monsieur Pontmercy": 1
+    }
+  },
+  {
+    "canonical_name": "Madame Bagration",
+    "aliases": [
+      "Bagration"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "\u201cI know neither Madame Bagration nor M."
+      }
+    },
+    "co_occurs_with": {
+      "Baron Pontmercy": 1,
+      "Basque": 1,
+      "Champ de Mars": 1,
+      "Changer": 1,
+      "Chateaubriand": 1,
+      "Colonel Pontmercy": 1,
+      "Cosette": 1,
+      "Grand Sewer": 1
+    }
+  },
+  {
+    "canonical_name": "le Baron",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "Monsieur le Baron, I will speak."
+      }
+    },
+    "co_occurs_with": {
+      "Baron Pontmercy": 1,
+      "Basque": 1,
+      "Champ de Mars": 1,
+      "Changer": 1,
+      "Chateaubriand": 1,
+      "Colonel Pontmercy": 1,
+      "Cosette": 1,
+      "Grand Sewer": 1
+    }
+  },
+  {
+    "canonical_name": "Chateaubriand",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "\u201cThen it must have been at Chateaubriand\u2019s that I have seen Monsieur!"
+      }
+    },
+    "co_occurs_with": {
+      "Baron Pontmercy": 1,
+      "Basque": 1,
+      "Champ de Mars": 1,
+      "Changer": 1,
+      "Colonel Pontmercy": 1,
+      "Cosette": 1,
+      "Grand Sewer": 1,
+      "Javert": 1
+    }
+  },
+  {
+    "canonical_name": "Joya",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "district near Panama, a village called la Joya."
+      }
+    },
+    "co_occurs_with": {
+      "Baron Pontmercy": 1,
+      "Basque": 1,
+      "Champ de Mars": 1,
+      "Changer": 1,
+      "Chateaubriand": 1,
+      "Colonel Pontmercy": 1,
+      "Cosette": 1,
+      "Grand Sewer": 1
+    }
+  },
+  {
+    "canonical_name": "Pont",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 3,
+    "per_chapter": {
+      "4": {
+        "mentions": 3,
+        "snippet": "\u201cPolice-agent-Ja-vert-was-found-drowned-un-der-a-boat-of-the-Pont-au-"
+      }
+    },
+    "co_occurs_with": {
+      "Baron Pontmercy": 1,
+      "Basque": 1,
+      "Champ de Mars": 1,
+      "Changer": 1,
+      "Chateaubriand": 1,
+      "Colonel Pontmercy": 1,
+      "Cosette": 1,
+      "Grand Sewer": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur Orfila",
+    "aliases": [
+      "Orfila"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "which bewitched me would intoxicate Monsieur Orfila."
+      }
+    },
+    "co_occurs_with": {
+      "Aventine Hill": 1,
+      "Condemned Man": 1,
+      "French Alps": 1,
+      "French Revolution": 1,
+      "From April": 1,
+      "Goblet Junior": 1,
+      "Italians": 1,
+      "Italy": 1
+    }
+  },
+  {
+    "canonical_name": "Italians",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "Italians, with you as with us,"
+      }
+    },
+    "co_occurs_with": {
+      "Aventine Hill": 1,
+      "Condemned Man": 1,
+      "French Alps": 1,
+      "French Revolution": 1,
+      "From April": 1,
+      "Goblet Junior": 1,
+      "Italy": 1,
+      "Jean Valjean": 1
+    }
+  }
+]
