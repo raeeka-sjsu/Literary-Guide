@@ -157,8 +157,8 @@
       "Phelps": 3,
       "Sid": 3,
       "Tom": 3,
-      "Archibald Nichols": 2,
-      "Huck Finn": 2
+      "Huck Finn": 2,
+      "Miss Watson": 2
     }
   },
   {
@@ -219,10 +219,10 @@
       "Jim": 6,
       "Judge Thatcher": 4,
       "Aunt Polly": 3,
-      "Huck Finn": 3,
-      "Jo Harper": 3,
       "Huck": 3,
-      "Archibald Nichols": 2
+      "Jo Harper": 3,
+      "Huck Finn": 3,
+      "Aunt Sally": 2
     }
   },
   {
@@ -273,8 +273,8 @@
       "Huck Finn": 3,
       "Phelps": 3,
       "Sid": 3,
-      "Archibald Nichols": 2,
-      "Miss Watson": 2
+      "Miss Watson": 2,
+      "Mrs. Phelps": 2
     }
   },
   {
@@ -460,7 +460,7 @@
       "Aunt Sally": 5,
       "Judge Thatcher": 4,
       "Aunt Polly": 3,
-      "Phelps": 3
+      "Jo Harper": 3
     }
   },
   {
@@ -552,11 +552,11 @@
       "Judge Thatcher": 3,
       "Miss Watson": 3,
       "Tom Sawyer": 3,
-      "Archibald Nichols": 1,
-      "Aunt Sally": 1,
-      "Aunty": 1,
-      "Back Country": 1,
-      "Behind the Wood": 1
+      "Don": 1,
+      "Huckleberry": 1,
+      "Mark Twain": 1,
+      "Moses": 1,
+      "Mr. Mark Twain": 1
     }
   },
   {
@@ -607,10 +607,10 @@
       "Huck Finn": 2,
       "Judge Thatcher": 2,
       "Tom Sawyer": 2,
-      "Archibald Nichols": 1,
       "Aunt Polly": 1,
       "Aunt Sally": 1,
-      "Aunty": 1
+      "Aunty": 1,
+      "Miss Watson": 1
     }
   },
   {
@@ -635,12 +635,12 @@
     "co_occurs_with": {
       "Aunt Sally": 3,
       "Uncle Silas": 3,
-      "Archibald Nichols": 2,
       "Jim": 2,
       "Miss Watson": 2,
-      "Mr. Archibald Nichols": 2,
       "Phelps": 2,
-      "Tom Sawyer": 2
+      "Tom Sawyer": 2,
+      "Aunt Polly": 1,
+      "Aunty": 1
     }
   },
   {
@@ -1097,34 +1097,6 @@
     }
   },
   {
-    "canonical_name": "Miss Charlotte",
-    "aliases": [
-      "Charlotte"
-    ],
-    "first_chapter": 18,
-    "total_mentions": 8,
-    "per_chapter": {
-      "18": {
-        "mentions": 5,
-        "snippet": "Then there was Miss Charlotte; she was twenty-five, and tall and proud"
-      },
-      "42": {
-        "mentions": 3,
-        "snippet": "Miss Charlotte"
-      }
-    },
-    "co_occurs_with": {
-      "Jim": 2,
-      "Archibald Nichols": 1,
-      "Aunt Polly": 1,
-      "Aunt Sally": 1,
-      "Aunty": 1,
-      "Back Country": 1,
-      "Behind the Wood": 1,
-      "Best Authorities": 1
-    }
-  },
-  {
     "canonical_name": "Judge Thatcher",
     "aliases": [],
     "first_chapter": 1,
@@ -1162,8 +1134,8 @@
       "Huck Finn": 2,
       "Jim": 2,
       "The": 2,
-      "Archibald Nichols": 1,
-      "Aunt Sally": 1
+      "Don": 1,
+      "Huckleberry": 1
     }
   },
   {
@@ -1457,7 +1429,7 @@
       "Miss Watson": 2,
       "Mrs. Phelps": 2,
       "Sid": 2,
-      "Archibald Nichols": 1
+      "Aunt Polly": 1
     }
   },
   {
@@ -1625,6 +1597,30 @@
     }
   },
   {
+    "canonical_name": "Miss Charlotte",
+    "aliases": [
+      "Charlotte"
+    ],
+    "first_chapter": 18,
+    "total_mentions": 5,
+    "per_chapter": {
+      "18": {
+        "mentions": 5,
+        "snippet": "Then there was Miss Charlotte; she was twenty-five, and tall and proud"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Baldy Shepherdson": 1,
+      "Bob": 1,
+      "Buck": 1,
+      "Bud": 1,
+      "Don": 1,
+      "Grangerfords": 1,
+      "Harney Shepherdson": 1
+    }
+  },
+  {
     "canonical_name": "Jack",
     "aliases": [],
     "first_chapter": 18,
@@ -1707,50 +1703,6 @@
       "Mars Sid": 1,
       "Tom Sawyer": 1,
       "Uncle Silas": 1
-    }
-  },
-  {
-    "canonical_name": "Him",
-    "aliases": [],
-    "first_chapter": 42,
-    "total_mentions": 4,
-    "per_chapter": {
-      "42": {
-        "mentions": 4,
-        "snippet": "\u201cHim and another Man\u201d"
-      }
-    },
-    "co_occurs_with": {
-      "Archibald Nichols": 1,
-      "Aunt Polly": 1,
-      "Aunt Sally": 1,
-      "Aunty": 1,
-      "Back Country": 1,
-      "Behind the Wood": 1,
-      "Best Authorities": 1,
-      "Boston Harbor": 1
-    }
-  },
-  {
-    "canonical_name": "Raft",
-    "aliases": [],
-    "first_chapter": 42,
-    "total_mentions": 4,
-    "per_chapter": {
-      "42": {
-        "mentions": 4,
-        "snippet": "On the Raft"
-      }
-    },
-    "co_occurs_with": {
-      "Archibald Nichols": 1,
-      "Aunt Polly": 1,
-      "Aunt Sally": 1,
-      "Aunty": 1,
-      "Back Country": 1,
-      "Behind the Wood": 1,
-      "Best Authorities": 1,
-      "Boston Harbor": 1
     }
   },
   {
@@ -2004,10 +1956,10 @@
       "Phelps": 2,
       "Tom Sawyer": 2,
       "Uncle Silas": 2,
-      "Archibald Nichols": 1,
       "Aunt Polly": 1,
       "Aunty": 1,
-      "Back Country": 1
+      "Huck Finn": 1,
+      "Jim": 1
     }
   },
   {
@@ -2172,10 +2124,10 @@
       "Tom Sawyer": 3,
       "Ben Rogers": 2,
       "Huck Finn": 2,
-      "Gang": 1,
-      "Jim": 1,
-      "New Orleans": 1,
-      "Tommy Barnes": 1
+      "Aunt Polly": 1,
+      "Balum": 1,
+      "Bessie Thatcher": 1,
+      "Huck": 1
     }
   },
   {
@@ -2735,14 +2687,14 @@
       }
     },
     "co_occurs_with": {
-      "Archibald Nichols": 1,
       "Aunt Polly": 1,
       "Aunt Sally": 1,
-      "Back Country": 1,
-      "Behind the Wood": 1,
-      "Best Authorities": 1,
-      "Boston Harbor": 1,
-      "Come In": 1
+      "Huck Finn": 1,
+      "Jim": 1,
+      "Judge Thatcher": 1,
+      "Miss Watson": 1,
+      "Mrs. Phelps": 1,
+      "Phelps": 1
     }
   }
 ]

@@ -36,13 +36,13 @@
     },
     "co_occurs_with": {
       "Clerval": 4,
-      "Ancient Mariner": 2,
-      "Frankenstein": 2,
       "Ingolstadt": 2,
-      "Alas": 1,
-      "Archangel": 1,
-      "Black Sea": 1,
-      "Captain Walton": 1
+      "Frankenstein": 2,
+      "Albertus Magnus": 1,
+      "Alphonse Frankenstein": 1,
+      "Caroline Beaufort": 1,
+      "Ernest": 1,
+      "Geneva": 1
     }
   },
   {
@@ -123,9 +123,9 @@
       }
     },
     "co_occurs_with": {
-      "Elizabeth": 4,
       "Geneva": 4,
       "Henry": 4,
+      "Elizabeth": 4,
       "Cornelius Agrippa": 2,
       "Ingolstadt": 2,
       "Justine Moritz": 2,
@@ -376,12 +376,12 @@
     "co_occurs_with": {
       "Elizabeth": 2,
       "Alas": 1,
-      "Ancient Mariner": 1,
-      "Archangel": 1,
       "Black Sea": 1,
-      "Captain Walton": 1,
       "Clerval": 1,
-      "Frozen Ocean": 1
+      "Frozen Ocean": 1,
+      "Margaret": 1,
+      "Walton": 1,
+      "Justine": 1
     }
   },
   {
@@ -430,14 +430,14 @@
       }
     },
     "co_occurs_with": {
-      "Elizabeth": 2,
       "Clerval": 2,
-      "Ancient Mariner": 1,
-      "Dearest Clerval": 1,
-      "Henry Clerval": 1,
-      "The Vicar": 1,
+      "Elizabeth": 2,
       "Cornelius Agrippa": 1,
-      "Elizabeth Lavenza": 1
+      "Elizabeth Lavenza": 1,
+      "Geneva": 1,
+      "Henry": 1,
+      "John Melbourne": 1,
+      "Justine Moritz": 1
     }
   },
   {
@@ -516,54 +516,6 @@
       "Good God": 1,
       "Justine Moritz": 1,
       "Mont Blanc": 1
-    }
-  },
-  {
-    "canonical_name": "Uncle Thomas",
-    "aliases": [
-      "Thomas"
-    ],
-    "first_chapter": 24,
-    "total_mentions": 6,
-    "per_chapter": {
-      "24": {
-        "mentions": 6,
-        "snippet": "whole of our good Uncle Thomas\u2019 library."
-      }
-    },
-    "co_occurs_with": {
-      "Alas": 1,
-      "Ancient Mariner": 1,
-      "Archangel": 1,
-      "Black Sea": 1,
-      "Captain Walton": 1,
-      "Clerval": 1,
-      "Elizabeth": 1,
-      "Frankenstein": 1
-    }
-  },
-  {
-    "canonical_name": "Mrs. Saville",
-    "aliases": [
-      "Saville"
-    ],
-    "first_chapter": 24,
-    "total_mentions": 6,
-    "per_chapter": {
-      "24": {
-        "mentions": 6,
-        "snippet": "_To Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Alas": 1,
-      "Ancient Mariner": 1,
-      "Archangel": 1,
-      "Black Sea": 1,
-      "Captain Walton": 1,
-      "Clerval": 1,
-      "Elizabeth": 1,
-      "Frankenstein": 1
     }
   },
   {
@@ -671,28 +623,6 @@
     }
   },
   {
-    "canonical_name": "Walton",
-    "aliases": [],
-    "first_chapter": 24,
-    "total_mentions": 5,
-    "per_chapter": {
-      "24": {
-        "mentions": 5,
-        "snippet": "swear to me, Walton, that he shall not escape, that you will seek him"
-      }
-    },
-    "co_occurs_with": {
-      "Alas": 1,
-      "Ancient Mariner": 1,
-      "Archangel": 1,
-      "Black Sea": 1,
-      "Captain Walton": 1,
-      "Clerval": 1,
-      "Elizabeth": 1,
-      "Frankenstein": 1
-    }
-  },
-  {
     "canonical_name": "Rhine",
     "aliases": [],
     "first_chapter": 18,
@@ -737,25 +667,24 @@
     }
   },
   {
-    "canonical_name": "Archangel",
+    "canonical_name": "Walton",
     "aliases": [],
     "first_chapter": 24,
-    "total_mentions": 4,
+    "total_mentions": 5,
     "per_chapter": {
       "24": {
-        "mentions": 4,
-        "snippet": "Archangel."
+        "mentions": 5,
+        "snippet": "swear to me, Walton, that he shall not escape, that you will seek him"
       }
     },
     "co_occurs_with": {
       "Alas": 1,
-      "Ancient Mariner": 1,
       "Black Sea": 1,
-      "Captain Walton": 1,
       "Clerval": 1,
       "Elizabeth": 1,
       "Frankenstein": 1,
-      "Frozen Ocean": 1
+      "Frozen Ocean": 1,
+      "Margaret": 1
     }
   },
   {
@@ -893,28 +822,6 @@
       "Justine": 1,
       "Mont Blanc": 1,
       "Victor": 1
-    }
-  },
-  {
-    "canonical_name": "Margaret",
-    "aliases": [],
-    "first_chapter": 24,
-    "total_mentions": 3,
-    "per_chapter": {
-      "24": {
-        "mentions": 3,
-        "snippet": "You have read this strange and terrific story, Margaret; and do you not"
-      }
-    },
-    "co_occurs_with": {
-      "Alas": 1,
-      "Ancient Mariner": 1,
-      "Archangel": 1,
-      "Black Sea": 1,
-      "Captain Walton": 1,
-      "Clerval": 1,
-      "Elizabeth": 1,
-      "Frankenstein": 1
     }
   },
   {
@@ -1246,6 +1153,27 @@
     }
   },
   {
+    "canonical_name": "Margaret",
+    "aliases": [],
+    "first_chapter": 24,
+    "total_mentions": 3,
+    "per_chapter": {
+      "24": {
+        "mentions": 3,
+        "snippet": "You have read this strange and terrific story, Margaret; and do you not"
+      }
+    },
+    "co_occurs_with": {
+      "Alas": 1,
+      "Black Sea": 1,
+      "Clerval": 1,
+      "Elizabeth": 1,
+      "Frankenstein": 1,
+      "Frozen Ocean": 1,
+      "Walton": 1
+    }
+  },
+  {
     "canonical_name": "Alas",
     "aliases": [],
     "first_chapter": 24,
@@ -1257,14 +1185,13 @@
       }
     },
     "co_occurs_with": {
-      "Ancient Mariner": 1,
-      "Archangel": 1,
       "Black Sea": 1,
-      "Captain Walton": 1,
       "Clerval": 1,
       "Elizabeth": 1,
       "Frankenstein": 1,
-      "Frozen Ocean": 1
+      "Frozen Ocean": 1,
+      "Margaret": 1,
+      "Walton": 1
     }
   }
 ]

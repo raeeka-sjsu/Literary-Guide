@@ -402,14 +402,31 @@ def build_for_book(book_id: str) -> List[dict]:
     per_chapter: Dict[str, Dict[int, dict]] = defaultdict(dict)
 
     is_single_chapter_book = len(book["chapters"]) == 1
-    for ch in book["chapters"]:
-        title = ch.get("title") or ""
-        ch_num = parse_chapter_number(title)
-        if ch_num is None:
+
+    # When two chapters map to the same canonical number (Gutenberg TOC vs real
+    # chapter), keep the LONGER one — the real chapter has substantially more
+    # text than the TOC entry.
+    canon_to_best_idx: Dict[int, int] = {}
+    canon_for: Dict[int, Optional[int]] = {}
+    for i, ch in enumerate(book["chapters"]):
+        c = parse_chapter_number(ch.get("title") or "")
+        if c is None:
             if is_single_chapter_book:
-                ch_num = 1
+                c = 1
             else:
-                continue  # skip TOC / front matter
+                canon_for[i] = None
+                continue
+        canon_for[i] = c
+        prev = canon_to_best_idx.get(c)
+        if prev is None or len(book["chapters"][prev].get("text") or "") < len(ch.get("text") or ""):
+            canon_to_best_idx[c] = i
+    keep_indices = set(canon_to_best_idx.values())
+
+    for i, ch in enumerate(book["chapters"]):
+        if i not in keep_indices:
+            continue
+        title = ch.get("title") or ""
+        ch_num = canon_for[i]
         text = ch.get("text") or ""
         if not text:
             continue

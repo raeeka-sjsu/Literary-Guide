@@ -5,7 +5,7 @@
       "Olenska"
     ],
     "first_chapter": 2,
-    "total_mentions": 436,
+    "total_mentions": 440,
     "per_chapter": {
       "2": {
         "mentions": 5,
@@ -100,8 +100,8 @@
         "snippet": "death of her parents, had won its heart much as Madame Olenska had won"
       },
       "1000": {
-        "mentions": 5,
-        "snippet": "need not trouble you with--that it would be better for Madame Olenska"
+        "mentions": 9,
+        "snippet": "brought, it is hardly possible for Madame Olenska not to return to her"
       }
     },
     "co_occurs_with": {
@@ -119,7 +119,7 @@
     "canonical_name": "Archer",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 215,
+    "total_mentions": 220,
     "per_chapter": {
       "1": {
         "mentions": 1,
@@ -226,8 +226,8 @@
         "snippet": "Archer already lay"
       },
       "1000": {
-        "mentions": 3,
-        "snippet": "\" Archer paused again, and their eyes met in another"
+        "mentions": 8,
+        "snippet": "\" Archer exclaimed; and his visitor gave out a low murmur of"
       }
     },
     "co_occurs_with": {
@@ -1583,7 +1583,7 @@
     "canonical_name": "The",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 31,
+    "total_mentions": 30,
     "per_chapter": {
       "2": {
         "mentions": 5,
@@ -1602,8 +1602,8 @@
         "snippet": "\" The"
       },
       "1000": {
-        "mentions": 4,
-        "snippet": "The Countess was good enough to listen patiently; she carried her"
+        "mentions": 3,
+        "snippet": "The discovery that he had been excluded from a share in"
       }
     },
     "co_occurs_with": {
@@ -3252,7 +3252,7 @@
       },
       "1000": {
         "mentions": 1,
-        "snippet": "asked me if I was in Count Olenski's employ."
+        "snippet": "\"Before seeing her, I saw--at Count Olenski's request--Mr."
       }
     },
     "co_occurs_with": {
@@ -5392,28 +5392,6 @@
       "Mrs. Manson Mingott": 2,
       "Beaufort": 1,
       "Beauforts": 1
-    }
-  },
-  {
-    "canonical_name": "Monsieur",
-    "aliases": [],
-    "first_chapter": 1000,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1000": {
-        "mentions": 3,
-        "snippet": "\"Ah, Monsieur, after I had seen her, after I had listened to her, I"
-      }
-    },
-    "co_occurs_with": {
-      "Archer": 1,
-      "Archery Meeting": 1,
-      "Count Olenski": 1,
-      "Countess Olenska": 1,
-      "Lovell Mingott": 1,
-      "Madame Olenska": 1,
-      "Manson Mingott": 1,
-      "Monsieur. If": 1
     }
   },
   {

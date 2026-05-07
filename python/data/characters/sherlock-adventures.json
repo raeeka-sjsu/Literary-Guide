@@ -57,8 +57,8 @@
       "Sherlock Holmes": 10,
       "Dr. Watson": 6,
       "Very": 5,
-      "Irene Adler": 4,
-      "Have": 4
+      "Have": 4,
+      "Mary Sutherland": 4
     }
   },
   {
@@ -247,8 +247,8 @@
       "Watson": 9,
       "Very": 6,
       "Dr. Watson": 5,
-      "Mr. Sherlock Holmes": 5,
-      "Have": 4
+      "Have": 4,
+      "Mary Sutherland": 4
     }
   },
   {
@@ -301,10 +301,10 @@
       "Dr. Watson": 3,
       "Holmes": 3,
       "Watson": 3,
-      "Bohemia": 2,
       "Doctor": 2,
       "Irene Adler": 2,
-      "King": 2
+      "King": 2,
+      "Mr. Holmes": 2
     }
   },
   {
@@ -383,8 +383,8 @@
       "Sherlock Holmes": 9,
       "Dr. Watson": 6,
       "Very": 5,
-      "Irene Adler": 4,
-      "Mary Sutherland": 4
+      "Mary Sutherland": 4,
+      "Miss Mary Sutherland": 4
     }
   },
   {
@@ -402,13 +402,13 @@
     },
     "co_occurs_with": {
       "Baker Street": 1,
-      "Bohemia": 1,
-      "Briony Lodge": 1,
-      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1
+      "Hosmer Angel": 1,
+      "Irene Adler": 1,
+      "James Windibank": 1,
+      "King": 1
     }
   },
   {
@@ -425,14 +425,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -496,7 +496,7 @@
       "Dr. Watson": 6,
       "Very": 6,
       "Doctor": 4,
-      "Irene Adler": 4
+      "Mary Sutherland": 4
     }
   },
   {
@@ -513,14 +513,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -580,13 +580,13 @@
     },
     "co_occurs_with": {
       "Baker Street": 1,
-      "Bohemia": 1,
-      "Briony Lodge": 1,
-      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Irene Adler": 1
+      "Irene Adler": 1,
+      "James Windibank": 1,
+      "King": 1,
+      "Leadenhall Street": 1
     }
   },
   {
@@ -641,8 +641,8 @@
       "Watson": 3,
       "Sherlock Holmes": 3,
       "Very": 3,
-      "Irene Adler": 2,
-      "King": 2
+      "There": 2,
+      "Mr. Holmes": 2
     }
   },
   {
@@ -779,8 +779,8 @@
       "Mr. Holmes": 4,
       "Sherlock Holmes": 4,
       "Watson": 4,
-      "Irene Adler": 3,
-      "Tottenham Court Road": 3
+      "Tottenham Court Road": 3,
+      "Dr. Watson": 2
     }
   },
   {
@@ -939,8 +939,8 @@
       "Mr. Sherlock Holmes": 2,
       "Scotland Yard": 2,
       "Sherlock Holmes": 2,
-      "Turner": 2,
-      "Watson": 2
+      "Watson": 2,
+      "Baker Street": 1
     }
   },
   {
@@ -956,13 +956,13 @@
     },
     "co_occurs_with": {
       "Baker Street": 1,
-      "Bohemia": 1,
-      "Briony Lodge": 1,
-      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1
+      "Hosmer Angel": 1,
+      "Irene Adler": 1,
+      "James Windibank": 1,
+      "King": 1
     }
   },
   {
@@ -1080,32 +1080,6 @@
     }
   },
   {
-    "canonical_name": "Turner",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 12,
-    "per_chapter": {
-      "2": {
-        "mentions": 1,
-        "snippet": "Turner has brought in the tray I will make it clear to you."
-      },
-      "4": {
-        "mentions": 11,
-        "snippet": "Turner."
-      }
-    },
-    "co_occurs_with": {
-      "Duncan Ross": 2,
-      "Have": 2,
-      "Holmes": 2,
-      "Mr. Holmes": 2,
-      "Mr. Sherlock Holmes": 2,
-      "Scotland Yard": 2,
-      "Sherlock Holmes": 2,
-      "Watson": 2
-    }
-  },
-  {
     "canonical_name": "League",
     "aliases": [],
     "first_chapter": 2,
@@ -1117,14 +1091,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -1149,8 +1123,8 @@
       "Mr. Holmes": 2,
       "Mr. Sherlock Holmes": 2,
       "Sherlock Holmes": 2,
-      "Thank God": 2,
-      "Very": 2
+      "Very": 2,
+      "Watson": 2
     }
   },
   {
@@ -1246,71 +1220,25 @@
     }
   },
   {
-    "canonical_name": "King",
+    "canonical_name": "Turner",
     "aliases": [],
-    "first_chapter": 1,
+    "first_chapter": 4,
     "total_mentions": 11,
     "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "he cried; \u201cI am the King."
-      },
-      "2": {
-        "mentions": 3,
-        "snippet": "that the King is capable of having her waylaid and searched."
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "a little souvenir from the King of Bohemia in return for my assistance"
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 3,
-      "Dr. Watson": 3,
-      "Holmes": 3,
-      "Irene Adler": 3,
-      "Watson": 3,
-      "Bohemia": 2,
-      "Doctor": 2,
-      "Serpentine Avenue": 2
-    }
-  },
-  {
-    "canonical_name": "Mr. Sherlock Holmes",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 11,
-    "per_chapter": {
-      "2": {
-        "mentions": 2,
-        "snippet": "I had called upon my friend, Mr."
-      },
-      "3": {
-        "mentions": 4,
-        "snippet": "\u201cMr."
-      },
       "4": {
-        "mentions": 2,
-        "snippet": "are always so interested in Mr."
-      },
-      "6": {
-        "mentions": 1,
-        "snippet": "\u201cNow, Mr."
-      },
-      "9": {
-        "mentions": 2,
-        "snippet": "Of all the problems which have been submitted to my friend, Mr."
+        "mentions": 11,
+        "snippet": "Turner."
       }
     },
     "co_occurs_with": {
-      "Sherlock Holmes": 5,
-      "Baker Street": 4,
-      "Holmes": 4,
-      "Mr. Holmes": 4,
-      "Watson": 4,
-      "Dr. Watson": 3,
-      "Scotland Yard": 3,
-      "Very": 3
+      "Alice": 1,
+      "Assizes": 1,
+      "Australian": 1,
+      "Ballarat Gang": 1,
+      "Bermuda Dockyard": 1,
+      "Boscombe Pool": 1,
+      "Boscombe Valley": 1,
+      "Bristol": 1
     }
   },
   {
@@ -1355,69 +1283,6 @@
       "Dr. Grimesby Roylott": 1,
       "Dr. Watson": 1,
       "General Stoner": 1
-    }
-  },
-  {
-    "canonical_name": "Irene Adler",
-    "aliases": [
-      "Adler",
-      "Irene"
-    ],
-    "first_chapter": 1,
-    "total_mentions": 10,
-    "per_chapter": {
-      "1": {
-        "mentions": 2,
-        "snippet": "akin to love for Irene Adler."
-      },
-      "2": {
-        "mentions": 5,
-        "snippet": "perhaps the house, of Miss Irene Adler."
-      },
-      "3": {
-        "mentions": 2,
-        "snippet": "in the case of the Irene Adler papers."
-      },
-      "7": {
-        "mentions": 1,
-        "snippet": "You allude to my attempt to recover the Irene Adler papers,"
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 4,
-      "Holmes": 4,
-      "Watson": 4,
-      "Dr. Watson": 3,
-      "King": 3,
-      "Mary Sutherland": 3,
-      "Miss Mary Sutherland": 3,
-      "Mr. Holmes": 3
-    }
-  },
-  {
-    "canonical_name": "Briony Lodge",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 10,
-    "per_chapter": {
-      "2": {
-        "mentions": 8,
-        "snippet": "I soon found Briony Lodge."
-      },
-      "3": {
-        "mentions": 2,
-        "snippet": "more for Briony Lodge."
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 2,
-      "Dr. Watson": 2,
-      "Holmes": 2,
-      "Irene Adler": 2,
-      "King": 2,
-      "Mary Sutherland": 2,
-      "Miss Mary Sutherland": 2,
-      "Mr. Holmes": 2
     }
   },
   {
@@ -1821,6 +1686,32 @@
     }
   },
   {
+    "canonical_name": "King",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "he cried; \u201cI am the King."
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "a little souvenir from the King of Bohemia in return for my assistance"
+      }
+    },
+    "co_occurs_with": {
+      "Baker Street": 2,
+      "Dr. Watson": 2,
+      "Holmes": 2,
+      "Irene Adler": 2,
+      "There": 2,
+      "Watson": 2,
+      "Bohemia": 1,
+      "Bohemian": 1
+    }
+  },
+  {
     "canonical_name": "Jabez Wilson",
     "aliases": [],
     "first_chapter": 2,
@@ -1832,14 +1723,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -1854,14 +1745,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
-      "Darlington Substitution Scandal": 1,
       "Doctor": 1,
-      "Dr. Watson": 1
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1,
+      "Farrington Street": 1
     }
   },
   {
@@ -1911,13 +1802,13 @@
     },
     "co_occurs_with": {
       "Baker Street": 1,
-      "Bohemia": 1,
-      "Briony Lodge": 1,
-      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1
+      "Hosmer Angel": 1,
+      "Irene Adler": 1,
+      "James Windibank": 1,
+      "King": 1
     }
   },
   {
@@ -2035,29 +1926,37 @@
     }
   },
   {
-    "canonical_name": "Bohemia",
+    "canonical_name": "Mr. Sherlock Holmes",
     "aliases": [],
-    "first_chapter": 1,
+    "first_chapter": 2,
     "total_mentions": 7,
     "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "German-speaking country\u2014in Bohemia, not far from Carlsbad."
+      "2": {
+        "mentions": 2,
+        "snippet": "I had called upon my friend, Mr."
       },
-      "3": {
-        "mentions": 3,
-        "snippet": "and coffee in the morning when the King of Bohemia rushed into the"
+      "4": {
+        "mentions": 2,
+        "snippet": "are always so interested in Mr."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "\u201cNow, Mr."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "Of all the problems which have been submitted to my friend, Mr."
       }
     },
     "co_occurs_with": {
-      "Baker Street": 2,
-      "Dr. Watson": 2,
-      "Holmes": 2,
-      "Irene Adler": 2,
-      "King": 2,
-      "Serpentine Avenue": 2,
-      "There": 2,
-      "Watson": 2
+      "Sherlock Holmes": 4,
+      "Baker Street": 3,
+      "Holmes": 3,
+      "Mr. Holmes": 3,
+      "Scotland Yard": 3,
+      "Very": 3,
+      "Watson": 3,
+      "City": 2
     }
   },
   {
@@ -2072,14 +1971,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -2106,12 +2005,12 @@
     "co_occurs_with": {
       "Baker Street": 3,
       "Holmes": 3,
-      "Irene Adler": 3,
       "Mary Sutherland": 3,
       "Miss Mary Sutherland": 3,
       "Mr. Holmes": 3,
       "Sherlock Holmes": 3,
-      "Watson": 3
+      "Watson": 3,
+      "Dr. Watson": 2
     }
   },
   {
@@ -2199,33 +2098,7 @@
       "Sherlock Holmes": 5,
       "Very": 4,
       "Doctor": 3,
-      "Irene Adler": 3
-    }
-  },
-  {
-    "canonical_name": "Serpentine",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 6,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "Serpentine-mews, to a man."
-      },
-      "10": {
-        "mentions": 3,
-        "snippet": "\u201cYes, I have been dragging the Serpentine."
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 2,
-      "Dr. Watson": 2,
-      "Have": 2,
-      "Holmes": 2,
-      "Mr. Holmes": 2,
-      "Scotland Yard": 2,
-      "Sherlock Holmes": 2,
-      "Very": 2
+      "There": 3
     }
   },
   {
@@ -2258,8 +2131,8 @@
       "Mr. Holmes": 4,
       "Sherlock Holmes": 4,
       "Watson": 4,
-      "Irene Adler": 3,
-      "Tottenham Court Road": 3
+      "Tottenham Court Road": 3,
+      "Dr. Watson": 2
     }
   },
   {
@@ -2274,14 +2147,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -2296,14 +2169,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -2318,14 +2191,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -2607,6 +2480,36 @@
     }
   },
   {
+    "canonical_name": "Irene Adler",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "akin to love for Irene Adler."
+      },
+      "3": {
+        "mentions": 2,
+        "snippet": "in the case of the Irene Adler papers."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "You allude to my attempt to recover the Irene Adler papers,"
+      }
+    },
+    "co_occurs_with": {
+      "Baker Street": 3,
+      "Holmes": 3,
+      "Watson": 3,
+      "Dr. Watson": 2,
+      "King": 2,
+      "The": 2,
+      "There": 2,
+      "Mary Sutherland": 2
+    }
+  },
+  {
     "canonical_name": "Red",
     "aliases": [],
     "first_chapter": 2,
@@ -2618,14 +2521,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -2849,25 +2752,25 @@
     }
   },
   {
-    "canonical_name": "Godfrey Norton",
+    "canonical_name": "Bohemia",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 1,
     "total_mentions": 4,
     "per_chapter": {
-      "2": {
+      "1": {
         "mentions": 4,
-        "snippet": "Godfrey"
+        "snippet": "German-speaking country\u2014in Bohemia, not far from Carlsbad."
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
-      "China": 1,
-      "City": 1,
-      "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Bohemian": 1,
+      "Continental Gazetteer": 1,
+      "Count Von Kramm": 1,
+      "Crown Prince": 1,
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Grand Duke": 1
     }
   },
   {
@@ -2884,14 +2787,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -2906,14 +2809,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
       "Doctor": 1,
-      "Dr. Watson": 1
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1,
+      "Farrington Street": 1
     }
   },
   {
@@ -2931,13 +2834,13 @@
     },
     "co_occurs_with": {
       "Baker Street": 1,
-      "Bohemia": 1,
-      "Briony Lodge": 1,
-      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1
+      "Hosmer Angel": 1,
+      "Irene Adler": 1,
+      "James Windibank": 1,
+      "King": 1
     }
   },
   {
@@ -2953,13 +2856,13 @@
     },
     "co_occurs_with": {
       "Baker Street": 1,
-      "Bohemia": 1,
-      "Briony Lodge": 1,
-      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1
+      "Hosmer Angel": 1,
+      "Irene Adler": 1,
+      "James Windibank": 1,
+      "King": 1
     }
   },
   {
@@ -2975,13 +2878,13 @@
     },
     "co_occurs_with": {
       "Baker Street": 1,
-      "Bohemia": 1,
-      "Briony Lodge": 1,
-      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1
+      "Hosmer Angel": 1,
+      "Irene Adler": 1,
+      "King": 1,
+      "Leadenhall Street": 1
     }
   },
   {
@@ -3407,32 +3310,6 @@
     }
   },
   {
-    "canonical_name": "Your Majesty",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 2,
-        "snippet": "\u201cYour Majesty had not spoken before I"
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "\u201cYour Majesty has something which I should value even more highly,\u201d"
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 2,
-      "Bohemia": 2,
-      "Dr. Watson": 2,
-      "Holmes": 2,
-      "Irene Adler": 2,
-      "King": 2,
-      "Serpentine Avenue": 2,
-      "There": 2
-    }
-  },
-  {
     "canonical_name": "Bohemian",
     "aliases": [],
     "first_chapter": 1,
@@ -3466,14 +3343,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -3488,14 +3365,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -3510,14 +3387,14 @@
       }
     },
     "co_occurs_with": {
-      "Arnsworth Castle": 1,
       "Baker Street": 1,
-      "Briony Lodge": 1,
       "China": 1,
       "City": 1,
       "Coburg Square": 1,
-      "Darlington Substitution Scandal": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Watson": 1,
+      "Duncan Ross": 1,
+      "Ezekiah Hopkins": 1
     }
   },
   {
@@ -3533,13 +3410,13 @@
     },
     "co_occurs_with": {
       "Baker Street": 1,
-      "Bohemia": 1,
-      "Briony Lodge": 1,
-      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1
+      "Hosmer Angel": 1,
+      "Irene Adler": 1,
+      "James Windibank": 1,
+      "King": 1
     }
   },
   {
@@ -3555,13 +3432,13 @@
     },
     "co_occurs_with": {
       "Baker Street": 1,
-      "Bohemia": 1,
-      "Briony Lodge": 1,
-      "Charing Cross": 1,
       "Dr. Watson": 1,
       "Fenchurch Street": 1,
       "Holmes": 1,
-      "Hosmer Angel": 1
+      "Hosmer Angel": 1,
+      "Irene Adler": 1,
+      "James Windibank": 1,
+      "King": 1
     }
   },
   {
@@ -4355,6 +4232,28 @@
       "10": {
         "mentions": 3,
         "snippet": "Still, of course, in America they look upon these"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Alicia Whittington": 1,
+      "Aloysius Doran": 1,
+      "Apache Indians": 1,
+      "Arabian Nights": 1,
+      "Baker Street": 1,
+      "Balmoral": 1,
+      "California": 1
+    }
+  },
+  {
+    "canonical_name": "Serpentine",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 3,
+    "per_chapter": {
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cYes, I have been dragging the Serpentine."
       }
     },
     "co_occurs_with": {

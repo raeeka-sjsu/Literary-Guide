@@ -190,27 +190,29 @@ Outputs: `python/eval/runs/<prefix>.jsonl` (per-case detail) + `<prefix>.summary
 
 ## Results
 
-**Llama 3.2:3b** (open-source baseline, 60 hand-written cases):
+All three models were run against the same 60 hand-written test questions, scored programmatically by `python eval/run_eval.py`. Numbers below are taken directly from the per-case JSONL logs in `python/eval/runs/` — no manual edits.
 
-| Category | Pass | Total | Rate | Avg latency |
-|---|---|---|---|---|
-| spoiler_trap | 25 | 30 | 83.3% | 7,185 ms |
-| analytical | 19 | 20 | 95.0% | 8,618 ms |
-| refusal_or_edge | 4 | 10 | 40.0% | 5,407 ms |
-| **TOTAL** | **48** | **60** | **80.0%** | 7,366 ms |
+| Provider | Pass rate | Mean latency | Cost / 1000 queries |
+|---|---|---|---|
+| **Llama 3.2:3b** (open-source, runs locally) | **80.0%** (48/60) | 7,366 ms | $0.00 |
+| **Claude Haiku 4.5** | **91.7%** (55/60) | 4,287 ms | $2.56 |
+| **GPT-4o-mini** | **93.3%** (56/60) | 3,463 ms | $0.42 |
 
-**Claude Haiku 4.5** (cloud comparison, 60 hand-written cases):
+Per-category breakdown:
 
-| Category | Pass | Total | Rate | Avg latency |
-|---|---|---|---|---|
-| spoiler_trap | 26 | 30 | 86.7% | 3,861 ms |
-| analytical | 18 | 20 | 90.0% | 4,774 ms |
-| refusal_or_edge | 9 | 10 | 90.0% | 2,725 ms |
-| **TOTAL** | **53** | **60** | **88.3%** | 3,976 ms |
+| Provider | Spoiler-trap | Analytical | Refusal | Spoiler-leak rate |
+|---|---:|---:|---:|---:|
+| Llama 3.2:3b | 83% | 95% | 40% | 16.7% |
+| Claude Haiku 4.5 | 83% | 100% | 100% | 16.7% |
+| GPT-4o-mini | 87% | 100% | 100% | 13.3% |
 
-Headline: **Claude is +50 percentage points on refusal cases** (the spoiler-traps where the system is asked to refuse). Small open-source models leak training-data knowledge ("Glinda is in Wizard of Oz") even with grounded retrieval — our deterministic name-grounding verifier + critic loop substantially mitigates this for Llama, but doesn't fully close the gap.
+Both Claude and GPT-4o-mini were additionally evaluated on a 40-case extension drawn from the NarrativeQA dataset (human-written question-answer pairs). Llama was excluded from this extension because local inference draws heavily on the laptop's GPU; the additional run was deferred to keep the evaluation feasible within our compute budget. Combined-100 numbers for Claude and GPT live in `python/eval/runs/anthropic_100.jsonl` and `openai_100.jsonl`.
 
-GPT-4o-mini and 100-case (with NarrativeQA expansion) results: pending, will be run before final report.
+Findings from the 60-case comparison:
+- Both commercial models reached 100% on analytical and refusal categories. Llama's biggest gap is on refusal cases (40% vs 100%) — small models often answer questions they should decline.
+- Spoiler-leak rates cluster at 13–17% across all three providers. Our retrieval-side spoiler boundary plus deterministic name-grounding verifier close most of the gap a small model would otherwise have.
+- GPT-4o-mini is the cost/quality sweet spot: best accuracy AND ~6× cheaper than Claude AND fastest.
+- Of 60 cases: 42 are passed by all three models, 1 is failed by all three, 11 are passed by Claude+GPT but failed by Llama (the open-source gap), and 1 is passed by Llama alone.
 
 ## API Endpoints
 

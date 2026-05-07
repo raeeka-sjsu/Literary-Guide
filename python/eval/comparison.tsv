@@ -1,0 +1,4 @@
+Provider	Model	Total	Passes	Rate%	Latency Mean(ms)	Latency p95(ms)	Spoiler-trap rate%	Analytical rate%	Refusal rate%	Spoiler-leak rate%	Total cost($)	Cost/query($)
+ollama	llama3.2:3b	60	48	80.0	7366	12398	83.3	95.0	40.0	16.7	0.0000	0.000000
+anthropic	claude-haiku-4-5	60	55	91.7	4287	6828	83.3	100.0	100.0	16.7	0.1534	0.002556
+openai	gpt-4o-mini	60	56	93.3	3463	5224	86.7	100.0	100.0	13.3	0.0250	0.000417

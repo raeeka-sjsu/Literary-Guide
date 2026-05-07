@@ -2,28 +2,20 @@
   {
     "canonical_name": "Emma",
     "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 350,
+    "first_chapter": 3,
+    "total_mentions": 378,
     "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "A very little quiet reflection was enough to satisfy Emma as to the"
-      },
-      "2": {
-        "mentions": 8,
-        "snippet": "Emma was sorry;\u2014to have to pay civilities to a person she did not like"
-      },
       "3": {
-        "mentions": 9,
-        "snippet": "Knightley gave Emma considerable"
+        "mentions": 24,
+        "snippet": "Emma could not forgive her;\u2014but as neither provocation nor resentment"
       },
       "4": {
-        "mentions": 14,
-        "snippet": "morning to Emma with a small parcel in her hand, and after sitting down"
+        "mentions": 10,
+        "snippet": "and decided in her ways, Emma lost no time in inviting, encouraging,"
       },
       "5": {
-        "mentions": 22,
-        "snippet": "his pursuit of Emma."
+        "mentions": 19,
+        "snippet": "revive a little local agitation; and when they parted, Emma observed"
       },
       "6": {
         "mentions": 26,
@@ -34,12 +26,12 @@
         "snippet": "Emma and Harriet went together; Miss Bates and her niece, with"
       },
       "8": {
-        "mentions": 9,
-        "snippet": "The wretchedness of a scheme to Box Hill was in Emma\u2019s thoughts all the"
+        "mentions": 33,
+        "snippet": "seeing him, Emma thus moralised to herself:\u2014"
       },
       "9": {
-        "mentions": 17,
-        "snippet": "Emma\u2019s pensive meditations, as she walked home, were not interrupted;"
+        "mentions": 21,
+        "snippet": "Knightley might quarrel with her, but Emma could not quarrel with"
       },
       "10": {
         "mentions": 33,
@@ -50,8 +42,8 @@
         "snippet": "tormenting ideas which Emma could not get rid of, and which constituted"
       },
       "12": {
-        "mentions": 14,
-        "snippet": "Till now that she was threatened with its loss, Emma had never known"
+        "mentions": 17,
+        "snippet": "Emma\u2019s sense of right however had decided it; and"
       },
       "13": {
         "mentions": 27,
@@ -62,8 +54,8 @@
         "snippet": "Emma had feelings, less of curiosity than of pride or propriety, to"
       },
       "15": {
-        "mentions": 16,
-        "snippet": "This letter must make its way to Emma\u2019s feelings."
+        "mentions": 17,
+        "snippet": "Emma were sitting together on a sofa."
       },
       "16": {
         "mentions": 22,
@@ -83,301 +75,37 @@
       }
     },
     "co_occurs_with": {
-      "Knightley": 19,
-      "Miss Woodhouse": 19,
-      "Mr. Knightley": 19,
-      "Mrs. Weston": 19,
-      "Weston": 19,
-      "Elton": 18,
-      "Mr. Elton": 18,
-      "Frank Churchill": 17
-    }
-  },
-  {
-    "canonical_name": "Miss Woodhouse",
-    "aliases": [
-      "Woodhouse"
-    ],
-    "first_chapter": 1,
-    "total_mentions": 237,
-    "per_chapter": {
-      "1": {
-        "mentions": 10,
-        "snippet": "give up her place to Miss Woodhouse, and her more active, talking"
-      },
-      "2": {
-        "mentions": 16,
-        "snippet": "here\u2019s Miss Woodhouse."
-      },
-      "3": {
-        "mentions": 4,
-        "snippet": "comfort to him that many inquiries after himself and Miss Woodhouse"
-      },
-      "4": {
-        "mentions": 7,
-        "snippet": "\u201cMiss Woodhouse\u2014if you are at leisure\u2014I have something that I should"
-      },
-      "5": {
-        "mentions": 11,
-        "snippet": "at Miss Fairfax, which, from the admirer of Miss Woodhouse, seemed"
-      },
-      "6": {
-        "mentions": 21,
-        "snippet": "Miss Woodhouse so soon, there was a start at first; but Miss Woodhouse"
-      },
-      "7": {
-        "mentions": 18,
-        "snippet": "Frank Churchill and Miss"
-      },
-      "8": {
-        "mentions": 21,
-        "snippet": "Miss Woodhouse."
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "that she had promised her niece on no account to let Miss Woodhouse in."
-      },
-      "10": {
-        "mentions": 12,
-        "snippet": "What nonsense one talks, Miss Woodhouse, when hard at"
-      },
-      "11": {
-        "mentions": 27,
-        "snippet": "\u201cWell, Miss Woodhouse!"
-      },
-      "12": {
-        "mentions": 5,
-        "snippet": "Miss Woodhouse, I hope nothing may happen to prevent the ball."
-      },
-      "13": {
-        "mentions": 9,
-        "snippet": "words\u2014\u201cI had not a spare moment on Tuesday, as you know, for Miss"
-      },
-      "14": {
-        "mentions": 14,
-        "snippet": "friendship, do I mention Miss Woodhouse; my father perhaps will think I"
-      },
-      "15": {
-        "mentions": 12,
-        "snippet": "When he came to Miss Woodhouse, he was obliged to read the whole of it"
-      },
-      "16": {
-        "mentions": 22,
-        "snippet": "\u2014Miss Woodhouse, it is impossible for me to"
-      },
-      "17": {
-        "mentions": 7,
-        "snippet": "him\u2014and nobody but so partial and kind a friend as Miss Woodhouse would"
-      },
-      "18": {
-        "mentions": 11,
-        "snippet": "\u201cI have to thank you, Miss Woodhouse, for a very kind forgiving message"
-      },
-      "19": {
-        "mentions": 7,
-        "snippet": "Knightley and Miss Woodhouse."
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 19,
-      "Knightley": 19,
-      "Mr. Knightley": 19,
-      "Mrs. Weston": 19,
-      "Weston": 19,
-      "Elton": 18,
-      "Mr. Elton": 18,
-      "Frank Churchill": 17
-    }
-  },
-  {
-    "canonical_name": "Miss Bates",
-    "aliases": [
-      "Bates"
-    ],
-    "first_chapter": 1,
-    "total_mentions": 206,
-    "per_chapter": {
-      "1": {
-        "mentions": 14,
-        "snippet": "and Miss Bates."
-      },
-      "2": {
-        "mentions": 19,
-        "snippet": "\u201cBut Miss Bates and Miss Fairfax!"
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "scissors the night before of Miss Bates, and to have forgotten to"
-      },
-      "5": {
-        "mentions": 11,
-        "snippet": "Weston and their son, Miss Bates"
-      },
-      "6": {
-        "mentions": 6,
-        "snippet": "Miss Bates in my way home."
-      },
-      "7": {
-        "mentions": 19,
-        "snippet": "Emma and Harriet went together; Miss Bates and her niece, with"
-      },
-      "8": {
-        "mentions": 26,
-        "snippet": "\u201d Miss Bates should never again\u2014no, never!"
-      },
-      "9": {
-        "mentions": 27,
-        "snippet": "Miss Bates, Mr."
-      },
-      "10": {
-        "mentions": 16,
-        "snippet": "Shortly afterwards Miss Bates, passing near the window, descried Mr."
-      },
-      "11": {
-        "mentions": 26,
-        "snippet": "Or Miss Bates?"
-      },
-      "12": {
-        "mentions": 5,
-        "snippet": "behaviour to Miss Bates!"
-      },
-      "15": {
-        "mentions": 14,
-        "snippet": "judging, following the lead of Miss Bates\u2019s good-will, or taking it for"
-      },
-      "16": {
-        "mentions": 17,
-        "snippet": "announcing it; but no such bustle succeeded as poor Miss Bates had"
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "\u2014he must tell her; and Miss Bates being present, it passed, of"
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 14,
-      "Knightley": 14,
-      "Miss Fairfax": 14,
-      "Miss Woodhouse": 14,
-      "Mr. Knightley": 14,
+      "Knightley": 15,
+      "Mr. Knightley": 15,
+      "Weston": 15,
+      "Woodhouse": 15,
+      "Mr. Woodhouse": 14,
       "Mrs. Weston": 14,
-      "Weston": 14,
-      "Elton": 13
-    }
-  },
-  {
-    "canonical_name": "Miss Fairfax",
-    "aliases": [
-      "Fairfax"
-    ],
-    "first_chapter": 1,
-    "total_mentions": 185,
-    "per_chapter": {
-      "1": {
-        "mentions": 20,
-        "snippet": "\u201cHave you heard from Miss Fairfax so lately?"
-      },
-      "2": {
-        "mentions": 15,
-        "snippet": "\u201cBut Miss Bates and Miss Fairfax!"
-      },
-      "3": {
-        "mentions": 21,
-        "snippet": "You and Miss Fairfax gave us some"
-      },
-      "5": {
-        "mentions": 15,
-        "snippet": "at Miss Fairfax, which, from the admirer of Miss Woodhouse, seemed"
-      },
-      "6": {
-        "mentions": 6,
-        "snippet": "positively refused to take her friend\u2019s negative, though Miss Fairfax"
-      },
-      "7": {
-        "mentions": 2,
-        "snippet": "Miss Fairfax, who had seldom spoken before, except among her own"
-      },
-      "8": {
-        "mentions": 18,
-        "snippet": "friendly inquiry after Miss Fairfax, she hoped, might lead the way to a"
-      },
-      "9": {
-        "mentions": 9,
-        "snippet": "\u201cMiss Fairfax was not well enough"
-      },
-      "10": {
-        "mentions": 8,
-        "snippet": "body say, when it is known that Frank Churchill and Miss Fairfax are"
-      },
-      "11": {
-        "mentions": 6,
-        "snippet": "\u201cYou and Miss Smith, and Miss Fairfax, will be three, and the two Miss"
-      },
-      "12": {
-        "mentions": 24,
-        "snippet": "induced Miss Fairfax to join her in an airing, was now returned with"
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "\u201cIf you mean Miss Fairfax and Frank Churchill, I have heard that"
-      },
-      "14": {
-        "mentions": 6,
-        "snippet": "till Miss Fairfax was in Highbury; and as _you_ were the person"
-      },
-      "15": {
-        "mentions": 9,
-        "snippet": "Weston, and so much in love with Miss Fairfax, and she was so"
-      },
-      "16": {
-        "mentions": 12,
-        "snippet": "hour of this holiday of spirits in calling on Miss Fairfax."
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "be made happy;\u2014from them he would have proceeded to Miss Fairfax, but"
-      },
-      "18": {
-        "mentions": 8,
-        "snippet": "\u201cIt is Frank and Miss Fairfax,\u201d said Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 17,
-      "Knightley": 17,
-      "Miss Woodhouse": 17,
-      "Mr. Knightley": 17,
-      "Mrs. Weston": 17,
-      "Weston": 17,
-      "Elton": 16,
-      "Frank Churchill": 16
+      "Elton": 13,
+      "Miss Woodhouse": 13
     }
   },
   {
     "canonical_name": "Weston",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 174,
+    "total_mentions": 181,
     "per_chapter": {
       "1": {
-        "mentions": 4,
-        "snippet": "Weston had"
+        "mentions": 13,
+        "snippet": "Weston was"
       },
       "2": {
         "mentions": 27,
         "snippet": "Weston had been so very earnest in his"
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "Weston."
       },
       "4": {
         "mentions": 11,
         "snippet": "Weston\u2019s loss had been important."
       },
       "5": {
-        "mentions": 8,
-        "snippet": "Weston and their son, Miss Bates"
+        "mentions": 18,
+        "snippet": "Weston, who"
       },
       "6": {
         "mentions": 18,
@@ -393,7 +121,7 @@
       },
       "9": {
         "mentions": 1,
-        "snippet": "Weston shook his head, and looked solemn, and said, \u201cAh!"
+        "snippet": "Weston to dine with us, while Isabella is"
       },
       "10": {
         "mentions": 22,
@@ -403,21 +131,17 @@
         "mentions": 5,
         "snippet": "Weston\u2019s parting words."
       },
-      "12": {
-        "mentions": 17,
-        "snippet": "Weston, who had"
-      },
       "13": {
         "mentions": 2,
         "snippet": "Weston this morning, and"
       },
       "14": {
-        "mentions": 2,
-        "snippet": "Weston to herself, ushered in the letter from Frank to"
+        "mentions": 3,
+        "snippet": "Weston seems an excellent creature\u2014quite a first-rate favourite"
       },
       "15": {
-        "mentions": 6,
-        "snippet": "Weston foretold."
+        "mentions": 11,
+        "snippet": "Weston was chatty"
       },
       "16": {
         "mentions": 2,
@@ -437,41 +161,41 @@
       }
     },
     "co_occurs_with": {
-      "Emma": 19,
-      "Knightley": 19,
-      "Miss Woodhouse": 19,
-      "Mr. Knightley": 19,
-      "Mrs. Weston": 19,
-      "Elton": 18,
-      "Mr. Elton": 18,
-      "Frank Churchill": 17
+      "Mrs. Weston": 16,
+      "Knightley": 15,
+      "Mr. Knightley": 15,
+      "Woodhouse": 15,
+      "Emma": 15,
+      "Elton": 14,
+      "Miss Woodhouse": 14,
+      "Mr. Weston": 14
     }
   },
   {
     "canonical_name": "Elton",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 154,
+    "total_mentions": 167,
     "per_chapter": {
       "1": {
-        "mentions": 6,
-        "snippet": "Elton for that day."
+        "mentions": 5,
+        "snippet": "Elton."
       },
       "2": {
         "mentions": 35,
         "snippet": "Elton was spoken of."
       },
       "3": {
-        "mentions": 2,
-        "snippet": "Elton was not the"
+        "mentions": 15,
+        "snippet": "Elton is going to be"
       },
       "4": {
-        "mentions": 6,
-        "snippet": "Elton\u2019s seeming resolved to learn to like it too."
+        "mentions": 9,
+        "snippet": "Elton?"
       },
       "5": {
-        "mentions": 1,
-        "snippet": "Elton\u2019s activity in her service, and save"
+        "mentions": 2,
+        "snippet": "Elton and the Martins."
       },
       "6": {
         "mentions": 15,
@@ -482,32 +206,24 @@
         "snippet": "Elton, indeed, shewed no unwillingness"
       },
       "8": {
-        "mentions": 16,
-        "snippet": "Elton, I suppose, has been the person to whom Miss Fairfax owes\u2014\u201d"
+        "mentions": 4,
+        "snippet": "Elton, even in the days of his favour, none had disturbed her more than"
       },
       "9": {
-        "mentions": 2,
-        "snippet": "Elton is very good-natured and agreeable, and I dare say"
-      },
-      "10": {
-        "mentions": 10,
-        "snippet": "Elton."
+        "mentions": 14,
+        "snippet": "Elton\u2019s return, and being hung over the mantelpiece of the common"
       },
       "11": {
         "mentions": 2,
         "snippet": "Elton would not"
       },
-      "13": {
-        "mentions": 7,
-        "snippet": "Elton\u2019s engagement in the conversation of Highbury, as the latest"
-      },
       "14": {
-        "mentions": 2,
-        "snippet": "Elton gratitude for her"
+        "mentions": 23,
+        "snippet": "Elton was first seen at church: but though devotion might be"
       },
       "15": {
-        "mentions": 4,
-        "snippet": "Elton\u2019s\u2014a neighbour of Maple Grove; and, by the"
+        "mentions": 11,
+        "snippet": "Elton, in"
       },
       "16": {
         "mentions": 17,
@@ -517,51 +233,43 @@
         "mentions": 4,
         "snippet": "Elton, by"
       },
-      "18": {
-        "mentions": 14,
-        "snippet": "Elton, very willing to suppose a particular compliment intended"
-      },
       "19": {
         "mentions": 5,
         "snippet": "Elton!"
       }
     },
     "co_occurs_with": {
-      "Emma": 18,
-      "Knightley": 18,
-      "Miss Woodhouse": 18,
-      "Mr. Elton": 18,
-      "Mr. Knightley": 18,
-      "Mrs. Weston": 18,
-      "Weston": 18,
-      "Frank Churchill": 16
+      "Woodhouse": 15,
+      "Knightley": 14,
+      "Miss Woodhouse": 14,
+      "Mr. Knightley": 14,
+      "Mr. Woodhouse": 14,
+      "Mrs. Weston": 14,
+      "Weston": 14,
+      "Mr. Elton": 13
     }
   },
   {
     "canonical_name": "Knightley",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 145,
+    "total_mentions": 159,
     "per_chapter": {
       "1": {
-        "mentions": 1,
-        "snippet": "Knightley and some from her own heart,"
+        "mentions": 13,
+        "snippet": "Knightley, a sensible man about seven or eight-and-thirty, was not"
       },
       "2": {
         "mentions": 5,
         "snippet": "Knightley\u2019s not dancing than by any thing else."
       },
       "3": {
-        "mentions": 3,
-        "snippet": "Knightley gave Emma considerable"
+        "mentions": 12,
+        "snippet": "Knightley, who had been of the party, and had"
       },
       "4": {
-        "mentions": 3,
-        "snippet": "Knightley had been telling him something about"
-      },
-      "5": {
-        "mentions": 12,
-        "snippet": "Knightley, who, for some reason best known to himself, had"
+        "mentions": 7,
+        "snippet": "Knightley."
       },
       "6": {
         "mentions": 11,
@@ -572,36 +280,32 @@
         "snippet": "Knightley took"
       },
       "8": {
-        "mentions": 4,
-        "snippet": "Knightley in her way; or, perhaps, he might come in while"
+        "mentions": 28,
+        "snippet": "Knightley, he is"
       },
       "9": {
-        "mentions": 8,
-        "snippet": "Knightley and Harriet had arrived during her absence, and were sitting"
-      },
-      "10": {
-        "mentions": 8,
-        "snippet": "Knightley on horse-back not far off."
+        "mentions": 5,
+        "snippet": "Knightley might quarrel with her, but Emma could not quarrel with"
       },
       "11": {
         "mentions": 19,
         "snippet": "Knightley had spoken"
       },
       "12": {
-        "mentions": 8,
-        "snippet": "Knightley,"
+        "mentions": 5,
+        "snippet": "Knightley was to dine with them\u2014rather against the inclination of"
       },
       "13": {
         "mentions": 8,
         "snippet": "Knightley passing through the garden door, and coming"
       },
       "14": {
-        "mentions": 3,
-        "snippet": "Knightley remained with them, Emma\u2019s fever continued;"
+        "mentions": 1,
+        "snippet": "Knightley is a gentleman!"
       },
       "15": {
-        "mentions": 10,
-        "snippet": "Knightley came again,"
+        "mentions": 3,
+        "snippet": "Knightley, who had"
       },
       "16": {
         "mentions": 3,
@@ -621,41 +325,37 @@
       }
     },
     "co_occurs_with": {
-      "Emma": 19,
-      "Miss Woodhouse": 19,
-      "Mr. Knightley": 19,
-      "Mrs. Weston": 19,
-      "Weston": 19,
-      "Elton": 18,
-      "Mr. Elton": 18,
-      "Frank Churchill": 17
+      "Mr. Knightley": 17,
+      "Woodhouse": 16,
+      "Mr. Woodhouse": 15,
+      "Weston": 15,
+      "Emma": 15,
+      "Elton": 14,
+      "Miss Woodhouse": 14,
+      "Mrs. Weston": 14
     }
   },
   {
     "canonical_name": "Mr. Knightley",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 143,
+    "total_mentions": 156,
     "per_chapter": {
       "1": {
-        "mentions": 1,
-        "snippet": "She had had many a hint from Mr."
+        "mentions": 13,
+        "snippet": "Mr."
       },
       "2": {
         "mentions": 5,
         "snippet": "disturbed by Mr."
       },
       "3": {
-        "mentions": 3,
-        "snippet": "This little explanation with Mr."
+        "mentions": 12,
+        "snippet": "were discerned by Mr."
       },
       "4": {
-        "mentions": 3,
-        "snippet": "Mr."
-      },
-      "5": {
-        "mentions": 12,
-        "snippet": "Mr."
+        "mentions": 7,
+        "snippet": "\u201cCertainly, he is not like Mr."
       },
       "6": {
         "mentions": 10,
@@ -666,36 +366,32 @@
         "snippet": "The Eltons walked together; Mr."
       },
       "8": {
-        "mentions": 4,
-        "snippet": "might see Mr."
-      },
-      "9": {
-        "mentions": 8,
+        "mentions": 27,
         "snippet": "Mr."
       },
-      "10": {
-        "mentions": 8,
-        "snippet": "Shortly afterwards Miss Bates, passing near the window, descried Mr."
+      "9": {
+        "mentions": 5,
+        "snippet": "Mr."
       },
       "11": {
         "mentions": 19,
         "snippet": "Mr."
       },
       "12": {
-        "mentions": 8,
-        "snippet": "how much of her happiness depended on being _first_ with Mr."
+        "mentions": 5,
+        "snippet": "Mr."
       },
       "13": {
         "mentions": 8,
         "snippet": "when she saw Mr."
       },
       "14": {
-        "mentions": 3,
-        "snippet": "As long as Mr."
+        "mentions": 1,
+        "snippet": "Actually to discover that Mr."
       },
       "15": {
-        "mentions": 10,
-        "snippet": "She thought so well of the letter, that when Mr."
+        "mentions": 3,
+        "snippet": "and they were still discussing the point, when Mr."
       },
       "16": {
         "mentions": 3,
@@ -715,202 +411,309 @@
       }
     },
     "co_occurs_with": {
-      "Emma": 19,
-      "Knightley": 19,
-      "Miss Woodhouse": 19,
-      "Mrs. Weston": 19,
-      "Weston": 19,
-      "Elton": 18,
-      "Mr. Elton": 18,
-      "Frank Churchill": 17
-    }
-  },
-  {
-    "canonical_name": "Miss Smith",
-    "aliases": [
-      "Smith"
-    ],
-    "first_chapter": 1,
-    "total_mentions": 129,
-    "per_chapter": {
-      "1": {
-        "mentions": 2,
-        "snippet": "liked it very much; and, therefore, she hoped Miss Woodhouse and Miss"
-      },
-      "2": {
-        "mentions": 10,
-        "snippet": "He did not omit being sometimes directly before Miss"
-      },
-      "3": {
-        "mentions": 5,
-        "snippet": "Miss Smith, and Miss Bickerton, another parlour boarder at Mrs."
-      },
-      "4": {
-        "mentions": 3,
-        "snippet": "Woodhouse, and defying Miss Smith."
-      },
-      "5": {
-        "mentions": 3,
-        "snippet": "dreamt it\u2014but I was completely persuaded\u2014Miss Smith, you walk as if you"
-      },
-      "6": {
-        "mentions": 18,
-        "snippet": "\u201cYou have given Miss Smith all that she required,\u201d said he; \u201cyou have"
-      },
-      "8": {
-        "mentions": 6,
-        "snippet": "evening, with Miss Bates, Miss Fairfax, and Miss Smith; but already, at"
-      },
-      "9": {
-        "mentions": 10,
-        "snippet": "and give us your opinion of our new instrument; you and Miss Smith."
-      },
-      "10": {
-        "mentions": 3,
-        "snippet": "Woodhouse and Miss Smith; so kind as to call to hear the new"
-      },
-      "11": {
-        "mentions": 6,
-        "snippet": "\u201cYou and Miss Smith, and Miss Fairfax, will be three, and the two Miss"
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "before I returned to dress, I was told that Miss Smith was not better,"
-      },
-      "14": {
-        "mentions": 6,
-        "snippet": "see two more here,\u2014your pretty little friend, Miss Smith, and my"
-      },
-      "15": {
-        "mentions": 45,
-        "snippet": "Goddard\u2019s till it were certain that Miss"
-      },
-      "18": {
-        "mentions": 9,
-        "snippet": "our brother and sister, Henry, John\u2014and Miss Smith."
-      }
-    },
-    "co_occurs_with": {
+      "Knightley": 17,
+      "Woodhouse": 16,
+      "Mr. Woodhouse": 15,
+      "Weston": 15,
+      "Emma": 15,
       "Elton": 14,
-      "Emma": 14,
-      "Frank Churchill": 14,
-      "Knightley": 14,
       "Miss Woodhouse": 14,
-      "Mr. Elton": 14,
-      "Mr. Knightley": 14,
       "Mrs. Weston": 14
     }
   },
   {
-    "canonical_name": "Frank Churchill",
-    "aliases": [
-      "Churchill",
-      "Frank"
-    ],
+    "canonical_name": "Woodhouse",
+    "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 126,
+    "total_mentions": 152,
     "per_chapter": {
       "1": {
-        "mentions": 4,
-        "snippet": "nature of her agitation on hearing this news of Frank Churchill."
+        "mentions": 7,
+        "snippet": "Woodhouse\u2019s family, less as a"
       },
       "2": {
-        "mentions": 10,
-        "snippet": "Frank Churchill was so extremely\u2014and there was a mat to"
+        "mentions": 9,
+        "snippet": "Woodhouse\u2019s."
       },
       "3": {
-        "mentions": 3,
-        "snippet": "\u2014Harriet rational, Frank Churchill not too much in love, and"
+        "mentions": 20,
+        "snippet": "Woodhouse, his approbation of the whole; not so openly as he might"
       },
       "4": {
-        "mentions": 2,
-        "snippet": "piece of court-plaister that Frank Churchill had been pulling about!"
+        "mentions": 6,
+        "snippet": "Dear Miss Woodhouse, he would be thirty years old!"
       },
       "5": {
-        "mentions": 10,
-        "snippet": "certainly taken an early dislike to Frank Churchill, was only growing"
+        "mentions": 2,
+        "snippet": "was to be rather supposed that Miss Taylor had formed Miss Woodhouse\u2019s"
       },
       "6": {
-        "mentions": 7,
-        "snippet": "were all seated and busy, and still Frank Churchill did not come."
+        "mentions": 12,
+        "snippet": "Woodhouse, as well as Emma, to join the party;"
       },
       "7": {
-        "mentions": 4,
-        "snippet": "for Frank Churchill grew talkative and gay, making her his first"
+        "mentions": 8,
+        "snippet": "Woodhouse."
       },
       "8": {
         "mentions": 6,
-        "snippet": "Frank Churchill to"
+        "snippet": "Woodhouse, to betray any"
       },
       "9": {
-        "mentions": 20,
-        "snippet": "Jane Fairfax\u2019s feelings to Frank Churchill."
-      },
-      "10": {
-        "mentions": 6,
-        "snippet": "Frank Churchill, I do guess."
+        "mentions": 14,
+        "snippet": "of it from her, hoped, with Miss Woodhouse\u2019s help, to get a great many"
       },
       "11": {
-        "mentions": 15,
-        "snippet": "her admiration and preference of Frank Churchill before she had ever"
+        "mentions": 11,
+        "snippet": "\u201cWell, Miss Woodhouse!"
       },
       "12": {
-        "mentions": 3,
-        "snippet": "levity or carelessness of Frank Churchill\u2019s."
-      },
-      "13": {
-        "mentions": 10,
-        "snippet": "\u201cIf you mean Miss Fairfax and Frank Churchill, I have heard that"
+        "mentions": 6,
+        "snippet": "Woodhouse, who did not like that any one should share with him in"
       },
       "14": {
-        "mentions": 6,
-        "snippet": "perfect charity with Frank Churchill; she wanted no explanations, she"
+        "mentions": 16,
+        "snippet": "\u201cWell, Miss Woodhouse,\u201d said Harriet, when they had quitted the house,"
       },
       "15": {
-        "mentions": 1,
-        "snippet": "Frank Churchill, was willing to forget his late"
+        "mentions": 11,
+        "snippet": "Woodhouse was soon ready for his tea; and when he had drank his tea"
       },
       "16": {
-        "mentions": 3,
-        "snippet": "Frank Churchill"
+        "mentions": 9,
+        "snippet": "Woodhouse\u2019s carriage."
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "Woodhouse\u2019s visits, Emma having it in view that"
       },
       "18": {
-        "mentions": 16,
-        "snippet": "long felt, of seeing Frank Churchill once more, and of seeing him with"
+        "mentions": 5,
+        "snippet": "Woodhouse received the thanks for"
+      },
+      "19": {
+        "mentions": 5,
+        "snippet": "Woodhouse\u2014how was Mr."
       }
     },
     "co_occurs_with": {
-      "Emma": 17,
-      "Knightley": 17,
-      "Miss Woodhouse": 17,
-      "Mr. Knightley": 17,
-      "Mrs. Weston": 17,
-      "Weston": 17,
-      "Elton": 16,
-      "Miss Fairfax": 16
+      "Knightley": 16,
+      "Mr. Knightley": 16,
+      "Mr. Woodhouse": 16,
+      "Elton": 15,
+      "Miss Woodhouse": 15,
+      "Mrs. Weston": 15,
+      "Weston": 15,
+      "Emma": 15
+    }
+  },
+  {
+    "canonical_name": "Miss Woodhouse",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 149,
+    "per_chapter": {
+      "1": {
+        "mentions": 2,
+        "snippet": "and Miss Woodhouse, if you please; but I cannot possibly say"
+      },
+      "2": {
+        "mentions": 7,
+        "snippet": "here\u2019s Miss Woodhouse."
+      },
+      "3": {
+        "mentions": 20,
+        "snippet": "My dear Miss Woodhouse\u2014I"
+      },
+      "4": {
+        "mentions": 12,
+        "snippet": "Dear Miss Woodhouse, he would be thirty years old!"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "was to be rather supposed that Miss Taylor had formed Miss Woodhouse\u2019s"
+      },
+      "6": {
+        "mentions": 9,
+        "snippet": "Miss Woodhouse so soon, there was a start at first; but Miss Woodhouse"
+      },
+      "7": {
+        "mentions": 10,
+        "snippet": "Frank Churchill and Miss"
+      },
+      "8": {
+        "mentions": 8,
+        "snippet": "\u2014We are in great hopes that Miss Woodhouse"
+      },
+      "9": {
+        "mentions": 13,
+        "snippet": "of it from her, hoped, with Miss Woodhouse\u2019s help, to get a great many"
+      },
+      "11": {
+        "mentions": 16,
+        "snippet": "\u201cWell, Miss Woodhouse!"
+      },
+      "14": {
+        "mentions": 24,
+        "snippet": "\u201cWell, Miss Woodhouse,\u201d said Harriet, when they had quitted the house,"
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "\u2014would not she add her persuasions to his, to induce Miss"
+      },
+      "16": {
+        "mentions": 13,
+        "snippet": "\u2014Miss Woodhouse, it is impossible for me to"
+      },
+      "18": {
+        "mentions": 6,
+        "snippet": "\u201cI have to thank you, Miss Woodhouse, for a very kind forgiving message"
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "Knightley and Miss Woodhouse."
+      }
+    },
+    "co_occurs_with": {
+      "Woodhouse": 15,
+      "Elton": 14,
+      "Knightley": 14,
+      "Mr. Knightley": 14,
+      "Mr. Woodhouse": 14,
+      "Mrs. Weston": 14,
+      "Weston": 14,
+      "Emma": 13
+    }
+  },
+  {
+    "canonical_name": "Miss Bates",
+    "aliases": [
+      "Bates"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 142,
+    "per_chapter": {
+      "2": {
+        "mentions": 19,
+        "snippet": "\u201cBut Miss Bates and Miss Fairfax!"
+      },
+      "3": {
+        "mentions": 24,
+        "snippet": "Miss Bates was very chatty and good-humoured, as she always is, though"
+      },
+      "5": {
+        "mentions": 5,
+        "snippet": "saw Miss Bates at the window."
+      },
+      "6": {
+        "mentions": 6,
+        "snippet": "Miss Bates in my way home."
+      },
+      "7": {
+        "mentions": 19,
+        "snippet": "Emma and Harriet went together; Miss Bates and her niece, with"
+      },
+      "8": {
+        "mentions": 42,
+        "snippet": "evening, with Miss Bates, Miss Fairfax, and Miss Smith; but already, at"
+      },
+      "12": {
+        "mentions": 7,
+        "snippet": "and Miss Bates,\u201d said Emma, \u201cI"
+      },
+      "16": {
+        "mentions": 17,
+        "snippet": "announcing it; but no such bustle succeeded as poor Miss Bates had"
+      },
+      "17": {
+        "mentions": 3,
+        "snippet": "\u2014he must tell her; and Miss Bates being present, it passed, of"
+      }
+    },
+    "co_occurs_with": {
+      "Mr. Woodhouse": 9,
+      "Woodhouse": 9,
+      "Elton": 8,
+      "Emma": 8,
+      "Knightley": 8,
+      "Mr. Knightley": 8,
+      "Miss Fairfax": 7,
+      "Miss Woodhouse": 7
+    }
+  },
+  {
+    "canonical_name": "Miss Fairfax",
+    "aliases": [
+      "Fairfax"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 119,
+    "per_chapter": {
+      "2": {
+        "mentions": 15,
+        "snippet": "\u201cBut Miss Bates and Miss Fairfax!"
+      },
+      "3": {
+        "mentions": 21,
+        "snippet": "You and Miss Fairfax gave us some"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "True, true, you are acquainted with Miss"
+      },
+      "6": {
+        "mentions": 6,
+        "snippet": "positively refused to take her friend\u2019s negative, though Miss Fairfax"
+      },
+      "7": {
+        "mentions": 2,
+        "snippet": "Miss Fairfax, who had seldom spoken before, except among her own"
+      },
+      "8": {
+        "mentions": 42,
+        "snippet": "evening, with Miss Bates, Miss Fairfax, and Miss Smith; but already, at"
+      },
+      "10": {
+        "mentions": 8,
+        "snippet": "body say, when it is known that Frank Churchill and Miss Fairfax are"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "\u201cIf you mean Miss Fairfax and Frank Churchill, I have heard that"
+      },
+      "16": {
+        "mentions": 12,
+        "snippet": "hour of this holiday of spirits in calling on Miss Fairfax."
+      },
+      "18": {
+        "mentions": 8,
+        "snippet": "\u201cIt is Frank and Miss Fairfax,\u201d said Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Emma": 9,
+      "Frank Churchill": 9,
+      "Weston": 9,
+      "Miss Woodhouse": 8,
+      "Mr. Weston": 8,
+      "Mr. Woodhouse": 8,
+      "Mrs. Weston": 8,
+      "Woodhouse": 8
     }
   },
   {
     "canonical_name": "Harriet",
     "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 121,
+    "first_chapter": 3,
+    "total_mentions": 100,
     "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "Emma and Harriet had been walking together one morning, and, in Emma\u2019s"
-      },
       "3": {
-        "mentions": 18,
-        "snippet": "alike; and his praise of Harriet, his concession in her favour, was"
-      },
-      "4": {
-        "mentions": 23,
-        "snippet": "A very few days had passed after this adventure, when Harriet came one"
+        "mentions": 10,
+        "snippet": "she was sorry for Harriet: Harriet must feel it\u2014and all that she could"
       },
       "5": {
-        "mentions": 4,
-        "snippet": "were devoting him to Emma, and Emma herself making him over to Harriet,"
+        "mentions": 5,
+        "snippet": "Small heart had Harriet for visiting."
       },
       "6": {
         "mentions": 10,
@@ -921,8 +724,8 @@
         "snippet": "Emma and Harriet went together; Miss Bates and her niece, with"
       },
       "9": {
-        "mentions": 11,
-        "snippet": "She was then interrupted by Harriet\u2019s coming in; and if Harriet\u2019s"
+        "mentions": 31,
+        "snippet": "sentences of admiration just as he ought; and as for Harriet\u2019s"
       },
       "10": {
         "mentions": 3,
@@ -933,38 +736,34 @@
         "snippet": "speak to her, of his attachment to Harriet; he might be watching for"
       },
       "14": {
-        "mentions": 5,
-        "snippet": "Her father\u2014and Harriet."
+        "mentions": 8,
+        "snippet": "made a point of Harriet\u2019s going with her, that the worst of the"
       },
       "15": {
-        "mentions": 5,
-        "snippet": "Emma agreed to it, and with a blush of sensibility on Harriet\u2019s"
+        "mentions": 7,
+        "snippet": "making Harriet his very first subject, was ready to listen with most"
       },
       "16": {
         "mentions": 8,
         "snippet": "It was a very great relief to Emma to find Harriet as desirous as"
-      },
-      "17": {
-        "mentions": 11,
-        "snippet": "She now resolved to keep Harriet no longer in the dark."
       }
     },
     "co_occurs_with": {
-      "Elton": 13,
-      "Emma": 13,
-      "Knightley": 13,
-      "Miss Woodhouse": 13,
-      "Mr. Elton": 13,
-      "Mr. Knightley": 13,
-      "Mrs. Weston": 13,
-      "Weston": 13
+      "Emma": 10,
+      "Weston": 9,
+      "Elton": 8,
+      "Knightley": 8,
+      "Miss Woodhouse": 8,
+      "Mr. Knightley": 8,
+      "Mr. Woodhouse": 8,
+      "Mrs. Weston": 8
     }
   },
   {
     "canonical_name": "Mrs. Weston",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 118,
+    "total_mentions": 95,
     "per_chapter": {
       "1": {
         "mentions": 1,
@@ -974,16 +773,12 @@
         "mentions": 14,
         "snippet": "Elton turned to Mrs."
       },
-      "3": {
-        "mentions": 1,
-        "snippet": "absence of Mrs."
-      },
       "4": {
         "mentions": 5,
         "snippet": "In that respect Mrs."
       },
       "5": {
-        "mentions": 4,
+        "mentions": 8,
         "snippet": "and Mrs."
       },
       "6": {
@@ -999,8 +794,8 @@
         "snippet": "waiting, it was not known at Hartfield; for Mrs."
       },
       "9": {
-        "mentions": 14,
-        "snippet": "appeared; Mrs."
+        "mentions": 1,
+        "snippet": "and Mrs."
       },
       "10": {
         "mentions": 12,
@@ -1010,21 +805,13 @@
         "mentions": 2,
         "snippet": "office to perform by Harriet, which Mrs."
       },
-      "12": {
-        "mentions": 13,
-        "snippet": "sleeping or waking, the last twenty-four hours\u2014Mrs."
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "and Mrs."
-      },
       "14": {
         "mentions": 2,
-        "snippet": "note from Mrs."
+        "snippet": "\u201cMrs."
       },
       "15": {
-        "mentions": 3,
-        "snippet": "justice that Mrs."
+        "mentions": 7,
+        "snippet": "Mrs."
       },
       "16": {
         "mentions": 2,
@@ -1044,14 +831,132 @@
       }
     },
     "co_occurs_with": {
-      "Emma": 19,
-      "Knightley": 19,
-      "Miss Woodhouse": 19,
-      "Mr. Knightley": 19,
-      "Weston": 19,
-      "Elton": 18,
-      "Mr. Elton": 18,
-      "Frank Churchill": 17
+      "Weston": 16,
+      "Woodhouse": 15,
+      "Elton": 14,
+      "Knightley": 14,
+      "Miss Woodhouse": 14,
+      "Mr. Knightley": 14,
+      "Mr. Woodhouse": 14,
+      "Emma": 14
+    }
+  },
+  {
+    "canonical_name": "Miss Smith",
+    "aliases": [
+      "Smith"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 94,
+    "per_chapter": {
+      "2": {
+        "mentions": 10,
+        "snippet": "He did not omit being sometimes directly before Miss"
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "How does Miss Smith do?"
+      },
+      "5": {
+        "mentions": 6,
+        "snippet": "and Miss Smith receiving her summons, was with her without delay, and"
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "evening, with Miss Bates, Miss Fairfax, and Miss Smith; but already, at"
+      },
+      "9": {
+        "mentions": 15,
+        "snippet": "stopt a moment\u2014\u201cor Miss Smith could inspire him."
+      },
+      "15": {
+        "mentions": 45,
+        "snippet": "Goddard\u2019s till it were certain that Miss"
+      },
+      "18": {
+        "mentions": 9,
+        "snippet": "our brother and sister, Henry, John\u2014and Miss Smith."
+      }
+    },
+    "co_occurs_with": {
+      "Miss Woodhouse": 7,
+      "Mr. Woodhouse": 7,
+      "Woodhouse": 7,
+      "Elton": 6,
+      "Emma": 6,
+      "Knightley": 6,
+      "Mr. Elton": 6,
+      "Mr. Knightley": 6
+    }
+  },
+  {
+    "canonical_name": "Mr. Elton",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 91,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "\u201cOnly one more, papa; only for Mr."
+      },
+      "2": {
+        "mentions": 10,
+        "snippet": "\u2014Mr."
+      },
+      "3": {
+        "mentions": 15,
+        "snippet": "Mr."
+      },
+      "4": {
+        "mentions": 9,
+        "snippet": "and Mr."
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "Her mind was quite sick of Mr."
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "Cole\u2019s; and without being able to forget that among the failings of Mr."
+      },
+      "9": {
+        "mentions": 14,
+        "snippet": "The Picture, elegantly framed, came safely to hand soon after Mr."
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "Knightley\u2019s coming and asking me to dance, when Mr."
+      },
+      "14": {
+        "mentions": 7,
+        "snippet": "As for Mr."
+      },
+      "15": {
+        "mentions": 11,
+        "snippet": "Mr."
+      },
+      "16": {
+        "mentions": 7,
+        "snippet": "are we to have the pleasure of a call from Mr."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "Mr."
+      },
+      "19": {
+        "mentions": 4,
+        "snippet": "Churchills\u2014or even for Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Elton": 13,
+      "Woodhouse": 13,
+      "Knightley": 12,
+      "Miss Woodhouse": 12,
+      "Mr. Knightley": 12,
+      "Mr. Woodhouse": 12,
+      "Mrs. Weston": 12,
+      "Weston": 12
     }
   },
   {
@@ -1060,31 +965,19 @@
       "Taylor"
     ],
     "first_chapter": 1,
-    "total_mentions": 114,
+    "total_mentions": 87,
     "per_chapter": {
       "1": {
         "mentions": 67,
         "snippet": "Sixteen years had Miss Taylor been in Mr."
       },
-      "2": {
-        "mentions": 15,
-        "snippet": "marry a woman as portionless even as Miss Taylor, and to live according"
-      },
       "5": {
         "mentions": 6,
         "snippet": "He got as near as he could to thanking her for Miss Taylor\u2019s merits,"
       },
-      "7": {
-        "mentions": 5,
-        "snippet": "Miss Taylor, if you had not"
-      },
       "9": {
-        "mentions": 6,
-        "snippet": "be a first object, as I am sure poor Miss Taylor\u2019s always was with me."
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "Weston (poor Miss Taylor that was) would suffer"
+        "mentions": 2,
+        "snippet": "\u2014and how sorry she will be when she comes, not to see Miss"
       },
       "14": {
         "mentions": 3,
@@ -1096,181 +989,25 @@
       }
     },
     "co_occurs_with": {
-      "Elton": 8,
-      "Emma": 8,
-      "Knightley": 8,
-      "Miss Fairfax": 8,
-      "Miss Woodhouse": 8,
-      "Mr. Elton": 8,
-      "Mr. Knightley": 8,
-      "Mr. Weston": 8
-    }
-  },
-  {
-    "canonical_name": "Mrs. Elton",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 92,
-    "per_chapter": {
-      "2": {
-        "mentions": 25,
-        "snippet": "Mrs."
-      },
-      "5": {
-        "mentions": 1,
-        "snippet": "were able to defeat Mrs."
-      },
-      "6": {
-        "mentions": 15,
-        "snippet": "Mrs."
-      },
-      "7": {
-        "mentions": 6,
-        "snippet": "and Mrs."
-      },
-      "8": {
-        "mentions": 12,
-        "snippet": "\u201cMrs."
-      },
-      "9": {
-        "mentions": 2,
-        "snippet": "Mrs."
-      },
-      "14": {
-        "mentions": 2,
-        "snippet": "her telling me at the ball, that I owed Mrs."
-      },
-      "15": {
-        "mentions": 3,
-        "snippet": "dear friend of Mrs."
-      },
-      "16": {
-        "mentions": 10,
-        "snippet": "sound of Mrs."
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "not promise even to equal the elegant terseness of Mrs."
-      },
-      "18": {
-        "mentions": 12,
-        "snippet": "Mrs."
-      },
-      "19": {
-        "mentions": 1,
-        "snippet": "no taste for finery or parade; and Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 12,
-      "Emma": 12,
-      "Knightley": 12,
-      "Miss Woodhouse": 12,
-      "Mr. Elton": 12,
-      "Mr. Knightley": 12,
-      "Mr. Woodhouse": 12,
-      "Mrs. Weston": 12
-    }
-  },
-  {
-    "canonical_name": "Mr. Elton",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 78,
-    "per_chapter": {
-      "1": {
-        "mentions": 6,
-        "snippet": "opinion, had been talking enough of Mr."
-      },
-      "2": {
-        "mentions": 10,
-        "snippet": "\u2014Mr."
-      },
-      "3": {
-        "mentions": 2,
-        "snippet": "suddenly opened, and she were enabled to see that Mr."
-      },
-      "4": {
-        "mentions": 6,
-        "snippet": "Mr."
-      },
-      "5": {
-        "mentions": 2,
-        "snippet": "Her mind was quite sick of Mr."
-      },
-      "6": {
-        "mentions": 1,
-        "snippet": "considering Mr."
-      },
-      "7": {
-        "mentions": 5,
-        "snippet": "The very day of Mr."
-      },
-      "8": {
-        "mentions": 4,
-        "snippet": "Mr."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "producing Mr."
-      },
-      "10": {
-        "mentions": 10,
-        "snippet": "Mr."
-      },
-      "11": {
-        "mentions": 2,
-        "snippet": "Knightley\u2019s coming and asking me to dance, when Mr."
-      },
-      "13": {
-        "mentions": 7,
-        "snippet": "As Frank Churchill\u2019s arrival had succeeded Mr."
-      },
-      "14": {
-        "mentions": 7,
-        "snippet": "As for Mr."
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "Mr."
-      },
-      "16": {
-        "mentions": 7,
-        "snippet": "are we to have the pleasure of a call from Mr."
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "Mr."
-      },
-      "18": {
-        "mentions": 2,
-        "snippet": "I am sure Mr."
-      },
-      "19": {
-        "mentions": 4,
-        "snippet": "Churchills\u2014or even for Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 18,
-      "Emma": 18,
-      "Knightley": 18,
-      "Miss Woodhouse": 18,
-      "Mr. Knightley": 18,
-      "Mrs. Weston": 18,
-      "Weston": 18,
-      "Frank Churchill": 16
+      "Elton": 5,
+      "Hartfield": 5,
+      "Mr. Elton": 5,
+      "Mr. Woodhouse": 5,
+      "Mrs. Weston": 5,
+      "Weston": 5,
+      "Woodhouse": 5,
+      "Knightley": 4
     }
   },
   {
     "canonical_name": "Mr. Weston",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 76,
+    "total_mentions": 85,
     "per_chapter": {
       "1": {
-        "mentions": 4,
-        "snippet": "It was not very long, though rather longer than Mr."
+        "mentions": 12,
+        "snippet": "Mr."
       },
       "2": {
         "mentions": 13,
@@ -1281,8 +1018,8 @@
         "snippet": "What say you to Mr."
       },
       "5": {
-        "mentions": 4,
-        "snippet": "\u201d cried Mr."
+        "mentions": 10,
+        "snippet": "of them, and still greater pleasure was conveyed in sound\u2014for Mr."
       },
       "6": {
         "mentions": 8,
@@ -1296,10 +1033,6 @@
         "mentions": 1,
         "snippet": "not bear the idea of it; so, as soon as Mr."
       },
-      "9": {
-        "mentions": 1,
-        "snippet": "\u201d\u2014Even Mr."
-      },
       "10": {
         "mentions": 10,
         "snippet": "called downstairs to Mr."
@@ -1307,10 +1040,6 @@
       "11": {
         "mentions": 3,
         "snippet": "been among Mr."
-      },
-      "12": {
-        "mentions": 4,
-        "snippet": "Mr."
       },
       "13": {
         "mentions": 2,
@@ -1321,12 +1050,8 @@
         "snippet": "Mr."
       },
       "15": {
-        "mentions": 3,
+        "mentions": 4,
         "snippet": "Mr."
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "Knightley came; but Mr."
       },
       "17": {
         "mentions": 4,
@@ -1338,61 +1063,241 @@
       }
     },
     "co_occurs_with": {
-      "Emma": 17,
-      "Knightley": 17,
-      "Miss Woodhouse": 17,
-      "Mr. Knightley": 17,
-      "Mrs. Weston": 17,
-      "Weston": 17,
-      "Elton": 16,
-      "Frank Churchill": 16
+      "Weston": 14,
+      "Mrs. Weston": 13,
+      "Knightley": 12,
+      "Mr. Knightley": 12,
+      "Woodhouse": 12,
+      "Emma": 12,
+      "Elton": 11,
+      "Miss Woodhouse": 11
+    }
+  },
+  {
+    "canonical_name": "Mrs. Elton",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 76,
+    "per_chapter": {
+      "2": {
+        "mentions": 25,
+        "snippet": "Mrs."
+      },
+      "6": {
+        "mentions": 15,
+        "snippet": "Mrs."
+      },
+      "7": {
+        "mentions": 6,
+        "snippet": "and Mrs."
+      },
+      "14": {
+        "mentions": 16,
+        "snippet": "Mrs."
+      },
+      "16": {
+        "mentions": 10,
+        "snippet": "sound of Mrs."
+      },
+      "17": {
+        "mentions": 3,
+        "snippet": "not promise even to equal the elegant terseness of Mrs."
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "no taste for finery or parade; and Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Elton": 7,
+      "Knightley": 7,
+      "Mr. Knightley": 7,
+      "Mr. Woodhouse": 7,
+      "Mrs. Weston": 7,
+      "Weston": 7,
+      "Woodhouse": 7,
+      "Emma": 6
+    }
+  },
+  {
+    "canonical_name": "Frank Churchill",
+    "aliases": [
+      "Churchill"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 65,
+    "per_chapter": {
+      "2": {
+        "mentions": 10,
+        "snippet": "Frank Churchill was so extremely\u2014and there was a mat to"
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "Frank Churchill pass through Bath as well as Oxford?"
+      },
+      "6": {
+        "mentions": 7,
+        "snippet": "were all seated and busy, and still Frank Churchill did not come."
+      },
+      "7": {
+        "mentions": 4,
+        "snippet": "for Frank Churchill grew talkative and gay, making her his first"
+      },
+      "8": {
+        "mentions": 6,
+        "snippet": "to Frank Churchill."
+      },
+      "10": {
+        "mentions": 6,
+        "snippet": "Frank Churchill, I do guess."
+      },
+      "11": {
+        "mentions": 15,
+        "snippet": "her admiration and preference of Frank Churchill before she had ever"
+      },
+      "13": {
+        "mentions": 9,
+        "snippet": "\u201cIf you mean Miss Fairfax and Frank Churchill, I have heard that"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "Frank Churchill, was willing to forget his late"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Churchill"
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "long felt, of seeing Frank Churchill once more, and of seeing him with"
+      }
+    },
+    "co_occurs_with": {
+      "Weston": 11,
+      "Emma": 10,
+      "Mr. Weston": 10,
+      "Mrs. Weston": 10,
+      "Miss Fairfax": 9,
+      "Miss Woodhouse": 9,
+      "Mr. Woodhouse": 9,
+      "Woodhouse": 9
+    }
+  },
+  {
+    "canonical_name": "Mr. Woodhouse",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 61,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Sixteen years had Miss Taylor been in Mr."
+      },
+      "2": {
+        "mentions": 3,
+        "snippet": "Gone to Mr."
+      },
+      "3": {
+        "mentions": 7,
+        "snippet": "Mr."
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "\u201d said Mr."
+      },
+      "6": {
+        "mentions": 7,
+        "snippet": "wished to persuade Mr."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "Weston remained with Mr."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "for his being a favourite with Mr."
+      },
+      "9": {
+        "mentions": 5,
+        "snippet": "Mr."
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "\u201cShe could not compose herself\u2014 Mr."
+      },
+      "12": {
+        "mentions": 6,
+        "snippet": "Mr."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "Miss Woodhouse\u2014(looking towards Mr."
+      },
+      "15": {
+        "mentions": 7,
+        "snippet": "Mr."
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "fortnight; she was to be conveyed in Mr."
+      },
+      "17": {
+        "mentions": 5,
+        "snippet": "recovered to admit Mr."
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "they been told of the baby, and Mr."
+      },
+      "19": {
+        "mentions": 4,
+        "snippet": "But Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Woodhouse": 16,
+      "Knightley": 15,
+      "Mr. Knightley": 15,
+      "Elton": 14,
+      "Miss Woodhouse": 14,
+      "Mrs. Weston": 14,
+      "Weston": 14,
+      "Emma": 14
     }
   },
   {
     "canonical_name": "Hartfield",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 74,
+    "total_mentions": 55,
     "per_chapter": {
       "1": {
-        "mentions": 3,
-        "snippet": "came from Randalls immediately to Hartfield, she could then exercise"
+        "mentions": 5,
+        "snippet": "through at Hartfield, before Christmas brought the next visit from"
       },
       "3": {
-        "mentions": 3,
-        "snippet": "he could not allow himself the pleasure of stopping at Hartfield, as he"
+        "mentions": 7,
+        "snippet": "expressing the next morning, being at Hartfield again on business with"
       },
       "4": {
         "mentions": 6,
         "snippet": "Harriet Smith\u2019s intimacy at Hartfield was soon a settled thing."
       },
       "5": {
-        "mentions": 5,
-        "snippet": "Hartfield."
-      },
-      "6": {
         "mentions": 3,
-        "snippet": "for Hartfield; and she trusted to its bearing the same construction"
-      },
-      "7": {
-        "mentions": 5,
-        "snippet": "The circumstance was told him at Hartfield; for the moment,"
+        "snippet": "time; the man believed they were gone to Hartfield."
       },
       "9": {
-        "mentions": 10,
-        "snippet": "Highbury;\u2014to Hartfield of course."
+        "mentions": 7,
+        "snippet": "before he came to Hartfield again; and when they did meet, his grave"
       },
       "11": {
         "mentions": 3,
         "snippet": "An airing in the Hartfield carriage would have been the rack,"
       },
       "12": {
-        "mentions": 6,
-        "snippet": "Knightley to all the world; let Donwell and Hartfield lose none of"
-      },
-      "13": {
-        "mentions": 5,
-        "snippet": "Knightley, in this short visit to Hartfield, going about every morning"
+        "mentions": 3,
+        "snippet": "old, who was now making her first visit to Hartfield, and very happy to"
       },
       "14": {
         "mentions": 5,
@@ -1400,11 +1305,7 @@
       },
       "15": {
         "mentions": 5,
-        "snippet": "Woodhouse taken from Hartfield!"
-      },
-      "16": {
-        "mentions": 4,
-        "snippet": "Hartfield for the Eltons."
+        "snippet": "I dare say we shall be all safe at Hartfield before"
       },
       "17": {
         "mentions": 7,
@@ -1416,242 +1317,14 @@
       }
     },
     "co_occurs_with": {
-      "Emma": 15,
-      "Knightley": 15,
-      "Miss Woodhouse": 15,
-      "Mr. Knightley": 15,
-      "Mrs. Weston": 15,
-      "Weston": 15,
-      "Elton": 14,
-      "Mr. Elton": 14
-    }
-  },
-  {
-    "canonical_name": "Highbury",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 52,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "soon as had been imagined, but he was at Highbury very soon afterwards."
-      },
-      "2": {
-        "mentions": 5,
-        "snippet": "By birth she belonged to Highbury: and when at three years old, on"
-      },
-      "3": {
-        "mentions": 6,
-        "snippet": "\u2014About half a mile beyond Highbury,"
-      },
-      "4": {
-        "mentions": 4,
-        "snippet": "Highbury, before she was, by some means or other, discovered to have"
-      },
-      "5": {
-        "mentions": 3,
-        "snippet": "To Highbury in general it brought no material change."
-      },
-      "6": {
-        "mentions": 3,
-        "snippet": "Suckling, the Highbury world were obliged to endure the mortification"
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "of Donwell and Highbury, with great candour; liberal allowances were"
-      },
-      "8": {
-        "mentions": 4,
-        "snippet": "the lawyer of Highbury."
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "girls in Highbury."
-      },
-      "10": {
-        "mentions": 3,
-        "snippet": "lived a little way out of Highbury."
-      },
-      "12": {
-        "mentions": 4,
-        "snippet": "Highbury, after breakfast, and take leave of the few friends there whom"
-      },
-      "14": {
-        "mentions": 8,
-        "snippet": "just now for a time from Highbury, and\u2014indulging in one scheme"
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "looking at somebody new; the gala-day to Highbury entire, which the"
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 13,
-      "Frank Churchill": 13,
-      "Knightley": 13,
-      "Miss Woodhouse": 13,
-      "Mr. Knightley": 13,
-      "Mrs. Weston": 13,
-      "Weston": 13,
-      "Elton": 12
-    }
-  },
-  {
-    "canonical_name": "Robert Martin",
-    "aliases": [
-      "Martin"
-    ],
-    "first_chapter": 4,
-    "total_mentions": 52,
-    "per_chapter": {
-      "4": {
-        "mentions": 2,
-        "snippet": "certainly would indeed; nothing could be clearer; even a Robert Martin"
-      },
-      "5": {
-        "mentions": 3,
-        "snippet": "gravel walk\u2014a Miss Martin just appearing at the door, and parting with"
-      },
-      "6": {
-        "mentions": 2,
-        "snippet": "being suspected of introducing Robert Martin."
-      },
-      "7": {
-        "mentions": 8,
-        "snippet": "Robert Martin, of Abbey-Mill Farm."
-      },
-      "8": {
-        "mentions": 15,
-        "snippet": "quarter:\u2014Robert Martin is the man."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "Martin dined with them last Saturday."
-      },
-      "11": {
-        "mentions": 5,
-        "snippet": "Martin\u2014he might have Mr."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "Martin is not very, very bitterly disappointed."
-      },
-      "18": {
-        "mentions": 9,
-        "snippet": "Smith marries Robert Martin."
-      },
-      "19": {
-        "mentions": 6,
-        "snippet": "\u2014that Robert Martin had thoroughly supplanted Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 10,
+      "Woodhouse": 11,
+      "Elton": 10,
       "Knightley": 10,
-      "Miss Woodhouse": 10,
+      "Mr. Elton": 10,
       "Mr. Knightley": 10,
-      "Mrs. Weston": 10,
-      "Weston": 10,
-      "Elton": 9,
-      "Frank Churchill": 9
-    }
-  },
-  {
-    "canonical_name": "Miss Hawkins",
-    "aliases": [
-      "Hawkins"
-    ],
-    "first_chapter": 3,
-    "total_mentions": 50,
-    "per_chapter": {
-      "3": {
-        "mentions": 31,
-        "snippet": "A Miss Hawkins\u2014that\u2019s all I"
-      },
-      "4": {
-        "mentions": 11,
-        "snippet": "A week had not passed since Miss Hawkins\u2019s name was first mentioned in"
-      },
-      "14": {
-        "mentions": 5,
-        "snippet": "Miss Hawkins perhaps wanted a home, and thought"
-      },
-      "15": {
-        "mentions": 3,
-        "snippet": "and conceived Miss Hawkins to have held such a place in society as Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 4,
-      "Emma": 4,
-      "Frank Churchill": 4,
-      "Harriet": 4,
-      "Hartfield": 4,
-      "John Knightley": 4,
-      "Knightley": 4,
-      "Miss Smith": 4
-    }
-  },
-  {
-    "canonical_name": "Randalls",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 48,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "came from Randalls immediately to Hartfield, she could then exercise"
-      },
-      "2": {
-        "mentions": 4,
-        "snippet": "purchase Randalls, and the sale of Randalls was long looked forward to;"
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "\u2014at Randalls?"
-      },
-      "4": {
-        "mentions": 3,
-        "snippet": "ventured once alone to Randalls, but it was not pleasant; and a Harriet"
-      },
-      "5": {
-        "mentions": 4,
-        "snippet": "He was dining with the Randalls family, and"
-      },
-      "10": {
-        "mentions": 4,
-        "snippet": "\u201cCan you come to Randalls at any time this morning?"
-      },
-      "11": {
-        "mentions": 8,
-        "snippet": "to spend with his daughter at Randalls, was passed by the two young"
-      },
-      "13": {
-        "mentions": 5,
-        "snippet": "denial; they must all dine at Randalls one day;\u2014even Mr."
-      },
-      "14": {
-        "mentions": 5,
-        "snippet": "brought her from Randalls\u2014a very thick letter;\u2014she guessed what it must"
-      },
-      "15": {
-        "mentions": 5,
-        "snippet": "her, since their being at Randalls?"
-      },
-      "18": {
-        "mentions": 4,
-        "snippet": "horses to, preparatory to their now daily drive to Randalls; and she"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 11,
-      "Emma": 11,
-      "Frank Churchill": 11,
-      "Knightley": 11,
-      "Miss Smith": 11,
-      "Miss Woodhouse": 11,
-      "Mr. Elton": 11,
-      "Mr. Knightley": 11
+      "Mr. Woodhouse": 10,
+      "Emma": 10,
+      "Miss Woodhouse": 9
     }
   },
   {
@@ -1678,135 +1351,569 @@
       }
     },
     "co_occurs_with": {
-      "Elton": 4,
-      "Emma": 4,
       "Frank Churchill": 4,
       "Knightley": 4,
       "Miss Fairfax": 4,
       "Miss Woodhouse": 4,
-      "Mr. Churchill": 4,
-      "Mr. Elton": 4
+      "Mr. Knightley": 4,
+      "Mr. Woodhouse": 4,
+      "Mrs. Weston": 4,
+      "Weston": 4
     }
   },
   {
-    "canonical_name": "Mr. Woodhouse",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 44,
+    "canonical_name": "Mrs. Goddard",
+    "aliases": [
+      "Goddard"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 36,
     "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "Mr."
-      },
-      "2": {
-        "mentions": 3,
-        "snippet": "Gone to Mr."
-      },
       "3": {
-        "mentions": 1,
-        "snippet": "Poor Mr."
+        "mentions": 8,
+        "snippet": "attempt calling on Mrs."
+      },
+      "4": {
+        "mentions": 12,
+        "snippet": "what Mrs."
       },
       "5": {
         "mentions": 2,
-        "snippet": "quietness of the game made it particularly eligible for Mr."
-      },
-      "6": {
-        "mentions": 7,
-        "snippet": "wished to persuade Mr."
-      },
-      "7": {
-        "mentions": 1,
-        "snippet": "Weston remained with Mr."
+        "snippet": "friend called for her at Mrs."
       },
       "8": {
-        "mentions": 1,
-        "snippet": "for his being a favourite with Mr."
+        "mentions": 2,
+        "snippet": "Bates as well as Mrs."
       },
       "9": {
-        "mentions": 4,
-        "snippet": "How is Mr."
-      },
-      "11": {
-        "mentions": 1,
-        "snippet": "\u201cShe could not compose herself\u2014 Mr."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "The weather affected Mr."
+        "mentions": 2,
+        "snippet": "Miss Nash, head-teacher at Mrs."
       },
       "13": {
-        "mentions": 5,
-        "snippet": "denial; they must all dine at Randalls one day;\u2014even Mr."
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "Poor Mr."
+        "mentions": 2,
+        "snippet": "at Mrs."
       },
       "15": {
-        "mentions": 3,
-        "snippet": "induce Mr."
+        "mentions": 2,
+        "snippet": "Woodhouse not to go to Mrs."
       },
       "16": {
         "mentions": 2,
-        "snippet": "fortnight; she was to be conveyed in Mr."
-      },
-      "17": {
-        "mentions": 5,
-        "snippet": "recovered to admit Mr."
+        "snippet": "The difference of Harriet at Mrs."
       },
       "18": {
-        "mentions": 2,
-        "snippet": "they been told of the baby, and Mr."
-      },
-      "19": {
         "mentions": 4,
-        "snippet": "But Mr."
+        "snippet": "of no one but Mrs."
       }
     },
     "co_occurs_with": {
-      "Emma": 17,
-      "Knightley": 17,
-      "Miss Woodhouse": 17,
-      "Mr. Knightley": 17,
-      "Mrs. Weston": 17,
-      "Weston": 17,
-      "Elton": 16,
-      "Miss Fairfax": 16
+      "Emma": 9,
+      "Knightley": 8,
+      "Miss Woodhouse": 8,
+      "Mr. Knightley": 8,
+      "Weston": 8,
+      "Woodhouse": 8,
+      "Elton": 7,
+      "Mr. Elton": 7
+    }
+  },
+  {
+    "canonical_name": "Miss Hawkins",
+    "aliases": [
+      "Hawkins"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 36,
+    "per_chapter": {
+      "3": {
+        "mentions": 31,
+        "snippet": "A Miss Hawkins\u2014that\u2019s all I"
+      },
+      "14": {
+        "mentions": 5,
+        "snippet": "Miss Hawkins perhaps wanted a home, and thought"
+      }
+    },
+    "co_occurs_with": {
+      "Elton": 2,
+      "Emma": 2,
+      "Harriet": 2,
+      "Hartfield": 2,
+      "Knightley": 2,
+      "Miss Woodhouse": 2,
+      "Mr. Elton": 2,
+      "Mr. Knightley": 2
+    }
+  },
+  {
+    "canonical_name": "Martin",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 33,
+    "per_chapter": {
+      "4": {
+        "mentions": 21,
+        "snippet": "Martin\u2019s having \u201c_two_ parlours, two very good"
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "gravel walk\u2014a Miss Martin just appearing at the door, and parting with"
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "Martin\u2019s being no otherwise remembered,"
+      },
+      "11": {
+        "mentions": 5,
+        "snippet": "Martin\u2014he might have Mr."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Martin is not very, very bitterly disappointed."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Martin and"
+      }
+    },
+    "co_occurs_with": {
+      "Emma": 6,
+      "Woodhouse": 6,
+      "Hartfield": 5,
+      "Knightley": 5,
+      "Miss Woodhouse": 5,
+      "Mr. Knightley": 5,
+      "Mr. Martin": 5,
+      "Mr. Woodhouse": 5
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 33,
+    "per_chapter": {
+      "6": {
+        "mentions": 18,
+        "snippet": "\u2014The year will wear away at this rate, and nothing done."
+      },
+      "11": {
+        "mentions": 9,
+        "snippet": "The intelligence, which had been so anxiously announced to"
+      },
+      "17": {
+        "mentions": 6,
+        "snippet": "\u2014The fate of thousands."
+      }
+    },
+    "co_occurs_with": {
+      "Elton": 3,
+      "Emma": 3,
+      "Knightley": 3,
+      "Mr. Knightley": 3,
+      "Mr. Weston": 3,
+      "Mr. Woodhouse": 3,
+      "Mrs. Weston": 3,
+      "Weston": 3
+    }
+  },
+  {
+    "canonical_name": "Colonel Campbell",
+    "aliases": [
+      "Campbell"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 31,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "Colonel Campbell rather preferred an olive."
+      },
+      "3": {
+        "mentions": 8,
+        "snippet": "Jane says that Colonel Campbell is a little deaf."
+      },
+      "8": {
+        "mentions": 19,
+        "snippet": "Colonel Campbell."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Campbell will not be able to part with her at all."
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Campbell."
+      }
+    },
+    "co_occurs_with": {
+      "Knightley": 5,
+      "Miss Bates": 5,
+      "Mr. Knightley": 5,
+      "Mr. Woodhouse": 5,
+      "Mrs. Bates": 5,
+      "Woodhouse": 5,
+      "Emma": 4,
+      "John Knightley": 4
+    }
+  },
+  {
+    "canonical_name": "Cole",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 30,
+    "per_chapter": {
+      "3": {
+        "mentions": 7,
+        "snippet": "Cole\u2019s note\u2014no, it cannot be more than five\u2014or at least"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "Cole\u2019s."
+      },
+      "8": {
+        "mentions": 20,
+        "snippet": "Cole\u2019s; and without being able to forget that among the failings of Mr."
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "Cole."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "Cole, Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Elton": 5,
+      "Emma": 5,
+      "John Knightley": 5,
+      "Knightley": 5,
+      "Mr. Knightley": 5,
+      "Mr. Woodhouse": 5,
+      "Woodhouse": 5,
+      "Miss Woodhouse": 4
+    }
+  },
+  {
+    "canonical_name": "Jane Fairfax",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 30,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "I like old friends; and Miss Jane"
+      },
+      "5": {
+        "mentions": 2,
+        "snippet": "of elegance for the fashionable world, if Jane Fairfax could be thought"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "You will allow me to bring Jane Fairfax?"
+      },
+      "8": {
+        "mentions": 13,
+        "snippet": "attend, was the name of Jane Fairfax."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "\u201cJane Fairfax!"
+      },
+      "11": {
+        "mentions": 5,
+        "snippet": "Jane Fairfax would have neither elevation nor happiness beyond her"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "worse to hear than Isabella\u2019s kind inquiry after Jane Fairfax; and Jane"
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "for Jane Fairfax\u2019s character vouches for her disinterestedness; every"
+      }
+    },
+    "co_occurs_with": {
+      "Emma": 8,
+      "Frank Churchill": 6,
+      "Miss Fairfax": 6,
+      "Mr. Weston": 6,
+      "Mr. Woodhouse": 6,
+      "Weston": 6,
+      "Woodhouse": 6,
+      "Knightley": 6
+    }
+  },
+  {
+    "canonical_name": "Randalls",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 24,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "\u2014at Randalls?"
+      },
+      "4": {
+        "mentions": 3,
+        "snippet": "ventured once alone to Randalls, but it was not pleasant; and a Harriet"
+      },
+      "5": {
+        "mentions": 5,
+        "snippet": "consolation, and resolved on going home by way of Randalls to procure"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cCan you come to Randalls at any time this morning?"
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "her, since their being at Randalls?"
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "horses to, preparatory to their now daily drive to Randalls; and she"
+      }
+    },
+    "co_occurs_with": {
+      "Emma": 6,
+      "Miss Woodhouse": 5,
+      "Mr. Weston": 5,
+      "Mrs. Goddard": 5,
+      "Mrs. Weston": 5,
+      "Weston": 5,
+      "Woodhouse": 5,
+      "Elton": 4
+    }
+  },
+  {
+    "canonical_name": "Very",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 24,
+    "per_chapter": {
+      "2": {
+        "mentions": 5,
+        "snippet": "\u2014\u201cVery"
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "\u201cVery true, Miss Woodhouse, so she will."
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cVery true, my love, very true."
+      },
+      "8": {
+        "mentions": 5,
+        "snippet": "\u201cVery."
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "and dulness, \u201cVery well, Mr."
+      },
+      "16": {
+        "mentions": 5,
+        "snippet": "Very pleasant"
+      }
+    },
+    "co_occurs_with": {
+      "Elton": 6,
+      "Knightley": 6,
+      "Miss Woodhouse": 6,
+      "Mr. Knightley": 6,
+      "Mr. Woodhouse": 6,
+      "Woodhouse": 6,
+      "Emma": 5,
+      "Mr. Elton": 5
+    }
+  },
+  {
+    "canonical_name": "Isabella",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 23,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "Isabella\u2019s marriage, on their being left to each other, was yet a"
+      },
+      "12": {
+        "mentions": 6,
+        "snippet": "Isabella\u2019s first day."
+      },
+      "15": {
+        "mentions": 6,
+        "snippet": "\u201cThen, my dear Isabella, it is the most"
+      },
+      "17": {
+        "mentions": 7,
+        "snippet": "Isabella\u2019s sons; but she was convinced that a daughter would suit both"
+      }
+    },
+    "co_occurs_with": {
+      "Hartfield": 4,
+      "Knightley": 4,
+      "Mr. Knightley": 4,
+      "Mr. Woodhouse": 4,
+      "Woodhouse": 4,
+      "Elton": 3,
+      "Mr. Elton": 3,
+      "Mr. Weston": 3
+    }
+  },
+  {
+    "canonical_name": "Mr. Martin",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 23,
+    "per_chapter": {
+      "4": {
+        "mentions": 14,
+        "snippet": "appeared that the Mr."
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "soon perfectly satisfied of Mr."
+      },
+      "11": {
+        "mentions": 5,
+        "snippet": "your affections, he might be alluding to Mr."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "that Mr."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "you quite sure that you understand the terms on which Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Emma": 5,
+      "Knightley": 5,
+      "Martin": 5,
+      "Mr. Knightley": 5,
+      "Woodhouse": 5,
+      "Hartfield": 4,
+      "Miss Woodhouse": 4,
+      "Mr. Woodhouse": 4
+    }
+  },
+  {
+    "canonical_name": "Mr. Frank Churchill",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 19,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "afraid:\u2014but Mr."
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cWill Mr."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "\u201cMr."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "\u201cSo far as that it relates to Mr."
+      },
+      "11": {
+        "mentions": 9,
+        "snippet": "he told me all about it; that Jane Fairfax and Mr."
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "expectation of Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Frank Churchill": 6,
+      "Mr. Weston": 6,
+      "Mrs. Weston": 6,
+      "Weston": 6,
+      "Elton": 5,
+      "Emma": 5,
+      "Miss Woodhouse": 5,
+      "Mr. Woodhouse": 5
+    }
+  },
+  {
+    "canonical_name": "Robert Martin",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 18,
+    "per_chapter": {
+      "4": {
+        "mentions": 2,
+        "snippet": "Robert Martin."
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "being suspected of introducing Robert Martin."
+      },
+      "18": {
+        "mentions": 8,
+        "snippet": "Smith marries Robert Martin."
+      },
+      "19": {
+        "mentions": 6,
+        "snippet": "\u2014that Robert Martin had thoroughly supplanted Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Emma": 4,
+      "Knightley": 4,
+      "Miss Woodhouse": 4,
+      "Mr. Knightley": 4,
+      "Mrs. Weston": 4,
+      "Weston": 4,
+      "Woodhouse": 4,
+      "Elton": 3
+    }
+  },
+  {
+    "canonical_name": "Mr. Wingfield",
+    "aliases": [
+      "Wingfield"
+    ],
+    "first_chapter": 12,
+    "total_mentions": 18,
+    "per_chapter": {
+      "12": {
+        "mentions": 16,
+        "snippet": "\u201cMr."
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "her\u2014and though not so fond of a dentist as of a Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Colonel Campbell": 2,
+      "Emma": 2,
+      "John Knightley": 2,
+      "Knightley": 2,
+      "Miss Bates": 2,
+      "Mr. Knightley": 2,
+      "Mr. Perry": 2,
+      "Mr. Woodhouse": 2
     }
   },
   {
     "canonical_name": "Perry",
     "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 44,
+    "first_chapter": 3,
+    "total_mentions": 18,
     "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "Perry."
-      },
-      "2": {
-        "mentions": 3,
-        "snippet": "Perry drank tea"
-      },
       "3": {
         "mentions": 2,
         "snippet": "Perry."
-      },
-      "5": {
-        "mentions": 8,
-        "snippet": "Perry passed by on"
-      },
-      "8": {
-        "mentions": 3,
-        "snippet": "Perry had been to Mrs."
-      },
-      "9": {
-        "mentions": 5,
-        "snippet": "Perry called at Hartfield, the same morning, it"
-      },
-      "11": {
-        "mentions": 5,
-        "snippet": "Perry might have reason to regret the alteration, but"
       },
       "12": {
         "mentions": 7,
@@ -1817,8 +1924,8 @@
         "snippet": "Perry\u2019s coming"
       },
       "14": {
-        "mentions": 2,
-        "snippet": "Perry, and talked on with much"
+        "mentions": 1,
+        "snippet": "Perry, whose name, I dare say, is not unknown to you,"
       },
       "15": {
         "mentions": 1,
@@ -1838,147 +1945,63 @@
       }
     },
     "co_occurs_with": {
-      "Emma": 14,
-      "Knightley": 14,
-      "Miss Fairfax": 14,
-      "Miss Woodhouse": 14,
-      "Mr. Knightley": 14,
-      "Mr. Woodhouse": 14,
-      "Mrs. Weston": 14,
-      "Weston": 14
+      "Emma": 8,
+      "Knightley": 8,
+      "Mr. Knightley": 8,
+      "Mr. Perry": 7,
+      "Mr. Woodhouse": 7,
+      "Woodhouse": 7,
+      "Weston": 6,
+      "John Knightley": 6
     }
   },
   {
-    "canonical_name": "Mrs. Goddard",
-    "aliases": [
-      "Goddard"
-    ],
-    "first_chapter": 3,
-    "total_mentions": 44,
-    "per_chapter": {
-      "3": {
-        "mentions": 4,
-        "snippet": "Miss Smith, and Miss Bickerton, another parlour boarder at Mrs."
-      },
-      "4": {
-        "mentions": 2,
-        "snippet": "Martin\u2019s calling at Mrs."
-      },
-      "5": {
-        "mentions": 2,
-        "snippet": "friend called for her at Mrs."
-      },
-      "7": {
-        "mentions": 10,
-        "snippet": "neglecting his comfort\u2014how certainly Mrs."
-      },
-      "8": {
-        "mentions": 2,
-        "snippet": "Bates as well as Mrs."
-      },
-      "9": {
-        "mentions": 10,
-        "snippet": "\u201cShould I send it to Mrs."
-      },
-      "13": {
-        "mentions": 2,
-        "snippet": "at Mrs."
-      },
-      "15": {
-        "mentions": 2,
-        "snippet": "Woodhouse not to go to Mrs."
-      },
-      "16": {
-        "mentions": 2,
-        "snippet": "The difference of Harriet at Mrs."
-      },
-      "17": {
-        "mentions": 4,
-        "snippet": "She went to Mrs."
-      },
-      "18": {
-        "mentions": 4,
-        "snippet": "of no one but Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 11,
-      "Emma": 11,
-      "Knightley": 11,
-      "Miss Woodhouse": 11,
-      "Mr. Elton": 11,
-      "Mr. Knightley": 11,
-      "Mrs. Weston": 11,
-      "Weston": 11
-    }
-  },
-  {
-    "canonical_name": "Isabella",
+    "canonical_name": "Highbury",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 43,
+    "total_mentions": 17,
     "per_chapter": {
       "1": {
-        "mentions": 4,
-        "snippet": "Isabella\u2019s marriage, on their being left to each other, was yet a"
+        "mentions": 3,
+        "snippet": "Highbury, the large and populous village, almost amounting to a town,"
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "Highbury, both in person and mind."
       },
       "5": {
         "mentions": 4,
-        "snippet": "always quick and assured: Isabella slow and diffident."
+        "snippet": "Highbury, Highbury itself, Hartfield still more, and professed himself"
       },
-      "11": {
-        "mentions": 8,
-        "snippet": "be induced to get so far as London, even for poor Isabella\u2019s sake; and"
-      },
-      "12": {
-        "mentions": 6,
-        "snippet": "Isabella\u2019s first day."
-      },
-      "14": {
-        "mentions": 5,
-        "snippet": "Isabella\u2019s coming, and of Emma\u2019s being to follow, and had indeed just"
-      },
-      "15": {
-        "mentions": 6,
-        "snippet": "\u201cThen, my dear Isabella, it is the most"
-      },
-      "16": {
+      "6": {
         "mentions": 3,
-        "snippet": "silence\u2014wanting only to observe enough for Isabella\u2019s information\u2014but"
+        "snippet": "Suckling, the Highbury world were obliged to endure the mortification"
       },
-      "17": {
-        "mentions": 7,
-        "snippet": "Isabella\u2019s sons; but she was convinced that a daughter would suit both"
+      "8": {
+        "mentions": 4,
+        "snippet": "the lawyer of Highbury."
       }
     },
     "co_occurs_with": {
-      "Emma": 8,
-      "Hartfield": 8,
-      "Knightley": 8,
-      "Miss Fairfax": 8,
-      "Miss Woodhouse": 8,
-      "Mr. Knightley": 8,
-      "Mr. Weston": 8,
-      "Mr. Woodhouse": 8
+      "Elton": 5,
+      "Miss Woodhouse": 5,
+      "Mr. Woodhouse": 5,
+      "Woodhouse": 5,
+      "Knightley": 4,
+      "Mr. Elton": 4,
+      "Mr. Knightley": 4,
+      "Mr. Weston": 4
     }
   },
   {
     "canonical_name": "John Knightley",
     "aliases": [],
     "first_chapter": 3,
-    "total_mentions": 41,
+    "total_mentions": 17,
     "per_chapter": {
       "3": {
         "mentions": 2,
         "snippet": "John Knightley lately?"
-      },
-      "4": {
-        "mentions": 1,
-        "snippet": "John Knightley came\u2014I think the"
-      },
-      "5": {
-        "mentions": 1,
-        "snippet": "John Knightley is easily alarmed, and might be made unhappy about"
       },
       "6": {
         "mentions": 1,
@@ -1992,21 +2015,9 @@
         "mentions": 3,
         "snippet": "John Knightley\u2019s being a"
       },
-      "11": {
-        "mentions": 12,
-        "snippet": "John Knightley, from having been longer than usual absent"
-      },
       "12": {
         "mentions": 3,
         "snippet": "John Knightley"
-      },
-      "13": {
-        "mentions": 8,
-        "snippet": "John"
-      },
-      "14": {
-        "mentions": 2,
-        "snippet": "John Knightley disperse his ill-humour."
       },
       "15": {
         "mentions": 3,
@@ -2030,243 +2041,127 @@
       }
     },
     "co_occurs_with": {
-      "Emma": 15,
-      "Knightley": 15,
-      "Miss Woodhouse": 15,
-      "Mr. Knightley": 15,
-      "Mrs. Weston": 15,
-      "Weston": 15,
-      "Elton": 14,
-      "Mr. Elton": 14
+      "Emma": 10,
+      "Knightley": 10,
+      "Mr. Knightley": 10,
+      "Mr. Woodhouse": 10,
+      "Woodhouse": 10,
+      "Elton": 8,
+      "Miss Woodhouse": 8,
+      "Mrs. Weston": 8
     }
   },
   {
-    "canonical_name": "Mrs. Churchill",
+    "canonical_name": "Dixon",
     "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 39,
+    "first_chapter": 2,
+    "total_mentions": 17,
     "per_chapter": {
-      "1": {
-        "mentions": 2,
-        "snippet": "to be inferred that Mrs."
-      },
       "2": {
         "mentions": 2,
-        "snippet": "and Mrs."
+        "snippet": "Dixon\u2019s wedding-present."
       },
-      "6": {
-        "mentions": 4,
-        "snippet": "coming had been united, such as the last accounts of Mrs."
+      "3": {
+        "mentions": 3,
+        "snippet": "Dixon seems a very charming young man, quite worthy of him."
       },
       "8": {
+        "mentions": 12,
+        "snippet": "Dixon?"
+      }
+    },
+    "co_occurs_with": {
+      "Colonel Campbell": 3,
+      "Elton": 3,
+      "Knightley": 3,
+      "Miss Bates": 3,
+      "Miss Fairfax": 3,
+      "Miss Smith": 3,
+      "Miss Woodhouse": 3,
+      "Mr. Dixon": 3
+    }
+  },
+  {
+    "canonical_name": "Maple Grove",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 17,
+    "per_chapter": {
+      "2": {
         "mentions": 2,
-        "snippet": "account of Mrs."
+        "snippet": "They were never tolerated at Maple Grove."
       },
-      "9": {
-        "mentions": 6,
-        "snippet": "death of Mrs."
-      },
-      "10": {
+      "6": {
         "mentions": 2,
-        "snippet": "One morning, about ten days after Mrs."
-      },
-      "12": {
-        "mentions": 2,
-        "snippet": "Mrs."
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "Mrs."
+        "snippet": "exploring party from Maple Grove to Kings Weston."
       },
       "14": {
-        "mentions": 5,
-        "snippet": "\u201cYes\u2014it seems to depend upon nothing but the ill-humour of Mrs."
-      },
-      "18": {
-        "mentions": 13,
-        "snippet": "town directly, on Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 10,
-      "Frank Churchill": 10,
-      "Knightley": 10,
-      "Miss Fairfax": 10,
-      "Miss Woodhouse": 10,
-      "Mr. Knightley": 10,
-      "Mr. Weston": 10,
-      "Mrs. Weston": 10
-    }
-  },
-  {
-    "canonical_name": "Jane Fairfax",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 39,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "just now quite safe from any letter from Jane Fairfax."
-      },
-      "2": {
-        "mentions": 6,
-        "snippet": "Such was Jane Fairfax\u2019s history."
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "I like old friends; and Miss Jane"
-      },
-      "5": {
-        "mentions": 2,
-        "snippet": "to be made of their barouche-landau; and Jane Fairfax was still at her"
-      },
-      "6": {
-        "mentions": 3,
-        "snippet": "You will allow me to bring Jane Fairfax?"
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "importance in the world, and Jane Fairfax\u2019s, struck her; one was every"
-      },
-      "9": {
-        "mentions": 6,
-        "snippet": "to talk over Jane Fairfax\u2019s situation with Mr."
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "\u201cJane Fairfax!"
-      },
-      "11": {
-        "mentions": 5,
-        "snippet": "Jane Fairfax would have neither elevation nor happiness beyond her"
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "her having stabbed Jane Fairfax\u2019s peace in a thousand instances; and on"
-      },
-      "13": {
-        "mentions": 2,
-        "snippet": "for Jane Fairfax\u2019s character vouches for her disinterestedness; every"
-      },
-      "15": {
-        "mentions": 2,
-        "snippet": "persisting to act in direct opposition to Jane Fairfax\u2019s sense of"
-      },
-      "16": {
-        "mentions": 3,
-        "snippet": "very person whom she really wanted to make the eighth, Jane Fairfax."
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "Jane Fairfax and slight herself."
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 14,
-      "Knightley": 14,
-      "Miss Fairfax": 14,
-      "Miss Woodhouse": 14,
-      "Mr. Knightley": 14,
-      "Mrs. Weston": 14,
-      "Weston": 14,
-      "Elton": 13
-    }
-  },
-  {
-    "canonical_name": "Campbell",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 34,
-    "per_chapter": {
-      "1": {
-        "mentions": 7,
-        "snippet": "Campbell will be wanting the carriage himself one of those days."
-      },
-      "2": {
-        "mentions": 1,
-        "snippet": "Colonel Campbell rather preferred an olive."
-      },
-      "3": {
-        "mentions": 5,
-        "snippet": "Jane says that Colonel Campbell is a little deaf."
-      },
-      "6": {
-        "mentions": 6,
-        "snippet": "Colonel Campbell is a very agreeable man, and Mrs."
-      },
-      "8": {
-        "mentions": 5,
-        "snippet": "know, to be written to Colonel Campbell, and Mrs."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "\u2014But (with a smile) if Colonel Campbell should"
-      },
-      "10": {
-        "mentions": 5,
-        "snippet": "\u201cWhoever Colonel Campbell might employ,\u201d said Frank Churchill, with a"
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "story known to Colonel Campbell."
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "Campbell, I"
+        "mentions": 11,
+        "snippet": "The very first subject after being seated was Maple Grove, \u201cMy brother"
       },
       "16": {
         "mentions": 1,
-        "snippet": "Campbell."
+        "snippet": "We never heard of such things at Maple Grove."
       },
       "17": {
         "mentions": 1,
-        "snippet": "Campbell are to be in town again by midsummer,\u201d said"
+        "snippet": "She knew a family near Maple Grove who had"
       }
     },
     "co_occurs_with": {
-      "Emma": 11,
-      "Jane Fairfax": 11,
-      "Knightley": 11,
-      "Miss Bates": 11,
-      "Miss Fairfax": 11,
-      "Miss Woodhouse": 11,
-      "Mr. Knightley": 11,
-      "Mrs. Weston": 11
+      "Elton": 5,
+      "Knightley": 5,
+      "Mr. Knightley": 5,
+      "Mr. Woodhouse": 5,
+      "Mrs. Elton": 5,
+      "Mrs. Weston": 5,
+      "Weston": 5,
+      "Woodhouse": 5
+    }
+  },
+  {
+    "canonical_name": "Mrs. Cole",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 16,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "received Mrs."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "You can borrow Mrs."
+      },
+      "8": {
+        "mentions": 10,
+        "snippet": "Mrs."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "course, to Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Cole": 4,
+      "Elton": 4,
+      "Emma": 4,
+      "John Knightley": 4,
+      "Knightley": 4,
+      "Miss Bates": 4,
+      "Mr. Knightley": 4,
+      "Mr. Woodhouse": 4
     }
   },
   {
     "canonical_name": "Mr. Perry",
     "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 33,
+    "first_chapter": 3,
+    "total_mentions": 15,
     "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "If Jane does not get well soon, we will call in Mr."
-      },
-      "2": {
-        "mentions": 2,
-        "snippet": "pains of consulting Mr."
-      },
       "3": {
         "mentions": 1,
         "snippet": "precisely the height of Mr."
-      },
-      "5": {
-        "mentions": 2,
-        "snippet": "As they were turning into the grounds, Mr."
-      },
-      "8": {
-        "mentions": 3,
-        "snippet": "Mr."
-      },
-      "9": {
-        "mentions": 4,
-        "snippet": "to write;\u201d and when Mr."
-      },
-      "11": {
-        "mentions": 5,
-        "snippet": "Mr."
       },
       "12": {
         "mentions": 6,
@@ -2277,8 +2172,8 @@
         "snippet": "the serenity they might gradually introduce; and on Mr."
       },
       "14": {
-        "mentions": 2,
-        "snippet": "he had received from Mr."
+        "mentions": 1,
+        "snippet": "benefit; and Mr."
       },
       "15": {
         "mentions": 1,
@@ -2294,843 +2189,55 @@
       }
     },
     "co_occurs_with": {
-      "Emma": 13,
-      "Frank Churchill": 13,
-      "Knightley": 13,
-      "Miss Fairfax": 13,
-      "Miss Woodhouse": 13,
-      "Mr. Knightley": 13,
-      "Mr. Woodhouse": 13,
-      "Mrs. Weston": 13
-    }
-  },
-  {
-    "canonical_name": "Cole",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 33,
-    "per_chapter": {
-      "1": {
-        "mentions": 7,
-        "snippet": "Cole had just been there, just called"
-      },
-      "3": {
-        "mentions": 7,
-        "snippet": "Cole\u2019s note\u2014no, it cannot be more than five\u2014or at least"
-      },
-      "4": {
-        "mentions": 2,
-        "snippet": "Cole of"
-      },
-      "6": {
-        "mentions": 1,
-        "snippet": "Cole\u2019s."
-      },
-      "7": {
-        "mentions": 5,
-        "snippet": "Cole"
-      },
-      "8": {
-        "mentions": 2,
-        "snippet": "Cole,\u2019"
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "Cole had made such a point\u2014and Mrs."
-      },
-      "10": {
-        "mentions": 2,
-        "snippet": "Cole was saying the other day she"
-      },
-      "11": {
-        "mentions": 1,
-        "snippet": "Cole\u2019s"
-      },
-      "15": {
-        "mentions": 3,
-        "snippet": "Cole gave me"
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "Cole, Mrs."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "Cole\u2019s, or balls"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 12,
-      "Emma": 12,
-      "Knightley": 12,
-      "Miss Woodhouse": 12,
-      "Mr. Elton": 12,
-      "Mr. Knightley": 12,
-      "Mrs. Weston": 12,
-      "Weston": 12
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 33,
-    "per_chapter": {
-      "6": {
-        "mentions": 18,
-        "snippet": "\u2014The year will wear away at this rate, and nothing done."
-      },
-      "11": {
-        "mentions": 9,
-        "snippet": "The intelligence, which had been so anxiously announced to"
-      },
-      "17": {
-        "mentions": 6,
-        "snippet": "\u2014The fate of thousands."
-      }
-    },
-    "co_occurs_with": {
-      "Cole": 3,
-      "Elton": 3,
-      "Emma": 3,
-      "Hartfield": 3,
-      "Jane Fairfax": 3,
-      "John Knightley": 3,
-      "Knightley": 3,
-      "Miss Bates": 3
-    }
-  },
-  {
-    "canonical_name": "Mr. Frank Churchill",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 32,
-    "per_chapter": {
-      "2": {
-        "mentions": 4,
-        "snippet": "afraid:\u2014but Mr."
-      },
-      "5": {
-        "mentions": 2,
-        "snippet": "there is no denying that Mr."
-      },
-      "6": {
-        "mentions": 2,
-        "snippet": "The next morning brought Mr."
-      },
-      "7": {
-        "mentions": 1,
-        "snippet": "\u201cMr."
-      },
-      "8": {
-        "mentions": 3,
-        "snippet": "chaise having been sent to Randalls to take Mr."
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "said how much taste you had; and Mr."
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "\u201cSo far as that it relates to Mr."
-      },
-      "11": {
-        "mentions": 9,
-        "snippet": "he told me all about it; that Jane Fairfax and Mr."
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "marrying, there was something in the name, in the idea of Mr."
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "expectation of Mr."
-      },
-      "16": {
-        "mentions": 2,
-        "snippet": "Weston was disengaged and Emma began again\u2014\u201cMr."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "I have heard so much in praise of Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 12,
-      "Emma": 12,
-      "Frank Churchill": 12,
-      "Knightley": 12,
-      "Miss Fairfax": 12,
-      "Miss Woodhouse": 12,
-      "Mr. Elton": 12,
-      "Mr. Knightley": 12
-    }
-  },
-  {
-    "canonical_name": "Mr. John Knightley",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 29,
-    "per_chapter": {
-      "3": {
-        "mentions": 1,
-        "snippet": "Dixon like Mr."
-      },
-      "6": {
-        "mentions": 2,
-        "snippet": "Mr."
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "It would be a great disappointment to Mr."
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "\u2014Mr."
-      },
-      "11": {
-        "mentions": 5,
-        "snippet": "Mr."
-      },
-      "12": {
-        "mentions": 2,
-        "snippet": "I think Mr."
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "might carry some report of her to Hartfield\u2014they were overtaken by Mr."
-      },
-      "14": {
-        "mentions": 2,
-        "snippet": "joyous looks, and Mr."
-      },
-      "15": {
-        "mentions": 2,
-        "snippet": "another subject succeed; for Mr."
-      },
-      "16": {
-        "mentions": 4,
-        "snippet": "The day came, the party were punctually assembled, and Mr."
-      },
-      "18": {
-        "mentions": 2,
-        "snippet": "Mr."
-      },
-      "19": {
-        "mentions": 1,
-        "snippet": "\u2014But Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 12,
-      "John Knightley": 12,
-      "Knightley": 12,
-      "Miss Woodhouse": 12,
-      "Mr. Knightley": 12,
-      "Mr. Woodhouse": 12,
-      "Mrs. Weston": 12,
-      "Weston": 12
-    }
-  },
-  {
-    "canonical_name": "Miss Nash",
-    "aliases": [
-      "Nash"
-    ],
-    "first_chapter": 4,
-    "total_mentions": 27,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "teachers, Miss Nash, and Miss Prince, and Miss Richardson, to sup with"
-      },
-      "7": {
-        "mentions": 9,
-        "snippet": "I am sure Miss Nash would\u2014for"
-      },
-      "8": {
-        "mentions": 10,
-        "snippet": "Miss Nash had been"
-      },
-      "9": {
-        "mentions": 2,
-        "snippet": "Miss Nash thinks either of the Coxes would be very glad to"
-      },
-      "10": {
-        "mentions": 3,
-        "snippet": "curtains that Miss Nash admires so much."
-      }
-    },
-    "co_occurs_with": {
-      "Cole": 5,
-      "Elton": 5,
-      "Emma": 5,
-      "Frank Churchill": 5,
-      "Highbury": 5,
-      "Knightley": 5,
-      "Miss Woodhouse": 5,
-      "Mr. Churchill": 5
-    }
-  },
-  {
-    "canonical_name": "Colonel Campbell",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 26,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "Yes, Friday or Saturday; she cannot say which, because Colonel"
-      },
-      "2": {
-        "mentions": 1,
-        "snippet": "Colonel Campbell rather preferred an olive."
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "Jane says that Colonel Campbell is a little deaf."
-      },
-      "6": {
-        "mentions": 1,
-        "snippet": "Colonel Campbell is a very agreeable man, and Mrs."
-      },
-      "8": {
-        "mentions": 7,
-        "snippet": "know, to be written to Colonel Campbell, and Mrs."
-      },
-      "9": {
-        "mentions": 2,
-        "snippet": "\u2014But (with a smile) if Colonel Campbell should"
-      },
-      "10": {
-        "mentions": 9,
-        "snippet": "\u201cWhoever Colonel Campbell might employ,\u201d said Frank Churchill, with a"
-      },
-      "12": {
-        "mentions": 2,
-        "snippet": "story known to Colonel Campbell."
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 8,
-      "Emma": 8,
-      "Frank Churchill": 8,
-      "Highbury": 8,
-      "Jane Fairfax": 8,
-      "Knightley": 8,
-      "Miss Bates": 8,
-      "Miss Fairfax": 8
-    }
-  },
-  {
-    "canonical_name": "Maple Grove",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 25,
-    "per_chapter": {
-      "2": {
-        "mentions": 2,
-        "snippet": "They were never tolerated at Maple Grove."
-      },
-      "6": {
-        "mentions": 2,
-        "snippet": "exploring party from Maple Grove to Kings Weston."
-      },
-      "8": {
-        "mentions": 3,
-        "snippet": "miles from Maple Grove."
-      },
-      "14": {
-        "mentions": 11,
-        "snippet": "The very first subject after being seated was Maple Grove, \u201cMy brother"
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "Elton\u2019s\u2014a neighbour of Maple Grove; and, by the"
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "We never heard of such things at Maple Grove."
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "She knew a family near Maple Grove who had"
-      },
-      "18": {
-        "mentions": 4,
-        "snippet": "from Maple Grove to London."
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 8,
-      "Emma": 8,
-      "Knightley": 8,
-      "Miss Fairfax": 8,
-      "Miss Woodhouse": 8,
-      "Mr. Elton": 8,
-      "Mr. Knightley": 8,
-      "Mr. Weston": 8
-    }
-  },
-  {
-    "canonical_name": "Harriet Smith",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 24,
-    "per_chapter": {
-      "2": {
-        "mentions": 1,
-        "snippet": "\u2014Harriet Smith has some first-rate qualities, which"
-      },
-      "4": {
-        "mentions": 1,
-        "snippet": "Altogether she was quite convinced of Harriet Smith\u2019s being exactly the"
-      },
-      "5": {
-        "mentions": 7,
-        "snippet": "Knightley, \u201cof this great intimacy between Emma and Harriet Smith, but"
-      },
-      "8": {
-        "mentions": 7,
-        "snippet": "\u201cI have reason to think,\u201d he replied, \u201cthat Harriet Smith will soon"
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "Now, an attachment to Harriet Smith"
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "Harriet Smith."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "find a friend there instead of in Harriet Smith; she must, in all"
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "follies\u2014her wilful intimacy with Harriet Smith; but it was too tender a"
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "that Harriet Smith has accepted Robert Martin."
-      },
-      "19": {
-        "mentions": 1,
-        "snippet": "\u2014Robert Martin and Harriet Smith, the latest couple engaged of"
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 10,
-      "Knightley": 10,
-      "Miss Woodhouse": 10,
-      "Mr. Knightley": 10,
-      "Mrs. Weston": 10,
-      "Weston": 10,
-      "Elton": 9,
-      "Mr. Elton": 9
-    }
-  },
-  {
-    "canonical_name": "Dixon",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 24,
-    "per_chapter": {
-      "1": {
-        "mentions": 11,
-        "snippet": "Dixon has persuaded her father and mother to"
-      },
-      "2": {
-        "mentions": 2,
-        "snippet": "Dixon\u2019s wedding-present."
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "Dixon seems a very charming young man, quite worthy of him."
-      },
-      "6": {
-        "mentions": 4,
-        "snippet": "Dixon is very musical,"
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "Dixon."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "Dixon, which she"
-      },
-      "15": {
-        "mentions": 2,
-        "snippet": "Dixon, but this is a punishment"
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 7,
       "Emma": 7,
-      "Frank Churchill": 7,
-      "Jane Fairfax": 7,
       "Knightley": 7,
-      "Miss Bates": 7,
-      "Miss Fairfax": 7,
-      "Miss Woodhouse": 7
+      "Mr. Knightley": 7,
+      "Perry": 7,
+      "Mr. Woodhouse": 6,
+      "Woodhouse": 6,
+      "Harriet": 5,
+      "Miss Woodhouse": 5
     }
   },
   {
     "canonical_name": "Mr. Cole",
     "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 23,
+    "first_chapter": 3,
+    "total_mentions": 14,
     "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "There was intimacy between them, and Mr."
-      },
       "3": {
         "mentions": 3,
         "snippet": "for the very moment Mr."
-      },
-      "7": {
-        "mentions": 2,
-        "snippet": "Perry tells me that Mr."
       },
       "8": {
         "mentions": 10,
         "snippet": "She meant to be very happy, in spite of the scene being laid at Mr."
       },
       "9": {
-        "mentions": 2,
-        "snippet": "Mr."
-      },
-      "11": {
         "mentions": 1,
-        "snippet": "His first proposition and request, that the dance begun at Mr."
-      },
-      "15": {
-        "mentions": 3,
-        "snippet": "Mr."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "brought an account of fresh gaieties; dinners at Mr."
+        "snippet": "He was arm-in-arm with Mr."
       }
     },
     "co_occurs_with": {
-      "Cole": 8,
-      "Elton": 8,
-      "Emma": 8,
-      "Frank Churchill": 8,
-      "Knightley": 8,
-      "Miss Fairfax": 8,
-      "Miss Woodhouse": 8,
-      "Mr. Elton": 8
-    }
-  },
-  {
-    "canonical_name": "Mr. Martin",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 22,
-    "per_chapter": {
-      "4": {
-        "mentions": 1,
-        "snippet": "the agitation of meeting Mr."
-      },
-      "7": {
-        "mentions": 7,
-        "snippet": "Goddard\u2019s, that Mr."
-      },
-      "8": {
-        "mentions": 6,
-        "snippet": "through a great part of this speech, \u201chow do you know that Mr."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "\u201cThey told me\u2014that Mr."
-      },
-      "11": {
-        "mentions": 5,
-        "snippet": "your affections, he might be alluding to Mr."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "that Mr."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "you quite sure that you understand the terms on which Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 7,
-      "Frank Churchill": 7,
-      "Knightley": 7,
-      "Miss Woodhouse": 7,
-      "Mr. Churchill": 7,
-      "Mr. Knightley": 7,
-      "Mr. Weston": 7,
-      "Mrs. Weston": 7
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 22,
-    "per_chapter": {
-      "2": {
-        "mentions": 5,
-        "snippet": "\u2014\u201cVery"
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "\u201cVery true, Miss Woodhouse, so she will."
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "\u201cVery true, my love, very true."
-      },
-      "8": {
-        "mentions": 3,
-        "snippet": "But Miss Bates soon came\u2014\u201cVery happy and"
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "\u201cVery likely."
-      },
-      "16": {
-        "mentions": 5,
-        "snippet": "Very pleasant"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 6,
-      "Emma": 6,
-      "Frank Churchill": 6,
-      "Knightley": 6,
-      "Miss Bates": 6,
-      "Miss Fairfax": 6,
-      "Miss Woodhouse": 6,
-      "Mr. Elton": 6
-    }
-  },
-  {
-    "canonical_name": "Mrs. Cole",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 22,
-    "per_chapter": {
-      "1": {
-        "mentions": 6,
-        "snippet": "sweet-cake from the beaufet\u2014\u201cMrs."
-      },
-      "3": {
-        "mentions": 4,
-        "snippet": "received Mrs."
-      },
-      "4": {
-        "mentions": 2,
-        "snippet": "distinguishing notice; the history which he had to give Mrs."
-      },
-      "6": {
-        "mentions": 1,
-        "snippet": "You can borrow Mrs."
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "and Mrs."
-      },
-      "8": {
-        "mentions": 2,
-        "snippet": "\u2018It is only Mrs."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "Elton, indeed, could not be denied\u2014and Mrs."
-      },
-      "10": {
-        "mentions": 2,
-        "snippet": "\u2014Mrs."
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "course, to Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Cole": 9,
-      "Elton": 9,
-      "Emma": 9,
-      "Knightley": 9,
-      "Miss Woodhouse": 9,
-      "Mr. Elton": 9,
-      "Mr. Knightley": 9,
-      "Mrs. Weston": 9
-    }
-  },
-  {
-    "canonical_name": "Miss Campbell",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 22,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "telling Miss Campbell about his own home in Ireland; and I think she"
-      },
-      "2": {
-        "mentions": 6,
-        "snippet": "The affection of the whole family, the warm attachment of Miss Campbell"
-      },
-      "3": {
-        "mentions": 5,
-        "snippet": "these subjects, who must have been so deep in the business on Miss"
-      },
-      "6": {
-        "mentions": 8,
-        "snippet": "Dixon and Miss Campbell were the persons; and I thought it a"
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 4,
-      "Colonel Campbell": 4,
-      "Dixon": 4,
-      "Elton": 4,
-      "Emma": 4,
-      "Frank Churchill": 4,
-      "Highbury": 4,
-      "Jane Fairfax": 4
-    }
-  },
-  {
-    "canonical_name": "Mr. Wingfield",
-    "aliases": [
-      "Wingfield"
-    ],
-    "first_chapter": 11,
-    "total_mentions": 20,
-    "per_chapter": {
-      "11": {
-        "mentions": 2,
-        "snippet": "and was as fond of her own Mr."
-      },
-      "12": {
-        "mentions": 16,
-        "snippet": "\u201cMr."
-      },
-      "16": {
-        "mentions": 2,
-        "snippet": "her\u2014and though not so fond of a dentist as of a Mr."
-      }
-    },
-    "co_occurs_with": {
+      "Cole": 3,
+      "Elton": 3,
       "Emma": 3,
-      "Frank Churchill": 3,
-      "Hartfield": 3,
-      "Isabella": 3,
-      "Jane Fairfax": 3,
       "John Knightley": 3,
       "Knightley": 3,
-      "Miss Bates": 3
-    }
-  },
-  {
-    "canonical_name": "Mr. Dixon",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 20,
-    "per_chapter": {
-      "1": {
-        "mentions": 6,
-        "snippet": "which it was, but we shall see presently in Jane\u2019s letter\u2014wrote in Mr."
-      },
-      "2": {
-        "mentions": 1,
-        "snippet": "Bought at Weymouth, you know\u2014Mr."
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "And Mr."
-      },
-      "6": {
-        "mentions": 3,
-        "snippet": "\u2014\u201cMr."
-      },
-      "8": {
-        "mentions": 5,
-        "snippet": "\u201cMr."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "abominable suspicions of an improper attachment to Mr."
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "have done wrong with regard to Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 7,
-      "Dixon": 7,
-      "Emma": 7,
-      "Frank Churchill": 7,
-      "Jane Fairfax": 7,
-      "Knightley": 7,
-      "Miss Bates": 7,
-      "Miss Fairfax": 7
-    }
-  },
-  {
-    "canonical_name": "Enscombe",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 19,
-    "per_chapter": {
-      "8": {
-        "mentions": 4,
-        "snippet": "neighbourhood about Enscombe, and the sort; and could make out from his"
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "Weston; and the transition from Highbury to Enscombe, the contrast"
-      },
-      "14": {
-        "mentions": 6,
-        "snippet": "that a party of friends are invited to pay a visit at Enscombe in"
-      },
-      "18": {
-        "mentions": 6,
-        "snippet": "whole winter, and thinks Enscombe too cold for her\u2014so they are all to"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 4,
-      "Emma": 4,
-      "Frank Churchill": 4,
-      "John Knightley": 4,
-      "Knightley": 4,
-      "Miss Fairfax": 4,
-      "Miss Smith": 4,
-      "Miss Woodhouse": 4
+      "Miss Smith": 3,
+      "Miss Woodhouse": 3,
+      "Mr. Elton": 3
     }
   },
   {
     "canonical_name": "Donwell",
     "aliases": [],
     "first_chapter": 6,
-    "total_mentions": 19,
+    "total_mentions": 13,
     "per_chapter": {
       "6": {
         "mentions": 8,
         "snippet": "\u201cYou had better explore to Donwell,\u201d replied Mr."
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "of Donwell and Highbury, with great candour; liberal allowances were"
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "Knightley to all the world; let Donwell and Hartfield lose none of"
       },
       "16": {
         "mentions": 5,
@@ -3138,390 +2245,14 @@
       }
     },
     "co_occurs_with": {
-      "Box Hill": 4,
-      "Emma": 4,
-      "Frank Churchill": 4,
-      "Hartfield": 4,
-      "Knightley": 4,
-      "Miss Bates": 4,
-      "Miss Fairfax": 4,
-      "Miss Woodhouse": 4
-    }
-  },
-  {
-    "canonical_name": "Mr. Churchill",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 18,
-    "per_chapter": {
-      "2": {
-        "mentions": 2,
-        "snippet": "Mr."
-      },
-      "4": {
-        "mentions": 1,
-        "snippet": "\u201cAnd when,\u201d thought Emma, \u201cwill there be a beginning of Mr."
-      },
-      "5": {
-        "mentions": 1,
-        "snippet": "\u201cThe joke,\u201d he replied gravely, \u201cseemed confined to you and Mr."
-      },
-      "7": {
-        "mentions": 1,
-        "snippet": "you please, Mr."
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "however, had been no more than was expected; and that Mr."
-      },
-      "9": {
-        "mentions": 6,
-        "snippet": "would Mr."
-      },
-      "10": {
-        "mentions": 2,
-        "snippet": "Well, and how did Mr."
-      },
-      "11": {
-        "mentions": 1,
-        "snippet": "Mr."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "Mr."
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "am sure it will be safe), that so far as our living with Mr."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 11,
-      "Frank Churchill": 11,
-      "Knightley": 11,
-      "Miss Woodhouse": 11,
-      "Mr. Knightley": 11,
-      "Mr. Weston": 11,
-      "Mrs. Weston": 11,
-      "Weston": 11
-    }
-  },
-  {
-    "canonical_name": "Box Hill",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 17,
-    "per_chapter": {
-      "6": {
-        "mentions": 6,
-        "snippet": "Why should not they explore to Box Hill though the"
-      },
-      "7": {
-        "mentions": 1,
-        "snippet": "They had a very fine day for Box Hill; and all the other outward"
-      },
-      "8": {
-        "mentions": 2,
-        "snippet": "The wretchedness of a scheme to Box Hill was in Emma\u2019s thoughts all the"
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "Box Hill, perhaps, it had been the agony of a mind that would bear no"
-      },
-      "14": {
-        "mentions": 2,
-        "snippet": "more the next day on Box Hill; when, provoked by such conduct on my"
-      },
-      "15": {
-        "mentions": 2,
-        "snippet": "Emma knew that he was now getting to the Box Hill party, and grew"
-      },
-      "16": {
-        "mentions": 3,
-        "snippet": "been into the house since the morning after Box Hill, when poor Jane"
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 7,
-      "Frank Churchill": 7,
-      "Knightley": 7,
-      "Miss Fairfax": 7,
-      "Miss Woodhouse": 7,
-      "Mr. Knightley": 7,
-      "Mr. Weston": 7,
-      "Mr. Woodhouse": 7
-    }
-  },
-  {
-    "canonical_name": "Mrs. Bates",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 16,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "Mrs."
-      },
-      "2": {
-        "mentions": 1,
-        "snippet": "They had stopped at Mrs."
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "However, she is very agreeable, and Mrs."
-      },
-      "5": {
-        "mentions": 2,
-        "snippet": "\u201cTo be sure we do,\u201d cried his father; \u201cMrs."
-      },
-      "7": {
-        "mentions": 1,
-        "snippet": "Goddard, if not Mrs."
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "Poor old Mrs."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "answer, therefore, she ordered the carriage, and drove to Mrs."
-      },
-      "10": {
-        "mentions": 2,
-        "snippet": "tranquillity itself; Mrs."
-      },
-      "12": {
-        "mentions": 2,
-        "snippet": "Weston had accompanied her to Mrs."
-      },
-      "16": {
-        "mentions": 4,
-        "snippet": "Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 10,
-      "Frank Churchill": 10,
-      "Knightley": 10,
-      "Miss Bates": 10,
-      "Miss Fairfax": 10,
-      "Miss Woodhouse": 10,
-      "Mr. Knightley": 10,
-      "Mrs. Weston": 10
-    }
-  },
-  {
-    "canonical_name": "Campbells",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 16,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "The case is, you see, that the Campbells"
-      },
-      "8": {
-        "mentions": 6,
-        "snippet": "Campbells to Ireland."
-      },
-      "15": {
-        "mentions": 4,
-        "snippet": "with the Campbells are so palpably at an end!"
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "trouble; but I assure you, my dear Jane, the Campbells can hardly be"
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 4,
-      "Cole": 4,
-      "Elton": 4,
-      "Emma": 4,
-      "Jane Fairfax": 4,
-      "Knightley": 4,
-      "Miss Bates": 4,
-      "Miss Fairfax": 4
-    }
-  },
-  {
-    "canonical_name": "Suckling",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 14,
-    "per_chapter": {
-      "2": {
-        "mentions": 1,
-        "snippet": "Suckling nor me"
-      },
-      "6": {
-        "mentions": 3,
-        "snippet": "Suckling, the Highbury world were obliged to endure the mortification"
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "Suckling\u2019s own family, and Mrs."
-      },
-      "14": {
-        "mentions": 2,
-        "snippet": "Suckling\u2019s seat;\u201d\u2014a comparison of Hartfield to Maple Grove."
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "Suckling, in income."
-      },
-      "17": {
-        "mentions": 2,
-        "snippet": "Suckling, Mrs."
-      },
-      "18": {
-        "mentions": 4,
-        "snippet": "Suckling, sometimes flies about."
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 7,
-      "Emma": 7,
-      "Knightley": 7,
-      "Maple Grove": 7,
-      "Miss Fairfax": 7,
-      "Miss Woodhouse": 7,
-      "Mr. Elton": 7,
-      "Mr. Knightley": 7
-    }
-  },
-  {
-    "canonical_name": "Mrs. John Knightley",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 13,
-    "per_chapter": {
-      "3": {
-        "mentions": 1,
-        "snippet": "Have you heard from Mrs."
-      },
-      "4": {
-        "mentions": 1,
-        "snippet": "and Mrs."
-      },
-      "5": {
-        "mentions": 1,
-        "snippet": "\u201cMrs."
-      },
-      "11": {
-        "mentions": 5,
-        "snippet": "and Mrs."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "\u201d said Mrs."
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "There could hardly be a happier creature in the world than Mrs."
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "Mrs."
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "and Mrs."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "box at Astley\u2019s, my brother took charge of Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 9,
-      "John Knightley": 9,
-      "Knightley": 9,
-      "Miss Woodhouse": 9,
-      "Mr. Knightley": 9,
-      "Mrs. Weston": 9,
-      "Weston": 9,
-      "Elton": 8
-    }
-  },
-  {
-    "canonical_name": "Ford",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 13,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "and took shelter at Ford\u2019s."
-      },
-      "6": {
-        "mentions": 4,
-        "snippet": "At this moment they were approaching Ford\u2019s, and he hastily exclaimed,"
-      },
-      "9": {
-        "mentions": 6,
-        "snippet": "Ford."
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 3,
-      "Cole": 3,
-      "Colonel Campbell": 3,
-      "Elton": 3,
-      "Emma": 3,
-      "Frank Churchill": 3,
-      "Harriet": 3,
-      "Hartfield": 3
-    }
-  },
-  {
-    "canonical_name": "Mrs. Perry",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 12,
-    "per_chapter": {
-      "2": {
-        "mentions": 1,
-        "snippet": "a dissentient voice on the subject, either when Mrs."
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "and Mrs."
-      },
-      "5": {
-        "mentions": 6,
-        "snippet": "Mrs."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "Cole had made such a point\u2014and Mrs."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "\u201cAnd Mrs."
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "Bates, Mrs."
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "Cole, Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 7,
-      "Jane Fairfax": 7,
-      "Knightley": 7,
-      "Miss Bates": 7,
-      "Miss Fairfax": 7,
-      "Miss Woodhouse": 7,
-      "Mr. Knightley": 7,
-      "Mr. Woodhouse": 7
+      "Box Hill": 2,
+      "Elton": 2,
+      "Emma": 2,
+      "Frank Churchill": 2,
+      "Harriet": 2,
+      "John Knightley": 2,
+      "Knightley": 2,
+      "Maple Grove": 2
     }
   },
   {
@@ -3540,302 +2271,156 @@
       }
     },
     "co_occurs_with": {
-      "Campbell": 2,
       "Cole": 2,
-      "Colonel Campbell": 2,
       "Elton": 2,
       "Emma": 2,
-      "Frank Churchill": 2,
-      "Harriet Smith": 2,
-      "Highbury": 2
+      "John Knightley": 2,
+      "Knightley": 2,
+      "Miss Smith": 2,
+      "Miss Woodhouse": 2,
+      "Mr. Cole": 2
     }
   },
   {
-    "canonical_name": "There",
+    "canonical_name": "Mrs. Bates",
     "aliases": [],
-    "first_chapter": 5,
+    "first_chapter": 2,
     "total_mentions": 12,
     "per_chapter": {
-      "5": {
-        "mentions": 5,
-        "snippet": "There were the pencilled marks and memorandums on the wainscot"
+      "2": {
+        "mentions": 1,
+        "snippet": "They had stopped at Mrs."
       },
-      "11": {
-        "mentions": 4,
-        "snippet": "\u201cThere is no denying it,\u201d he replied."
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "\u2014There, with spirits"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 3,
-      "Emma": 3,
-      "Frank Churchill": 3,
-      "Hartfield": 3,
-      "Jane Fairfax": 3,
-      "John Knightley": 3,
-      "Knightley": 3,
-      "Miss Fairfax": 3
-    }
-  },
-  {
-    "canonical_name": "James",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 11,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "But James will not like to put the horses to for such a"
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "James could take the note."
-      },
-      "15": {
-        "mentions": 3,
-        "snippet": "representation of the excellence of the horses, and of James, and of"
-      }
-    },
-    "co_occurs_with": {
-      "Cole": 3,
-      "Elton": 3,
-      "Emma": 3,
-      "Frank Churchill": 3,
-      "Harriet": 3,
-      "Hartfield": 3,
-      "Knightley": 3,
-      "Miss Bates": 3
-    }
-  },
-  {
-    "canonical_name": "Donwell Abbey",
-    "aliases": [
-      "Abbey"
-    ],
-    "first_chapter": 3,
-    "total_mentions": 11,
-    "per_chapter": {
       "3": {
         "mentions": 1,
-        "snippet": "Highbury, including Randalls in the same parish, and Donwell Abbey in"
+        "snippet": "However, she is very agreeable, and Mrs."
       },
       "5": {
-        "mentions": 1,
-        "snippet": "leave, and walked home to the coolness and solitude of Donwell Abbey."
-      },
-      "7": {
-        "mentions": 4,
-        "snippet": "Robert Martin, of Abbey-Mill Farm."
+        "mentions": 2,
+        "snippet": "\u201cTo be sure we do,\u201d cried his father; \u201cMrs."
       },
       "8": {
         "mentions": 2,
-        "snippet": "and not use his carriage so often as became the owner of Donwell Abbey."
-      },
-      "11": {
-        "mentions": 1,
-        "snippet": "been divided between Hartfield and Donwell Abbey; but all the holidays"
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "which she was now beginning to consider Donwell Abbey, was never struck"
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "inconsiderable, being but a sort of notch in the Donwell Abbey estate,"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 7,
-      "Emma": 7,
-      "Frank Churchill": 7,
-      "Knightley": 7,
-      "Miss Bates": 7,
-      "Miss Fairfax": 7,
-      "Miss Woodhouse": 7,
-      "Mr. Elton": 7
-    }
-  },
-  {
-    "canonical_name": "Mrs. Campbell",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 11,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "out with them\u2014for Colonel and Mrs."
-      },
-      "2": {
-        "mentions": 1,
-        "snippet": "The good sense of Colonel and Mrs."
-      },
-      "6": {
-        "mentions": 1,
-        "snippet": "Colonel Campbell is a very agreeable man, and Mrs."
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "Mrs."
+        "snippet": "Her father\u2019s comfort was amply secured, Mrs."
       },
       "12": {
-        "mentions": 1,
-        "snippet": "Highbury; but now their daughter is married, I suppose Colonel and Mrs."
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "understand what her home has been, with Colonel and Mrs."
+        "mentions": 2,
+        "snippet": "Good old Mrs."
       },
       "16": {
-        "mentions": 1,
-        "snippet": "till claimed by Colonel and Mrs."
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "\u201cColonel and Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 8,
-      "Emma": 8,
-      "Jane Fairfax": 8,
-      "Knightley": 8,
-      "Miss Bates": 8,
-      "Miss Fairfax": 8,
-      "Miss Woodhouse": 8,
-      "Mr. Knightley": 8
-    }
-  },
-  {
-    "canonical_name": "Such",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 10,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "\u2014Such a transformation!"
-      },
-      "6": {
         "mentions": 4,
-        "snippet": "Such schemes as these are nothing without"
-      },
-      "16": {
-        "mentions": 3,
-        "snippet": "\u2014Such an overthrow"
+        "snippet": "Mrs."
       }
     },
     "co_occurs_with": {
-      "Campbell": 3,
-      "Elton": 3,
-      "Emma": 3,
-      "Frank Churchill": 3,
-      "Jane Fairfax": 3,
-      "Knightley": 3,
-      "Maple Grove": 3,
-      "Miss Bates": 3
+      "Miss Bates": 6,
+      "Mr. Woodhouse": 6,
+      "Woodhouse": 6,
+      "Elton": 5,
+      "Emma": 5,
+      "Miss Fairfax": 5,
+      "Miss Woodhouse": 5,
+      "Mr. Elton": 5
     }
   },
   {
-    "canonical_name": "Bath",
-    "aliases": [],
+    "canonical_name": "Miss Nash",
+    "aliases": [
+      "Nash"
+    ],
     "first_chapter": 4,
     "total_mentions": 10,
     "per_chapter": {
       "4": {
         "mentions": 3,
-        "snippet": "when he set out for Bath again, there was a general expectation, which"
+        "snippet": "teachers, Miss Nash, and Miss Prince, and Miss Richardson, to sup with"
       },
-      "14": {
+      "9": {
         "mentions": 7,
-        "snippet": "Why does not he try Bath?"
+        "snippet": "Miss Nash, head-teacher at Mrs."
       }
     },
     "co_occurs_with": {
+      "Elegant Extracts": 2,
       "Elton": 2,
       "Emma": 2,
-      "Frank Churchill": 2,
-      "Harriet": 2,
       "Hartfield": 2,
-      "Highbury": 2,
-      "John Knightley": 2,
-      "Knightley": 2
+      "Knightley": 2,
+      "Martin": 2,
+      "Miss Woodhouse": 2,
+      "Mr. Elton": 2
     }
   },
   {
-    "canonical_name": "Mrs. Hodges",
-    "aliases": [
-      "Hodges"
-    ],
+    "canonical_name": "Mr. John Knightley",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 10,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "Dixon like Mr."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "It would be a great disappointment to Mr."
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "\u2014Mr."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "I think Mr."
+      },
+      "15": {
+        "mentions": 2,
+        "snippet": "another subject succeed; for Mr."
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "\u2014But Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Emma": 6,
+      "John Knightley": 6,
+      "Knightley": 6,
+      "Mr. Knightley": 6,
+      "Mr. Woodhouse": 6,
+      "Woodhouse": 6,
+      "Elton": 5,
+      "Hartfield": 5
+    }
+  },
+  {
+    "canonical_name": "Box Hill",
+    "aliases": [],
     "first_chapter": 6,
     "total_mentions": 10,
     "per_chapter": {
       "6": {
-        "mentions": 2,
-        "snippet": "If you wish me to talk to Mrs."
+        "mentions": 6,
+        "snippet": "Why should not they explore to Box Hill though the"
       },
-      "9": {
-        "mentions": 4,
-        "snippet": "but Mrs."
-      },
-      "10": {
-        "mentions": 2,
-        "snippet": "Mrs."
+      "7": {
+        "mentions": 1,
+        "snippet": "They had a very fine day for Box Hill; and all the other outward"
       },
       "16": {
-        "mentions": 2,
-        "snippet": "And as for Mrs."
+        "mentions": 3,
+        "snippet": "been into the house since the morning after Box Hill, when poor Jane"
       }
     },
     "co_occurs_with": {
-      "Campbell": 4,
-      "Elton": 4,
-      "Emma": 4,
-      "Frank Churchill": 4,
-      "Harriet": 4,
-      "Jane Fairfax": 4,
-      "Knightley": 4,
-      "Miss Bates": 4
-    }
-  },
-  {
-    "canonical_name": "Mr. Suckling",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 10,
-    "per_chapter": {
-      "2": {
-        "mentions": 1,
-        "snippet": "Neither Mr."
-      },
-      "14": {
-        "mentions": 2,
-        "snippet": "Mr."
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "at all affect to equal my brother, Mr."
-      },
-      "17": {
-        "mentions": 2,
-        "snippet": "Mr."
-      },
-      "18": {
-        "mentions": 4,
-        "snippet": "\u2014You would be amazed to hear how my brother, Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 5,
-      "Emma": 5,
-      "Knightley": 5,
-      "Maple Grove": 5,
-      "Miss Fairfax": 5,
-      "Miss Woodhouse": 5,
-      "Mr. Elton": 5,
-      "Mr. Knightley": 5
+      "Elton": 3,
+      "Emma": 3,
+      "Frank Churchill": 3,
+      "Harriet": 3,
+      "Knightley": 3,
+      "Miss Bates": 3,
+      "Miss Fairfax": 3,
+      "Miss Woodhouse": 3
     }
   },
   {
@@ -3856,176 +2441,114 @@
     "co_occurs_with": {
       "Elton": 2,
       "Emma": 2,
-      "Frank Churchill": 2,
-      "Harriet": 2,
-      "Harriet Smith": 2,
       "Hartfield": 2,
-      "Highbury": 2,
-      "John Knightley": 2
+      "Martin": 2,
+      "Miss Woodhouse": 2,
+      "Mr. Elton": 2,
+      "Mr. Weston": 2,
+      "Mrs. Goddard": 2
     }
   },
   {
-    "canonical_name": "Mrs. Dixon",
+    "canonical_name": "Harriet Smith",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 9,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "\u2014Harriet Smith has some first-rate qualities, which"
+      },
+      "4": {
+        "mentions": 1,
+        "snippet": "Altogether she was quite convinced of Harriet Smith\u2019s being exactly the"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "Harriet Smith."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "\u201cOur little friend Harriet Smith, however, is just such another pretty"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "follies\u2014her wilful intimacy with Harriet Smith; but it was too tender a"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "that Harriet Smith has accepted Robert Martin."
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "\u2014Robert Martin and Harriet Smith, the latest couple engaged of"
+      }
+    },
+    "co_occurs_with": {
+      "Knightley": 7,
+      "Mr. Knightley": 7,
+      "Woodhouse": 7,
+      "Emma": 6,
+      "Mr. Woodhouse": 6,
+      "Mrs. Weston": 6,
+      "Weston": 6,
+      "Elton": 5
+    }
+  },
+  {
+    "canonical_name": "Mr. Dixon",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 9,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Bought at Weymouth, you know\u2014Mr."
+      },
+      "3": {
+        "mentions": 3,
+        "snippet": "And Mr."
+      },
+      "8": {
+        "mentions": 5,
+        "snippet": "\u201cMr."
+      }
+    },
+    "co_occurs_with": {
+      "Colonel Campbell": 3,
+      "Dixon": 3,
+      "Elton": 3,
+      "Knightley": 3,
+      "Miss Bates": 3,
+      "Miss Fairfax": 3,
+      "Miss Smith": 3,
+      "Miss Woodhouse": 3
+    }
+  },
+  {
+    "canonical_name": "James",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 9,
+    "total_mentions": 8,
     "per_chapter": {
       "1": {
         "mentions": 5,
-        "snippet": "Mrs."
-      },
-      "2": {
-        "mentions": 1,
-        "snippet": "warm\u2014her large new shawl\u2014 Mrs."
-      },
-      "6": {
-        "mentions": 1,
-        "snippet": "Mrs."
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "know, to be written to Colonel Campbell, and Mrs."
+        "snippet": "But James will not like to put the horses to for such a"
       },
       "15": {
-        "mentions": 1,
-        "snippet": "Bates\u2014it all came from her\u2014Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 5,
-      "Dixon": 5,
-      "Elton": 5,
-      "Emma": 5,
-      "Frank Churchill": 5,
-      "Jane Fairfax": 5,
-      "Knightley": 5,
-      "Miss Bates": 5
-    }
-  },
-  {
-    "canonical_name": "William Larkins",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 9,
-    "per_chapter": {
-      "9": {
-        "mentions": 2,
-        "snippet": "However, the very same evening William Larkins came over with a large"
-      },
-      "12": {
         "mentions": 3,
-        "snippet": "can; but I would rather be at home, looking over William Larkins\u2019s"
-      },
-      "15": {
-        "mentions": 2,
-        "snippet": "consideration; he had been walking away from William Larkins the whole"
-      },
-      "16": {
-        "mentions": 2,
-        "snippet": "\u201cI met William Larkins,\u201d continued Mr."
+        "snippet": "representation of the excellence of the horses, and of James, and of"
       }
     },
     "co_occurs_with": {
-      "Campbell": 4,
-      "Emma": 4,
-      "Frank Churchill": 4,
-      "Hartfield": 4,
-      "Jane Fairfax": 4,
-      "John Knightley": 4,
-      "Knightley": 4,
-      "Miss Bates": 4
-    }
-  },
-  {
-    "canonical_name": "Miss Bickerton",
-    "aliases": [
-      "Bickerton"
-    ],
-    "first_chapter": 3,
-    "total_mentions": 9,
-    "per_chapter": {
-      "3": {
-        "mentions": 9,
-        "snippet": "Miss Smith, and Miss Bickerton, another parlour boarder at Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 1,
-      "Cole": 1,
-      "Colonel Campbell": 1,
-      "Dear Miss Woodhouse": 1,
-      "Dixon": 1,
-      "Donwell Abbey": 1,
-      "Elizabeth Martin": 1,
-      "Elton": 1
-    }
-  },
-  {
-    "canonical_name": "Smallridge",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 9,
-    "per_chapter": {
-      "8": {
-        "mentions": 5,
-        "snippet": "Smallridge\u2014charming woman\u2014most superior\u2014to have the charge"
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "Smallridge\u2019s at the time"
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "Smallridge, too!"
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "Smallridge\u2019s, near Bristol, stared me"
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "Smallridge\u2019s children\u2014a"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 5,
-      "Emma": 5,
-      "Frank Churchill": 5,
-      "Knightley": 5,
-      "Miss Fairfax": 5,
-      "Miss Smith": 5,
-      "Miss Woodhouse": 5,
-      "Mr. Elton": 5
-    }
-  },
-  {
-    "canonical_name": "Eltons",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 8,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "Eltons, and that their opinions of both husband and wife were so much"
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "Eltons, the Mrs."
-      },
-      "15": {
-        "mentions": 4,
-        "snippet": "the Eltons, sitting with the Eltons, spending a day with the Eltons!"
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 3,
-      "Cole": 3,
-      "Elton": 3,
-      "Emma": 3,
-      "Frank Churchill": 3,
-      "Harriet": 3,
-      "Hartfield": 3,
-      "Jane Fairfax": 3
+      "Elton": 2,
+      "Hartfield": 2,
+      "Isabella": 2,
+      "Knightley": 2,
+      "Miss Woodhouse": 2,
+      "Mr. Elton": 2,
+      "Mr. Knightley": 2,
+      "Mr. Weston": 2
     }
   },
   {
@@ -4051,37 +2574,61 @@
       "Hartfield": 2,
       "John Knightley": 2,
       "Knightley": 2,
-      "Miss Woodhouse": 2,
       "Mr. John Knightley": 2,
-      "Mr. Knightley": 2
+      "Mr. Knightley": 2,
+      "Mr. Woodhouse": 2
     }
   },
   {
-    "canonical_name": "Mrs. Stokes",
-    "aliases": [
-      "Stokes"
-    ],
+    "canonical_name": "There",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 8,
+    "per_chapter": {
+      "5": {
+        "mentions": 5,
+        "snippet": "There were the pencilled marks and memorandums on the wainscot"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "\u2014There, with spirits"
+      }
+    },
+    "co_occurs_with": {
+      "Emma": 2,
+      "Frank Churchill": 2,
+      "Harriet": 2,
+      "Jane Fairfax": 2,
+      "Miss Fairfax": 2,
+      "Mr. Weston": 2,
+      "Mrs. Goddard": 2,
+      "Weston": 2
+    }
+  },
+  {
+    "canonical_name": "Mrs. Dixon",
+    "aliases": [],
     "first_chapter": 2,
     "total_mentions": 8,
     "per_chapter": {
       "2": {
-        "mentions": 4,
-        "snippet": "Good Mrs."
+        "mentions": 1,
+        "snippet": "warm\u2014her large new shawl\u2014 Mrs."
       },
-      "11": {
-        "mentions": 4,
-        "snippet": "be sure of the rooms being thoroughly aired\u2014but is Mrs."
+      "8": {
+        "mentions": 7,
+        "snippet": "\u201cWhat do you say to Mrs."
       }
     },
     "co_occurs_with": {
+      "Colonel Campbell": 2,
+      "Dixon": 2,
       "Elton": 2,
-      "Emma": 2,
       "Frank Churchill": 2,
-      "Harriet Smith": 2,
-      "Jane Fairfax": 2,
       "Knightley": 2,
       "Miss Bates": 2,
-      "Miss Fairfax": 2
+      "Miss Fairfax": 2,
+      "Miss Smith": 2
     }
   },
   {
@@ -4098,116 +2645,14 @@
       }
     },
     "co_occurs_with": {
-      "Campbell": 1,
-      "Captain Weston": 1,
       "Colonel Campbell": 1,
       "Come Emma": 1,
       "Come Miss Woodhouse": 1,
       "Dear Miss Woodhouse": 1,
       "Dixon": 1,
-      "Dr. Hughes": 1
-    }
-  },
-  {
-    "canonical_name": "Mrs. Smallridge",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 8,
-    "per_chapter": {
-      "8": {
-        "mentions": 5,
-        "snippet": "\u201cTo a Mrs."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "doubt the possibility of her going to Mrs."
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "\u2014\u201cMrs."
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "\u201cShe had engaged to go as governess to Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 4,
-      "Cole": 4,
-      "Elton": 4,
-      "Emma": 4,
-      "Frank Churchill": 4,
-      "Jane Fairfax": 4,
-      "Knightley": 4,
-      "Miss Bates": 4
-    }
-  },
-  {
-    "canonical_name": "Brunswick Square",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 7,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "well in Brunswick Square."
-      },
-      "6": {
-        "mentions": 1,
-        "snippet": "morning visitor in Brunswick Square;\u2014and, as I said, I did then"
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "she regret that he should be going to Brunswick Square, for she knew"
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "friends are now in Brunswick Square."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "much to urge for Emma\u2019s attention; it was soon gone to Brunswick Square"
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "different\u2014the children in Brunswick Square; and she only waited for"
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "for her to Brunswick Square."
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 7,
-      "Frank Churchill": 7,
-      "Knightley": 7,
-      "Miss Fairfax": 7,
-      "Miss Woodhouse": 7,
-      "Mr. Knightley": 7,
-      "Mr. Weston": 7,
-      "Mrs. Churchill": 7
-    }
-  },
-  {
-    "canonical_name": "Miss Churchill",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 7,
-    "per_chapter": {
-      "2": {
-        "mentions": 7,
-        "snippet": "military life had introduced him to Miss Churchill, of a great"
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 1,
-      "Captain Weston": 1,
-      "Colonel Campbell": 1,
-      "Come Emma": 1,
-      "Come Miss Woodhouse": 1,
-      "Dear Miss Woodhouse": 1,
-      "Dixon": 1,
-      "Dr. Hughes": 1
+      "Dr. Hughes": 1,
+      "Elton": 1,
+      "Frank Churchill": 1
     }
   },
   {
@@ -4226,126 +2671,104 @@
       }
     },
     "co_occurs_with": {
-      "Donwell Abbey": 2,
       "Elton": 2,
       "Emma": 2,
       "Frank Churchill": 2,
       "Harriet": 2,
-      "Hartfield": 2,
-      "Isabella": 2,
-      "Jane Fairfax": 2
+      "Miss Bates": 2,
+      "Miss Fairfax": 2,
+      "Miss Woodhouse": 2,
+      "Mr. Elton": 2
     }
   },
   {
-    "canonical_name": "Patty",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 7,
-    "per_chapter": {
-      "9": {
-        "mentions": 7,
-        "snippet": "Patty came to say she thought the kitchen chimney wanted sweeping."
-      }
-    },
-    "co_occurs_with": {
-      "Anne Cox": 1,
-      "Aye": 1,
-      "Behold": 1,
-      "Brunswick Square": 1,
-      "Campbell": 1,
-      "Cole": 1,
-      "Colonel Campbell": 1,
-      "Coxes": 1
-    }
-  },
-  {
-    "canonical_name": "Selina",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 7,
-    "per_chapter": {
-      "14": {
-        "mentions": 3,
-        "snippet": "Many a time has Selina said, when she has been going to"
-      },
-      "18": {
-        "mentions": 4,
-        "snippet": "if you knew how Selina feels with respect to sleeping at an inn, you"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 2,
-      "Emma": 2,
-      "Enscombe": 2,
-      "Frank Churchill": 2,
-      "Highbury": 2,
-      "John Knightley": 2,
-      "Knightley": 2,
-      "Maple Grove": 2
-    }
-  },
-  {
-    "canonical_name": "Bragge",
+    "canonical_name": "Mrs. Churchill",
     "aliases": [],
     "first_chapter": 6,
     "total_mentions": 7,
     "per_chapter": {
       "6": {
-        "mentions": 2,
-        "snippet": "Bragge, but in felicity and splendour it"
+        "mentions": 4,
+        "snippet": "coming had been united, such as the last accounts of Mrs."
       },
       "8": {
         "mentions": 1,
-        "snippet": "Bragge\u2019s; but Mrs."
+        "snippet": "accepted, it was an even chance that Mrs."
       },
-      "16": {
-        "mentions": 1,
-        "snippet": "Bragge;"
-      },
-      "17": {
+      "10": {
         "mentions": 2,
-        "snippet": "Bragge, had such an infinity of applications; every"
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "Bragge went to London and back again with four"
+        "snippet": "One morning, about ten days after Mrs."
       }
     },
     "co_occurs_with": {
-      "Elton": 5,
-      "Emma": 5,
-      "John Knightley": 5,
-      "Knightley": 5,
-      "Maple Grove": 5,
-      "Miss Fairfax": 5,
-      "Miss Woodhouse": 5,
-      "Mr. Elton": 5
+      "Emma": 3,
+      "Frank Churchill": 3,
+      "Jane Fairfax": 3,
+      "Miss Fairfax": 3,
+      "Mr. Weston": 3,
+      "Mrs. Weston": 3,
+      "Weston": 3,
+      "Cole": 2
     }
   },
   {
-    "canonical_name": "Richmond",
+    "canonical_name": "Bath",
     "aliases": [],
-    "first_chapter": 1,
+    "first_chapter": 14,
     "total_mentions": 7,
     "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "Richmond."
-      },
-      "6": {
-        "mentions": 3,
-        "snippet": "Churchill, who was expected every moment from Richmond; and Mrs."
+      "14": {
+        "mentions": 7,
+        "snippet": "Why does not he try Bath?"
       }
     },
     "co_occurs_with": {
-      "Brunswick Square": 2,
-      "Campbell": 2,
-      "Cole": 2,
-      "Colonel Campbell": 2,
-      "Dixon": 2,
-      "Elton": 2,
-      "Emma": 2,
-      "Frank Churchill": 2
+      "Clara Partridge": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Harriet": 1,
+      "Hartfield": 1,
+      "James Cooper": 1,
+      "Knightley": 1,
+      "Maple Grove": 1
+    }
+  },
+  {
+    "canonical_name": "Mr. Churchill",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 7,
+    "per_chapter": {
+      "2": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "7": {
+        "mentions": 1,
+        "snippet": "you please, Mr."
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "Well, and how did Mr."
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "Mr."
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "am sure it will be safe), that so far as our living with Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Frank Churchill": 5,
+      "Mrs. Weston": 5,
+      "Weston": 5,
+      "Elton": 4,
+      "Knightley": 4,
+      "Miss Fairfax": 4,
+      "Miss Woodhouse": 4,
+      "Mr. Frank Churchill": 4
     }
   },
   {
@@ -4364,138 +2787,92 @@
       }
     },
     "co_occurs_with": {
-      "Campbell": 2,
+      "Colonel Campbell": 2,
       "Elton": 2,
-      "Emma": 2,
       "Frank Churchill": 2,
       "Jane": 2,
-      "Jane Fairfax": 2,
       "Knightley": 2,
-      "Maple Grove": 2
+      "Maple Grove": 2,
+      "Miss Bates": 2,
+      "Miss Fairfax": 2
     }
   },
   {
-    "canonical_name": "Ireland",
+    "canonical_name": "Such",
     "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 6,
+    "first_chapter": 2,
+    "total_mentions": 7,
     "per_chapter": {
-      "1": {
-        "mentions": 6,
-        "snippet": "are going to Ireland."
+      "2": {
+        "mentions": 3,
+        "snippet": "\u2014Such a transformation!"
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "Such schemes as these are nothing without"
       }
     },
     "co_occurs_with": {
-      "Broadway Lane": 1,
-      "Brunswick Square": 1,
-      "Campbell": 1,
-      "Campbells": 1,
-      "Cole": 1,
-      "Colonel Campbell": 1,
-      "Dear Emma": 1,
-      "Dixon": 1
+      "Elton": 2,
+      "Frank Churchill": 2,
+      "Knightley": 2,
+      "Maple Grove": 2,
+      "Miss Bates": 2,
+      "Miss Fairfax": 2,
+      "Miss Woodhouse": 2,
+      "Mr. Knightley": 2
     }
   },
   {
-    "canonical_name": "Mrs. Ford",
+    "canonical_name": "Campbells",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 8,
     "total_mentions": 6,
     "per_chapter": {
-      "9": {
+      "8": {
         "mentions": 6,
-        "snippet": "\u201d asked Mrs."
+        "snippet": "Campbells to Ireland."
       }
     },
     "co_occurs_with": {
-      "Anne Cox": 1,
-      "Aye": 1,
-      "Behold": 1,
-      "Brunswick Square": 1,
-      "Campbell": 1,
       "Cole": 1,
       "Colonel Campbell": 1,
-      "Coxes": 1
-    }
-  },
-  {
-    "canonical_name": "Mrs. Wallis",
-    "aliases": [
-      "Wallis"
-    ],
-    "first_chapter": 9,
-    "total_mentions": 6,
-    "per_chapter": {
-      "9": {
-        "mentions": 6,
-        "snippet": "Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Anne Cox": 1,
-      "Aye": 1,
-      "Behold": 1,
-      "Brunswick Square": 1,
-      "Campbell": 1,
-      "Cole": 1,
-      "Colonel Campbell": 1,
-      "Coxes": 1
-    }
-  },
-  {
-    "canonical_name": "Kingston",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 6,
-    "per_chapter": {
-      "10": {
-        "mentions": 6,
-        "snippet": "\u201cI am going to Kingston."
-      }
-    },
-    "co_occurs_with": {
-      "Brunswick Square": 1,
-      "Campbell": 1,
-      "Cole": 1,
-      "Colonel Campbell": 1,
+      "Dear Mrs": 1,
+      "Dixon": 1,
+      "Donwell Abbey": 1,
       "Elton": 1,
       "Emma": 1,
-      "Frank Churchill": 1,
-      "Good God": 1
+      "Enscombe": 1
     }
   },
   {
-    "canonical_name": "Mrs. Bragge",
+    "canonical_name": "Suckling",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 2,
     "total_mentions": 6,
     "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Suckling nor me"
+      },
       "6": {
+        "mentions": 3,
+        "snippet": "Suckling, the Highbury world were obliged to endure the mortification"
+      },
+      "14": {
         "mentions": 2,
-        "snippet": "Suckling, it was not with Mrs."
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "Suckling\u2019s own family, and Mrs."
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "you speak of, as under the patronage of your sister and Mrs."
-      },
-      "17": {
-        "mentions": 2,
-        "snippet": "Suckling, Mrs."
+        "snippet": "Suckling\u2019s seat;\u201d\u2014a comparison of Hartfield to Maple Grove."
       }
     },
     "co_occurs_with": {
-      "Bragge": 4,
-      "Campbell": 4,
-      "Elton": 4,
-      "Emma": 4,
-      "Jane Fairfax": 4,
-      "John Knightley": 4,
-      "Knightley": 4,
-      "Maple Grove": 4
+      "Elton": 3,
+      "Knightley": 3,
+      "Maple Grove": 3,
+      "Miss Woodhouse": 3,
+      "Mr. Knightley": 3,
+      "Mr. Weston": 3,
+      "Mr. Woodhouse": 3,
+      "Mrs. Elton": 3
     }
   },
   {
@@ -4512,122 +2889,114 @@
       }
     },
     "co_occurs_with": {
-      "Campbell": 1,
-      "Captain Weston": 1,
       "Colonel Campbell": 1,
       "Come Emma": 1,
       "Come Miss Woodhouse": 1,
       "Dear Miss Woodhouse": 1,
       "Dixon": 1,
-      "Dr. Hughes": 1
+      "Dr. Hughes": 1,
+      "Elton": 1,
+      "Frank Churchill": 1
     }
   },
   {
-    "canonical_name": "Never",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 6,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "\u2014Never were such neighbours."
-      },
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cNever!"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 2,
-      "Emma": 2,
-      "Frank Churchill": 2,
-      "Harriet Smith": 2,
-      "Highbury": 2,
-      "Jane Fairfax": 2,
-      "Knightley": 2,
-      "Miss Bates": 2
-    }
-  },
-  {
-    "canonical_name": "Had",
-    "aliases": [],
-    "first_chapter": 11,
-    "total_mentions": 6,
-    "per_chapter": {
-      "11": {
-        "mentions": 3,
-        "snippet": "\u201cHad you any idea,\u201d cried Harriet, \u201cof his being in love with her?"
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "\u2014Had she refused, I"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 2,
-      "Emma": 2,
-      "Frank Churchill": 2,
-      "Hartfield": 2,
-      "Isabella": 2,
-      "John Knightley": 2,
-      "Knightley": 2,
-      "Miss Fairfax": 2
-    }
-  },
-  {
-    "canonical_name": "Exactly",
-    "aliases": [],
+    "canonical_name": "Mrs. Bragge",
+    "aliases": [
+      "Bragge"
+    ],
     "first_chapter": 6,
-    "total_mentions": 5,
+    "total_mentions": 6,
     "per_chapter": {
       "6": {
-        "mentions": 5,
-        "snippet": "\u201cExactly so; that is what principally strikes me."
+        "mentions": 4,
+        "snippet": "Suckling, it was not with Mrs."
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "you speak of, as under the patronage of your sister and Mrs."
       }
     },
     "co_occurs_with": {
-      "Abbey Mill Farm": 1,
-      "Box Hill": 1,
-      "Bragge": 1,
-      "Brunswick Square": 1,
-      "Campbell": 1,
-      "Cole": 1,
-      "Colonel Campbell": 1,
-      "Crown Inn": 1
+      "Box Hill": 2,
+      "Donwell": 2,
+      "Elton": 2,
+      "Emma": 2,
+      "Frank Churchill": 2,
+      "Harriet": 2,
+      "John Knightley": 2,
+      "Knightley": 2
     }
   },
   {
-    "canonical_name": "Dear Miss Woodhouse",
+    "canonical_name": "Brunswick Square",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 1,
     "total_mentions": 5,
     "per_chapter": {
-      "2": {
+      "1": {
         "mentions": 1,
-        "snippet": "\u2014Dear Miss Woodhouse, how do you"
+        "snippet": "well in Brunswick Square."
       },
-      "3": {
+      "10": {
         "mentions": 1,
-        "snippet": "\u2014Dear Miss Woodhouse!"
+        "snippet": "friends are now in Brunswick Square."
       },
-      "7": {
-        "mentions": 1,
-        "snippet": "\u2014Dear Miss Woodhouse, I would not"
-      },
-      "9": {
+      "12": {
         "mentions": 2,
-        "snippet": "\u201cDear Miss Woodhouse!"
+        "snippet": "The neighbourhood of Brunswick Square is very"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "different\u2014the children in Brunswick Square; and she only waited for"
       }
     },
     "co_occurs_with": {
-      "Elton": 4,
-      "Emma": 4,
-      "Frank Churchill": 4,
-      "Highbury": 4,
-      "Knightley": 4,
-      "Miss Bates": 4,
-      "Miss Fairfax": 4,
-      "Miss Woodhouse": 4
+      "Knightley": 3,
+      "Mr. Knightley": 3,
+      "Mr. Weston": 3,
+      "Weston": 3,
+      "Emma": 3,
+      "Jane Fairfax": 3,
+      "Hartfield": 2,
+      "Isabella": 2
+    }
+  },
+  {
+    "canonical_name": "Mrs. John Knightley",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 5,
+    "per_chapter": {
+      "3": {
+        "mentions": 1,
+        "snippet": "Have you heard from Mrs."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "\u201d said Mrs."
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Mrs."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "and Mrs."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "box at Astley\u2019s, my brother took charge of Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Emma": 5,
+      "John Knightley": 5,
+      "Knightley": 5,
+      "Mr. Knightley": 5,
+      "Mr. Woodhouse": 5,
+      "Perry": 5,
+      "Woodhouse": 5,
+      "Miss Bates": 4
     }
   },
   {
@@ -4642,40 +3011,36 @@
       }
     },
     "co_occurs_with": {
-      "Box Hill": 1,
       "Brunswick Square": 1,
-      "Campbell": 1,
       "Colonel Campbell": 1,
       "Come": 1,
       "Cromer": 1,
-      "Dixon": 1,
-      "Donwell": 1
+      "Emma": 1,
+      "Harriet Smith": 1,
+      "Hartfield": 1,
+      "Isabella": 1
     }
   },
   {
-    "canonical_name": "Coxes",
+    "canonical_name": "Miss Campbell",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 3,
     "total_mentions": 5,
     "per_chapter": {
-      "9": {
-        "mentions": 3,
-        "snippet": "The Coxes were wondering last night whether she would get into"
-      },
-      "11": {
-        "mentions": 2,
-        "snippet": "Coxes five,\u201d had been repeated many times over."
+      "3": {
+        "mentions": 5,
+        "snippet": "these subjects, who must have been so deep in the business on Miss"
       }
     },
     "co_occurs_with": {
-      "Cole": 2,
-      "Elton": 2,
-      "Emma": 2,
-      "Frank Churchill": 2,
-      "Harriet Smith": 2,
-      "Hartfield": 2,
-      "Jane Fairfax": 2,
-      "John Knightley": 2
+      "Cole": 1,
+      "Colonel Campbell": 1,
+      "Dear Miss Woodhouse": 1,
+      "Dixon": 1,
+      "Elizabeth Martin": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Ford": 1
     }
   },
   {
@@ -4692,34 +3057,12 @@
     "co_occurs_with": {
       "Abbey Mill Farm": 1,
       "Box Hill": 1,
-      "Bragge": 1,
-      "Brunswick Square": 1,
-      "Campbell": 1,
       "Cole": 1,
-      "Colonel Campbell": 1,
-      "Crown Inn": 1
-    }
-  },
-  {
-    "canonical_name": "Captain Weston",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 4,
-    "per_chapter": {
-      "2": {
-        "mentions": 4,
-        "snippet": "Captain Weston was a general favourite; and when the chances of his"
-      }
-    },
-    "co_occurs_with": {
-      "Campbell": 1,
-      "Colonel Campbell": 1,
-      "Come Emma": 1,
-      "Come Miss Woodhouse": 1,
-      "Dear Miss Woodhouse": 1,
-      "Dixon": 1,
-      "Dr. Hughes": 1,
-      "Elton": 1
+      "Donwell": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Frank Churchill": 1,
+      "Harriet": 1
     }
   },
   {
@@ -4738,152 +3081,90 @@
       }
     },
     "co_occurs_with": {
-      "Cole": 2,
-      "Elizabeth Martin": 2,
       "Elton": 2,
       "Emma": 2,
-      "Frank Churchill": 2,
-      "Harriet": 2,
       "Hartfield": 2,
-      "Highbury": 2
+      "Knightley": 2,
+      "Miss Woodhouse": 2,
+      "Mr. Elton": 2,
+      "Mr. Knightley": 2,
+      "Mrs. Goddard": 2
     }
   },
   {
-    "canonical_name": "Mrs. Knightley",
+    "canonical_name": "Dear Miss Woodhouse",
     "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 4,
-    "per_chapter": {
-      "6": {
-        "mentions": 1,
-        "snippet": "\u201cNo\u2014Mrs."
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "A Mrs."
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "before\u2014\u201cYou must know, my dear Mrs."
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "there would be a Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 4,
-      "Emma": 4,
-      "John Knightley": 4,
-      "Knightley": 4,
-      "Maple Grove": 4,
-      "Miss Fairfax": 4,
-      "Miss Woodhouse": 4,
-      "Mr. Elton": 4
-    }
-  },
-  {
-    "canonical_name": "Bristol",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 4,
-    "per_chapter": {
-      "4": {
-        "mentions": 4,
-        "snippet": "youngest of the two daughters of a Bristol\u2014merchant, of course, he must"
-      }
-    },
-    "co_occurs_with": {
-      "Abbey Mill": 1,
-      "Agricultural Reports": 1,
-      "Augusta Hawkins": 1,
-      "Bath": 1,
-      "Cole": 1,
-      "Elegant Extracts": 1,
-      "Elizabeth Martin": 1,
-      "Elton": 1
-    }
-  },
-  {
-    "canonical_name": "Weymouth",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 4,
-    "per_chapter": {
-      "6": {
-        "mentions": 4,
-        "snippet": "\u201cDid you see her often at Weymouth?"
-      }
-    },
-    "co_occurs_with": {
-      "Abbey Mill Farm": 1,
-      "Box Hill": 1,
-      "Bragge": 1,
-      "Brunswick Square": 1,
-      "Campbell": 1,
-      "Cole": 1,
-      "Colonel Campbell": 1,
-      "Crown Inn": 1
-    }
-  },
-  {
-    "canonical_name": "Mr. William Cox",
-    "aliases": [
-      "Cox"
-    ],
     "first_chapter": 2,
     "total_mentions": 4,
     "per_chapter": {
       "2": {
         "mentions": 1,
-        "snippet": "Elton, I do not know who will ask her next, perhaps Mr."
+        "snippet": "\u2014Dear Miss Woodhouse, how do you"
       },
-      "8": {
-        "mentions": 2,
-        "snippet": "Cox\u2019s family,"
+      "3": {
+        "mentions": 1,
+        "snippet": "\u2014Dear Miss Woodhouse!"
       },
       "9": {
-        "mentions": 1,
-        "snippet": "Perry walking hastily by, Mr."
+        "mentions": 2,
+        "snippet": "\u201cDear Miss Woodhouse!"
       }
     },
     "co_occurs_with": {
-      "Campbell": 3,
-      "Colonel Campbell": 3,
       "Elton": 3,
-      "Emma": 3,
-      "Frank Churchill": 3,
-      "Harriet Smith": 3,
-      "Highbury": 3,
-      "Jane Fairfax": 3
+      "Knightley": 3,
+      "Miss Smith": 3,
+      "Miss Woodhouse": 3,
+      "Mr. Elton": 3,
+      "Mr. Knightley": 3,
+      "Mr. Woodhouse": 3,
+      "Very": 3
     }
   },
   {
-    "canonical_name": "Mrs. Partridge",
+    "canonical_name": "Mr. Cox",
     "aliases": [
-      "Partridge"
+      "Cox"
     ],
-    "first_chapter": 14,
+    "first_chapter": 8,
     "total_mentions": 4,
     "per_chapter": {
-      "14": {
-        "mentions": 2,
-        "snippet": "acquaintance; and my particular friend, Mrs."
-      },
-      "17": {
-        "mentions": 2,
-        "snippet": "I shall write to Mrs."
+      "8": {
+        "mentions": 4,
+        "snippet": "naming among their acquaintance, and the male part of Mr."
       }
     },
     "co_occurs_with": {
-      "Elton": 2,
-      "Emma": 2,
-      "Harriet": 2,
-      "Hartfield": 2,
-      "Isabella": 2,
-      "John Knightley": 2,
-      "Knightley": 2,
-      "Maple Grove": 2
+      "Campbells": 1,
+      "Cole": 1,
+      "Colonel Campbell": 1,
+      "Dear Mrs": 1,
+      "Dixon": 1,
+      "Donwell Abbey": 1,
+      "Elton": 1,
+      "Emma": 1
+    }
+  },
+  {
+    "canonical_name": "Enscombe",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 4,
+    "per_chapter": {
+      "8": {
+        "mentions": 4,
+        "snippet": "neighbourhood about Enscombe, and the sort; and could make out from his"
+      }
+    },
+    "co_occurs_with": {
+      "Campbells": 1,
+      "Cole": 1,
+      "Colonel Campbell": 1,
+      "Dear Mrs": 1,
+      "Dixon": 1,
+      "Donwell Abbey": 1,
+      "Elton": 1,
+      "Emma": 1
     }
   },
   {
@@ -4899,13 +3180,37 @@
     },
     "co_occurs_with": {
       "Bath": 1,
-      "Box Hill": 1,
-      "Brunswick Square": 1,
       "Clara Partridge": 1,
       "Elton": 1,
       "Emma": 1,
-      "Emma Woodhouse": 1,
-      "Enscombe": 1
+      "Harriet": 1,
+      "Hartfield": 1,
+      "James Cooper": 1,
+      "Knightley": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Stokes",
+    "aliases": [
+      "Stokes"
+    ],
+    "first_chapter": 2,
+    "total_mentions": 4,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "Good Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Colonel Campbell": 1,
+      "Come Emma": 1,
+      "Come Miss Woodhouse": 1,
+      "Dear Miss Woodhouse": 1,
+      "Dixon": 1,
+      "Dr. Hughes": 1,
+      "Elton": 1,
+      "Frank Churchill": 1
     }
   },
   {
@@ -4922,40 +3227,42 @@
       }
     },
     "co_occurs_with": {
-      "Campbell": 1,
-      "Captain Weston": 1,
       "Colonel Campbell": 1,
       "Come Emma": 1,
       "Come Miss Woodhouse": 1,
       "Dear Miss Woodhouse": 1,
       "Dixon": 1,
-      "Dr. Hughes": 1
+      "Dr. Hughes": 1,
+      "Elton": 1,
+      "Frank Churchill": 1
     }
   },
   {
-    "canonical_name": "Mrs. Suckling",
-    "aliases": [],
+    "canonical_name": "Mrs. Hodges",
+    "aliases": [
+      "Hodges"
+    ],
     "first_chapter": 6,
     "total_mentions": 4,
     "per_chapter": {
       "6": {
-        "mentions": 3,
-        "snippet": "and Mrs."
+        "mentions": 2,
+        "snippet": "If you wish me to talk to Mrs."
       },
-      "8": {
-        "mentions": 1,
-        "snippet": "Mrs."
+      "16": {
+        "mentions": 2,
+        "snippet": "And as for Mrs."
       }
     },
     "co_occurs_with": {
       "Box Hill": 2,
-      "Bragge": 2,
-      "Campbell": 2,
-      "Cole": 2,
-      "Colonel Campbell": 2,
-      "Dixon": 2,
+      "Donwell": 2,
       "Elton": 2,
-      "Emma": 2
+      "Emma": 2,
+      "Frank Churchill": 2,
+      "Harriet": 2,
+      "John Knightley": 2,
+      "Knightley": 2
     }
   },
   {
@@ -4972,12 +3279,12 @@
     "co_occurs_with": {
       "Abbey Mill Farm": 1,
       "Box Hill": 1,
-      "Bragge": 1,
-      "Brunswick Square": 1,
-      "Campbell": 1,
       "Cole": 1,
-      "Colonel Campbell": 1,
-      "Crown Inn": 1
+      "Donwell": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Frank Churchill": 1,
+      "Harriet": 1
     }
   },
   {
@@ -4994,12 +3301,12 @@
     "co_occurs_with": {
       "Abbey Mill Farm": 1,
       "Box Hill": 1,
-      "Bragge": 1,
-      "Brunswick Square": 1,
-      "Campbell": 1,
       "Cole": 1,
-      "Colonel Campbell": 1,
-      "Crown Inn": 1
+      "Donwell": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Frank Churchill": 1,
+      "Harriet": 1
     }
   },
   {
@@ -5022,44 +3329,14 @@
       }
     },
     "co_occurs_with": {
-      "Cole": 3,
-      "Elton": 3,
       "Emma": 3,
       "Frank Churchill": 3,
-      "Knightley": 3,
-      "Miss Fairfax": 3,
-      "Miss Smith": 3,
-      "Miss Woodhouse": 3
-    }
-  },
-  {
-    "canonical_name": "Emma Woodhouse",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "in Emma Woodhouse, and the only one who ever told her of them: and"
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "that said Emma Woodhouse, whom I regard with so much brotherly"
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "that she dares go about, Emma Woodhouse-ing me!"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 3,
-      "Emma": 3,
-      "Frank Churchill": 3,
-      "Harriet": 3,
-      "Hartfield": 3,
-      "Isabella": 3,
-      "Knightley": 3,
-      "Miss Fairfax": 3
+      "Mr. Weston": 3,
+      "Mrs. Weston": 3,
+      "Weston": 3,
+      "Harriet Smith": 2,
+      "Jane Fairfax": 2,
+      "Knightley": 2
     }
   },
   {
@@ -5076,14 +3353,14 @@
       }
     },
     "co_occurs_with": {
-      "Abbey Mill": 1,
       "Agricultural Reports": 1,
-      "Augusta Hawkins": 1,
-      "Bath": 1,
-      "Bristol": 1,
-      "Cole": 1,
       "Elegant Extracts": 1,
-      "Elizabeth Martin": 1
+      "Elton": 1,
+      "Emma": 1,
+      "Harriet Smith": 1,
+      "Hartfield": 1,
+      "Knightley": 1,
+      "Martin": 1
     }
   },
   {
@@ -5100,62 +3377,14 @@
       }
     },
     "co_occurs_with": {
-      "Abbey Mill": 1,
       "Agricultural Reports": 1,
-      "Augusta Hawkins": 1,
-      "Bath": 1,
-      "Bristol": 1,
-      "Cole": 1,
       "Elegant Extracts": 1,
-      "Elizabeth Martin": 1
-    }
-  },
-  {
-    "canonical_name": "Mill Farm",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 1,
-        "snippet": "Abbey-Mill Farm, it must have been the whole."
-      },
-      "7": {
-        "mentions": 2,
-        "snippet": "Robert Martin, of Abbey-Mill Farm."
-      }
-    },
-    "co_occurs_with": {
-      "Cole": 2,
-      "Elton": 2,
-      "Emma": 2,
-      "Frank Churchill": 2,
-      "Harriet": 2,
-      "Hartfield": 2,
-      "Highbury": 2,
-      "Knightley": 2
-    }
-  },
-  {
-    "canonical_name": "Not",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u2014Not think they will do each other any good!"
-      }
-    },
-    "co_occurs_with": {
-      "Crown": 1,
-      "Donwell Abbey": 1,
       "Elton": 1,
       "Emma": 1,
-      "Frank Churchill": 1,
-      "Harriet": 1,
       "Harriet Smith": 1,
-      "Hartfield": 1
+      "Hartfield": 1,
+      "Knightley": 1,
+      "Martin": 1
     }
   },
   {
@@ -5170,14 +3399,14 @@
       }
     },
     "co_occurs_with": {
-      "Anne Cox": 1,
       "Aye": 1,
-      "Brunswick Square": 1,
-      "Campbell": 1,
       "Cole": 1,
-      "Colonel Campbell": 1,
-      "Coxes": 1,
-      "Dear Miss Woodhouse": 1
+      "Dear Miss Woodhouse": 1,
+      "Elegant Extracts": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Harriet": 1,
+      "Hartfield": 1
     }
   },
   {
@@ -5192,44 +3421,44 @@
       }
     },
     "co_occurs_with": {
-      "Anne Cox": 1,
       "Behold": 1,
-      "Brunswick Square": 1,
-      "Campbell": 1,
       "Cole": 1,
-      "Colonel Campbell": 1,
-      "Coxes": 1,
-      "Dear Miss Woodhouse": 1
+      "Dear Miss Woodhouse": 1,
+      "Elegant Extracts": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Harriet": 1,
+      "Hartfield": 1
     }
   },
   {
-    "canonical_name": "Vicarage Lane",
+    "canonical_name": "Mrs. Perry",
     "aliases": [],
-    "first_chapter": 10,
+    "first_chapter": 3,
     "total_mentions": 3,
     "per_chapter": {
-      "10": {
+      "3": {
         "mentions": 1,
-        "snippet": "Their road to this detached cottage was down Vicarage Lane, a lane"
+        "snippet": "and Mrs."
       },
-      "14": {
+      "12": {
         "mentions": 1,
-        "snippet": "Vicarage Lane."
+        "snippet": "\u201cAnd Mrs."
       },
-      "15": {
+      "17": {
         "mentions": 1,
-        "snippet": "turned into Vicarage Lane, or when it stopped, they found themselves,"
+        "snippet": "Cole, Mrs."
       }
     },
     "co_occurs_with": {
-      "Elton": 3,
       "Emma": 3,
-      "Frank Churchill": 3,
-      "Harriet": 3,
+      "Hartfield": 3,
+      "John Knightley": 3,
       "Knightley": 3,
-      "Miss Fairfax": 3,
-      "Miss Smith": 3,
-      "Miss Woodhouse": 3
+      "Miss Bates": 3,
+      "Mr. Knightley": 3,
+      "Mr. Woodhouse": 3,
+      "Mrs. John Knightley": 3
     }
   },
   {
@@ -5244,14 +3473,14 @@
       }
     },
     "co_occurs_with": {
-      "Box Hill": 1,
       "Brunswick Square": 1,
-      "Campbell": 1,
       "Colonel Campbell": 1,
       "Cromer": 1,
-      "Dixon": 1,
-      "Donwell": 1,
-      "Emma": 1
+      "Emma": 1,
+      "Harriet Smith": 1,
+      "Hartfield": 1,
+      "Isabella": 1,
+      "Jane Fairfax": 1
     }
   },
   {
@@ -5266,38 +3495,14 @@
       }
     },
     "co_occurs_with": {
-      "Box Hill": 1,
       "Brunswick Square": 1,
-      "Campbell": 1,
       "Colonel Campbell": 1,
       "Come": 1,
-      "Dixon": 1,
-      "Donwell": 1,
-      "Emma": 1
-    }
-  },
-  {
-    "canonical_name": "Miss Somebody",
-    "aliases": [
-      "Somebody"
-    ],
-    "first_chapter": 16,
-    "total_mentions": 3,
-    "per_chapter": {
-      "16": {
-        "mentions": 3,
-        "snippet": "easily obtained as he had fancied, he would soon try for Miss Somebody"
-      }
-    },
-    "co_occurs_with": {
-      "Abbey Mill": 1,
-      "Box Hill": 1,
-      "Bragge": 1,
-      "Campbell": 1,
-      "Christmas Day": 1,
-      "Crown": 1,
-      "Donwell": 1,
-      "Donwell Abbey": 1
+      "Emma": 1,
+      "Harriet Smith": 1,
+      "Hartfield": 1,
+      "Isabella": 1,
+      "Jane Fairfax": 1
     }
   },
   {
@@ -5316,36 +3521,114 @@
       }
     },
     "co_occurs_with": {
-      "Donwell Abbey": 2,
       "Elton": 2,
       "Emma": 2,
-      "Frank Churchill": 2,
       "Harriet": 2,
       "Hartfield": 2,
       "Highbury": 2,
-      "Jane Fairfax": 2
+      "Jane Fairfax": 2,
+      "Miss Bates": 2,
+      "Miss Fairfax": 2
     }
   },
   {
-    "canonical_name": "Miss Coxes",
+    "canonical_name": "Ford",
     "aliases": [],
-    "first_chapter": 11,
+    "first_chapter": 3,
     "total_mentions": 3,
     "per_chapter": {
-      "11": {
+      "3": {
         "mentions": 3,
-        "snippet": "\u201cYou and Miss Smith, and Miss Fairfax, will be three, and the two Miss"
+        "snippet": "and took shelter at Ford\u2019s."
       }
     },
     "co_occurs_with": {
-      "About Jane Fairfax": 1,
       "Cole": 1,
-      "Coxes": 1,
-      "Crown Inn": 1,
-      "Donwell Abbey": 1,
+      "Colonel Campbell": 1,
+      "Dear Miss Woodhouse": 1,
+      "Dixon": 1,
+      "Elizabeth Martin": 1,
       "Elton": 1,
       "Emma": 1,
-      "Frank Churchill": 1
+      "Harriet": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Knightley",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 1,
+        "snippet": "\u201cNo\u2014Mrs."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "A Mrs."
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "there would be a Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Cole": 3,
+      "Elton": 3,
+      "Emma": 3,
+      "John Knightley": 3,
+      "Knightley": 3,
+      "Miss Bates": 3,
+      "Mr. Knightley": 3,
+      "Mr. Weston": 3
+    }
+  },
+  {
+    "canonical_name": "Mr. Suckling",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 1,
+        "snippet": "Neither Mr."
+      },
+      "14": {
+        "mentions": 2,
+        "snippet": "Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Elton": 2,
+      "Knightley": 2,
+      "Maple Grove": 2,
+      "Miss Woodhouse": 2,
+      "Mr. Elton": 2,
+      "Mr. Knightley": 2,
+      "Mr. Weston": 2,
+      "Mr. Woodhouse": 2
+    }
+  },
+  {
+    "canonical_name": "Selina",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 3,
+    "per_chapter": {
+      "14": {
+        "mentions": 3,
+        "snippet": "Many a time has Selina said, when she has been going to"
+      }
+    },
+    "co_occurs_with": {
+      "Bath": 1,
+      "Clara Partridge": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Harriet": 1,
+      "Hartfield": 1,
+      "James Cooper": 1,
+      "Knightley": 1
     }
   },
   {
@@ -5360,14 +3643,58 @@
       }
     },
     "co_occurs_with": {
-      "Campbell": 1,
-      "Captain Weston": 1,
       "Colonel Campbell": 1,
       "Come Emma": 1,
       "Come Miss Woodhouse": 1,
       "Dear Miss Woodhouse": 1,
       "Dixon": 1,
-      "Dr. Hughes": 1
+      "Dr. Hughes": 1,
+      "Elton": 1,
+      "Frank Churchill": 1
+    }
+  },
+  {
+    "canonical_name": "Never",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "\u2014Never were such neighbours."
+      }
+    },
+    "co_occurs_with": {
+      "Colonel Campbell": 1,
+      "Come Emma": 1,
+      "Come Miss Woodhouse": 1,
+      "Dear Miss Woodhouse": 1,
+      "Dixon": 1,
+      "Dr. Hughes": 1,
+      "Elton": 1,
+      "Frank Churchill": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Suckling",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "and Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill Farm": 1,
+      "Box Hill": 1,
+      "Cole": 1,
+      "Donwell": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Frank Churchill": 1,
+      "Harriet": 1
     }
   },
   {
@@ -5384,12 +3711,56 @@
     "co_occurs_with": {
       "Abbey Mill Farm": 1,
       "Box Hill": 1,
-      "Bragge": 1,
-      "Brunswick Square": 1,
-      "Campbell": 1,
       "Cole": 1,
-      "Colonel Campbell": 1,
-      "Crown Inn": 1
+      "Donwell": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Frank Churchill": 1,
+      "Harriet": 1
+    }
+  },
+  {
+    "canonical_name": "Richmond",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "Churchill, who was expected every moment from Richmond; and Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill Farm": 1,
+      "Box Hill": 1,
+      "Cole": 1,
+      "Donwell": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Frank Churchill": 1,
+      "Harriet": 1
+    }
+  },
+  {
+    "canonical_name": "Had",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "\u201cHad you any idea,\u201d cried Harriet, \u201cof his being in love with her?"
+      }
+    },
+    "co_occurs_with": {
+      "About Jane Fairfax": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Frank Churchill": 1,
+      "Good God": 1,
+      "Harriet Smith": 1,
+      "Hartfield": 1,
+      "In Jane": 1
     }
   },
   {
@@ -5405,13 +3776,13 @@
     },
     "co_occurs_with": {
       "About Jane Fairfax": 1,
-      "Cole": 1,
-      "Coxes": 1,
-      "Crown Inn": 1,
-      "Donwell Abbey": 1,
       "Elton": 1,
       "Emma": 1,
-      "Frank Churchill": 1
+      "Frank Churchill": 1,
+      "Good God": 1,
+      "Had": 1,
+      "Harriet Smith": 1,
+      "Hartfield": 1
     }
   },
   {
@@ -5426,14 +3797,14 @@
       }
     },
     "co_occurs_with": {
-      "Aunt Emma": 1,
-      "Bragge": 1,
-      "Cole": 1,
-      "Elton": 1,
       "Emma": 1,
-      "Enscombe": 1,
       "Frank Churchill": 1,
-      "Good God": 1
+      "Good God": 1,
+      "Harriet Smith": 1,
+      "Jane": 1,
+      "John Knightley": 1,
+      "Knightley": 1,
+      "Martin": 1
     }
   }
 ]

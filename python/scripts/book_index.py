@@ -119,20 +119,37 @@ def ensure_book_index(book_id: str) -> int:
     # intro, etc.) that don't have a real chapter number in their title.
     from chapter_numbering import parse_chapter_number  # local import
 
+    # Some Gutenberg books have BOTH a TOC entry that parses to e.g.
+    # "Chapter XXIV. Conclusion ... 315" AND the real chapter labeled the
+    # same way. Dedupe: when two chapters map to the same canonical number,
+    # keep only the one with the longest text body (the real chapter).
+    is_single = len(book["chapters"]) == 1
+    canon_to_best_idx: Dict[int, int] = {}
+    canon_for: Dict[int, Optional[int]] = {}
+    for i, ch in enumerate(book["chapters"]):
+        c = parse_chapter_number(ch.get("title", "") or "")
+        if c is None:
+            if is_single:
+                c = 1
+            else:
+                canon_for[i] = None
+                continue
+        canon_for[i] = c
+        prev = canon_to_best_idx.get(c)
+        if prev is None or len(book["chapters"][prev].get("text") or "") < len(ch.get("text") or ""):
+            canon_to_best_idx[c] = i
+    keep_indices = set(canon_to_best_idx.values())
+
     docs: List[str] = []
     metadatas: List[Dict[str, Any]] = []
     ids: List[str] = []
-    for ch in book["chapters"]:
+    for i, ch in enumerate(book["chapters"]):
+        if i not in keep_indices:
+            continue
+        ch_num = canon_for[i]
+        if ch_num is None:
+            continue
         ch_title = ch.get("title", "") or ""
-        canonical = parse_chapter_number(ch_title)
-        if canonical is None:
-            # Single-chapter books fallback: if the book has only ONE chapter,
-            # accept it as chapter 1.
-            if len(book["chapters"]) == 1:
-                canonical = 1
-            else:
-                continue  # skip TOC / front matter
-        ch_num = canonical
         chunks = chunk_chapter(ch.get("text", ""))
         for ci, chunk in enumerate(chunks):
             docs.append(chunk)

@@ -3,7 +3,7 @@
     "canonical_name": "Pearl",
     "aliases": [],
     "first_chapter": 6,
-    "total_mentions": 245,
+    "total_mentions": 238,
     "per_chapter": {
       "6": {
         "mentions": 46,
@@ -60,21 +60,17 @@
       "23": {
         "mentions": 9,
         "snippet": "Hester, holding little Pearl by the hand!"
-      },
-      "24": {
-        "mentions": 7,
-        "snippet": "both here and in England, to little Pearl, the daughter of Hester"
       }
     },
     "co_occurs_with": {
-      "Hester Prynne": 15,
-      "New England": 9,
-      "Reverend Mr": 9,
-      "Roger Chillingworth": 9,
-      "Dimmesdale": 8,
-      "Mr. Dimmesdale": 8,
-      "Governor Bellingham": 4,
-      "Arthur Dimmesdale": 4
+      "Hester Prynne": 14,
+      "New England": 8,
+      "Reverend Mr": 8,
+      "Roger Chillingworth": 8,
+      "Dimmesdale": 7,
+      "Mr. Dimmesdale": 7,
+      "Arthur Dimmesdale": 4,
+      "Mistress Hibbins": 4
     }
   },
   {
@@ -83,7 +79,7 @@
       "Prynne"
     ],
     "first_chapter": 2,
-    "total_mentions": 124,
+    "total_mentions": 118,
     "per_chapter": {
       "2": {
         "mentions": 9,
@@ -170,17 +166,17 @@
         "snippet": "Meanwhile Hester Prynne was standing"
       },
       "24": {
-        "mentions": 7,
-        "snippet": "Hester Prynne\u2014imprinted in the flesh."
+        "mentions": 1,
+        "snippet": "On Hester Prynne\u2019s story, therefore, I bestowed much thought."
       }
     },
     "co_occurs_with": {
-      "Pearl": 15,
-      "Roger Chillingworth": 13,
+      "Pearl": 14,
       "New England": 12,
-      "Reverend Mr": 12,
-      "Dimmesdale": 11,
-      "Mr. Dimmesdale": 11,
+      "Roger Chillingworth": 12,
+      "Reverend Mr": 11,
+      "Dimmesdale": 10,
+      "Mr. Dimmesdale": 10,
       "Mistress Hibbins": 6,
       "Arthur Dimmesdale": 6
     }
@@ -189,7 +185,7 @@
     "canonical_name": "Dimmesdale",
     "aliases": [],
     "first_chapter": 3,
-    "total_mentions": 74,
+    "total_mentions": 72,
     "per_chapter": {
       "3": {
         "mentions": 5,
@@ -234,28 +230,86 @@
       "23": {
         "mentions": 2,
         "snippet": "Dimmesdale was left by the"
-      },
-      "24": {
-        "mentions": 2,
-        "snippet": "Dimmesdale\u2019s story as"
       }
     },
     "co_occurs_with": {
-      "Mr. Dimmesdale": 12,
-      "Reverend Mr": 12,
-      "Hester Prynne": 11,
-      "Roger Chillingworth": 9,
-      "Pearl": 8,
-      "New England": 7,
-      "Governor Bellingham": 4,
-      "Master Dimmesdale": 4
+      "Mr. Dimmesdale": 11,
+      "Reverend Mr": 11,
+      "Hester Prynne": 10,
+      "Roger Chillingworth": 8,
+      "Pearl": 7,
+      "New England": 6,
+      "Master Dimmesdale": 4,
+      "Mistress Hibbins": 4
+    }
+  },
+  {
+    "canonical_name": "Mr. Dimmesdale",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 65,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "directed its hitherto vacant gaze towards Mr."
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "sudden impulse, she turned to the young clergyman, Mr."
+      },
+      "9": {
+        "mentions": 13,
+        "snippet": "About this period, however, the health of Mr."
+      },
+      "10": {
+        "mentions": 9,
+        "snippet": "In other words, Mr."
+      },
+      "11": {
+        "mentions": 9,
+        "snippet": "Mr."
+      },
+      "12": {
+        "mentions": 14,
+        "snippet": "under the influence of a species of somnambulism, Mr."
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "In her late singular interview with Mr."
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Hester Prynne remained constant in her resolve to make known to Mr."
+      },
+      "20": {
+        "mentions": 6,
+        "snippet": "The excitement of Mr."
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "Mr."
+      },
+      "23": {
+        "mentions": 2,
+        "snippet": "Wilson,\u2014observing the state in which Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Dimmesdale": 11,
+      "Reverend Mr": 11,
+      "Hester Prynne": 10,
+      "Roger Chillingworth": 8,
+      "Pearl": 7,
+      "New England": 6,
+      "Master Dimmesdale": 4,
+      "Mistress Hibbins": 4
     }
   },
   {
     "canonical_name": "Reverend Mr",
     "aliases": [],
     "first_chapter": 3,
-    "total_mentions": 68,
+    "total_mentions": 62,
     "per_chapter": {
       "3": {
         "mentions": 8,
@@ -304,84 +358,14 @@
       "23": {
         "mentions": 4,
         "snippet": "Thus, there had come to the Reverend Mr."
-      },
-      "24": {
-        "mentions": 6,
-        "snippet": "Some affirmed that the Reverend Mr."
       }
     },
     "co_occurs_with": {
-      "Dimmesdale": 12,
-      "Hester Prynne": 12,
-      "Mr. Dimmesdale": 12,
-      "Pearl": 9,
-      "Roger Chillingworth": 9,
-      "New England": 8,
-      "Governor Bellingham": 5,
-      "Master Dimmesdale": 4
-    }
-  },
-  {
-    "canonical_name": "Mr. Dimmesdale",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 67,
-    "per_chapter": {
-      "3": {
-        "mentions": 2,
-        "snippet": "directed its hitherto vacant gaze towards Mr."
-      },
-      "8": {
-        "mentions": 3,
-        "snippet": "sudden impulse, she turned to the young clergyman, Mr."
-      },
-      "9": {
-        "mentions": 13,
-        "snippet": "About this period, however, the health of Mr."
-      },
-      "10": {
-        "mentions": 9,
-        "snippet": "In other words, Mr."
-      },
-      "11": {
-        "mentions": 9,
-        "snippet": "Mr."
-      },
-      "12": {
-        "mentions": 14,
-        "snippet": "under the influence of a species of somnambulism, Mr."
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "In her late singular interview with Mr."
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "Hester Prynne remained constant in her resolve to make known to Mr."
-      },
-      "20": {
-        "mentions": 6,
-        "snippet": "The excitement of Mr."
-      },
-      "22": {
-        "mentions": 3,
-        "snippet": "Mr."
-      },
-      "23": {
-        "mentions": 2,
-        "snippet": "Wilson,\u2014observing the state in which Mr."
-      },
-      "24": {
-        "mentions": 2,
-        "snippet": "must be allowed to consider this version of Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Dimmesdale": 12,
-      "Reverend Mr": 12,
       "Hester Prynne": 11,
-      "Roger Chillingworth": 9,
+      "Dimmesdale": 11,
+      "Mr. Dimmesdale": 11,
       "Pearl": 8,
+      "Roger Chillingworth": 8,
       "New England": 7,
       "Governor Bellingham": 4,
       "Master Dimmesdale": 4
@@ -394,7 +378,7 @@
       "Roger"
     ],
     "first_chapter": 4,
-    "total_mentions": 57,
+    "total_mentions": 53,
     "per_chapter": {
       "4": {
         "mentions": 2,
@@ -447,19 +431,15 @@
       "23": {
         "mentions": 2,
         "snippet": "instant, old Roger Chillingworth thrust himself through the"
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "time subsequent, when old Roger Chillingworth, being a potent"
       }
     },
     "co_occurs_with": {
-      "Hester Prynne": 13,
-      "Dimmesdale": 9,
-      "Mr. Dimmesdale": 9,
-      "Pearl": 9,
-      "Reverend Mr": 9,
-      "New England": 7,
+      "Hester Prynne": 12,
+      "Dimmesdale": 8,
+      "Mr. Dimmesdale": 8,
+      "Pearl": 8,
+      "Reverend Mr": 8,
+      "New England": 6,
       "Arthur Dimmesdale": 4,
       "Black Man": 4
     }
@@ -522,10 +502,10 @@
       "Charter Street": 1,
       "Deputy Collector": 1,
       "Derby Street": 1,
-      "Dimmesdale": 1,
       "Ellery Channing": 1,
       "Essex Historical Society": 1,
-      "Fort Erie": 1
+      "Fort Erie": 1,
+      "General Taylor": 1
     }
   },
   {
@@ -622,57 +602,17 @@
       },
       "24": {
         "mentions": 1,
-        "snippet": "But there was a more real life for Hester Prynne here, in New England,"
+        "snippet": "heroic enterprise, and breathing the soul and spirit of New England"
       }
     },
     "co_occurs_with": {
       "Hester Prynne": 12,
-      "Pearl": 9,
-      "Reverend Mr": 8,
-      "Dimmesdale": 7,
-      "Mr. Dimmesdale": 7,
-      "Roger Chillingworth": 7,
-      "Governor Bellingham": 4,
-      "Mistress Hibbins": 4
-    }
-  },
-  {
-    "canonical_name": "Governor Bellingham",
-    "aliases": [
-      "Bellingham"
-    ],
-    "first_chapter": 3,
-    "total_mentions": 16,
-    "per_chapter": {
-      "3": {
-        "mentions": 2,
-        "snippet": "to witness the scene which we are describing, sat Governor Bellingham"
-      },
-      "7": {
-        "mentions": 6,
-        "snippet": "Hester Prynne went, one day, to the mansion of Governor Bellingham,"
-      },
-      "8": {
-        "mentions": 4,
-        "snippet": "Governor Bellingham\u2019s shoulder; while its wearer suggested that pears"
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "of Governor Bellingham\u2019s mansion, which stood at some distance, on the"
-      },
-      "24": {
-        "mentions": 1,
-        "snippet": "testament, of which Governor Bellingham and the Reverend Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Hester Prynne": 5,
-      "Reverend Mr": 5,
-      "Dimmesdale": 4,
-      "Mr. Dimmesdale": 4,
-      "New England": 4,
-      "Pearl": 4,
-      "Roger Chillingworth": 3,
+      "Pearl": 8,
+      "Reverend Mr": 7,
+      "Dimmesdale": 6,
+      "Mr. Dimmesdale": 6,
+      "Roger Chillingworth": 6,
+      "Mistress Hibbins": 4,
       "Master Dimmesdale": 3
     }
   },
@@ -707,6 +647,42 @@
     }
   },
   {
+    "canonical_name": "Governor Bellingham",
+    "aliases": [
+      "Bellingham"
+    ],
+    "first_chapter": 3,
+    "total_mentions": 15,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "to witness the scene which we are describing, sat Governor Bellingham"
+      },
+      "7": {
+        "mentions": 6,
+        "snippet": "Hester Prynne went, one day, to the mansion of Governor Bellingham,"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "Governor Bellingham\u2019s shoulder; while its wearer suggested that pears"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "of Governor Bellingham\u2019s mansion, which stood at some distance, on the"
+      }
+    },
+    "co_occurs_with": {
+      "Hester Prynne": 4,
+      "Reverend Mr": 4,
+      "New England": 3,
+      "Pearl": 3,
+      "Dimmesdale": 3,
+      "Master Dimmesdale": 3,
+      "Mr. Dimmesdale": 3,
+      "Wilson": 3
+    }
+  },
+  {
     "canonical_name": "Uncle Sam",
     "aliases": [
       "Sam"
@@ -724,10 +700,10 @@
       "Charter Street": 1,
       "Deputy Collector": 1,
       "Derby Street": 1,
-      "Dimmesdale": 1,
       "Ellery Channing": 1,
       "Essex Historical Society": 1,
-      "Fort Erie": 1
+      "Fort Erie": 1,
+      "General Taylor": 1
     }
   },
   {
@@ -899,6 +875,30 @@
     }
   },
   {
+    "canonical_name": "Mr. Surveyor Pue",
+    "aliases": [
+      "Pue"
+    ],
+    "first_chapter": 24,
+    "total_mentions": 8,
+    "per_chapter": {
+      "24": {
+        "mentions": 8,
+        "snippet": "a notice of the decease of Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Brook Farm": 1,
+      "Charter Street": 1,
+      "Deputy Collector": 1,
+      "Derby Street": 1,
+      "Ellery Channing": 1,
+      "Essex Historical Society": 1,
+      "Fort Erie": 1,
+      "General Taylor": 1
+    }
+  },
+  {
     "canonical_name": "Inspector",
     "aliases": [],
     "first_chapter": 24,
@@ -914,10 +914,10 @@
       "Charter Street": 1,
       "Deputy Collector": 1,
       "Derby Street": 1,
-      "Dimmesdale": 1,
       "Ellery Channing": 1,
       "Essex Historical Society": 1,
-      "Fort Erie": 1
+      "Fort Erie": 1,
+      "General Taylor": 1
     }
   },
   {
@@ -993,13 +993,35 @@
     },
     "co_occurs_with": {
       "Hester Prynne": 4,
-      "Dimmesdale": 2,
-      "Governor Bellingham": 2,
-      "Mr. Dimmesdale": 2,
       "New England": 2,
-      "Reverend Mr": 2,
-      "Roger Chillingworth": 2,
-      "Master Dimmesdale": 2
+      "Master Dimmesdale": 2,
+      "Brook Farm": 1,
+      "Charter Street": 1,
+      "Deputy Collector": 1,
+      "Derby Street": 1,
+      "Ellery Channing": 1
+    }
+  },
+  {
+    "canonical_name": "Surveyor Pue",
+    "aliases": [],
+    "first_chapter": 24,
+    "total_mentions": 6,
+    "per_chapter": {
+      "24": {
+        "mentions": 6,
+        "snippet": "Surveyor Pue, about fourscore years"
+      }
+    },
+    "co_occurs_with": {
+      "Brook Farm": 1,
+      "Charter Street": 1,
+      "Deputy Collector": 1,
+      "Derby Street": 1,
+      "Ellery Channing": 1,
+      "Essex Historical Society": 1,
+      "Fort Erie": 1,
+      "General Taylor": 1
     }
   },
   {
@@ -1018,10 +1040,10 @@
       "Charter Street": 1,
       "Deputy Collector": 1,
       "Derby Street": 1,
-      "Dimmesdale": 1,
       "Ellery Channing": 1,
       "Essex Historical Society": 1,
-      "Fort Erie": 1
+      "Fort Erie": 1,
+      "General Taylor": 1
     }
   },
   {
@@ -1093,30 +1115,6 @@
       "Let God": 1,
       "Roger Chillingworth": 1,
       "Thou": 1
-    }
-  },
-  {
-    "canonical_name": "Mr. Pue",
-    "aliases": [
-      "Pue"
-    ],
-    "first_chapter": 24,
-    "total_mentions": 4,
-    "per_chapter": {
-      "24": {
-        "mentions": 4,
-        "snippet": "parchment commission served to envelop, I found more traces of Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Brook Farm": 1,
-      "Charter Street": 1,
-      "Deputy Collector": 1,
-      "Derby Street": 1,
-      "Dimmesdale": 1,
-      "Ellery Channing": 1,
-      "Essex Historical Society": 1,
-      "Fort Erie": 1
     }
   },
   {
@@ -1272,10 +1270,10 @@
       "Charter Street": 1,
       "Deputy Collector": 1,
       "Derby Street": 1,
-      "Dimmesdale": 1,
       "Ellery Channing": 1,
       "Essex Historical Society": 1,
-      "Fort Erie": 1
+      "Fort Erie": 1,
+      "General Taylor": 1
     }
   },
   {

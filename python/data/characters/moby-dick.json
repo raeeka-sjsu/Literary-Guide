@@ -209,8 +209,8 @@
       "Pequod": 18,
       "Starbuck": 16,
       "Stubb": 13,
-      "Mr. Starbuck": 9,
-      "Sperm Whale": 9
+      "Queequeg": 9,
+      "Mr. Starbuck": 9
     }
   },
   {
@@ -320,11 +320,11 @@
       "Ahab": 9,
       "Captain Ahab": 8,
       "Starbuck": 6,
+      "Cape Horn": 5,
       "Pequod": 5,
       "Mr. Starbuck": 5,
       "Stubb": 5,
-      "Cape Horn": 5,
-      "Sperm Whale": 4
+      "Captain Peleg": 4
     }
   },
   {
@@ -443,10 +443,10 @@
       "Ahab": 13,
       "Mr. Starbuck": 12,
       "Captain Ahab": 11,
-      "White Whale": 10,
       "Flask": 10,
+      "White Whale": 10,
       "Mr. Stubb": 9,
-      "Moby Dick": 7
+      "Pequod": 7
     }
   },
   {
@@ -580,13 +580,115 @@
     },
     "co_occurs_with": {
       "Ahab": 28,
-      "Moby Dick": 11,
       "Pequod": 11,
       "Stubb": 11,
+      "Moby Dick": 11,
       "White Whale": 9,
       "Starbuck": 9,
       "Queequeg": 8,
       "Flask": 7
+    }
+  },
+  {
+    "canonical_name": "Pequod",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 108,
+    "per_chapter": {
+      "16": {
+        "mentions": 12,
+        "snippet": "Pequod."
+      },
+      "19": {
+        "mentions": 7,
+        "snippet": "Queequeg and I had just left the Pequod, and were sauntering away from"
+      },
+      "20": {
+        "mentions": 4,
+        "snippet": "A day or two passed, and there was great activity aboard the Pequod."
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "riggers, and after the Pequod had been hauled out from the wharf, and"
+      },
+      "27": {
+        "mentions": 7,
+        "snippet": "called him King-Post on board of the Pequod; because, in form, he could"
+      },
+      "34": {
+        "mentions": 3,
+        "snippet": "mere sailor of the Pequod had a grudge against Flask in Flask\u2019s"
+      },
+      "44": {
+        "mentions": 4,
+        "snippet": "the Japanese Coast; yet it did not follow, that were the Pequod to"
+      },
+      "51": {
+        "mentions": 3,
+        "snippet": "Days, weeks passed, and under easy sail, the ivory Pequod had slowly"
+      },
+      "64": {
+        "mentions": 3,
+        "snippet": "business of towing the trophy to the Pequod."
+      },
+      "71": {
+        "mentions": 10,
+        "snippet": "the ship, and soon the Pequod began to rock."
+      },
+      "73": {
+        "mentions": 7,
+        "snippet": "prodigious head hanging to the Pequod\u2019s side."
+      },
+      "81": {
+        "mentions": 8,
+        "snippet": "While yet some distance from the Pequod, she rounded to, and dropping a"
+      },
+      "87": {
+        "mentions": 9,
+        "snippet": "With a fair, fresh wind, the Pequod was now drawing nigh to these"
+      },
+      "91": {
+        "mentions": 6,
+        "snippet": "many noses on the Pequod\u2019s deck proved more vigilant discoverers than"
+      },
+      "96": {
+        "mentions": 3,
+        "snippet": "It was in the left hand try-pot of the Pequod,"
+      },
+      "100": {
+        "mentions": 3,
+        "snippet": "The Pequod, of Nantucket, Meets the Samuel Enderby, of London."
+      },
+      "106": {
+        "mentions": 3,
+        "snippet": "been very long prior to the Pequod\u2019s sailing from Nantucket, that he"
+      },
+      "124": {
+        "mentions": 3,
+        "snippet": "mighty bulk, and striving in the Pequod\u2019s gurgling track, pushed her on"
+      },
+      "128": {
+        "mentions": 4,
+        "snippet": "upon the Pequod, all her spars thickly clustering with men."
+      },
+      "131": {
+        "mentions": 3,
+        "snippet": "The intense Pequod sailed on; the rolling waves and days went by; the"
+      },
+      "135": {
+        "mentions": 3,
+        "snippet": "Steering as she had done, the wind had been somewhat on the Pequod\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Ahab": 18,
+      "Captain Ahab": 11,
+      "Moby Dick": 9,
+      "White Whale": 9,
+      "Starbuck": 8,
+      "Stubb": 7,
+      "Mr. Starbuck": 6,
+      "Sperm Whale": 6
     }
   },
   {
@@ -596,7 +698,7 @@
       "Whale"
     ],
     "first_chapter": 7,
-    "total_mentions": 112,
+    "total_mentions": 107,
     "per_chapter": {
       "7": {
         "mentions": 1,
@@ -741,123 +843,17 @@
       "134": {
         "mentions": 1,
         "snippet": "furthest depths, the Sperm Whale thus booms his entire bulk into the"
-      },
-      "135": {
-        "mentions": 5,
-        "snippet": "large Sperm Whale in the Pacific Ocean_."
       }
     },
     "co_occurs_with": {
-      "Ahab": 9,
-      "Leviathan": 7,
-      "Moby Dick": 7,
-      "Pequod": 7,
-      "Right Whale": 7,
-      "Stubb": 7,
-      "White Whale": 7,
-      "Starbuck": 4
-    }
-  },
-  {
-    "canonical_name": "Pequod",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 108,
-    "per_chapter": {
-      "16": {
-        "mentions": 12,
-        "snippet": "Pequod."
-      },
-      "19": {
-        "mentions": 7,
-        "snippet": "Queequeg and I had just left the Pequod, and were sauntering away from"
-      },
-      "20": {
-        "mentions": 4,
-        "snippet": "A day or two passed, and there was great activity aboard the Pequod."
-      },
-      "22": {
-        "mentions": 3,
-        "snippet": "riggers, and after the Pequod had been hauled out from the wharf, and"
-      },
-      "27": {
-        "mentions": 7,
-        "snippet": "called him King-Post on board of the Pequod; because, in form, he could"
-      },
-      "34": {
-        "mentions": 3,
-        "snippet": "mere sailor of the Pequod had a grudge against Flask in Flask\u2019s"
-      },
-      "44": {
-        "mentions": 4,
-        "snippet": "the Japanese Coast; yet it did not follow, that were the Pequod to"
-      },
-      "51": {
-        "mentions": 3,
-        "snippet": "Days, weeks passed, and under easy sail, the ivory Pequod had slowly"
-      },
-      "64": {
-        "mentions": 3,
-        "snippet": "business of towing the trophy to the Pequod."
-      },
-      "71": {
-        "mentions": 10,
-        "snippet": "the ship, and soon the Pequod began to rock."
-      },
-      "73": {
-        "mentions": 7,
-        "snippet": "prodigious head hanging to the Pequod\u2019s side."
-      },
-      "81": {
-        "mentions": 8,
-        "snippet": "While yet some distance from the Pequod, she rounded to, and dropping a"
-      },
-      "87": {
-        "mentions": 9,
-        "snippet": "With a fair, fresh wind, the Pequod was now drawing nigh to these"
-      },
-      "91": {
-        "mentions": 6,
-        "snippet": "many noses on the Pequod\u2019s deck proved more vigilant discoverers than"
-      },
-      "96": {
-        "mentions": 3,
-        "snippet": "It was in the left hand try-pot of the Pequod,"
-      },
-      "100": {
-        "mentions": 3,
-        "snippet": "The Pequod, of Nantucket, Meets the Samuel Enderby, of London."
-      },
-      "106": {
-        "mentions": 3,
-        "snippet": "been very long prior to the Pequod\u2019s sailing from Nantucket, that he"
-      },
-      "124": {
-        "mentions": 3,
-        "snippet": "mighty bulk, and striving in the Pequod\u2019s gurgling track, pushed her on"
-      },
-      "128": {
-        "mentions": 4,
-        "snippet": "upon the Pequod, all her spars thickly clustering with men."
-      },
-      "131": {
-        "mentions": 3,
-        "snippet": "The intense Pequod sailed on; the rolling waves and days went by; the"
-      },
-      "135": {
-        "mentions": 3,
-        "snippet": "Steering as she had done, the wind had been somewhat on the Pequod\u2019s"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 18,
-      "Captain Ahab": 11,
-      "Moby Dick": 9,
-      "White Whale": 9,
-      "Starbuck": 8,
-      "Sperm Whale": 7,
-      "Stubb": 7,
-      "Mr. Starbuck": 6
+      "Ahab": 8,
+      "Right Whale": 6,
+      "Moby Dick": 6,
+      "White Whale": 6,
+      "Leviathan": 6,
+      "Pequod": 6,
+      "Stubb": 6,
+      "Cape Horn": 4
     }
   },
   {
@@ -900,8 +896,8 @@
       "Captain Bildad": 4,
       "Queequeg": 4,
       "Cape Horn": 2,
-      "Sperm Whale": 1,
-      "Canterbury Cathedral": 1
+      "Canterbury Cathedral": 1,
+      "Cape Cod": 1
     }
   },
   {
@@ -1051,13 +1047,13 @@
     },
     "co_occurs_with": {
       "Cape Horn": 2,
-      "Joppa": 2,
       "With": 2,
-      "Bartholomew Diaz": 1,
-      "Bishop Jebb": 1,
-      "Good Hope": 1,
-      "Harbor": 1,
-      "Mediterranean Sea": 1
+      "Joppa": 2,
+      "Alleghanian Ridge": 1,
+      "Black Sea": 1,
+      "Bulkington": 1,
+      "Landlord": 1,
+      "New Zealand": 1
     }
   },
   {
@@ -1174,8 +1170,8 @@
       "Captain Ahab": 11,
       "Pequod": 9,
       "Mr. Starbuck": 7,
-      "Sperm Whale": 7,
-      "Stubb": 7
+      "Stubb": 7,
+      "Sperm Whale": 6
     }
   },
   {
@@ -1290,10 +1286,10 @@
       "Moby Dick": 15,
       "Starbuck": 11,
       "Stubb": 10,
-      "Pequod": 9,
       "Captain Ahab": 9,
+      "Pequod": 9,
       "Mr. Starbuck": 8,
-      "Sperm Whale": 7
+      "Sperm Whale": 6
     }
   },
   {
@@ -1391,7 +1387,7 @@
       "Mr. Flask": 6,
       "Mr. Starbuck": 6,
       "Pequod": 5,
-      "White Whale": 5
+      "Mr. Stubb": 5
     }
   },
   {
@@ -1451,56 +1447,6 @@
     }
   },
   {
-    "canonical_name": "Leviathan",
-    "aliases": [],
-    "first_chapter": 81,
-    "total_mentions": 37,
-    "per_chapter": {
-      "81": {
-        "mentions": 3,
-        "snippet": "the back; this it is that often torments the Leviathan into soon rising"
-      },
-      "82": {
-        "mentions": 3,
-        "snippet": "and as Leviathan was in the very act of carrying her off, Perseus, the"
-      },
-      "86": {
-        "mentions": 3,
-        "snippet": "First: Being horizontal in its position, the Leviathan\u2019s tail acts in a"
-      },
-      "87": {
-        "mentions": 1,
-        "snippet": "of Madame Leviathan, by which the young cub seemed still tethered to"
-      },
-      "88": {
-        "mentions": 3,
-        "snippet": "Should any unwarrantably pert young Leviathan"
-      },
-      "104": {
-        "mentions": 9,
-        "snippet": "Since I have undertaken to manhandle this Leviathan, it behooves me to"
-      },
-      "105": {
-        "mentions": 3,
-        "snippet": "Inasmuch, then, as this Leviathan comes floundering down upon us from"
-      },
-      "135": {
-        "mentions": 12,
-        "snippet": "said, thought, fancied, and sung of Leviathan, by many nations and"
-      }
-    },
-    "co_occurs_with": {
-      "Sperm Whale": 7,
-      "Pequod": 3,
-      "Right Whale": 3,
-      "Starbuck": 3,
-      "Ahab": 2,
-      "Mr. Starbuck": 2,
-      "Stubb": 2,
-      "White Whale": 2
-    }
-  },
-  {
     "canonical_name": "Nantucket",
     "aliases": [],
     "first_chapter": 2,
@@ -1550,12 +1496,12 @@
     "co_occurs_with": {
       "Ahab": 5,
       "Captain Ahab": 5,
-      "Moby Dick": 4,
       "Cape Horn": 4,
+      "Moby Dick": 4,
       "Queequeg": 3,
       "Sperm Whale": 2,
-      "White Whale": 2,
-      "Flask": 2
+      "Flask": 2,
+      "New England": 2
     }
   },
   {
@@ -1598,10 +1544,10 @@
       "Ahab": 4,
       "Mr. Starbuck": 4,
       "Starbuck": 4,
-      "Moby Dick": 3,
+      "Captain Ahab": 3,
+      "Flask": 3,
       "Pequod": 3,
-      "Sperm Whale": 3,
-      "Mr. Stubb": 3
+      "Moby Dick": 3
     }
   },
   {
@@ -1640,12 +1586,12 @@
       }
     },
     "co_occurs_with": {
-      "Moby Dick": 6,
       "Ahab": 6,
+      "Moby Dick": 6,
       "Starbuck": 5,
       "White Whale": 5,
-      "Stubb": 4,
       "Captain Ahab": 4,
+      "Stubb": 4,
       "Mr. Starbuck": 3,
       "Daggoo": 2
     }
@@ -1731,9 +1677,9 @@
       "Ahab": 9,
       "White Whale": 8,
       "Moby Dick": 7,
-      "Pequod": 6,
       "Flask": 6,
-      "Captain Ahab": 5
+      "Pequod": 6,
+      "Mr. Stubb": 5
     }
   },
   {
@@ -1765,61 +1711,49 @@
     }
   },
   {
-    "canonical_name": "Right Whale",
+    "canonical_name": "Leviathan",
     "aliases": [],
-    "first_chapter": 32,
+    "first_chapter": 81,
     "total_mentions": 25,
     "per_chapter": {
-      "32": {
-        "mentions": 2,
-        "snippet": "or Right Whale."
-      },
-      "56": {
-        "mentions": 4,
-        "snippet": "attacks on the Sperm and Right Whale."
-      },
-      "57": {
-        "mentions": 1,
-        "snippet": "Whale-teeth, or ladies\u2019 busks wrought out of the Right Whale-bone, and"
-      },
-      "58": {
-        "mentions": 2,
-        "snippet": "of brit, the minute, yellow substance, upon which the Right Whale"
-      },
-      "73": {
-        "mentions": 1,
-        "snippet": "announcement was made that a Right Whale should be captured that day,"
-      },
-      "75": {
-        "mentions": 9,
-        "snippet": "rounded); so, at a broad view, the Right Whale\u2019s head bears a rather"
-      },
       "81": {
-        "mentions": 2,
-        "snippet": "in no small degree to the greater quantity of bone in the Right Whale;"
+        "mentions": 3,
+        "snippet": "the back; this it is that often torments the Leviathan into soon rising"
       },
-      "83": {
+      "82": {
+        "mentions": 3,
+        "snippet": "and as Leviathan was in the very act of carrying her off, Perseus, the"
+      },
+      "86": {
+        "mentions": 3,
+        "snippet": "First: Being horizontal in its position, the Leviathan\u2019s tail acts in a"
+      },
+      "87": {
         "mentions": 1,
-        "snippet": "respect to a species of the Leviathan (the Right Whale, and the"
+        "snippet": "of Madame Leviathan, by which the young cub seemed still tethered to"
+      },
+      "88": {
+        "mentions": 3,
+        "snippet": "Should any unwarrantably pert young Leviathan"
+      },
+      "104": {
+        "mentions": 9,
+        "snippet": "Since I have undertaken to manhandle this Leviathan, it behooves me to"
       },
       "105": {
-        "mentions": 1,
-        "snippet": "3), sets down the Right Whale at one hundred metres, three hundred and"
-      },
-      "135": {
-        "mentions": 2,
-        "snippet": "\u201cNo, Sir, \u2019tis a Right Whale,\u201d answered Tom; \u201cI saw his sprout; he"
+        "mentions": 3,
+        "snippet": "Inasmuch, then, as this Leviathan comes floundering down upon us from"
       }
     },
     "co_occurs_with": {
-      "Sperm Whale": 7,
-      "Leviathan": 3,
-      "Pequod": 3,
-      "Stubb": 3,
-      "The Whale": 3,
-      "White Whale": 3,
-      "Right Whales": 3,
-      "Ahab": 2
+      "Sperm Whale": 6,
+      "Pequod": 2,
+      "Right Whale": 2,
+      "Starbuck": 2,
+      "Sperm Whales": 2,
+      "Captain Derick De": 1,
+      "Captain Derick De Deer": 1,
+      "Davy Jones": 1
     }
   },
   {
@@ -1877,6 +1811,60 @@
     }
   },
   {
+    "canonical_name": "Right Whale",
+    "aliases": [],
+    "first_chapter": 32,
+    "total_mentions": 23,
+    "per_chapter": {
+      "32": {
+        "mentions": 2,
+        "snippet": "or Right Whale."
+      },
+      "56": {
+        "mentions": 4,
+        "snippet": "attacks on the Sperm and Right Whale."
+      },
+      "57": {
+        "mentions": 1,
+        "snippet": "Whale-teeth, or ladies\u2019 busks wrought out of the Right Whale-bone, and"
+      },
+      "58": {
+        "mentions": 2,
+        "snippet": "of brit, the minute, yellow substance, upon which the Right Whale"
+      },
+      "73": {
+        "mentions": 1,
+        "snippet": "announcement was made that a Right Whale should be captured that day,"
+      },
+      "75": {
+        "mentions": 9,
+        "snippet": "rounded); so, at a broad view, the Right Whale\u2019s head bears a rather"
+      },
+      "81": {
+        "mentions": 2,
+        "snippet": "in no small degree to the greater quantity of bone in the Right Whale;"
+      },
+      "83": {
+        "mentions": 1,
+        "snippet": "respect to a species of the Leviathan (the Right Whale, and the"
+      },
+      "105": {
+        "mentions": 1,
+        "snippet": "3), sets down the Right Whale at one hundred metres, three hundred and"
+      }
+    },
+    "co_occurs_with": {
+      "Sperm Whale": 6,
+      "Right Whales": 3,
+      "Brazil Banks": 2,
+      "Cape Horn": 2,
+      "Fin": 2,
+      "The Whale": 2,
+      "Flask": 2,
+      "Leviathan": 2
+    }
+  },
+  {
     "canonical_name": "The",
     "aliases": [],
     "first_chapter": 36,
@@ -1931,44 +1919,6 @@
     }
   },
   {
-    "canonical_name": "King",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 19,
-    "per_chapter": {
-      "12": {
-        "mentions": 3,
-        "snippet": "His father was a High Chief, a King; his uncle a High Priest; and"
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "King, Queequeg\u2019s father."
-      },
-      "48": {
-        "mentions": 5,
-        "snippet": "\u201cAye, aye, sir,\u201d cheerily cried little King-Post, sweeping round his"
-      },
-      "90": {
-        "mentions": 5,
-        "snippet": "that land, the King, as Honorary Grand Harpooneer, must have the head,"
-      },
-      "135": {
-        "mentions": 3,
-        "snippet": "\u2014_Other or Other\u2019s verbal narrative taken down from his mouth by King"
-      }
-    },
-    "co_occurs_with": {
-      "Queequeg": 3,
-      "Ahab": 2,
-      "Mr. Starbuck": 2,
-      "Starbuck": 2,
-      "Stubb": 2,
-      "White Whale": 2,
-      "High Priest": 2,
-      "Sag Harbor": 2
-    }
-  },
-  {
     "canonical_name": "Fedallah",
     "aliases": [],
     "first_chapter": 48,
@@ -1994,10 +1944,10 @@
     "co_occurs_with": {
       "Ahab": 3,
       "Captain Ahab": 3,
-      "Moby Dick": 3,
+      "Starbuck": 3,
       "Stubb": 3,
       "White Whale": 3,
-      "Starbuck": 3,
+      "Moby Dick": 3,
       "Flask": 2,
       "Mr. Flask": 2
     }
@@ -2093,9 +2043,9 @@
       "Ahab": 6,
       "Queequeg": 5,
       "Captain Ahab": 5,
-      "Sperm Whale": 4,
       "Nantucket": 4,
       "Pequod": 4,
+      "Sperm Whale": 4,
       "Moby Dick": 3,
       "White Whale": 3
     }
@@ -2122,6 +2072,40 @@
       "Obed Macy": 1,
       "Old Greenland": 1,
       "Saint Stylites": 1
+    }
+  },
+  {
+    "canonical_name": "King",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 16,
+    "per_chapter": {
+      "12": {
+        "mentions": 3,
+        "snippet": "His father was a High Chief, a King; his uncle a High Priest; and"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "King, Queequeg\u2019s father."
+      },
+      "48": {
+        "mentions": 5,
+        "snippet": "\u201cAye, aye, sir,\u201d cheerily cried little King-Post, sweeping round his"
+      },
+      "90": {
+        "mentions": 5,
+        "snippet": "that land, the King, as Honorary Grand Harpooneer, must have the head,"
+      }
+    },
+    "co_occurs_with": {
+      "Queequeg": 3,
+      "Captain Ahab": 2,
+      "High Priest": 2,
+      "Sag Harbor": 2,
+      "Capting": 1,
+      "Magnanimous Societies": 1,
+      "Moss": 1,
+      "New Bedford": 1
     }
   },
   {
@@ -2161,13 +2145,13 @@
     },
     "co_occurs_with": {
       "Peter Coffin": 3,
-      "South Sea": 2,
       "Sperm Whale": 2,
-      "Flying Fish": 1,
-      "Right Whale": 1,
-      "Soloma Islands": 1,
-      "the Pacific": 1,
-      "Goodwin Sands": 1
+      "South Sea": 2,
+      "Black Parliament": 1,
+      "Cape Horn": 1,
+      "Dives": 1,
+      "Euroclydon": 1,
+      "Fish Inn": 1
     }
   },
   {
@@ -2194,12 +2178,12 @@
       }
     },
     "co_occurs_with": {
-      "Queequeg": 3,
       "Ahab": 3,
-      "Tashtego": 2,
+      "Queequeg": 3,
       "Aye": 2,
       "Captain Ahab": 2,
       "Flask": 2,
+      "Moby Dick": 2,
       "Mr. Starbuck": 2,
       "Starbuck": 2
     }
@@ -2651,11 +2635,11 @@
     },
     "co_occurs_with": {
       "Sperm Whale": 2,
-      "the Sperm Whale": 1,
       "Daggoo": 1,
       "Evil One": 1,
       "Queequeg": 1,
       "Tashtego": 1,
+      "the Sperm Whale": 1,
       "Louis le Gros": 1
     }
   },
@@ -2886,10 +2870,10 @@
       "Stubb": 6,
       "Mr. Stubb": 5,
       "Starbuck": 5,
-      "Ahab": 4,
-      "Captain Ahab": 4,
+      "Mr. Starbuck": 4,
       "White Whale": 4,
-      "Mr. Starbuck": 4
+      "Ahab": 4,
+      "Captain Ahab": 4
     }
   },
   {
@@ -3022,34 +3006,12 @@
     "co_occurs_with": {
       "Ahab": 2,
       "Moby Dick": 2,
-      "Ay Ay": 1,
-      "Berlin Gazette": 1,
-      "Daniel Webster": 1,
-      "Debell Bennett": 1,
-      "Extending the Spermaceti Whale": 1,
-      "Globe": 1
-    }
-  },
-  {
-    "canonical_name": "Sub",
-    "aliases": [],
-    "first_chapter": 135,
-    "total_mentions": 7,
-    "per_chapter": {
-      "135": {
-        "mentions": 7,
-        "snippet": "(Supplied by a Sub-Sub-Librarian)."
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Ay Ay": 1,
-      "Berlin Gazette": 1,
-      "Daniel Webster": 1,
-      "Debell Bennett": 1,
-      "Extending the Spermaceti Whale": 1,
-      "Globe": 1,
-      "Gothic Arch": 1
+      "Mr. Starbuck": 1,
+      "Pequod": 1,
+      "Some": 1,
+      "Stand": 1,
+      "Starbuck": 1,
+      "Stubb": 1
     }
   },
   {
@@ -3091,13 +3053,13 @@
     },
     "co_occurs_with": {
       "Jonah": 2,
-      "Andromeda": 1,
-      "Hercules": 1,
-      "Kit Carson": 1,
-      "Leviathan": 1,
-      "Perseus": 1,
-      "Vishnoo": 1,
-      "Cadiz": 1
+      "Cadiz": 1,
+      "Captain Ahab": 1,
+      "Captain. He": 1,
+      "Deliverer God": 1,
+      "Father Mapple": 1,
+      "Lord God": 1,
+      "Lord the God": 1
     }
   },
   {
@@ -3327,38 +3289,6 @@
     }
   },
   {
-    "canonical_name": "Natural History",
-    "aliases": [
-      "History"
-    ],
-    "first_chapter": 41,
-    "total_mentions": 6,
-    "per_chapter": {
-      "41": {
-        "mentions": 1,
-        "snippet": "For in his Natural History, the Baron"
-      },
-      "55": {
-        "mentions": 2,
-        "snippet": "Nor are the most conscientious compilations of Natural History for the"
-      },
-      "135": {
-        "mentions": 3,
-        "snippet": "\u201c_History of Life and Death_."
-      }
-    },
-    "co_occurs_with": {
-      "Sperm Whale": 3,
-      "Ahab": 2,
-      "Moby Dick": 2,
-      "West Passage": 2,
-      "White Whale": 2,
-      "Cape Horn": 2,
-      "Ay Ay": 1,
-      "Berlin Gazette": 1
-    }
-  },
-  {
     "canonical_name": "Peter Coffin",
     "aliases": [
       "Coffin"
@@ -3394,12 +3324,12 @@
     "co_occurs_with": {
       "New Bedford": 3,
       "Queequeg": 3,
+      "Cape Horn": 2,
       "Captain Coffin": 2,
       "Sperm Whale": 2,
-      "Cape Horn": 2,
-      "Alexander the Great": 1,
-      "English House": 1,
-      "Fogo Von Slack": 1
+      "Black Parliament": 1,
+      "Dives": 1,
+      "Euroclydon": 1
     }
   },
   {
@@ -3462,12 +3392,12 @@
     "co_occurs_with": {
       "Nantucket": 2,
       "New Hampshire": 2,
-      "Sperm Whale": 1,
-      "Upper Mississippi": 1,
       "Ahab": 1,
       "Ahasuerus Daggoo": 1,
       "American Canals": 1,
-      "Anacharsis Clootz": 1
+      "Anacharsis Clootz": 1,
+      "Cape Cod": 1,
+      "Cape Horn": 1
     }
   },
   {
@@ -3921,58 +3851,6 @@
     }
   },
   {
-    "canonical_name": "The Whale",
-    "aliases": [],
-    "first_chapter": 32,
-    "total_mentions": 4,
-    "per_chapter": {
-      "32": {
-        "mentions": 1,
-        "snippet": "all the following titles: The Whale; the Greenland Whale; the Black"
-      },
-      "83": {
-        "mentions": 1,
-        "snippet": "figure-head; and, I would add, possibly called \u201cThe Whale,\u201d as some"
-      },
-      "135": {
-        "mentions": 2,
-        "snippet": "\u201cThe Whale-ship Globe, on board of which vessel occurred the horrid"
-      }
-    },
-    "co_occurs_with": {
-      "Right Whale": 3,
-      "Polar Sea": 2,
-      "Sperm Whale": 2,
-      "Cape Horn": 2,
-      "Ahab": 1,
-      "Ay Ay": 1,
-      "Berlin Gazette": 1,
-      "Daniel Webster": 1
-    }
-  },
-  {
-    "canonical_name": "Globe",
-    "aliases": [],
-    "first_chapter": 135,
-    "total_mentions": 4,
-    "per_chapter": {
-      "135": {
-        "mentions": 4,
-        "snippet": "\u201d \u2014_Captain Cowley\u2019s Voyage round the Globe, A."
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Ay Ay": 1,
-      "Berlin Gazette": 1,
-      "Daniel Webster": 1,
-      "Debell Bennett": 1,
-      "Extending the Spermaceti Whale": 1,
-      "Gothic Arch": 1,
-      "Grammar School": 1
-    }
-  },
-  {
     "canonical_name": "Lazarus",
     "aliases": [],
     "first_chapter": 2,
@@ -4016,12 +3894,12 @@
     "co_occurs_with": {
       "Sperm Whale": 2,
       "White Whale": 2,
-      "Captain Butler": 1,
-      "Captain Davis": 1,
-      "Captain Langsdorff": 1,
-      "Captain Pollard": 1,
-      "Cetacean History": 1,
-      "Commodore Davis": 1
+      "Alleghanian Ridge": 1,
+      "Black Sea": 1,
+      "Bulkington": 1,
+      "Cape Horn": 1,
+      "Jonah": 1,
+      "Landlord": 1
     }
   },
   {
@@ -4319,13 +4197,13 @@
     },
     "co_occurs_with": {
       "Sperm Whale": 3,
-      "Right Whale": 2,
       "Leviathan": 2,
-      "Beale": 1,
-      "Frederick Cuvier": 1,
-      "Garnery": 1,
-      "Greenland Justice": 1,
-      "Whaling Scenes": 1
+      "Right Whale": 2,
+      "Ahab": 1,
+      "China": 1,
+      "Cockatoo Point": 1,
+      "Java Head": 1,
+      "King Porus": 1
     }
   },
   {
@@ -4675,13 +4553,13 @@
     },
     "co_occurs_with": {
       "Ahab": 1,
-      "Ay Ay": 1,
-      "Berlin Gazette": 1,
-      "Daniel Webster": 1,
-      "Debell Bennett": 1,
-      "Extending the Spermaceti Whale": 1,
-      "Globe": 1,
-      "Gothic Arch": 1
+      "Moby Dick": 1,
+      "Mr. Starbuck": 1,
+      "Parsee": 1,
+      "Pequod": 1,
+      "Some": 1,
+      "Starbuck": 1,
+      "Stubb": 1
     }
   },
   {
@@ -4697,107 +4575,13 @@
     },
     "co_occurs_with": {
       "Ahab": 1,
-      "Ay Ay": 1,
-      "Berlin Gazette": 1,
-      "Daniel Webster": 1,
-      "Debell Bennett": 1,
-      "Extending the Spermaceti Whale": 1,
-      "Globe": 1,
-      "Gothic Arch": 1
-    }
-  },
-  {
-    "canonical_name": "Owen Chace",
-    "aliases": [
-      "Chace"
-    ],
-    "first_chapter": 45,
-    "total_mentions": 3,
-    "per_chapter": {
-      "45": {
-        "mentions": 1,
-        "snippet": "Owen Chace, who was chief mate of the Essex at the time of the tragedy;"
-      },
-      "135": {
-        "mentions": 2,
-        "snippet": "\u201d _By Owen Chace of"
-      }
-    },
-    "co_occurs_with": {
-      "Moby Dick": 2,
-      "Sperm Whale": 2,
-      "White Whale": 2,
-      "Ahab": 1,
-      "Ay Ay": 1,
-      "Berlin Gazette": 1,
-      "Daniel Webster": 1,
-      "Debell Bennett": 1
-    }
-  },
-  {
-    "canonical_name": "While",
-    "aliases": [],
-    "first_chapter": 135,
-    "total_mentions": 3,
-    "per_chapter": {
-      "135": {
-        "mentions": 3,
-        "snippet": "\u201cWhile you take in hand to school others, and to teach them by what"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Ay Ay": 1,
-      "Berlin Gazette": 1,
-      "Daniel Webster": 1,
-      "Debell Bennett": 1,
-      "Extending the Spermaceti Whale": 1,
-      "Globe": 1,
-      "Gothic Arch": 1
-    }
-  },
-  {
-    "canonical_name": "Which",
-    "aliases": [],
-    "first_chapter": 135,
-    "total_mentions": 3,
-    "per_chapter": {
-      "135": {
-        "mentions": 3,
-        "snippet": "\u201cWhich to secure, no skill of leach\u2019s art Mote him availle, but to"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Ay Ay": 1,
-      "Berlin Gazette": 1,
-      "Daniel Webster": 1,
-      "Debell Bennett": 1,
-      "Extending the Spermaceti Whale": 1,
-      "Globe": 1,
-      "Gothic Arch": 1
-    }
-  },
-  {
-    "canonical_name": "Thomas",
-    "aliases": [],
-    "first_chapter": 135,
-    "total_mentions": 3,
-    "per_chapter": {
-      "135": {
-        "mentions": 3,
-        "snippet": "\u201d \u2014_Thomas"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Ay Ay": 1,
-      "Berlin Gazette": 1,
-      "Daniel Webster": 1,
-      "Debell Bennett": 1,
-      "Extending the Spermaceti Whale": 1,
-      "Globe": 1,
-      "Gothic Arch": 1
+      "Moby Dick": 1,
+      "Mr. Starbuck": 1,
+      "Parsee": 1,
+      "Pequod": 1,
+      "Stand": 1,
+      "Starbuck": 1,
+      "Stubb": 1
     }
   },
   {
@@ -4820,14 +4604,14 @@
       }
     },
     "co_occurs_with": {
-      "Arsacidean": 1,
-      "Burton Constable": 1,
-      "Clifford Constable": 1,
-      "Icy Glen": 1,
-      "Ishmael": 1,
-      "King Tranquo": 1,
-      "Leviathanic Museum": 1,
-      "Life": 1
+      "Coenties Slip": 1,
+      "Contested Election": 1,
+      "New Testament": 1,
+      "Rockaway Beach": 1,
+      "Van Rensselaers": 1,
+      "Brother Jonathan": 1,
+      "Chinese Society": 1,
+      "Fast": 1
     }
   },
   {
@@ -4869,13 +4653,13 @@
     },
     "co_occurs_with": {
       "Cape Horn": 2,
-      "Animated Nature": 1,
-      "Bernard Germain": 1,
-      "Captain Colnett": 1,
-      "Frederick Cuvier": 1,
-      "Hindoo": 1,
-      "Jeremy Bentham": 1,
-      "Matse Avatar": 1
+      "Alleghanian Ridge": 1,
+      "Black Sea": 1,
+      "Bulkington": 1,
+      "Jonah": 1,
+      "Landlord": 1,
+      "New Zealand": 1,
+      "Peter Coffin": 1
     }
   },
   {
@@ -4949,11 +4733,11 @@
       "King": 2,
       "Queequeg": 2,
       "Sag Harbor": 2,
-      "Christians": 1,
-      "Czar Peter": 1,
-      "High Chief": 1,
       "Captain Ahab": 1,
-      "Capting": 1
+      "Capting": 1,
+      "Magnanimous Societies": 1,
+      "Moss": 1,
+      "New Bedford": 1
     }
   },
   {
@@ -4975,11 +4759,11 @@
       "High Priest": 2,
       "King": 2,
       "Queequeg": 2,
-      "Christians": 1,
-      "Czar Peter": 1,
-      "High Chief": 1,
       "Captain Ahab": 1,
-      "Capting": 1
+      "Capting": 1,
+      "Magnanimous Societies": 1,
+      "Moss": 1,
+      "New Bedford": 1
     }
   },
   {
@@ -5352,6 +5136,32 @@
     }
   },
   {
+    "canonical_name": "Natural History",
+    "aliases": [],
+    "first_chapter": 41,
+    "total_mentions": 3,
+    "per_chapter": {
+      "41": {
+        "mentions": 1,
+        "snippet": "For in his Natural History, the Baron"
+      },
+      "55": {
+        "mentions": 2,
+        "snippet": "Nor are the most conscientious compilations of Natural History for the"
+      }
+    },
+    "co_occurs_with": {
+      "Cape Horn": 2,
+      "Sperm Whale": 2,
+      "Ahab": 1,
+      "Hotel de Cluny": 1,
+      "Moby Dick": 1,
+      "West Passage": 1,
+      "White Whale": 1,
+      "Animated Nature": 1
+    }
+  },
+  {
     "canonical_name": "Polar",
     "aliases": [],
     "first_chapter": 42,
@@ -5715,13 +5525,13 @@
     },
     "co_occurs_with": {
       "Sperm Whale": 2,
-      "Beale": 1,
-      "Garnery": 1,
-      "Greenland Justice": 1,
-      "Right Whale": 1,
-      "Sperm Whales": 1,
-      "Whaling Scenes": 1,
-      "the Right Whale": 1
+      "Animated Nature": 1,
+      "Bernard Germain": 1,
+      "Cape Horn": 1,
+      "Captain Colnett": 1,
+      "Hindoo": 1,
+      "Jeremy Bentham": 1,
+      "Matse Avatar": 1
     }
   },
   {
@@ -5794,8 +5604,8 @@
       "Sperm Whale": 2,
       "Stubb": 2,
       "White Whale": 2,
-      "Brazil Banks": 1,
-      "Sperm Whaler": 1
+      "Captain Derick De": 1,
+      "Captain Derick De Deer": 1
     }
   },
   {

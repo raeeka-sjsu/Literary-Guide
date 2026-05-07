@@ -1,0 +1,34 @@
+{
+  "anthropic": {
+    "by_category": {
+      "spoiler_trap": {
+        "runs": 70,
+        "passes": 59,
+        "total_latency_ms": 1671448,
+        "pass_rate": 0.8428571428571429,
+        "avg_latency_ms": 23877
+      },
+      "analytical": {
+        "runs": 20,
+        "passes": 20,
+        "total_latency_ms": 105931,
+        "pass_rate": 1.0,
+        "avg_latency_ms": 5296
+      },
+      "refusal_or_edge": {
+        "runs": 10,
+        "passes": 10,
+        "total_latency_ms": 26719,
+        "pass_rate": 1.0,
+        "avg_latency_ms": 2671
+      }
+    },
+    "totals": {
+      "runs": 100,
+      "passes": 89,
+      "total_latency_ms": 1804098,
+      "pass_rate": 0.89,
+      "avg_latency_ms": 18040
+    }
+  }
+}

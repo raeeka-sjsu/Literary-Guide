@@ -503,6 +503,32 @@
       return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
     }
 
+    // Light markdown renderer for chat answers — handles bold, italic, headings,
+    // bullet lists, and line breaks. We escape HTML first, then unescape the
+    // markdown markers we want active.
+    function renderMarkdownLite(s) {
+      let h = escapeHtml(String(s));
+      // Headings (## Heading, ### Heading) -> bold paragraph (the chat
+      // doesn't really have heading hierarchy, but the bold treatment reads well).
+      h = h.replace(/^(#{2,6})\s+(.+)$/gm, '<strong>$2</strong>');
+      // Bold: **text** or __text__
+      h = h.replace(/\*\*([^\*\n]+?)\*\*/g, '<strong>$1</strong>');
+      h = h.replace(/__([^_\n]+?)__/g, '<strong>$1</strong>');
+      // Italic: *text* or _text_  (avoid matching **)
+      h = h.replace(/(^|[^\*])\*([^\*\n]+?)\*(?!\*)/g, '$1<em>$2</em>');
+      h = h.replace(/(^|[^_])_([^_\n]+?)_(?!_)/g, '$1<em>$2</em>');
+      // Bullet lists — naive: lines starting with "- " or "* " become <li>
+      // grouped together.
+      h = h.replace(/(?:^|\n)((?:[-*]\s.+(?:\n|$))+)/g, (match, block) => {
+        const items = block.trim().split(/\n/).map(line => line.replace(/^[-*]\s+/, "").trim());
+        return "\n<ul>" + items.map(it => `<li>${it}</li>`).join("") + "</ul>\n";
+      });
+      // Paragraphs / line breaks — convert remaining double newlines to <br><br>
+      h = h.replace(/\n{2,}/g, "<br><br>");
+      h = h.replace(/\n/g, "<br>");
+      return h;
+    }
+
     // Some Gutenberg files have parser quirks where chapter.number disagrees with the
     // title (e.g. Frankenstein's TOC bleed-through). The TITLE is what the user sees in
     // the dropdown, so it must be the source of truth for the spoiler boundary.
@@ -619,7 +645,7 @@
             chatList.appendChild(u);
             const b = document.createElement("div");
             b.className = "chat-msg bot";
-            b.textContent = t.answer || "(no answer)";
+            b.innerHTML = renderMarkdownLite(t.answer || "(no answer)");
             chatList.appendChild(b);
           });
           const note = document.createElement("div");
@@ -971,7 +997,7 @@
           <strong>[${i + 1}]</strong> chapter ${c.metadata.chapter} · score ${c.score.toFixed(3)}<br>
           ${escapeHtml((c.document || "").substring(0, 300))}${(c.document || "").length > 300 ? "…" : ""}
         </div>`).join("");
-      el.innerHTML = escapeHtml(answerText) + (citations
+      el.innerHTML = renderMarkdownLite(answerText) + (citations
         ? `<div class="citations"><details><summary>${data.chunks.length} cited passages</summary>${citations}</details></div>`
         : "");
       const list = document.getElementById("chat-messages");

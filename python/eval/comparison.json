@@ -1,0 +1,220 @@
+{
+  "per_provider": {
+    "ollama": {
+      "provider": "ollama",
+      "model": "llama3.2:3b",
+      "overall": {
+        "n": 60,
+        "passes": 48,
+        "rate": 0.8,
+        "latency_mean_ms": 7366,
+        "latency_median_ms": 6696,
+        "latency_p95_ms": 12398
+      },
+      "by_category": {
+        "spoiler_trap": {
+          "n": 30,
+          "passes": 25,
+          "rate": 0.8333333333333334,
+          "latency_mean_ms": 7185,
+          "latency_median_ms": 6794,
+          "latency_p95_ms": 10979
+        },
+        "analytical": {
+          "n": 20,
+          "passes": 19,
+          "rate": 0.95,
+          "latency_mean_ms": 8618,
+          "latency_median_ms": 8914,
+          "latency_p95_ms": 12509
+        },
+        "refusal_or_edge": {
+          "n": 10,
+          "passes": 4,
+          "rate": 0.4,
+          "latency_mean_ms": 5407,
+          "latency_median_ms": 5892,
+          "latency_p95_ms": 7012
+        }
+      },
+      "spoiler_leak_rate": 0.16666666666666666,
+      "spoiler_leak_count": 5,
+      "tokens": {
+        "input_total": 133468,
+        "output_total": 7994
+      },
+      "cost": {
+        "total_usd": 0.0,
+        "avg_per_query_usd": 0.0
+      }
+    },
+    "anthropic": {
+      "provider": "anthropic",
+      "model": "claude-haiku-4-5",
+      "overall": {
+        "n": 60,
+        "passes": 55,
+        "rate": 0.9166666666666666,
+        "latency_mean_ms": 4287,
+        "latency_median_ms": 4016,
+        "latency_p95_ms": 6828
+      },
+      "by_category": {
+        "spoiler_trap": {
+          "n": 30,
+          "passes": 25,
+          "rate": 0.8333333333333334,
+          "latency_mean_ms": 4153,
+          "latency_median_ms": 3704,
+          "latency_p95_ms": 6188
+        },
+        "analytical": {
+          "n": 20,
+          "passes": 20,
+          "rate": 1.0,
+          "latency_mean_ms": 5296,
+          "latency_median_ms": 5432,
+          "latency_p95_ms": 6828
+        },
+        "refusal_or_edge": {
+          "n": 10,
+          "passes": 10,
+          "rate": 1.0,
+          "latency_mean_ms": 2671,
+          "latency_median_ms": 2633,
+          "latency_p95_ms": 3277
+        }
+      },
+      "spoiler_leak_rate": 0.16666666666666666,
+      "spoiler_leak_count": 5,
+      "tokens": {
+        "input_total": 135883,
+        "output_total": 11166
+      },
+      "cost": {
+        "total_usd": 0.1534,
+        "avg_per_query_usd": 0.002556
+      }
+    },
+    "openai": {
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "overall": {
+        "n": 60,
+        "passes": 56,
+        "rate": 0.9333333333333333,
+        "latency_mean_ms": 3463,
+        "latency_median_ms": 3241,
+        "latency_p95_ms": 5224
+      },
+      "by_category": {
+        "spoiler_trap": {
+          "n": 30,
+          "passes": 26,
+          "rate": 0.8666666666666667,
+          "latency_mean_ms": 3539,
+          "latency_median_ms": 2978,
+          "latency_p95_ms": 5224
+        },
+        "analytical": {
+          "n": 20,
+          "passes": 20,
+          "rate": 1.0,
+          "latency_mean_ms": 3882,
+          "latency_median_ms": 3620,
+          "latency_p95_ms": 5216
+        },
+        "refusal_or_edge": {
+          "n": 10,
+          "passes": 10,
+          "rate": 1.0,
+          "latency_mean_ms": 2399,
+          "latency_median_ms": 2400,
+          "latency_p95_ms": 3275
+        }
+      },
+      "spoiler_leak_rate": 0.13333333333333333,
+      "spoiler_leak_count": 4,
+      "tokens": {
+        "input_total": 135883,
+        "output_total": 7714
+      },
+      "cost": {
+        "total_usd": 0.025,
+        "avg_per_query_usd": 0.000417
+      }
+    }
+  },
+  "divergence": {
+    "all_pass": [
+      "st-fr-1",
+      "st-dr-1",
+      "st-dr-2",
+      "st-je-2",
+      "st-ge-1",
+      "st-ge-2",
+      "st-tt-2",
+      "st-mb-1",
+      "st-mb-2",
+      "st-tm-1",
+      "st-tm-2",
+      "st-dg-1",
+      "st-dg-2",
+      "st-ww-1",
+      "st-lw-1",
+      "st-lw-2",
+      "st-ts-1",
+      "st-ts-2",
+      "st-oz-1",
+      "an-pp-2",
+      "an-fr-1",
+      "an-fr-2",
+      "an-dr-1",
+      "an-je-1",
+      "an-mb-1",
+      "an-tm-1",
+      "an-tm-2",
+      "an-dg-1",
+      "an-wh-1",
+      "an-wh-2",
+      "an-tt-1",
+      "an-cp-1",
+      "an-lw-1",
+      "an-hf-1",
+      "an-ts-1",
+      "an-oz-1",
+      "an-ww-1",
+      "an-ge-1",
+      "rf-tm-1",
+      "rf-ge-1",
+      "rf-je-1",
+      "rf-tt-1"
+    ],
+    "all_fail": [
+      "st-fr-2"
+    ],
+    "only_open_fails": [
+      "st-pp-2",
+      "st-je-1",
+      "st-hf-1",
+      "st-oz-2",
+      "an-pp-1",
+      "rf-pp-1",
+      "rf-fr-1",
+      "rf-mb-1",
+      "rf-dr-1",
+      "rf-cp-1",
+      "rf-lw-1"
+    ],
+    "only_open_passes": [
+      "st-pp-3"
+    ],
+    "mixed": [
+      "st-pp-1",
+      "st-tt-1",
+      "st-cp-1",
+      "st-cp-2",
+      "st-wh-1"
+    ]
+  }
+}

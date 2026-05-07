@@ -120,13 +120,13 @@
     },
     "co_occurs_with": {
       "Duncan": 20,
-      "Hawkeye": 17,
       "Uncas": 17,
+      "Hawkeye": 17,
       "Huron": 16,
       "Cora": 15,
       "Alice": 13,
-      "William Henry": 12,
-      "Magua": 12
+      "Magua": 12,
+      "William Henry": 11
     }
   },
   {
@@ -316,7 +316,7 @@
       "Duncan": 14,
       "Huron": 13,
       "Chingachgook": 10,
-      "Mohicans": 9,
+      "Mohicans": 8,
       "Mohican": 8,
       "Hurons": 8
     }
@@ -411,8 +411,8 @@
       "Huron": 12,
       "Chingachgook": 11,
       "Cora": 9,
-      "Delawares": 8,
-      "Mohicans": 8
+      "Alice": 8,
+      "Hurons": 8
     }
   },
   {
@@ -657,7 +657,7 @@
       "Hawkeye": 9,
       "Major Heyward": 7,
       "Magua": 7,
-      "David": 6,
+      "Uncas": 6,
       "Munro": 6
     }
   },
@@ -843,8 +843,8 @@
       "Duncan": 7,
       "Magua": 7,
       "Huron": 6,
-      "Cora": 5,
-      "Hurons": 5
+      "Hurons": 5,
+      "Cora": 5
     }
   },
   {
@@ -904,9 +904,9 @@
       "Uncas": 10,
       "Duncan": 8,
       "Huron": 7,
-      "Mohicans": 6,
       "Hurons": 6,
-      "Sagamore": 5
+      "Mohican": 5,
+      "Mohicans": 5
     }
   },
   {
@@ -964,7 +964,7 @@
       "Cora": 6,
       "Uncas": 6,
       "Hawkeye": 5,
-      "Delawares": 4
+      "Indians": 4
     }
   },
   {
@@ -1016,13 +1016,13 @@
     },
     "co_occurs_with": {
       "Heyward": 9,
-      "Hawkeye": 7,
-      "Uncas": 7,
       "Duncan": 7,
+      "Hawkeye": 7,
       "Huron": 7,
+      "Uncas": 7,
       "Magua": 5,
-      "Chingachgook": 4,
-      "Cora": 4
+      "Royal Americans": 4,
+      "Chingachgook": 4
     }
   },
   {
@@ -1237,7 +1237,7 @@
     "canonical_name": "Mohicans",
     "aliases": [],
     "first_chapter": 5,
-    "total_mentions": 36,
+    "total_mentions": 33,
     "per_chapter": {
       "5": {
         "mentions": 4,
@@ -1270,21 +1270,17 @@
       "21": {
         "mentions": 3,
         "snippet": "As Hawkeye and the Mohicans had, however, often traversed the mountains and"
-      },
-      "33": {
-        "mentions": 3,
-        "snippet": "the title of this book has undergone the changes of Mahicanni, Mohicans, and"
       }
     },
     "co_occurs_with": {
-      "Heyward": 9,
-      "Uncas": 9,
-      "Hawkeye": 8,
-      "Chingachgook": 6,
+      "Heyward": 8,
+      "Uncas": 8,
+      "Hawkeye": 7,
       "Duncan": 6,
+      "Chingachgook": 5,
       "Huron": 5,
-      "Cora": 4,
-      "Horican": 4
+      "Tis": 4,
+      "Hurons": 4
     }
   },
   {
@@ -1333,12 +1329,12 @@
     "co_occurs_with": {
       "Heyward": 9,
       "Cora": 6,
-      "William Henry": 6,
-      "Hawkeye": 5,
       "Alice": 5,
       "Montcalm": 5,
+      "William Henry": 5,
+      "Hawkeye": 5,
       "Huron": 5,
-      "Chingachgook": 4
+      "Major Heyward": 4
     }
   },
   {
@@ -1379,8 +1375,80 @@
       "Chingachgook": 5,
       "Duncan": 5,
       "Huron": 5,
+      "Hurons": 3,
+      "Indians": 3
+    }
+  },
+  {
+    "canonical_name": "Tis",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 24,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "\u2019Tis strange"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "\u201c\u2019Tis open before your eyes,\u201d returned the scout; \u201cand"
+      },
+      "14": {
+        "mentions": 5,
+        "snippet": "\u201c\u2019Tis not probable that any are as houseless as ourselves in this"
+      },
+      "17": {
+        "mentions": 3,
+        "snippet": "\u201c\u2019Tis well."
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "\u2019Tis but a shade, and yet it is not natural."
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "\u201c\u2019Tis the trail!"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "\u2019Tis wicked fabrication of the whites, and I"
+      }
+    },
+    "co_occurs_with": {
+      "Heyward": 7,
+      "Duncan": 5,
+      "Hawkeye": 5,
+      "Cora": 4,
+      "Mohicans": 4,
+      "Uncas": 4,
       "William Henry": 4,
-      "Delaware": 3
+      "Huron": 4
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 24,
+    "per_chapter": {
+      "5": {
+        "mentions": 14,
+        "snippet": "The suddenness of the flight of his guide, and the wild cries of the pursuers,"
+      },
+      "16": {
+        "mentions": 10,
+        "snippet": "The thistle is the order"
+      }
+    },
+    "co_occurs_with": {
+      "Heyward": 2,
+      "An Indian": 1,
+      "Delawares": 1,
+      "Did This": 1,
+      "Indians": 1,
+      "Iroquois": 1,
+      "Le Subtil": 1,
+      "Mohicans": 1
     }
   },
   {
@@ -1389,7 +1457,7 @@
       "William"
     ],
     "first_chapter": 1,
-    "total_mentions": 24,
+    "total_mentions": 23,
     "per_chapter": {
       "1": {
         "mentions": 2,
@@ -1442,93 +1510,17 @@
       "28": {
         "mentions": 1,
         "snippet": "slaughtered females of William Henry."
-      },
-      "33": {
-        "mentions": 1,
-        "snippet": "Glen\u2019s has a large village; and while William Henry, and even a fortress"
       }
     },
     "co_occurs_with": {
-      "Heyward": 12,
+      "Heyward": 11,
       "Montcalm": 7,
       "Huron": 7,
-      "Cora": 6,
-      "Hawkeye": 6,
-      "Munro": 6,
-      "Uncas": 6,
-      "Le Renard Subtil": 6
-    }
-  },
-  {
-    "canonical_name": "Tis",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 24,
-    "per_chapter": {
-      "4": {
-        "mentions": 4,
-        "snippet": "\u2019Tis strange"
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "\u201c\u2019Tis open before your eyes,\u201d returned the scout; \u201cand"
-      },
-      "14": {
-        "mentions": 5,
-        "snippet": "\u201c\u2019Tis not probable that any are as houseless as ourselves in this"
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "\u201c\u2019Tis well."
-      },
-      "20": {
-        "mentions": 3,
-        "snippet": "\u2019Tis but a shade, and yet it is not natural."
-      },
-      "21": {
-        "mentions": 3,
-        "snippet": "\u201c\u2019Tis the trail!"
-      },
-      "22": {
-        "mentions": 3,
-        "snippet": "\u2019Tis wicked fabrication of the whites, and I"
-      }
-    },
-    "co_occurs_with": {
-      "Heyward": 7,
+      "Le Renard Subtil": 6,
+      "Cora": 5,
       "Duncan": 5,
       "Hawkeye": 5,
-      "Cora": 4,
-      "Mohicans": 4,
-      "Uncas": 4,
-      "William Henry": 4,
-      "Le Renard Subtil": 4
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 24,
-    "per_chapter": {
-      "5": {
-        "mentions": 14,
-        "snippet": "The suddenness of the flight of his guide, and the wild cries of the pursuers,"
-      },
-      "16": {
-        "mentions": 10,
-        "snippet": "The thistle is the order"
-      }
-    },
-    "co_occurs_with": {
-      "Heyward": 2,
-      "An Indian": 1,
-      "Delawares": 1,
-      "Did This": 1,
-      "Indians": 1,
-      "Iroquois": 1,
-      "Le Subtil": 1,
-      "Mohicans": 1
+      "Uncas": 5
     }
   },
   {
@@ -1640,47 +1632,13 @@
     },
     "co_occurs_with": {
       "Delaware": 3,
+      "Great Spirit": 2,
+      "Huron": 2,
+      "Magua": 2,
       "Cora": 2,
       "Delawares": 2,
-      "Great Spirit": 2,
       "Hawkeye": 2,
-      "Heyward": 2,
-      "Manitou": 2,
-      "William Henry": 2
-    }
-  },
-  {
-    "canonical_name": "Horican",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 15,
-    "per_chapter": {
-      "14": {
-        "mentions": 6,
-        "snippet": "through the defile, to the shores of Horican."
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "Oswego and of the Horican will be forgotten."
-      },
-      "20": {
-        "mentions": 3,
-        "snippet": "clambering after the scout, until they reached the sandy shore of the Horican."
-      },
-      "33": {
-        "mentions": 3,
-        "snippet": "shores of the Horican."
-      }
-    },
-    "co_occurs_with": {
-      "Hawkeye": 4,
-      "Heyward": 4,
-      "Mohicans": 4,
-      "Uncas": 4,
-      "William Henry": 4,
-      "Chingachgook": 3,
-      "Lake George": 3,
-      "Munro": 3
+      "Heyward": 2
     }
   },
   {
@@ -1749,6 +1707,36 @@
       "Mohicans": 2,
       "Le Renard Subtil": 2,
       "Magua": 2
+    }
+  },
+  {
+    "canonical_name": "Horican",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 12,
+    "per_chapter": {
+      "14": {
+        "mentions": 6,
+        "snippet": "through the defile, to the shores of Horican."
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "Oswego and of the Horican will be forgotten."
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "clambering after the scout, until they reached the sandy shore of the Horican."
+      }
+    },
+    "co_occurs_with": {
+      "Hawkeye": 3,
+      "Heyward": 3,
+      "Mohicans": 3,
+      "Montcalm": 3,
+      "Uncas": 3,
+      "William Henry": 3,
+      "Duncan": 2,
+      "Lake George": 2
     }
   },
   {
@@ -1825,13 +1813,13 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 6,
       "Huron": 6,
       "Magua": 6,
-      "Uncas": 5,
+      "Heyward": 6,
       "Duncan": 5,
+      "Uncas": 5,
       "Cora": 4,
-      "David": 4,
+      "Indians": 4,
       "Delawares": 4
     }
   },
@@ -1926,13 +1914,13 @@
     },
     "co_occurs_with": {
       "Heyward": 8,
-      "Magua": 7,
       "Huron": 7,
-      "William Henry": 6,
+      "Magua": 7,
       "Duncan": 6,
+      "William Henry": 6,
       "Le Renard": 5,
-      "Tis": 4,
-      "David": 4
+      "Hawkeye": 4,
+      "Tis": 4
     }
   },
   {
@@ -1987,8 +1975,8 @@
       "Hawkeye": 2,
       "Heyward": 2,
       "Tamenund": 2,
-      "American Indian": 1,
-      "Chingachgook": 1
+      "Alice": 1,
+      "Are the Mingoes": 1
     }
   },
   {
@@ -2100,48 +2088,6 @@
     }
   },
   {
-    "canonical_name": "New York",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 7,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "neighboring province of New York, forming a natural passage across half the"
-      },
-      "5": {
-        "mentions": 1,
-        "snippet": "by the whites of New York."
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "Johnstown, New York, on the shores of Lake George."
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "Evidently the late De Witt Clinton, who died governor of New York in 1828."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "mocking-bird is not found so far north as the state of New York, where it has,"
-      },
-      "33": {
-        "mentions": 2,
-        "snippet": "remembered that the Dutch (who first settled New York), the English, and the"
-      }
-    },
-    "co_occurs_with": {
-      "Heyward": 5,
-      "William Henry": 5,
-      "Mohicans": 4,
-      "Uncas": 4,
-      "Cora": 3,
-      "Hawkeye": 3,
-      "Horican": 3,
-      "Lake George": 3
-    }
-  },
-  {
     "canonical_name": "Royal Americans",
     "aliases": [],
     "first_chapter": 4,
@@ -2225,14 +2171,14 @@
       }
     },
     "co_occurs_with": {
-      "American Indian": 1,
       "Chingachgook": 1,
       "Cora": 1,
       "David": 1,
       "Delaware": 1,
       "Delawares": 1,
       "Gray Head": 1,
-      "Great Spirit": 1
+      "Great Spirit": 1,
+      "Hawkeye": 1
     }
   },
   {
@@ -2384,6 +2330,44 @@
     }
   },
   {
+    "canonical_name": "New York",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 5,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "neighboring province of New York, forming a natural passage across half the"
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "by the whites of New York."
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Johnstown, New York, on the shores of Lake George."
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "Evidently the late De Witt Clinton, who died governor of New York in 1828."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "mocking-bird is not found so far north as the state of New York, where it has,"
+      }
+    },
+    "co_occurs_with": {
+      "William Henry": 4,
+      "Heyward": 4,
+      "Mohicans": 3,
+      "Uncas": 3,
+      "Montcalm": 3,
+      "Great Britain": 2,
+      "Lake George": 2,
+      "Cora": 2
+    }
+  },
+  {
     "canonical_name": "La Longue",
     "aliases": [],
     "first_chapter": 10,
@@ -2416,8 +2400,8 @@
       "Huron": 5,
       "Indians": 4,
       "Magua": 4,
-      "Le Renard Subtil": 3,
       "Hawkeye": 3,
+      "Le Renard Subtil": 3,
       "Alice": 3
     }
   },
@@ -2471,44 +2455,10 @@
       "Montcalm": 2,
       "Munro": 2,
       "William Henry": 2,
-      "Alice Graham": 1,
-      "Ask the French": 1,
-      "Cora": 1,
-      "Duncan Heyward": 1
-    }
-  },
-  {
-    "canonical_name": "Lake George",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 4,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "\u201d Lake George, as it is"
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "Johnstown, New York, on the shores of Lake George."
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "The beauties of Lake George are well known to every American tourist."
-      },
-      "33": {
-        "mentions": 1,
-        "snippet": "for \u201cLake George."
-      }
-    },
-    "co_occurs_with": {
-      "William Henry": 4,
-      "Hawkeye": 3,
-      "Heyward": 3,
-      "Horican": 3,
-      "Mohicans": 3,
-      "New York": 3,
-      "Uncas": 3,
-      "Chingachgook": 2
+      "Childe Harold": 1,
+      "Chingachgook": 1,
+      "Duncan": 1,
+      "Hawkeye": 1
     }
   },
   {
@@ -2790,6 +2740,36 @@
     }
   },
   {
+    "canonical_name": "Lake George",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "\u201d Lake George, as it is"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Johnstown, New York, on the shores of Lake George."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "The beauties of Lake George are well known to every American tourist."
+      }
+    },
+    "co_occurs_with": {
+      "William Henry": 3,
+      "New York": 2,
+      "Duncan": 2,
+      "Hawkeye": 2,
+      "Heyward": 2,
+      "Horican": 2,
+      "Let": 2,
+      "Mohicans": 2
+    }
+  },
+  {
     "canonical_name": "European",
     "aliases": [],
     "first_chapter": 1,
@@ -2882,11 +2862,11 @@
       "Huron": 3,
       "Indians": 3,
       "Duncan": 2,
+      "Hawkeye": 2,
       "Heyward": 2,
       "La Longue": 2,
       "Le Gros Serpent": 2,
-      "Le Renard Subtil": 2,
-      "William Henry": 2
+      "Le Renard Subtil": 2
     }
   },
   {

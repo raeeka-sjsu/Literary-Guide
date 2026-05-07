@@ -5,31 +5,19 @@
       "Pross"
     ],
     "first_chapter": 2,
-    "total_mentions": 444,
+    "total_mentions": 392,
     "per_chapter": {
       "2": {
         "mentions": 5,
         "snippet": "her child and Miss Pross with her; but, it never occurred to him to be"
       },
-      "3": {
-        "mentions": 3,
-        "snippet": "To this lodging he at once removed Lucie and her child, and Miss Pross:"
-      },
       "6": {
         "mentions": 117,
         "snippet": "\u201cMiss Pross at home?"
       },
-      "7": {
-        "mentions": 43,
-        "snippet": "For some months past, Miss Pross and Mr."
-      },
       "8": {
         "mentions": 65,
         "snippet": "Happily unconscious of the new calamity at home, Miss Pross threaded her"
-      },
-      "10": {
-        "mentions": 6,
-        "snippet": "day, and he knew Lucie to be out with Miss Pross."
       },
       "11": {
         "mentions": 3,
@@ -61,14 +49,14 @@
       }
     },
     "co_occurs_with": {
-      "Lorry": 12,
-      "Mr. Lorry": 12,
-      "Doctor Manette": 11,
-      "Charles Darnay": 9,
-      "Darnay": 6,
-      "Saint Antoine": 6,
-      "Madame Defarge": 6,
-      "Sydney Carton": 6
+      "Lorry": 10,
+      "Mr. Lorry": 10,
+      "Doctor Manette": 8,
+      "Charles Darnay": 5,
+      "Sydney Carton": 5,
+      "Saint Antoine": 4,
+      "Darnay": 3,
+      "Jarvis Lorry": 3
     }
   },
   {
@@ -76,20 +64,12 @@
     "aliases": [
       "Defarge"
     ],
-    "first_chapter": 3,
-    "total_mentions": 313,
+    "first_chapter": 5,
+    "total_mentions": 297,
     "per_chapter": {
-      "3": {
-        "mentions": 43,
-        "snippet": "\u201cMadame Defarge, surely!"
-      },
       "5": {
-        "mentions": 4,
-        "snippet": "Madame Defarge."
-      },
-      "6": {
-        "mentions": 10,
-        "snippet": "that was Madame Defarge--who leaned against the door-post, knitting, and"
+        "mentions": 41,
+        "snippet": "Madame Defarge, his wife, sat in the shop behind the counter as he"
       },
       "8": {
         "mentions": 2,
@@ -129,21 +109,21 @@
       }
     },
     "co_occurs_with": {
-      "Saint Antoine": 10,
-      "Doctor Manette": 8,
+      "Saint Antoine": 9,
       "Jacques Three": 8,
-      "Lorry": 8,
-      "Mr. Lorry": 8,
-      "Sydney Carton": 8,
-      "The Vengeance": 8,
-      "Miss Manette": 6
+      "Lorry": 6,
+      "Mr. Lorry": 6,
+      "Doctor Manette": 5,
+      "The Vengeance": 5,
+      "Monsieur Defarge": 4,
+      "Sydney Carton": 4
     }
   },
   {
     "canonical_name": "Lorry",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 197,
+    "total_mentions": 243,
     "per_chapter": {
       "1": {
         "mentions": 1,
@@ -154,24 +134,20 @@
         "snippet": "Lorry shivered, and retired to his seat by the fire."
       },
       "3": {
-        "mentions": 17,
-        "snippet": "Lorry when business hours came round, was this:--that he had no right to"
+        "mentions": 13,
+        "snippet": "Lorry, begged to ask him a few questions."
       },
       "4": {
-        "mentions": 4,
-        "snippet": "Lorry, the Doctor communicated under an injunction of secrecy on"
+        "mentions": 22,
+        "snippet": "Lorry, the passenger, shaking himself out"
       },
       "5": {
-        "mentions": 1,
-        "snippet": "Lorry--the owner of the riding-coat upon the"
+        "mentions": 8,
+        "snippet": "Lorry, as they began"
       },
       "6": {
-        "mentions": 3,
-        "snippet": "Lorry were the only men there, unconnected with the Tribunal, who"
-      },
-      "7": {
-        "mentions": 2,
-        "snippet": "Lorry) had become their daily retainer, and had his bed there every"
+        "mentions": 30,
+        "snippet": "Lorry had become the Doctor\u2019s friend, and the"
       },
       "8": {
         "mentions": 17,
@@ -223,21 +199,21 @@
       }
     },
     "co_occurs_with": {
-      "Mr. Lorry": 19,
-      "Doctor Manette": 17,
-      "Charles Darnay": 12,
-      "Miss Pross": 12,
-      "Lucie": 10,
-      "Tellson": 9,
-      "Darnay": 9,
-      "Sydney Carton": 9
+      "Mr. Lorry": 18,
+      "Doctor Manette": 13,
+      "Miss Pross": 10,
+      "Sydney Carton": 9,
+      "Jarvis Lorry": 7,
+      "Darnay": 7,
+      "Charles Darnay": 7,
+      "Madame Defarge": 6
     }
   },
   {
     "canonical_name": "Mr. Lorry",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 194,
+    "total_mentions": 241,
     "per_chapter": {
       "1": {
         "mentions": 1,
@@ -248,24 +224,20 @@
         "snippet": "objects, Mr."
       },
       "3": {
-        "mentions": 17,
-        "snippet": "One of the first considerations which arose in the business mind of Mr."
+        "mentions": 13,
+        "snippet": "wigged gentleman with the papers before him, sitting not far from Mr."
       },
       "4": {
-        "mentions": 4,
-        "snippet": "To Mr."
+        "mentions": 22,
+        "snippet": "Mr."
       },
       "5": {
-        "mentions": 1,
-        "snippet": "Who could that be with Mr."
+        "mentions": 8,
+        "snippet": "Thus, Monsieur Defarge, in a stern voice, to Mr."
       },
       "6": {
-        "mentions": 2,
-        "snippet": "As well as the prisoner could see, he and Mr."
-      },
-      "7": {
-        "mentions": 2,
-        "snippet": "Mr."
+        "mentions": 30,
+        "snippet": "business-absorption, Mr."
       },
       "8": {
         "mentions": 17,
@@ -317,14 +289,14 @@
       }
     },
     "co_occurs_with": {
-      "Lorry": 19,
-      "Doctor Manette": 17,
-      "Charles Darnay": 12,
-      "Miss Pross": 12,
-      "Lucie": 10,
-      "Tellson": 9,
-      "Darnay": 9,
-      "Sydney Carton": 9
+      "Lorry": 18,
+      "Doctor Manette": 13,
+      "Miss Pross": 10,
+      "Sydney Carton": 9,
+      "Jarvis Lorry": 7,
+      "Darnay": 7,
+      "Charles Darnay": 7,
+      "Madame Defarge": 6
     }
   },
   {
@@ -333,39 +305,23 @@
       "Manette"
     ],
     "first_chapter": 3,
-    "total_mentions": 113,
+    "total_mentions": 73,
     "per_chapter": {
       "3": {
         "mentions": 27,
         "snippet": "\u201cMiss Manette!"
       },
       "4": {
-        "mentions": 6,
-        "snippet": "\u201cMiss Manette, then!"
+        "mentions": 33,
+        "snippet": "In a very few minutes the waiter came in to announce that Miss Manette"
       },
       "5": {
-        "mentions": 3,
-        "snippet": "\u201cThe picturesque doctor\u2019s daughter, Miss Manette."
+        "mentions": 4,
+        "snippet": "Jarvis Lorry and Miss Manette, emerging from the wine-shop thus,"
       },
       "6": {
         "mentions": 6,
         "snippet": "\u201cAre all these footsteps destined to come to all of us, Miss Manette, or"
-      },
-      "10": {
-        "mentions": 11,
-        "snippet": "\u201cMiss"
-      },
-      "11": {
-        "mentions": 6,
-        "snippet": "lady is Miss Manette."
-      },
-      "12": {
-        "mentions": 15,
-        "snippet": "proposal to take Miss Manette to Vauxhall Gardens; that failing, to"
-      },
-      "13": {
-        "mentions": 36,
-        "snippet": "But the life I lead, Miss Manette, is not conducive to health."
       },
       "16": {
         "mentions": 3,
@@ -373,21 +329,21 @@
       }
     },
     "co_occurs_with": {
-      "Doctor Manette": 8,
-      "Lorry": 7,
-      "Mr. Lorry": 7,
-      "Mr. Stryver": 7,
-      "Stryver": 7,
-      "Lucie": 6,
-      "Madame Defarge": 6,
-      "Sydney Carton": 6
+      "Jarvis Lorry": 4,
+      "Lorry": 4,
+      "Mr. Jarvis Lorry": 4,
+      "Mr. Lorry": 4,
+      "Saint Antoine": 3,
+      "Monsieur Manette": 2,
+      "Royal George Hotel": 2,
+      "There": 2
     }
   },
   {
     "canonical_name": "Monseigneur",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 102,
+    "total_mentions": 65,
     "per_chapter": {
       "2": {
         "mentions": 6,
@@ -396,14 +352,6 @@
       "7": {
         "mentions": 39,
         "snippet": "Monseigneur, one of the great lords in power at the Court, held his"
-      },
-      "8": {
-        "mentions": 26,
-        "snippet": "Monseigneur of the Court--only the difference was, that these faces"
-      },
-      "9": {
-        "mentions": 11,
-        "snippet": "Nor was he; but, he had been expected with Monseigneur."
       },
       "23": {
         "mentions": 7,
@@ -415,37 +363,25 @@
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 5,
-      "Doctor Manette": 5,
-      "Lorry": 5,
-      "Mr. Lorry": 5,
-      "Cruncher": 4,
-      "Mr. Cruncher": 4,
-      "Monsieur Gabelle": 4,
-      "Darnay": 3
+      "Bank": 2,
+      "Charles Darnay": 2,
+      "Doctor Manette": 2,
+      "Lorry": 2,
+      "Lucie": 2,
+      "Monsieur Gabelle": 2,
+      "Mr. Lorry": 2,
+      "Bench Bar": 1
     }
   },
   {
     "canonical_name": "Cruncher",
     "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 81,
+    "first_chapter": 3,
+    "total_mentions": 56,
     "per_chapter": {
-      "1": {
-        "mentions": 15,
-        "snippet": "Cruncher\u2019s private lodging in Hanging-sword-alley,"
-      },
-      "2": {
-        "mentions": 4,
-        "snippet": "Cruncher\u2019s eyes seemed to get a little closer to one another, and to"
-      },
       "3": {
         "mentions": 3,
         "snippet": "Cruncher had by this time taken quite a lunch of rust off his"
-      },
-      "7": {
-        "mentions": 6,
-        "snippet": "Cruncher had discharged the"
       },
       "8": {
         "mentions": 18,
@@ -461,302 +397,14 @@
       }
     },
     "co_occurs_with": {
-      "Lorry": 7,
-      "Mr. Cruncher": 7,
-      "Mr. Lorry": 7,
-      "Charles Darnay": 6,
-      "Doctor Manette": 6,
-      "Miss Pross": 5,
-      "Jerry Cruncher": 4,
-      "La Force": 4
-    }
-  },
-  {
-    "canonical_name": "Mr. Cruncher",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 73,
-    "per_chapter": {
-      "1": {
-        "mentions": 13,
-        "snippet": "The scene was Mr."
-      },
-      "2": {
-        "mentions": 4,
-        "snippet": "Mr."
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "Mr."
-      },
-      "7": {
-        "mentions": 6,
-        "snippet": "For some months past, Miss Pross and Mr."
-      },
-      "8": {
-        "mentions": 18,
-        "snippet": "Mr."
-      },
-      "9": {
-        "mentions": 6,
-        "snippet": "Mr."
-      },
-      "14": {
-        "mentions": 23,
-        "snippet": "\u201cNow what do you think, Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Cruncher": 7,
-      "Lorry": 7,
-      "Mr. Lorry": 7,
-      "Charles Darnay": 6,
-      "Doctor Manette": 6,
-      "Miss Pross": 5,
-      "Jerry Cruncher": 4,
-      "La Force": 4
-    }
-  },
-  {
-    "canonical_name": "Tellson",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 71,
-    "per_chapter": {
-      "1": {
-        "mentions": 18,
-        "snippet": "Tellson\u2019s Bank by Temple Bar was an old-fashioned place, even in the"
-      },
-      "3": {
-        "mentions": 4,
-        "snippet": "watchman in his box at the door of Tellson\u2019s Bank, by Temple Bar, who"
-      },
-      "4": {
-        "mentions": 13,
-        "snippet": "reserved expression of Tellson\u2019s Bank."
-      },
-      "9": {
-        "mentions": 4,
-        "snippet": "at him, \u201cthat you have used the respectable and great house of Tellson\u2019s"
-      },
-      "12": {
-        "mentions": 7,
-        "snippet": "His way taking him past Tellson\u2019s, and he both banking at Tellson\u2019s and"
-      },
-      "14": {
-        "mentions": 4,
-        "snippet": "Tellson\u2019s side of the tides to the opposite shore."
-      },
-      "18": {
-        "mentions": 5,
-        "snippet": "fortnight, while you are in Warwickshire and thereabouts, even Tellson\u2019s"
-      },
-      "21": {
-        "mentions": 3,
-        "snippet": "Lorry came in late, from Tellson\u2019s, and sat himself down by Lucie and"
-      },
-      "24": {
-        "mentions": 13,
-        "snippet": "Monseigneur, in London, was Tellson\u2019s Bank."
-      }
-    },
-    "co_occurs_with": {
-      "Lorry": 9,
-      "Mr. Lorry": 9,
-      "Doctor Manette": 8,
-      "Charles Darnay": 6,
-      "Temple Bar": 5,
-      "Darnay": 5,
-      "Mr. Stryver": 5,
-      "Stryver": 5
-    }
-  },
-  {
-    "canonical_name": "Lucie",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 71,
-    "per_chapter": {
-      "2": {
-        "mentions": 10,
-        "snippet": "Lucie and her father!"
-      },
-      "3": {
-        "mentions": 13,
-        "snippet": "for Lucie and her child, without a moment\u2019s demur; but the great trust"
-      },
-      "4": {
-        "mentions": 4,
-        "snippet": "kept from the knowledge of Lucie was so well concealed from her, that"
-      },
-      "5": {
-        "mentions": 10,
-        "snippet": "During all that time Lucie was never"
-      },
-      "6": {
-        "mentions": 1,
-        "snippet": "\u201cMiss Lucie at home?"
-      },
-      "7": {
-        "mentions": 6,
-        "snippet": "\u201d cried Lucie."
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "He said he had been with Lucie"
-      },
-      "13": {
-        "mentions": 6,
-        "snippet": "He wrote a long letter to Lucie, showing her that he had known nothing"
-      },
-      "17": {
-        "mentions": 7,
-        "snippet": "Lucie was to be married to-morrow."
-      },
-      "24": {
-        "mentions": 11,
-        "snippet": "of little Lucie had been woven by the golden thread into the peaceful"
-      }
-    },
-    "co_occurs_with": {
-      "Doctor Manette": 10,
-      "Lorry": 10,
-      "Mr. Lorry": 10,
-      "Charles Darnay": 7,
-      "Darnay": 6,
-      "Jarvis Lorry": 6,
-      "Miss Manette": 6,
-      "Mr. Stryver": 6
-    }
-  },
-  {
-    "canonical_name": "Charles Darnay",
-    "aliases": [
-      "Charles"
-    ],
-    "first_chapter": 1,
-    "total_mentions": 58,
-    "per_chapter": {
-      "1": {
-        "mentions": 7,
-        "snippet": "\u201cI have no choice,\u201d said Charles Darnay."
-      },
-      "2": {
-        "mentions": 7,
-        "snippet": "the aforesaid, and over and over again aforesaid, Charles Darnay, stood"
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "this, and as he foresaw that even if it were all well with Charles, and"
-      },
-      "4": {
-        "mentions": 2,
-        "snippet": "to him to have Charles Darnay brought before the lawless Court, and"
-      },
-      "6": {
-        "mentions": 2,
-        "snippet": "put to the bar before Charles Darnay\u2019s name was called."
-      },
-      "7": {
-        "mentions": 5,
-        "snippet": "he had set himself, his promise was redeemed, he had saved Charles."
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "\u201cMonsieur Charles, whom I expect; is he arrived from England?"
-      },
-      "9": {
-        "mentions": 2,
-        "snippet": "He had been known in England as Charles Darnay."
-      },
-      "10": {
-        "mentions": 8,
-        "snippet": "Charles"
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "Charles Darnay."
-      },
-      "17": {
-        "mentions": 7,
-        "snippet": "love that Heaven has so blessed--my love for Charles, and Charles\u2019s love"
-      },
-      "18": {
-        "mentions": 2,
-        "snippet": "eyes looked on, Charles Darnay and Lucie Manette were happily married."
-      },
-      "20": {
-        "mentions": 3,
-        "snippet": "about him, which was new to the observation of Charles Darnay."
-      },
-      "24": {
-        "mentions": 8,
-        "snippet": "\u201cI wish I were going myself,\u201d said Charles Darnay, somewhat restlessly,"
-      }
-    },
-    "co_occurs_with": {
-      "Doctor Manette": 12,
-      "Lorry": 12,
-      "Mr. Lorry": 12,
-      "Miss Pross": 9,
-      "Darnay": 8,
-      "Lucie": 7,
-      "Cruncher": 6,
-      "La Force": 6
-    }
-  },
-  {
-    "canonical_name": "Stryver",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 56,
-    "per_chapter": {
-      "3": {
-        "mentions": 6,
-        "snippet": "Stryver (the prisoner\u2019s"
-      },
-      "4": {
-        "mentions": 5,
-        "snippet": "Stryver, stood gathered round Mr."
-      },
-      "5": {
-        "mentions": 8,
-        "snippet": "Stryver, already fast shouldering his way to a large and lucrative"
-      },
-      "10": {
-        "mentions": 2,
-        "snippet": "Stryver and Sydney Carton were"
-      },
-      "11": {
-        "mentions": 4,
-        "snippet": "Stryver, on that self-same night, or morning, to his"
-      },
-      "12": {
-        "mentions": 24,
-        "snippet": "Stryver having made up his mind to that magnanimous bestowal of good"
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "Stryver (after notifying to his jackal"
-      },
-      "21": {
-        "mentions": 4,
-        "snippet": "Stryver shouldered his way through the law, like some great engine"
-      },
-      "24": {
-        "mentions": 2,
-        "snippet": "Stryver on"
-      }
-    },
-    "co_occurs_with": {
-      "Doctor Manette": 9,
-      "Mr. Stryver": 9,
-      "Lorry": 8,
-      "Mr. Lorry": 8,
-      "Miss Manette": 7,
-      "Darnay": 6,
-      "Lucie": 6,
-      "Sydney Carton": 6
+      "Lorry": 4,
+      "Mr. Cruncher": 4,
+      "Mr. Lorry": 4,
+      "Doctor Manette": 3,
+      "Jerry": 3,
+      "Sydney Carton": 3,
+      "Madame Defarge": 3,
+      "Darnay": 2
     }
   },
   {
@@ -781,106 +429,48 @@
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 3,
       "Madame Defarge": 3,
-      "Monsieur the Marquis": 3,
       "Cruncher": 2,
       "Doctor Manette": 2,
       "Don": 2,
       "Lorry": 2,
-      "Monseigneur": 2
+      "Mr. Cruncher": 2,
+      "Mr. Lorry": 2,
+      "Republic": 2
     }
   },
   {
-    "canonical_name": "Mr. Stryver",
+    "canonical_name": "Mr. Cruncher",
     "aliases": [],
     "first_chapter": 3,
-    "total_mentions": 55,
+    "total_mentions": 50,
     "per_chapter": {
       "3": {
-        "mentions": 6,
-        "snippet": "My Lord inquired of Mr."
-      },
-      "4": {
-        "mentions": 5,
-        "snippet": "for the defence, and its counsel, Mr."
-      },
-      "5": {
-        "mentions": 8,
-        "snippet": "learned profession in its Bacchanalian propensities; neither was Mr."
-      },
-      "10": {
-        "mentions": 2,
-        "snippet": "Mr."
-      },
-      "11": {
-        "mentions": 4,
-        "snippet": "\u201cSydney,\u201d said Mr."
-      },
-      "12": {
-        "mentions": 24,
-        "snippet": "Mr."
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "On a day in August, when Mr."
-      },
-      "21": {
         "mentions": 3,
         "snippet": "Mr."
       },
-      "24": {
-        "mentions": 2,
-        "snippet": "Darnay, unable to restrain himself any longer, touched Mr."
+      "8": {
+        "mentions": 18,
+        "snippet": "Mr."
+      },
+      "9": {
+        "mentions": 6,
+        "snippet": "Mr."
+      },
+      "14": {
+        "mentions": 23,
+        "snippet": "\u201cNow what do you think, Mr."
       }
     },
     "co_occurs_with": {
-      "Doctor Manette": 9,
-      "Stryver": 9,
-      "Lorry": 8,
-      "Mr. Lorry": 8,
-      "Miss Manette": 7,
-      "Darnay": 6,
-      "Lucie": 6,
-      "Sydney Carton": 6
-    }
-  },
-  {
-    "canonical_name": "Monsieur Defarge",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 53,
-    "per_chapter": {
-      "5": {
-        "mentions": 27,
-        "snippet": "\u201d said Monsieur Defarge"
-      },
-      "6": {
-        "mentions": 9,
-        "snippet": "\u201d said Monsieur Defarge, looking down at the white head that"
-      },
-      "15": {
-        "mentions": 11,
-        "snippet": "There had been earlier drinking than usual in the wine-shop of Monsieur"
-      },
-      "16": {
-        "mentions": 4,
-        "snippet": "Monsieur Defarge alighted; knowing one or two"
-      },
-      "22": {
-        "mentions": 2,
-        "snippet": "knot of customers, and Monsieur Defarge said to madame his wife, in"
-      }
-    },
-    "co_occurs_with": {
-      "Madame Defarge": 5,
-      "Saint Antoine": 5,
-      "Jacques Three": 4,
-      "Miss Manette": 3,
+      "Cruncher": 4,
+      "Lorry": 4,
+      "Mr. Lorry": 4,
+      "Doctor Manette": 3,
+      "Jerry": 3,
       "Sydney Carton": 3,
-      "The Vengeance": 3,
-      "Good": 3,
-      "Doctor Manette": 2
+      "Madame Defarge": 3,
+      "Darnay": 2
     }
   },
   {
@@ -889,7 +479,7 @@
       "Doctor"
     ],
     "first_chapter": 1,
-    "total_mentions": 53,
+    "total_mentions": 48,
     "per_chapter": {
       "1": {
         "mentions": 1,
@@ -900,24 +490,12 @@
         "snippet": "\u201d said the Doctor, turning towards the window."
       },
       "3": {
-        "mentions": 1,
-        "snippet": "I come from Doctor Manette."
-      },
-      "4": {
-        "mentions": 2,
-        "snippet": "the man sitting as President had then informed Doctor Manette that"
-      },
-      "5": {
         "mentions": 3,
-        "snippet": "had stunned the Doctor\u2019s daughter into awaiting the result in idle"
+        "snippet": "father, Doctor Manette."
       },
       "6": {
-        "mentions": 4,
-        "snippet": "Under the President sat Doctor Manette,"
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "himself appeared, from overlooking a painter whom Doctor Manette had"
+        "mentions": 6,
+        "snippet": "The quiet lodgings of Doctor Manette were in a quiet street-corner not"
       },
       "8": {
         "mentions": 3,
@@ -938,10 +516,6 @@
       "12": {
         "mentions": 2,
         "snippet": "Lorry waited until ten; but, Doctor Manette not returning, and"
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "house of Doctor Manette."
       },
       "17": {
         "mentions": 4,
@@ -965,139 +539,199 @@
       }
     },
     "co_occurs_with": {
-      "Lorry": 17,
-      "Mr. Lorry": 17,
-      "Charles Darnay": 12,
-      "Miss Pross": 11,
-      "Lucie": 10,
-      "Darnay": 9,
-      "Mr. Stryver": 9,
-      "Stryver": 9
+      "Lorry": 13,
+      "Mr. Lorry": 13,
+      "Miss Pross": 8,
+      "Sydney Carton": 7,
+      "Charles Darnay": 6,
+      "Darnay": 5,
+      "Lucie": 5,
+      "Saint Antoine": 5
     }
   },
   {
-    "canonical_name": "Darnay",
+    "canonical_name": "Monsieur Defarge",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 5,
     "total_mentions": 44,
     "per_chapter": {
-      "3": {
+      "5": {
+        "mentions": 27,
+        "snippet": "\u201d said Monsieur Defarge"
+      },
+      "15": {
+        "mentions": 11,
+        "snippet": "There had been earlier drinking than usual in the wine-shop of Monsieur"
+      },
+      "16": {
+        "mentions": 4,
+        "snippet": "Monsieur Defarge alighted; knowing one or two"
+      },
+      "22": {
         "mentions": 2,
-        "snippet": "Darnay!"
-      },
-      "4": {
-        "mentions": 18,
-        "snippet": "Darnay had kissed her hand fervently and gratefully, and had turned"
-      },
-      "6": {
-        "mentions": 5,
-        "snippet": "Darnay"
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "Darnay."
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "\u201cTo return to poor Darnay,\u201d said Carton."
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "Darnay soon became"
-      },
-      "13": {
-        "mentions": 5,
-        "snippet": "Charles Darnay, alone in a cell, had sustained himself with no"
-      },
-      "20": {
-        "mentions": 3,
-        "snippet": "Darnay,\u201d said Carton, \u201cI wish we might be friends."
-      },
-      "21": {
-        "mentions": 1,
-        "snippet": "Darnay had once put in practice to \u201ccatch\u201d him, and on the"
-      },
-      "24": {
-        "mentions": 3,
-        "snippet": "Darnay?"
+        "snippet": "knot of customers, and Monsieur Defarge said to madame his wife, in"
       }
     },
     "co_occurs_with": {
-      "Doctor Manette": 9,
-      "Lorry": 9,
-      "Mr. Lorry": 9,
-      "Charles Darnay": 8,
-      "Mr. Carton": 7,
-      "Lucie": 6,
-      "Miss Pross": 6,
-      "Mr. Darnay": 6
+      "Jacques Three": 4,
+      "Madame Defarge": 4,
+      "Saint Antoine": 4,
+      "Miss Manette": 2,
+      "Good": 2,
+      "Gentlemen": 1,
+      "Hunger": 1,
+      "Jarvis Lorry": 1
     }
   },
   {
-    "canonical_name": "Mr. Carton",
-    "aliases": [
-      "Carton"
-    ],
-    "first_chapter": 3,
+    "canonical_name": "Tellson",
+    "aliases": [],
+    "first_chapter": 4,
     "total_mentions": 38,
     "per_chapter": {
-      "3": {
-        "mentions": 12,
-        "snippet": "counsel), whether they were next to try Mr."
-      },
       "4": {
-        "mentions": 12,
-        "snippet": "Nobody had made any acknowledgment of Mr."
-      },
-      "6": {
-        "mentions": 4,
-        "snippet": "Mr."
+        "mentions": 13,
+        "snippet": "reserved expression of Tellson\u2019s Bank."
       },
       "9": {
-        "mentions": 2,
-        "snippet": "\u201cYou say truly, Mr."
-      },
-      "10": {
-        "mentions": 2,
-        "snippet": "\u201cYou have seen Mr."
-      },
-      "13": {
         "mentions": 4,
-        "snippet": "\u201cMr."
+        "snippet": "at him, \u201cthat you have used the respectable and great house of Tellson\u2019s"
       },
-      "20": {
-        "mentions": 2,
-        "snippet": "\u201cI think, Charles, poor Mr."
+      "18": {
+        "mentions": 5,
+        "snippet": "fortnight, while you are in Warwickshire and thereabouts, even Tellson\u2019s"
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "Lorry came in late, from Tellson\u2019s, and sat himself down by Lucie and"
+      },
+      "24": {
+        "mentions": 13,
+        "snippet": "Monseigneur, in London, was Tellson\u2019s Bank."
       }
     },
     "co_occurs_with": {
-      "Darnay": 7,
-      "Charles Darnay": 6,
-      "Doctor Manette": 6,
+      "Lorry": 5,
+      "Mr. Lorry": 5,
+      "Doctor Manette": 4,
+      "Darnay": 3,
+      "Bank": 2,
+      "Charles Darnay": 2,
+      "Miss Pross": 2,
+      "Alexandre Manette": 2
+    }
+  },
+  {
+    "canonical_name": "Lucie",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 38,
+    "per_chapter": {
+      "2": {
+        "mentions": 10,
+        "snippet": "Lucie and her father!"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "\u201cMiss Lucie at home?"
+      },
+      "12": {
+        "mentions": 3,
+        "snippet": "He said he had been with Lucie"
+      },
+      "13": {
+        "mentions": 6,
+        "snippet": "He wrote a long letter to Lucie, showing her that he had known nothing"
+      },
+      "17": {
+        "mentions": 7,
+        "snippet": "Lucie was to be married to-morrow."
+      },
+      "24": {
+        "mentions": 11,
+        "snippet": "of little Lucie had been woven by the golden thread into the peaceful"
+      }
+    },
+    "co_occurs_with": {
       "Lorry": 6,
       "Mr. Lorry": 6,
-      "La Force": 5,
-      "Miss Manette": 5,
-      "Mr. Darnay": 5
+      "Doctor Manette": 5,
+      "Charles Darnay": 4,
+      "Darnay": 3,
+      "Jarvis Lorry": 3,
+      "Miss Pross": 3,
+      "Sydney Carton": 3
+    }
+  },
+  {
+    "canonical_name": "Charles Darnay",
+    "aliases": [
+      "Charles"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 35,
+    "per_chapter": {
+      "1": {
+        "mentions": 7,
+        "snippet": "\u201cI have no choice,\u201d said Charles Darnay."
+      },
+      "2": {
+        "mentions": 6,
+        "snippet": "\u201cCharles."
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "towards Charles Darnay, the same singular look that had been upon it"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "Charles Darnay."
+      },
+      "17": {
+        "mentions": 7,
+        "snippet": "love that Heaven has so blessed--my love for Charles, and Charles\u2019s love"
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "eyes looked on, Charles Darnay and Lucie Manette were happily married."
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "about him, which was new to the observation of Charles Darnay."
+      },
+      "24": {
+        "mentions": 8,
+        "snippet": "\u201cI wish I were going myself,\u201d said Charles Darnay, somewhat restlessly,"
+      }
+    },
+    "co_occurs_with": {
+      "Lorry": 7,
+      "Mr. Lorry": 7,
+      "Doctor Manette": 6,
+      "Miss Pross": 5,
+      "Lucie": 4,
+      "Darnay": 3,
+      "Mr. Darnay": 3,
+      "Jarvis Lorry": 2
     }
   },
   {
     "canonical_name": "Saint Antoine",
     "aliases": [],
     "first_chapter": 5,
-    "total_mentions": 35,
+    "total_mentions": 33,
     "per_chapter": {
       "5": {
-        "mentions": 1,
-        "snippet": "the garret of Saint Antoine, she had been true to her duties."
+        "mentions": 2,
+        "snippet": "in the suburb of Saint Antoine, in Paris, where it was spilled."
       },
       "6": {
         "mentions": 1,
         "snippet": "dismal house by the wine-shop, in the suburb of Saint Antoine in Paris."
       },
       "7": {
-        "mentions": 4,
-        "snippet": "the Section of Saint Antoine."
+        "mentions": 1,
+        "snippet": "fine linen, there was a flutter in the air that fanned Saint Antoine and"
       },
       "8": {
         "mentions": 1,
@@ -1133,56 +767,14 @@
       }
     },
     "co_occurs_with": {
-      "Madame Defarge": 10,
-      "Doctor Manette": 7,
-      "Lorry": 7,
-      "Mr. Lorry": 7,
+      "Madame Defarge": 9,
       "Jacques Three": 7,
-      "Sydney Carton": 7,
-      "Miss Pross": 6,
-      "The Vengeance": 6
-    }
-  },
-  {
-    "canonical_name": "Jerry",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 33,
-    "per_chapter": {
-      "2": {
-        "mentions": 11,
-        "snippet": "Is it Jerry?"
-      },
-      "3": {
-        "mentions": 8,
-        "snippet": "now reappeared, and beckoned to Jerry: who, in the slackened interest,"
-      },
-      "6": {
-        "mentions": 4,
-        "snippet": "Lorry, escorted by Jerry, high-booted and bearing a lantern, set"
-      },
-      "8": {
-        "mentions": 3,
-        "snippet": "\u201d cried Jerry."
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "and Jerry, who were at liberty to leave the city, should leave it at"
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "I intend to take Jerry."
-      }
-    },
-    "co_occurs_with": {
       "Lorry": 6,
       "Mr. Lorry": 6,
-      "Charles Darnay": 5,
       "Doctor Manette": 5,
-      "Miss Pross": 5,
-      "Cruncher": 4,
-      "Lucie": 4,
-      "Mr. Cruncher": 4
+      "Monsieur Defarge": 4,
+      "Miss Pross": 4,
+      "Sydney Carton": 4
     }
   },
   {
@@ -1229,90 +821,68 @@
     "co_occurs_with": {
       "Madame Defarge": 8,
       "Saint Antoine": 7,
-      "The Vengeance": 6,
       "Lorry": 5,
       "Mr. Lorry": 5,
-      "Sydney Carton": 5,
-      "Doctor Manette": 4,
-      "Monsieur Defarge": 4
-    }
-  },
-  {
-    "canonical_name": "Monsieur Gabelle",
-    "aliases": [
-      "Gabelle"
-    ],
-    "first_chapter": 8,
-    "total_mentions": 33,
-    "per_chapter": {
-      "8": {
-        "mentions": 7,
-        "snippet": "Put him aside, Monsieur"
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "and what portended the swift hoisting-up of Monsieur Gabelle behind"
-      },
-      "23": {
-        "mentions": 21,
-        "snippet": "Monsieur Gabelle,"
-      },
-      "24": {
-        "mentions": 2,
-        "snippet": "Monsieur Gabelle had held the impoverished and involved estate"
-      }
-    },
-    "co_occurs_with": {
-      "Monseigneur": 4,
-      "Charles Darnay": 3,
+      "Monsieur Defarge": 4,
+      "The Vengeance": 4,
       "Doctor Manette": 3,
-      "Lorry": 3,
-      "Mr. Lorry": 3,
-      "Darnay": 2,
-      "Jerry": 2,
-      "Old England": 2
+      "Sydney Carton": 3
     }
   },
   {
-    "canonical_name": "Mr. Darnay",
-    "aliases": [],
+    "canonical_name": "Sydney Carton",
+    "aliases": [
+      "Carton"
+    ],
     "first_chapter": 3,
-    "total_mentions": 32,
+    "total_mentions": 27,
     "per_chapter": {
       "3": {
-        "mentions": 2,
-        "snippet": "\u201cMr."
-      },
-      "4": {
-        "mentions": 18,
-        "snippet": "Mr."
+        "mentions": 6,
+        "snippet": "Carton (name of my learned"
       },
       "6": {
-        "mentions": 5,
-        "snippet": "Mr."
+        "mentions": 3,
+        "snippet": "Sydney Carton struck in, in his moody way."
       },
-      "10": {
+      "8": {
+        "mentions": 5,
+        "snippet": "The speaker who struck in, was Sydney Carton."
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "Cruncher knuckled his forehead, as Sydney Carton and the spy"
+      },
+      "11": {
         "mentions": 1,
-        "snippet": "work besides mere dictionary knowledge, young Mr."
+        "snippet": "Sydney Carton came and took her up."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "You see--Sydney Carton,"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "features, and a cautionary finger on his lip, Sydney Carton."
       },
       "20": {
         "mentions": 3,
-        "snippet": "\u201cMr."
+        "snippet": "offer his congratulations, was Sydney Carton."
       },
-      "24": {
-        "mentions": 3,
-        "snippet": "\u201cWhy, Mr."
+      "21": {
+        "mentions": 1,
+        "snippet": "The Echoes rarely answered to the actual tread of Sydney Carton."
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 6,
+      "Lorry": 9,
+      "Mr. Lorry": 9,
+      "Doctor Manette": 7,
       "Darnay": 6,
-      "Doctor Manette": 5,
-      "Lorry": 5,
       "Mr. Carton": 5,
-      "Mr. Lorry": 5,
-      "Lucie": 4,
-      "Miss Manette": 4
+      "Miss Pross": 5,
+      "Saint Antoine": 4,
+      "Madame Defarge": 4
     }
   },
   {
@@ -1343,14 +913,42 @@
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 4,
-      "Doctor Manette": 4,
-      "La Force": 3,
-      "La Guillotine": 3,
       "Lorry": 3,
       "Mr. Lorry": 3,
-      "Tellson": 3,
-      "Darnay": 3
+      "Doctor Manette": 3,
+      "Beauvais": 2,
+      "Jarvis Lorry": 2,
+      "Miss Manette": 2,
+      "Mr. Jarvis Lorry": 2,
+      "Madame Defarge": 2
+    }
+  },
+  {
+    "canonical_name": "Monsieur Gabelle",
+    "aliases": [
+      "Gabelle"
+    ],
+    "first_chapter": 23,
+    "total_mentions": 23,
+    "per_chapter": {
+      "23": {
+        "mentions": 21,
+        "snippet": "Monsieur Gabelle,"
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "Monsieur Gabelle had held the impoverished and involved estate"
+      }
+    },
+    "co_occurs_with": {
+      "Monseigneur": 2,
+      "Bank": 1,
+      "Bench Bar": 1,
+      "Charles Darnay": 1,
+      "Darnay": 1,
+      "Doctor Manette": 1,
+      "Evil One": 1,
+      "High Exchange": 1
     }
   },
   {
@@ -1358,39 +956,115 @@
     "aliases": [
       "Attorney"
     ],
-    "first_chapter": 2,
-    "total_mentions": 26,
+    "first_chapter": 3,
+    "total_mentions": 22,
     "per_chapter": {
-      "2": {
-        "mentions": 4,
-        "snippet": "that Mr."
-      },
       "3": {
         "mentions": 22,
         "snippet": "Mr."
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 2,
-      "Cruncher": 2,
-      "Doctor Manette": 2,
-      "Jarvis Lorry": 2,
-      "Jerry": 2,
-      "Judge": 2,
-      "La Force": 2,
-      "Lorry": 2
+      "Calais": 1,
+      "Chief Secretary": 1,
+      "Cruncher": 1,
+      "Darnay": 1,
+      "Did": 1,
+      "Doctor Manette": 1,
+      "General": 1,
+      "George Washington": 1
+    }
+  },
+  {
+    "canonical_name": "Darnay",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 22,
+    "per_chapter": {
+      "3": {
+        "mentions": 2,
+        "snippet": "Darnay!"
+      },
+      "6": {
+        "mentions": 5,
+        "snippet": "Darnay"
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201cTo return to poor Darnay,\u201d said Carton."
+      },
+      "13": {
+        "mentions": 5,
+        "snippet": "Charles Darnay, alone in a cell, had sustained himself with no"
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "Darnay,\u201d said Carton, \u201cI wish we might be friends."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "Darnay had once put in practice to \u201ccatch\u201d him, and on the"
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "Darnay?"
+      }
+    },
+    "co_occurs_with": {
+      "Lorry": 7,
+      "Mr. Lorry": 7,
+      "Sydney Carton": 6,
+      "Doctor Manette": 5,
+      "Mr. Carton": 5,
+      "Mr. Darnay": 4,
+      "Jarvis Lorry": 3,
+      "Jerry": 3
+    }
+  },
+  {
+    "canonical_name": "Jerry",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 22,
+    "per_chapter": {
+      "3": {
+        "mentions": 8,
+        "snippet": "now reappeared, and beckoned to Jerry: who, in the slackened interest,"
+      },
+      "6": {
+        "mentions": 4,
+        "snippet": "Lorry, escorted by Jerry, high-booted and bearing a lantern, set"
+      },
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201d cried Jerry."
+      },
+      "14": {
+        "mentions": 3,
+        "snippet": "and Jerry, who were at liberty to leave the city, should leave it at"
+      },
+      "24": {
+        "mentions": 4,
+        "snippet": "I intend to take Jerry."
+      }
+    },
+    "co_occurs_with": {
+      "Lorry": 5,
+      "Mr. Lorry": 5,
+      "Doctor Manette": 4,
+      "Cruncher": 3,
+      "Darnay": 3,
+      "Mr. Cruncher": 3,
+      "Mr. Darnay": 3,
+      "Sydney Carton": 3
     }
   },
   {
     "canonical_name": "Good",
     "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 25,
+    "first_chapter": 9,
+    "total_mentions": 22,
     "per_chapter": {
-      "6": {
-        "mentions": 3,
-        "snippet": "\u201cGood day!"
-      },
       "9": {
         "mentions": 6,
         "snippet": "\u201cGood night, citizen,\u201d said Sydney Carton, pausing in going by; for, the"
@@ -1409,26 +1083,22 @@
       }
     },
     "co_occurs_with": {
-      "Madame Defarge": 4,
-      "Charles Darnay": 3,
-      "Monsieur Defarge": 3,
-      "North Tower": 3,
-      "Saint Antoine": 3,
-      "Sydney Carton": 3,
       "Jacques Three": 3,
-      "Alexandre Manette": 2
+      "Madame Defarge": 3,
+      "Mr. Barsad": 2,
+      "North Tower": 2,
+      "Monsieur Defarge": 2,
+      "Saint Antoine": 2,
+      "Alexandre Manette": 1,
+      "Citizen Manette": 1
     }
   },
   {
     "canonical_name": "The",
     "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 25,
+    "first_chapter": 8,
+    "total_mentions": 21,
     "per_chapter": {
-      "4": {
-        "mentions": 4,
-        "snippet": "The friends of the acquitted prisoner had dispersed, under the"
-      },
       "8": {
         "mentions": 7,
         "snippet": "\u201cThe gracious and merciful Heavens forbid!"
@@ -1439,98 +1109,14 @@
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 2,
-      "Doctor Manette": 2,
-      "La Guillotine": 2,
-      "Lorry": 2,
-      "Mr. Lorry": 2,
-      "National Razor": 2,
-      "Not": 2,
-      "Royal George": 2
-    }
-  },
-  {
-    "canonical_name": "The Vengeance",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 23,
-    "per_chapter": {
-      "3": {
-        "mentions": 4,
-        "snippet": "The Vengeance."
-      },
-      "5": {
-        "mentions": 1,
-        "snippet": "The Vengeance."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "It was The Vengeance who, amidst the warm commendations of the audience,"
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "smiling to The Vengeance."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "\u201d said The Vengeance, and embraced her."
-      },
-      "14": {
-        "mentions": 5,
-        "snippet": "Madame Defarge held darkly ominous council with The Vengeance and"
-      },
-      "15": {
-        "mentions": 4,
-        "snippet": "fore-most chairs, stands The Vengeance, looking about for her friend."
-      },
-      "22": {
-        "mentions": 6,
-        "snippet": "already earned the complimentary name of The Vengeance."
-      }
-    },
-    "co_occurs_with": {
-      "Madame Defarge": 8,
-      "Jacques Three": 6,
-      "Saint Antoine": 6,
-      "Doctor Manette": 5,
-      "Lorry": 5,
-      "Mr. Lorry": 5,
-      "Sydney Carton": 5,
-      "Miss Manette": 4
-    }
-  },
-  {
-    "canonical_name": "Monsieur the Marquis",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 20,
-    "per_chapter": {
-      "7": {
-        "mentions": 5,
-        "snippet": "\u201cPardon, Monsieur the Marquis!"
-      },
-      "8": {
-        "mentions": 5,
-        "snippet": "A blush on the countenance of Monsieur the Marquis was"
-      },
-      "9": {
-        "mentions": 7,
-        "snippet": "It was a heavy mass of building, that chateau of Monsieur the Marquis,"
-      },
-      "16": {
-        "mentions": 3,
-        "snippet": "the chateau of Monsieur the Marquis, now in his grave, listened to"
-      }
-    },
-    "co_occurs_with": {
-      "Charles Darnay": 4,
-      "Cruncher": 3,
-      "Doctor Manette": 3,
-      "Lorry": 3,
-      "Monseigneur": 3,
-      "Mr. Cruncher": 3,
-      "Mr. Lorry": 3,
-      "Saint Antoine": 3
+      "Madame Defarge": 2,
+      "Saint Antoine": 2,
+      "Ace": 1,
+      "Antiquity": 1,
+      "Come": 1,
+      "Conciergerie": 1,
+      "Cruncher": 1,
+      "Doctor Manette": 1
     }
   },
   {
@@ -1549,152 +1135,14 @@
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 2,
-      "Cruncher": 2,
-      "Darnay": 2,
-      "Doctor Manette": 2,
-      "Lorry": 2,
-      "Lucie": 2,
-      "Miss Pross": 2,
-      "Mr. Cruncher": 2
-    }
-  },
-  {
-    "canonical_name": "Sydney Carton",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 19,
-    "per_chapter": {
-      "5": {
-        "mentions": 2,
-        "snippet": "among such as were interested in the matter, that although Sydney Carton"
-      },
-      "6": {
-        "mentions": 1,
-        "snippet": "Sydney Carton struck in, in his moody way."
-      },
-      "8": {
-        "mentions": 5,
-        "snippet": "The speaker who struck in, was Sydney Carton."
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "Cruncher knuckled his forehead, as Sydney Carton and the spy"
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "Stryver and Sydney Carton were"
-      },
-      "11": {
-        "mentions": 1,
-        "snippet": "Sydney Carton came and took her up."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "You see--Sydney Carton,"
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "features, and a cautionary finger on his lip, Sydney Carton."
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "\u201cOr you to me,\u201d says Sydney Carton."
-      },
-      "20": {
-        "mentions": 2,
-        "snippet": "offer his congratulations, was Sydney Carton."
-      },
-      "21": {
-        "mentions": 1,
-        "snippet": "The Echoes rarely answered to the actual tread of Sydney Carton."
-      }
-    },
-    "co_occurs_with": {
-      "Doctor Manette": 9,
-      "Lorry": 9,
-      "Mr. Lorry": 9,
-      "Madame Defarge": 8,
-      "Saint Antoine": 7,
-      "Miss Manette": 6,
-      "Mr. Stryver": 6,
-      "Stryver": 6
-    }
-  },
-  {
-    "canonical_name": "Republic",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 19,
-    "per_chapter": {
-      "6": {
-        "mentions": 6,
-        "snippet": "as an emigrant, whose life was forfeit to the Republic, under the decree"
-      },
-      "8": {
-        "mentions": 3,
-        "snippet": "Republic."
-      },
-      "9": {
-        "mentions": 4,
-        "snippet": "\u201cHow goes the Republic?"
-      },
-      "10": {
-        "mentions": 3,
-        "snippet": "physician of the Republic would deserve better still of the Republic by"
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "am not unwilling to die, if the Republic which is to do so much good"
-      }
-    },
-    "co_occurs_with": {
-      "Doctor Manette": 5,
-      "Sydney Carton": 5,
-      "Alexandre Manette": 4,
-      "Charles Darnay": 4,
-      "Darnay": 4,
-      "Lorry": 4,
-      "Madame Defarge": 4,
-      "Mr. Carton": 4
-    }
-  },
-  {
-    "canonical_name": "Don",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 18,
-    "per_chapter": {
-      "2": {
-        "mentions": 4,
-        "snippet": "\u201cDon\u2019t look!"
-      },
-      "8": {
-        "mentions": 5,
-        "snippet": "\u201cDon\u2019t call me Solomon."
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "\u201cDon\u2019t prevaricate,\u201d said Mr."
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "\u201cDon\u2019t recall her to herself,\u201d he said, softly, to the latter, \u201cshe is"
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "\u201cDon\u2019t be afraid to hear me."
-      }
-    },
-    "co_occurs_with": {
-      "Doctor Manette": 5,
-      "Lorry": 5,
-      "Mr. Lorry": 5,
-      "Sydney Carton": 4,
-      "Charles Darnay": 3,
-      "Cruncher": 3,
-      "La Force": 3,
-      "Miss Pross": 3
+      "Calais": 1,
+      "Chief Secretary": 1,
+      "Cruncher": 1,
+      "Darnay": 1,
+      "Did": 1,
+      "Doctor Manette": 1,
+      "George Washington": 1,
+      "Jarvis Lorry": 1
     }
   },
   {
@@ -1739,231 +1187,21 @@
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 3,
-      "Doctor Manette": 3,
       "Lorry": 3,
-      "Lucie": 3,
       "Mr. Lorry": 3,
       "Jarvis Lorry": 2,
-      "Jerry": 2,
-      "La Force": 2
-    }
-  },
-  {
-    "canonical_name": "La Force",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 17,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "prison of La Force."
-      },
-      "2": {
-        "mentions": 5,
-        "snippet": "\u201cLa Force!"
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "It was dated from La Force, within an hour."
-      },
-      "4": {
-        "mentions": 2,
-        "snippet": "scene of carnage to the prison of La Force."
-      },
-      "6": {
-        "mentions": 2,
-        "snippet": "So at last began the Evening Paper at La Force."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "It was ten o\u2019clock at night when he stood before the prison of La Force,"
-      },
-      "13": {
-        "mentions": 2,
-        "snippet": "different man from the prisoner, who had walked to and fro at La Force,"
-      }
-    },
-    "co_occurs_with": {
-      "Doctor Manette": 7,
-      "Lorry": 7,
-      "Mr. Lorry": 7,
-      "Charles Darnay": 6,
-      "Jarvis Lorry": 5,
-      "Lucie": 5,
-      "Darnay": 5,
-      "Mr. Carton": 5
-    }
-  },
-  {
-    "canonical_name": "Monsieur Manette",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 16,
-    "per_chapter": {
-      "4": {
-        "mentions": 6,
-        "snippet": "Like Monsieur Manette, your father, the"
-      },
-      "5": {
-        "mentions": 2,
-        "snippet": "\u201cDo you make a show of Monsieur Manette?"
-      },
-      "6": {
-        "mentions": 8,
-        "snippet": "\u201cMonsieur Manette, do you remember nothing of me?"
-      }
-    },
-    "co_occurs_with": {
-      "Doctor Manette": 3,
-      "Jarvis Lorry": 3,
-      "Lorry": 3,
-      "Lucie": 3,
-      "Miss Manette": 3,
-      "Mr. Jarvis Lorry": 3,
-      "Mr. Lorry": 3,
-      "Charles Darnay": 2
-    }
-  },
-  {
-    "canonical_name": "House",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 16,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "moreover, in the moral attribute that the partners in the House were"
-      },
-      "12": {
-        "mentions": 4,
-        "snippet": "The House itself, magnificently reading"
-      },
-      "24": {
-        "mentions": 8,
-        "snippet": "penitential den once set apart for interviews with the House, was now"
-      }
-    },
-    "co_occurs_with": {
-      "Doctor Manette": 3,
-      "Lorry": 3,
-      "Mr. Lorry": 3,
-      "Tellson": 3,
-      "Temple Bar": 3,
+      "Mr. Jarvis Lorry": 2,
+      "Tellson": 2,
       "Charles Darnay": 2,
-      "Lucie": 2,
-      "Mr. Stryver": 2
-    }
-  },
-  {
-    "canonical_name": "Young Jerry",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 16,
-    "per_chapter": {
-      "14": {
-        "mentions": 16,
-        "snippet": "\u201cYoung Jerry,\u201d said Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Citizen Doctor": 1,
-      "Citizeness Defarge": 1,
-      "Cruncher": 1,
-      "English Twopence": 1,
-      "Fleet": 1,
-      "Izaak Walton": 1,
-      "Jacques Three": 1,
-      "Jeremiah Cruncher": 1
-    }
-  },
-  {
-    "canonical_name": "Old Bailey",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 15,
-    "per_chapter": {
-      "2": {
-        "mentions": 5,
-        "snippet": "\u201cYou know the Old Bailey well, no doubt?"
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "until he was clear of the Old Bailey; for, the crowd came pouring out"
-      },
-      "5": {
-        "mentions": 3,
-        "snippet": "A favourite at the Old Bailey, and eke at the Sessions, Mr."
-      },
-      "8": {
-        "mentions": 2,
-        "snippet": "elbow as negligently as he might have stood at the Old Bailey itself."
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "It was a bit of the art of an Old Bailey tactician, in which he found"
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "\u201cOld Bailey spy,\u201d returned his informant."
-      }
-    },
-    "co_occurs_with": {
-      "Lorry": 6,
-      "Mr. Lorry": 6,
-      "Doctor Manette": 5,
-      "Madame Defarge": 5,
-      "Cruncher": 4,
-      "Jerry": 4,
-      "Lucie": 4,
-      "Miss Pross": 4
-    }
-  },
-  {
-    "canonical_name": "North Tower",
-    "aliases": [
-      "North"
-    ],
-    "first_chapter": 6,
-    "total_mentions": 14,
-    "per_chapter": {
-      "6": {
-        "mentions": 5,
-        "snippet": "\u201cOne Hundred and Five, North Tower."
-      },
-      "7": {
-        "mentions": 1,
-        "snippet": "no One Hundred and Five, North Tower, now!"
-      },
-      "9": {
-        "mentions": 2,
-        "snippet": "known as One Hundred and Five, North Tower."
-      },
-      "21": {
-        "mentions": 3,
-        "snippet": "\u201cShow me the North Tower!"
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "East, West, North, and South, through the woods, four"
-      }
-    },
-    "co_occurs_with": {
-      "Darnay": 4,
-      "Doctor Manette": 4,
-      "Lorry": 4,
-      "Mr. Lorry": 4,
-      "One Hundred": 4,
-      "Charles Darnay": 3,
-      "Miss Pross": 3,
-      "Monseigneur": 3
+      "Doctor Manette": 2,
+      "Lucie": 2
     }
   },
   {
     "canonical_name": "Jarvis Lorry",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 13,
+    "total_mentions": 15,
     "per_chapter": {
       "2": {
         "mentions": 1,
@@ -1974,8 +1212,8 @@
         "snippet": "Jarvis"
       },
       "4": {
-        "mentions": 1,
-        "snippet": "And when Jarvis Lorry saw"
+        "mentions": 3,
+        "snippet": "Jarvis Lorry, or she may only ask for a"
       },
       "5": {
         "mentions": 2,
@@ -1995,72 +1233,286 @@
       }
     },
     "co_occurs_with": {
-      "Doctor Manette": 7,
       "Lorry": 7,
       "Mr. Lorry": 7,
-      "Lucie": 6,
-      "La Force": 5,
       "Mr. Jarvis Lorry": 5,
-      "Miss Manette": 5,
-      "Charles Darnay": 4
+      "Miss Manette": 4,
+      "Doctor Manette": 4,
+      "Darnay": 3,
+      "Mr. Carton": 3,
+      "Sydney Carton": 3
     }
   },
   {
-    "canonical_name": "Citizen Doctor",
-    "aliases": [
-      "Citizen"
-    ],
-    "first_chapter": 7,
-    "total_mentions": 12,
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 15,
     "per_chapter": {
-      "7": {
-        "mentions": 5,
-        "snippet": "\u201cYes, I know you, Citizen Doctor."
+      "2": {
+        "mentions": 4,
+        "snippet": "\u201cDon\u2019t look!"
       },
-      "13": {
-        "mentions": 6,
-        "snippet": "\u201cCitizen Evr\u00e9monde,\u201d she said, touching him with her cold hand."
+      "8": {
+        "mentions": 5,
+        "snippet": "\u201cDon\u2019t call me Solomon."
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201cDon\u2019t prevaricate,\u201d said Mr."
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "\u201cDon\u2019t recall her to herself,\u201d he said, softly, to the latter, \u201cshe is"
+      }
+    },
+    "co_occurs_with": {
+      "Doctor Manette": 4,
+      "Lorry": 4,
+      "Mr. Lorry": 4,
+      "Miss Pross": 3,
+      "Sydney Carton": 3,
+      "La Force": 2,
+      "Cruncher": 2,
+      "Madame Defarge": 2
+    }
+  },
+  {
+    "canonical_name": "The Vengeance",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 14,
+    "per_chapter": {
+      "9": {
+        "mentions": 1,
+        "snippet": "It was The Vengeance who, amidst the warm commendations of the audience,"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "smiling to The Vengeance."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "\u201d said The Vengeance, and embraced her."
       },
       "14": {
-        "mentions": 1,
-        "snippet": "\u201d Then she raised her voice and called out, \u201cCitizen Doctor!"
+        "mentions": 5,
+        "snippet": "Madame Defarge held darkly ominous council with The Vengeance and"
+      },
+      "22": {
+        "mentions": 6,
+        "snippet": "already earned the complimentary name of The Vengeance."
       }
     },
     "co_occurs_with": {
+      "Madame Defarge": 5,
+      "Jacques Three": 4,
+      "Saint Antoine": 4,
+      "Doctor Manette": 3,
       "Lorry": 3,
       "Mr. Lorry": 3,
-      "Citizeness Defarge": 2,
-      "Cruncher": 2,
-      "Darnay": 2,
-      "Doctor Manette": 2,
-      "Jerry Cruncher": 2,
-      "Lucie": 2
+      "Alexandre Manette": 2,
+      "Cruncher": 2
     }
   },
   {
-    "canonical_name": "Farmer",
+    "canonical_name": "Mr. Darnay",
     "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 10,
+    "first_chapter": 3,
+    "total_mentions": 13,
     "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "the Farmer, Death, had already set apart to be his tumbrils of"
+      "3": {
+        "mentions": 2,
+        "snippet": "\u201cMr."
       },
-      "7": {
-        "mentions": 7,
-        "snippet": "affairs, allied himself perforce with a Farmer-General."
+      "6": {
+        "mentions": 5,
+        "snippet": "Mr."
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "\u201cMr."
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "\u201cWhy, Mr."
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 2,
+      "Darnay": 4,
+      "Lorry": 4,
+      "Mr. Lorry": 4,
+      "Doctor Manette": 3,
+      "Jerry": 3,
+      "Mr. Carton": 3,
+      "Sydney Carton": 3,
+      "Charles Darnay": 3
+    }
+  },
+  {
+    "canonical_name": "Republic",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 13,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "Republic."
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "\u201cHow goes the Republic?"
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "physician of the Republic would deserve better still of the Republic by"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "am not unwilling to die, if the Republic which is to do so much good"
+      }
+    },
+    "co_occurs_with": {
+      "Doctor Manette": 3,
+      "Lorry": 3,
+      "Madame Defarge": 3,
+      "Mr. Lorry": 3,
+      "Sydney Carton": 3,
+      "Alexandre Manette": 3,
       "Cruncher": 2,
-      "Doctor Manette": 2,
-      "Jerry Cruncher": 2,
-      "Lorry": 2,
-      "Mr. Cruncher": 2,
-      "Mr. Lorry": 2,
-      "Aggerawayter": 1
+      "Don": 2
+    }
+  },
+  {
+    "canonical_name": "Stryver",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 12,
+    "per_chapter": {
+      "3": {
+        "mentions": 6,
+        "snippet": "Stryver (the prisoner\u2019s"
+      },
+      "21": {
+        "mentions": 4,
+        "snippet": "Stryver shouldered his way through the law, like some great engine"
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "Stryver on"
+      }
+    },
+    "co_occurs_with": {
+      "Darnay": 3,
+      "Doctor Manette": 3,
+      "Lorry": 3,
+      "Mr. Lorry": 3,
+      "Mr. Stryver": 3,
+      "Jerry": 2,
+      "Mr. Darnay": 2,
+      "Sydney Carton": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Carton",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 12,
+    "per_chapter": {
+      "3": {
+        "mentions": 6,
+        "snippet": "counsel), whether they were next to try Mr."
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "Mr."
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "\u201cYou say truly, Mr."
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "\u201cMr."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "\u201cI think, Charles, poor Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Darnay": 5,
+      "Lorry": 5,
+      "Mr. Lorry": 5,
+      "Sydney Carton": 5,
+      "Doctor Manette": 3,
+      "Jarvis Lorry": 3,
+      "Mr. Darnay": 3,
+      "Cruncher": 2
+    }
+  },
+  {
+    "canonical_name": "La Force",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 12,
+    "per_chapter": {
+      "1": {
+        "mentions": 4,
+        "snippet": "prison of La Force."
+      },
+      "2": {
+        "mentions": 5,
+        "snippet": "\u201cLa Force!"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "It was ten o\u2019clock at night when he stood before the prison of La Force,"
+      },
+      "13": {
+        "mentions": 2,
+        "snippet": "different man from the prisoner, who had walked to and fro at La Force,"
+      }
+    },
+    "co_occurs_with": {
+      "Lorry": 4,
+      "Mr. Lorry": 4,
+      "Doctor Manette": 3,
+      "Charles Darnay": 2,
+      "Don": 2,
+      "Jarvis Lorry": 2,
+      "Lucie": 2,
+      "Alexandre Manette": 2
+    }
+  },
+  {
+    "canonical_name": "Mr. Stryver",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 11,
+    "per_chapter": {
+      "3": {
+        "mentions": 6,
+        "snippet": "My Lord inquired of Mr."
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "Mr."
+      },
+      "24": {
+        "mentions": 2,
+        "snippet": "Darnay, unable to restrain himself any longer, touched Mr."
+      }
+    },
+    "co_occurs_with": {
+      "Darnay": 3,
+      "Doctor Manette": 3,
+      "Lorry": 3,
+      "Mr. Lorry": 3,
+      "Stryver": 3,
+      "Jerry": 2,
+      "Mr. Darnay": 2,
+      "Sydney Carton": 2
     }
   },
   {
@@ -2091,56 +1543,14 @@
       }
     },
     "co_occurs_with": {
-      "Doctor Manette": 5,
       "Jarvis Lorry": 5,
       "Lorry": 5,
-      "Lucie": 5,
       "Mr. Lorry": 5,
-      "Charles Darnay": 4,
-      "La Force": 4,
-      "Miss Manette": 4
-    }
-  },
-  {
-    "canonical_name": "Temple Bar",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 10,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "Tellson\u2019s Bank by Temple Bar was an old-fashioned place, even in the"
-      },
-      "2": {
-        "mentions": 1,
-        "snippet": "\u201cAfter that there gallop from Temple Bar, old lady, I won\u2019t trust your"
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "are the quickest messenger I know, and will get to Temple Bar long"
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "on Saint Dunstan\u2019s side of Temple Bar, bursting in his full-blown way"
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "Temple Bar."
-      },
-      "24": {
-        "mentions": 1,
-        "snippet": "through Temple Bar to read."
-      }
-    },
-    "co_occurs_with": {
-      "Lorry": 6,
-      "Mr. Lorry": 6,
-      "Doctor Manette": 5,
-      "Tellson": 5,
-      "Charles Darnay": 4,
-      "Cruncher": 4,
-      "Mr. Cruncher": 4,
-      "Jerry": 4
+      "Miss Manette": 4,
+      "Doctor Manette": 3,
+      "Bank": 2,
+      "Monsieur Manette": 2,
+      "Royal George Hotel": 2
     }
   },
   {
@@ -2156,143 +1566,39 @@
     },
     "co_occurs_with": {
       "All": 1,
-      "Bad Fortune": 1,
-      "Down": 1,
       "Good": 1,
       "Jacques Five": 1,
       "Jacques Four": 1,
       "Jacques One": 1,
-      "Jacques Three": 1
+      "Jacques Three": 1,
+      "Jacques Two": 1,
+      "Long": 1
     }
   },
   {
-    "canonical_name": "Spy",
-    "aliases": [],
-    "first_chapter": 13,
-    "total_mentions": 10,
-    "per_chapter": {
-      "13": {
-        "mentions": 7,
-        "snippet": "\u201d and the Spy presented himself."
-      },
-      "15": {
-        "mentions": 3,
-        "snippet": "the Spy and prison-sheep."
-      }
-    },
-    "co_occurs_with": {
-      "Jacques Two": 2,
-      "Sainte Guillotine": 2,
-      "Sydney Carton": 2,
-      "Alexandre Manette": 1,
-      "Apparently": 1,
-      "Citizen Doctor": 1,
-      "Darnay": 1,
-      "Doctor Manette": 1
-    }
-  },
-  {
-    "canonical_name": "Dover",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 9,
-    "per_chapter": {
-      "2": {
-        "mentions": 9,
-        "snippet": "It was the Dover road that lay, on a Friday night late in November,"
-      }
-    },
-    "co_occurs_with": {
-      "Bank": 1,
-      "Blazing": 1,
-      "Charles Darnay": 1,
-      "Chief Justice": 1,
-      "Cruncher": 1,
-      "Doctor Manette": 1,
-      "Don": 1,
-      "French Lewis": 1
-    }
-  },
-  {
-    "canonical_name": "Not",
+    "canonical_name": "Monsieur Manette",
     "aliases": [],
     "first_chapter": 4,
-    "total_mentions": 9,
+    "total_mentions": 8,
     "per_chapter": {
       "4": {
-        "mentions": 3,
-        "snippet": "Not much in the habit of such travelling yourself, I think,"
+        "mentions": 6,
+        "snippet": "Like Monsieur Manette, your father, the"
       },
-      "8": {
-        "mentions": 3,
-        "snippet": "\u201cNot to understand your play,\u201d returned the spy, somewhat uneasily."
-      },
-      "10": {
-        "mentions": 3,
-        "snippet": "\u201cNot that, sir!"
+      "5": {
+        "mentions": 2,
+        "snippet": "\u201cDo you make a show of Monsieur Manette?"
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 3,
-      "Doctor Manette": 3,
-      "Darnay": 2,
-      "Lorry": 2,
-      "Lucie Manette": 2,
-      "Miss Manette": 2,
-      "Mr. Carton": 2,
-      "Mr. Charles Darnay": 2
-    }
-  },
-  {
-    "canonical_name": "Fleet",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 9,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "windows, which were always under a shower-bath of mud from Fleet-street,"
-      },
-      "14": {
-        "mentions": 5,
-        "snippet": "Fleet-street with his grisly urchin beside him, a vast number and"
-      }
-    },
-    "co_occurs_with": {
-      "Cruncher": 2,
-      "Jerry Cruncher": 2,
-      "Lorry": 2,
-      "Mr. Cruncher": 2,
-      "Mr. Lorry": 2,
-      "Mrs. Cruncher": 2,
-      "Tellson": 2,
-      "Temple Bar": 2
-    }
-  },
-  {
-    "canonical_name": "Judge",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 9,
-    "per_chapter": {
-      "2": {
-        "mentions": 5,
-        "snippet": "had more than once happened, that the Judge in the black cap pronounced"
-      },
-      "3": {
-        "mentions": 4,
-        "snippet": "of the Judge, as he said something fiercely: \u201cAnswer the questions put"
-      }
-    },
-    "co_occurs_with": {
-      "Charles Darnay": 2,
-      "Cruncher": 2,
-      "Doctor Manette": 2,
       "Jarvis Lorry": 2,
-      "Jerry": 2,
-      "La Force": 2,
       "Lorry": 2,
-      "Lucie": 2
+      "Miss Manette": 2,
+      "Mr. Jarvis Lorry": 2,
+      "Mr. Lorry": 2,
+      "Bank": 1,
+      "Beauvais": 1,
+      "Concord": 1
     }
   },
   {
@@ -2307,54 +1613,14 @@
       }
     },
     "co_occurs_with": {
-      "Chief Justice": 1,
-      "Court": 1,
-      "Doctor Manette": 1,
-      "Drinking Age": 1,
       "Gentlemen": 1,
-      "Hilary Term": 1,
       "Jacques Three": 1,
-      "Jarvis Lorry": 1
-    }
-  },
-  {
-    "canonical_name": "One Hundred",
-    "aliases": [
-      "One"
-    ],
-    "first_chapter": 6,
-    "total_mentions": 8,
-    "per_chapter": {
-      "6": {
-        "mentions": 1,
-        "snippet": "\u201cOne Hundred and Five, North Tower;\u201d and when he looked about him, it"
-      },
-      "7": {
-        "mentions": 1,
-        "snippet": "no One Hundred and Five, North Tower, now!"
-      },
-      "9": {
-        "mentions": 2,
-        "snippet": "known as One Hundred and Five, North Tower."
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "he heard One struck away from him, without surprise."
-      },
-      "21": {
-        "mentions": 1,
-        "snippet": "\u201cWhat is the meaning of One Hundred and Five, North Tower?"
-      }
-    },
-    "co_occurs_with": {
-      "Darnay": 5,
-      "Doctor Manette": 5,
-      "Lorry": 5,
-      "Mr. Lorry": 5,
-      "North Tower": 4,
-      "Alexandre Manette": 4,
-      "Sydney Carton": 4,
-      "Charles Darnay": 3
+      "Jarvis Lorry": 1,
+      "Lorry": 1,
+      "Madame Defarge": 1,
+      "Miss Manette": 1,
+      "Monsieur Defarge": 1,
+      "Monsieur Manette": 1
     }
   },
   {
@@ -2369,14 +1635,40 @@
       }
     },
     "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Carmagnole": 1,
       "Charles Darnay": 1,
       "Clerkenwell": 1,
       "Court House": 1,
       "Darnay": 1,
       "Doctor Manette": 1,
-      "Evening Paper": 1
+      "Here": 1,
+      "Hundreds": 1,
+      "Indeed": 1
+    }
+  },
+  {
+    "canonical_name": "Monsieur the Marquis",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 8,
+    "per_chapter": {
+      "7": {
+        "mentions": 5,
+        "snippet": "\u201cPardon, Monsieur the Marquis!"
+      },
+      "16": {
+        "mentions": 3,
+        "snippet": "the chateau of Monsieur the Marquis, now in his grave, listened to"
+      }
+    },
+    "co_occurs_with": {
+      "Saint Antoine": 2,
+      "Charles Darnay": 1,
+      "Ernest Defarge": 1,
+      "Gaspard": 1,
+      "Good": 1,
+      "Jacques Three": 1,
+      "John Barsad": 1,
+      "Madame Defarge": 1
     }
   },
   {
@@ -2392,87 +1684,67 @@
     },
     "co_occurs_with": {
       "All": 1,
-      "Bad Fortune": 1,
-      "Down": 1,
       "Good": 1,
       "Jacques Five": 1,
       "Jacques Four": 1,
       "Jacques One": 1,
-      "Jacques Three": 1
+      "Jacques Three": 1,
+      "Jacques Two": 1,
+      "King": 1
     }
   },
   {
-    "canonical_name": "Tribunal",
-    "aliases": [],
-    "first_chapter": 4,
+    "canonical_name": "North Tower",
+    "aliases": [
+      "North"
+    ],
+    "first_chapter": 9,
     "total_mentions": 8,
     "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "found a self-appointed Tribunal sitting, before which the prisoners were"
+      "9": {
+        "mentions": 2,
+        "snippet": "known as One Hundred and Five, North Tower."
       },
-      "6": {
-        "mentions": 5,
-        "snippet": "Lorry were the only men there, unconnected with the Tribunal, who"
+      "21": {
+        "mentions": 3,
+        "snippet": "\u201cShow me the North Tower!"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "East, West, North, and South, through the woods, four"
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 2,
+      "Alexandre Manette": 2,
       "Darnay": 2,
       "Doctor Manette": 2,
-      "Jarvis Lorry": 2,
-      "La Force": 2,
+      "Jacques Three": 2,
       "Lorry": 2,
-      "Lucie": 2,
-      "Lucie Manette": 2
+      "Madame Defarge": 2,
+      "Mr. Lorry": 2,
+      "One Hundred": 2
     }
   },
   {
-    "canonical_name": "With",
+    "canonical_name": "House",
     "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 7,
+    "first_chapter": 24,
+    "total_mentions": 8,
     "per_chapter": {
-      "2": {
-        "mentions": 4,
-        "snippet": "With drooping heads and tremulous tails, they mashed their way through"
-      },
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201d With that advice, he wiped his soiled hand upon the joker\u2019s"
-      }
-    },
-    "co_occurs_with": {
-      "Chief Justice": 2,
-      "Doctor Manette": 2,
-      "Jarvis Lorry": 2,
-      "Lord Chief Justice": 2,
-      "Lorry": 2,
-      "Lucie": 2,
-      "Mr. Jarvis Lorry": 2,
-      "Mr. Lorry": 2
-    }
-  },
-  {
-    "canonical_name": "Joe",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 7,
-    "per_chapter": {
-      "2": {
-        "mentions": 7,
-        "snippet": "--Joe!"
+      "24": {
+        "mentions": 8,
+        "snippet": "penitential den once set apart for interviews with the House, was now"
       }
     },
     "co_occurs_with": {
       "Bank": 1,
-      "Blazing": 1,
+      "Bench Bar": 1,
       "Charles Darnay": 1,
-      "Chief Justice": 1,
-      "Cruncher": 1,
+      "Darnay": 1,
       "Doctor Manette": 1,
-      "Don": 1,
-      "Dover": 1
+      "Evil One": 1,
+      "High Exchange": 1,
+      "Jerry": 1
     }
   },
   {
@@ -2488,13 +1760,13 @@
     },
     "co_occurs_with": {
       "Bank": 1,
-      "Bastille Captive": 1,
       "Beauvais": 1,
-      "Charles Darnay": 1,
-      "Cross": 1,
-      "Darnay": 1,
       "Dead Sea": 1,
-      "Doctor Manette": 1
+      "French House": 1,
+      "Ghost": 1,
+      "Jarvis Lorry": 1,
+      "Lorry": 1,
+      "Miss Manette": 1
     }
   },
   {
@@ -2513,70 +1785,36 @@
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 2,
-      "Doctor Manette": 2,
-      "La Force": 2,
-      "La Guillotine": 2,
       "Lorry": 2,
       "Mr. Lorry": 2,
-      "Tellson": 2,
-      "There": 2
+      "There": 2,
+      "Bank": 1,
+      "Concord": 1,
+      "Dead Sea": 1,
+      "French House": 1,
+      "Ghost": 1
     }
   },
   {
-    "canonical_name": "Mrs. Cruncher",
+    "canonical_name": "Farmer",
     "aliases": [],
-    "first_chapter": 1,
+    "first_chapter": 7,
     "total_mentions": 7,
     "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "He resented Mrs."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "And here\u2019s Mrs."
-      },
-      "14": {
-        "mentions": 5,
-        "snippet": "Mrs."
+      "7": {
+        "mentions": 7,
+        "snippet": "affairs, allied himself perforce with a Farmer-General."
       }
     },
     "co_occurs_with": {
-      "Cruncher": 3,
-      "Lorry": 3,
-      "Mr. Cruncher": 3,
-      "Mr. Lorry": 3,
-      "Tellson": 3,
-      "Charles Darnay": 2,
-      "Doctor Manette": 2,
-      "Fleet": 2
-    }
-  },
-  {
-    "canonical_name": "Miss Lucie",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 7,
-    "per_chapter": {
-      "4": {
-        "mentions": 5,
-        "snippet": "Miss Lucie looks ill, Mr."
-      },
-      "6": {
-        "mentions": 2,
-        "snippet": "\u201cMiss Lucie at home?"
-      }
-    },
-    "co_occurs_with": {
-      "Charles Darnay": 2,
-      "Darnay": 2,
-      "Doctor Manette": 2,
-      "Jarvis Lorry": 2,
-      "La Force": 2,
-      "Lorry": 2,
-      "Lucie": 2,
-      "Lucie Manette": 2
+      "Centre": 1,
+      "Circumference": 1,
+      "Comedy": 1,
+      "Common Executioner": 1,
+      "Fancy Ball": 1,
+      "General": 1,
+      "Grand Opera": 1,
+      "Indeed": 1
     }
   },
   {
@@ -2601,14 +1839,14 @@
       }
     },
     "co_occurs_with": {
-      "Sydney Carton": 3,
       "Alexandre Manette": 2,
       "Darnay": 2,
-      "Doctor Manette": 2,
+      "Jacques Five": 2,
+      "Jacques One": 2,
+      "Jacques Three": 2,
       "Lorry": 2,
-      "Mr. Lorry": 2,
-      "Mr. Stryver": 2,
-      "One Hundred": 2
+      "Madame Defarge": 2,
+      "Mr. Lorry": 2
     }
   },
   {
@@ -2628,51 +1866,61 @@
     },
     "co_occurs_with": {
       "Alexandre Manette": 2,
-      "Darnay": 2,
       "Doctor Manette": 2,
       "Madame Defarge": 2,
-      "Miss Pross": 2,
-      "Mr. Stryver": 2,
       "Saint Antoine": 2,
-      "Stryver": 2
+      "Darnay": 1,
+      "Hotel de Ville": 1,
+      "Jacques Five": 1,
+      "Jacques One": 1
     }
   },
   {
-    "canonical_name": "Lucie Manette",
+    "canonical_name": "Spy",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 7,
+    "per_chapter": {
+      "13": {
+        "mentions": 7,
+        "snippet": "\u201d and the Spy presented himself."
+      }
+    },
+    "co_occurs_with": {
+      "Alexandre Manette": 1,
+      "Apparently": 1,
+      "Citizen": 1,
+      "Darnay": 1,
+      "Have": 1,
+      "Jacques Two": 1,
+      "Jarvis Lorry": 1,
+      "La Force": 1
+    }
+  },
+  {
+    "canonical_name": "Not",
     "aliases": [],
     "first_chapter": 4,
     "total_mentions": 6,
     "per_chapter": {
       "4": {
-        "mentions": 2,
-        "snippet": "Doctor Manette, Lucie Manette, his daughter, Mr."
+        "mentions": 3,
+        "snippet": "Not much in the habit of such travelling yourself, I think,"
       },
-      "6": {
-        "mentions": 1,
-        "snippet": "\u201cLucie Manette, only daughter of Doctor Manette, the good physician who"
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "He had loved Lucie Manette from the hour of his danger."
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "down and perverted, that Lucie Manette wept mournfully for him as he"
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "eyes looked on, Charles Darnay and Lucie Manette were happily married."
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cNot to understand your play,\u201d returned the spy, somewhat uneasily."
       }
     },
     "co_occurs_with": {
-      "Doctor Manette": 5,
-      "Charles Darnay": 4,
-      "Darnay": 4,
-      "Lorry": 4,
-      "Miss Manette": 4,
-      "Mr. Carton": 4,
-      "Mr. Lorry": 4,
-      "Jarvis Lorry": 3
+      "Lorry": 2,
+      "Mr. Lorry": 2,
+      "Royal George": 2,
+      "Bank": 1,
+      "Beauvais": 1,
+      "Concord": 1,
+      "Dead Sea": 1,
+      "French House": 1
     }
   },
   {
@@ -2698,15 +1946,223 @@
     }
   },
   {
-    "canonical_name": "Alexandre Manette",
-    "aliases": [],
-    "first_chapter": 6,
+    "canonical_name": "One Hundred",
+    "aliases": [
+      "One"
+    ],
+    "first_chapter": 9,
     "total_mentions": 6,
     "per_chapter": {
-      "6": {
-        "mentions": 1,
-        "snippet": "Alexandre Manette."
+      "9": {
+        "mentions": 2,
+        "snippet": "known as One Hundred and Five, North Tower."
       },
+      "13": {
+        "mentions": 3,
+        "snippet": "he heard One struck away from him, without surprise."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "\u201cWhat is the meaning of One Hundred and Five, North Tower?"
+      }
+    },
+    "co_occurs_with": {
+      "Alexandre Manette": 3,
+      "Darnay": 3,
+      "Lorry": 3,
+      "Mr. Lorry": 3,
+      "Sydney Carton": 3,
+      "Doctor Manette": 2,
+      "Jacques Three": 2,
+      "Jacques Two": 2
+    }
+  },
+  {
+    "canonical_name": "Sheep",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 6,
+    "per_chapter": {
+      "8": {
+        "mentions": 6,
+        "snippet": "was not a Sheep of the Prisons."
+      }
+    },
+    "co_occurs_with": {
+      "Ace": 1,
+      "Antiquity": 1,
+      "Come": 1,
+      "Conciergerie": 1,
+      "Cruncher": 1,
+      "Doctor Manette": 1,
+      "Don": 1,
+      "Good Republican Brutus": 1
+    }
+  },
+  {
+    "canonical_name": "Mrs. Cruncher",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 6,
+    "per_chapter": {
+      "9": {
+        "mentions": 1,
+        "snippet": "And here\u2019s Mrs."
+      },
+      "14": {
+        "mentions": 5,
+        "snippet": "Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Cruncher": 2,
+      "Jacques Three": 2,
+      "Lorry": 2,
+      "Madame Defarge": 2,
+      "Mr. Cruncher": 2,
+      "Mr. Lorry": 2,
+      "The Vengeance": 2,
+      "Alexandre Manette": 1
+    }
+  },
+  {
+    "canonical_name": "President",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 6,
+    "per_chapter": {
+      "9": {
+        "mentions": 6,
+        "snippet": "The President asked, was the Accused openly denounced or secretly?"
+      }
+    },
+    "co_occurs_with": {
+      "Alexandre Manette": 1,
+      "Citizen Manette": 1,
+      "Cruncher": 1,
+      "Darnay": 1,
+      "Doctor Manette": 1,
+      "Don": 1,
+      "Eternal Sleep": 1,
+      "Good": 1
+    }
+  },
+  {
+    "canonical_name": "Citizen",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 6,
+    "per_chapter": {
+      "13": {
+        "mentions": 6,
+        "snippet": "\u201cCitizen Evr\u00e9monde,\u201d she said, touching him with her cold hand."
+      }
+    },
+    "co_occurs_with": {
+      "Alexandre Manette": 1,
+      "Apparently": 1,
+      "Darnay": 1,
+      "Have": 1,
+      "Jacques Two": 1,
+      "Jarvis Lorry": 1,
+      "La Force": 1,
+      "Lorry": 1
+    }
+  },
+  {
+    "canonical_name": "Soho",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 5,
+    "per_chapter": {
+      "6": {
+        "mentions": 5,
+        "snippet": "far from Soho-square."
+      }
+    },
+    "co_occurs_with": {
+      "Charles Darnay": 1,
+      "Clerkenwell": 1,
+      "Court House": 1,
+      "Darnay": 1,
+      "Doctor Manette": 1,
+      "Here": 1,
+      "Hundreds": 1,
+      "Indeed": 1
+    }
+  },
+  {
+    "canonical_name": "Hundreds",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 5,
+    "per_chapter": {
+      "6": {
+        "mentions": 5,
+        "snippet": "\u201cHundreds,\u201d said Miss Pross."
+      }
+    },
+    "co_occurs_with": {
+      "Charles Darnay": 1,
+      "Clerkenwell": 1,
+      "Court House": 1,
+      "Darnay": 1,
+      "Doctor Manette": 1,
+      "Here": 1,
+      "Indeed": 1,
+      "Jarvis Lorry": 1
+    }
+  },
+  {
+    "canonical_name": "Fancy Ball",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 5,
+    "per_chapter": {
+      "7": {
+        "mentions": 5,
+        "snippet": "Everybody was dressed for a Fancy Ball that"
+      }
+    },
+    "co_occurs_with": {
+      "Centre": 1,
+      "Circumference": 1,
+      "Comedy": 1,
+      "Common Executioner": 1,
+      "Farmer": 1,
+      "General": 1,
+      "Grand Opera": 1,
+      "Indeed": 1
+    }
+  },
+  {
+    "canonical_name": "Long",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 5,
+    "per_chapter": {
+      "15": {
+        "mentions": 5,
+        "snippet": "\u201cLong live the Devil!"
+      }
+    },
+    "co_occurs_with": {
+      "All": 1,
+      "Good": 1,
+      "Jacques Five": 1,
+      "Jacques Four": 1,
+      "Jacques One": 1,
+      "Jacques Three": 1,
+      "Jacques Two": 1,
+      "King": 1
+    }
+  },
+  {
+    "canonical_name": "Alexandre Manette",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 5,
+    "per_chapter": {
       "9": {
         "mentions": 1,
         "snippet": "\u201cAlexandre Manette, physician."
@@ -2725,342 +2181,14 @@
       }
     },
     "co_occurs_with": {
-      "Darnay": 5,
-      "Doctor Manette": 5,
-      "Sydney Carton": 5,
-      "Lorry": 4,
-      "Madame Defarge": 4,
-      "Mr. Carton": 4,
-      "Mr. Lorry": 4,
-      "One Hundred": 4
-    }
-  },
-  {
-    "canonical_name": "La Guillotine",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 6,
-    "per_chapter": {
-      "1": {
-        "mentions": 2,
-        "snippet": "and called La Guillotine, why did you come to France?"
-      },
-      "4": {
-        "mentions": 2,
-        "snippet": "sharp female called La Guillotine."
-      },
-      "5": {
-        "mentions": 1,
-        "snippet": "old; gentle born and peasant born; all red wine for La Guillotine, all"
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "tumbrils carry the day\u2019s wine to La Guillotine."
-      }
-    },
-    "co_occurs_with": {
+      "Darnay": 3,
       "Doctor Manette": 3,
-      "Lorry": 3,
-      "Mr. Lorry": 3,
-      "There": 3,
-      "Beauvais": 2,
-      "Charles Darnay": 2,
-      "La Force": 2,
-      "Tellson": 2
-    }
-  },
-  {
-    "canonical_name": "Jury",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 6,
-    "per_chapter": {
-      "6": {
-        "mentions": 6,
-        "snippet": "Jury, sat every day."
-      }
-    },
-    "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Carmagnole": 1,
-      "Charles Darnay": 1,
-      "Clerkenwell": 1,
-      "Court House": 1,
-      "Darnay": 1,
-      "Doctor Manette": 1,
-      "Evening Paper": 1
-    }
-  },
-  {
-    "canonical_name": "Sheep",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 6,
-    "per_chapter": {
-      "8": {
-        "mentions": 6,
-        "snippet": "was not a Sheep of the Prisons."
-      }
-    },
-    "co_occurs_with": {
-      "Ace": 1,
-      "Antiquity": 1,
-      "Charles Darnay": 1,
-      "Come": 1,
-      "Conciergerie": 1,
-      "Cruncher": 1,
-      "Doctor Manette": 1,
-      "Don": 1
-    }
-  },
-  {
-    "canonical_name": "President",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 6,
-    "per_chapter": {
-      "9": {
-        "mentions": 6,
-        "snippet": "The President asked, was the Accused openly denounced or secretly?"
-      }
-    },
-    "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Charles Darnay": 1,
-      "Citizen Manette": 1,
-      "Cruncher": 1,
-      "Darnay": 1,
-      "Doctor Manette": 1,
-      "Don": 1,
-      "Eternal Sleep": 1
-    }
-  },
-  {
-    "canonical_name": "Soho",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 5,
-    "per_chapter": {
-      "6": {
-        "mentions": 5,
-        "snippet": "far from Soho-square."
-      }
-    },
-    "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Carmagnole": 1,
-      "Charles Darnay": 1,
-      "Clerkenwell": 1,
-      "Court House": 1,
-      "Darnay": 1,
-      "Doctor Manette": 1,
-      "Evening Paper": 1
-    }
-  },
-  {
-    "canonical_name": "Hundreds",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 5,
-    "per_chapter": {
-      "6": {
-        "mentions": 5,
-        "snippet": "\u201cHundreds,\u201d said Miss Pross."
-      }
-    },
-    "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Carmagnole": 1,
-      "Charles Darnay": 1,
-      "Clerkenwell": 1,
-      "Court House": 1,
-      "Darnay": 1,
-      "Doctor Manette": 1,
-      "Evening Paper": 1
-    }
-  },
-  {
-    "canonical_name": "Fancy Ball",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 5,
-    "per_chapter": {
-      "7": {
-        "mentions": 5,
-        "snippet": "Everybody was dressed for a Fancy Ball that"
-      }
-    },
-    "co_occurs_with": {
-      "Banking House": 1,
-      "Centre": 1,
-      "Charles Darnay": 1,
-      "Circumference": 1,
-      "Citizen Doctor": 1,
-      "Citizeness Defarge": 1,
-      "Comedy": 1,
-      "Common Executioner": 1
-    }
-  },
-  {
-    "canonical_name": "Long",
-    "aliases": [],
-    "first_chapter": 15,
-    "total_mentions": 5,
-    "per_chapter": {
-      "15": {
-        "mentions": 5,
-        "snippet": "\u201cLong live the Devil!"
-      }
-    },
-    "co_occurs_with": {
-      "All": 1,
-      "Bad Fortune": 1,
-      "Down": 1,
-      "Good": 1,
-      "Jacques Five": 1,
-      "Jacques Four": 1,
-      "Jacques One": 1,
-      "Jacques Three": 1
-    }
-  },
-  {
-    "canonical_name": "Tom",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 4,
-    "per_chapter": {
-      "2": {
-        "mentions": 4,
-        "snippet": "\u201cWhat do you say, Tom?"
-      }
-    },
-    "co_occurs_with": {
-      "Bank": 1,
-      "Blazing": 1,
-      "Charles Darnay": 1,
-      "Chief Justice": 1,
-      "Cruncher": 1,
-      "Doctor Manette": 1,
-      "Don": 1,
-      "Dover": 1
-    }
-  },
-  {
-    "canonical_name": "Mr. Crunches",
-    "aliases": [
-      "Crunches"
-    ],
-    "first_chapter": 1,
-    "total_mentions": 4,
-    "per_chapter": {
-      "1": {
-        "mentions": 2,
-        "snippet": "\u201d said Mr."
-      },
-      "9": {
-        "mentions": 2,
-        "snippet": "\u201cNo, I will _not_, sir,\u201d returned Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Charles Darnay": 2,
-      "Cruncher": 2,
-      "Doctor Manette": 2,
-      "In England": 2,
-      "La Force": 2,
-      "Lorry": 2,
-      "Mr. Cruncher": 2,
-      "Mr. Lorry": 2
-    }
-  },
-  {
-    "canonical_name": "Jerry Cruncher",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 4,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "which had taken anything but a convivial turn, Jerry Cruncher worried"
-      },
-      "2": {
-        "mentions": 1,
-        "snippet": "Jerry Cruncher to squeeze himself into"
-      },
-      "7": {
-        "mentions": 1,
-        "snippet": "Jerry Cruncher\u2019s name, therefore, duly embellished the doorpost down"
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "was Jerry Cruncher himself, who modestly concealed his spiky head from"
-      }
-    },
-    "co_occurs_with": {
-      "Cruncher": 4,
-      "Lorry": 4,
-      "Mr. Cruncher": 4,
-      "Mr. Lorry": 4,
-      "Charles Darnay": 3,
-      "Doctor Manette": 3,
-      "Temple Bar": 3,
-      "Miss Pross": 3
-    }
-  },
-  {
-    "canonical_name": "Lord Chief Justice",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 4,
-    "per_chapter": {
-      "2": {
-        "mentions": 2,
-        "snippet": "dock at my Lord Chief Justice himself, and pulled him off the bench."
-      },
-      "5": {
-        "mentions": 2,
-        "snippet": "visage of the Lord Chief Justice in the Court of King\u2019s Bench, the"
-      }
-    },
-    "co_occurs_with": {
-      "Chief Justice": 2,
-      "Doctor Manette": 2,
-      "Jarvis Lorry": 2,
-      "Lorry": 2,
-      "Lucie": 2,
-      "Mr. Jarvis Lorry": 2,
-      "Mr. Lorry": 2,
-      "Old Bailey": 2
-    }
-  },
-  {
-    "canonical_name": "Roger Cly",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 4,
-    "per_chapter": {
-      "3": {
-        "mentions": 1,
-        "snippet": "The virtuous servant, Roger Cly, swore his way through the case at a"
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "\u201cThat there Roger Cly, master,\u201d said Mr."
-      },
-      "14": {
-        "mentions": 2,
-        "snippet": "funeral of one Roger Cly."
-      }
-    },
-    "co_occurs_with": {
-      "Cruncher": 3,
-      "Jerry": 3,
       "Lorry": 3,
       "Madame Defarge": 3,
-      "Miss Pross": 3,
-      "Mr. Cruncher": 3,
       "Mr. Lorry": 3,
-      "Old Bailey": 3
+      "One Hundred": 3,
+      "Sydney Carton": 3,
+      "Republic": 3
     }
   },
   {
@@ -3075,14 +2203,14 @@
       }
     },
     "co_occurs_with": {
-      "Almost": 1,
-      "Buried": 1,
-      "Charles Darnay": 1,
       "Chief Secretary": 1,
-      "Citizen Defarge": 1,
       "Cruncher": 1,
       "Darnay": 1,
-      "Did": 1
+      "Did": 1,
+      "Doctor Manette": 1,
+      "General": 1,
+      "George Washington": 1,
+      "Jarvis Lorry": 1
     }
   },
   {
@@ -3097,14 +2225,36 @@
       }
     },
     "co_occurs_with": {
-      "Almost": 1,
-      "Buried": 1,
       "Calais": 1,
-      "Charles Darnay": 1,
       "Chief Secretary": 1,
-      "Citizen Defarge": 1,
       "Cruncher": 1,
-      "Darnay": 1
+      "Darnay": 1,
+      "Doctor Manette": 1,
+      "General": 1,
+      "George Washington": 1,
+      "Jarvis Lorry": 1
+    }
+  },
+  {
+    "canonical_name": "Judge",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 4,
+    "per_chapter": {
+      "3": {
+        "mentions": 4,
+        "snippet": "of the Judge, as he said something fiercely: \u201cAnswer the questions put"
+      }
+    },
+    "co_occurs_with": {
+      "Calais": 1,
+      "Chief Secretary": 1,
+      "Cruncher": 1,
+      "Darnay": 1,
+      "Did": 1,
+      "Doctor Manette": 1,
+      "General": 1,
+      "George Washington": 1
     }
   },
   {
@@ -3123,66 +2273,14 @@
       }
     },
     "co_occurs_with": {
-      "Charles Darnay": 2,
-      "Darnay": 2,
-      "Doctor Manette": 2,
-      "Lorry": 2,
-      "Lucie": 2,
-      "Miss Pross": 2,
-      "Mr. Lorry": 2,
-      "North Tower": 2
-    }
-  },
-  {
-    "canonical_name": "the Marquis",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 4,
-    "per_chapter": {
-      "7": {
-        "mentions": 1,
-        "snippet": "Monsieur the Marquis ran his eyes"
-      },
-      "8": {
-        "mentions": 2,
-        "snippet": "Monsieur the Marquis in his travelling carriage (which might have been"
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "Monsieur the Marquis indicates me with his finger,"
-      }
-    },
-    "co_occurs_with": {
-      "Saint Antoine": 3,
-      "Charles Darnay": 2,
-      "Cruncher": 2,
-      "Doctor Manette": 2,
-      "Lorry": 2,
-      "Miss Pross": 2,
-      "Monseigneur": 2,
-      "Monsieur the Marquis": 2
-    }
-  },
-  {
-    "canonical_name": "Rome",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 4,
-    "per_chapter": {
-      "14": {
-        "mentions": 4,
-        "snippet": "When you go to Rome, do as Rome does."
-      }
-    },
-    "co_occurs_with": {
-      "Citizen Doctor": 1,
-      "Citizeness Defarge": 1,
-      "Cruncher": 1,
-      "English Twopence": 1,
-      "Fleet": 1,
-      "Izaak Walton": 1,
-      "Jacques Three": 1,
-      "Jeremiah Cruncher": 1
+      "Saint Antoine": 2,
+      "Charles Darnay": 1,
+      "Clerkenwell": 1,
+      "Court House": 1,
+      "Darnay": 1,
+      "Doctor Manette": 1,
+      "Here": 1,
+      "Hundreds": 1
     }
   },
   {
@@ -3197,14 +2295,14 @@
       }
     },
     "co_occurs_with": {
-      "Bad Fortune": 1,
-      "Down": 1,
       "Good": 1,
       "Jacques Five": 1,
       "Jacques Four": 1,
       "Jacques One": 1,
       "Jacques Three": 1,
-      "Jacques Two": 1
+      "Jacques Two": 1,
+      "King": 1,
+      "Long": 1
     }
   },
   {
@@ -3289,36 +2387,14 @@
       }
     },
     "co_occurs_with": {
-      "Aggerawayter": 1,
-      "Anna Dominoes": 1,
-      "Anno Domini": 1,
       "Beauvais": 1,
       "Charles Darnay": 1,
       "Citizen Defarge": 1,
-      "Condemned Hold": 1,
-      "Cruncher": 1
-    }
-  },
-  {
-    "canonical_name": "Carmagnole",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 4,
-    "per_chapter": {
-      "6": {
-        "mentions": 4,
-        "snippet": "Carmagnole."
-      }
-    },
-    "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Charles Darnay": 1,
-      "Clerkenwell": 1,
-      "Court House": 1,
-      "Darnay": 1,
       "Doctor Manette": 1,
-      "Evening Paper": 1,
-      "Five": 1
+      "In England": 1,
+      "La Force": 1,
+      "La Guillotine": 1,
+      "Lorry": 1
     }
   },
   {
@@ -3335,12 +2411,12 @@
     "co_occurs_with": {
       "Ace": 1,
       "Antiquity": 1,
-      "Charles Darnay": 1,
       "Come": 1,
       "Conciergerie": 1,
       "Cruncher": 1,
       "Doctor Manette": 1,
-      "Don": 1
+      "Don": 1,
+      "Jerry": 1
     }
   },
   {
@@ -3356,13 +2432,13 @@
     },
     "co_occurs_with": {
       "Ace": 1,
-      "Charles Darnay": 1,
       "Come": 1,
       "Conciergerie": 1,
       "Cruncher": 1,
       "Doctor Manette": 1,
       "Don": 1,
-      "Furies": 1
+      "Good Republican Brutus": 1,
+      "Jerry": 1
     }
   },
   {
@@ -3379,12 +2455,12 @@
     "co_occurs_with": {
       "Ace": 1,
       "Antiquity": 1,
-      "Charles Darnay": 1,
       "Conciergerie": 1,
       "Cruncher": 1,
       "Doctor Manette": 1,
       "Don": 1,
-      "Furies": 1
+      "Good Republican Brutus": 1,
+      "Jerry": 1
     }
   },
   {
@@ -3401,12 +2477,12 @@
     "co_occurs_with": {
       "Ace": 1,
       "Antiquity": 1,
-      "Charles Darnay": 1,
       "Come": 1,
       "Cruncher": 1,
       "Doctor Manette": 1,
       "Don": 1,
-      "Furies": 1
+      "Good Republican Brutus": 1,
+      "Jerry": 1
     }
   },
   {
@@ -3423,12 +2499,12 @@
     "co_occurs_with": {
       "Alexandre Manette": 1,
       "Bastille": 1,
-      "Charles Darnay": 1,
-      "Darnay": 1,
-      "Dear Doctor Manette": 1,
       "Doctor Manette": 1,
       "Ernest Defarge": 1,
-      "Eternal Judgment": 1
+      "Eternal Judgment": 1,
+      "Madame Defarge": 1,
+      "Marquis St": 1,
+      "Nobles": 1
     }
   },
   {
@@ -3445,168 +2521,12 @@
     "co_occurs_with": {
       "Alexandre Manette": 1,
       "Bastille": 1,
-      "Charles Darnay": 1,
-      "Darnay": 1,
-      "Dear Doctor Manette": 1,
       "Doctor Manette": 1,
       "Ernest Defarge": 1,
-      "Eternal Judgment": 1
-    }
-  },
-  {
-    "canonical_name": "Lord Mayor",
-    "aliases": [
-      "Mayor"
-    ],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "that magnificent potentate, the Lord Mayor of London, was made to stand"
-      }
-    },
-    "co_occurs_with": {
-      "Aggerawayter": 1,
-      "Anna Dominoes": 1,
-      "Anno Domini": 1,
-      "Beauvais": 1,
-      "Charles Darnay": 1,
-      "Citizen Defarge": 1,
-      "Condemned Hold": 1,
-      "Cruncher": 1
-    }
-  },
-  {
-    "canonical_name": "Woodman",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "already marked by the Woodman, Fate, to come down and be sawn into"
-      }
-    },
-    "co_occurs_with": {
-      "Aggerawayter": 1,
-      "Anna Dominoes": 1,
-      "Anno Domini": 1,
-      "Beauvais": 1,
-      "Charles Darnay": 1,
-      "Citizen Defarge": 1,
-      "Condemned Hold": 1,
-      "Cruncher": 1
-    }
-  },
-  {
-    "canonical_name": "Shooter",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 3,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "Shooter\u2019s Hill."
-      }
-    },
-    "co_occurs_with": {
-      "Bank": 1,
-      "Blazing": 1,
-      "Charles Darnay": 1,
-      "Chief Justice": 1,
-      "Cruncher": 1,
-      "Doctor Manette": 1,
-      "Don": 1,
-      "Dover": 1
-    }
-  },
-  {
-    "canonical_name": "Blazing",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 3,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "\u201cThat\u2019s a Blazing strange answer, too,\u201d"
-      }
-    },
-    "co_occurs_with": {
-      "Bank": 1,
-      "Charles Darnay": 1,
-      "Chief Justice": 1,
-      "Cruncher": 1,
-      "Doctor Manette": 1,
-      "Don": 1,
-      "Dover": 1,
-      "French Lewis": 1
-    }
-  },
-  {
-    "canonical_name": "Buried",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 3,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "\u201cBuried how long?"
-      }
-    },
-    "co_occurs_with": {
-      "Almost": 1,
-      "Calais": 1,
-      "Charles Darnay": 1,
-      "Chief Secretary": 1,
-      "Citizen Defarge": 1,
-      "Cruncher": 1,
-      "Darnay": 1,
-      "Did": 1
-    }
-  },
-  {
-    "canonical_name": "Almost",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 3,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "The answer was always the same: \u201cAlmost eighteen years."
-      }
-    },
-    "co_occurs_with": {
-      "Buried": 1,
-      "Calais": 1,
-      "Charles Darnay": 1,
-      "Chief Secretary": 1,
-      "Citizen Defarge": 1,
-      "Cruncher": 1,
-      "Darnay": 1,
-      "Did": 1
-    }
-  },
-  {
-    "canonical_name": "Sometimes",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 3,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "Sometimes"
-      }
-    },
-    "co_occurs_with": {
-      "Almost": 1,
-      "Buried": 1,
-      "Calais": 1,
-      "Charles Darnay": 1,
-      "Chief Secretary": 1,
-      "Citizen Defarge": 1,
-      "Cruncher": 1,
-      "Darnay": 1
+      "Eternal Judgment": 1,
+      "Hush": 1,
+      "Madame Defarge": 1,
+      "Marquis St": 1
     }
   },
   {
@@ -3622,13 +2542,35 @@
     },
     "co_occurs_with": {
       "Bank": 1,
-      "Bastille Captive": 1,
       "Beauvais": 1,
-      "Charles Darnay": 1,
       "Concord": 1,
-      "Cross": 1,
-      "Darnay": 1,
-      "Dead Sea": 1
+      "Dead Sea": 1,
+      "French House": 1,
+      "Jarvis Lorry": 1,
+      "Lorry": 1,
+      "Miss Manette": 1
+    }
+  },
+  {
+    "canonical_name": "With",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201d With that advice, he wiped his soiled hand upon the joker\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Gentlemen": 1,
+      "Hunger": 1,
+      "Jacques Three": 1,
+      "Jarvis Lorry": 1,
+      "Lorry": 1,
+      "Madame Defarge": 1,
+      "Miss Manette": 1,
+      "Monsieur Defarge": 1
     }
   },
   {
@@ -3643,58 +2585,70 @@
       }
     },
     "co_occurs_with": {
-      "Chief Justice": 1,
-      "Court": 1,
-      "Doctor Manette": 1,
-      "Drinking Age": 1,
-      "Hilary Term": 1,
       "Hunger": 1,
       "Jacques Three": 1,
-      "Jarvis Lorry": 1
+      "Jarvis Lorry": 1,
+      "Lorry": 1,
+      "Madame Defarge": 1,
+      "Miss Manette": 1,
+      "Monsieur Defarge": 1,
+      "Monsieur Manette": 1
     }
   },
   {
-    "canonical_name": "Five",
+    "canonical_name": "Temple Bar",
     "aliases": [],
-    "first_chapter": 6,
+    "first_chapter": 3,
     "total_mentions": 3,
     "per_chapter": {
-      "6": {
-        "mentions": 3,
-        "snippet": "\u201cOne Hundred and Five, North Tower."
+      "3": {
+        "mentions": 1,
+        "snippet": "are the quickest messenger I know, and will get to Temple Bar long"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Temple Bar."
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "through Temple Bar to read."
       }
     },
     "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Carmagnole": 1,
-      "Charles Darnay": 1,
-      "Clerkenwell": 1,
-      "Court House": 1,
-      "Darnay": 1,
-      "Doctor Manette": 1,
-      "Evening Paper": 1
+      "Jerry": 3,
+      "Lorry": 3,
+      "Mr. Lorry": 3,
+      "Cruncher": 2,
+      "Darnay": 2,
+      "Doctor Manette": 2,
+      "Mr. Cruncher": 2,
+      "Mr. Darnay": 2
     }
   },
   {
-    "canonical_name": "Aggerawayter",
+    "canonical_name": "Old Bailey",
     "aliases": [],
-    "first_chapter": 1,
+    "first_chapter": 3,
     "total_mentions": 3,
     "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "mark--\u201cwhat are you up to, Aggerawayter?"
+      "3": {
+        "mentions": 1,
+        "snippet": "until he was clear of the Old Bailey; for, the crowd came pouring out"
+      },
+      "8": {
+        "mentions": 2,
+        "snippet": "elbow as negligently as he might have stood at the Old Bailey itself."
       }
     },
     "co_occurs_with": {
-      "Anna Dominoes": 1,
-      "Anno Domini": 1,
-      "Beauvais": 1,
-      "Charles Darnay": 1,
-      "Citizen Defarge": 1,
-      "Condemned Hold": 1,
-      "Cruncher": 1,
-      "Doctor Manette": 1
+      "Cruncher": 2,
+      "Doctor Manette": 2,
+      "Jerry": 2,
+      "Lorry": 2,
+      "Mr. Cruncher": 2,
+      "Mr. Lorry": 2,
+      "Roger Cly": 2,
+      "Sydney Carton": 2
     }
   },
   {
@@ -3709,88 +2663,14 @@
       }
     },
     "co_occurs_with": {
-      "Almost": 1,
-      "Buried": 1,
       "Calais": 1,
-      "Charles Darnay": 1,
       "Chief Secretary": 1,
-      "Citizen Defarge": 1,
       "Cruncher": 1,
-      "Darnay": 1
-    }
-  },
-  {
-    "canonical_name": "Mr. Charles Darnay",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 1,
-        "snippet": "Stryver, stood gathered round Mr."
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "More months, to the number of twelve, had come and gone, and Mr."
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Charles Darnay": 3,
-      "Miss Manette": 3,
-      "Darnay": 2,
-      "Doctor Manette": 2,
-      "Lucie Manette": 2,
-      "Mr. Carton": 2,
-      "Mr. Darnay": 2,
-      "Mr. Stryver": 2
-    }
-  },
-  {
-    "canonical_name": "Court",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "visage of the Lord Chief Justice in the Court of King\u2019s Bench, the"
-      }
-    },
-    "co_occurs_with": {
-      "Chief Justice": 1,
+      "Darnay": 1,
+      "Did": 1,
       "Doctor Manette": 1,
-      "Drinking Age": 1,
-      "Gentlemen": 1,
-      "Hilary Term": 1,
-      "Hunger": 1,
-      "Jacques Three": 1,
-      "Jarvis Lorry": 1
-    }
-  },
-  {
-    "canonical_name": "Ten",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cTen o\u2019clock, sir,\u201d said the man at the tavern, whom he had charged to"
-      }
-    },
-    "co_occurs_with": {
-      "Chief Justice": 1,
-      "Court": 1,
-      "Doctor Manette": 1,
-      "Drinking Age": 1,
-      "Gentlemen": 1,
-      "Hilary Term": 1,
-      "Hunger": 1,
-      "Jacques Three": 1
+      "General": 1,
+      "George Washington": 1
     }
   },
   {
@@ -3805,14 +2685,14 @@
       }
     },
     "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Carmagnole": 1,
       "Charles Darnay": 1,
       "Court House": 1,
       "Darnay": 1,
       "Doctor Manette": 1,
-      "Evening Paper": 1,
-      "Five": 1
+      "Here": 1,
+      "Hundreds": 1,
+      "Indeed": 1,
+      "Jarvis Lorry": 1
     }
   },
   {
@@ -3827,14 +2707,14 @@
       }
     },
     "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Carmagnole": 1,
       "Charles Darnay": 1,
       "Clerkenwell": 1,
       "Court House": 1,
       "Darnay": 1,
       "Doctor Manette": 1,
-      "Evening Paper": 1
+      "Here": 1,
+      "Hundreds": 1,
+      "Indeed": 1
     }
   },
   {
@@ -3849,14 +2729,14 @@
       }
     },
     "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Carmagnole": 1,
       "Charles Darnay": 1,
       "Clerkenwell": 1,
       "Court House": 1,
       "Darnay": 1,
       "Doctor Manette": 1,
-      "Evening Paper": 1
+      "Here": 1,
+      "Hundreds": 1,
+      "Indeed": 1
     }
   },
   {
@@ -3871,14 +2751,14 @@
       }
     },
     "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Carmagnole": 1,
       "Charles Darnay": 1,
       "Clerkenwell": 1,
       "Court House": 1,
       "Darnay": 1,
       "Doctor Manette": 1,
-      "Evening Paper": 1
+      "Hundreds": 1,
+      "Indeed": 1,
+      "Jarvis Lorry": 1
     }
   },
   {
@@ -3895,14 +2775,14 @@
       }
     },
     "co_occurs_with": {
-      "Banking House": 1,
       "Centre": 1,
-      "Charles Darnay": 1,
       "Circumference": 1,
-      "Citizen Doctor": 1,
-      "Citizeness Defarge": 1,
       "Comedy": 1,
-      "Common Executioner": 1
+      "Common Executioner": 1,
+      "Fancy Ball": 1,
+      "Farmer": 1,
+      "General": 1,
+      "Grand Opera": 1
     }
   },
   {
@@ -3917,14 +2797,14 @@
       }
     },
     "co_occurs_with": {
-      "Banking House": 1,
       "Centre": 1,
-      "Charles Darnay": 1,
       "Circumference": 1,
-      "Citizen Doctor": 1,
-      "Citizeness Defarge": 1,
       "Comedy": 1,
-      "Common Executioner": 1
+      "Common Executioner": 1,
+      "Fancy Ball": 1,
+      "Farmer": 1,
+      "General": 1,
+      "Indeed": 1
     }
   },
   {
@@ -3939,14 +2819,14 @@
       }
     },
     "co_occurs_with": {
-      "Banking House": 1,
       "Centre": 1,
-      "Charles Darnay": 1,
       "Circumference": 1,
-      "Citizen Doctor": 1,
-      "Citizeness Defarge": 1,
       "Common Executioner": 1,
-      "Cruncher": 1
+      "Fancy Ball": 1,
+      "Farmer": 1,
+      "General": 1,
+      "Grand Opera": 1,
+      "Indeed": 1
     }
   },
   {
@@ -3961,14 +2841,14 @@
       }
     },
     "co_occurs_with": {
-      "Banking House": 1,
       "Centre": 1,
-      "Charles Darnay": 1,
       "Circumference": 1,
-      "Citizen Doctor": 1,
-      "Citizeness Defarge": 1,
       "Comedy": 1,
-      "Common Executioner": 1
+      "Common Executioner": 1,
+      "Fancy Ball": 1,
+      "Farmer": 1,
+      "General": 1,
+      "Grand Opera": 1
     }
   },
   {
@@ -3983,14 +2863,14 @@
       }
     },
     "co_occurs_with": {
-      "Banking House": 1,
-      "Charles Darnay": 1,
       "Circumference": 1,
-      "Citizen Doctor": 1,
-      "Citizeness Defarge": 1,
       "Comedy": 1,
       "Common Executioner": 1,
-      "Cruncher": 1
+      "Fancy Ball": 1,
+      "Farmer": 1,
+      "General": 1,
+      "Grand Opera": 1,
+      "Indeed": 1
     }
   },
   {
@@ -4005,176 +2885,14 @@
       }
     },
     "co_occurs_with": {
-      "Banking House": 1,
       "Centre": 1,
-      "Charles Darnay": 1,
-      "Citizen Doctor": 1,
-      "Citizeness Defarge": 1,
       "Comedy": 1,
       "Common Executioner": 1,
-      "Cruncher": 1
-    }
-  },
-  {
-    "canonical_name": "Monsieur Charles",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 3,
-    "per_chapter": {
-      "8": {
-        "mentions": 2,
-        "snippet": "\u201cMonsieur Charles, whom I expect; is he arrived from England?"
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "Monsieur Charles, I see."
-      }
-    },
-    "co_occurs_with": {
-      "Charles Darnay": 2,
-      "Cruncher": 2,
-      "Doctor Manette": 2,
-      "Don": 2,
-      "Lorry": 2,
-      "Madame Defarge": 2,
-      "Monseigneur": 2,
-      "Monsieur Gabelle": 2
-    }
-  },
-  {
-    "canonical_name": "Furies",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 3,
-    "per_chapter": {
-      "8": {
-        "mentions": 3,
-        "snippet": "if he came attended by the Furies, Monsieur the Marquis drew up in"
-      }
-    },
-    "co_occurs_with": {
-      "Ace": 1,
-      "Antiquity": 1,
-      "Charles Darnay": 1,
-      "Come": 1,
-      "Conciergerie": 1,
-      "Cruncher": 1,
-      "Doctor Manette": 1,
-      "Don": 1
-    }
-  },
-  {
-    "canonical_name": "In England",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 2,
-        "snippet": "\u201cIn England."
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "\u201cIn England, for example?"
-      }
-    },
-    "co_occurs_with": {
-      "Charles Darnay": 2,
-      "Cruncher": 2,
-      "Doctor Manette": 2,
-      "La Force": 2,
-      "Lorry": 2,
-      "Mr. Cruncher": 2,
-      "Mr. Crunches": 2,
-      "Mr. Lorry": 2
-    }
-  },
-  {
-    "canonical_name": "Hah",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 3,
-    "per_chapter": {
-      "9": {
-        "mentions": 3,
-        "snippet": "Hah!"
-      }
-    },
-    "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Charles Darnay": 1,
-      "Citizen Manette": 1,
-      "Cruncher": 1,
-      "Darnay": 1,
-      "Doctor Manette": 1,
-      "Don": 1,
-      "Eternal Sleep": 1
-    }
-  },
-  {
-    "canonical_name": "Refuge",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 3,
-    "per_chapter": {
-      "9": {
-        "mentions": 3,
-        "snippet": "For the rest, it is my Refuge."
-      }
-    },
-    "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Charles Darnay": 1,
-      "Citizen Manette": 1,
-      "Cruncher": 1,
-      "Darnay": 1,
-      "Doctor Manette": 1,
-      "Don": 1,
-      "Eternal Sleep": 1
-    }
-  },
-  {
-    "canonical_name": "Long Vacation",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 3,
-    "per_chapter": {
-      "12": {
-        "mentions": 3,
-        "snippet": "to her before he left town for the Long Vacation."
-      }
-    },
-    "co_occurs_with": {
-      "Doctor Manette": 1,
-      "Good Evening": 1,
-      "House": 1,
-      "Jacques Three": 1,
-      "Lorry": 1,
-      "Lucie": 1,
-      "Madame Defarge": 1,
-      "Michaelmas Term": 1
-    }
-  },
-  {
-    "canonical_name": "Since",
-    "aliases": [],
-    "first_chapter": 13,
-    "total_mentions": 3,
-    "per_chapter": {
-      "13": {
-        "mentions": 3,
-        "snippet": "Since I knew you, I have been troubled by a remorse that"
-      }
-    },
-    "co_occurs_with": {
-      "Alexandre Manette": 1,
-      "Apparently": 1,
-      "Citizen Doctor": 1,
-      "Darnay": 1,
-      "Doctor Manette": 1,
-      "Don": 1,
-      "Have": 1,
-      "Jacques Two": 1
+      "Fancy Ball": 1,
+      "Farmer": 1,
+      "General": 1,
+      "Grand Opera": 1,
+      "Indeed": 1
     }
   },
   {
@@ -4398,54 +3116,6 @@
     }
   },
   {
-    "canonical_name": "Citizen Defarge",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 2,
-        "snippet": "\u201cCitizen Defarge,\u201d said he to Darnay\u2019s conductor, as he took a slip of"
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "upon him more and more, \u201cI state the case, Citizen Defarge?"
-      }
-    },
-    "co_occurs_with": {
-      "Charles Darnay": 2,
-      "Cruncher": 2,
-      "Doctor Manette": 2,
-      "La Force": 2,
-      "Lorry": 2,
-      "Mr. Cruncher": 2,
-      "Mr. Lorry": 2,
-      "Tellson": 2
-    }
-  },
-  {
-    "canonical_name": "Cross",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "It superseded the Cross."
-      }
-    },
-    "co_occurs_with": {
-      "Bank": 1,
-      "Bastille Captive": 1,
-      "Beauvais": 1,
-      "Charles Darnay": 1,
-      "Concord": 1,
-      "Darnay": 1,
-      "Dead Sea": 1,
-      "Doctor Manette": 1
-    }
-  },
-  {
     "canonical_name": "Ace",
     "aliases": [],
     "first_chapter": 8,
@@ -4458,13 +3128,13 @@
     },
     "co_occurs_with": {
       "Antiquity": 1,
-      "Charles Darnay": 1,
       "Come": 1,
       "Conciergerie": 1,
       "Cruncher": 1,
       "Doctor Manette": 1,
       "Don": 1,
-      "Furies": 1
+      "Good Republican Brutus": 1,
+      "Jerry": 1
     }
   },
   {
@@ -4481,12 +3151,12 @@
     "co_occurs_with": {
       "Alexandre Manette": 1,
       "Apparently": 1,
-      "Citizen Doctor": 1,
+      "Citizen": 1,
       "Darnay": 1,
-      "Doctor Manette": 1,
-      "Don": 1,
       "Jacques Two": 1,
-      "Jarvis Lorry": 1
+      "Jarvis Lorry": 1,
+      "La Force": 1,
+      "Lorry": 1
     }
   },
   {
@@ -4502,35 +3172,13 @@
     },
     "co_occurs_with": {
       "Alexandre Manette": 1,
-      "Citizen Doctor": 1,
+      "Citizen": 1,
       "Darnay": 1,
-      "Doctor Manette": 1,
-      "Don": 1,
       "Have": 1,
       "Jacques Two": 1,
-      "Jarvis Lorry": 1
-    }
-  },
-  {
-    "canonical_name": "Down",
-    "aliases": [],
-    "first_chapter": 15,
-    "total_mentions": 3,
-    "per_chapter": {
-      "15": {
-        "mentions": 3,
-        "snippet": "The man cries, \u201cDown, Evr\u00e9monde!"
-      }
-    },
-    "co_occurs_with": {
-      "All": 1,
-      "Bad Fortune": 1,
-      "Good": 1,
-      "Jacques Five": 1,
-      "Jacques Four": 1,
-      "Jacques One": 1,
-      "Jacques Three": 1,
-      "Jacques Two": 1
+      "Jarvis Lorry": 1,
+      "La Force": 1,
+      "Lorry": 1
     }
   }
 ]

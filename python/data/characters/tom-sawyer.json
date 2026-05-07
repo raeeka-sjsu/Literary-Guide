@@ -153,14 +153,14 @@
       }
     },
     "co_occurs_with": {
-      "Injun Joe": 11,
+      "Injun Joe": 10,
       "Tom": 7,
       "Tom Sawyer": 5,
       "Aunt Polly": 4,
+      "Joe Harper": 3,
       "Judge Thatcher": 3,
-      "Muff Potter": 3,
-      "Widow Douglas": 3,
-      "Joe Harper": 3
+      "Number Two": 3,
+      "Widow Douglas": 3
     }
   },
   {
@@ -248,11 +248,11 @@
       "Sid": 9,
       "Tom": 9,
       "Tom Sawyer": 8,
-      "Injun Joe": 7,
       "Joe Harper": 6,
+      "Injun Joe": 6,
       "Judge Thatcher": 5,
       "Huck": 4,
-      "Widow Douglas": 4
+      "Becky Thatcher": 4
     }
   },
   {
@@ -261,7 +261,7 @@
       "Joe"
     ],
     "first_chapter": 9,
-    "total_mentions": 78,
+    "total_mentions": 74,
     "per_chapter": {
       "9": {
         "mentions": 5,
@@ -326,21 +326,17 @@
       "33": {
         "mentions": 5,
         "snippet": "still, for if the beam had been wholly cut away Injun Joe could not have"
-      },
-      "35": {
-        "mentions": 4,
-        "snippet": "Injun Joe\u2019s two Victims"
       }
     },
     "co_occurs_with": {
-      "Huck": 11,
       "Tom": 11,
-      "Aunt Polly": 7,
-      "Muff Potter": 6,
-      "Tom Sawyer": 6,
-      "Judge Thatcher": 5,
-      "Thatcher": 5,
-      "Widow Douglas": 5
+      "Huck": 10,
+      "Aunt Polly": 6,
+      "Muff Potter": 5,
+      "Tom Sawyer": 5,
+      "Joe Harper": 5,
+      "Judge Thatcher": 4,
+      "Mrs. Thatcher": 4
     }
   },
   {
@@ -395,17 +391,17 @@
       "Tom": 6,
       "Joe Harper": 5,
       "Tom Sawyer": 4,
+      "There": 3,
       "Injun Joe": 3,
       "Muff Potter": 3,
-      "There": 3,
-      "Hoss Williams": 2
+      "Amy Lawrence": 2
     }
   },
   {
     "canonical_name": "Becky",
     "aliases": [],
     "first_chapter": 29,
-    "total_mentions": 61,
+    "total_mentions": 57,
     "per_chapter": {
       "29": {
         "mentions": 6,
@@ -418,55 +414,17 @@
       "32": {
         "mentions": 5,
         "snippet": "withal; and closed with a description of how he left Becky and went"
-      },
-      "35": {
-        "mentions": 4,
-        "snippet": "Becky Thatcher"
       }
     },
     "co_occurs_with": {
-      "Injun Joe": 4,
-      "Thatcher": 4,
-      "Judge Thatcher": 3,
-      "Widow Douglas": 3,
+      "Injun Joe": 3,
       "Mrs. Thatcher": 3,
+      "Thatcher": 3,
       "Tom": 3,
-      "Aunt Polly": 2,
-      "Huck": 2
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 59,
-    "per_chapter": {
-      "1": {
-        "mentions": 12,
-        "snippet": "The old lady pulled her spectacles down and looked over them about the"
-      },
-      "2": {
-        "mentions": 5,
-        "snippet": "The locust-trees were in bloom"
-      },
-      "19": {
-        "mentions": 5,
-        "snippet": "\u201cThe bark I had wrote on to tell you we\u2019d gone pirating."
-      },
-      "35": {
-        "mentions": 37,
-        "snippet": "The Church"
-      }
-    },
-    "co_occurs_with": {
-      "Aunt Polly": 3,
-      "Model Boy": 2,
-      "Jim": 2,
-      "Tom": 2,
-      "Astonishes the School": 1,
-      "Aunt Muff Potter": 1,
-      "Aunt Polly Beguiled": 1,
-      "Aunt Polly Tom": 1
+      "Cardiff Hill": 2,
+      "Judge Thatcher": 2,
+      "Widow Douglas": 2,
+      "Joe Harper": 2
     }
   },
   {
@@ -533,12 +491,42 @@
     "co_occurs_with": {
       "Aunt Polly": 6,
       "Tom": 6,
-      "Injun Joe": 5,
       "Sid": 5,
       "Tom Sawyer": 5,
+      "Injun Joe": 5,
       "Ben Rogers": 4,
       "Mrs. Harper": 4,
       "Cardiff Hill": 4
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 22,
+    "per_chapter": {
+      "1": {
+        "mentions": 12,
+        "snippet": "The old lady pulled her spectacles down and looked over them about the"
+      },
+      "2": {
+        "mentions": 5,
+        "snippet": "The locust-trees were in bloom"
+      },
+      "19": {
+        "mentions": 5,
+        "snippet": "\u201cThe bark I had wrote on to tell you we\u2019d gone pirating."
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 2,
+      "Jim": 2,
+      "Tom": 2,
+      "Can": 1,
+      "Good Book": 1,
+      "Model Boy": 1,
+      "Old Scratch": 1,
+      "Sid": 1
     }
   },
   {
@@ -568,48 +556,6 @@
     }
   },
   {
-    "canonical_name": "Muff Potter",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 18,
-    "per_chapter": {
-      "9": {
-        "mentions": 2,
-        "snippet": "One of \u2019em\u2019s old Muff Potter\u2019s"
-      },
-      "10": {
-        "mentions": 4,
-        "snippet": "\u201cIf anybody tells, let Muff Potter do it, if he\u2019s fool enough."
-      },
-      "11": {
-        "mentions": 4,
-        "snippet": "recognized by somebody as belonging to Muff Potter\u2014so the story ran."
-      },
-      "23": {
-        "mentions": 6,
-        "snippet": "Well, it\u2019s just Muff Potter, Muff Potter, Muff Potter all the"
-      },
-      "24": {
-        "mentions": 1,
-        "snippet": "As usual, the fickle, unreasoning world took Muff Potter to its bosom"
-      },
-      "35": {
-        "mentions": 1,
-        "snippet": "Muff Potter"
-      }
-    },
-    "co_occurs_with": {
-      "Injun Joe": 6,
-      "Aunt Polly": 3,
-      "Huck": 3,
-      "Tom Sawyer": 3,
-      "Sid": 3,
-      "Tom": 3,
-      "Huckleberry": 2,
-      "Astonishes the School": 1
-    }
-  },
-  {
     "canonical_name": "Mr. Jones",
     "aliases": [
       "Jones"
@@ -635,6 +581,44 @@
       "Huck": 1,
       "Injun Joe": 1,
       "Joe Harper": 1
+    }
+  },
+  {
+    "canonical_name": "Muff Potter",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 17,
+    "per_chapter": {
+      "9": {
+        "mentions": 2,
+        "snippet": "One of \u2019em\u2019s old Muff Potter\u2019s"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cIf anybody tells, let Muff Potter do it, if he\u2019s fool enough."
+      },
+      "11": {
+        "mentions": 4,
+        "snippet": "recognized by somebody as belonging to Muff Potter\u2014so the story ran."
+      },
+      "23": {
+        "mentions": 6,
+        "snippet": "Well, it\u2019s just Muff Potter, Muff Potter, Muff Potter all the"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "As usual, the fickle, unreasoning world took Muff Potter to its bosom"
+      }
+    },
+    "co_occurs_with": {
+      "Injun Joe": 5,
+      "Sid": 3,
+      "Tom": 3,
+      "Aunt Polly": 2,
+      "Huckleberry": 2,
+      "Huck": 2,
+      "Tom Sawyer": 2,
+      "Doctor Robinson": 1
     }
   },
   {
@@ -716,13 +700,13 @@
     },
     "co_occurs_with": {
       "Aunt Polly": 8,
-      "Injun Joe": 6,
       "Huck": 5,
       "Joe Harper": 5,
+      "Injun Joe": 5,
       "Judge Thatcher": 4,
       "Sid": 4,
       "Thomas Sawyer": 4,
-      "Muff Potter": 3
+      "Becky Thatcher": 3
     }
   },
   {
@@ -753,14 +737,14 @@
       }
     },
     "co_occurs_with": {
-      "Injun Joe": 5,
-      "Becky": 4,
+      "Injun Joe": 4,
       "Judge Thatcher": 4,
-      "Widow Douglas": 4,
       "Mrs. Thatcher": 4,
+      "Widow Douglas": 4,
       "Aunt Polly": 3,
       "Cardiff Hill": 3,
-      "Joe Harper": 3
+      "Joe Harper": 3,
+      "Becky": 3
     }
   },
   {
@@ -819,14 +803,14 @@
       }
     },
     "co_occurs_with": {
-      "Injun Joe": 5,
       "Judge Thatcher": 5,
       "Aunt Polly": 4,
+      "Injun Joe": 4,
       "Thatcher": 4,
-      "Becky": 3,
-      "Huck": 3,
-      "Tom Sawyer": 3,
-      "Cardiff Hill": 3
+      "Cardiff Hill": 3,
+      "Joe Harper": 3,
+      "Mrs. Thatcher": 3,
+      "Tom Sawyer": 3
     }
   },
   {
@@ -910,13 +894,13 @@
     },
     "co_occurs_with": {
       "Aunt Polly": 5,
-      "Injun Joe": 5,
       "Widow Douglas": 5,
-      "Thatcher": 4,
       "Tom Sawyer": 4,
-      "Becky": 3,
-      "Huck": 3,
-      "Cardiff Hill": 3
+      "Injun Joe": 4,
+      "Thatcher": 4,
+      "Cardiff Hill": 3,
+      "Joe Harper": 3,
+      "Mrs. Thatcher": 3
     }
   },
   {
@@ -1061,12 +1045,12 @@
     "co_occurs_with": {
       "Aunt Polly": 3,
       "Sid": 3,
-      "Hoss Williams": 2,
       "Tom": 2,
-      "Doctor Robinson": 1,
-      "Here": 1,
-      "Huckleberry": 1,
-      "Injun Joe": 1
+      "Hoss Williams": 2,
+      "Can": 1,
+      "Good Book": 1,
+      "Jim": 1,
+      "Model Boy": 1
     }
   },
   {
@@ -1124,36 +1108,6 @@
     }
   },
   {
-    "canonical_name": "Robin Hood",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 9,
-    "per_chapter": {
-      "8": {
-        "mentions": 4,
-        "snippet": "I am Robin Hood, as thy caitiff carcase soon shall know."
-      },
-      "26": {
-        "mentions": 4,
-        "snippet": "you know Robin Hood, Huck?"
-      },
-      "35": {
-        "mentions": 1,
-        "snippet": "Death of Robin Hood"
-      }
-    },
-    "co_occurs_with": {
-      "Huck": 2,
-      "Injun Joe": 2,
-      "Astonishes the School": 1,
-      "Aunt Muff Potter": 1,
-      "Aunt Polly": 1,
-      "Aunt Polly Beguiled": 1,
-      "Aunt Polly Tom": 1,
-      "Becky": 1
-    }
-  },
-  {
     "canonical_name": "Becky Thatcher",
     "aliases": [],
     "first_chapter": 7,
@@ -1189,6 +1143,32 @@
       "Joe Harper": 2,
       "Pain": 1,
       "Peter": 1
+    }
+  },
+  {
+    "canonical_name": "Robin Hood",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 8,
+    "per_chapter": {
+      "8": {
+        "mentions": 4,
+        "snippet": "I am Robin Hood, as thy caitiff carcase soon shall know."
+      },
+      "26": {
+        "mentions": 4,
+        "snippet": "you know Robin Hood, Huck?"
+      }
+    },
+    "co_occurs_with": {
+      "Huck": 1,
+      "Injun Joe": 1,
+      "Number Two": 1,
+      "Spaniard": 1,
+      "Tom": 1,
+      "Black Avenger": 1,
+      "Far West": 1,
+      "Friar Tuck": 1
     }
   },
   {
@@ -1265,12 +1245,12 @@
     "co_occurs_with": {
       "Tom Sawyer": 4,
       "Aunt Polly": 3,
-      "Huck": 2,
       "Sid": 2,
-      "Call Thomas Sawyer": 1,
-      "Horse Williams": 1,
-      "Injun Joe": 1,
-      "Muff Potter": 1
+      "Huck": 2,
+      "Bible": 1,
+      "Judge Thatcher": 1,
+      "Mary": 1,
+      "Mosaic Law": 1
     }
   },
   {
@@ -1368,13 +1348,13 @@
     },
     "co_occurs_with": {
       "Injun Joe": 2,
-      "Bull Harbison": 1,
-      "Gracie Miller": 1,
-      "Huck Finn": 1,
-      "Huckleberry": 1,
-      "Hucky": 1,
-      "Joe Harper": 1,
-      "Mr. Harbison": 1
+      "Aunt Polly": 1,
+      "Ben": 1,
+      "Big Missouri": 1,
+      "Buffalo Gals": 1,
+      "Delectable Land": 1,
+      "Jim": 1,
+      "Mars Tom": 1
     }
   },
   {
@@ -1511,72 +1491,6 @@
       "Ben Rogers": 1,
       "Benny Taylor": 1,
       "Cave Hollow": 1
-    }
-  },
-  {
-    "canonical_name": "Tail",
-    "aliases": [],
-    "first_chapter": 35,
-    "total_mentions": 4,
-    "per_chapter": {
-      "35": {
-        "mentions": 4,
-        "snippet": "Tail Piece"
-      }
-    },
-    "co_occurs_with": {
-      "Astonishes the School": 1,
-      "Aunt Muff Potter": 1,
-      "Aunt Polly": 1,
-      "Aunt Polly Beguiled": 1,
-      "Aunt Polly Tom": 1,
-      "Becky": 1,
-      "Board Their First": 1,
-      "Business": 1
-    }
-  },
-  {
-    "canonical_name": "Piece",
-    "aliases": [],
-    "first_chapter": 35,
-    "total_mentions": 4,
-    "per_chapter": {
-      "35": {
-        "mentions": 4,
-        "snippet": "Tail Piece"
-      }
-    },
-    "co_occurs_with": {
-      "Astonishes the School": 1,
-      "Aunt Muff Potter": 1,
-      "Aunt Polly": 1,
-      "Aunt Polly Beguiled": 1,
-      "Aunt Polly Tom": 1,
-      "Becky": 1,
-      "Board Their First": 1,
-      "Business": 1
-    }
-  },
-  {
-    "canonical_name": "Cave",
-    "aliases": [],
-    "first_chapter": 35,
-    "total_mentions": 4,
-    "per_chapter": {
-      "35": {
-        "mentions": 4,
-        "snippet": "McDougal\u2019s Cave"
-      }
-    },
-    "co_occurs_with": {
-      "Astonishes the School": 1,
-      "Aunt Muff Potter": 1,
-      "Aunt Polly": 1,
-      "Aunt Polly Beguiled": 1,
-      "Aunt Polly Tom": 1,
-      "Becky": 1,
-      "Board Their First": 1,
-      "Business": 1
     }
   },
   {
@@ -1794,102 +1708,6 @@
     }
   },
   {
-    "canonical_name": "Model Boy",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "He was not the Model Boy of the village."
-      },
-      "5": {
-        "mentions": 1,
-        "snippet": "the Model Boy, Willie Mufferson, taking as heedful care of his mother as"
-      },
-      "35": {
-        "mentions": 1,
-        "snippet": "The Model Boy"
-      }
-    },
-    "co_occurs_with": {
-      "Aunt Polly": 3,
-      "The": 2,
-      "Tom": 2,
-      "Astonishes the School": 1,
-      "Aunt Muff Potter": 1,
-      "Aunt Polly Beguiled": 1,
-      "Aunt Polly Tom": 1,
-      "Becky": 1
-    }
-  },
-  {
-    "canonical_name": "Home",
-    "aliases": [],
-    "first_chapter": 35,
-    "total_mentions": 3,
-    "per_chapter": {
-      "35": {
-        "mentions": 3,
-        "snippet": "Tom at Home"
-      }
-    },
-    "co_occurs_with": {
-      "Astonishes the School": 1,
-      "Aunt Muff Potter": 1,
-      "Aunt Polly": 1,
-      "Aunt Polly Beguiled": 1,
-      "Aunt Polly Tom": 1,
-      "Becky": 1,
-      "Board Their First": 1,
-      "Business": 1
-    }
-  },
-  {
-    "canonical_name": "Business",
-    "aliases": [],
-    "first_chapter": 35,
-    "total_mentions": 3,
-    "per_chapter": {
-      "35": {
-        "mentions": 3,
-        "snippet": "\u2019Tendin\u2019 to Business"
-      }
-    },
-    "co_occurs_with": {
-      "Astonishes the School": 1,
-      "Aunt Muff Potter": 1,
-      "Aunt Polly": 1,
-      "Aunt Polly Beguiled": 1,
-      "Aunt Polly Tom": 1,
-      "Becky": 1,
-      "Board Their First": 1,
-      "Cave": 1
-    }
-  },
-  {
-    "canonical_name": "Prize",
-    "aliases": [],
-    "first_chapter": 35,
-    "total_mentions": 3,
-    "per_chapter": {
-      "35": {
-        "mentions": 3,
-        "snippet": "The Prize"
-      }
-    },
-    "co_occurs_with": {
-      "Astonishes the School": 1,
-      "Aunt Muff Potter": 1,
-      "Aunt Polly": 1,
-      "Aunt Polly Beguiled": 1,
-      "Aunt Polly Tom": 1,
-      "Becky": 1,
-      "Board Their First": 1,
-      "Business": 1
-    }
-  },
-  {
     "canonical_name": "Can",
     "aliases": [],
     "first_chapter": 1,
@@ -2080,11 +1898,11 @@
       "Joe Harper": 3,
       "Injun Joe": 2,
       "Tom Sawyer": 2,
-      "Bull Harbison": 1,
-      "Gracie Miller": 1,
-      "Huckleberry": 1,
-      "Hucky": 1,
-      "Johnny Miller": 1
+      "Aunt Polly": 1,
+      "Cardiff Hill": 1,
+      "Judge Thatcher": 1,
+      "Mrs. Harper": 1,
+      "Mrs. Thatcher": 1
     }
   },
   {
