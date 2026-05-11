@@ -66,7 +66,18 @@ def ask():
     question = (payload.get("question") or "").strip()
     chapter = payload.get("chapter")
     provider = payload.get("provider", "dry-run")
-    top_k = int(payload.get("top_k", 4))
+    # Adaptive top_k: scale with how far into the book the reader is, capped to
+    # keep the LLM context manageable. A reader 40+ chapters in needs broader
+    # context; a reader on chapter 2 only has 2 chapters' worth of content.
+    _explicit_k = payload.get("top_k")
+    if _explicit_k is None:
+        try:
+            ch = int(payload.get("chapter") or 1)
+        except (TypeError, ValueError):
+            ch = 1
+        top_k = min(max(6, ch // 2), 16)
+    else:
+        top_k = int(_explicit_k)
     book_id = (payload.get("book_id") or "").strip() or None
     user_id = (payload.get("user_id") or DEFAULT_USER).strip() or DEFAULT_USER
     retrieval_mode = (payload.get("retrieval_mode") or "hybrid").strip()

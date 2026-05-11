@@ -314,19 +314,20 @@ def query_book(
             "bm25_score": bm25_scores.get(i),
         })
 
-    # Always include at least one chunk from the user's CURRENT chapter so
-    # questions about events on the current page can be answered even when
-    # semantic similarity points elsewhere. Prepend up to 2 current-chapter
-    # chunks if none are already in the top-k results.
+    # Ensure at least one chunk from the user's CURRENT chapter is included
+    # so questions about events on the current page can be answered even when
+    # semantic similarity ranks earlier-chapter chunks higher. Inject only
+    # ONE current-chapter chunk, and only if no current-chapter chunk is
+    # already present, so prior-chapter content retains the majority of slots.
     chapters_in_results = {int((c.get("metadata") or {}).get("chapter") or 0) for c in out}
     if chapter_limit not in chapters_in_results:
         current_chunk_indices = [
             i for i, m in enumerate(metas)
             if int(m.get("chapter") or 0) == chapter_limit
         ]
-        prepend = []
-        for i in current_chunk_indices[:2]:
-            prepend.append({
+        if current_chunk_indices:
+            i = current_chunk_indices[0]
+            prepend = [{
                 "id": ids[i],
                 "document": docs[i],
                 "metadata": metas[i],
@@ -334,8 +335,8 @@ def query_book(
                 "retrieval_mode": "current_chapter_force",
                 "dense_score": None,
                 "bm25_score": None,
-            })
-        out = prepend + out[: max(0, top_k - len(prepend))]
+            }]
+            out = prepend + out[: max(0, top_k - 1)]
     return out
 
 

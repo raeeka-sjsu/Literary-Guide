@@ -45,7 +45,7 @@ def retrieve_passages(
     query: str,
     book_id: str,
     chapter_limit: int,
-    k: int = 4,
+    k: int = 8,
     mode: str = "hybrid",
 ) -> Dict[str, Any]:
     """Hybrid (BM25 + dense, RRF) retrieval over the book's chapter chunks.
@@ -64,7 +64,9 @@ def retrieve_passages(
     ensure_book_index(book_id)
     chunks = query_book(book_id, query, chapter_limit, top_k=k, mode=mode)
 
-    # Force-include current-chapter chunks if not already present in top-k
+    # Ensure at least one current-chapter chunk is included, only if none is
+    # already in the top-k results. Inject only ONE so that prior-chapter
+    # passages retain the majority of the retrieval slots.
     current_chapters_in_results = {
         int((c.get("metadata") or {}).get("chapter") or 0)
         for c in chunks
@@ -76,17 +78,16 @@ def retrieve_passages(
             ids = data["ids"]
             docs = data["documents"]
             metas = data["metadatas"]
-            current_chunks = []
             for i, m in enumerate(metas):
                 if int(m.get("chapter") or 0) == chapter_limit:
-                    current_chunks.append({
+                    injected = [{
                         "id": ids[i],
                         "metadata": m,
-                        "score": 0.0,  # not score-ranked, prepended for context
+                        "score": 0.0,
                         "document": docs[i],
-                    })
-            # Take up to 2 chunks from the current chapter, prepend them
-            chunks = current_chunks[:2] + chunks[: max(0, k - 2)]
+                    }]
+                    chunks = injected + chunks[: max(0, k - 1)]
+                    break
         except Exception:
             pass  # best-effort augmentation; never fail the main retrieval
 
@@ -115,7 +116,7 @@ def lookup_character(
     name: str,
     book_id: str,
     chapter_limit: int,
-    k: int = 4,
+    k: int = 6,
 ) -> Dict[str, Any]:
     """Find passages where a character's name appears, up to chapter_limit.
 
@@ -448,11 +449,16 @@ TOOLS: Dict[str, Any] = {
 TOOL_DESCRIPTIONS = """\
 Available tools (call by name with the listed args):
 
-1. retrieve_passages(query: str, k: int = 4, mode: str = "hybrid")
+1. retrieve_passages(query: str, k: int = 8, mode: str = "hybrid")
    Hybrid keyword + semantic retrieval over the book's ORIGINAL text.
-   Best for thematic, symbolic, or quote-style questions.
+   Best for thematic, symbolic, or quote-style questions. Default `k` is
+   selected adaptively by the system based on the reader's chapter (a deeper
+   reader gets more chunks). Override `k` when the question genuinely needs
+   wider context (e.g., "how has X been characterized throughout the book
+   so far" — set k to 12 or 14) or tighter focus (single-scene question —
+   k = 4 or 5).
 
-2. lookup_character(name: str, k: int = 4)
+2. lookup_character(name: str, k: int = 6)
    Vector retrieval of passages mentioning a character — returns full passages.
    Use AFTER list_known_characters/get_character_profile when you need quotes.
 

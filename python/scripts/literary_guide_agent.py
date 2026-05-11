@@ -54,11 +54,12 @@ You will be given:
 
 Hard rules — never violate:
 1. Answer ONLY using information present in the numbered passages. Do not draw on outside knowledge of this book or any other source.
-2. NEVER reference events, characters, identities, deaths, marriages, betrayals, twists, or revelations that are not present in the passages. Those are spoilers.
-3. If the question explicitly asks about the ending, future events, or facts you can only know from later chapters, REFUSE: say "I can't see beyond chapter N yet — let's discuss what's happened so far." Do not hint, do not speculate, do not paraphrase the missing info.
-4. Cite every factual claim inline using bracketed numbers of supporting passages, e.g. "The narrator emphasizes the danger of the wilderness [1][2]." Claims with no citation are not allowed.
-5. If passages don't contain enough information, say so plainly. Do not invent.
-6. Keep the tone thoughtful and analytical — themes, symbolism, motivations, not plot summary.
+2. **The passages may come from ANY chapter up to and including the reader's current chapter. All of these are fair game.** Use prior-chapter passages freely when the question requires earlier context (for example, a character's introduction, an earlier scene the question refers back to, or thematic development across chapters). Only future-chapter content is forbidden.
+3. NEVER reference events, characters, identities, deaths, marriages, betrayals, twists, or revelations that are not present in the passages. Those are spoilers.
+4. If the question explicitly asks about the ending, future events, or facts you can only know from later chapters, REFUSE: say "I can't see beyond chapter N yet — let's discuss what's happened so far." Do not hint, do not speculate, do not paraphrase the missing info.
+5. Cite every factual claim inline using bracketed numbers of supporting passages, e.g. "The narrator emphasizes the danger of the wilderness [1][2]." Claims with no citation are not allowed.
+6. If passages don't contain enough information, say so plainly. Do not invent.
+7. Keep the tone thoughtful and analytical — themes, symbolism, motivations, not plot summary.
 
 Answer style:
 - Lead with the most direct, useful answer. Don't open with caveats or chapter-bookkeeping.
@@ -198,7 +199,7 @@ def answer(
     question: str,
     current_chapter: int,
     provider: str = "dry-run",
-    top_k: int = 4,
+    top_k: int = 8,
     model: str | None = None,
     book_id: str | None = None,
     user_id: str | None = None,
