@@ -22,3 +22,6 @@ python/outputs/*.tmp
 
 # User state (SQLite memory store)
 python/data/*.sqlite
+
+# Claude Code internal state
+.claude/
