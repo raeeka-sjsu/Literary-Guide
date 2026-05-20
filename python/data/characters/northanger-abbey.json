@@ -3,15 +3,11 @@
     "canonical_name": "Catherine",
     "aliases": [],
     "first_chapter": 3,
-    "total_mentions": 443,
+    "total_mentions": 396,
     "per_chapter": {
       "3": {
         "mentions": 8,
         "snippet": "Catherine felt herself in high luck."
-      },
-      "4": {
-        "mentions": 6,
-        "snippet": "With more than usual eagerness did Catherine hasten to the pump-room"
       },
       "5": {
         "mentions": 7,
@@ -41,10 +37,6 @@
         "mentions": 20,
         "snippet": "few efforts to appear, and Catherine augured from it everything most"
       },
-      "12": {
-        "mentions": 12,
-        "snippet": "Allen,\u201d said Catherine the next morning, \u201cwill there be any harm"
-      },
       "13": {
         "mentions": 29,
         "snippet": "secured, Catherine only remained to be apprised of it."
@@ -56,10 +48,6 @@
       "15": {
         "mentions": 28,
         "snippet": "matter of the utmost importance, hastened Catherine, in the happiest"
-      },
-      "16": {
-        "mentions": 13,
-        "snippet": "Catherine\u2019s expectations of pleasure from her visit in Milsom Street"
       },
       "17": {
         "mentions": 8,
@@ -76,10 +64,6 @@
       "20": {
         "mentions": 7,
         "snippet": "Catherine\u2019s spirits"
-      },
-      "21": {
-        "mentions": 16,
-        "snippet": "A moment\u2019s glance was enough to satisfy Catherine that her apartment"
       },
       "22": {
         "mentions": 18,
@@ -119,14 +103,14 @@
       }
     },
     "co_occurs_with": {
-      "Tilney": 26,
-      "Morland": 24,
-      "Allen": 20,
-      "Thorpe": 19,
-      "Miss Morland": 19,
-      "Mrs. Allen": 18,
-      "Miss Tilney": 17,
-      "Mr. Allen": 15
+      "Tilney": 22,
+      "Morland": 21,
+      "Allen": 17,
+      "Miss Morland": 17,
+      "Thorpe": 16,
+      "Mrs. Allen": 16,
+      "Miss Tilney": 14,
+      "Isabella": 13
     }
   },
   {
@@ -245,8 +229,8 @@
       }
     },
     "co_occurs_with": {
-      "Catherine": 26,
       "Morland": 23,
+      "Catherine": 22,
       "Allen": 19,
       "Thorpe": 18,
       "Miss Tilney": 18,
@@ -336,9 +320,9 @@
     },
     "co_occurs_with": {
       "Tilney": 18,
-      "Catherine": 17,
       "Morland": 17,
       "Allen": 15,
+      "Catherine": 14,
       "Mrs. Allen": 13,
       "Miss Morland": 13,
       "Thorpe": 12,
@@ -413,14 +397,14 @@
       }
     },
     "co_occurs_with": {
-      "Catherine": 14,
       "Thorpe": 14,
       "Tilney": 14,
+      "Catherine": 13,
       "Morland": 12,
       "Allen": 10,
       "Mrs. Allen": 10,
       "Miss Thorpe": 9,
-      "John Thorpe": 8
+      "Miss Tilney": 8
     }
   },
   {
@@ -525,10 +509,10 @@
     "co_occurs_with": {
       "Morland": 20,
       "Mrs. Allen": 20,
-      "Catherine": 20,
       "Tilney": 19,
       "Miss Morland": 17,
       "Mr. Allen": 17,
+      "Catherine": 17,
       "Miss Tilney": 15,
       "Thorpe": 15
     }
@@ -649,9 +633,9 @@
       }
     },
     "co_occurs_with": {
-      "Catherine": 24,
       "Tilney": 23,
       "Miss Morland": 21,
+      "Catherine": 21,
       "Allen": 20,
       "Mrs. Allen": 17,
       "Miss Tilney": 17,
@@ -752,8 +736,8 @@
     },
     "co_occurs_with": {
       "Morland": 21,
-      "Catherine": 19,
       "Allen": 17,
+      "Catherine": 17,
       "Tilney": 17,
       "Mr. Allen": 14,
       "Mrs. Allen": 14,
@@ -849,8 +833,8 @@
       }
     },
     "co_occurs_with": {
-      "Catherine": 19,
       "Tilney": 18,
+      "Catherine": 16,
       "Morland": 16,
       "Allen": 15,
       "Mrs. Allen": 15,
@@ -948,9 +932,9 @@
     },
     "co_occurs_with": {
       "Allen": 20,
-      "Catherine": 18,
       "Morland": 17,
       "Tilney": 17,
+      "Catherine": 16,
       "Thorpe": 15,
       "Miss Morland": 14,
       "Mr. Allen": 14,
@@ -961,15 +945,11 @@
     "canonical_name": "Henry",
     "aliases": [],
     "first_chapter": 20,
-    "total_mentions": 71,
+    "total_mentions": 66,
     "per_chapter": {
       "20": {
         "mentions": 5,
         "snippet": "Miss Tilney\u2019s manners and Henry\u2019s smile soon did away some of her"
-      },
-      "21": {
-        "mentions": 5,
-        "snippet": "was very unlike the one which Henry had endeavoured to alarm her by the"
       },
       "22": {
         "mentions": 7,
@@ -1005,14 +985,14 @@
       }
     },
     "co_occurs_with": {
-      "Tilney": 10,
-      "Morland": 9,
-      "Catherine": 9,
-      "Miss Tilney": 7,
-      "Miss Morland": 7,
-      "Allen": 5,
+      "Tilney": 9,
+      "Morland": 8,
+      "Catherine": 8,
+      "Miss Tilney": 6,
+      "Miss Morland": 6,
       "Captain Tilney": 5,
-      "General": 5
+      "General": 5,
+      "Allen": 4
     }
   },
   {
@@ -1116,8 +1096,8 @@
       "Morland": 12,
       "Allen": 11,
       "Miss Morland": 11,
-      "Catherine": 11,
       "Mrs. Allen": 10,
+      "Catherine": 10,
       "Tilney": 10,
       "Mr. Allen": 9,
       "Thorpe": 8
@@ -1184,9 +1164,9 @@
     },
     "co_occurs_with": {
       "Thorpe": 13,
-      "Catherine": 12,
       "Tilney": 12,
       "Morland": 11,
+      "Catherine": 10,
       "Isabella": 9,
       "Allen": 8,
       "Mrs. Allen": 8,
@@ -1234,10 +1214,10 @@
     },
     "co_occurs_with": {
       "Tilney": 8,
-      "Catherine": 7,
       "Isabella": 6,
       "Morland": 6,
       "Thorpe": 6,
+      "Catherine": 6,
       "Henry": 5,
       "Miss Thorpe": 5,
       "Miss Tilney": 4
@@ -1355,10 +1335,10 @@
     "co_occurs_with": {
       "Allen": 17,
       "Morland": 16,
-      "Catherine": 15,
       "Miss Morland": 14,
       "Mrs. Allen": 14,
       "Tilney": 13,
+      "Catherine": 12,
       "Miss Tilney": 11,
       "Thorpe": 10
     }
@@ -1419,60 +1399,14 @@
       }
     },
     "co_occurs_with": {
-      "Catherine": 12,
       "Tilney": 12,
+      "Catherine": 10,
       "Morland": 10,
       "Thorpe": 8,
       "Allen": 8,
       "Mrs. Allen": 8,
       "Miss Morland": 7,
       "Isabella": 6
-    }
-  },
-  {
-    "canonical_name": "James",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 33,
-    "per_chapter": {
-      "9": {
-        "mentions": 5,
-        "snippet": "as Isabella was going at the same time with James, was therefore"
-      },
-      "13": {
-        "mentions": 5,
-        "snippet": "a private consultation between Isabella and James, the former of whom"
-      },
-      "15": {
-        "mentions": 5,
-        "snippet": "you\u2014can you really be in love with James?"
-      },
-      "19": {
-        "mentions": 5,
-        "snippet": "with James in her notice and smiles, the alteration became too positive"
-      },
-      "25": {
-        "mentions": 7,
-        "snippet": "left her intent; and of her continuing on the best terms with James."
-      },
-      "27": {
-        "mentions": 3,
-        "snippet": "\u201cWrite to James on her"
-      },
-      "29": {
-        "mentions": 3,
-        "snippet": "poor James!"
-      }
-    },
-    "co_occurs_with": {
-      "Thorpe": 7,
-      "Tilney": 7,
-      "Catherine": 6,
-      "Isabella": 6,
-      "Morland": 6,
-      "Allen": 5,
-      "Miss Thorpe": 5,
-      "Miss Tilney": 5
     }
   },
   {
@@ -1577,12 +1511,12 @@
       }
     },
     "co_occurs_with": {
-      "Catherine": 9,
       "Thorpe": 9,
       "Allen": 8,
       "Morland": 8,
       "Mrs. Allen": 8,
       "Tilney": 8,
+      "Catherine": 7,
       "Miss Thorpe": 7,
       "Isabella": 6
     }
@@ -1613,14 +1547,56 @@
       }
     },
     "co_occurs_with": {
-      "Catherine": 4,
       "Isabella": 4,
-      "John Thorpe": 4,
       "Miss Tilney": 4,
       "Morland": 4,
       "Thorpe": 4,
       "Tilney": 4,
-      "Allen": 3
+      "Allen": 3,
+      "Catherine": 3,
+      "John Thorpe": 3
+    }
+  },
+  {
+    "canonical_name": "James",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 28,
+    "per_chapter": {
+      "9": {
+        "mentions": 5,
+        "snippet": "as Isabella was going at the same time with James, was therefore"
+      },
+      "13": {
+        "mentions": 5,
+        "snippet": "a private consultation between Isabella and James, the former of whom"
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "you\u2014can you really be in love with James?"
+      },
+      "25": {
+        "mentions": 7,
+        "snippet": "left her intent; and of her continuing on the best terms with James."
+      },
+      "27": {
+        "mentions": 3,
+        "snippet": "\u201cWrite to James on her"
+      },
+      "29": {
+        "mentions": 3,
+        "snippet": "poor James!"
+      }
+    },
+    "co_occurs_with": {
+      "Thorpe": 6,
+      "Tilney": 6,
+      "Allen": 5,
+      "Catherine": 5,
+      "Isabella": 5,
+      "Miss Tilney": 5,
+      "Morland": 5,
+      "Mrs. Allen": 5
     }
   },
   {
@@ -1668,13 +1644,13 @@
     },
     "co_occurs_with": {
       "Allen": 9,
-      "Catherine": 9,
       "Mrs. Allen": 9,
       "Thorpe": 9,
-      "John Thorpe": 8,
+      "Catherine": 8,
       "Isabella": 7,
       "Morland": 7,
-      "Mr. Allen": 7
+      "Mr. Allen": 7,
+      "Tilney": 7
     }
   },
   {
@@ -1725,70 +1701,10 @@
       "Isabella": 8,
       "Thorpe": 8,
       "Tilney": 8,
-      "Catherine": 8,
+      "Catherine": 7,
       "Allen": 6,
       "Miss Tilney": 6,
       "Mrs. Allen": 6
-    }
-  },
-  {
-    "canonical_name": "John Thorpe",
-    "aliases": [
-      "John"
-    ],
-    "first_chapter": 7,
-    "total_mentions": 21,
-    "per_chapter": {
-      "7": {
-        "mentions": 4,
-        "snippet": "John Thorpe, who in the meantime had been giving orders about the"
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "incline her to a very gracious reply, when John Thorpe came up to her"
-      },
-      "9": {
-        "mentions": 2,
-        "snippet": "brother driving Miss Thorpe in the second, before John Thorpe came"
-      },
-      "10": {
-        "mentions": 4,
-        "snippet": "fidgeted about if John Thorpe came towards her, hid herself as much as"
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "John Thorpe was soon"
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "John Thorpe, who was never in the same part of the house for ten"
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "Catherine found that John Thorpe _had_"
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "When the contents of the letter were ascertained, John Thorpe, who had"
-      },
-      "16": {
-        "mentions": 3,
-        "snippet": "i really believe John"
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "The compliment of John Thorpe\u2019s affection did not make amends for this"
-      }
-    },
-    "co_occurs_with": {
-      "Catherine": 10,
-      "Thorpe": 10,
-      "Allen": 9,
-      "Mrs. Allen": 9,
-      "Tilney": 9,
-      "Isabella": 8,
-      "Miss Tilney": 8,
-      "Morland": 8
     }
   },
   {
@@ -1835,13 +1751,13 @@
       }
     },
     "co_occurs_with": {
-      "Catherine": 9,
       "Miss Tilney": 8,
       "Morland": 8,
       "Tilney": 8,
       "Allen": 7,
       "Mr. Allen": 7,
       "Thorpe": 7,
+      "Catherine": 6,
       "Mrs. Allen": 6
     }
   },
@@ -1908,7 +1824,7 @@
       "Tilney": 2,
       "Captain Hunt": 1,
       "Charles Grandison": 1,
-      "Have": 1
+      "Horrid Mysteries": 1
     }
   },
   {
@@ -2116,13 +2032,13 @@
     },
     "co_occurs_with": {
       "Allen": 3,
-      "Catherine": 3,
       "Miss Morland": 3,
       "Morland": 3,
       "Mrs. Allen": 3,
       "Mrs. Thorpe": 3,
       "Thorpe": 3,
-      "Tilney": 3
+      "Tilney": 3,
+      "Bath": 2
     }
   },
   {
@@ -2165,14 +2081,60 @@
       }
     },
     "co_occurs_with": {
-      "Catherine": 8,
       "Morland": 7,
       "Tilney": 7,
+      "Catherine": 6,
       "Thorpe": 6,
       "Allen": 6,
       "Miss Tilney": 6,
       "Mr. Allen": 6,
       "Mrs. Allen": 6
+    }
+  },
+  {
+    "canonical_name": "John Thorpe",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 11,
+    "per_chapter": {
+      "8": {
+        "mentions": 1,
+        "snippet": "incline her to a very gracious reply, when John Thorpe came up to her"
+      },
+      "9": {
+        "mentions": 2,
+        "snippet": "brother driving Miss Thorpe in the second, before John Thorpe came"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "fidgeted about if John Thorpe came towards her, hid herself as much as"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "John Thorpe, who was never in the same part of the house for ten"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "Catherine found that John Thorpe _had_"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "When the contents of the letter were ascertained, John Thorpe, who had"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "The compliment of John Thorpe\u2019s affection did not make amends for this"
+      }
+    },
+    "co_occurs_with": {
+      "Allen": 7,
+      "Mrs. Allen": 7,
+      "Thorpe": 7,
+      "Tilney": 7,
+      "Catherine": 6,
+      "Isabella": 6,
+      "Miss Tilney": 6,
+      "Mr. Thorpe": 6
     }
   },
   {
@@ -2277,40 +2239,14 @@
       }
     },
     "co_occurs_with": {
-      "Catherine": 7,
       "Morland": 6,
       "Tilney": 6,
       "Thorpe": 6,
       "Allen": 5,
+      "Catherine": 5,
       "Miss Tilney": 5,
       "Mr. Allen": 5,
       "Miss Morland": 4
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 9,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Catherine was always stupid\u2014by no means; she learnt the fable of \u201cThe"
-      },
-      "11": {
-        "mentions": 6,
-        "snippet": "The morrow brought a very sober-looking morning, the sun making only a"
-      }
-    },
-    "co_occurs_with": {
-      "Allen": 2,
-      "Miss Morland": 2,
-      "Morland": 2,
-      "Mr. Allen": 2,
-      "Catherine Morland": 1,
-      "From": 1,
-      "Holy Writ": 1,
-      "Mrs. Morland": 1
     }
   },
   {
@@ -2333,10 +2269,10 @@
       "Blaize Castle": 2,
       "Catherine": 2,
       "Isabella": 2,
-      "John Thorpe": 2,
       "Miss Tilney": 2,
       "Morland": 2,
-      "Mr. Allen": 2
+      "Mr. Allen": 2,
+      "Mr. Thorpe": 2
     }
   },
   {
@@ -2413,50 +2349,6 @@
       "Mrs. Allen": 2,
       "Thorpe": 2,
       "Tilney": 2
-    }
-  },
-  {
-    "canonical_name": "Maria",
-    "aliases": [],
-    "first_chapter": 15,
-    "total_mentions": 6,
-    "per_chapter": {
-      "15": {
-        "mentions": 6,
-        "snippet": "Maria"
-      }
-    },
-    "co_occurs_with": {
-      "Allen": 1,
-      "Anne": 1,
-      "By Jove": 1,
-      "Catherine": 1,
-      "Fullerton": 1,
-      "Isabella": 1,
-      "James": 1,
-      "John Thorpe": 1
-    }
-  },
-  {
-    "canonical_name": "Frederick",
-    "aliases": [],
-    "first_chapter": 25,
-    "total_mentions": 6,
-    "per_chapter": {
-      "25": {
-        "mentions": 6,
-        "snippet": "Frederick\u2019s marrying her than at any other part of the story."
-      }
-    },
-    "co_occurs_with": {
-      "Allen": 1,
-      "Bath": 1,
-      "Captain Tilney": 1,
-      "Dear Catherine": 1,
-      "Eleanor Tilney": 1,
-      "Henry": 1,
-      "Isabella": 1,
-      "James": 1
     }
   },
   {
@@ -2586,11 +2478,11 @@
       "Captain Hunt": 1,
       "Catherine": 1,
       "Charles Grandison": 1,
-      "Have": 1,
       "Horrid Mysteries": 1,
       "Isabella": 1,
       "Laurentina": 1,
-      "Midnight Bell": 1
+      "Midnight Bell": 1,
+      "Milsom Street": 1
     }
   },
   {
@@ -2637,10 +2529,10 @@
       "Catherine": 2,
       "Clifton": 2,
       "Isabella": 2,
-      "John Thorpe": 2,
       "Miss Tilney": 2,
       "Morland": 2,
-      "Mr. Allen": 2
+      "Mr. Allen": 2,
+      "Mr. Thorpe": 2
     }
   },
   {
@@ -2708,31 +2600,9 @@
       "Morland": 2,
       "Mr. Allen": 2,
       "Mrs. Morland": 2,
-      "From": 1,
       "Holy Writ": 1,
-      "The": 1
-    }
-  },
-  {
-    "canonical_name": "From",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "From Pope, she learnt to censure those who"
-      }
-    },
-    "co_occurs_with": {
-      "Allen": 1,
-      "Catherine Morland": 1,
-      "Holy Writ": 1,
-      "Miss Morland": 1,
-      "Morland": 1,
-      "Mr. Allen": 1,
-      "Mrs. Morland": 1,
-      "The": 1
+      "Bath": 1,
+      "Mrs. Allen": 1
     }
   },
   {
@@ -2757,12 +2627,12 @@
     "co_occurs_with": {
       "Allen": 3,
       "Bath": 3,
-      "Catherine": 3,
       "Miss Morland": 3,
       "Morland": 3,
       "Mr. Allen": 3,
       "Mr. Tilney": 3,
-      "Mrs. Allen": 3
+      "Mrs. Allen": 3,
+      "Thorpe": 3
     }
   },
   {
@@ -2781,34 +2651,12 @@
     "co_occurs_with": {
       "Catherine": 1,
       "Charles Grandison": 1,
-      "Have": 1,
       "Horrid Mysteries": 1,
       "Isabella": 1,
       "Laurentina": 1,
       "Midnight Bell": 1,
-      "Milsom Street": 1
-    }
-  },
-  {
-    "canonical_name": "Have",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 3,
-    "per_chapter": {
-      "6": {
-        "mentions": 3,
-        "snippet": "\u201cHave you, indeed!"
-      }
-    },
-    "co_occurs_with": {
-      "Captain Hunt": 1,
-      "Catherine": 1,
-      "Charles Grandison": 1,
-      "Horrid Mysteries": 1,
-      "Isabella": 1,
-      "Laurentina": 1,
-      "Midnight Bell": 1,
-      "Milsom Street": 1
+      "Milsom Street": 1,
+      "Miss Andrews": 1
     }
   },
   {
@@ -2826,11 +2674,11 @@
       "Captain Hunt": 1,
       "Catherine": 1,
       "Charles Grandison": 1,
-      "Have": 1,
       "Horrid Mysteries": 1,
       "Isabella": 1,
       "Midnight Bell": 1,
-      "Milsom Street": 1
+      "Milsom Street": 1,
+      "Miss Andrews": 1
     }
   },
   {
@@ -2849,10 +2697,10 @@
       "Bath": 1,
       "Catherine": 1,
       "Isabella Thorpe": 1,
-      "John Thorpe": 1,
       "Lansdown Hill": 1,
       "Magdalen Bridge": 1,
-      "Milsom Street": 1
+      "Milsom Street": 1,
+      "Miss Morland": 1
     }
   },
   {
@@ -2895,54 +2743,10 @@
       "Bath": 1,
       "Catherine": 1,
       "General Tilney": 1,
-      "Here": 1,
-      "Isabella": 1,
-      "James Morland": 1,
-      "John Thorpe": 1
-    }
-  },
-  {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 3,
-    "per_chapter": {
-      "10": {
-        "mentions": 3,
-        "snippet": "Here is a friend of"
-      }
-    },
-    "co_occurs_with": {
-      "Allen": 1,
-      "Bath": 1,
-      "Catherine": 1,
-      "General Tilney": 1,
       "Isabella": 1,
       "James Morland": 1,
       "John Thorpe": 1,
       "Miss Morland": 1
-    }
-  },
-  {
-    "canonical_name": "Indeed",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 3,
-    "per_chapter": {
-      "14": {
-        "mentions": 3,
-        "snippet": "\u201cIndeed!"
-      }
-    },
-    "co_occurs_with": {
-      "Alfred the Great": 1,
-      "Allen": 1,
-      "Anne": 1,
-      "Beechen Cliff": 1,
-      "Bond Street": 1,
-      "Captain Frederick Tilney": 1,
-      "Catherine": 1,
-      "Emily": 1
     }
   },
   {

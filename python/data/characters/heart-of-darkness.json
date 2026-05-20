@@ -14,13 +14,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
+      "Charlie Marlow": 1,
+      "China Seas": 1,
+      "Company": 1,
+      "Don": 1
     }
   },
   {
@@ -36,13 +36,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
+      "Charlie Marlow": 1,
+      "China Seas": 1,
+      "Don": 1,
+      "East Coast": 1
     }
   },
   {
@@ -58,79 +58,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
-    }
-  },
-  {
-    "canonical_name": "Some",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 8,
-    "per_chapter": {
-      "1": {
-        "mentions": 8,
-        "snippet": "Some"
-      }
-    },
-    "co_occurs_with": {
-      "Administration": 1,
-      "Anything": 1,
-      "Are": 1,
-      "By Jove": 1,
-      "Can": 1,
-      "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
-    }
-  },
-  {
-    "canonical_name": "Suddenly",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 5,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "\u201cSuddenly there was a growing murmur of voices and a great tramping of"
-      }
-    },
-    "co_occurs_with": {
-      "Administration": 1,
-      "Anything": 1,
-      "Are": 1,
-      "By Jove": 1,
-      "Can": 1,
-      "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 5,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "Very well."
-      }
-    },
-    "co_occurs_with": {
-      "Administration": 1,
-      "Anything": 1,
-      "Are": 1,
-      "By Jove": 1,
-      "Can": 1,
-      "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
+      "Charlie Marlow": 1,
+      "China Seas": 1,
+      "Company": 1,
+      "East Coast": 1
     }
   },
   {
@@ -146,13 +80,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
+      "Charlie Marlow": 1,
+      "China Seas": 1,
+      "Company": 1,
+      "Don": 1
     }
   },
   {
@@ -168,13 +102,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
+      "Charlie Marlow": 1,
+      "China Seas": 1,
+      "Company": 1,
+      "Don": 1
     }
   },
   {
@@ -190,57 +124,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
-      "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
-    }
-  },
-  {
-    "canonical_name": "Can",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 4,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "Can\u2019t say I saw any road or"
-      }
-    },
-    "co_occurs_with": {
-      "Administration": 1,
-      "Anything": 1,
-      "Are": 1,
-      "By Jove": 1,
-      "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1,
-      "China Seas": 1
-    }
-  },
-  {
-    "canonical_name": "Certainly",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 4,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "Certainly the affair was too"
-      }
-    },
-    "co_occurs_with": {
-      "Administration": 1,
-      "Anything": 1,
-      "Are": 1,
-      "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
       "Charlie Marlow": 1,
-      "China Seas": 1
+      "China Seas": 1,
+      "Company": 1,
+      "Don": 1
     }
   },
   {
@@ -256,13 +146,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
+      "Charlie Marlow": 1,
+      "China Seas": 1,
+      "Company": 1,
+      "Don": 1
     }
   },
   {
@@ -278,13 +168,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
-      "Certainly": 1,
       "Charlie Marlow": 1,
-      "China Seas": 1
+      "China Seas": 1,
+      "Company": 1,
+      "Don": 1,
+      "East Coast": 1
     }
   },
   {
@@ -300,57 +190,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
-    }
-  },
-  {
-    "canonical_name": "Mind",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "\u201cMind,\u201d he began again, lifting one arm from the elbow, the palm of the"
-      }
-    },
-    "co_occurs_with": {
-      "Administration": 1,
-      "Anything": 1,
-      "Are": 1,
-      "By Jove": 1,
-      "Can": 1,
-      "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
-    }
-  },
-  {
-    "canonical_name": "True",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "\u201cTrue, by this time it was not a blank space any more."
-      }
-    },
-    "co_occurs_with": {
-      "Administration": 1,
-      "Anything": 1,
-      "Are": 1,
-      "By Jove": 1,
-      "Can": 1,
-      "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
+      "Charlie Marlow": 1,
+      "China Seas": 1,
+      "Company": 1,
+      "Don": 1
     }
   },
   {
@@ -365,14 +211,14 @@
       }
     },
     "co_occurs_with": {
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
-      "Certainly": 1,
       "Charlie Marlow": 1,
-      "China Seas": 1
+      "China Seas": 1,
+      "Company": 1,
+      "Don": 1,
+      "East Coast": 1
     }
   },
   {
@@ -388,79 +234,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
-      "Certainly": 1,
       "Charlie Marlow": 1,
-      "China Seas": 1
-    }
-  },
-  {
-    "canonical_name": "Nowhere",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Nowhere did we stop long enough to get a particularized impression, but"
-      }
-    },
-    "co_occurs_with": {
-      "Administration": 1,
-      "Anything": 1,
-      "Are": 1,
-      "By Jove": 1,
-      "Can": 1,
-      "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
-    }
-  },
-  {
-    "canonical_name": "Look",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Look at the influence that man"
-      }
-    },
-    "co_occurs_with": {
-      "Administration": 1,
-      "Anything": 1,
-      "Are": 1,
-      "By Jove": 1,
-      "Can": 1,
-      "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
-    }
-  },
-  {
-    "canonical_name": "Anything",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "\u2019 \u2018Anything since then?"
-      }
-    },
-    "co_occurs_with": {
-      "Administration": 1,
-      "Are": 1,
-      "By Jove": 1,
-      "Can": 1,
-      "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1,
-      "China Seas": 1
+      "China Seas": 1,
+      "Company": 1,
+      "Don": 1,
+      "East Coast": 1
     }
   },
   {
@@ -476,35 +256,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
-    }
-  },
-  {
-    "canonical_name": "Keep",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Keep a lookout?"
-      }
-    },
-    "co_occurs_with": {
-      "Administration": 1,
-      "Anything": 1,
-      "Are": 1,
-      "By Jove": 1,
-      "Can": 1,
-      "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
+      "Charlie Marlow": 1,
+      "China Seas": 1,
+      "Company": 1,
+      "Don": 1
     }
   },
   {
@@ -520,13 +278,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
+      "Charlie Marlow": 1,
+      "China Seas": 1,
+      "Company": 1,
+      "Don": 1
     }
   },
   {
@@ -542,13 +300,13 @@
     },
     "co_occurs_with": {
       "Administration": 1,
-      "Anything": 1,
       "Are": 1,
       "By Jove": 1,
-      "Can": 1,
       "Central Station": 1,
-      "Certainly": 1,
-      "Charlie Marlow": 1
+      "Charlie Marlow": 1,
+      "China Seas": 1,
+      "Company": 1,
+      "Don": 1
     }
   }
 ]

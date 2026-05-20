@@ -3,7 +3,7 @@
     "canonical_name": "Meg",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 529,
+    "total_mentions": 514,
     "per_chapter": {
       "1": {
         "mentions": 26,
@@ -40,10 +40,6 @@
       "9": {
         "mentions": 71,
         "snippet": "children should have the measles just now,\u201d said Meg, one April day, as"
-      },
-      "10": {
-        "mentions": 4,
-        "snippet": "Meg\u2019s had roses and heliotrope, myrtle, and a little orange tree in it."
       },
       "11": {
         "mentions": 24,
@@ -89,25 +85,13 @@
         "mentions": 15,
         "snippet": "Meg looked very like a rose herself, for all that was best and sweetest"
       },
-      "26": {
-        "mentions": 5,
-        "snippet": "and Amy\u2019s hair, Jo\u2019s nose, Meg\u2019s mouth, and Laurie\u2019s eyes were"
-      },
       "28": {
         "mentions": 51,
         "snippet": "Like most other young matrons, Meg began her married life with the"
       },
-      "32": {
-        "mentions": 3,
-        "snippet": "now Meg is gone."
-      },
       "38": {
         "mentions": 40,
         "snippet": "Not being a belle or even a fashionable lady, Meg did not experience"
-      },
-      "42": {
-        "mentions": 3,
-        "snippet": "Meg was, how well she could talk, how much she knew about good, womanly"
       },
       "43": {
         "mentions": 3,
@@ -123,21 +107,21 @@
       }
     },
     "co_occurs_with": {
-      "Mrs. March": 26,
-      "Amy": 25,
-      "Beth": 23,
-      "Laurie": 21,
-      "Mother": 17,
-      "Laurence": 17,
-      "Mr. Laurence": 17,
-      "Aunt March": 15
+      "Mrs. March": 23,
+      "Amy": 18,
+      "Beth": 18,
+      "Laurie": 17,
+      "Laurence": 16,
+      "Mr. Laurence": 16,
+      "Aunt March": 15,
+      "Mother": 14
     }
   },
   {
     "canonical_name": "Laurie",
     "aliases": [],
     "first_chapter": 5,
-    "total_mentions": 481,
+    "total_mentions": 475,
     "per_chapter": {
       "5": {
         "mentions": 1,
@@ -223,17 +207,9 @@
         "mentions": 11,
         "snippet": "Laurie came sneaking into the kitchen of the Dovecote one Saturday,"
       },
-      "29": {
-        "mentions": 3,
-        "snippet": "one of Laurie\u2019s pranks to her admiring audience."
-      },
       "30": {
         "mentions": 12,
         "snippet": "only tedious, but very trying, and the thought of Laurie and his"
-      },
-      "31": {
-        "mentions": 3,
-        "snippet": "Laurie\u2019s English friends, Fred and Frank Vaughn!"
       },
       "32": {
         "mentions": 21,
@@ -277,13 +253,13 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 30,
-      "Beth": 25,
       "Mrs. March": 25,
-      "Meg": 21,
+      "Amy": 23,
+      "Beth": 22,
       "Laurence": 20,
       "Mr. Laurence": 19,
-      "Mother": 16,
+      "Meg": 17,
+      "Mother": 15,
       "Brooke": 13
     }
   },
@@ -291,7 +267,7 @@
     "canonical_name": "Amy",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 458,
+    "total_mentions": 413,
     "per_chapter": {
       "1": {
         "mentions": 23,
@@ -321,10 +297,6 @@
         "mentions": 3,
         "snippet": "things,\u201d said Amy with her mouth full of pins, as she artistically"
       },
-      "10": {
-        "mentions": 5,
-        "snippet": "Amy had a bower in hers, rather small and earwiggy, but very pretty to"
-      },
       "11": {
         "mentions": 17,
         "snippet": "state of exhaustion, while Beth took off her dusty boots, and Amy made"
@@ -345,14 +317,6 @@
         "mentions": 8,
         "snippet": "and see if we don\u2019t,\u201d said Amy, who sat in a corner making mud pies, as"
       },
-      "16": {
-        "mentions": 7,
-        "snippet": "and be faithful to the little home duties, and you, Amy, help all you"
-      },
-      "17": {
-        "mentions": 19,
-        "snippet": "Amy found that"
-      },
       "18": {
         "mentions": 3,
         "snippet": "And Amy, in her exile, longed eagerly to be"
@@ -364,10 +328,6 @@
       "22": {
         "mentions": 9,
         "snippet": "her white hands cooking delicate messes for \u2018the dear\u2019, while Amy, a"
-      },
-      "23": {
-        "mentions": 7,
-        "snippet": "Amy said, \u201cEveryone seemed waiting for something, and"
       },
       "24": {
         "mentions": 15,
@@ -396,10 +356,6 @@
       "31": {
         "mentions": 5,
         "snippet": "Amy, flying up\u2014\u201cOh, that must be Kenilworth,"
-      },
-      "32": {
-        "mentions": 7,
-        "snippet": "Beth is too feeble and Amy too young to depend upon,"
       },
       "33": {
         "mentions": 5,
@@ -443,21 +399,21 @@
       }
     },
     "co_occurs_with": {
-      "Laurie": 30,
-      "Beth": 27,
-      "Mrs. March": 27,
-      "Meg": 25,
-      "Laurence": 19,
-      "Mother": 18,
-      "Mr. Laurence": 18,
-      "Aunt March": 16
+      "Mrs. March": 23,
+      "Laurie": 23,
+      "Beth": 22,
+      "Meg": 18,
+      "Laurence": 17,
+      "Mr. Laurence": 16,
+      "Mother": 14,
+      "Aunt March": 13
     }
   },
   {
     "canonical_name": "Beth",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 392,
+    "total_mentions": 376,
     "per_chapter": {
       "1": {
         "mentions": 26,
@@ -486,10 +442,6 @@
       "9": {
         "mentions": 5,
         "snippet": "\u201cAnd such lovely weather, I\u2019m so glad of that,\u201d added Beth, tidily"
-      },
-      "10": {
-        "mentions": 5,
-        "snippet": "Beth had old-fashioned fragrant flowers in"
       },
       "11": {
         "mentions": 19,
@@ -539,17 +491,9 @@
         "mentions": 9,
         "snippet": "herself to literature and Beth, who remained delicate long after the"
       },
-      "25": {
-        "mentions": 6,
-        "snippet": "Beth has grown slender, pale, and more quiet than ever."
-      },
       "26": {
         "mentions": 5,
         "snippet": "Beth got a cold and took to her bed."
-      },
-      "30": {
-        "mentions": 5,
-        "snippet": "Beth declared she wouldn\u2019t go to the fair at all, and Jo"
       },
       "32": {
         "mentions": 31,
@@ -585,14 +529,14 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 27,
-      "Mrs. March": 25,
-      "Laurie": 25,
-      "Meg": 23,
-      "Laurence": 19,
-      "Mr. Laurence": 19,
+      "Mrs. March": 23,
+      "Amy": 22,
+      "Laurie": 22,
+      "Meg": 18,
+      "Laurence": 17,
+      "Mr. Laurence": 17,
       "Mother": 15,
-      "Aunt March": 13
+      "Aunt March": 12
     }
   },
   {
@@ -735,13 +679,13 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 27,
-      "Meg": 26,
-      "Beth": 25,
       "Laurie": 25,
+      "Amy": 23,
+      "Beth": 23,
+      "Meg": 23,
       "Laurence": 22,
       "Mr. Laurence": 21,
-      "Mother": 18,
+      "Mother": 17,
       "Aunt March": 16
     }
   },
@@ -825,13 +769,13 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 16,
       "Mrs. March": 16,
       "Meg": 15,
-      "Beth": 13,
-      "Laurie": 13,
+      "Amy": 13,
+      "Beth": 12,
       "Laurence": 12,
       "Mr. Laurence": 12,
+      "Laurie": 12,
       "Mother": 11
     }
   },
@@ -839,7 +783,7 @@
     "canonical_name": "Mother",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 148,
+    "total_mentions": 142,
     "per_chapter": {
       "1": {
         "mentions": 10,
@@ -889,10 +833,6 @@
         "mentions": 8,
         "snippet": "rose and Mother\u2019s face."
       },
-      "21": {
-        "mentions": 6,
-        "snippet": "my word to Mother."
-      },
       "23": {
         "mentions": 5,
         "snippet": "I see it, and so does Mother."
@@ -935,13 +875,13 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 18,
-      "Mrs. March": 18,
-      "Meg": 17,
-      "Laurie": 16,
+      "Mrs. March": 17,
       "Beth": 15,
-      "Laurence": 13,
-      "Mr. Laurence": 13,
+      "Laurie": 15,
+      "Amy": 14,
+      "Meg": 14,
+      "Laurence": 12,
+      "Mr. Laurence": 12,
       "Aunt March": 11
     }
   },
@@ -1052,11 +992,11 @@
       "Mr. Laurence": 23,
       "Mrs. March": 22,
       "Laurie": 20,
-      "Amy": 19,
-      "Beth": 19,
-      "Meg": 17,
-      "Mother": 13,
-      "Aunt March": 12
+      "Amy": 17,
+      "Beth": 17,
+      "Meg": 16,
+      "Aunt March": 12,
+      "Mother": 12
     }
   },
   {
@@ -1161,82 +1101,12 @@
     "co_occurs_with": {
       "Laurence": 23,
       "Mrs. March": 21,
-      "Beth": 19,
       "Laurie": 19,
-      "Amy": 18,
-      "Meg": 17,
-      "Mother": 13,
-      "Aunt March": 12
-    }
-  },
-  {
-    "canonical_name": "Hannah",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 77,
-    "per_chapter": {
-      "2": {
-        "mentions": 5,
-        "snippet": "for givin\u2019 away vittles and drink, clothes and firin\u2019,\u201d replied Hannah,"
-      },
-      "3": {
-        "mentions": 6,
-        "snippet": "when I send Hannah for you."
-      },
-      "4": {
-        "mentions": 5,
-        "snippet": "once, and Hannah had the grumps, for being up late didn\u2019t suit her."
-      },
-      "6": {
-        "mentions": 3,
-        "snippet": "She stayed till Hannah came to take her home to dinner, but she had no"
-      },
-      "11": {
-        "mentions": 6,
-        "snippet": "nothing, and with Hannah\u2019s help did their neglected work, keeping home"
-      },
-      "15": {
-        "mentions": 6,
-        "snippet": "Hannah called her little clay models of birds, fruit, and faces."
-      },
-      "18": {
-        "mentions": 18,
-        "snippet": "Beth did have the fever, and was much sicker than anyone but Hannah and"
-      },
-      "22": {
-        "mentions": 4,
-        "snippet": "Hannah \u2018felt in her bones\u2019 that it was going to be an"
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "neat if Hannah had not arranged every pot and pan a dozen times over,"
-      },
-      "26": {
-        "mentions": 8,
-        "snippet": "promiscuously, and Hannah never went to bed without a pail of water and"
-      },
-      "28": {
-        "mentions": 5,
-        "snippet": "success, for hadn\u2019t she seen Hannah do it hundreds of times?"
-      },
-      "38": {
-        "mentions": 3,
-        "snippet": "often proposed, let Hannah come and help you."
-      },
-      "43": {
-        "mentions": 4,
-        "snippet": "\u2019\u201d muttered old Hannah, who could not"
-      }
-    },
-    "co_occurs_with": {
-      "Meg": 13,
-      "Mrs. March": 12,
-      "Amy": 11,
-      "Laurence": 10,
-      "Mr. Laurence": 10,
-      "Beth": 10,
-      "Mother": 8,
-      "Laurie": 8
+      "Beth": 17,
+      "Meg": 16,
+      "Amy": 16,
+      "Aunt March": 12,
+      "Mother": 12
     }
   },
   {
@@ -1354,13 +1224,13 @@
     },
     "co_occurs_with": {
       "Mr. Brooke": 15,
-      "Amy": 13,
       "Laurie": 13,
       "Mrs. March": 13,
       "Laurence": 12,
       "Meg": 12,
       "Mr. Laurence": 12,
-      "Beth": 10
+      "Amy": 11,
+      "Beth": 9
     }
   },
   {
@@ -1432,83 +1302,75 @@
     },
     "co_occurs_with": {
       "Brooke": 15,
-      "Amy": 13,
       "Laurie": 13,
       "Mrs. March": 13,
       "Laurence": 12,
       "Meg": 12,
       "Mr. Laurence": 12,
-      "Beth": 10
+      "Amy": 11,
+      "Beth": 9
     }
   },
   {
-    "canonical_name": "Father",
+    "canonical_name": "Hannah",
     "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 65,
+    "first_chapter": 4,
+    "total_mentions": 66,
     "per_chapter": {
-      "1": {
-        "mentions": 7,
-        "snippet": "\u201cWe\u2019ve got Father and Mother, and each other,\u201d said Beth contentedly"
-      },
-      "8": {
+      "4": {
         "mentions": 5,
-        "snippet": "finish before Father got home?"
+        "snippet": "once, and Hannah had the grumps, for being up late didn\u2019t suit her."
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "She stayed till Hannah came to take her home to dinner, but she had no"
+      },
+      "11": {
+        "mentions": 6,
+        "snippet": "nothing, and with Hannah\u2019s help did their neglected work, keeping home"
       },
       "15": {
         "mentions": 6,
-        "snippet": "Father, girls?"
+        "snippet": "Hannah called her little clay models of birds, fruit, and faces."
       },
-      "16": {
-        "mentions": 10,
-        "snippet": "heavy as they sent loving messages to Father, remembering, as they"
+      "18": {
+        "mentions": 18,
+        "snippet": "Beth did have the fever, and was much sicker than anyone but Hannah and"
       },
-      "17": {
-        "mentions": 3,
-        "snippet": "longings for Mother or fears for Father, she went away into a certain"
-      },
-      "20": {
-        "mentions": 3,
-        "snippet": "to her whispered account of Father\u2019s state, Mr."
-      },
-      "23": {
-        "mentions": 10,
-        "snippet": "couldn\u2019t settle down, which was queer, since Father was safe at home,\u201d"
-      },
-      "25": {
-        "mentions": 3,
-        "snippet": "minutes with Father quietly in the study,\u201d and Meg ran down to perform"
-      },
-      "33": {
+      "22": {
         "mentions": 4,
-        "snippet": "lost sight of Father\u2019s dear old face, I felt a trifle blue, and might"
+        "snippet": "Hannah \u2018felt in her bones\u2019 that it was going to be an"
       },
-      "34": {
-        "mentions": 3,
-        "snippet": "She had a feeling that Father and Mother would not"
-      },
-      "36": {
+      "24": {
         "mentions": 4,
-        "snippet": "questions, but left everything to God and nature, Father and Mother of"
+        "snippet": "neat if Hannah had not arranged every pot and pan a dozen times over,"
       },
-      "40": {
+      "26": {
+        "mentions": 8,
+        "snippet": "promiscuously, and Hannah never went to bed without a pail of water and"
+      },
+      "28": {
+        "mentions": 5,
+        "snippet": "success, for hadn\u2019t she seen Hannah do it hundreds of times?"
+      },
+      "38": {
         "mentions": 3,
-        "snippet": "Father\u2019s best books"
+        "snippet": "often proposed, let Hannah come and help you."
       },
-      "42": {
+      "43": {
         "mentions": 4,
-        "snippet": "How could she \u2018comfort Father and"
+        "snippet": "\u2019\u201d muttered old Hannah, who could not"
       }
     },
     "co_occurs_with": {
-      "Amy": 11,
+      "Amy": 10,
+      "Meg": 10,
+      "Mrs. March": 10,
       "Beth": 9,
-      "Mother": 9,
-      "Mrs. March": 9,
-      "Laurie": 9,
-      "Aunt March": 8,
-      "Meg": 8,
-      "Brooke": 5
+      "Laurence": 8,
+      "Laurie": 8,
+      "Mr. Laurence": 8,
+      "Brooke": 6
     }
   },
   {
@@ -1554,76 +1416,76 @@
     }
   },
   {
-    "canonical_name": "Don",
+    "canonical_name": "Father",
     "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 57,
+    "first_chapter": 1,
+    "total_mentions": 62,
     "per_chapter": {
-      "5": {
+      "1": {
+        "mentions": 7,
+        "snippet": "\u201cWe\u2019ve got Father and Mother, and each other,\u201d said Beth contentedly"
+      },
+      "8": {
         "mentions": 5,
-        "snippet": "\u201cDon\u2019t you read?"
+        "snippet": "finish before Father got home?"
       },
-      "9": {
-        "mentions": 5,
-        "snippet": "\u201cDon\u2019t you like me so?"
-      },
-      "11": {
-        "mentions": 4,
-        "snippet": "\u201cDon\u2019t say \u2018larks!"
-      },
-      "12": {
+      "15": {
         "mentions": 6,
-        "snippet": "Don\u2019t bother about rations, I\u2019ll see to that and everything else, only"
+        "snippet": "Father, girls?"
+      },
+      "16": {
+        "mentions": 10,
+        "snippet": "heavy as they sent loving messages to Father, remembering, as they"
       },
       "17": {
-        "mentions": 5,
-        "snippet": "\u201cDon\u2019t cry, dear!"
+        "mentions": 3,
+        "snippet": "longings for Mother or fears for Father, she went away into a certain"
       },
-      "21": {
-        "mentions": 6,
-        "snippet": "\u201cDon\u2019t have any secrets, Jo."
+      "20": {
+        "mentions": 3,
+        "snippet": "to her whispered account of Father\u2019s state, Mr."
       },
       "23": {
-        "mentions": 7,
-        "snippet": "\u201cDon\u2019t say my John, it isn\u2019t proper or true,\u201d but Meg\u2019s voice lingered"
-      },
-      "24": {
-        "mentions": 5,
-        "snippet": "Don\u2019t you see how I\u2019m pining away?"
+        "mentions": 10,
+        "snippet": "couldn\u2019t settle down, which was queer, since Father was safe at home,\u201d"
       },
       "25": {
         "mentions": 3,
-        "snippet": "\u201cDon\u2019t let that young giant come near me, he worries me worse than"
+        "snippet": "minutes with Father quietly in the study,\u201d and Meg ran down to perform"
       },
-      "29": {
+      "33": {
+        "mentions": 4,
+        "snippet": "lost sight of Father\u2019s dear old face, I felt a trifle blue, and might"
+      },
+      "34": {
         "mentions": 3,
-        "snippet": "Don\u2019t make any of your"
+        "snippet": "She had a feeling that Father and Mother would not"
       },
-      "35": {
-        "mentions": 3,
-        "snippet": "a fierce tone, \u201cDon\u2019t tell me that, Jo, I can\u2019t bear it now!"
+      "36": {
+        "mentions": 4,
+        "snippet": "questions, but left everything to God and nature, Father and Mother of"
       },
-      "39": {
-        "mentions": 5,
-        "snippet": "\u201cDon\u2019t trouble yourself."
+      "42": {
+        "mentions": 4,
+        "snippet": "How could she \u2018comfort Father and"
       }
     },
     "co_occurs_with": {
-      "Laurie": 11,
-      "Amy": 10,
-      "Mrs. March": 10,
+      "Mrs. March": 9,
+      "Laurie": 9,
+      "Amy": 8,
+      "Aunt March": 8,
       "Beth": 8,
-      "Laurence": 8,
       "Mother": 8,
-      "Mr. Laurence": 8,
-      "Meg": 7
+      "Meg": 7,
+      "Brooke": 5
     }
   },
   {
     "canonical_name": "Teddy",
     "aliases": [],
     "first_chapter": 16,
-    "total_mentions": 45,
+    "total_mentions": 39,
     "per_chapter": {
       "16": {
         "mentions": 1,
@@ -1636,10 +1498,6 @@
       "20": {
         "mentions": 3,
         "snippet": "We forgot about it, till Teddy told me that Mr."
-      },
-      "21": {
-        "mentions": 6,
-        "snippet": "Teddy never seals"
       },
       "24": {
         "mentions": 3,
@@ -1667,14 +1525,14 @@
       }
     },
     "co_occurs_with": {
-      "Mrs. March": 10,
-      "Laurence": 9,
-      "Laurie": 9,
-      "Mr. Laurence": 9,
-      "Amy": 7,
-      "Beth": 7,
+      "Mrs. March": 9,
+      "Laurence": 8,
+      "Laurie": 8,
+      "Mr. Laurence": 8,
+      "Beth": 6,
       "Meg": 6,
-      "Mother": 6
+      "Amy": 6,
+      "Aunt March": 5
     }
   },
   {
@@ -1732,10 +1590,10 @@
       "Amy": 9,
       "Mrs. March": 9,
       "Beth": 8,
-      "Meg": 8,
-      "Laurie": 7,
+      "Meg": 7,
       "Laurence": 6,
       "Mr. Laurence": 6,
+      "Laurie": 6,
       "Mother": 5
     }
   },
@@ -1788,53 +1646,44 @@
     }
   },
   {
-    "canonical_name": "Not",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 29,
+    "canonical_name": "Don Pedro",
+    "aliases": [
+      "Don",
+      "Pedro"
+    ],
+    "first_chapter": 1,
+    "total_mentions": 32,
     "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "Then things went smoothly, for Don Pedro defied the world in a speech"
+      },
+      "2": {
+        "mentions": 17,
+        "snippet": "\u201d With wonderful presence of mind, Don Pedro, the cruel sire, rushed"
+      },
       "5": {
+        "mentions": 5,
+        "snippet": "\u201cDon\u2019t you read?"
+      },
+      "11": {
         "mentions": 4,
-        "snippet": "\u201cNot much."
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "\u201cNot much."
-      },
-      "12": {
-        "mentions": 4,
-        "snippet": "\u201cNot a boy!"
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "\u201cNot very."
-      },
-      "23": {
-        "mentions": 4,
-        "snippet": "\u201cNot at all."
+        "snippet": "\u201cDon\u2019t say \u2018larks!"
       },
       "35": {
         "mentions": 3,
-        "snippet": "Not until months afterward did Jo understand how she had the strength"
-      },
-      "38": {
-        "mentions": 3,
-        "snippet": "Not being a belle or even a fashionable lady, Meg did not experience"
-      },
-      "43": {
-        "mentions": 5,
-        "snippet": "\u201cNot a word, unless you let me come in my old place, and promise not to"
+        "snippet": "a fierce tone, \u201cDon\u2019t tell me that, Jo, I can\u2019t bear it now!"
       }
     },
     "co_occurs_with": {
-      "Mrs. March": 7,
-      "Beth": 6,
-      "Meg": 6,
-      "Laurie": 6,
-      "Amy": 5,
-      "Brooke": 5,
-      "Laurence": 5,
-      "Mr. Brooke": 5
+      "Mrs. March": 5,
+      "Amy": 4,
+      "Aunt March": 4,
+      "Beth": 4,
+      "Meg": 4,
+      "Mother": 4,
+      "Laurence": 3,
+      "Mr. Laurence": 3
     }
   },
   {
@@ -1866,40 +1715,6 @@
     }
   },
   {
-    "canonical_name": "Demi",
-    "aliases": [],
-    "first_chapter": 28,
-    "total_mentions": 28,
-    "per_chapter": {
-      "28": {
-        "mentions": 3,
-        "snippet": "\u201cName him Demijohn, and call him Demi for short,\u201d said Laurie."
-      },
-      "38": {
-        "mentions": 1,
-        "snippet": "So Master Demi early discovered that when he undertook to"
-      },
-      "43": {
-        "mentions": 3,
-        "snippet": "Demi paused to consider the new relationship before"
-      },
-      "45": {
-        "mentions": 21,
-        "snippet": "Daisy and Demi had now arrived at years of"
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 3,
-      "Hannah": 3,
-      "Meg": 3,
-      "Brooke": 2,
-      "Laurie": 2,
-      "Moffat": 2,
-      "Mother": 2,
-      "Mr. Brooke": 2
-    }
-  },
-  {
     "canonical_name": "Mrs. Kirke",
     "aliases": [
       "Kirke"
@@ -1925,9 +1740,9 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 3,
       "Father": 3,
       "Mother": 3,
+      "Amy": 2,
       "Bhaer": 2,
       "Friedrich Bhaer": 2,
       "Mees Marsch": 2,
@@ -1991,82 +1806,60 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 12,
       "Laurence": 11,
       "Mrs. March": 11,
-      "Beth": 10,
-      "Meg": 10,
+      "Amy": 10,
       "Mr. Laurence": 10,
+      "Beth": 9,
       "Laurie": 9,
+      "Meg": 9,
       "Hannah": 6
     }
   },
   {
-    "canonical_name": "Sallie",
+    "canonical_name": "Not",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 5,
     "total_mentions": 26,
     "per_chapter": {
-      "3": {
+      "5": {
         "mentions": 4,
-        "snippet": "Meg knew Sallie and was"
+        "snippet": "\u201cNot much."
       },
-      "9": {
-        "mentions": 10,
-        "snippet": "and my bonnet doesn\u2019t look like Sallie\u2019s."
+      "7": {
+        "mentions": 3,
+        "snippet": "\u201cNot much."
       },
       "12": {
-        "mentions": 2,
-        "snippet": "Sallie, and I spread the table?"
+        "mentions": 4,
+        "snippet": "\u201cNot a boy!"
       },
-      "28": {
-        "mentions": 10,
-        "snippet": "Sallie Moffat"
+      "14": {
+        "mentions": 3,
+        "snippet": "\u201cNot very."
+      },
+      "23": {
+        "mentions": 4,
+        "snippet": "\u201cNot at all."
+      },
+      "35": {
+        "mentions": 3,
+        "snippet": "Not until months afterward did Jo understand how she had the strength"
+      },
+      "43": {
+        "mentions": 5,
+        "snippet": "\u201cNot a word, unless you let me come in my old place, and promise not to"
       }
     },
     "co_occurs_with": {
-      "Mother": 4,
-      "Mrs. March": 4,
-      "Laurence": 3,
-      "Meg": 3,
-      "Miss March": 3,
-      "Mr. Laurence": 3,
-      "Amy": 3,
-      "Laurie": 3
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 26,
-    "per_chapter": {
-      "16": {
-        "mentions": 1,
-        "snippet": "The girls are all as good as gold."
-      },
-      "24": {
-        "mentions": 6,
-        "snippet": "The three years that have passed have brought but few changes to the"
-      },
-      "27": {
-        "mentions": 6,
-        "snippet": "The divine afflatus usually"
-      },
-      "46": {
-        "mentions": 13,
-        "snippet": "The dry-goods stores were not down among the counting-houses, banks,"
-      }
-    },
-    "co_occurs_with": {
-      "Mrs. March": 4,
-      "Amy": 3,
-      "Meg": 3,
-      "Aunt March": 2,
-      "Brooke": 2,
-      "Laurence": 2,
-      "Mother": 2,
-      "Mr. Brooke": 2
+      "Mrs. March": 7,
+      "Beth": 6,
+      "Laurie": 6,
+      "Meg": 5,
+      "Laurence": 5,
+      "Mr. Laurence": 5,
+      "Amy": 4,
+      "Brooke": 4
     }
   },
   {
@@ -2086,13 +1879,43 @@
     },
     "co_occurs_with": {
       "Amy": 2,
-      "Laurie": 2,
       "Aunt Mary": 1,
       "Bath Hotel": 1,
       "Beth Frank": 1,
       "Champs Elysees": 1,
       "Flo": 1,
-      "Frank Vaughn": 1
+      "Frank Vaughn": 1,
+      "Hampton Court": 1
+    }
+  },
+  {
+    "canonical_name": "Demi",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 25,
+    "per_chapter": {
+      "28": {
+        "mentions": 3,
+        "snippet": "\u201cName him Demijohn, and call him Demi for short,\u201d said Laurie."
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "So Master Demi early discovered that when he undertook to"
+      },
+      "45": {
+        "mentions": 21,
+        "snippet": "Daisy and Demi had now arrived at years of"
+      }
+    },
+    "co_occurs_with": {
+      "Amy": 2,
+      "Brooke": 2,
+      "Hannah": 2,
+      "Meg": 2,
+      "Mother": 2,
+      "Mr. Brooke": 2,
+      "Mrs. Brooke": 2,
+      "Scott": 2
     }
   },
   {
@@ -2117,10 +1940,10 @@
       "Mrs. March": 2,
       "Aunt March": 1,
       "Beth": 1,
-      "Don": 1,
+      "Don Pedro": 1,
       "Hannah": 1,
-      "Here": 1,
-      "Laurie": 1
+      "Laurie": 1,
+      "Marmee": 1
     }
   },
   {
@@ -2159,10 +1982,10 @@
       "Mrs. March": 5,
       "Amy": 5,
       "Aunt March": 4,
-      "Hannah": 4,
       "Laurence": 4,
       "Mother": 4,
-      "Mr. Laurence": 4
+      "Mr. Laurence": 4,
+      "Beth": 4
     }
   },
   {
@@ -2187,11 +2010,11 @@
     "co_occurs_with": {
       "Amy": 3,
       "Aunt March": 3,
-      "Beth": 3,
       "Laurence": 3,
       "Laurie": 3,
       "Mr. Laurence": 3,
       "Mrs. March": 3,
+      "Beth": 2,
       "Brooke": 2
     }
   },
@@ -2240,72 +2063,6 @@
     }
   },
   {
-    "canonical_name": "Don Pedro",
-    "aliases": [
-      "Pedro"
-    ],
-    "first_chapter": 1,
-    "total_mentions": 20,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Then things went smoothly, for Don Pedro defied the world in a speech"
-      },
-      "2": {
-        "mentions": 17,
-        "snippet": "\u201d With wonderful presence of mind, Don Pedro, the cruel sire, rushed"
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 2,
-      "Aunt March": 2,
-      "Beth": 2,
-      "Meg": 2,
-      "Mother": 2,
-      "Mrs. March": 2,
-      "Celestial City": 1,
-      "China Aster": 1
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 19,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "\u201cThere, now I\u2019ll take off the papers and you\u2019ll see a cloud of little"
-      },
-      "5": {
-        "mentions": 4,
-        "snippet": "\u201cThere he is,\u201d thought Jo, \u201cPoor boy!"
-      },
-      "9": {
-        "mentions": 5,
-        "snippet": "\u201cThere is a lovely old-fashioned pearl set in the treasure chest, but"
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "\u201cThere, I\u2019ve done my best!"
-      },
-      "35": {
-        "mentions": 4,
-        "snippet": "There was a long pause, while a blackbird sung blithely on the willow"
-      }
-    },
-    "co_occurs_with": {
-      "Mrs. March": 5,
-      "Laurence": 4,
-      "Meg": 4,
-      "Mr. Laurence": 4,
-      "Laurie": 4,
-      "Miss March": 3,
-      "Mother": 3,
-      "Amy": 3
-    }
-  },
-  {
     "canonical_name": "Miss Belle",
     "aliases": [
       "Belle"
@@ -2323,10 +2080,10 @@
       "Annie Moffat": 1,
       "Beth": 1,
       "Daisy March": 1,
-      "Don": 1,
       "Hortense": 1,
       "Laurence": 1,
-      "Laurie": 1
+      "Laurie": 1,
+      "Major Lincoln": 1
     }
   },
   {
@@ -2357,48 +2114,14 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 5,
       "Laurie": 5,
-      "Meg": 5,
       "Mrs. March": 5,
       "Mrs. Moffat": 5,
-      "Beth": 4,
+      "Amy": 4,
+      "Meg": 4,
+      "Beth": 3,
       "Laurence": 3,
       "Mother": 3
-    }
-  },
-  {
-    "canonical_name": "With",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 16,
-    "per_chapter": {
-      "10": {
-        "mentions": 6,
-        "snippet": "With a few interruptions, they had kept this up for a"
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "\u201d With"
-      },
-      "41": {
-        "mentions": 3,
-        "snippet": "With a half-repentant, half-amused expression,"
-      },
-      "46": {
-        "mentions": 4,
-        "snippet": "With that she rushed across the street so impetuously that she narrowly"
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 3,
-      "Beth": 3,
-      "Laurie": 3,
-      "Mrs. March": 2,
-      "Meg": 2,
-      "Brooke": 1,
-      "By George": 1,
-      "Camp Laurence": 1
     }
   },
   {
@@ -2438,39 +2161,13 @@
     },
     "co_occurs_with": {
       "Amy": 6,
-      "Laurie": 6,
       "Mrs. Carrol": 5,
-      "Beth": 5,
+      "Laurie": 5,
       "Laurence": 4,
       "Mr. Laurence": 4,
       "Mrs. March": 4,
-      "Aunt March": 3
-    }
-  },
-  {
-    "canonical_name": "Flo",
-    "aliases": [],
-    "first_chapter": 31,
-    "total_mentions": 16,
-    "per_chapter": {
-      "31": {
-        "mentions": 13,
-        "snippet": "Aunt and Flo were poorly all the way, and liked to be let alone, so"
-      },
-      "37": {
-        "mentions": 3,
-        "snippet": "Flo\u2019s saving up for tonight."
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 2,
-      "Laurie": 2,
-      "Aunt Mary": 1,
-      "Bath Hotel": 1,
-      "Beth Frank": 1,
-      "Champs Elysees": 1,
-      "Frank Vaughn": 1,
-      "Fred": 1
+      "Aunt March": 3,
+      "Beth": 3
     }
   },
   {
@@ -2562,44 +2259,6 @@
     }
   },
   {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 15,
-    "per_chapter": {
-      "6": {
-        "mentions": 4,
-        "snippet": "Here he rose, as if going, and Beth made up her mind to speak, for that"
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "\u201cHere\u2019s a sweet prospect!"
-      },
-      "12": {
-        "mentions": 4,
-        "snippet": "\u201cHere\u2019s your posy, Mother!"
-      },
-      "21": {
-        "mentions": 3,
-        "snippet": "\u201cHere\u2019s a note to you, Meg, all sealed up."
-      },
-      "47": {
-        "mentions": 1,
-        "snippet": "Here it is, and we never can thank"
-      }
-    },
-    "co_occurs_with": {
-      "Laurie": 5,
-      "Mrs. March": 5,
-      "Amy": 4,
-      "Beth": 4,
-      "Laurence": 4,
-      "Mr. Laurence": 4,
-      "Brooke": 3,
-      "Meg": 3
-    }
-  },
-  {
     "canonical_name": "Aunt Carrol",
     "aliases": [],
     "first_chapter": 29,
@@ -2616,47 +2275,13 @@
     },
     "co_occurs_with": {
       "Carrol": 2,
-      "Laurie": 2,
       "Mrs. Chester": 2,
       "Amy": 1,
       "Aunt March": 1,
       "Aunt. Mrs": 1,
       "Chesters": 1,
-      "Come": 1
-    }
-  },
-  {
-    "canonical_name": "Good",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 14,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "Good night, Doctor Jo."
-      },
-      "10": {
-        "mentions": 5,
-        "snippet": "Meg\u2014Good."
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "\u201cGood for you, Jo!"
-      },
-      "37": {
-        "mentions": 3,
-        "snippet": "\u201cGood evening, Diana!"
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 4,
-      "Laurie": 4,
-      "Meg": 3,
-      "Laurence": 2,
-      "Mother": 2,
-      "Mr. Laurence": 2,
-      "Mrs. March": 2,
-      "Beth": 2
+      "Jo March": 1,
+      "Lamb": 1
     }
   },
   {
@@ -2687,14 +2312,62 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 5,
       "Laurie": 5,
-      "Meg": 5,
       "Moffat": 5,
       "Mrs. March": 5,
-      "Beth": 4,
+      "Amy": 4,
+      "Meg": 4,
+      "Beth": 3,
       "Laurence": 3,
       "Mother": 3
+    }
+  },
+  {
+    "canonical_name": "Flo",
+    "aliases": [],
+    "first_chapter": 31,
+    "total_mentions": 13,
+    "per_chapter": {
+      "31": {
+        "mentions": 13,
+        "snippet": "Aunt and Flo were poorly all the way, and liked to be let alone, so"
+      }
+    },
+    "co_occurs_with": {
+      "Amy": 1,
+      "Aunt Mary": 1,
+      "Bath Hotel": 1,
+      "Beth Frank": 1,
+      "Champs Elysees": 1,
+      "Frank Vaughn": 1,
+      "Fred": 1,
+      "Hampton Court": 1
+    }
+  },
+  {
+    "canonical_name": "Sallie",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 12,
+    "per_chapter": {
+      "9": {
+        "mentions": 10,
+        "snippet": "and my bonnet doesn\u2019t look like Sallie\u2019s."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "Sallie, and I spread the table?"
+      }
+    },
+    "co_occurs_with": {
+      "Amy": 2,
+      "Beth": 2,
+      "Laurence": 2,
+      "Laurie": 2,
+      "Margaret": 2,
+      "Miss March": 2,
+      "Mother": 2,
+      "Mr. Laurence": 2
     }
   },
   {
@@ -2715,14 +2388,14 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 2,
       "Beth": 2,
       "Laurie": 2,
       "Meg": 2,
       "Mother": 2,
       "Mrs. Hummel": 2,
       "Mrs. March": 2,
-      "Ask Hannah": 1
+      "Ask Hannah": 1,
+      "Aunt March": 1
     }
   },
   {
@@ -2774,7 +2447,7 @@
       "Americans": 1,
       "Castle Hill": 1,
       "Christmas Day": 1,
-      "Flo": 1
+      "German Serene Something": 1
     }
   },
   {
@@ -2795,8 +2468,8 @@
       "Die Engel": 1,
       "Don Pedro": 1,
       "Hagar": 1,
-      "Hannah": 1,
-      "Hugo": 1
+      "Hugo": 1,
+      "Laurence": 1
     }
   },
   {
@@ -2817,8 +2490,8 @@
       "Die Engel": 1,
       "Don Pedro": 1,
       "Hagar": 1,
-      "Hannah": 1,
-      "Hugo": 1
+      "Hugo": 1,
+      "Laurence": 1
     }
   },
   {
@@ -2862,11 +2535,11 @@
       "Aunt March": 2,
       "Beth": 2,
       "Laurie": 2,
-      "Amy": 1,
       "Ask Hannah": 1,
       "Christopher Columbus": 1,
-      "Don": 1,
-      "Dr. Bangs": 1
+      "Dr. Bangs": 1,
+      "Father": 1,
+      "Hummels": 1
     }
   },
   {
@@ -2891,14 +2564,14 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 3,
+      "Amy": 2,
       "Beth": 2,
-      "Don": 2,
-      "Meg": 2,
       "Mother": 2,
       "Mrs. March": 2,
       "Laurie": 2,
-      "Aunt March": 1
+      "Aunt March": 1,
+      "Brooke": 1,
+      "Carrol": 1
     }
   },
   {
@@ -2940,9 +2613,9 @@
       "Beth": 1,
       "Die Engel": 1,
       "Don Pedro": 1,
-      "Hannah": 1,
       "Hugo": 1,
-      "Laurence": 1
+      "Laurence": 1,
+      "Marmee": 1
     }
   },
   {
@@ -2959,14 +2632,40 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Amy": 1,
       "Aunt Cockle": 1,
-      "Aye": 1,
       "Barnville Theatre": 1,
-      "Beth": 1,
       "Club House": 1,
-      "Constantine the Avenger": 1
+      "Constantine the Avenger": 1,
+      "Count Adelon": 1,
+      "Count Antonio": 1,
+      "Count de Adelon": 1,
+      "Ferdinand Devereux": 1
+    }
+  },
+  {
+    "canonical_name": "With",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 10,
+    "per_chapter": {
+      "10": {
+        "mentions": 6,
+        "snippet": "With a few interruptions, they had kept this up for a"
+      },
+      "46": {
+        "mentions": 4,
+        "snippet": "With that she rushed across the street so impetuously that she narrowly"
+      }
+    },
+    "co_occurs_with": {
+      "Bhaer": 1,
+      "Friedrich": 1,
+      "Gott": 1,
+      "Meg": 1,
+      "Miss Marsch": 1,
+      "Mr. Bhaer": 1,
+      "Mrs. March": 1,
+      "New York": 1
     }
   },
   {
@@ -3009,14 +2708,14 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 2,
       "Beth": 2,
       "Dr. Bangs": 2,
       "Laurie": 2,
       "Meg": 2,
       "Mother": 2,
       "Mrs. March": 2,
-      "Ask Hannah": 1
+      "Ask Hannah": 1,
+      "Aunt March": 1
     }
   },
   {
@@ -3039,12 +2738,12 @@
     "co_occurs_with": {
       "Aunt Carrol": 2,
       "Carrol": 2,
-      "Laurie": 2,
       "Amy": 1,
       "Aunt March": 1,
       "Aunt. Mrs": 1,
       "Chesters": 1,
-      "Come": 1
+      "Jo March": 1,
+      "Lamb": 1
     }
   },
   {
@@ -3124,9 +2823,9 @@
       "Demi": 1,
       "Hannah": 1,
       "John the Just": 1,
-      "Let": 1,
       "Master Demi": 1,
-      "Meg": 1
+      "Meg": 1,
+      "Mother": 1
     }
   },
   {
@@ -3147,8 +2846,8 @@
       "Die Engel": 1,
       "Don Pedro": 1,
       "Hagar": 1,
-      "Hannah": 1,
-      "Laurence": 1
+      "Laurence": 1,
+      "Marmee": 1
     }
   },
   {
@@ -3176,39 +2875,39 @@
     },
     "co_occurs_with": {
       "Aunt March": 3,
-      "Hannah": 3,
       "Marmee": 3,
       "Meg": 3,
       "Mrs. March": 3,
       "Amy": 3,
       "Laurence": 2,
-      "Miss March": 2
+      "Miss March": 2,
+      "Mother": 2
     }
   },
   {
-    "canonical_name": "Let",
+    "canonical_name": "Good",
     "aliases": [],
-    "first_chapter": 12,
+    "first_chapter": 10,
     "total_mentions": 8,
     "per_chapter": {
-      "12": {
+      "10": {
         "mentions": 5,
-        "snippet": "peeped, saying imploringly, \u2018Let me in!"
+        "snippet": "Meg\u2014Good."
       },
-      "38": {
+      "37": {
         "mentions": 3,
-        "snippet": "\u201cLet me show you."
+        "snippet": "\u201cGood evening, Diana!"
       }
     },
     "co_occurs_with": {
-      "Brooke": 2,
-      "Mother": 2,
-      "Mr. Brooke": 2,
-      "Not": 2,
+      "Laurie": 2,
+      "Americans": 1,
       "Amy": 1,
-      "Beth": 1,
-      "By George": 1,
-      "Camp Laurence": 1
+      "Carrol": 1,
+      "Castle Hill": 1,
+      "Christmas Day": 1,
+      "German Serene Something": 1,
+      "Jardin Publique": 1
     }
   },
   {
@@ -3249,14 +2948,14 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 2,
       "Brooke": 2,
       "Laurence": 2,
       "Laurie": 2,
       "Margaret": 2,
       "Miss Margaret": 2,
       "Mother": 2,
-      "Mr. Brooke": 2
+      "Mr. Brooke": 2,
+      "Mr. Laurence": 2
     }
   },
   {
@@ -3289,12 +2988,12 @@
     "co_occurs_with": {
       "Amy": 5,
       "Carrol": 5,
-      "Laurie": 4,
       "Beth": 3,
+      "Laurie": 3,
       "Aunt March": 2,
-      "Don": 2,
       "Hannah": 2,
-      "Laurence": 2
+      "Laurence": 2,
+      "Meg": 2
     }
   },
   {
@@ -3338,43 +3037,7 @@
       "Daisy": 1,
       "Father Bhaer": 1,
       "Grandma": 1,
-      "Here": 1
-    }
-  },
-  {
-    "canonical_name": "Poor Jo",
-    "aliases": [
-      "Poor"
-    ],
-    "first_chapter": 1,
-    "total_mentions": 6,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "\u201cPoor Jo!"
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "\u201cPoor old Jo!"
-      },
-      "40": {
-        "mentions": 1,
-        "snippet": "\u201cPoor Jo!"
-      },
-      "43": {
-        "mentions": 1,
-        "snippet": "\u201cPoor Jo!"
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 3,
-      "Beth": 3,
-      "Meg": 3,
-      "Mother": 3,
-      "Mrs. March": 3,
-      "Aunt March": 2,
-      "Father": 2,
-      "Hannah": 2
+      "John": 1
     }
   },
   {
@@ -3400,7 +3063,7 @@
       "Mother": 2,
       "Mr. Laurence": 2,
       "Mrs. March": 2,
-      "Sallie": 2
+      "Aunt March": 1
     }
   },
   {
@@ -3423,34 +3086,8 @@
       "Belsham": 1,
       "Beth": 1,
       "Hannah": 1,
-      "Josy": 1,
-      "King": 1
-    }
-  },
-  {
-    "canonical_name": "Thank",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 6,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cThank you!"
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "Thank you, Mother,\u201d And Jo gave the thin cheek a"
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 2,
-      "Brooke": 2,
-      "Doctor Jo": 2,
-      "Don": 2,
-      "Laurence": 2,
-      "Laurie": 2,
-      "Miss Jo": 2,
-      "Mother": 2
+      "King": 1,
+      "Laurence": 1
     }
   },
   {
@@ -3471,62 +3108,10 @@
       "Annie Moffat": 1,
       "Beth": 1,
       "Daisy March": 1,
-      "Don": 1,
       "Hortense": 1,
       "Laurence": 1,
-      "Laurie": 1
-    }
-  },
-  {
-    "canonical_name": "Try",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 6,
-    "per_chapter": {
-      "12": {
-        "mentions": 3,
-        "snippet": "\u201cTry again."
-      },
-      "39": {
-        "mentions": 3,
-        "snippet": "\u201cTry lower down, and pick those that have no thorns,\u201d said Amy,"
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 2,
-      "Don": 2,
-      "Fred Vaughn": 2,
-      "Laurie": 2,
-      "Beth": 1,
-      "Brooke": 1,
-      "By George": 1,
-      "Camp Laurence": 1
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 21,
-    "total_mentions": 6,
-    "per_chapter": {
-      "21": {
-        "mentions": 3,
-        "snippet": "\u201cCome on, then!"
-      },
-      "29": {
-        "mentions": 3,
-        "snippet": "\u201cCome, Jo, it\u2019s time."
-      }
-    },
-    "co_occurs_with": {
-      "Don": 2,
-      "Laurie": 2,
-      "Amy": 1,
-      "Aunt Carrol": 1,
-      "Aunt March": 1,
-      "Aunt. Mrs": 1,
-      "Carrol": 1,
-      "Chesters": 1
+      "Laurie": 1,
+      "Major Lincoln": 1
     }
   },
   {
@@ -3584,7 +3169,7 @@
       "Hannah": 1,
       "Laurence": 1,
       "Maria Theresa": 1,
-      "Meg": 1
+      "Miss Amy": 1
     }
   },
   {
@@ -3608,7 +3193,7 @@
       "Laurence": 1,
       "Laurie": 1,
       "Maria Theresa": 1,
-      "Meg": 1
+      "Miss Amy": 1
     }
   },
   {
@@ -3628,12 +3213,12 @@
     },
     "co_occurs_with": {
       "Amy": 2,
-      "Laurie": 2,
       "Miss March": 2,
       "Beth": 1,
       "By Jove": 1,
       "Hannah": 1,
       "Laurence": 1,
+      "Laurie": 1,
       "Maria Theresa": 1
     }
   },
@@ -3681,8 +3266,8 @@
       "Aunt. Mrs": 1,
       "Carrol": 1,
       "Chesters": 1,
-      "Come": 1,
-      "Don": 1
+      "Jo March": 1,
+      "May Chester": 1
     }
   },
   {
@@ -3727,12 +3312,12 @@
     "co_occurs_with": {
       "Annie Moffat": 1,
       "Aunt March": 1,
-      "Can": 1,
-      "Hannah": 1,
       "Laurence": 1,
       "Laurie Laurence": 1,
       "Marmee": 1,
-      "Meg": 1
+      "Meg": 1,
+      "Miss Jo": 1,
+      "Miss Josephine": 1
     }
   },
   {
@@ -3777,10 +3362,10 @@
       "Annie Moffat": 1,
       "Beth": 1,
       "Daisy March": 1,
-      "Don": 1,
       "Hortense": 1,
       "Laurence": 1,
-      "Laurie": 1
+      "Laurie": 1,
+      "Margaret": 1
     }
   },
   {
@@ -3816,7 +3401,7 @@
       "Meg": 3,
       "Miss March": 3,
       "Mother": 3,
-      "Sallie": 3
+      "Brooke": 3
     }
   },
   {
@@ -3839,14 +3424,14 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 3,
       "Laurence": 3,
       "Laurie": 3,
       "Mother": 3,
       "Mr. Laurence": 3,
       "Mrs. March": 3,
+      "Amy": 2,
       "Beth": 2,
-      "Don": 2
+      "Meg": 2
     }
   },
   {
@@ -3865,32 +3450,10 @@
       "Annie Moffat": 1,
       "Beth": 1,
       "Daisy March": 1,
-      "Don": 1,
       "Hortense": 1,
       "Laurence": 1,
-      "Laurie": 1
-    }
-  },
-  {
-    "canonical_name": "Aye",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 5,
-    "per_chapter": {
-      "10": {
-        "mentions": 5,
-        "snippet": "motion please to manifest it by saying, \u2018Aye\u2019."
-      }
-    },
-    "co_occurs_with": {
-      "All": 1,
-      "Amy": 1,
-      "Aunt Cockle": 1,
-      "Barnville Theatre": 1,
-      "Beth": 1,
-      "Club House": 1,
-      "Constantine the Avenger": 1,
-      "Count Adelon": 1
+      "Laurie": 1,
+      "Major Lincoln": 1
     }
   },
   {
@@ -3911,8 +3474,8 @@
       "Aunt. Mrs": 1,
       "Carrol": 1,
       "Chesters": 1,
-      "Come": 1,
-      "Don": 1
+      "Jo March": 1,
+      "Lamb": 1
     }
   },
   {
@@ -4005,12 +3568,12 @@
     "co_occurs_with": {
       "Annie Moffat": 1,
       "Aunt March": 1,
-      "Can": 1,
       "Gardiner": 1,
-      "Hannah": 1,
       "Laurence": 1,
       "Laurie Laurence": 1,
-      "Marmee": 1
+      "Marmee": 1,
+      "Meg": 1,
+      "Miss Jo": 1
     }
   },
   {
@@ -4086,9 +3649,9 @@
       "Aunt March": 1,
       "Beth": 1,
       "Hannah": 1,
-      "Josy": 1,
       "King": 1,
-      "Laurence": 1
+      "Laurence": 1,
+      "Little Raphael": 1
     }
   },
   {
@@ -4105,14 +3668,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Amy": 1,
       "Aunt Cockle": 1,
-      "Aye": 1,
       "Barnville Theatre": 1,
-      "Beth": 1,
       "Club House": 1,
-      "Constantine the Avenger": 1
+      "Constantine the Avenger": 1,
+      "Count Adelon": 1,
+      "Count Antonio": 1,
+      "Count de Adelon": 1,
+      "Ferdinand Devereux": 1
     }
   },
   {
@@ -4129,14 +3692,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Amy": 1,
       "Aunt Cockle": 1,
-      "Aye": 1,
       "Barnville Theatre": 1,
-      "Beth": 1,
       "Club House": 1,
-      "Constantine the Avenger": 1
+      "Constantine the Avenger": 1,
+      "Count Adelon": 1,
+      "Count Antonio": 1,
+      "Count de Adelon": 1,
+      "Ferdinand Devereux": 1
     }
   },
   {
@@ -4183,14 +3746,14 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 2,
       "Brooke": 2,
       "Dear": 2,
       "Laurence": 2,
       "Laurie": 2,
       "Margaret": 2,
       "Mother": 2,
-      "Mr. Brooke": 2
+      "Mr. Brooke": 2,
+      "Mr. Laurence": 2
     }
   },
   {
@@ -4214,13 +3777,13 @@
     },
     "co_occurs_with": {
       "Brooke": 3,
-      "Don": 3,
       "Laurence": 3,
-      "Mother": 3,
       "Mr. Brooke": 3,
       "Mr. Laurence": 3,
       "Mrs. John Brooke": 3,
-      "Mrs. March": 3
+      "Mrs. March": 3,
+      "Laurie": 2,
+      "Aunt March": 2
     }
   },
   {
@@ -4380,6 +3943,36 @@
     }
   },
   {
+    "canonical_name": "Poor Jo",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "\u201cPoor Jo!"
+      },
+      "40": {
+        "mentions": 1,
+        "snippet": "\u201cPoor Jo!"
+      },
+      "43": {
+        "mentions": 1,
+        "snippet": "\u201cPoor Jo!"
+      }
+    },
+    "co_occurs_with": {
+      "Amy": 2,
+      "Beth": 2,
+      "Meg": 2,
+      "Mother": 2,
+      "Mrs. March": 2,
+      "Aunt March": 1,
+      "Celestial City": 1,
+      "China Aster": 1
+    }
+  },
+  {
     "canonical_name": "Merry Christmas",
     "aliases": [],
     "first_chapter": 2,
@@ -4397,8 +3990,8 @@
       "Die Engel": 1,
       "Don Pedro": 1,
       "Hagar": 1,
-      "Hannah": 1,
-      "Hugo": 1
+      "Hugo": 1,
+      "Laurence": 1
     }
   },
   {
@@ -4422,55 +4015,11 @@
       "Meg": 2,
       "Miss March": 2,
       "Mrs. March": 2,
-      "There": 2,
-      "Annie Moffat": 1,
-      "Aunt March": 1,
-      "Can": 1,
-      "Gardiner": 1
-    }
-  },
-  {
-    "canonical_name": "Can",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 3,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "Can\u2019t you make them do?"
-      }
-    },
-    "co_occurs_with": {
       "Annie Moffat": 1,
       "Aunt March": 1,
       "Gardiner": 1,
-      "Hannah": 1,
       "Laurence": 1,
-      "Laurie Laurence": 1,
-      "Marmee": 1,
-      "Meg": 1
-    }
-  },
-  {
-    "canonical_name": "Josy",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "called, \u201cJosy-phine!"
-      }
-    },
-    "co_occurs_with": {
-      "Aid Societies": 1,
-      "Amy": 1,
-      "Aunt March": 1,
-      "Belsham": 1,
-      "Beth": 1,
-      "Hannah": 1,
-      "King": 1,
-      "Laurence": 1
+      "Laurie Laurence": 1
     }
   },
   {
@@ -4496,11 +4045,33 @@
       "Brooke": 3,
       "Laurence": 3,
       "Laurie": 3,
-      "Mother": 3,
       "Mr. Brooke": 3,
       "Mr. Laurence": 3,
       "Mrs. March": 3,
-      "Amy": 2
+      "Aunt March": 2,
+      "Meg": 2
+    }
+  },
+  {
+    "canonical_name": "Thank",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 3,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cThank you!"
+      }
+    },
+    "co_occurs_with": {
+      "Amy": 1,
+      "Aunt March": 1,
+      "Brooke": 1,
+      "Doctor Jo": 1,
+      "Don Pedro": 1,
+      "Is Beth": 1,
+      "Laurence": 1,
+      "Laurie": 1
     }
   },
   {
@@ -4521,12 +4092,12 @@
     "co_occurs_with": {
       "Amy": 2,
       "Aunt March": 2,
-      "Laurie": 2,
       "Aunt Carrol": 1,
       "Aunt. Mrs": 1,
       "Carrol": 1,
       "Chesters": 1,
-      "Come": 1
+      "Lamb": 1,
+      "May Chester": 1
     }
   },
   {
@@ -4545,10 +4116,10 @@
       "Annie Moffat": 1,
       "Beth": 1,
       "Daisy March": 1,
-      "Don": 1,
       "Laurence": 1,
       "Laurie": 1,
-      "Major Lincoln": 1
+      "Major Lincoln": 1,
+      "Margaret": 1
     }
   },
   {
@@ -4565,14 +4136,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Amy": 1,
-      "Aye": 1,
       "Barnville Theatre": 1,
-      "Beth": 1,
       "Club House": 1,
       "Constantine the Avenger": 1,
-      "Count Adelon": 1
+      "Count Adelon": 1,
+      "Count Antonio": 1,
+      "Count de Adelon": 1,
+      "Ferdinand Devereux": 1,
+      "Good": 1
     }
   },
   {
@@ -4589,14 +4160,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Amy": 1,
       "Aunt Cockle": 1,
-      "Aye": 1,
       "Barnville Theatre": 1,
-      "Beth": 1,
       "Club House": 1,
-      "Constantine the Avenger": 1
+      "Constantine the Avenger": 1,
+      "Count Adelon": 1,
+      "Count Antonio": 1,
+      "Count de Adelon": 1,
+      "Ferdinand Devereux": 1
     }
   },
   {
@@ -4615,10 +4186,10 @@
       }
     },
     "co_occurs_with": {
-      "Beth": 2,
       "Laurie": 2,
       "Amy Curtis March": 1,
       "Aunt March": 1,
+      "Beth": 1,
       "Curtis March": 1,
       "Divine Mother": 1,
       "Esther": 1,
@@ -4639,36 +4210,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Amy": 1,
       "Aunt Cockle": 1,
-      "Aye": 1,
       "Barnville Theatre": 1,
-      "Beth": 1,
-      "Club House": 1,
-      "Constantine the Avenger": 1
-    }
-  },
-  {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 3,
-    "per_chapter": {
-      "10": {
-        "mentions": 3,
-        "snippet": "All eyes turned toward the bridal party, and a murmur of amazement went"
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 1,
-      "Aunt Cockle": 1,
-      "Aye": 1,
-      "Barnville Theatre": 1,
-      "Beth": 1,
       "Club House": 1,
       "Constantine the Avenger": 1,
-      "Count Adelon": 1
+      "Count Adelon": 1,
+      "Count Antonio": 1,
+      "Count de Adelon": 1,
+      "Ferdinand Devereux": 1
     }
   },
   {
@@ -4683,14 +4232,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Amy": 1,
       "Aunt Cockle": 1,
-      "Aye": 1,
       "Barnville Theatre": 1,
-      "Beth": 1,
       "Club House": 1,
-      "Constantine the Avenger": 1
+      "Constantine the Avenger": 1,
+      "Count Adelon": 1,
+      "Count Antonio": 1,
+      "Count de Adelon": 1,
+      "Ferdinand Devereux": 1
     }
   },
   {
@@ -4724,28 +4273,6 @@
       "12": {
         "mentions": 3,
         "snippet": "we don\u2019t keep any horses now, except Ellen Tree,\u201d added Amy, laughing."
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 1,
-      "Beth": 1,
-      "Brooke": 1,
-      "By George": 1,
-      "Camp Laurence": 1,
-      "Count Gustave": 1,
-      "Dear": 1,
-      "Did the German": 1
-    }
-  },
-  {
-    "canonical_name": "Didn",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 3,
-    "per_chapter": {
-      "12": {
-        "mentions": 3,
-        "snippet": "\u201cDidn\u2019t you drop the other in the"
       }
     },
     "co_occurs_with": {
@@ -4850,28 +4377,6 @@
     }
   },
   {
-    "canonical_name": "Won",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 3,
-    "per_chapter": {
-      "14": {
-        "mentions": 3,
-        "snippet": "\u201cWon\u2019t she?"
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 1,
-      "At the Gardiners": 1,
-      "Beth": 1,
-      "Brooke": 1,
-      "Josephine March": 1,
-      "King": 1,
-      "Laurie": 1,
-      "Meg": 1
-    }
-  },
-  {
     "canonical_name": "Lady Something",
     "aliases": [
       "Something"
@@ -4909,14 +4414,14 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 1,
       "Aunt March": 1,
       "Brooke": 1,
       "Chere Mamma": 1,
       "Chief General Laurence": 1,
       "Colonel Teddy": 1,
       "Dear": 1,
-      "Father": 1
+      "Father": 1,
+      "Father. The": 1
     }
   },
   {
@@ -4931,14 +4436,14 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 1,
       "Ask Hannah": 1,
       "Aunt March": 1,
       "Beth": 1,
       "Christopher Columbus": 1,
-      "Don": 1,
       "Dr. Bangs": 1,
-      "Father": 1
+      "Father": 1,
+      "Laurie": 1,
+      "Meg": 1
     }
   },
   {
@@ -4964,7 +4469,7 @@
       "Amy": 1,
       "Brooke": 1,
       "Carrol": 1,
-      "Don": 1
+      "For Mrs": 1
     }
   },
   {
@@ -5010,57 +4515,35 @@
     },
     "co_occurs_with": {
       "Brooke": 3,
-      "Don": 3,
       "John Brooke": 3,
       "Laurence": 3,
-      "Mother": 3,
       "Mr. Brooke": 3,
       "Mr. Laurence": 3,
-      "Mrs. March": 3
+      "Mrs. March": 3,
+      "Laurie": 2,
+      "Aunt March": 2
     }
   },
   {
-    "canonical_name": "Bless",
+    "canonical_name": "Come",
     "aliases": [],
     "first_chapter": 21,
     "total_mentions": 3,
     "per_chapter": {
       "21": {
         "mentions": 3,
-        "snippet": "\u201cBless you, child!"
+        "snippet": "\u201cCome on, then!"
       }
     },
     "co_occurs_with": {
       "Brooke": 1,
       "Caroline Percy": 1,
-      "Come": 1,
-      "Don": 1,
-      "Here": 1,
       "Is Mr": 1,
       "John Brooke": 1,
-      "Laurence": 1
-    }
-  },
-  {
-    "canonical_name": "Please",
-    "aliases": [],
-    "first_chapter": 23,
-    "total_mentions": 3,
-    "per_chapter": {
-      "23": {
-        "mentions": 3,
-        "snippet": "\u201cPlease don\u2019t plague"
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 1,
-      "Aunt March": 1,
-      "Beth": 1,
-      "Brooke": 1,
-      "Don": 1,
-      "Father": 1,
-      "John Brooke": 1,
-      "Laurence": 1
+      "Laurence": 1,
+      "Laurie": 1,
+      "Meg Mr": 1,
+      "Mr. Brooke": 1
     }
   },
   {
@@ -5084,9 +4567,9 @@
       "Hannah": 2,
       "Laurence": 2,
       "Laurie": 2,
-      "Meg": 2,
       "Mr. Laurence": 2,
-      "Mr. March": 2
+      "Mr. March": 2,
+      "Mrs. March": 2
     }
   },
   {
@@ -5107,8 +4590,7 @@
       "Miss Crocker": 1,
       "Mr. Allen": 1,
       "Mrs. March": 1,
-      "Send Beth": 1,
-      "The": 1
+      "Send Beth": 1
     }
   },
   {
@@ -5129,8 +4611,8 @@
       "Aunt. Mrs": 1,
       "Carrol": 1,
       "Chesters": 1,
-      "Come": 1,
-      "Don": 1
+      "Jo March": 1,
+      "Lamb": 1
     }
   },
   {
@@ -5150,9 +4632,9 @@
       "Aunt March": 1,
       "Aunt. Mrs": 1,
       "Carrol": 1,
-      "Come": 1,
-      "Don": 1,
-      "Jo March": 1
+      "Jo March": 1,
+      "Lamb": 1,
+      "May Chester": 1
     }
   },
   {
@@ -5170,13 +4652,13 @@
     },
     "co_occurs_with": {
       "Aunt Carrol": 1,
-      "Beth": 1,
       "Carrol": 1,
       "Hayes": 1,
       "Is Amy": 1,
       "Laurence": 1,
       "Laurie": 1,
-      "Miss Jo": 1
+      "Miss Jo": 1,
+      "Mr. Laurence": 1
     }
   },
   {
@@ -5192,13 +4674,13 @@
     },
     "co_occurs_with": {
       "Aunt Carrol": 1,
-      "Beth": 1,
       "Carrol": 1,
       "Is Amy": 1,
       "Lady Bountiful": 1,
       "Laurence": 1,
       "Laurie": 1,
-      "Miss Jo": 1
+      "Miss Jo": 1,
+      "Mr. Laurence": 1
     }
   },
   {
@@ -5235,14 +4717,14 @@
       }
     },
     "co_occurs_with": {
-      "Amy": 1,
       "Beth": 1,
       "Cock Robin": 1,
       "Laurie": 1,
-      "Meg": 1,
       "Miss Randal": 1,
       "Moffat": 1,
-      "Mother": 1
+      "Mother": 1,
+      "Mother. He": 1,
+      "Mrs. Kirke": 1
     }
   },
   {
@@ -5344,28 +4826,6 @@
     }
   },
   {
-    "canonical_name": "Shall",
-    "aliases": [],
-    "first_chapter": 34,
-    "total_mentions": 3,
-    "per_chapter": {
-      "34": {
-        "mentions": 3,
-        "snippet": "\u201cShall I tell my friend you will take another if she has one better"
-      }
-    },
-    "co_occurs_with": {
-      "Bhaer": 1,
-      "Father": 1,
-      "Friedrich Bhaer": 1,
-      "Hannah More": 1,
-      "Madame de Staels": 1,
-      "Mees Marsch": 1,
-      "Miss Edgeworth": 1,
-      "Miss Norton": 1
-    }
-  },
-  {
     "canonical_name": "Americans",
     "aliases": [],
     "first_chapter": 37,
@@ -5381,10 +4841,10 @@
       "Carrol": 1,
       "Castle Hill": 1,
       "Christmas Day": 1,
-      "Flo": 1,
       "German Serene Something": 1,
       "Good": 1,
-      "Jardin Publique": 1
+      "Jardin Publique": 1,
+      "Lady de Jones": 1
     }
   },
   {
@@ -5404,31 +4864,9 @@
       "Demi": 1,
       "Hannah": 1,
       "John the Just": 1,
-      "Let": 1,
       "Mamma": 1,
-      "Master Demi": 1
-    }
-  },
-  {
-    "canonical_name": "Valrosa",
-    "aliases": [],
-    "first_chapter": 39,
-    "total_mentions": 3,
-    "per_chapter": {
-      "39": {
-        "mentions": 3,
-        "snippet": "They are done now, and I am going to Valrosa to"
-      }
-    },
-    "co_occurs_with": {
-      "Amy": 1,
-      "Baptiste": 1,
-      "Don": 1,
-      "Fred Vaughn": 1,
-      "Hang Miss Randal": 1,
-      "Laurie": 1,
-      "Lazy Laurence": 1,
-      "Maritime Alps": 1
+      "Master Demi": 1,
+      "Meg": 1
     }
   },
   {
@@ -5444,32 +4882,35 @@
     },
     "co_occurs_with": {
       "Amy": 1,
-      "Don": 1,
+      "Fred Vaughn": 1,
+      "Hang Miss Randal": 1,
+      "Laurie": 1,
+      "Lazy Laurence": 1,
+      "Maritime Alps": 1,
+      "Miss Randal": 1,
+      "Nice": 1
+    }
+  },
+  {
+    "canonical_name": "Try",
+    "aliases": [],
+    "first_chapter": 39,
+    "total_mentions": 3,
+    "per_chapter": {
+      "39": {
+        "mentions": 3,
+        "snippet": "\u201cTry lower down, and pick those that have no thorns,\u201d said Amy,"
+      }
+    },
+    "co_occurs_with": {
+      "Amy": 1,
+      "Baptiste": 1,
       "Fred Vaughn": 1,
       "Hang Miss Randal": 1,
       "Laurie": 1,
       "Lazy Laurence": 1,
       "Maritime Alps": 1,
       "Miss Randal": 1
-    }
-  },
-  {
-    "canonical_name": "Which",
-    "aliases": [],
-    "first_chapter": 40,
-    "total_mentions": 3,
-    "per_chapter": {
-      "40": {
-        "mentions": 3,
-        "snippet": "Which have beautified your life."
-      }
-    },
-    "co_occurs_with": {
-      "Aunty Beth": 1,
-      "Father": 1,
-      "Mother": 1,
-      "Poor Jo": 1,
-      "Shining Ones": 1
     }
   },
   {
@@ -5491,9 +4932,9 @@
       "Bhaer": 1,
       "Carrol": 1,
       "Dear Jo": 1,
-      "Demi": 1,
       "Father Laurence": 1,
-      "Hannah": 1
+      "Hannah": 1,
+      "Laurence": 1
     }
   },
   {
@@ -5559,7 +5000,7 @@
       "Daisy": 1,
       "Father Bhaer": 1,
       "Fritz": 1,
-      "Here": 1
+      "John": 1
     }
   }
 ]

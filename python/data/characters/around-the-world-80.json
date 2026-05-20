@@ -153,12 +153,12 @@
     "co_occurs_with": {
       "Mr. Fogg": 36,
       "Phileas Fogg": 35,
-      "Passepartout": 27,
-      "Fix": 18,
-      "Aouda": 18,
+      "Passepartout": 19,
+      "Fix": 15,
       "Hong Kong": 14,
       "Reform Club": 12,
-      "New York": 12
+      "New York": 12,
+      "San Francisco": 11
     }
   },
   {
@@ -315,19 +315,19 @@
     "co_occurs_with": {
       "Fogg": 36,
       "Phileas Fogg": 35,
-      "Passepartout": 27,
-      "Fix": 18,
-      "Aouda": 18,
+      "Passepartout": 19,
+      "Fix": 15,
       "Hong Kong": 14,
       "Reform Club": 12,
-      "New York": 12
+      "New York": 12,
+      "San Francisco": 11
     }
   },
   {
     "canonical_name": "Passepartout",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 332,
+    "total_mentions": 245,
     "per_chapter": {
       "2": {
         "mentions": 12,
@@ -348,14 +348,6 @@
       "9": {
         "mentions": 1,
         "snippet": "Passepartout, that this pretended tour in eighty days"
-      },
-      "10": {
-        "mentions": 7,
-        "snippet": "moment, any more than Passepartout, that Phileas Fogg would remain"
-      },
-      "11": {
-        "mentions": 16,
-        "snippet": "Passepartout rode in the"
       },
       "12": {
         "mentions": 9,
@@ -389,10 +381,6 @@
         "mentions": 4,
         "snippet": "When Passepartout did not appear the"
       },
-      "22": {
-        "mentions": 19,
-        "snippet": "It was Passepartout; and what had happened to him was as follows:"
-      },
       "23": {
         "mentions": 18,
         "snippet": "The next morning poor, jaded, famished Passepartout said to himself"
@@ -401,37 +389,17 @@
         "mentions": 19,
         "snippet": "betrayed no emotion\u2014that Passepartout, a Frenchman, had really arrived"
       },
-      "25": {
-        "mentions": 9,
-        "snippet": "Fogg, Aouda, and Passepartout set"
-      },
       "28": {
         "mentions": 24,
         "snippet": "Passepartout grew more and more impatient as they went on, while Fix"
-      },
-      "29": {
-        "mentions": 6,
-        "snippet": "Passepartout was ready to pounce upon the"
       },
       "30": {
         "mentions": 6,
         "snippet": "Three passengers including Passepartout had disappeared."
       },
-      "31": {
-        "mentions": 10,
-        "snippet": "Passepartout, the"
-      },
       "32": {
         "mentions": 4,
         "snippet": "Passepartout was crushed; it overwhelmed him to lose the boat by"
-      },
-      "34": {
-        "mentions": 8,
-        "snippet": "Passepartout, when he saw his master arrested, would have fallen upon"
-      },
-      "35": {
-        "mentions": 12,
-        "snippet": "Fogg gave Passepartout instructions to"
       },
       "37": {
         "mentions": 12,
@@ -439,14 +407,14 @@
       }
     },
     "co_occurs_with": {
-      "Fogg": 27,
-      "Mr. Fogg": 27,
-      "Phileas Fogg": 27,
-      "Aouda": 16,
-      "Fix": 15,
-      "Hong Kong": 11,
-      "Reform Club": 8,
-      "New York": 8
+      "Fogg": 19,
+      "Mr. Fogg": 19,
+      "Phileas Fogg": 19,
+      "Hong Kong": 9,
+      "Fix": 8,
+      "Aouda": 7,
+      "Reform Club": 6,
+      "San Francisco": 6
     }
   },
   {
@@ -599,102 +567,12 @@
     "co_occurs_with": {
       "Fogg": 35,
       "Mr. Fogg": 35,
-      "Passepartout": 27,
-      "Fix": 18,
-      "Aouda": 18,
+      "Passepartout": 19,
+      "Fix": 15,
       "Hong Kong": 14,
       "Reform Club": 12,
-      "New York": 12
-    }
-  },
-  {
-    "canonical_name": "Aouda",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 131,
-    "per_chapter": {
-      "14": {
-        "mentions": 7,
-        "snippet": "Fogg that, should Aouda remain in India, she would inevitably fall"
-      },
-      "15": {
-        "mentions": 5,
-        "snippet": "order to get Aouda comfortably settled for the voyage."
-      },
-      "16": {
-        "mentions": 9,
-        "snippet": "as the \u201cMongolia,\u201d and Aouda was not as comfortably provided for on"
-      },
-      "17": {
-        "mentions": 7,
-        "snippet": "himself to the cabin, where he kept Aouda company, or, according to his"
-      },
-      "18": {
-        "mentions": 5,
-        "snippet": "Aouda was amazed"
-      },
-      "20": {
-        "mentions": 12,
-        "snippet": "escorting Aouda about the streets of the English quarter, making the"
-      },
-      "21": {
-        "mentions": 6,
-        "snippet": "Aouda\u2019s opinion, who regretted very much the loss of the worthy fellow"
-      },
-      "22": {
-        "mentions": 4,
-        "snippet": "his master or Aouda."
-      },
-      "24": {
-        "mentions": 6,
-        "snippet": "fifty pounds, ascended the steamer with Aouda and Fix; and they started"
-      },
-      "25": {
-        "mentions": 9,
-        "snippet": "Fogg, Aouda, and Passepartout set"
-      },
-      "28": {
-        "mentions": 8,
-        "snippet": "depression of the temperature, Aouda was experiencing fears from a"
-      },
-      "29": {
-        "mentions": 6,
-        "snippet": "Fogg, Aouda, and Fix raised their heads, and beheld Colonel"
-      },
-      "30": {
-        "mentions": 12,
-        "snippet": "Aouda was safe; and Phileas Fogg, who had been in the thickest of the"
-      },
-      "31": {
-        "mentions": 3,
-        "snippet": "Not wishing to expose Aouda to the discomforts of travelling in the"
-      },
-      "32": {
-        "mentions": 3,
-        "snippet": "but very long to Aouda and the others, whose agitation did not permit"
-      },
-      "34": {
-        "mentions": 5,
-        "snippet": "Aouda was"
-      },
-      "35": {
-        "mentions": 21,
-        "snippet": "A room in the house in Saville Row was set apart for Aouda, who was"
-      },
-      "37": {
-        "mentions": 3,
-        "snippet": "Aouda: \u201cIs our marriage still agreeable to you?"
-      }
-    },
-    "co_occurs_with": {
-      "Fogg": 18,
-      "Mr. Fogg": 18,
-      "Phileas Fogg": 18,
-      "Passepartout": 16,
-      "Fix": 13,
-      "Hong Kong": 10,
-      "San Francisco": 7,
-      "New York": 7
+      "New York": 12,
+      "San Francisco": 11
     }
   },
   {
@@ -727,17 +605,17 @@
       "Francis Cromarty": 4,
       "Mr. Fogg": 4,
       "Parsee": 4,
-      "Passepartout": 4,
       "Phileas Fogg": 4,
       "Sir Francis Cromarty": 4,
-      "Allahabad": 3
+      "Allahabad": 3,
+      "Passepartout": 3
     }
   },
   {
     "canonical_name": "Fix",
     "aliases": [],
     "first_chapter": 6,
-    "total_mentions": 109,
+    "total_mentions": 89,
     "per_chapter": {
       "6": {
         "mentions": 5,
@@ -763,17 +641,9 @@
         "mentions": 2,
         "snippet": "Fix?"
       },
-      "18": {
-        "mentions": 4,
-        "snippet": "Fix did not look at the state of things in the same light."
-      },
       "19": {
         "mentions": 4,
         "snippet": "\u201cWell, Monsieur Fix,\u201d said Passepartout, \u201chave you decided to go with"
-      },
-      "20": {
-        "mentions": 13,
-        "snippet": "It was Fix, who, bowing, addressed Mr."
       },
       "21": {
         "mentions": 8,
@@ -810,21 +680,79 @@
       "34": {
         "mentions": 11,
         "snippet": "Fix had he not been held back by some policemen."
-      },
-      "35": {
-        "mentions": 3,
-        "snippet": "and had betrayed Fix\u2019s projects to him, his master would certainly not"
       }
     },
     "co_occurs_with": {
-      "Fogg": 18,
-      "Mr. Fogg": 18,
-      "Phileas Fogg": 18,
-      "Passepartout": 15,
-      "Aouda": 13,
-      "Hong Kong": 9,
+      "Fogg": 15,
+      "Mr. Fogg": 15,
+      "Phileas Fogg": 15,
+      "Passepartout": 8,
+      "Hong Kong": 7,
       "Mr. Fix": 7,
-      "New York": 7
+      "New York": 7,
+      "San Francisco": 5
+    }
+  },
+  {
+    "canonical_name": "Aouda",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 83,
+    "per_chapter": {
+      "14": {
+        "mentions": 7,
+        "snippet": "Fogg that, should Aouda remain in India, she would inevitably fall"
+      },
+      "15": {
+        "mentions": 5,
+        "snippet": "order to get Aouda comfortably settled for the voyage."
+      },
+      "17": {
+        "mentions": 7,
+        "snippet": "himself to the cabin, where he kept Aouda company, or, according to his"
+      },
+      "20": {
+        "mentions": 12,
+        "snippet": "escorting Aouda about the streets of the English quarter, making the"
+      },
+      "21": {
+        "mentions": 6,
+        "snippet": "Aouda\u2019s opinion, who regretted very much the loss of the worthy fellow"
+      },
+      "22": {
+        "mentions": 4,
+        "snippet": "his master or Aouda."
+      },
+      "24": {
+        "mentions": 6,
+        "snippet": "fifty pounds, ascended the steamer with Aouda and Fix; and they started"
+      },
+      "25": {
+        "mentions": 9,
+        "snippet": "Fogg, Aouda, and Passepartout set"
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "but very long to Aouda and the others, whose agitation did not permit"
+      },
+      "35": {
+        "mentions": 21,
+        "snippet": "A room in the house in Saville Row was set apart for Aouda, who was"
+      },
+      "37": {
+        "mentions": 3,
+        "snippet": "Aouda: \u201cIs our marriage still agreeable to you?"
+      }
+    },
+    "co_occurs_with": {
+      "Fogg": 11,
+      "Mr. Fogg": 11,
+      "Phileas Fogg": 11,
+      "Hong Kong": 8,
+      "Passepartout": 7,
+      "Fix": 5,
+      "San Francisco": 4,
+      "Yokohama": 4
     }
   },
   {
@@ -894,9 +822,9 @@
       "Fogg": 14,
       "Mr. Fogg": 14,
       "Phileas Fogg": 14,
-      "Passepartout": 11,
-      "Aouda": 10,
-      "Fix": 9,
+      "Passepartout": 9,
+      "Aouda": 8,
+      "Fix": 7,
       "San Francisco": 6,
       "Yokohama": 5
     }
@@ -927,48 +855,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 4,
       "Fogg": 4,
       "Mr. Fogg": 4,
       "New York": 4,
-      "Passepartout": 4,
       "Phileas Fogg": 4,
       "Fix": 3,
-      "Indians": 3
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 36,
-    "per_chapter": {
-      "7": {
-        "mentions": 6,
-        "snippet": "The detective passed down the quay, and rapidly made his way to the"
-      },
-      "8": {
-        "mentions": 4,
-        "snippet": "The sun will be wrong, then!"
-      },
-      "15": {
-        "mentions": 16,
-        "snippet": "The train entered the station, and Passepartout jumping out first, was"
-      },
-      "32": {
-        "mentions": 10,
-        "snippet": "The \u201cChina,\u201d in leaving, seemed to have carried off Phileas Fogg\u2019s last"
-      }
-    },
-    "co_occurs_with": {
-      "Fogg": 4,
-      "Mr. Fogg": 4,
-      "Passepartout": 4,
-      "Phileas Fogg": 4,
-      "Hong Kong": 3,
-      "Fix": 2,
-      "Mongolia": 2,
-      "Mr. Phileas Fogg": 2
+      "Indians": 3,
+      "San Francisco": 3,
+      "Stamp Proctor": 3
     }
   },
   {
@@ -999,14 +893,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 5,
-      "Fix": 5,
       "Fogg": 5,
       "Hong Kong": 5,
       "Mr. Fogg": 5,
       "Phileas Fogg": 5,
       "San Francisco": 4,
-      "Carnatic": 3
+      "Aouda": 4,
+      "Carnatic": 3,
+      "Fix": 3
     }
   },
   {
@@ -1071,12 +965,12 @@
     "co_occurs_with": {
       "Fogg": 5,
       "Mr. Fogg": 5,
-      "Passepartout": 5,
       "Phileas Fogg": 5,
       "Fix": 4,
+      "Passepartout": 4,
       "Hong Kong": 4,
       "Calcutta": 3,
-      "Aouda": 3
+      "Indian Ocean": 2
     }
   },
   {
@@ -1109,12 +1003,12 @@
     "co_occurs_with": {
       "Fogg": 5,
       "Mr. Fogg": 5,
-      "Passepartout": 5,
       "Phileas Fogg": 5,
       "Hong Kong": 4,
       "Bombay": 3,
-      "Aouda": 3,
-      "Malabar Hill": 2
+      "Passepartout": 3,
+      "Malabar Hill": 2,
+      "Allahabad": 2
     }
   },
   {
@@ -1144,11 +1038,11 @@
       "Fogg": 4,
       "Francis Cromarty": 4,
       "Mr. Fogg": 4,
-      "Passepartout": 4,
       "Phileas Fogg": 4,
       "Sir Francis": 4,
       "Sir Francis Cromarty": 4,
-      "Allahabad": 3
+      "Allahabad": 3,
+      "Passepartout": 3
     }
   },
   {
@@ -1175,14 +1069,14 @@
       }
     },
     "co_occurs_with": {
-      "Fix": 4,
       "Fogg": 4,
       "Hong Kong": 4,
       "Mr. Fogg": 4,
       "Phileas Fogg": 4,
-      "Aouda": 3,
       "Yokohama": 3,
-      "Passepartout": 3
+      "San Francisco": 2,
+      "Fix": 2,
+      "Passepartout": 2
     }
   },
   {
@@ -1244,11 +1138,11 @@
       "Fogg": 12,
       "Mr. Fogg": 12,
       "Phileas Fogg": 12,
-      "Passepartout": 8,
       "San Francisco": 7,
       "Fix": 7,
-      "Aouda": 7,
-      "Hong Kong": 4
+      "Passepartout": 5,
+      "Hong Kong": 4,
+      "Mr. Fix": 4
     }
   },
   {
@@ -1336,11 +1230,11 @@
       "Fogg": 12,
       "Mr. Fogg": 12,
       "Phileas Fogg": 12,
-      "Passepartout": 8,
       "Saville Row": 6,
-      "Fix": 5,
-      "Aouda": 4,
-      "New York": 3
+      "Passepartout": 6,
+      "Fix": 4,
+      "New York": 3,
+      "Mr. Phileas Fogg": 2
     }
   },
   {
@@ -1399,10 +1293,10 @@
       "Mr. Fogg": 11,
       "Phileas Fogg": 11,
       "New York": 7,
-      "Fix": 7,
-      "Passepartout": 7,
-      "Aouda": 7,
-      "Hong Kong": 6
+      "Hong Kong": 6,
+      "Passepartout": 6,
+      "Fix": 5,
+      "Yokohama": 4
     }
   },
   {
@@ -1467,10 +1361,10 @@
       "Francis Cromarty": 4,
       "Mr. Fogg": 4,
       "Parsee": 4,
-      "Passepartout": 4,
       "Phileas Fogg": 4,
       "Sir Francis": 4,
-      "Allahabad": 3
+      "Allahabad": 3,
+      "Passepartout": 3
     }
   },
   {
@@ -1493,14 +1387,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 3,
-      "Fix": 3,
       "Fogg": 3,
       "Hong Kong": 3,
       "Mr. Fogg": 3,
       "Phileas Fogg": 3,
+      "Fix": 2,
       "Passepartout": 2,
-      "Singapore": 2
+      "Singapore": 2,
+      "Andaman Islands": 1
     }
   },
   {
@@ -1530,7 +1424,7 @@
       "Pacific Railroad": 2,
       "Platte River": 2,
       "San Francisco": 2,
-      "Aouda": 2
+      "Fort Kearney": 2
     }
   },
   {
@@ -1557,10 +1451,10 @@
       "Fogg": 3,
       "Mr. Fogg": 3,
       "Phileas Fogg": 3,
-      "Aouda": 2,
       "New York": 2,
-      "Passepartout": 2,
-      "Chicago Railway": 1
+      "Chicago Railway": 1,
+      "Council Bluffs": 1,
+      "Des Moines": 1
     }
   },
   {
@@ -1590,11 +1484,11 @@
       "Fogg": 4,
       "Mr. Fogg": 4,
       "Parsee": 4,
-      "Passepartout": 4,
       "Phileas Fogg": 4,
       "Sir Francis": 4,
       "Sir Francis Cromarty": 4,
-      "Allahabad": 3
+      "Allahabad": 3,
+      "Passepartout": 3
     }
   },
   {
@@ -1614,13 +1508,13 @@
     },
     "co_occurs_with": {
       "Aouda": 2,
-      "Fix": 2,
       "Fogg": 2,
       "Hong Kong": 2,
       "John Bunsby": 2,
       "Mr. Fogg": 2,
       "Phileas Fogg": 2,
-      "San Francisco": 2
+      "San Francisco": 2,
+      "Yokohama": 2
     }
   },
   {
@@ -1679,12 +1573,12 @@
     "co_occurs_with": {
       "Fogg": 4,
       "Mr. Fogg": 4,
-      "Passepartout": 4,
       "Phileas Fogg": 4,
-      "Aouda": 3,
       "Colonel Proctor": 3,
       "New York": 3,
-      "Fix": 2
+      "Passepartout": 2,
+      "Fix": 2,
+      "San Francisco": 2
     }
   },
   {
@@ -1731,10 +1625,10 @@
       "Mr. Fogg": 8,
       "Phileas Fogg": 8,
       "Reform Club": 6,
-      "Passepartout": 6,
+      "Passepartout": 5,
       "Aouda": 3,
-      "Fix": 2,
-      "Reverend Samuel": 2
+      "Reverend Samuel": 2,
+      "Reverend Samuel Wilson": 2
     }
   },
   {
@@ -1783,14 +1677,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 2,
       "Colonel Proctor": 2,
       "Fogg": 2,
       "Fort Kearney": 2,
       "Indians": 2,
       "Mr. Fogg": 2,
       "New York": 2,
-      "Passepartout": 2
+      "Phileas Fogg": 2,
+      "Camp Walbach": 1
     }
   },
   {
@@ -1832,11 +1726,11 @@
       "Fix": 7,
       "Fogg": 6,
       "Mr. Fogg": 6,
-      "Passepartout": 6,
       "Phileas Fogg": 6,
+      "Passepartout": 5,
       "Hong Kong": 4,
       "New York": 4,
-      "Aouda": 4
+      "San Francisco": 3
     }
   },
   {
@@ -1863,10 +1757,10 @@
       "Francis Cromarty": 3,
       "Mr. Fogg": 3,
       "Parsee": 3,
-      "Passepartout": 3,
       "Phileas Fogg": 3,
       "Sir Francis": 3,
-      "Sir Francis Cromarty": 3
+      "Sir Francis Cromarty": 3,
+      "Calcutta": 2
     }
   },
   {
@@ -1923,8 +1817,8 @@
       "Mr. Fogg": 3,
       "Passepartout": 3,
       "Phileas Fogg": 3,
-      "The": 2,
-      "Red Sea": 2
+      "Red Sea": 2,
+      "Hong Kong": 1
     }
   },
   {
@@ -1972,13 +1866,13 @@
     },
     "co_occurs_with": {
       "Aouda": 2,
-      "Fix": 2,
       "Fogg": 2,
       "Hong Kong": 2,
       "Mr. Fogg": 2,
       "Phileas Fogg": 2,
       "San Francisco": 2,
-      "Tankadere": 2
+      "Tankadere": 2,
+      "Yokohama": 2
     }
   },
   {
@@ -2037,14 +1931,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 1,
       "Chicago Railway": 1,
       "Council Bluffs": 1,
       "Des Moines": 1,
       "Fix": 1,
       "Fogg": 1,
       "Fort Kearney": 1,
-      "Fort Wayne": 1
+      "Fort Wayne": 1,
+      "Great Island": 1
     }
   },
   {
@@ -2091,14 +1985,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 2,
       "Fix": 2,
       "Fogg": 2,
       "Hong Kong": 2,
       "Mr. Fogg": 2,
       "Passepartout": 2,
       "Phileas Fogg": 2,
-      "Rangoon": 2
+      "Rangoon": 2,
+      "Andaman Islands": 1
     }
   },
   {
@@ -2121,14 +2015,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 3,
       "Fogg": 3,
       "Mr. Fogg": 3,
       "New York": 3,
-      "Passepartout": 3,
       "Phileas Fogg": 3,
       "Colonel Proctor": 2,
-      "Fix": 2
+      "Fix": 2,
+      "Indians": 2,
+      "Platte River": 2
     }
   },
   {
@@ -2213,14 +2107,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Andrew Stuart": 1,
       "Daily": 1,
       "Fogg": 1,
       "From Bombay": 1,
       "From Calcutta": 1,
       "From Hong Kong": 1,
-      "From New York": 1
+      "From New York": 1,
+      "From San Francisco": 1
     }
   },
   {
@@ -2243,10 +2137,10 @@
       "Mr. Fogg": 2,
       "Phileas Fogg": 2,
       "Reform Club": 2,
-      "All": 1,
       "Andrew Stuart": 1,
       "Bank": 1,
-      "From Bombay": 1
+      "From Bombay": 1,
+      "From Calcutta": 1
     }
   },
   {
@@ -2311,12 +2205,12 @@
     "co_occurs_with": {
       "Aouda": 1,
       "Carnatic": 1,
-      "Fix": 1,
       "Fogg": 1,
       "Hong Kong": 1,
       "John Bunsby": 1,
       "Mr. Fogg": 1,
-      "Nagasaki": 1
+      "Nagasaki": 1,
+      "Passepartout": 1
     }
   },
   {
@@ -2339,10 +2233,10 @@
       "Fogg": 2,
       "Hong Kong": 2,
       "Mr. Fogg": 2,
-      "Passepartout": 2,
       "Phileas Fogg": 2,
       "Carnatic": 1,
-      "Fix": 1
+      "Fix": 1,
+      "Good": 1
     }
   },
   {
@@ -2457,14 +2351,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 2,
       "Fogg": 2,
       "Mr. Fogg": 2,
       "New York": 2,
       "Passepartout": 2,
       "Phileas Fogg": 2,
       "Bitter Creek": 1,
-      "Bitter Creek Valley": 1
+      "Bitter Creek Valley": 1,
+      "Bridger Pass": 1
     }
   },
   {
@@ -2613,11 +2507,11 @@
     "co_occurs_with": {
       "Fogg": 3,
       "Mr. Fogg": 3,
-      "Passepartout": 3,
       "Phileas Fogg": 3,
       "San Francisco": 3,
       "Mr. Batulcar": 2,
       "New World": 2,
+      "Passepartout": 2,
       "Aouda": 2
     }
   },
@@ -2647,8 +2541,8 @@
       "Phileas Fogg": 3,
       "Omaha": 2,
       "Pacific Railroad": 2,
-      "Aouda": 2,
-      "Fix": 2
+      "Fix": 2,
+      "Fort Kearney": 2
     }
   },
   {
@@ -2685,14 +2579,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 1,
       "Atlantic": 1,
       "Bitter Creek": 1,
       "Bitter Creek Valley": 1,
       "Bridger Pass": 1,
       "Colonel Proctor": 1,
       "Colonel Stamp": 1,
-      "Colonel Stamp Proctor": 1
+      "Colonel Stamp Proctor": 1,
+      "Fix": 1
     }
   },
   {
@@ -2854,11 +2748,11 @@
       "Calcutta": 2,
       "Fogg": 2,
       "Mr. Fogg": 2,
-      "Passepartout": 2,
       "Phileas Fogg": 2,
       "British Government": 1,
       "East India Company": 1,
-      "East Indians": 1
+      "East Indians": 1,
+      "Great Indian Peninsula Railway": 1
     }
   },
   {
@@ -2943,14 +2837,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 2,
       "Colonel Proctor": 2,
       "Fix": 2,
       "Fogg": 2,
       "Mr. Fogg": 2,
       "New York": 2,
-      "Passepartout": 2,
-      "Phileas Fogg": 2
+      "Phileas Fogg": 2,
+      "San Francisco": 2,
+      "Stamp Proctor": 2
     }
   },
   {
@@ -2973,14 +2867,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 3,
       "Colonel Proctor": 3,
       "Fix": 3,
       "Fogg": 3,
       "Mr. Fogg": 3,
       "New York": 3,
-      "Passepartout": 3,
-      "Phileas Fogg": 3
+      "Phileas Fogg": 3,
+      "Colonel Stamp Proctor": 2,
+      "Indians": 2
     }
   },
   {
@@ -3039,12 +2933,10 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 1,
       "Fix": 1,
       "Fogg": 1,
       "Liverpool": 1,
       "Mr. Fogg": 1,
-      "Passepartout": 1,
       "Phileas Fogg": 1,
       "Reform Club": 1
     }
@@ -3068,11 +2960,11 @@
       "Aouda": 2,
       "Fogg": 2,
       "Mr. Fogg": 2,
-      "Passepartout": 2,
       "Phileas Fogg": 2,
       "Reform Club": 2,
       "Reverend Samuel": 2,
-      "Samuel Wilson": 2
+      "Samuel Wilson": 2,
+      "Saville Row": 2
     }
   },
   {
@@ -3123,28 +3015,6 @@
       "Phileas Fogg": 2,
       "Reform Club": 2,
       "Samuel Fallentin": 2
-    }
-  },
-  {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 3,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "\u201cAll included,\u201d returned Phileas Fogg, continuing to play despite the"
-      }
-    },
-    "co_occurs_with": {
-      "Andrew Stuart": 1,
-      "Bank": 1,
-      "Daily": 1,
-      "Fogg": 1,
-      "From Bombay": 1,
-      "From Calcutta": 1,
-      "From Hong Kong": 1,
-      "From New York": 1
     }
   },
   {
@@ -3323,14 +3193,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 1,
       "Carnatic": 1,
       "Club Hotel": 1,
-      "Fix": 1,
       "Fogg": 1,
       "Hong Kong": 1,
       "Mr. Fogg": 1,
-      "Phileas Fogg": 1
+      "Phileas Fogg": 1,
+      "Rangoon": 1,
+      "San Francisco": 1
     }
   },
   {
@@ -3369,12 +3239,12 @@
     "co_occurs_with": {
       "Aouda": 1,
       "Carnatic": 1,
-      "Fix": 1,
       "Fogg": 1,
       "Hong Kong": 1,
       "John Bunsby": 1,
       "Mr. Fogg": 1,
-      "Passepartout": 1
+      "Passepartout": 1,
+      "Phileas Fogg": 1
     }
   },
   {
@@ -3613,14 +3483,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 1,
       "Atlantic": 1,
       "Bitter Creek": 1,
       "Bitter Creek Valley": 1,
       "Bridger Pass": 1,
       "Colonel Proctor": 1,
       "Colonel Stamp": 1,
-      "Colonel Stamp Proctor": 1
+      "Colonel Stamp Proctor": 1,
+      "Fix": 1
     }
   },
   {
@@ -3635,14 +3505,14 @@
       }
     },
     "co_occurs_with": {
-      "Aouda": 1,
       "Camp Walbach": 1,
       "Cheyne Pass": 1,
       "Colonel Proctor": 1,
       "Evans Pass": 1,
       "Fix": 1,
       "Fogg": 1,
-      "Fort Kearney": 1
+      "Fort Kearney": 1,
+      "Fort Saunders": 1
     }
   },
   {
@@ -3712,33 +3582,11 @@
       "Aouda": 2,
       "Fogg": 2,
       "Mr. Fogg": 2,
-      "Passepartout": 2,
       "Phileas Fogg": 2,
       "Reform Club": 2,
       "Reverend Samuel": 2,
-      "Reverend Samuel Wilson": 2
-    }
-  },
-  {
-    "canonical_name": "Impossible",
-    "aliases": [],
-    "first_chapter": 37,
-    "total_mentions": 3,
-    "per_chapter": {
-      "37": {
-        "mentions": 3,
-        "snippet": "\u201cImpossible?"
-      }
-    },
-    "co_occurs_with": {
-      "Aouda": 1,
-      "Dear Mr": 1,
-      "Fogg": 1,
-      "Mr. Fogg": 1,
-      "Passepartout": 1,
-      "Phileas Fogg": 1,
-      "Reform Club": 1,
-      "Reverend Samuel": 1
+      "Reverend Samuel Wilson": 2,
+      "Saville Row": 2
     }
   }
 ]

@@ -3,7 +3,7 @@
     "canonical_name": "Dorothy",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 329,
+    "total_mentions": 314,
     "per_chapter": {
       "1": {
         "mentions": 17,
@@ -61,10 +61,6 @@
         "mentions": 18,
         "snippet": "\u201cIt was Dorothy,\u201d said the Lion gravely."
       },
-      "16": {
-        "mentions": 3,
-        "snippet": "\u201cI have always liked you as you were,\u201d said Dorothy simply."
-      },
       "17": {
         "mentions": 10,
         "snippet": "For three days Dorothy heard nothing from Oz."
@@ -88,21 +84,17 @@
       "22": {
         "mentions": 7,
         "snippet": "A chorus of boisterous laughter came from the other rocks, and Dorothy"
-      },
-      "23": {
-        "mentions": 12,
-        "snippet": "the Castle, where Dorothy washed her face and combed her hair, and the"
       }
     },
     "co_occurs_with": {
-      "Scarecrow": 19,
-      "Tin Woodman": 17,
-      "Emerald City": 15,
-      "Lion": 13,
-      "Toto": 12,
-      "Aunt Em": 9,
+      "Scarecrow": 17,
+      "Tin Woodman": 15,
+      "Emerald City": 14,
+      "Lion": 11,
+      "Toto": 10,
+      "Aunt Em": 8,
       "Wicked Witch": 8,
-      "Kansas": 7
+      "Great Oz": 7
     }
   },
   {
@@ -193,11 +185,11 @@
       }
     },
     "co_occurs_with": {
-      "Dorothy": 19,
       "Tin Woodman": 18,
+      "Dorothy": 17,
       "Emerald City": 15,
       "Lion": 13,
-      "Toto": 11,
+      "Toto": 9,
       "Kansas": 8,
       "Aunt Em": 8,
       "Great Oz": 8
@@ -269,12 +261,12 @@
     "co_occurs_with": {
       "Scarecrow": 13,
       "Tin Woodman": 13,
-      "Dorothy": 13,
+      "Dorothy": 11,
       "Emerald City": 8,
-      "Toto": 7,
       "Aunt Em": 5,
       "Good Witch": 5,
-      "Great Oz": 5
+      "Great Oz": 5,
+      "Toto": 5
     }
   },
   {
@@ -358,11 +350,11 @@
     },
     "co_occurs_with": {
       "Scarecrow": 18,
-      "Dorothy": 17,
+      "Dorothy": 15,
       "Emerald City": 13,
       "Lion": 13,
-      "Toto": 9,
       "Aunt Em": 8,
+      "Toto": 7,
       "Wicked Witch": 7,
       "Winged Monkeys": 7
     }
@@ -371,7 +363,7 @@
     "canonical_name": "Toto",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 77,
+    "total_mentions": 66,
     "per_chapter": {
       "1": {
         "mentions": 10,
@@ -405,14 +397,6 @@
         "mentions": 5,
         "snippet": "Dorothy sat down in the middle of the raft and held Toto in"
       },
-      "9": {
-        "mentions": 5,
-        "snippet": "scampered in all directions, for Toto had awakened from his sleep, and"
-      },
-      "10": {
-        "mentions": 6,
-        "snippet": "sure Toto is nearly starved."
-      },
       "11": {
         "mentions": 3,
         "snippet": "So Dorothy said good-bye to all her friends except Toto, and taking the"
@@ -427,14 +411,14 @@
       }
     },
     "co_occurs_with": {
-      "Dorothy": 12,
-      "Scarecrow": 11,
-      "Emerald City": 9,
-      "Tin Woodman": 9,
-      "Great Oz": 7,
-      "Lion": 7,
+      "Dorothy": 10,
+      "Scarecrow": 9,
+      "Emerald City": 8,
+      "Tin Woodman": 7,
       "Aunt Em": 6,
-      "Wicked Witch": 6
+      "Wicked Witch": 6,
+      "Great Oz": 6,
+      "Lion": 5
     }
   },
   {
@@ -511,13 +495,13 @@
       }
     },
     "co_occurs_with": {
-      "Dorothy": 15,
       "Scarecrow": 15,
+      "Dorothy": 14,
       "Tin Woodman": 13,
-      "Toto": 9,
       "Wicked Witch": 9,
       "Kansas": 8,
       "Aunt Em": 8,
+      "Toto": 8,
       "Lion": 8
     }
   },
@@ -623,7 +607,7 @@
       }
     },
     "co_occurs_with": {
-      "Dorothy": 9,
+      "Dorothy": 8,
       "Emerald City": 8,
       "Scarecrow": 8,
       "Tin Woodman": 8,
@@ -675,7 +659,7 @@
     "co_occurs_with": {
       "Emerald City": 8,
       "Scarecrow": 8,
-      "Dorothy": 7,
+      "Dorothy": 6,
       "Tin Woodman": 6,
       "Throne Room": 5,
       "Great Oz": 5,
@@ -714,8 +698,8 @@
     },
     "co_occurs_with": {
       "Aunt Em": 5,
-      "Dorothy": 4,
       "Emerald City": 4,
+      "Dorothy": 3,
       "Toto": 3,
       "Good Witch": 3,
       "Kansas": 3,
@@ -759,9 +743,9 @@
       }
     },
     "co_occurs_with": {
-      "Dorothy": 7,
       "Scarecrow": 7,
       "Tin Woodman": 7,
+      "Dorothy": 6,
       "Emerald City": 6,
       "Golden Cap": 6,
       "Aunt Em": 5,
@@ -803,9 +787,9 @@
     "co_occurs_with": {
       "Scarecrow": 6,
       "Tin Woodman": 6,
-      "Dorothy": 5,
       "Emerald City": 5,
       "Kansas": 5,
+      "Dorothy": 4,
       "Lion": 4,
       "Palace": 3,
       "Aunt Em": 3
@@ -843,10 +827,10 @@
       }
     },
     "co_occurs_with": {
-      "Dorothy": 6,
       "Scarecrow": 6,
       "Tin Woodman": 6,
       "Winged Monkeys": 6,
+      "Dorothy": 5,
       "Emerald City": 5,
       "Aunt Em": 4,
       "Good Witch": 4,
@@ -934,9 +918,9 @@
       "Scarecrow": 2,
       "Tin Woodman": 2,
       "Field Mice": 1,
-      "Toto": 1,
       "Wildcat": 1,
-      "Emerald City": 1
+      "Emerald City": 1,
+      "Gayelette": 1
     }
   },
   {
@@ -961,8 +945,8 @@
     "co_occurs_with": {
       "Dorothy": 3,
       "Emerald City": 3,
-      "Toto": 3,
       "Great Wizard": 2,
+      "Toto": 2,
       "Wicked Witch": 2,
       "Great Oz": 2,
       "Kansas": 2,
@@ -1011,9 +995,9 @@
     "co_occurs_with": {
       "Scarecrow": 8,
       "Emerald City": 7,
-      "Toto": 7,
       "Dorothy": 7,
       "Tin Woodman": 6,
+      "Toto": 6,
       "Kansas": 5,
       "Lion": 5,
       "Wicked Witch": 5
@@ -1046,11 +1030,11 @@
       "Emerald City": 4,
       "Aunt Em": 3,
       "Dorothy": 3,
-      "Toto": 3,
       "West": 3,
       "Wicked Witch": 3,
       "Great Oz": 3,
-      "Kansas": 3
+      "Kansas": 3,
+      "Lion": 3
     }
   },
   {
@@ -1129,8 +1113,8 @@
       "Emerald City": 3,
       "Scarecrow": 3,
       "Tin Woodman": 3,
-      "Toto": 3,
       "Lion": 2,
+      "Toto": 2,
       "Kalidahs": 1,
       "The Tin Woodman": 1
     }
@@ -1206,11 +1190,11 @@
       "Aunt Em": 1,
       "Ball": 1,
       "Beast": 1,
-      "Because": 1,
       "East": 1,
       "Emerald City": 1,
       "Fire": 1,
-      "Good Witch": 1
+      "Good Witch": 1,
+      "Great Oz": 1
     }
   },
   {
@@ -1248,7 +1232,6 @@
     },
     "co_occurs_with": {
       "Aunt Em": 1,
-      "Don": 1,
       "Dorothy": 1,
       "Lion": 1,
       "Mr. Joker": 1,
@@ -1328,7 +1311,7 @@
       "Lion": 2,
       "Scarecrow": 2,
       "Tin Woodman": 2,
-      "Toto": 2
+      "Aunt Em": 1
     }
   },
   {
@@ -1354,7 +1337,7 @@
       "Lion": 2,
       "Scarecrow": 2,
       "Tin Woodman": 2,
-      "Toto": 2
+      "Aunt Em": 1
     }
   },
   {
@@ -1371,12 +1354,12 @@
     "co_occurs_with": {
       "Aunt Em": 1,
       "Ball": 1,
-      "Because": 1,
       "East": 1,
       "Emerald City": 1,
       "Fire": 1,
       "Good Witch": 1,
-      "Great Oz": 1
+      "Great Oz": 1,
+      "Great Wizard": 1
     }
   },
   {
@@ -1414,9 +1397,9 @@
       "Scarecrow": 6,
       "Tin Woodman": 6,
       "Lion": 5,
-      "Dorothy": 5,
       "Aunt Em": 4,
       "Emerald City": 4,
+      "Dorothy": 4,
       "Golden Cap": 4,
       "Winged Monkeys": 4
     }
@@ -1484,7 +1467,6 @@
     },
     "co_occurs_with": {
       "Aunt Em": 1,
-      "Don": 1,
       "Dorothy": 1,
       "Lion": 1,
       "Princess": 1,
@@ -1532,8 +1514,7 @@
       "Lion": 1,
       "Queen": 1,
       "Scarecrow": 1,
-      "Tin Woodman": 1,
-      "Toto": 1
+      "Tin Woodman": 1
     }
   },
   {
@@ -1625,28 +1606,6 @@
     }
   },
   {
-    "canonical_name": "Because",
-    "aliases": [],
-    "first_chapter": 11,
-    "total_mentions": 4,
-    "per_chapter": {
-      "11": {
-        "mentions": 4,
-        "snippet": "\u201cBecause you are strong and I am weak; because you are a Great Wizard"
-      }
-    },
-    "co_occurs_with": {
-      "Aunt Em": 1,
-      "Ball": 1,
-      "Beast": 1,
-      "East": 1,
-      "Emerald City": 1,
-      "Fire": 1,
-      "Good Witch": 1,
-      "Great Oz": 1
-    }
-  },
-  {
     "canonical_name": "Ball",
     "aliases": [],
     "first_chapter": 11,
@@ -1660,12 +1619,12 @@
     "co_occurs_with": {
       "Aunt Em": 1,
       "Beast": 1,
-      "Because": 1,
       "East": 1,
       "Emerald City": 1,
       "Fire": 1,
       "Good Witch": 1,
-      "Great Oz": 1
+      "Great Oz": 1,
+      "Great Wizard": 1
     }
   },
   {
@@ -1683,11 +1642,11 @@
       "Aunt Em": 1,
       "Ball": 1,
       "Beast": 1,
-      "Because": 1,
       "East": 1,
       "Emerald City": 1,
       "Good Witch": 1,
-      "Great Oz": 1
+      "Great Oz": 1,
+      "Great Wizard": 1
     }
   },
   {
@@ -1707,13 +1666,13 @@
     },
     "co_occurs_with": {
       "Aunt Em": 2,
-      "Dorothy": 2,
       "Emerald City": 2,
       "Golden Cap": 2,
       "Good Witch": 2,
       "Lion": 2,
       "Scarecrow": 2,
-      "Tin Woodman": 2
+      "Tin Woodman": 2,
+      "Winged Monkeys": 2
     }
   },
   {
@@ -1761,26 +1720,6 @@
     }
   },
   {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 4,
-    "per_chapter": {
-      "16": {
-        "mentions": 4,
-        "snippet": "The Scarecrow went in and found the little man sitting down by the"
-      }
-    },
-    "co_occurs_with": {
-      "Come": 1,
-      "Dorothy": 1,
-      "Lion": 1,
-      "Scarecrow": 1,
-      "Throne Room": 1,
-      "Tin Woodman": 1
-    }
-  },
-  {
     "canonical_name": "Emeralds",
     "aliases": [],
     "first_chapter": 2,
@@ -1803,27 +1742,6 @@
     }
   },
   {
-    "canonical_name": "After",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "After a few hours the road began to be rough, and the walking grew so"
-      }
-    },
-    "co_occurs_with": {
-      "Dorothy": 1,
-      "Emerald City": 1,
-      "Great Oz": 1,
-      "Kansas": 1,
-      "Munchkin": 1,
-      "Scarecrow": 1,
-      "Toto": 1
-    }
-  },
-  {
     "canonical_name": "Come",
     "aliases": [],
     "first_chapter": 16,
@@ -1835,34 +1753,10 @@
       }
     },
     "co_occurs_with": {
-      "Dorothy": 1,
       "Lion": 1,
       "Scarecrow": 1,
-      "The": 1,
       "Throne Room": 1,
       "Tin Woodman": 1
-    }
-  },
-  {
-    "canonical_name": "Don",
-    "aliases": [],
-    "first_chapter": 20,
-    "total_mentions": 3,
-    "per_chapter": {
-      "20": {
-        "mentions": 3,
-        "snippet": "\u201cDon\u2019t chase me!"
-      }
-    },
-    "co_occurs_with": {
-      "Aunt Em": 1,
-      "Dorothy": 1,
-      "Lion": 1,
-      "Mr. Joker": 1,
-      "Princess": 1,
-      "Scarecrow": 1,
-      "Tin Woodman": 1,
-      "Toto": 1
     }
   },
   {

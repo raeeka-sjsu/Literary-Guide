@@ -94,7 +94,7 @@
     },
     "co_occurs_with": {
       "Ned Land": 20,
-      "Conseil": 14,
+      "Conseil": 13,
       "Canadian": 11,
       "Master Land": 8,
       "Red Sea": 6,
@@ -107,7 +107,7 @@
     "canonical_name": "Conseil",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 118,
+    "total_mentions": 97,
     "per_chapter": {
       "1": {
         "mentions": 1,
@@ -121,17 +121,9 @@
         "mentions": 3,
         "snippet": "About seven o\u2019clock Ned and Conseil joined"
       },
-      "7": {
-        "mentions": 18,
-        "snippet": "I seized with one hand my faithful Conseil\u2019s arm."
-      },
       "8": {
         "mentions": 4,
         "snippet": "I mounted at once, accompanied by Ned Land and Conseil."
-      },
-      "10": {
-        "mentions": 3,
-        "snippet": "Conseil, interested in"
       },
       "12": {
         "mentions": 12,
@@ -171,14 +163,14 @@
       }
     },
     "co_occurs_with": {
-      "Ned Land": 15,
-      "Captain Nemo": 14,
-      "Canadian": 7,
-      "Master Land": 5,
-      "Red Sea": 4,
+      "Captain Nemo": 13,
+      "Ned Land": 13,
+      "Canadian": 5,
+      "Master Land": 4,
       "Cape Horn": 4,
-      "Indian Ocean": 3,
-      "South Pole": 3
+      "South Pole": 3,
+      "Friend Ned": 3,
+      "Red Sea": 3
     }
   },
   {
@@ -277,7 +269,7 @@
     },
     "co_occurs_with": {
       "Captain Nemo": 20,
-      "Conseil": 15,
+      "Conseil": 13,
       "Canadian": 12,
       "Master Land": 8,
       "Red Sea": 6,
@@ -344,8 +336,8 @@
     "co_occurs_with": {
       "Ned Land": 12,
       "Captain Nemo": 11,
-      "Conseil": 7,
       "Master Land": 6,
+      "Conseil": 5,
       "Red Sea": 4,
       "Cape Horn": 4,
       "The Mediterranean": 3,
@@ -395,8 +387,8 @@
       "Captain Nemo": 8,
       "Ned Land": 8,
       "Canadian": 6,
-      "Conseil": 5,
       "Red Sea": 5,
+      "Conseil": 4,
       "The Mediterranean": 3,
       "Indian Ocean": 2,
       "Arabian Tunnel": 2
@@ -438,8 +430,8 @@
       "Ned Land": 6,
       "Master Land": 5,
       "Canadian": 4,
-      "Conseil": 4,
       "Indian Ocean": 3,
+      "Conseil": 3,
       "The Mediterranean": 3,
       "Indian Peninsula": 2
     }
@@ -482,10 +474,10 @@
       "Canadian": 1,
       "Captain Farragut": 1,
       "Captain Nemo": 1,
-      "Conseil": 1,
       "Gerard Dow": 1,
       "Havannah": 1,
-      "Indian Ocean": 1
+      "Indian Ocean": 1,
+      "Master Land": 1
     }
   },
   {
@@ -537,11 +529,11 @@
       "Natural History": 2,
       "United States": 2,
       "Canadian": 2,
-      "Conseil": 2,
       "Ned Land": 2,
       "Assistant Professor": 1,
       "Fifth Avenue Hotel": 1,
-      "French Government": 1
+      "French Government": 1,
+      "Honourable Pierre Aronnax": 1
     }
   },
   {
@@ -670,54 +662,6 @@
       "Captain Bell": 1,
       "Captain Dillon": 1,
       "Captain Hunter": 1
-    }
-  },
-  {
-    "canonical_name": "Dumont",
-    "aliases": [],
-    "first_chapter": 18,
-    "total_mentions": 8,
-    "per_chapter": {
-      "18": {
-        "mentions": 8,
-        "snippet": "to Vanikoro, really the one to which Dumont d\u2019Urville gave the name of"
-      }
-    },
-    "co_occurs_with": {
-      "Admiralty Islands": 1,
-      "Asiatic Society": 1,
-      "Astrolabe": 1,
-      "Botany Bay": 1,
-      "Boussole": 1,
-      "Calcutta": 1,
-      "Captain Bell": 1,
-      "Captain Dillon": 1
-    }
-  },
-  {
-    "canonical_name": "Let",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 7,
-    "per_chapter": {
-      "16": {
-        "mentions": 3,
-        "snippet": "Let us, then,"
-      },
-      "20": {
-        "mentions": 4,
-        "snippet": "\u201cLet us continue,\u201d I returned, \u201cand lie in wait."
-      }
-    },
-    "co_occurs_with": {
-      "Canadian": 2,
-      "Captain Nemo": 2,
-      "Ned Land": 2,
-      "By Jove": 1,
-      "Friend Conseil": 1,
-      "Master Land": 1,
-      "Two": 1,
-      "Captain. His": 1
     }
   },
   {
@@ -988,11 +932,11 @@
     "co_occurs_with": {
       "Captain Nemo": 4,
       "Ned Land": 4,
-      "Conseil": 3,
       "Red Sea": 3,
       "Canadian": 2,
       "Master Land": 2,
       "Cape Horn": 2,
+      "Conseil": 2,
       "Indian Peninsula": 2
     }
   },
@@ -1063,14 +1007,14 @@
     }
   },
   {
-    "canonical_name": "Two",
+    "canonical_name": "Let",
     "aliases": [],
     "first_chapter": 20,
     "total_mentions": 4,
     "per_chapter": {
       "20": {
         "mentions": 4,
-        "snippet": "\u201cTwo o\u2019clock at least,\u201d replied Conseil."
+        "snippet": "\u201cLet us continue,\u201d I returned, \u201cand lie in wait."
       }
     },
     "co_occurs_with": {
@@ -1078,7 +1022,6 @@
       "Canadian": 1,
       "Captain Nemo": 1,
       "Friend Conseil": 1,
-      "Let": 1,
       "Master Land": 1,
       "Ned Land": 1
     }
@@ -1111,28 +1054,6 @@
       "Cape Wessel": 1,
       "Indian Ocean": 1,
       "Asia Minor": 1
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 4,
-    "per_chapter": {
-      "4": {
-        "mentions": 4,
-        "snippet": "\u201cVery well, then, we will come out again, Master Land; and if, after"
-      }
-    },
-    "co_occurs_with": {
-      "Aden": 1,
-      "Africa": 1,
-      "Arabia": 1,
-      "Arabian Edrisi": 1,
-      "Arabian Tunnel": 1,
-      "Bab": 1,
-      "British Government": 1,
-      "Caliph Al": 1
     }
   },
   {
@@ -1197,7 +1118,6 @@
     "co_occurs_with": {
       "Abraham": 1,
       "Canadian": 1,
-      "Conseil": 1,
       "Edgar Poe": 1,
       "Ned Land": 1
     }
@@ -1219,11 +1139,11 @@
       "Abraham": 1,
       "Canadian": 1,
       "Captain Nemo": 1,
-      "Conseil": 1,
       "Gerard Dow": 1,
       "Havannah": 1,
       "Indian Ocean": 1,
-      "Master Land": 1
+      "Master Land": 1,
+      "Milne Edwards": 1
     }
   },
   {
@@ -1242,10 +1162,10 @@
       "Canadian": 1,
       "Captain Farragut": 1,
       "Captain Nemo": 1,
-      "Conseil": 1,
       "Gerard Dow": 1,
       "Indian Ocean": 1,
-      "Master Land": 1
+      "Master Land": 1,
+      "Milne Edwards": 1
     }
   },
   {
@@ -1327,28 +1247,6 @@
       "18": {
         "mentions": 3,
         "snippet": "Societies and the graceful Tahiti, queen of the Pacific."
-      }
-    },
-    "co_occurs_with": {
-      "Admiralty Islands": 1,
-      "Asiatic Society": 1,
-      "Astrolabe": 1,
-      "Botany Bay": 1,
-      "Boussole": 1,
-      "Calcutta": 1,
-      "Captain Bell": 1,
-      "Captain Dillon": 1
-    }
-  },
-  {
-    "canonical_name": "Louis",
-    "aliases": [],
-    "first_chapter": 18,
-    "total_mentions": 3,
-    "per_chapter": {
-      "18": {
-        "mentions": 3,
-        "snippet": "La Perouse, and his second, Captain de Langle, were sent by Louis XVI,"
       }
     },
     "co_occurs_with": {
@@ -1450,28 +1348,6 @@
       "Master Land": 1,
       "Ned Land": 1,
       "Papua": 1
-    }
-  },
-  {
-    "canonical_name": "Savages",
-    "aliases": [],
-    "first_chapter": 21,
-    "total_mentions": 3,
-    "per_chapter": {
-      "21": {
-        "mentions": 3,
-        "snippet": "\u201cSavages."
-      }
-    },
-    "co_occurs_with": {
-      "Captain Cook": 1,
-      "Captain Nemo": 1,
-      "Captain. Her": 1,
-      "Conseil": 1,
-      "Europeans": 1,
-      "Louis Philippe": 1,
-      "Master Land": 1,
-      "Ned Land": 1
     }
   },
   {

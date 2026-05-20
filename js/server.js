@@ -64,20 +64,37 @@ app.get("/api/samples", (_req, res) => {
   res.json(data);
 });
 
-// Proxy helper
+// Proxy helper. Distinguishes "Flask unreachable" (network error) from
+// "Flask responded with a non-JSON body" (typically an upstream 500 caused
+// by an LLM API failure such as insufficient credits) so the UI can show
+// a useful message instead of "agent not running".
 async function proxyTo(path, req, res) {
+  let upstream;
   try {
-    const upstream = await fetch(`${AGENT_URL}${path}`, {
+    upstream = await fetch(`${AGENT_URL}${path}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(req.body || {}),
     });
-    const data = await upstream.json();
-    res.status(upstream.status).json(data);
   } catch (err) {
-    res.status(502).json({
+    return res.status(502).json({
       error: `Could not reach Literary Guide agent at ${AGENT_URL}. Start it with: python scripts/api_server.py`,
       detail: String(err),
+    });
+  }
+  const text = await upstream.text();
+  try {
+    return res.status(upstream.status).json(JSON.parse(text));
+  } catch (_) {
+    // Upstream returned non-JSON (likely a Flask HTML error page from an
+    // exception in the agent — e.g., an LLM API returned 4xx/5xx).
+    const looksLikeCredit = /credit|insufficient|billing|quota/i.test(text);
+    const userMessage = looksLikeCredit
+      ? "The selected LLM provider rejected the request (likely insufficient API credits). Check your provider's billing page or switch to a different LLM in the dropdown."
+      : `Backend returned a non-JSON response (HTTP ${upstream.status}). Check the Flask log for the underlying error.`;
+    return res.status(upstream.status || 502).json({
+      error: userMessage,
+      detail: text.slice(0, 500),
     });
   }
 }

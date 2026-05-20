@@ -72,16 +72,16 @@
       "Sergey Ivanovitch": 5,
       "Konstantin Dmitrievitch": 4,
       "Sviazhsky": 4,
-      "The": 3,
       "Vronsky": 3,
-      "Princess Shtcherbatskaya": 2
+      "Princess Shtcherbatskaya": 2,
+      "Oblonsky": 2
     }
   },
   {
     "canonical_name": "Vronsky",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 199,
+    "total_mentions": 174,
     "per_chapter": {
       "2": {
         "mentions": 5,
@@ -94,10 +94,6 @@
       "15": {
         "mentions": 7,
         "snippet": "Though Anna had obstinately and with exasperation contradicted Vronsky"
-      },
-      "18": {
-        "mentions": 25,
-        "snippet": "Vronsky followed the guard to the carriage, and at the door of the"
       },
       "21": {
         "mentions": 34,
@@ -121,14 +117,14 @@
       }
     },
     "co_occurs_with": {
-      "Anna Arkadyevna": 3,
-      "Madame Karenina": 3,
-      "Stepan Arkadyevitch": 3,
       "Levin": 3,
       "Alexey Alexandrovitch": 3,
       "Dolly": 2,
       "Sergey Ivanovitch": 2,
-      "The": 2
+      "Stepan Arkadyevitch": 2,
+      "Sviazhsky": 2,
+      "Anna Arkadyevna": 2,
+      "Princess Varvara": 2
     }
   },
   {
@@ -180,16 +176,16 @@
       "Sergey Ivanovitch": 3,
       "Varenka": 3,
       "Konstantin Dmitrievitch": 2,
-      "The": 2,
       "Anna Pavlovna": 2,
-      "Madame Berthe": 2
+      "Madame Berthe": 2,
+      "Madame Stahl": 2
     }
   },
   {
     "canonical_name": "Anna",
     "aliases": [],
     "first_chapter": 6,
-    "total_mentions": 84,
+    "total_mentions": 74,
     "per_chapter": {
       "6": {
         "mentions": 5,
@@ -215,10 +211,6 @@
         "mentions": 16,
         "snippet": "Dolly was wanting to go to bed when Anna came in to see her, attired"
       },
-      "29": {
-        "mentions": 10,
-        "snippet": "One of Anna\u2019s objects in coming back to Russia had been to see her son."
-      },
       "31": {
         "mentions": 13,
         "snippet": "wearing a bustle (Anna mentally undressed the woman, and was appalled"
@@ -226,13 +218,13 @@
     },
     "co_occurs_with": {
       "Count Vronsky": 4,
-      "Alexey Alexandrovitch": 4,
+      "Alexey Alexandrovitch": 3,
       "Darya Alexandrovna": 2,
-      "The": 2,
       "Princess Betsy": 2,
       "Madame Karenina": 2,
       "Vronsky": 2,
-      "Seryozha": 2
+      "Kitty": 1,
+      "Levin": 1
     }
   },
   {
@@ -290,11 +282,11 @@
       "Levin": 8,
       "Sergey Ivanovitch": 6,
       "Kitty": 4,
-      "Oblonsky": 3,
-      "Vronsky": 3,
-      "All": 2,
-      "Good": 2,
-      "Princess Shtcherbatskaya": 2
+      "Princess Shtcherbatskaya": 2,
+      "Oblonsky": 2,
+      "Madame Karenina": 2,
+      "Konstantin Dmitrievitch": 2,
+      "Vronsky": 2
     }
   },
   {
@@ -355,8 +347,8 @@
       "For Snetkov": 1,
       "Konstantin Dmitrievitch": 1,
       "Mihail Stepanovitch Snetkov": 1,
-      "Nevyedovsky": 1,
-      "Princess Shtcherbatskaya": 1
+      "Princess Shtcherbatskaya": 1,
+      "Pyotr Petrovitch Bol": 1
     }
   },
   {
@@ -389,14 +381,14 @@
       }
     },
     "co_occurs_with": {
-      "Vronsky": 3,
       "Alexey Alexandrovitch": 3,
       "Anna Arkadyevna": 2,
       "Stepan Arkadyevitch": 2,
-      "There": 2,
       "Anna": 2,
+      "Vronsky": 2,
       "Come": 1,
-      "Countess Vronskaya": 1
+      "Countess Vronskaya": 1,
+      "Ivan Petrovitch": 1
     }
   },
   {
@@ -437,14 +429,14 @@
       }
     },
     "co_occurs_with": {
-      "Anna": 4,
       "Madame Karenina": 3,
-      "There": 3,
       "Seryozha": 3,
+      "Anna": 3,
       "Vronsky": 3,
       "Anna Arkadyevna": 2,
       "Count Vronsky": 2,
-      "Alexander Vronsky": 1
+      "Alexander Vronsky": 1,
+      "Bryansky": 1
     }
   },
   {
@@ -467,10 +459,10 @@
       "Mahotin": 2,
       "Alexander Vronsky": 1,
       "Alexey Alexandrovitch": 1,
-      "All": 1,
       "Bryansky": 1,
-      "Cord": 1,
-      "Madame Karenina": 1
+      "Madame Karenina": 1,
+      "Mounted Guards": 1,
+      "Stepan Arkadyevitch": 1
     }
   },
   {
@@ -500,49 +492,11 @@
       "Anna": 2,
       "Count Vronsky": 2,
       "Levin": 2,
-      "The": 2,
       "Alexey Kirillovitch": 2,
       "Dolly": 2,
       "Kitty": 1,
-      "Levins": 1
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 32,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "The princess, conscious that"
-      },
-      "16": {
-        "mentions": 6,
-        "snippet": "The"
-      },
-      "21": {
-        "mentions": 10,
-        "snippet": "The smile in his eyes gleamed more brightly than ever."
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "The races"
-      },
-      "27": {
-        "mentions": 10,
-        "snippet": "\u201cThe only gain is that I live in my own house, neither bought nor"
-      }
-    },
-    "co_occurs_with": {
-      "Levin": 3,
-      "Dolly": 2,
-      "Kitty": 2,
-      "Sergey Ivanovitch": 2,
-      "Stepan Arkadyevitch": 2,
-      "Vronsky": 2,
-      "Anna": 2,
-      "Count Vronsky": 2
+      "Levins": 1,
+      "Sergey Ivanovitch": 1
     }
   },
   {
@@ -585,13 +539,13 @@
     },
     "co_occurs_with": {
       "Levin": 2,
-      "The": 2,
       "Vronsky": 2,
       "Alexey Kirillovitch": 2,
       "Darya Alexandrovna": 2,
       "Agafea Mihalovna": 1,
       "Kitty": 1,
-      "Matrona Semyenovna": 1
+      "Matrona Semyenovna": 1,
+      "Sergey Ivanovitch": 1
     }
   },
   {
@@ -645,43 +599,13 @@
     },
     "co_occurs_with": {
       "Alexey Alexandrovitch": 3,
-      "Anna": 2,
       "Anna Arkadyevna": 1,
       "Count Vronsky": 1,
       "For Alexey": 1,
       "Petersburg Alexey Alexandrovitch": 1,
       "Thank God": 1,
-      "There": 1
-    }
-  },
-  {
-    "canonical_name": "Oblonsky",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 19,
-    "per_chapter": {
-      "10": {
-        "mentions": 5,
-        "snippet": "When Levin went into the restaurant with Oblonsky, he could not help"
-      },
-      "11": {
-        "mentions": 8,
-        "snippet": "respective masters, Oblonsky began telling them of a delightful"
-      },
-      "18": {
-        "mentions": 6,
-        "snippet": "\u201cOblonsky!"
-      }
-    },
-    "co_occurs_with": {
-      "Stepan Arkadyevitch": 3,
-      "Levin": 2,
-      "Countess Bonina": 1,
-      "Frenchwoman": 1,
-      "Prince Golistin": 1,
-      "Princess Shahovskaya": 1,
-      "Tatar": 1,
-      "Anna Arkadyevna": 1
+      "Anna": 1,
+      "Annushka": 1
     }
   },
   {
@@ -721,44 +645,6 @@
     }
   },
   {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 17,
-    "per_chapter": {
-      "2": {
-        "mentions": 5,
-        "snippet": "\u201cThere\u2019s not"
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "\u201cThere\u2019s no one to send."
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "\u201cThere is no deceit she would stick at."
-      },
-      "24": {
-        "mentions": 3,
-        "snippet": "There were several races fixed for that day: the Mounted Guards\u2019 race,"
-      },
-      "33": {
-        "mentions": 3,
-        "snippet": "There were, as always, the same ladies of some sort with officers of"
-      }
-    },
-    "co_occurs_with": {
-      "Alexey Alexandrovitch": 3,
-      "Madame Karenina": 2,
-      "Stepan Arkadyevitch": 2,
-      "Levin": 2,
-      "Vronsky": 2,
-      "Anna Arkadyevna": 2,
-      "Alexander Vronsky": 1,
-      "All": 1
-    }
-  },
-  {
     "canonical_name": "Gladiator",
     "aliases": [],
     "first_chapter": 24,
@@ -778,10 +664,10 @@
       "Mahotin": 2,
       "Alexander Vronsky": 1,
       "Alexey Alexandrovitch": 1,
-      "All": 1,
       "Bryansky": 1,
-      "Cord": 1,
-      "Madame Karenina": 1
+      "Madame Karenina": 1,
+      "Mounted Guards": 1,
+      "Stepan Arkadyevitch": 1
     }
   },
   {
@@ -826,8 +712,8 @@
       "Konstantin Levin": 2,
       "Konstantin Dmitrievitch": 2,
       "Agafea Mihalovna": 2,
-      "The": 2,
-      "Vronsky": 2
+      "Vronsky": 2,
+      "Alexandrovitch Karenin": 1
     }
   },
   {
@@ -867,8 +753,7 @@
       "Ipat": 1,
       "Konstantin Dmitrievitch": 1,
       "Levin": 1,
-      "Mishka": 1,
-      "There": 1
+      "Mishka": 1
     }
   },
   {
@@ -891,10 +776,36 @@
       "Gladiator": 2,
       "Alexander Vronsky": 1,
       "Alexey Alexandrovitch": 1,
-      "All": 1,
       "Bryansky": 1,
-      "Cord": 1,
-      "Madame Karenina": 1
+      "Madame Karenina": 1,
+      "Mounted Guards": 1,
+      "Stepan Arkadyevitch": 1
+    }
+  },
+  {
+    "canonical_name": "Oblonsky",
+    "aliases": [],
+    "first_chapter": 10,
+    "total_mentions": 13,
+    "per_chapter": {
+      "10": {
+        "mentions": 5,
+        "snippet": "When Levin went into the restaurant with Oblonsky, he could not help"
+      },
+      "11": {
+        "mentions": 8,
+        "snippet": "respective masters, Oblonsky began telling them of a delightful"
+      }
+    },
+    "co_occurs_with": {
+      "Levin": 2,
+      "Stepan Arkadyevitch": 2,
+      "Countess Bonina": 1,
+      "Frenchwoman": 1,
+      "Prince Golistin": 1,
+      "Princess Shahovskaya": 1,
+      "Tatar": 1,
+      "Malthus": 1
     }
   },
   {
@@ -926,36 +837,6 @@
     }
   },
   {
-    "canonical_name": "Russia",
-    "aliases": [],
-    "first_chapter": 21,
-    "total_mentions": 11,
-    "per_chapter": {
-      "21": {
-        "mentions": 3,
-        "snippet": "superiority of Russia over Prussia, especially in cavalry attack, and"
-      },
-      "26": {
-        "mentions": 5,
-        "snippet": "He regarded Russia as a ruined country, rather after the"
-      },
-      "35": {
-        "mentions": 3,
-        "snippet": "Russia, to Ergushovo, where, as she knew from letters, her sister Dolly"
-      }
-    },
-    "co_occurs_with": {
-      "Kitty Shtcherbatskaya": 1,
-      "Levin": 1,
-      "Madame Sviazhskaya": 1,
-      "Sviazhsky": 1,
-      "Anna Pavlovna": 1,
-      "Kitty": 1,
-      "Marya Yevgenyevna": 1,
-      "Petrovs": 1
-    }
-  },
-  {
     "canonical_name": "Madame Kartasova",
     "aliases": [
       "Kartasova"
@@ -976,7 +857,7 @@
       "Princess Sorokina": 1,
       "Princess Varvara": 1,
       "Serpuhovskoy": 1,
-      "There": 1
+      "Vronsky": 1
     }
   },
   {
@@ -1044,8 +925,8 @@
       "Levin": 1,
       "Matrona Semyenovna": 1,
       "Stepan Arkadyevitch": 1,
-      "The": 1,
-      "There": 1
+      "Vronsky": 1,
+      "Alioshka": 1
     }
   },
   {
@@ -1065,65 +946,39 @@
     },
     "co_occurs_with": {
       "Alexandrovitch Karenin": 1,
-      "All": 1,
       "Ivanovitch Koznishev": 1,
       "Konstantin Dmitrievitch Levin": 1,
       "Konstantin Levin": 1,
       "Mihail Stanislavitch Grinevitch": 1,
       "Nikitin": 1,
-      "Sergey Ivanovitch": 1
+      "Sergey Ivanovitch": 1,
+      "Stepan Arkadyevitch": 1
     }
   },
   {
-    "canonical_name": "All",
+    "canonical_name": "Russia",
     "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 7,
+    "first_chapter": 26,
+    "total_mentions": 8,
     "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "All the officials sitting on the further side under the portrait of the"
+      "26": {
+        "mentions": 5,
+        "snippet": "He regarded Russia as a ruined country, rather after the"
       },
-      "24": {
-        "mentions": 4,
-        "snippet": "All that was painful in his relations with"
+      "35": {
+        "mentions": 3,
+        "snippet": "Russia, to Ergushovo, where, as she knew from letters, her sister Dolly"
       }
     },
     "co_occurs_with": {
-      "Stepan Arkadyevitch": 2,
-      "Alexandrovitch Karenin": 1,
-      "Ivanovitch Koznishev": 1,
-      "Konstantin Dmitrievitch Levin": 1,
-      "Konstantin Levin": 1,
-      "Mihail Stanislavitch Grinevitch": 1,
-      "Moscow": 1,
-      "Nikitin": 1
-    }
-  },
-  {
-    "canonical_name": "Good",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 7,
-    "per_chapter": {
-      "9": {
-        "mentions": 3,
-        "snippet": "\u201cGood-bye till this evening."
-      },
-      "18": {
-        "mentions": 4,
-        "snippet": "\u201cGood-bye, Ivan Petrovitch."
-      }
-    },
-    "co_occurs_with": {
-      "Stepan Arkadyevitch": 2,
-      "Kitty": 1,
+      "Kitty Shtcherbatskaya": 1,
       "Levin": 1,
-      "Mlle": 1,
-      "Nikolay Shtcherbatsky": 1,
-      "On Thursdays": 1,
-      "Princess Shtcherbatskaya": 1,
-      "To the England": 1
+      "Madame Sviazhskaya": 1,
+      "Sviazhsky": 1,
+      "Anna Pavlovna": 1,
+      "Kitty": 1,
+      "Marya Yevgenyevna": 1,
+      "Petrovs": 1
     }
   },
   {
@@ -1161,33 +1016,11 @@
       "Anna": 4,
       "Darya Alexandrovna": 2,
       "Levin": 2,
-      "The": 2,
       "Alexey Alexandrovitch": 2,
       "Kitty": 1,
       "Levins": 1,
-      "Sergey Ivanovitch": 1
-    }
-  },
-  {
-    "canonical_name": "Nevyedovsky",
-    "aliases": [],
-    "first_chapter": 30,
-    "total_mentions": 7,
-    "per_chapter": {
-      "30": {
-        "mentions": 7,
-        "snippet": "Nevyedovsky?"
-      }
-    },
-    "co_occurs_with": {
-      "Declined": 1,
-      "For Snetkov": 1,
-      "Konstantin Dmitrievitch": 1,
-      "Levin": 1,
-      "Mihail Stepanovitch Snetkov": 1,
-      "Princess Shtcherbatskaya": 1,
-      "Pyotr Petrovitch Bol": 1,
-      "Sergey Ivanovitch": 1
+      "Sergey Ivanovitch": 1,
+      "Stepan Arkadyevitch": 1
     }
   },
   {
@@ -1214,14 +1047,14 @@
       }
     },
     "co_occurs_with": {
-      "Vronsky": 3,
       "Madame Karenina": 2,
       "Princess Varvara": 2,
+      "Vronsky": 2,
       "Alexey Alexandrovitch": 2,
-      "There": 2,
       "Come": 1,
       "Countess Vronskaya": 1,
-      "Good": 1
+      "Ivan Petrovitch": 1,
+      "Not Petersburg": 1
     }
   },
   {
@@ -1242,34 +1075,12 @@
     "co_occurs_with": {
       "Anna Arkadyevna": 1,
       "Countess Vronskaya": 1,
-      "Good": 1,
       "Ivan Petrovitch": 1,
       "Madame Karenina": 1,
       "Not Petersburg": 1,
-      "Oblonsky": 1,
-      "Stepan Arkadyevitch": 1
-    }
-  },
-  {
-    "canonical_name": "Cord",
-    "aliases": [],
-    "first_chapter": 24,
-    "total_mentions": 6,
-    "per_chapter": {
-      "24": {
-        "mentions": 6,
-        "snippet": "\u201cWhere\u2019s Cord?"
-      }
-    },
-    "co_occurs_with": {
-      "Alexander Vronsky": 1,
-      "Alexey Alexandrovitch": 1,
-      "All": 1,
-      "Bryansky": 1,
-      "Frou": 1,
-      "Gladiator": 1,
-      "Madame Karenina": 1,
-      "Mahotin": 1
+      "Stepan Arkadyevitch": 1,
+      "Agafea Mihalovna": 1,
+      "Alioshka": 1
     }
   },
   {
@@ -1296,48 +1107,6 @@
       "Madame Stahl": 1,
       "Mademoiselle Varenka": 1,
       "Moscow": 1
-    }
-  },
-  {
-    "canonical_name": "Tanya",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 6,
-    "per_chapter": {
-      "8": {
-        "mentions": 6,
-        "snippet": "One dress, Tanya\u2019s, which the English governess had undertaken,"
-      }
-    },
-    "co_occurs_with": {
-      "Darya Alexandrovna": 1,
-      "Grisha": 1,
-      "June Darya Alexandrovna": 1,
-      "Lily": 1,
-      "Marya Philimonovna": 1,
-      "Miss Hoole": 1,
-      "the Sunday": 1
-    }
-  },
-  {
-    "canonical_name": "Grisha",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 6,
-    "per_chapter": {
-      "8": {
-        "mentions": 6,
-        "snippet": "Everything went happily at home too; but at lunch Grisha began"
-      }
-    },
-    "co_occurs_with": {
-      "Darya Alexandrovna": 1,
-      "June Darya Alexandrovna": 1,
-      "Lily": 1,
-      "Marya Philimonovna": 1,
-      "Miss Hoole": 1,
-      "Tanya": 1,
-      "the Sunday": 1
     }
   },
   {
@@ -1406,12 +1175,12 @@
     "co_occurs_with": {
       "Sergey Ivanovitch": 2,
       "Alexandrovitch Karenin": 1,
-      "All": 1,
       "Ivanovitch Koznishev": 1,
       "Konstantin Dmitrievitch Levin": 1,
       "Mihail Stanislavitch Grinevitch": 1,
       "Moscow": 1,
-      "Nikitin": 1
+      "Nikitin": 1,
+      "Stepan Arkadyevitch": 1
     }
   },
   {
@@ -1428,12 +1197,12 @@
     "co_occurs_with": {
       "Alexander Vronsky": 1,
       "Alexey Alexandrovitch": 1,
-      "All": 1,
-      "Cord": 1,
       "Frou": 1,
       "Gladiator": 1,
       "Madame Karenina": 1,
-      "Mahotin": 1
+      "Mahotin": 1,
+      "Mounted Guards": 1,
+      "Stepan Arkadyevitch": 1
     }
   },
   {
@@ -1512,13 +1281,13 @@
     },
     "co_occurs_with": {
       "Alexey Alexandrovitch": 1,
-      "Anna": 1,
       "Countess Lidia Ivanovna": 1,
       "From Prince Skorodumov": 1,
       "Lidia Ivanovna": 1,
       "Mother": 1,
       "Petersburg": 1,
-      "Sergey Alexeitch": 1
+      "Sergey Alexeitch": 1,
+      "Seryozha": 1
     }
   },
   {
@@ -1564,7 +1333,6 @@
       "Ipat": 1,
       "Konstantin Dmitrievitch": 1,
       "Levin": 1,
-      "There": 1,
       "Vassily": 1
     }
   },
@@ -1652,8 +1420,6 @@
       "Petritsky": 1,
       "Prince Serpuhovskoy": 1,
       "Princess Tverskaya": 1,
-      "Russia": 1,
-      "The": 1,
       "Vronsky": 1
     }
   },
@@ -1672,8 +1438,6 @@
       "Petritsky": 1,
       "Prince Serpuhovskoy": 1,
       "Princess Tverskaya": 1,
-      "Russia": 1,
-      "The": 1,
       "Vronsky": 1,
       "Yashvin": 1
     }
@@ -1702,8 +1466,7 @@
       "Sviazhsky": 1,
       "Mihail Petrovitch": 1,
       "Nikolay Ivanovitch": 1,
-      "Nikolay Ivanovitch Sviazhsky": 1,
-      "The": 1
+      "Nikolay Ivanovitch Sviazhsky": 1
     }
   },
   {
@@ -1721,8 +1484,7 @@
       "Levin": 1,
       "Madame Sviazhskaya": 1,
       "Nikolay Ivanovitch": 1,
-      "Nikolay Ivanovitch Sviazhsky": 1,
-      "The": 1
+      "Nikolay Ivanovitch Sviazhsky": 1
     }
   },
   {
@@ -1809,8 +1571,7 @@
       "Kitty": 1,
       "Levin": 1,
       "Sergey Ivanovitch": 1,
-      "Stepan Arkadyevitch": 1,
-      "The": 1
+      "Stepan Arkadyevitch": 1
     }
   },
   {
@@ -1826,13 +1587,13 @@
     },
     "co_occurs_with": {
       "Alexandrovitch Karenin": 1,
-      "All": 1,
       "Ivanovitch Koznishev": 1,
       "Konstantin Dmitrievitch Levin": 1,
       "Konstantin Levin": 1,
       "Mihail Stanislavitch Grinevitch": 1,
       "Moscow": 1,
-      "Sergey Ivanovitch": 1
+      "Sergey Ivanovitch": 1,
+      "Stepan Arkadyevitch": 1
     }
   },
   {
@@ -1850,6 +1611,28 @@
       "Good": 1,
       "Kitty": 1,
       "Levin": 1,
+      "Nikolay Shtcherbatsky": 1,
+      "On Thursdays": 1,
+      "Princess Shtcherbatskaya": 1,
+      "Stepan Arkadyevitch": 1,
+      "To the England": 1
+    }
+  },
+  {
+    "canonical_name": "Good",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201cGood-bye till this evening."
+      }
+    },
+    "co_occurs_with": {
+      "Kitty": 1,
+      "Levin": 1,
+      "Mlle": 1,
       "Nikolay Shtcherbatsky": 1,
       "On Thursdays": 1,
       "Princess Shtcherbatskaya": 1,
@@ -1965,7 +1748,6 @@
       "Konstantin Dmitrievitch": 1,
       "Levin": 1,
       "Mishka": 1,
-      "There": 1,
       "Vassily": 1
     }
   },
@@ -2086,11 +1868,9 @@
     },
     "co_occurs_with": {
       "Darya Alexandrovna": 1,
-      "Grisha": 1,
       "June Darya Alexandrovna": 1,
       "Lily": 1,
       "Marya Philimonovna": 1,
-      "Tanya": 1,
       "the Sunday": 1
     }
   },
@@ -2107,11 +1887,9 @@
     },
     "co_occurs_with": {
       "Darya Alexandrovna": 1,
-      "Grisha": 1,
       "June Darya Alexandrovna": 1,
       "Marya Philimonovna": 1,
       "Miss Hoole": 1,
-      "Tanya": 1,
       "the Sunday": 1
     }
   },
@@ -2156,8 +1934,6 @@
       "Perhaps": 1,
       "Prince Serpuhovskoy": 1,
       "Princess Tverskaya": 1,
-      "Russia": 1,
-      "The": 1,
       "Vronsky": 1,
       "Yashvin": 1
     }
@@ -2322,13 +2098,13 @@
     },
     "co_occurs_with": {
       "Alexey Alexandrovitch": 1,
-      "Anna": 1,
       "Countess Lidia Ivanovna": 1,
       "From Prince Skorodumov": 1,
       "Kapitonitch": 1,
       "Lidia Ivanovna": 1,
       "Mother": 1,
-      "Sergey Alexeitch": 1
+      "Sergey Alexeitch": 1,
+      "Seryozha": 1
     }
   },
   {
@@ -2344,13 +2120,13 @@
     },
     "co_occurs_with": {
       "Alexey Alexandrovitch": 1,
-      "Anna": 1,
       "Countess Lidia Ivanovna": 1,
       "From Prince Skorodumov": 1,
       "Kapitonitch": 1,
       "Lidia Ivanovna": 1,
       "Petersburg": 1,
-      "Sergey Alexeitch": 1
+      "Sergey Alexeitch": 1,
+      "Seryozha": 1
     }
   },
   {
@@ -2372,7 +2148,7 @@
       "Madame Kartasova": 1,
       "Princess Sorokina": 1,
       "Princess Varvara": 1,
-      "There": 1
+      "Vronsky": 1
     }
   },
   {
@@ -2439,10 +2215,10 @@
       "Konstantin Dmitrievitch": 1,
       "Levin": 1,
       "Mihail Stepanovitch Snetkov": 1,
-      "Nevyedovsky": 1,
       "Princess Shtcherbatskaya": 1,
       "Pyotr Petrovitch Bol": 1,
-      "Sergey Ivanovitch": 1
+      "Sergey Ivanovitch": 1,
+      "Stepan Arkadyevitch": 1
     }
   }
 ]

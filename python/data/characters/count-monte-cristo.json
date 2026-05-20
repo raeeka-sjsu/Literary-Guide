@@ -331,21 +331,21 @@
       }
     },
     "co_occurs_with": {
-      "Danglars": 34,
-      "Madame Danglars": 25,
+      "Danglars": 33,
       "Madame de Villefort": 25,
-      "Count": 24,
+      "Madame Danglars": 24,
+      "Count": 23,
       "Valentine": 17,
       "Albert": 16,
-      "Morrel": 16,
-      "Mademoiselle Danglars": 16
+      "Mademoiselle Danglars": 16,
+      "Morrel": 15
     }
   },
   {
     "canonical_name": "Danglars",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 512,
+    "total_mentions": 494,
     "per_chapter": {
       "1": {
         "mentions": 18,
@@ -483,10 +483,6 @@
         "mentions": 3,
         "snippet": "Danglars instead of me, which grieves me cruelly."
       },
-      "87": {
-        "mentions": 18,
-        "snippet": "\u201c\u2018Danglars."
-      },
       "93": {
         "mentions": 7,
         "snippet": "Danglars and her daughter, who have come to call on us."
@@ -541,21 +537,21 @@
       }
     },
     "co_occurs_with": {
-      "Monte Cristo": 34,
-      "Madame Danglars": 29,
+      "Monte Cristo": 33,
+      "Madame Danglars": 28,
       "Mademoiselle Danglars": 20,
       "Madame de Villefort": 17,
-      "The": 13,
       "Count": 10,
-      "Come": 9,
-      "Morrel": 9
+      "Marseilles": 8,
+      "Baron Danglars": 8,
+      "Morrel": 8
     }
   },
   {
     "canonical_name": "Franz",
     "aliases": [],
     "first_chapter": 31,
-    "total_mentions": 442,
+    "total_mentions": 412,
     "per_chapter": {
       "31": {
         "mentions": 71,
@@ -593,10 +589,6 @@
         "mentions": 1,
         "snippet": "Noirtier de Villefort assuming the title of Madame Franz d\u2019\u00c9pinay."
       },
-      "68": {
-        "mentions": 4,
-        "snippet": "Albert; \u201cFranz likes all that is eccentric; I tried to make him fall in"
-      },
       "70": {
         "mentions": 1,
         "snippet": "ask you if you had received any news of Monsieur Franz."
@@ -604,10 +596,6 @@
       "74": {
         "mentions": 32,
         "snippet": "\u201cFranz assured me,\u201d replied Albert, \u201cthat she was sixty-six years old."
-      },
-      "75": {
-        "mentions": 26,
-        "snippet": "Franz d\u2019\u00c9pinay,\u201d said he; \u201cyou requested to see him."
       },
       "78": {
         "mentions": 7,
@@ -619,14 +607,14 @@
       }
     },
     "co_occurs_with": {
-      "Monte Cristo": 13,
-      "Albert": 6,
+      "Monte Cristo": 12,
       "Count": 6,
-      "Madame de Villefort": 6,
       "Albert de Morcerf": 5,
       "Rome": 5,
       "Signor Pastrini": 5,
-      "Valentine": 5
+      "Albert": 5,
+      "Madame de Villefort": 5,
+      "Mademoiselle de Villefort": 4
     }
   },
   {
@@ -703,126 +691,12 @@
     "co_occurs_with": {
       "Monte Cristo": 16,
       "Count": 8,
-      "Danglars": 8,
+      "Danglars": 7,
       "Madame Danglars": 7,
-      "Franz": 6,
-      "Beauchamp": 6,
+      "Franz": 5,
       "Rome": 5,
+      "Beauchamp": 5,
       "Morcerf": 5
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 350,
-    "per_chapter": {
-      "1": {
-        "mentions": 12,
-        "snippet": "The ship drew on and had safely passed the strait, which some volcanic"
-      },
-      "4": {
-        "mentions": 4,
-        "snippet": "\u201d The waiter did as he was desired."
-      },
-      "9": {
-        "mentions": 10,
-        "snippet": "\u201d The guests looked at each other."
-      },
-      "10": {
-        "mentions": 6,
-        "snippet": "\u201d The minister"
-      },
-      "12": {
-        "mentions": 7,
-        "snippet": "\u201cThe king himself."
-      },
-      "17": {
-        "mentions": 30,
-        "snippet": "The floor of the abb\u00e9\u2019s cell was paved, and it had been by raising one"
-      },
-      "26": {
-        "mentions": 16,
-        "snippet": "The innkeeper himself was a man of from forty to fifty-five years of"
-      },
-      "27": {
-        "mentions": 25,
-        "snippet": "\u201cThe history is a sad one, sir,\u201d said Caderousse, shaking his head;"
-      },
-      "28": {
-        "mentions": 10,
-        "snippet": "The day after that in which the scene we have just described had taken"
-      },
-      "44": {
-        "mentions": 34,
-        "snippet": "\u201cThe story begins in 1815."
-      },
-      "54": {
-        "mentions": 8,
-        "snippet": "following day, in his gazette, \u2018The report circulated by some usually"
-      },
-      "55": {
-        "mentions": 24,
-        "snippet": "The visitor was about"
-      },
-      "58": {
-        "mentions": 12,
-        "snippet": "The eye of the invalid still retained that vacancy of expression which"
-      },
-      "59": {
-        "mentions": 22,
-        "snippet": "The young girl perfectly"
-      },
-      "61": {
-        "mentions": 15,
-        "snippet": "The count soon mastered the mechanism, the gate"
-      },
-      "71": {
-        "mentions": 10,
-        "snippet": "The count looked at Merc\u00e9d\u00e8s as if to interrogate her, but she"
-      },
-      "78": {
-        "mentions": 18,
-        "snippet": "The sudden"
-      },
-      "81": {
-        "mentions": 12,
-        "snippet": "The evening of the day on which the Count of Morcerf had left Danglars\u2019"
-      },
-      "89": {
-        "mentions": 9,
-        "snippet": "The stranger cast one look around her, to be certain that they were"
-      },
-      "99": {
-        "mentions": 12,
-        "snippet": "The"
-      },
-      "103": {
-        "mentions": 14,
-        "snippet": "The terrible office he had held for twenty-five years had"
-      },
-      "104": {
-        "mentions": 15,
-        "snippet": "The next morning dawned dull and cloudy."
-      },
-      "109": {
-        "mentions": 10,
-        "snippet": "The Benedetto affair, as it was called at the Palais, and by people in"
-      },
-      "111": {
-        "mentions": 15,
-        "snippet": "The carriage rolled rapidly onward."
-      }
-    },
-    "co_occurs_with": {
-      "Danglars": 13,
-      "Monte Cristo": 12,
-      "Edmond": 9,
-      "Marseilles": 8,
-      "Madame de Villefort": 8,
-      "Villefort": 7,
-      "Fernand": 6,
-      "Noirtier": 6
     }
   },
   {
@@ -914,13 +788,13 @@
     },
     "co_occurs_with": {
       "Marseilles": 8,
-      "The": 7,
       "Monte Cristo": 6,
       "Edmond": 5,
       "Mademoiselle de Saint": 5,
       "Danglars": 5,
       "Madame Danglars": 5,
-      "Rue Saint": 5
+      "Rue Saint": 5,
+      "Elba": 4
     }
   },
   {
@@ -929,7 +803,7 @@
       "Madame"
     ],
     "first_chapter": 39,
-    "total_mentions": 338,
+    "total_mentions": 335,
     "per_chapter": {
       "39": {
         "mentions": 3,
@@ -942,10 +816,6 @@
       "47": {
         "mentions": 27,
         "snippet": "the boudoir of Madame Danglars\u2014a small octagonal-shaped room, hung with"
-      },
-      "51": {
-        "mentions": 3,
-        "snippet": "age, she has had the happiness to find a second mother in Madame de"
       },
       "53": {
         "mentions": 28,
@@ -1053,13 +923,13 @@
       }
     },
     "co_occurs_with": {
-      "Danglars": 29,
-      "Monte Cristo": 25,
+      "Danglars": 28,
+      "Monte Cristo": 24,
       "Madame de Villefort": 16,
-      "Mademoiselle Danglars": 14,
+      "Mademoiselle Danglars": 13,
       "Count": 8,
-      "Debray": 7,
       "Albert": 7,
+      "Debray": 6,
       "Baron Danglars": 6
     }
   },
@@ -1067,7 +937,7 @@
     "canonical_name": "Morrel",
     "aliases": [],
     "first_chapter": 26,
-    "total_mentions": 324,
+    "total_mentions": 306,
     "per_chapter": {
       "26": {
         "mentions": 1,
@@ -1076,10 +946,6 @@
       "27": {
         "mentions": 1,
         "snippet": "\u201cWell, when Dant\u00e8s was arrested, Monsieur Morrel hastened to obtain the"
-      },
-      "28": {
-        "mentions": 9,
-        "snippet": "of Morrel & Son, of Marseilles."
       },
       "29": {
         "mentions": 2,
@@ -1096,10 +962,6 @@
       "51": {
         "mentions": 4,
         "snippet": "\u201c\u2018Morrel, Morrel,\u2019 cried my father, \u2018stop a bit;\u2019 then knitting his"
-      },
-      "62": {
-        "mentions": 9,
-        "snippet": "\u201cI am sure I am the first,\u201d cried Morrel; \u201cI did it on purpose to have"
       },
       "63": {
         "mentions": 6,
@@ -1167,13 +1029,13 @@
       }
     },
     "co_occurs_with": {
-      "Monte Cristo": 16,
-      "Madame de Villefort": 11,
+      "Monte Cristo": 15,
       "Valentine": 11,
       "Maximilian": 10,
-      "Danglars": 9,
-      "Count": 7,
+      "Madame de Villefort": 10,
+      "Danglars": 8,
       "de Villefort": 7,
+      "Count": 6,
       "Faubourg Saint": 6
     }
   },
@@ -1181,7 +1043,7 @@
     "canonical_name": "Edmond",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 258,
+    "total_mentions": 253,
     "per_chapter": {
       "1": {
         "mentions": 13,
@@ -1226,10 +1088,6 @@
       "19": {
         "mentions": 13,
         "snippet": "suspicion of his madness, increased Edmond\u2019s admiration of him; but at"
-      },
-      "20": {
-        "mentions": 5,
-        "snippet": "No longer could Edmond look into those"
       },
       "21": {
         "mentions": 4,
@@ -1279,12 +1137,12 @@
     "co_occurs_with": {
       "Marseilles": 11,
       "Monte Cristo": 10,
-      "The": 9,
       "Danglars": 7,
-      "Fernand": 7,
-      "Faria": 7,
       "Captain Leclere": 6,
-      "Island": 5
+      "Fernand": 6,
+      "Faria": 6,
+      "Island": 5,
+      "Villefort": 5
     }
   },
   {
@@ -1394,11 +1252,11 @@
       "Madame de Villefort": 19,
       "Monte Cristo": 17,
       "de Villefort": 14,
-      "Noirtier": 13,
       "Madame de Saint": 12,
       "Mademoiselle Valentine": 11,
       "Morrel": 11,
-      "Mademoiselle de Villefort": 10
+      "Mademoiselle de Villefort": 10,
+      "Maximilian": 8
     }
   },
   {
@@ -1447,15 +1305,15 @@
       "Monte Cristo": 4,
       "Catalans": 3,
       "Fernand": 3,
-      "Ali": 3,
-      "Benedetto": 3
+      "Busoni": 3,
+      "La Carconte": 3
     }
   },
   {
     "canonical_name": "Beauchamp",
     "aliases": [],
     "first_chapter": 39,
-    "total_mentions": 203,
+    "total_mentions": 187,
     "per_chapter": {
       "39": {
         "mentions": 4,
@@ -1472,10 +1330,6 @@
       "84": {
         "mentions": 28,
         "snippet": "The delay demanded by Beauchamp had nearly expired."
-      },
-      "85": {
-        "mentions": 16,
-        "snippet": "\u201cYes,\u201d said Beauchamp; \u201cthe absurd reports have died away, and should"
       },
       "86": {
         "mentions": 17,
@@ -1511,100 +1365,14 @@
       }
     },
     "co_occurs_with": {
-      "Monte Cristo": 12,
-      "Debray": 7,
-      "Morcerf": 7,
-      "Renaud": 7,
-      "Danglars": 6,
-      "Albert": 6,
-      "Ali Pasha": 6,
-      "Madame Danglars": 5
-    }
-  },
-  {
-    "canonical_name": "Noirtier",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 189,
-    "per_chapter": {
-      "7": {
-        "mentions": 1,
-        "snippet": "_\u201cTo Monsieur Noirtier, Rue Coq-H\u00e9ron, Paris."
-      },
-      "12": {
-        "mentions": 13,
-        "snippet": "Noirtier\u2014for it was, indeed, he who entered\u2014looked after the servant"
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "letter addressed to a Monsieur Noirtier\u2014his arrival at Marseilles, and"
-      },
-      "52": {
-        "mentions": 3,
-        "snippet": "\u201cWith grandpapa Noirtier."
-      },
-      "58": {
-        "mentions": 25,
-        "snippet": "Noirtier was sitting in an armchair, which moved upon casters, in"
-      },
-      "60": {
-        "mentions": 1,
-        "snippet": "Noirtier de Villefort assuming the title of Madame Franz d\u2019\u00c9pinay."
-      },
-      "72": {
-        "mentions": 13,
-        "snippet": "approach nearer, were looking at Noirtier\u2019s old servant, who had heard"
-      },
-      "73": {
-        "mentions": 21,
-        "snippet": "Noirtier has"
-      },
-      "75": {
-        "mentions": 19,
-        "snippet": "Noirtier was prepared to receive them, dressed in black, and installed"
-      },
-      "93": {
-        "mentions": 22,
-        "snippet": "was giving Noirtier his breakfast, and was sure not to be disturbed in"
-      },
-      "94": {
-        "mentions": 21,
-        "snippet": "Morrel looked at Noirtier who had recovered his self-command, and with"
-      },
-      "102": {
-        "mentions": 9,
-        "snippet": "had presented himself at the little door leading to Noirtier\u2019s room."
-      },
-      "103": {
-        "mentions": 24,
-        "snippet": "strength, the armchair containing Noirtier upstairs."
-      },
-      "104": {
-        "mentions": 3,
-        "snippet": "Noirtier from Valentine\u2019s room into his own, and contrary to all"
-      },
-      "108": {
-        "mentions": 9,
-        "snippet": "We remember that the Abb\u00e9 Busoni remained alone with Noirtier in the"
-      },
-      "111": {
-        "mentions": 3,
-        "snippet": "Noirtier\u2019s room, he perceived"
-      },
-      "117": {
-        "mentions": 1,
-        "snippet": "Leghorn, where Monsieur Noirtier awaits his granddaughter, whom he"
-      }
-    },
-    "co_occurs_with": {
-      "Valentine": 13,
-      "Madame de Villefort": 12,
       "Monte Cristo": 11,
-      "de Villefort": 9,
-      "The": 6,
-      "Madame de Saint": 6,
-      "Avrigny": 6,
-      "Edward": 5
+      "Debray": 7,
+      "Renaud": 7,
+      "Morcerf": 6,
+      "Albert": 5,
+      "Ali Pasha": 5,
+      "Danglars": 4,
+      "Madame Danglars": 4
     }
   },
   {
@@ -1749,15 +1517,15 @@
       "Madame Danglars": 16,
       "de Villefort": 16,
       "Madame de Saint": 13,
-      "Noirtier": 12,
-      "Mademoiselle de Villefort": 11
+      "Mademoiselle de Villefort": 11,
+      "Morrel": 10
     }
   },
   {
     "canonical_name": "Count",
     "aliases": [],
     "first_chapter": 18,
-    "total_mentions": 140,
+    "total_mentions": 137,
     "per_chapter": {
       "18": {
         "mentions": 4,
@@ -1835,10 +1603,6 @@
         "mentions": 7,
         "snippet": "\u201cCount,\u201d said Emmanuel, when they were at the end of the Place Royale,"
       },
-      "94": {
-        "mentions": 3,
-        "snippet": "\u201cCount, will you allow me to send Baptistin to inquire after someone"
-      },
       "96": {
         "mentions": 5,
         "snippet": "stirring the leaves in the little garden in front of the Count of Monte"
@@ -1857,130 +1621,14 @@
       }
     },
     "co_occurs_with": {
-      "Monte Cristo": 24,
+      "Monte Cristo": 23,
       "Danglars": 10,
       "Albert": 8,
       "Madame Danglars": 8,
-      "Madame de Villefort": 8,
-      "Morrel": 7,
+      "Madame de Villefort": 7,
       "Franz": 6,
-      "Rome": 6
-    }
-  },
-  {
-    "canonical_name": "Andrea",
-    "aliases": [],
-    "first_chapter": 64,
-    "total_mentions": 137,
-    "per_chapter": {
-      "64": {
-        "mentions": 26,
-        "snippet": "Andrea Cavalcanti found his tilbury"
-      },
-      "66": {
-        "mentions": 1,
-        "snippet": "major takes the key, double-locks his coffer, and Master Andrea would"
-      },
-      "76": {
-        "mentions": 11,
-        "snippet": "Andrea at his departure inherited all the papers which proved that"
-      },
-      "81": {
-        "mentions": 58,
-        "snippet": "Andrea Cavalcanti, with curled hair, moustaches"
-      },
-      "98": {
-        "mentions": 1,
-        "snippet": "youth, Master Andrea was a very skilful and intelligent boy."
-      },
-      "99": {
-        "mentions": 4,
-        "snippet": "This Andrea was a wretch, a"
-      },
-      "107": {
-        "mentions": 25,
-        "snippet": "\u201cCome,\u201d said Andrea, \u201cyou are a man void of compassion; I\u2019ll have you"
-      },
-      "110": {
-        "mentions": 11,
-        "snippet": "By the side of Andrea was stationed the lawyer who was to conduct his"
-      }
-    },
-    "co_occurs_with": {
-      "Danglars": 7,
-      "Madame Danglars": 5,
-      "Monte Cristo": 5,
-      "Mademoiselle Danglars": 5,
-      "Benedetto": 3,
-      "Cavalcanti": 3,
-      "Come": 3,
-      "Armilly": 3
-    }
-  },
-  {
-    "canonical_name": "Debray",
-    "aliases": [],
-    "first_chapter": 39,
-    "total_mentions": 128,
-    "per_chapter": {
-      "39": {
-        "mentions": 4,
-        "snippet": "Debray will, perhaps, be obliged to go to"
-      },
-      "40": {
-        "mentions": 40,
-        "snippet": "meantime, follow Debray\u2019s example, and take a glass of sherry and a"
-      },
-      "46": {
-        "mentions": 4,
-        "snippet": "Debray?"
-      },
-      "62": {
-        "mentions": 7,
-        "snippet": "Debray, who both mount the minister\u2019s"
-      },
-      "63": {
-        "mentions": 10,
-        "snippet": "the other seats were filled by Debray, who was placed between the two"
-      },
-      "74": {
-        "mentions": 5,
-        "snippet": "In one of the mourning-coaches Beauchamp, Debray, and Ch\u00e2teau-Renaud"
-      },
-      "77": {
-        "mentions": 3,
-        "snippet": "\u2014of Debray?"
-      },
-      "90": {
-        "mentions": 5,
-        "snippet": "carriage;\u2014faith, it is Franz and Debray!"
-      },
-      "104": {
-        "mentions": 6,
-        "snippet": "their appearance\u2014we mean Debray, Ch\u00e2teau-Renaud, and Beauchamp,"
-      },
-      "105": {
-        "mentions": 4,
-        "snippet": "\u201cSee,\u201d said Beauchamp, pointing out Morrel to Debray."
-      },
-      "106": {
-        "mentions": 29,
-        "snippet": "Debray."
-      },
-      "109": {
-        "mentions": 11,
-        "snippet": "He perceived Ch\u00e2teau-Renaud and Debray, who had just gained the good"
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 11,
-      "Danglars": 8,
-      "Beauchamp": 7,
-      "Madame Danglars": 7,
-      "Renaud": 7,
-      "Morrel": 5,
-      "Madame de Villefort": 5,
-      "Baron Danglars": 4
+      "Rome": 6,
+      "Baron Danglars": 6
     }
   },
   {
@@ -2073,12 +1721,120 @@
     "co_occurs_with": {
       "Danglars": 20,
       "Monte Cristo": 16,
-      "Madame Danglars": 14,
+      "Madame Danglars": 13,
       "Madame de Villefort": 7,
       "Baron Danglars": 6,
       "Madame de Morcerf": 6,
       "Faubourg Saint": 5,
       "Albert": 5
+    }
+  },
+  {
+    "canonical_name": "Andrea",
+    "aliases": [],
+    "first_chapter": 64,
+    "total_mentions": 126,
+    "per_chapter": {
+      "64": {
+        "mentions": 26,
+        "snippet": "Andrea Cavalcanti found his tilbury"
+      },
+      "66": {
+        "mentions": 1,
+        "snippet": "major takes the key, double-locks his coffer, and Master Andrea would"
+      },
+      "81": {
+        "mentions": 58,
+        "snippet": "Andrea Cavalcanti, with curled hair, moustaches"
+      },
+      "98": {
+        "mentions": 1,
+        "snippet": "youth, Master Andrea was a very skilful and intelligent boy."
+      },
+      "99": {
+        "mentions": 4,
+        "snippet": "This Andrea was a wretch, a"
+      },
+      "107": {
+        "mentions": 25,
+        "snippet": "\u201cCome,\u201d said Andrea, \u201cyou are a man void of compassion; I\u2019ll have you"
+      },
+      "110": {
+        "mentions": 11,
+        "snippet": "By the side of Andrea was stationed the lawyer who was to conduct his"
+      }
+    },
+    "co_occurs_with": {
+      "Danglars": 6,
+      "Madame Danglars": 4,
+      "Monte Cristo": 4,
+      "Mademoiselle Danglars": 4,
+      "Benedetto": 2,
+      "Cavalcanti": 2,
+      "Come": 2,
+      "Good Caderousse": 2
+    }
+  },
+  {
+    "canonical_name": "Debray",
+    "aliases": [],
+    "first_chapter": 39,
+    "total_mentions": 124,
+    "per_chapter": {
+      "39": {
+        "mentions": 4,
+        "snippet": "Debray will, perhaps, be obliged to go to"
+      },
+      "40": {
+        "mentions": 40,
+        "snippet": "meantime, follow Debray\u2019s example, and take a glass of sherry and a"
+      },
+      "62": {
+        "mentions": 7,
+        "snippet": "Debray, who both mount the minister\u2019s"
+      },
+      "63": {
+        "mentions": 10,
+        "snippet": "the other seats were filled by Debray, who was placed between the two"
+      },
+      "74": {
+        "mentions": 5,
+        "snippet": "In one of the mourning-coaches Beauchamp, Debray, and Ch\u00e2teau-Renaud"
+      },
+      "77": {
+        "mentions": 3,
+        "snippet": "\u2014of Debray?"
+      },
+      "90": {
+        "mentions": 5,
+        "snippet": "carriage;\u2014faith, it is Franz and Debray!"
+      },
+      "104": {
+        "mentions": 6,
+        "snippet": "their appearance\u2014we mean Debray, Ch\u00e2teau-Renaud, and Beauchamp,"
+      },
+      "105": {
+        "mentions": 4,
+        "snippet": "\u201cSee,\u201d said Beauchamp, pointing out Morrel to Debray."
+      },
+      "106": {
+        "mentions": 29,
+        "snippet": "Debray."
+      },
+      "109": {
+        "mentions": 11,
+        "snippet": "He perceived Ch\u00e2teau-Renaud and Debray, who had just gained the good"
+      }
+    },
+    "co_occurs_with": {
+      "Monte Cristo": 10,
+      "Beauchamp": 7,
+      "Danglars": 7,
+      "Renaud": 7,
+      "Madame Danglars": 6,
+      "Madame de Villefort": 5,
+      "Morrel": 4,
+      "Albert de Morcerf": 3
     }
   },
   {
@@ -2123,70 +1879,12 @@
     "co_occurs_with": {
       "Madame de Villefort": 8,
       "Valentine": 7,
-      "Noirtier": 6,
       "Madame de Saint": 5,
       "Mademoiselle Valentine": 5,
       "Monte Cristo": 5,
-      "Barrois": 4,
-      "de Villefort": 4
-    }
-  },
-  {
-    "canonical_name": "Fernand",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 106,
-    "per_chapter": {
-      "4": {
-        "mentions": 27,
-        "snippet": "then, turning round, he perceived Fernand, who had fallen, pale and"
-      },
-      "5": {
-        "mentions": 24,
-        "snippet": "brought up by Fernand, whose lips wore their usual sinister smile."
-      },
-      "9": {
-        "mentions": 4,
-        "snippet": "She had met Fernand at the corner of the"
-      },
-      "13": {
-        "mentions": 8,
-        "snippet": "Fernand understood nothing except that Dant\u00e8s was absent."
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "\u201cFernand."
-      },
-      "26": {
-        "mentions": 6,
-        "snippet": "my rival, was much attached to me,\u2014his name was Fernand; that of my"
-      },
-      "27": {
-        "mentions": 30,
-        "snippet": "ambition,\u2014Fernand and Danglars."
-      },
-      "78": {
-        "mentions": 1,
-        "snippet": "is a little article on Colonel Fernand, which, if I am not mistaken,"
-      },
-      "86": {
-        "mentions": 1,
-        "snippet": "Yanina and Colonel Fernand, he turned so frightfully pale that every"
-      },
-      "92": {
-        "mentions": 2,
-        "snippet": "Are you not the Lieutenant Fernand who served as"
-      }
-    },
-    "co_occurs_with": {
-      "Edmond": 7,
-      "The": 6,
-      "Danglars": 5,
-      "Marseilles": 5,
-      "Morrel": 4,
-      "Caderousse": 3,
-      "Ali Pasha": 3,
-      "Comte de Morcerf": 3
+      "de Villefort": 4,
+      "Mademoiselle de Villefort": 4,
+      "Morrel": 4
     }
   },
   {
@@ -2237,14 +1935,68 @@
       }
     },
     "co_occurs_with": {
-      "Edmond": 7,
+      "Edmond": 6,
       "Monte Cristo": 5,
       "Cardinal Spada": 4,
-      "There": 3,
       "Rome": 3,
-      "Let": 2,
-      "The": 2,
-      "Borgia": 2
+      "Borgia": 2,
+      "Bonapartist Club": 1,
+      "Captain Leclere": 1,
+      "Danglars": 1
+    }
+  },
+  {
+    "canonical_name": "Fernand",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 98,
+    "per_chapter": {
+      "4": {
+        "mentions": 27,
+        "snippet": "then, turning round, he perceived Fernand, who had fallen, pale and"
+      },
+      "5": {
+        "mentions": 24,
+        "snippet": "brought up by Fernand, whose lips wore their usual sinister smile."
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "She had met Fernand at the corner of the"
+      },
+      "17": {
+        "mentions": 3,
+        "snippet": "\u201cFernand."
+      },
+      "26": {
+        "mentions": 6,
+        "snippet": "my rival, was much attached to me,\u2014his name was Fernand; that of my"
+      },
+      "27": {
+        "mentions": 30,
+        "snippet": "ambition,\u2014Fernand and Danglars."
+      },
+      "78": {
+        "mentions": 1,
+        "snippet": "is a little article on Colonel Fernand, which, if I am not mistaken,"
+      },
+      "86": {
+        "mentions": 1,
+        "snippet": "Yanina and Colonel Fernand, he turned so frightfully pale that every"
+      },
+      "92": {
+        "mentions": 2,
+        "snippet": "Are you not the Lieutenant Fernand who served as"
+      }
+    },
+    "co_occurs_with": {
+      "Edmond": 6,
+      "Danglars": 5,
+      "Marseilles": 4,
+      "Morrel": 4,
+      "Caderousse": 3,
+      "Ali Pasha": 3,
+      "Comte de Morcerf": 3,
+      "Madame de Morcerf": 3
     }
   },
   {
@@ -2303,10 +2055,10 @@
       "Morrel": 10,
       "Valentine": 8,
       "Madame de Villefort": 6,
-      "Count": 5,
       "Danglars": 4,
       "de Villefort": 4,
-      "Noirtier": 4
+      "Count": 4,
+      "Madame de Saint": 4
     }
   },
   {
@@ -2363,7 +2115,7 @@
       "Madame de Villefort": 6,
       "Danglars": 5,
       "Madame Danglars": 5,
-      "Morrel": 5,
+      "Morrel": 4,
       "Albert": 3
     }
   },
@@ -2486,13 +2238,13 @@
     },
     "co_occurs_with": {
       "Monte Cristo": 8,
-      "Beauchamp": 7,
+      "Beauchamp": 6,
       "Albert": 5,
       "Ali Pasha": 5,
       "Count": 4,
-      "Danglars": 4,
-      "There": 3,
-      "Mademoiselle Danglars": 3
+      "Danglars": 3,
+      "Mademoiselle Danglars": 3,
+      "The Count": 3
     }
   },
   {
@@ -2545,56 +2297,6 @@
       "An Englishman": 2,
       "Maximilian Morrel": 2,
       "Sinbad the Sailor": 2
-    }
-  },
-  {
-    "canonical_name": "Ali",
-    "aliases": [],
-    "first_chapter": 37,
-    "total_mentions": 82,
-    "per_chapter": {
-      "37": {
-        "mentions": 5,
-        "snippet": "You need not awaken the coachman; Ali will drive."
-      },
-      "45": {
-        "mentions": 6,
-        "snippet": "Ali was his principal"
-      },
-      "46": {
-        "mentions": 16,
-        "snippet": "he, glancing an inquiring look at Ali."
-      },
-      "47": {
-        "mentions": 22,
-        "snippet": "by Ali."
-      },
-      "82": {
-        "mentions": 18,
-        "snippet": "Ali and several attendants, and also taking with him some horses whose"
-      },
-      "83": {
-        "mentions": 5,
-        "snippet": "Ali and his master conveyed the wounded man into a room."
-      },
-      "89": {
-        "mentions": 6,
-        "snippet": "\u201cAli, bring me my pistols with the ivory cross."
-      },
-      "112": {
-        "mentions": 4,
-        "snippet": "horses were already pawing the ground with impatience, while Ali,"
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 8,
-      "Albert de Morcerf": 3,
-      "Busoni": 3,
-      "Caderousse": 3,
-      "Baptistin": 3,
-      "Baron Danglars": 3,
-      "Danglars": 3,
-      "Faubourg Saint": 3
     }
   },
   {
@@ -2683,226 +2385,54 @@
     "co_occurs_with": {
       "Edmond": 11,
       "Danglars": 8,
-      "The": 8,
       "Villefort": 8,
-      "Morrel": 6,
       "Monte Cristo": 5,
-      "Fernand": 5,
-      "Mademoiselle de Saint": 5
+      "Mademoiselle de Saint": 5,
+      "Morrel": 5,
+      "Captain Leclere": 4,
+      "Elba": 4
     }
   },
   {
-    "canonical_name": "Peppino",
+    "canonical_name": "Ali",
     "aliases": [],
-    "first_chapter": 34,
-    "total_mentions": 79,
+    "first_chapter": 46,
+    "total_mentions": 71,
     "per_chapter": {
-      "34": {
-        "mentions": 9,
-        "snippet": "I may be entrapped, like poor Peppino and may be very glad to have some"
-      },
-      "37": {
-        "mentions": 24,
-        "snippet": "\u201cHave you not saved Peppino\u2019s life?"
-      },
-      "114": {
+      "46": {
         "mentions": 16,
-        "snippet": "\u201cAh, ha,\u201d he said, \u201chere you are, Peppino!"
+        "snippet": "he, glancing an inquiring look at Ali."
       },
-      "115": {
-        "mentions": 25,
-        "snippet": "indeed, Peppino who was preparing to mount guard as comfortably as"
+      "47": {
+        "mentions": 22,
+        "snippet": "by Ali."
       },
-      "116": {
-        "mentions": 5,
-        "snippet": "sent for Peppino."
-      }
-    },
-    "co_occurs_with": {
-      "Albert de Morcerf": 4,
-      "Luigi Vampa": 4,
-      "Monte Cristo": 4,
-      "Rome": 4,
-      "Signor Pastrini": 4,
-      "Come": 3,
-      "Appian Way": 2,
-      "Papal States": 2
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 75,
-    "per_chapter": {
-      "17": {
-        "mentions": 5,
-        "snippet": "\u201cThere,\u201d said he, \u201cthere is the work complete."
-      },
-      "19": {
-        "mentions": 4,
-        "snippet": "\u201cThere is not a hope,\u201d replied Faria, shaking his head, \u201cbut no matter;"
-      },
-      "26": {
-        "mentions": 3,
-        "snippet": "There it lay stretching out into one"
-      },
-      "29": {
-        "mentions": 3,
-        "snippet": "\u201cThere are only two persons who have the key to that door,\u201d murmured"
-      },
-      "32": {
-        "mentions": 3,
-        "snippet": "There for some time he enjoyed the fresh breeze which played on his"
-      },
-      "40": {
-        "mentions": 6,
-        "snippet": "\u201cThere are no bandits,\u201d cried Debray."
-      },
-      "44": {
-        "mentions": 4,
-        "snippet": "There\u2019s only the price we are not agreed"
-      },
-      "53": {
-        "mentions": 5,
-        "snippet": "There is no gainsaying the fact that a very unfavorable construction"
-      },
-      "54": {
-        "mentions": 4,
-        "snippet": "\u201cThere is still something else,\u201d said he."
-      },
-      "56": {
-        "mentions": 3,
-        "snippet": "\u201cThere is a dupe somewhere."
-      },
-      "59": {
-        "mentions": 3,
-        "snippet": "There are certain forms"
-      },
-      "63": {
-        "mentions": 3,
-        "snippet": "\u201cThere was, above all, one room,\u201d continued Monte Cristo, \u201cvery plain"
-      },
-      "73": {
-        "mentions": 5,
-        "snippet": "There are such in the world, and God will doubtless reward them in"
-      },
-      "81": {
-        "mentions": 5,
-        "snippet": "\u201cThere you are beginning again to ramble, to talk again and again of"
+      "82": {
+        "mentions": 18,
+        "snippet": "Ali and several attendants, and also taking with him some horses whose"
       },
       "83": {
-        "mentions": 3,
-        "snippet": "There is no God; there"
-      },
-      "90": {
-        "mentions": 3,
-        "snippet": "There are virtues which"
-      },
-      "110": {
-        "mentions": 4,
-        "snippet": "There was no longer any"
-      },
-      "113": {
-        "mentions": 3,
-        "snippet": "There had been no prisoners confined in the Ch\u00e2teau d\u2019If since the"
-      },
-      "114": {
-        "mentions": 3,
-        "snippet": "\u201cThere is no great merit due to me, for we were informed of it."
-      },
-      "117": {
-        "mentions": 3,
-        "snippet": "\u201cThere is something true in what you say,\u201d said the count, with that"
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 15,
-      "Danglars": 7,
-      "The": 6,
-      "Morrel": 6,
-      "Madame de Villefort": 5,
-      "Come": 4,
-      "Albert de Morcerf": 4,
-      "Baron Danglars": 4
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 69,
-    "per_chapter": {
-      "2": {
-        "mentions": 7,
-        "snippet": "\u201cCome, come, cheer up, my dear father!"
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "\u201cCome,\u201d said he to the abb\u00e9, \u201cI am anxious to see your treasures."
-      },
-      "29": {
-        "mentions": 3,
-        "snippet": "\u201cCome in, come in,\u201d said Morrel, \u201cfor I presume you are all at the"
-      },
-      "36": {
-        "mentions": 4,
-        "snippet": "Come, answer frankly."
-      },
-      "37": {
-        "mentions": 7,
-        "snippet": "\u201cCome upstairs with me, and I will give it to you."
-      },
-      "39": {
-        "mentions": 3,
-        "snippet": "\u201cCome, do not affect indifference, but confess you were pleased to have"
-      },
-      "44": {
-        "mentions": 3,
-        "snippet": "\u201c\u2018Come, come\u2014give it to me!"
-      },
-      "64": {
-        "mentions": 8,
-        "snippet": "\u201cCome,\u201d said Andrea, with sufficient nerve for his servant not to"
-      },
-      "76": {
-        "mentions": 3,
-        "snippet": "\u201cCome, count, you do not do that young man justice."
-      },
-      "81": {
-        "mentions": 6,
-        "snippet": "\u201cCome, come, my little fellow, don\u2019t be angry."
-      },
-      "92": {
-        "mentions": 3,
-        "snippet": "\u201cCome,\u201d said the count mildly, \u201cdo not entertain the prejudices of"
-      },
-      "94": {
-        "mentions": 3,
-        "snippet": "\u201cCome."
-      },
-      "109": {
-        "mentions": 3,
-        "snippet": "\u201cCome,\u201d he said, \u201cit is only a veiled lady, some foreign princess,"
-      },
-      "115": {
-        "mentions": 8,
-        "snippet": "\u201cCome, come,\u201d said Danglars, tapping his fingers against the door, \u201cI"
-      },
-      "116": {
         "mentions": 5,
-        "snippet": "\u201cCome,\u201d thought Danglars, \u201cit is the same old story."
+        "snippet": "Ali and his master conveyed the wounded man into a room."
+      },
+      "89": {
+        "mentions": 6,
+        "snippet": "\u201cAli, bring me my pistols with the ivory cross."
+      },
+      "112": {
+        "mentions": 4,
+        "snippet": "horses were already pawing the ground with impatience, while Ali,"
       }
     },
     "co_occurs_with": {
-      "Monte Cristo": 11,
-      "Danglars": 9,
-      "The": 4,
-      "There": 4,
-      "Count": 4,
-      "Madame Danglars": 4,
-      "Rome": 3,
-      "Signor Pastrini": 3
+      "Monte Cristo": 6,
+      "Baron Danglars": 3,
+      "Danglars": 3,
+      "Faubourg Saint": 3,
+      "Baptistin": 2,
+      "Count": 2,
+      "Madame Danglars": 2,
+      "Nay": 2
     }
   },
   {
@@ -2932,65 +2462,87 @@
     }
   },
   {
-    "canonical_name": "Bertuccio",
+    "canonical_name": "Noirtier",
     "aliases": [],
-    "first_chapter": 35,
-    "total_mentions": 63,
+    "first_chapter": 7,
+    "total_mentions": 67,
     "per_chapter": {
-      "35": {
-        "mentions": 2,
-        "snippet": "\u201cMonsieur Bertuccio,\u201d said the count, \u201cyou have procured me windows"
-      },
-      "42": {
+      "7": {
         "mentions": 1,
-        "snippet": "\u201cMonsieur Bertuccio,\u201d said the count, \u201cdid you never tell me that you"
+        "snippet": "_\u201cTo Monsieur Noirtier, Rue Coq-H\u00e9ron, Paris."
       },
-      "43": {
-        "mentions": 3,
-        "snippet": "\u201cGo on, Monsieur Bertuccio,\u201d said the count."
-      },
-      "45": {
+      "17": {
         "mentions": 1,
-        "snippet": "And now leave me, Monsieur Bertuccio, to"
+        "snippet": "letter addressed to a Monsieur Noirtier\u2014his arrival at Marseilles, and"
       },
-      "54": {
+      "60": {
         "mentions": 1,
-        "snippet": "\u201cMonsieur Bertuccio, you understand that I intend entertaining company"
+        "snippet": "Noirtier de Villefort assuming the title of Madame Franz d\u2019\u00c9pinay."
       },
-      "62": {
+      "94": {
         "mentions": 21,
-        "snippet": "Bertuccio had outdone himself in the taste displayed in furnishing,"
+        "snippet": "Morrel looked at Noirtier who had recovered his self-command, and with"
       },
-      "68": {
-        "mentions": 3,
-        "snippet": "Bertuccio, \u201cWhat news?"
+      "102": {
+        "mentions": 9,
+        "snippet": "had presented himself at the little door leading to Noirtier\u2019s room."
       },
-      "82": {
-        "mentions": 4,
-        "snippet": "had not occurred to Andrea either, by the arrival of Bertuccio from"
+      "103": {
+        "mentions": 24,
+        "snippet": "strength, the armchair containing Noirtier upstairs."
       },
-      "85": {
-        "mentions": 7,
-        "snippet": "as if to dispel his reverie, he rang the bell twice and Bertuccio"
+      "108": {
+        "mentions": 9,
+        "snippet": "We remember that the Abb\u00e9 Busoni remained alone with Noirtier in the"
       },
-      "92": {
-        "mentions": 5,
-        "snippet": "At the Barri\u00e8re du Tr\u00f4ne they met Bertuccio, who was waiting there,"
-      },
-      "107": {
-        "mentions": 15,
-        "snippet": "Bertuccio, who was also gazing with sad astonishment upon the iron"
+      "117": {
+        "mentions": 1,
+        "snippet": "Leghorn, where Monsieur Noirtier awaits his granddaughter, whom he"
       }
     },
     "co_occurs_with": {
-      "Monte Cristo": 11,
-      "Count": 5,
-      "Monsieur Bertuccio": 5,
-      "Danglars": 5,
-      "Madame Danglars": 4,
-      "Mademoiselle Danglars": 4,
-      "Albert": 3,
-      "Busoni": 3
+      "Valentine": 6,
+      "Madame de Villefort": 5,
+      "Monte Cristo": 5,
+      "Madame de Saint": 4,
+      "de Villefort": 4,
+      "Morrel": 4,
+      "Monsieur Noirtier": 3,
+      "Avrigny": 3
+    }
+  },
+  {
+    "canonical_name": "Peppino",
+    "aliases": [],
+    "first_chapter": 34,
+    "total_mentions": 63,
+    "per_chapter": {
+      "34": {
+        "mentions": 9,
+        "snippet": "I may be entrapped, like poor Peppino and may be very glad to have some"
+      },
+      "37": {
+        "mentions": 24,
+        "snippet": "\u201cHave you not saved Peppino\u2019s life?"
+      },
+      "115": {
+        "mentions": 25,
+        "snippet": "indeed, Peppino who was preparing to mount guard as comfortably as"
+      },
+      "116": {
+        "mentions": 5,
+        "snippet": "sent for Peppino."
+      }
+    },
+    "co_occurs_with": {
+      "Albert de Morcerf": 3,
+      "Luigi Vampa": 3,
+      "Monte Cristo": 3,
+      "Rome": 3,
+      "Signor Pastrini": 3,
+      "Come": 3,
+      "Beppo": 2,
+      "The Count": 2
     }
   },
   {
@@ -3076,9 +2628,9 @@
       "Valentine": 12,
       "de Villefort": 8,
       "Mademoiselle Valentine": 7,
-      "Noirtier": 6,
       "Danglars": 6,
-      "Madame Danglars": 5
+      "Madame Danglars": 5,
+      "Morrel": 5
     }
   },
   {
@@ -3159,8 +2711,8 @@
       "Palais de Justice": 3,
       "Elba": 2,
       "Island": 2,
-      "The": 2,
-      "Catalans": 2
+      "Catalans": 2,
+      "Caderousse": 2
     }
   },
   {
@@ -3218,7 +2770,7 @@
       "Bertuccio": 3,
       "Italy": 3,
       "Villefort": 3,
-      "Benedetto": 3
+      "La Carconte": 3
     }
   },
   {
@@ -3308,11 +2860,65 @@
       "Madame de Villefort": 16,
       "Monte Cristo": 15,
       "Valentine": 14,
-      "Noirtier": 9,
       "Madame de Saint": 8,
       "Danglars": 7,
       "Edward": 7,
-      "Morrel": 7
+      "Morrel": 7,
+      "Faubourg Saint": 6
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 46,
+    "per_chapter": {
+      "29": {
+        "mentions": 3,
+        "snippet": "\u201cCome in, come in,\u201d said Morrel, \u201cfor I presume you are all at the"
+      },
+      "37": {
+        "mentions": 7,
+        "snippet": "\u201cCome upstairs with me, and I will give it to you."
+      },
+      "39": {
+        "mentions": 3,
+        "snippet": "\u201cCome, do not affect indifference, but confess you were pleased to have"
+      },
+      "64": {
+        "mentions": 8,
+        "snippet": "\u201cCome,\u201d said Andrea, with sufficient nerve for his servant not to"
+      },
+      "76": {
+        "mentions": 3,
+        "snippet": "\u201cCome, count, you do not do that young man justice."
+      },
+      "81": {
+        "mentions": 6,
+        "snippet": "\u201cCome, come, my little fellow, don\u2019t be angry."
+      },
+      "109": {
+        "mentions": 3,
+        "snippet": "\u201cCome,\u201d he said, \u201cit is only a veiled lady, some foreign princess,"
+      },
+      "115": {
+        "mentions": 8,
+        "snippet": "\u201cCome, come,\u201d said Danglars, tapping his fingers against the door, \u201cI"
+      },
+      "116": {
+        "mentions": 5,
+        "snippet": "\u201cCome,\u201d thought Danglars, \u201cit is the same old story."
+      }
+    },
+    "co_occurs_with": {
+      "Monte Cristo": 7,
+      "Danglars": 7,
+      "Madame Danglars": 4,
+      "Albert de Morcerf": 3,
+      "Peppino": 3,
+      "Are": 2,
+      "Luigi Vampa": 2,
+      "Rome": 2
     }
   },
   {
@@ -3336,113 +2942,51 @@
     },
     "co_occurs_with": {
       "Sinbad the Sailor": 2,
-      "There": 2,
       "Marseilles": 2,
-      "Morrel": 2,
       "Andrea Cavalcanti": 1,
       "Asia Minor": 1,
       "Bartolomeo Cavalcanti": 1,
-      "Beauvoisin": 1
+      "Beauvoisin": 1,
+      "Busoni": 1,
+      "Cavalcanti": 1
     }
   },
   {
-    "canonical_name": "Benedetto",
+    "canonical_name": "The",
     "aliases": [],
-    "first_chapter": 44,
-    "total_mentions": 45,
+    "first_chapter": 4,
+    "total_mentions": 42,
     "per_chapter": {
-      "44": {
-        "mentions": 10,
-        "snippet": "replaced the parents it has lost, have called it Benedetto, and then,"
+      "4": {
+        "mentions": 4,
+        "snippet": "\u201d The waiter did as he was desired."
       },
-      "45": {
-        "mentions": 6,
-        "snippet": "demands of Benedetto, who was continually tormenting her for money, as"
+      "12": {
+        "mentions": 7,
+        "snippet": "\u201cThe king himself."
       },
-      "64": {
-        "mentions": 1,
-        "snippet": "understand, Master Benedetto?"
-      },
-      "82": {
-        "mentions": 5,
-        "snippet": "\u201cBenedetto."
-      },
-      "104": {
-        "mentions": 3,
-        "snippet": "against the assassin Benedetto."
-      },
-      "107": {
-        "mentions": 5,
-        "snippet": "\u201cBenedetto!"
-      },
-      "109": {
-        "mentions": 5,
-        "snippet": "The Benedetto affair, as it was called at the Palais, and by people in"
-      },
-      "110": {
-        "mentions": 10,
-        "snippet": "were turned towards the door through which Benedetto was to enter."
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 7,
-      "Danglars": 5,
-      "Madame Danglars": 4,
-      "Busoni": 3,
-      "Come": 3,
-      "La Carconte": 3,
-      "Pont du Gard": 3,
-      "The": 3
-    }
-  },
-  {
-    "canonical_name": "Barrois",
-    "aliases": [],
-    "first_chapter": 58,
-    "total_mentions": 43,
-    "per_chapter": {
       "58": {
-        "mentions": 8,
-        "snippet": "speaking to Barrois, a faithful servant, who had been twenty-five years"
+        "mentions": 12,
+        "snippet": "The eye of the invalid still retained that vacancy of expression which"
       },
-      "59": {
-        "mentions": 5,
-        "snippet": "As soon as Barrois had left the room, Noirtier looked at Valentine with"
+      "71": {
+        "mentions": 10,
+        "snippet": "The count looked at Merc\u00e9d\u00e8s as if to interrogate her, but she"
       },
-      "72": {
-        "mentions": 7,
-        "snippet": "women, while old Barrois ran, half-scared, to his master; for nothing"
-      },
-      "73": {
-        "mentions": 4,
-        "snippet": "\u201cMay not Barrois, the old servant, have made a mistake, and have given"
-      },
-      "74": {
-        "mentions": 4,
-        "snippet": "Valentine met Barrois, and looked despairingly at the old servant."
-      },
-      "75": {
-        "mentions": 7,
-        "snippet": "\u201cBarrois?"
-      },
-      "80": {
-        "mentions": 3,
-        "snippet": "The other drank it only by accident, and, although Barrois is dead,"
-      },
-      "94": {
-        "mentions": 5,
-        "snippet": "preceded the death of Barrois."
+      "89": {
+        "mentions": 9,
+        "snippet": "The stranger cast one look around her, to be certain that they were"
       }
     },
     "co_occurs_with": {
-      "Valentine": 8,
-      "Madame de Villefort": 7,
-      "Mademoiselle Valentine": 7,
-      "Madame de Saint": 5,
-      "Noirtier": 5,
-      "Avrigny": 4,
-      "de Villefort": 4,
-      "Albert de Morcerf": 3
+      "Danglars": 3,
+      "Madame de Morcerf": 2,
+      "Monte Cristo": 2,
+      "Valentine": 2,
+      "de Villefort": 2,
+      "Edmond": 2,
+      "Marseilles": 2,
+      "Albert": 1
     }
   },
   {
@@ -3485,6 +3029,64 @@
       "Cardinal Spada": 2,
       "Genoese": 2,
       "La Pianosa": 2
+    }
+  },
+  {
+    "canonical_name": "Bertuccio",
+    "aliases": [],
+    "first_chapter": 35,
+    "total_mentions": 42,
+    "per_chapter": {
+      "35": {
+        "mentions": 2,
+        "snippet": "\u201cMonsieur Bertuccio,\u201d said the count, \u201cyou have procured me windows"
+      },
+      "42": {
+        "mentions": 1,
+        "snippet": "\u201cMonsieur Bertuccio,\u201d said the count, \u201cdid you never tell me that you"
+      },
+      "43": {
+        "mentions": 3,
+        "snippet": "\u201cGo on, Monsieur Bertuccio,\u201d said the count."
+      },
+      "45": {
+        "mentions": 1,
+        "snippet": "And now leave me, Monsieur Bertuccio, to"
+      },
+      "54": {
+        "mentions": 1,
+        "snippet": "\u201cMonsieur Bertuccio, you understand that I intend entertaining company"
+      },
+      "68": {
+        "mentions": 3,
+        "snippet": "Bertuccio, \u201cWhat news?"
+      },
+      "82": {
+        "mentions": 4,
+        "snippet": "had not occurred to Andrea either, by the arrival of Bertuccio from"
+      },
+      "85": {
+        "mentions": 7,
+        "snippet": "as if to dispel his reverie, he rang the bell twice and Bertuccio"
+      },
+      "92": {
+        "mentions": 5,
+        "snippet": "At the Barri\u00e8re du Tr\u00f4ne they met Bertuccio, who was waiting there,"
+      },
+      "107": {
+        "mentions": 15,
+        "snippet": "Bertuccio, who was also gazing with sad astonishment upon the iron"
+      }
+    },
+    "co_occurs_with": {
+      "Monte Cristo": 10,
+      "Count": 5,
+      "Monsieur Bertuccio": 5,
+      "Danglars": 4,
+      "Mademoiselle Danglars": 4,
+      "Albert": 3,
+      "Busoni": 3,
+      "Baptistin": 3
     }
   },
   {
@@ -3563,14 +3165,14 @@
       }
     },
     "co_occurs_with": {
-      "Benedetto": 3,
       "Busoni": 3,
       "Marseilles": 3,
       "Monte Cristo": 3,
       "Pont du Gard": 3,
-      "The": 3,
       "Caderousse": 3,
-      "Assunta": 2
+      "Assunta": 2,
+      "Benedetto": 2,
+      "Gaspard Caderousse": 2
     }
   },
   {
@@ -3618,12 +3220,12 @@
     },
     "co_occurs_with": {
       "Monte Cristo": 8,
-      "Monsieur Bertuccio": 4,
       "Certainly": 3,
       "Rome": 3,
       "Sinbad the Sailor": 3,
       "Count": 3,
       "Busoni": 3,
+      "Monsieur Bertuccio": 3,
       "Bartolomeo Cavalcanti": 3
     }
   },
@@ -3702,9 +3304,55 @@
       "Albert de Morcerf": 5,
       "Franz": 5,
       "Luigi Vampa": 4,
-      "Peppino": 4,
       "Carnival": 3,
+      "Peppino": 3,
       "Sinbad the Sailor": 3
+    }
+  },
+  {
+    "canonical_name": "Barrois",
+    "aliases": [],
+    "first_chapter": 58,
+    "total_mentions": 36,
+    "per_chapter": {
+      "58": {
+        "mentions": 8,
+        "snippet": "speaking to Barrois, a faithful servant, who had been twenty-five years"
+      },
+      "59": {
+        "mentions": 5,
+        "snippet": "As soon as Barrois had left the room, Noirtier looked at Valentine with"
+      },
+      "73": {
+        "mentions": 4,
+        "snippet": "\u201cMay not Barrois, the old servant, have made a mistake, and have given"
+      },
+      "74": {
+        "mentions": 4,
+        "snippet": "Valentine met Barrois, and looked despairingly at the old servant."
+      },
+      "75": {
+        "mentions": 7,
+        "snippet": "\u201cBarrois?"
+      },
+      "80": {
+        "mentions": 3,
+        "snippet": "The other drank it only by accident, and, although Barrois is dead,"
+      },
+      "94": {
+        "mentions": 5,
+        "snippet": "preceded the death of Barrois."
+      }
+    },
+    "co_occurs_with": {
+      "Valentine": 7,
+      "Madame de Villefort": 6,
+      "Mademoiselle Valentine": 6,
+      "Madame de Saint": 4,
+      "Avrigny": 3,
+      "Mademoiselle de Villefort": 3,
+      "Valentine de Villefort": 3,
+      "de Quesnel": 3
     }
   },
   {
@@ -3762,9 +3410,9 @@
       "Valentine": 11,
       "Madame de Villefort": 9,
       "Madame de Saint": 7,
-      "Barrois": 7,
       "Monte Cristo": 6,
       "de Villefort": 6,
+      "Barrois": 6,
       "Mademoiselle de Villefort": 5,
       "Avrigny": 5
     }
@@ -3808,7 +3456,7 @@
       "Penelon": 3,
       "Sinbad the Sailor": 3,
       "Rome": 2,
-      "There": 2
+      "Count": 2
     }
   },
   {
@@ -3862,11 +3510,53 @@
       "Danglars": 4,
       "Madame Danglars": 3,
       "Monte Cristo": 3,
-      "Lucien": 2,
       "Not": 2,
       "Spanish": 2,
-      "Because": 2,
-      "Mademoiselle Danglars": 2
+      "Mademoiselle Danglars": 2,
+      "Albert de Morcerf": 1,
+      "Ali Baba": 1
+    }
+  },
+  {
+    "canonical_name": "Benedetto",
+    "aliases": [],
+    "first_chapter": 44,
+    "total_mentions": 34,
+    "per_chapter": {
+      "44": {
+        "mentions": 10,
+        "snippet": "replaced the parents it has lost, have called it Benedetto, and then,"
+      },
+      "64": {
+        "mentions": 1,
+        "snippet": "understand, Master Benedetto?"
+      },
+      "82": {
+        "mentions": 5,
+        "snippet": "\u201cBenedetto."
+      },
+      "104": {
+        "mentions": 3,
+        "snippet": "against the assassin Benedetto."
+      },
+      "109": {
+        "mentions": 5,
+        "snippet": "The Benedetto affair, as it was called at the Palais, and by people in"
+      },
+      "110": {
+        "mentions": 10,
+        "snippet": "were turned towards the door through which Benedetto was to enter."
+      }
+    },
+    "co_occurs_with": {
+      "Monte Cristo": 5,
+      "Danglars": 5,
+      "Madame Danglars": 4,
+      "Madame de Villefort": 3,
+      "Busoni": 2,
+      "La Carconte": 2,
+      "Pont du Gard": 2,
+      "Villefort": 2
     }
   },
   {
@@ -3909,56 +3599,6 @@
       "Luigi Vampa": 2,
       "Sinbad the Sailor": 2,
       "Albert": 2
-    }
-  },
-  {
-    "canonical_name": "Baptistin",
-    "aliases": [],
-    "first_chapter": 46,
-    "total_mentions": 30,
-    "per_chapter": {
-      "46": {
-        "mentions": 2,
-        "snippet": "\u201cMonsieur Baptistin,\u201d said the count, \u201cyou have been in my service one"
-      },
-      "54": {
-        "mentions": 1,
-        "snippet": "Monsieur Baptistin especially; I could never get"
-      },
-      "55": {
-        "mentions": 6,
-        "snippet": "Both the count and Baptistin had told the truth when they announced to"
-      },
-      "78": {
-        "mentions": 4,
-        "snippet": "\u201cDid he take Baptistin with him?"
-      },
-      "82": {
-        "mentions": 7,
-        "snippet": "Baptistin opened the door: he held a letter on a silver waiter."
-      },
-      "89": {
-        "mentions": 3,
-        "snippet": "opened, and Baptistin entered."
-      },
-      "92": {
-        "mentions": 3,
-        "snippet": "\u201d said Baptistin, as if that name sufficed for his"
-      },
-      "94": {
-        "mentions": 4,
-        "snippet": "\u201cCount, will you allow me to send Baptistin to inquire after someone"
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 8,
-      "Count": 5,
-      "Danglars": 4,
-      "Madame de Morcerf": 4,
-      "The": 4,
-      "Ali": 3,
-      "Baron Danglars": 3,
-      "Bertuccio": 3
     }
   },
   {
@@ -4057,10 +3697,10 @@
     "co_occurs_with": {
       "Monte Cristo": 7,
       "Rome": 5,
-      "Peppino": 4,
       "Signor Pastrini": 4,
       "Albert de Morcerf": 3,
       "Franz": 3,
+      "Peppino": 3,
       "Albert": 3,
       "Appian Way": 2
     }
@@ -4102,11 +3742,11 @@
       "Monte Cristo": 6,
       "Rome": 4,
       "Albert": 4,
-      "Franz": 3,
       "Greek": 3,
       "The Count": 3,
       "Carnival": 2,
-      "Civita Vecchia": 2
+      "Civita Vecchia": 2,
+      "Franz": 2
     }
   },
   {
@@ -4156,87 +3796,49 @@
     }
   },
   {
-    "canonical_name": "Cavalcanti",
+    "canonical_name": "Baptistin",
     "aliases": [],
-    "first_chapter": 54,
-    "total_mentions": 28,
-    "per_chapter": {
-      "54": {
-        "mentions": 2,
-        "snippet": "This Major Cavalcanti is an old friend of yours,"
-      },
-      "55": {
-        "mentions": 5,
-        "snippet": "\u2018Major Cavalcanti, a worthy patrician of Lucca, a"
-      },
-      "56": {
-        "mentions": 1,
-        "snippet": "\u201cMonsieur Cavalcanti,\u201d said Andrea, \u201cdo you believe in fairy tales?"
-      },
-      "63": {
-        "mentions": 3,
-        "snippet": "one, and Major Cavalcanti, who is an Italian, will tell you the name of"
-      },
-      "64": {
-        "mentions": 4,
-        "snippet": "Danglars, more and more delighted with Major Cavalcanti, had"
-      },
-      "66": {
-        "mentions": 1,
-        "snippet": "Cavalcanti, who, as stiff and exact as ever, presented himself"
-      },
-      "81": {
-        "mentions": 5,
-        "snippet": "Andrea Cavalcanti, with curled hair, moustaches"
-      },
-      "87": {
-        "mentions": 7,
-        "snippet": "Andrea Cavalcanti."
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 8,
-      "Danglars": 6,
-      "Major Cavalcanti": 5,
-      "Madame Danglars": 4,
-      "There": 4,
-      "Bartolomeo Cavalcanti": 3,
-      "Italy": 3,
-      "Madame de Villefort": 3
-    }
-  },
-  {
-    "canonical_name": "Julie",
-    "aliases": [],
-    "first_chapter": 29,
+    "first_chapter": 46,
     "total_mentions": 27,
     "per_chapter": {
-      "29": {
-        "mentions": 1,
-        "snippet": "Morrel is in his room, is he not, Mademoiselle Julie?"
-      },
-      "50": {
+      "46": {
         "mentions": 2,
-        "snippet": "\u201cI think you hailed me, Mademoiselle Julie?"
+        "snippet": "\u201cMonsieur Baptistin,\u201d said the count, \u201cyou have been in my service one"
       },
-      "105": {
-        "mentions": 10,
-        "snippet": "Julie was at the entrance of the"
+      "54": {
+        "mentions": 1,
+        "snippet": "Monsieur Baptistin especially; I could never get"
       },
-      "112": {
-        "mentions": 14,
-        "snippet": "\u201cIndeed,\u201d said Julie, \u201cmight we not almost fancy, Emmanuel, that those"
+      "55": {
+        "mentions": 6,
+        "snippet": "Both the count and Baptistin had told the truth when they announced to"
+      },
+      "78": {
+        "mentions": 4,
+        "snippet": "\u201cDid he take Baptistin with him?"
+      },
+      "82": {
+        "mentions": 7,
+        "snippet": "Baptistin opened the door: he held a letter on a silver waiter."
+      },
+      "92": {
+        "mentions": 3,
+        "snippet": "\u201d said Baptistin, as if that name sufficed for his"
+      },
+      "94": {
+        "mentions": 4,
+        "snippet": "\u201cCount, will you allow me to send Baptistin to inquire after someone"
       }
     },
     "co_occurs_with": {
-      "Monte Cristo": 3,
-      "Rue Meslay": 3,
-      "Sinbad the Sailor": 3,
-      "Morrel": 3,
-      "Cocles": 2,
-      "Mademoiselle Julie": 2,
-      "Penelon": 2,
-      "Thomson": 2
+      "Monte Cristo": 7,
+      "Count": 4,
+      "Danglars": 4,
+      "Baron Danglars": 3,
+      "Bertuccio": 3,
+      "Madame de Morcerf": 3,
+      "Madame de Villefort": 3,
+      "Maximilian": 3
     }
   },
   {
@@ -4373,8 +3975,8 @@
       "Madame Danglars": 6,
       "Madame de Villefort": 6,
       "Mademoiselle Danglars": 6,
-      "The": 6,
-      "Albert": 5
+      "Albert": 5,
+      "Mademoiselle de Villefort": 5
     }
   },
   {
@@ -4408,52 +4010,6 @@
     }
   },
   {
-    "canonical_name": "Let",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 25,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cLet us wait, by all means."
-      },
-      "14": {
-        "mentions": 6,
-        "snippet": "\u201cLet us visit them,\u201d said the inspector with an air of fatigue."
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "Let us shut"
-      },
-      "33": {
-        "mentions": 4,
-        "snippet": "the \u2018_Let him die_,\u2019 of Corneille, only, when Horace made that answer,"
-      },
-      "46": {
-        "mentions": 3,
-        "snippet": "Then, turning towards Ali, he said, \u201cLet all the horses in my stables"
-      },
-      "81": {
-        "mentions": 3,
-        "snippet": "\u201cLet me see your plan; I dare say it is a pretty one."
-      },
-      "84": {
-        "mentions": 3,
-        "snippet": "\u201cLet all be forgotten as a sorrowful dream,\u201d said Beauchamp; \u201clet it"
-      }
-    },
-    "co_occurs_with": {
-      "Danglars": 5,
-      "Monte Cristo": 4,
-      "With": 3,
-      "Count": 3,
-      "Captain Leclere": 2,
-      "Edmond": 2,
-      "Fernand": 2,
-      "Palais de Justice": 2
-    }
-  },
-  {
     "canonical_name": "Carnival",
     "aliases": [],
     "first_chapter": 33,
@@ -4481,82 +4037,6 @@
       "Colosseum": 2,
       "Italy": 2,
       "Lord Ruthven": 2
-    }
-  },
-  {
-    "canonical_name": "Indeed",
-    "aliases": [],
-    "first_chapter": 34,
-    "total_mentions": 25,
-    "per_chapter": {
-      "34": {
-        "mentions": 3,
-        "snippet": "\u201cIndeed!"
-      },
-      "54": {
-        "mentions": 5,
-        "snippet": "\u201cIndeed, count,\u201d said Morcerf, \u201cI thank you sincerely for having used"
-      },
-      "68": {
-        "mentions": 4,
-        "snippet": "\u201cIndeed?"
-      },
-      "70": {
-        "mentions": 4,
-        "snippet": "\u201cIndeed, that doubtless would have happened if his credentials had not"
-      },
-      "76": {
-        "mentions": 5,
-        "snippet": "\u201cIndeed?"
-      },
-      "104": {
-        "mentions": 4,
-        "snippet": "\u201cIndeed, no,\u201d said Ch\u00e2teau-Renaud."
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 6,
-      "Danglars": 5,
-      "Madame Danglars": 5,
-      "Madame de Morcerf": 4,
-      "Madame de Villefort": 4,
-      "Mademoiselle Danglars": 4,
-      "Franz": 3,
-      "Count": 3
-    }
-  },
-  {
-    "canonical_name": "Lucien",
-    "aliases": [],
-    "first_chapter": 39,
-    "total_mentions": 25,
-    "per_chapter": {
-      "39": {
-        "mentions": 8,
-        "snippet": "Lucien Debray."
-      },
-      "40": {
-        "mentions": 4,
-        "snippet": "\u201cOn my word, I think you are right, Lucien,\u201d said Albert absently."
-      },
-      "65": {
-        "mentions": 8,
-        "snippet": "\u201cYou are deceived, Lucien, I assure you,\u201d replied Madame Danglars; \u201cand"
-      },
-      "106": {
-        "mentions": 5,
-        "snippet": "\u201cOh, Lucien\u2014oh, my friend!"
-      }
-    },
-    "co_occurs_with": {
-      "Danglars": 3,
-      "Debray": 3,
-      "Madame Danglars": 3,
-      "Monte Cristo": 3,
-      "Albert de Morcerf": 2,
-      "Beauchamp": 2,
-      "Don Carlos": 2,
-      "Rue du Helder": 2
     }
   },
   {
@@ -4590,54 +4070,6 @@
     }
   },
   {
-    "canonical_name": "Monsieur Bertuccio",
-    "aliases": [
-      "Monsieur"
-    ],
-    "first_chapter": 14,
-    "total_mentions": 23,
-    "per_chapter": {
-      "14": {
-        "mentions": 5,
-        "snippet": "\u201cMonsieur,\u201d continued Dant\u00e8s, \u201cI know it is not in your power to"
-      },
-      "35": {
-        "mentions": 4,
-        "snippet": "\u201cMonsieur Bertuccio,\u201d said the count, \u201cyou have procured me windows"
-      },
-      "41": {
-        "mentions": 3,
-        "snippet": "Monsieur,\u201d continued the countess, advancing with the"
-      },
-      "42": {
-        "mentions": 2,
-        "snippet": "\u201cMonsieur Bertuccio,\u201d said the count, \u201cdid you never tell me that you"
-      },
-      "43": {
-        "mentions": 5,
-        "snippet": "\u201cGo on, Monsieur Bertuccio,\u201d said the count."
-      },
-      "45": {
-        "mentions": 2,
-        "snippet": "And now leave me, Monsieur Bertuccio, to"
-      },
-      "54": {
-        "mentions": 2,
-        "snippet": "\u201cMonsieur Bertuccio, you understand that I intend entertaining company"
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 6,
-      "Bertuccio": 5,
-      "Count": 4,
-      "Italy": 4,
-      "Albert": 2,
-      "Madame de Morcerf": 2,
-      "Busoni": 2,
-      "Andrea Rondolo": 1
-    }
-  },
-  {
     "canonical_name": "Roman",
     "aliases": [],
     "first_chapter": 18,
@@ -4668,45 +4100,49 @@
     }
   },
   {
-    "canonical_name": "Are",
+    "canonical_name": "Cavalcanti",
     "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 22,
+    "first_chapter": 54,
+    "total_mentions": 23,
     "per_chapter": {
-      "8": {
-        "mentions": 3,
-        "snippet": "\u201cAre you come to fetch me?"
+      "54": {
+        "mentions": 2,
+        "snippet": "This Major Cavalcanti is an old friend of yours,"
       },
-      "14": {
-        "mentions": 3,
-        "snippet": "Are there any others?"
-      },
-      "37": {
-        "mentions": 4,
-        "snippet": "\u201cAre not you the person who brought me a letter,\u201d inquired Franz, \u201cfrom"
-      },
-      "69": {
-        "mentions": 3,
-        "snippet": "\u201cAre you sure of what you assert?"
-      },
-      "81": {
+      "55": {
         "mentions": 5,
-        "snippet": "\u201cAre you not rather young, M."
+        "snippet": "\u2018Major Cavalcanti, a worthy patrician of Lucca, a"
       },
-      "94": {
+      "56": {
+        "mentions": 1,
+        "snippet": "\u201cMonsieur Cavalcanti,\u201d said Andrea, \u201cdo you believe in fairy tales?"
+      },
+      "63": {
+        "mentions": 3,
+        "snippet": "one, and Major Cavalcanti, who is an Italian, will tell you the name of"
+      },
+      "64": {
         "mentions": 4,
-        "snippet": "\u201cAre all your family well?"
+        "snippet": "Danglars, more and more delighted with Major Cavalcanti, had"
+      },
+      "66": {
+        "mentions": 1,
+        "snippet": "Cavalcanti, who, as stiff and exact as ever, presented himself"
+      },
+      "87": {
+        "mentions": 7,
+        "snippet": "Andrea Cavalcanti."
       }
     },
     "co_occurs_with": {
-      "Monte Cristo": 4,
-      "Come": 3,
-      "Count": 3,
-      "Have": 2,
-      "Auteuil": 2,
-      "Danglars": 2,
-      "Madame de Saint": 2,
-      "Middle Ages": 2
+      "Monte Cristo": 7,
+      "Major Cavalcanti": 5,
+      "Danglars": 4,
+      "Madame Danglars": 4,
+      "Bartolomeo Cavalcanti": 3,
+      "Italy": 3,
+      "Madame de Villefort": 3,
+      "Major Bartolomeo Cavalcanti": 3
     }
   },
   {
@@ -4775,10 +4211,10 @@
       "de Villefort": 7,
       "Monte Cristo": 6,
       "Valentine": 6,
-      "Noirtier": 5,
       "Faubourg Saint": 4,
       "Mademoiselle de Villefort": 3,
-      "Master Edward": 3
+      "Master Edward": 3,
+      "Madame de Saint": 3
     }
   },
   {
@@ -4812,49 +4248,11 @@
       "Island": 4,
       "Marseilles": 4,
       "Villefort": 4,
-      "The": 3,
-      "Noirtier": 3,
       "Captain Leclere": 2,
       "Edmond": 2,
-      "Mademoiselle de Saint": 2
-    }
-  },
-  {
-    "canonical_name": "With",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 21,
-    "per_chapter": {
-      "5": {
-        "mentions": 5,
-        "snippet": "With the entrance of M."
-      },
-      "17": {
-        "mentions": 4,
-        "snippet": "\u201cWith what?"
-      },
-      "46": {
-        "mentions": 3,
-        "snippet": "With a slight inclination of the head, Danglars signed to the"
-      },
-      "47": {
-        "mentions": 4,
-        "snippet": "With these reflections he entered his carriage and returned home."
-      },
-      "106": {
-        "mentions": 5,
-        "snippet": "With this consoling"
-      }
-    },
-    "co_occurs_with": {
-      "Danglars": 5,
-      "Let": 3,
-      "Baron Danglars": 3,
-      "Madame Danglars": 3,
-      "Monte Cristo": 3,
-      "Captain Leclere": 2,
-      "Edmond": 2,
-      "Fernand": 2
+      "Mademoiselle de Saint": 2,
+      "Rue Coq": 2,
+      "Rue Saint": 2
     }
   },
   {
@@ -4936,48 +4334,6 @@
     }
   },
   {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 33,
-    "total_mentions": 21,
-    "per_chapter": {
-      "33": {
-        "mentions": 3,
-        "snippet": "\u201cHere it is,\u201d said he."
-      },
-      "44": {
-        "mentions": 3,
-        "snippet": "\u2018Here,\u2019 he said, \u2018I am very"
-      },
-      "77": {
-        "mentions": 4,
-        "snippet": "\u201cHere we are,\u201d said Monte Cristo; \u201cit is only half-past ten o\u2019clock,"
-      },
-      "97": {
-        "mentions": 4,
-        "snippet": "\u201cHere it is."
-      },
-      "115": {
-        "mentions": 4,
-        "snippet": "\u201cHere you can get anything you want; by"
-      },
-      "116": {
-        "mentions": 3,
-        "snippet": "\u201cHere I am, your excellency,\u201d said Peppino, with an eagerness which"
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 5,
-      "Danglars": 4,
-      "One": 3,
-      "Come": 3,
-      "Luigi Vampa": 2,
-      "Rome": 2,
-      "Signor Pastrini": 2,
-      "Peppino": 2
-    }
-  },
-  {
     "canonical_name": "Mademoiselle de Villefort",
     "aliases": [],
     "first_chapter": 52,
@@ -5042,9 +4398,9 @@
       "Valentine": 10,
       "de Villefort": 6,
       "Morrel": 6,
-      "Noirtier": 5,
       "Count": 5,
-      "Danglars": 5
+      "Danglars": 5,
+      "Madame de Morcerf": 5
     }
   },
   {
@@ -5127,6 +4483,50 @@
       "Baptistin": 2,
       "Bartolomeo Cavalcanti": 2,
       "Italy": 2
+    }
+  },
+  {
+    "canonical_name": "Monsieur Bertuccio",
+    "aliases": [
+      "Monsieur"
+    ],
+    "first_chapter": 14,
+    "total_mentions": 20,
+    "per_chapter": {
+      "14": {
+        "mentions": 5,
+        "snippet": "\u201cMonsieur,\u201d continued Dant\u00e8s, \u201cI know it is not in your power to"
+      },
+      "35": {
+        "mentions": 4,
+        "snippet": "\u201cMonsieur Bertuccio,\u201d said the count, \u201cyou have procured me windows"
+      },
+      "42": {
+        "mentions": 2,
+        "snippet": "\u201cMonsieur Bertuccio,\u201d said the count, \u201cdid you never tell me that you"
+      },
+      "43": {
+        "mentions": 5,
+        "snippet": "\u201cGo on, Monsieur Bertuccio,\u201d said the count."
+      },
+      "45": {
+        "mentions": 2,
+        "snippet": "And now leave me, Monsieur Bertuccio, to"
+      },
+      "54": {
+        "mentions": 2,
+        "snippet": "\u201cMonsieur Bertuccio, you understand that I intend entertaining company"
+      }
+    },
+    "co_occurs_with": {
+      "Bertuccio": 5,
+      "Monte Cristo": 5,
+      "Count": 3,
+      "Italy": 3,
+      "Busoni": 2,
+      "Albert": 1,
+      "Andrea Rondolo": 1,
+      "Avenging Angel": 1
     }
   },
   {
@@ -5216,7 +4616,7 @@
       "Ali Baba": 1,
       "Arabian Nights": 1,
       "Balearic Isles": 1,
-      "Because": 1
+      "Bey": 1
     }
   },
   {
@@ -5242,7 +4642,7 @@
       "Monte Cristo": 2,
       "Popolo": 2,
       "Rospoli Palace": 2,
-      "All": 1
+      "Argentina Theatre": 1
     }
   },
   {
@@ -5338,78 +4738,6 @@
     }
   },
   {
-    "canonical_name": "Because",
-    "aliases": [],
-    "first_chapter": 31,
-    "total_mentions": 18,
-    "per_chapter": {
-      "31": {
-        "mentions": 4,
-        "snippet": "\u201cBecause, in the first place, they transfer from the vessel to their"
-      },
-      "65": {
-        "mentions": 3,
-        "snippet": "\u201cBecause I have been in such shocking spirits all the evening, my"
-      },
-      "66": {
-        "mentions": 4,
-        "snippet": "\u201cBecause you met him at my house, just after his introduction into the"
-      },
-      "78": {
-        "mentions": 3,
-        "snippet": "\u201cBecause the person who is now in the gallery prefers being alone, and"
-      },
-      "81": {
-        "mentions": 4,
-        "snippet": "Because I would not annoy my little Benedetto."
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 4,
-      "Danglars": 4,
-      "Mademoiselle Danglars": 3,
-      "Franz": 2,
-      "Ali Pasha": 2,
-      "Andrea": 2,
-      "Cavalcanti": 2,
-      "Don Carlos": 2
-    }
-  },
-  {
-    "canonical_name": "One",
-    "aliases": [],
-    "first_chapter": 33,
-    "total_mentions": 18,
-    "per_chapter": {
-      "33": {
-        "mentions": 7,
-        "snippet": "One day, when he"
-      },
-      "44": {
-        "mentions": 5,
-        "snippet": "\u201cOne day we received a letter."
-      },
-      "69": {
-        "mentions": 3,
-        "snippet": "One of his"
-      },
-      "77": {
-        "mentions": 3,
-        "snippet": "those recorded in the _Thousand and One Nights_ would seem but"
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 4,
-      "Here": 3,
-      "Count": 2,
-      "Busoni": 2,
-      "Villefort": 2,
-      "Certainly": 2,
-      "Danglars": 2,
-      "Albano": 1
-    }
-  },
-  {
     "canonical_name": "Faubourg Saint",
     "aliases": [],
     "first_chapter": 40,
@@ -5480,6 +4808,36 @@
     }
   },
   {
+    "canonical_name": "Julie",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 17,
+    "per_chapter": {
+      "29": {
+        "mentions": 1,
+        "snippet": "Morrel is in his room, is he not, Mademoiselle Julie?"
+      },
+      "50": {
+        "mentions": 2,
+        "snippet": "\u201cI think you hailed me, Mademoiselle Julie?"
+      },
+      "112": {
+        "mentions": 14,
+        "snippet": "\u201cIndeed,\u201d said Julie, \u201cmight we not almost fancy, Emmanuel, that those"
+      }
+    },
+    "co_occurs_with": {
+      "Sinbad the Sailor": 3,
+      "Cocles": 2,
+      "Mademoiselle Julie": 2,
+      "Monte Cristo": 2,
+      "Penelon": 2,
+      "Rue Meslay": 2,
+      "Thomson": 2,
+      "Morrel": 2
+    }
+  },
+  {
     "canonical_name": "Rita",
     "aliases": [],
     "first_chapter": 33,
@@ -5523,50 +4881,42 @@
     "co_occurs_with": {
       "Monte Cristo": 3,
       "Albert": 2,
-      "Come": 2,
       "Count": 2,
       "Duke": 2,
       "Franz": 2,
       "Piazza": 2,
-      "Popolo": 2
+      "Popolo": 2,
+      "Rome": 2
     }
   },
   {
-    "canonical_name": "Have",
+    "canonical_name": "Lucien",
     "aliases": [],
-    "first_chapter": 37,
+    "first_chapter": 39,
     "total_mentions": 17,
     "per_chapter": {
-      "37": {
+      "39": {
+        "mentions": 8,
+        "snippet": "Lucien Debray."
+      },
+      "40": {
         "mentions": 4,
-        "snippet": "\u201cHave you the money he demands?"
+        "snippet": "\u201cOn my word, I think you are right, Lucien,\u201d said Albert absently."
       },
-      "38": {
-        "mentions": 3,
-        "snippet": "\u201cHave you made up your mind when you shall be there yourself?"
-      },
-      "80": {
-        "mentions": 3,
-        "snippet": "\u201cHave mercy on my child, sir,\u201d murmured Villefort."
-      },
-      "94": {
-        "mentions": 3,
-        "snippet": "Have you, then, power"
-      },
-      "108": {
-        "mentions": 4,
-        "snippet": "Have you been working all night?"
+      "106": {
+        "mentions": 5,
+        "snippet": "\u201cOh, Lucien\u2014oh, my friend!"
       }
     },
     "co_occurs_with": {
-      "Monte Cristo": 4,
-      "Madame de Saint": 3,
-      "Madame de Villefort": 3,
-      "Valentine": 3,
+      "Debray": 3,
+      "Monte Cristo": 3,
       "Albert de Morcerf": 2,
-      "Are": 2,
-      "Come": 2,
-      "Viscount Albert": 2
+      "Beauchamp": 2,
+      "Danglars": 2,
+      "Madame Danglars": 2,
+      "Rue du Helder": 2,
+      "de Morcerf": 2
     }
   },
   {
@@ -5627,8 +4977,8 @@
       "Madame Danglars": 6,
       "Mademoiselle Danglars": 6,
       "Albert de Morcerf": 4,
-      "There": 4,
-      "Debray": 4
+      "Faubourg Saint": 4,
+      "Madame de Villefort": 4
     }
   },
   {
@@ -5656,85 +5006,13 @@
     },
     "co_occurs_with": {
       "Danglars": 4,
-      "Andrea": 3,
       "Madame Danglars": 3,
       "Mademoiselle Danglars": 3,
       "Mademoiselle Louise": 2,
       "Monte Cristo": 2,
+      "Andrea": 2,
       "Come": 1,
       "Hem": 1
-    }
-  },
-  {
-    "canonical_name": "Not",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 15,
-    "per_chapter": {
-      "17": {
-        "mentions": 3,
-        "snippet": "\u201cNot if the choice had remained with me, for I had frequently observed"
-      },
-      "61": {
-        "mentions": 3,
-        "snippet": "Not on the same night as he had stated, but the next morning, the Count"
-      },
-      "66": {
-        "mentions": 3,
-        "snippet": "\u201cNot at all; on the contrary, be seated; but what is the matter with"
-      },
-      "81": {
-        "mentions": 3,
-        "snippet": "\u201cNot old Cavalcanti?"
-      },
-      "96": {
-        "mentions": 3,
-        "snippet": "\u201cNot badly, by any means,\u201d said the young man; \u201cI was born for a"
-      }
-    },
-    "co_occurs_with": {
-      "Danglars": 5,
-      "Monte Cristo": 4,
-      "The": 3,
-      "Mademoiselle Danglars": 3,
-      "Come": 2,
-      "Let": 2,
-      "Spanish": 2,
-      "There": 2
-    }
-  },
-  {
-    "canonical_name": "Did",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 15,
-    "per_chapter": {
-      "17": {
-        "mentions": 4,
-        "snippet": "Did"
-      },
-      "53": {
-        "mentions": 4,
-        "snippet": "Did you bet?"
-      },
-      "68": {
-        "mentions": 4,
-        "snippet": "\u201cDid they speak of me?"
-      },
-      "78": {
-        "mentions": 3,
-        "snippet": "\u201cDid he take Baptistin with him?"
-      }
-    },
-    "co_occurs_with": {
-      "Danglars": 4,
-      "Madame de Villefort": 3,
-      "Monte Cristo": 3,
-      "Fernand": 2,
-      "The": 2,
-      "There": 2,
-      "Albert": 2,
-      "Ali Tepelini": 2
     }
   },
   {
@@ -5790,9 +5068,9 @@
     },
     "co_occurs_with": {
       "Monte Cristo": 10,
-      "Danglars": 6,
-      "Beauchamp": 6,
       "Albert": 5,
+      "Danglars": 5,
+      "Beauchamp": 5,
       "Morcerf": 5,
       "Fernand Mondego": 4,
       "Mademoiselle Danglars": 4,
@@ -5865,8 +5143,8 @@
       "Benedetto": 1,
       "Busoni": 1,
       "Cap Corse": 1,
-      "Come": 1,
-      "Corsica": 1
+      "Corsica": 1,
+      "Corsican": 1
     }
   },
   {
@@ -5904,7 +5182,7 @@
       "Mademoiselle Danglars": 3,
       "Yanina": 3,
       "Albert": 2,
-      "Did": 2
+      "Greek": 2
     }
   },
   {
@@ -5938,7 +5216,7 @@
       "Captain Leclere": 2,
       "Vieilles Infirmeries": 2,
       "Fernand": 2,
-      "The": 2
+      "La Malgue": 1
     }
   },
   {
@@ -6016,9 +5294,9 @@
       "Monte Cristo": 7,
       "Albert": 4,
       "Count": 4,
-      "Franz": 3,
       "Beauchamp": 3,
       "Boulevard de Gand": 2,
+      "Franz": 2,
       "Rome": 2,
       "Signor Vampa": 2
     }
@@ -6039,76 +5317,46 @@
       }
     },
     "co_occurs_with": {
-      "Benedetto": 2,
       "Busoni": 2,
       "La Carconte": 2,
       "Monte Cristo": 2,
       "Pont du Gard": 2,
       "An Italian": 1,
       "Beaucaire": 1,
-      "Bellegarde": 1
+      "Bellegarde": 1,
+      "Benedetto": 1
     }
   },
   {
-    "canonical_name": "Really",
-    "aliases": [],
-    "first_chapter": 52,
-    "total_mentions": 14,
-    "per_chapter": {
-      "52": {
-        "mentions": 3,
-        "snippet": "\u201cReally,\u201d said Madame de Villefort, whose eyes sparkled with strange"
-      },
-      "54": {
-        "mentions": 5,
-        "snippet": "\u201cReally,\u201d said Monte Cristo, lowering his voice, \u201cyou do not appear to"
-      },
-      "65": {
-        "mentions": 3,
-        "snippet": "Really, I never saw such an"
-      },
-      "77": {
-        "mentions": 3,
-        "snippet": "\u201cReally, my dear count,\u201d said Morcerf, \u201cwhat I admire in you is, not so"
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 3,
-      "Danglars": 3,
-      "Mademoiselle Danglars": 3,
-      "East": 2,
-      "Italy": 2,
-      "Madame de Villefort": 2,
-      "Mademoiselle de Villefort": 2,
-      "Comte de Morcerf": 2
-    }
-  },
-  {
-    "canonical_name": "Upon",
+    "canonical_name": "Let",
     "aliases": [],
     "first_chapter": 5,
     "total_mentions": 13,
     "per_chapter": {
       "5": {
         "mentions": 3,
-        "snippet": "\u201cUpon my word,\u201d cried the old man, \u201cyou make short work of this kind of"
+        "snippet": "\u201cLet us wait, by all means."
       },
-      "34": {
-        "mentions": 7,
-        "snippet": "\u201cUpon my word,\u201d said Albert, \u201cyou seem to be on excellent terms"
+      "33": {
+        "mentions": 4,
+        "snippet": "the \u2018_Let him die_,\u2019 of Corneille, only, when Horace made that answer,"
       },
-      "38": {
+      "46": {
         "mentions": 3,
-        "snippet": "\u201cUpon my word,\u201d said Albert, \u201cI deserve no credit for what I could not"
+        "snippet": "Then, turning towards Ali, he said, \u201cLet all the horses in my stables"
+      },
+      "81": {
+        "mentions": 3,
+        "snippet": "\u201cLet me see your plan; I dare say it is a pretty one."
       }
     },
     "co_occurs_with": {
-      "Albert de Morcerf": 2,
-      "Franz": 2,
-      "Monte Cristo": 2,
+      "Danglars": 3,
+      "Count": 3,
+      "Monte Cristo": 3,
+      "Baron Danglars": 2,
       "Caderousse": 1,
       "Captain Leclere": 1,
-      "Danglars": 1,
       "Edmond": 1,
       "Fernand": 1
     }
@@ -6230,9 +5478,9 @@
       "Cavalcanti": 3,
       "Italy": 3,
       "Baptistin": 2,
-      "Bertuccio": 2,
       "Danglars": 2,
-      "Madame Danglars": 2
+      "Madame Danglars": 2,
+      "Madame de Villefort": 2
     }
   },
   {
@@ -6262,6 +5510,40 @@
     }
   },
   {
+    "canonical_name": "Not",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 12,
+    "per_chapter": {
+      "17": {
+        "mentions": 3,
+        "snippet": "\u201cNot if the choice had remained with me, for I had frequently observed"
+      },
+      "61": {
+        "mentions": 3,
+        "snippet": "Not on the same night as he had stated, but the next morning, the Count"
+      },
+      "66": {
+        "mentions": 3,
+        "snippet": "\u201cNot at all; on the contrary, be seated; but what is the matter with"
+      },
+      "81": {
+        "mentions": 3,
+        "snippet": "\u201cNot old Cavalcanti?"
+      }
+    },
+    "co_occurs_with": {
+      "Danglars": 4,
+      "Monte Cristo": 3,
+      "Spanish": 2,
+      "Don Carlos": 2,
+      "Andrea": 2,
+      "Mademoiselle Danglars": 2,
+      "Bonapartist Club": 1,
+      "Captain Leclere": 1
+    }
+  },
+  {
     "canonical_name": "Spanish",
     "aliases": [],
     "first_chapter": 17,
@@ -6286,47 +5568,13 @@
     },
     "co_occurs_with": {
       "Danglars": 3,
-      "The": 3,
       "Edmond": 2,
       "Fernand": 2,
       "Not": 2,
       "Don Carlos": 2,
       "Villefort": 2,
-      "Alas": 1
-    }
-  },
-  {
-    "canonical_name": "Alas",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 12,
-    "per_chapter": {
-      "17": {
-        "mentions": 3,
-        "snippet": "\u201cAlas, my boy,\u201d said he, \u201chuman knowledge is confined within very"
-      },
-      "51": {
-        "mentions": 3,
-        "snippet": "\u201cAlas, no, Maximilian, this must not be, for many reasons."
-      },
-      "73": {
-        "mentions": 3,
-        "snippet": "\u201cAlas,\u201d replied he, \u201cit is dreadful thus to hear my condemnation from"
-      },
-      "101": {
-        "mentions": 3,
-        "snippet": "\u201cAlas!"
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 3,
-      "Danglars": 2,
-      "Noirtier": 2,
-      "There": 2,
-      "Dear Valentine": 2,
-      "Maximilian": 2,
-      "de Villefort": 2,
-      "Madame de Saint": 2
+      "Bonapartist Club": 1,
+      "Captain Leclere": 1
     }
   },
   {
@@ -6388,6 +5636,36 @@
     }
   },
   {
+    "canonical_name": "Are",
+    "aliases": [],
+    "first_chapter": 37,
+    "total_mentions": 12,
+    "per_chapter": {
+      "37": {
+        "mentions": 4,
+        "snippet": "\u201cAre not you the person who brought me a letter,\u201d inquired Franz, \u201cfrom"
+      },
+      "69": {
+        "mentions": 3,
+        "snippet": "\u201cAre you sure of what you assert?"
+      },
+      "81": {
+        "mentions": 5,
+        "snippet": "\u201cAre you not rather young, M."
+      }
+    },
+    "co_occurs_with": {
+      "Monte Cristo": 3,
+      "Come": 2,
+      "Auteuil": 2,
+      "Count": 2,
+      "Danglars": 2,
+      "Albert de Morcerf": 1,
+      "Appian Way": 1,
+      "Beppo": 1
+    }
+  },
+  {
     "canonical_name": "Chamber",
     "aliases": [],
     "first_chapter": 40,
@@ -6411,10 +5689,10 @@
       "Monte Cristo": 3,
       "Albert": 2,
       "Baron Danglars": 2,
-      "Debray": 2,
       "Holy Land": 2,
       "Rome": 2,
-      "Sinbad the Sailor": 2
+      "Sinbad the Sailor": 2,
+      "Africa": 1
     }
   },
   {
@@ -6492,36 +5770,6 @@
     }
   },
   {
-    "canonical_name": "From",
-    "aliases": [],
-    "first_chapter": 56,
-    "total_mentions": 12,
-    "per_chapter": {
-      "56": {
-        "mentions": 6,
-        "snippet": "\u201cFrom whom?"
-      },
-      "73": {
-        "mentions": 3,
-        "snippet": "From the day I first saw"
-      },
-      "85": {
-        "mentions": 3,
-        "snippet": "From Pontoise another"
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 3,
-      "There": 2,
-      "Andrea Cavalcanti": 1,
-      "Asia Minor": 1,
-      "Bartolomeo Cavalcanti": 1,
-      "Beauvoisin": 1,
-      "Busoni": 1,
-      "Cavalcanti": 1
-    }
-  },
-  {
     "canonical_name": "Beppo",
     "aliases": [],
     "first_chapter": 34,
@@ -6569,12 +5817,12 @@
     "co_occurs_with": {
       "Monte Cristo": 3,
       "Greek": 2,
-      "Really": 2,
       "Rue Meslay": 1,
       "Baron de Trenck": 1,
       "Cornelius Nepos": 1,
       "Corpus Christi Day": 1,
-      "Doctor Adelmonte": 1
+      "Doctor Adelmonte": 1,
+      "Edward": 1
     }
   },
   {
@@ -6606,69 +5854,9 @@
       "Cavalcanti": 3,
       "Italy": 3,
       "Baptistin": 2,
-      "Bertuccio": 2,
       "Danglars": 2,
-      "Madame Danglars": 2
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 55,
-    "total_mentions": 11,
-    "per_chapter": {
-      "55": {
-        "mentions": 5,
-        "snippet": "\u201cVery sure."
-      },
-      "81": {
-        "mentions": 3,
-        "snippet": "\u201cVery good, father-in-law,\u201d said Cavalcanti, yielding to his low-born"
-      },
-      "114": {
-        "mentions": 3,
-        "snippet": "\u201cVery well, only do not give me false information as you did the other"
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 3,
-      "Baron Danglars": 2,
-      "There": 2,
-      "Cavalcanti": 2,
-      "The": 2,
-      "Albert de Morcerf": 1,
-      "Appian Way": 1,
-      "Cape Morgiou": 1
-    }
-  },
-  {
-    "canonical_name": "Listen",
-    "aliases": [],
-    "first_chapter": 73,
-    "total_mentions": 11,
-    "per_chapter": {
-      "73": {
-        "mentions": 3,
-        "snippet": "\u201cListen,\u201d said Morrel; \u201cit is not the first time you have contemplated"
-      },
-      "80": {
-        "mentions": 5,
-        "snippet": "\u201cListen attentively."
-      },
-      "83": {
-        "mentions": 3,
-        "snippet": "\u201cListen,\u201d said the abb\u00e9, extending his hand over the wounded man, as if"
-      }
-    },
-    "co_occurs_with": {
-      "Avrigny": 2,
-      "Barrois": 2,
-      "Doctor": 2,
-      "Madame de Saint": 2,
-      "Madame de Villefort": 2,
-      "Mademoiselle Valentine": 2,
-      "Monte Cristo": 2,
-      "There": 2
+      "Madame Danglars": 2,
+      "Madame de Villefort": 2
     }
   },
   {
@@ -6707,10 +5895,10 @@
       "Elba": 2,
       "General Quesnel": 2,
       "Jacques": 2,
-      "Noirtier": 2,
       "Rue Coq": 2,
       "King Louis": 2,
-      "Faria": 1
+      "Faria": 1,
+      "Maximilian": 1
     }
   },
   {
@@ -6769,8 +5957,8 @@
       "Edmond": 2,
       "Fernand": 2,
       "La Carconte": 2,
-      "The": 2,
-      "Gaspard Caderousse": 1
+      "Gaspard Caderousse": 1,
+      "Madeleine Radelle": 1
     }
   },
   {
@@ -6822,13 +6010,13 @@
     },
     "co_occurs_with": {
       "Monte Cristo": 10,
-      "Danglars": 5,
-      "Franz": 3,
+      "Danglars": 4,
       "Lord Ruthven": 3,
       "Sinbad the Sailor": 3,
       "Lord Wilmore": 3,
       "Andrea Cavalcanti": 3,
-      "Albert": 3
+      "Albert": 3,
+      "Ali Pasha": 3
     }
   },
   {
@@ -6879,36 +6067,6 @@
       "Morrel": 4,
       "Albert de Morcerf": 3,
       "Franz": 3
-    }
-  },
-  {
-    "canonical_name": "Gentlemen",
-    "aliases": [],
-    "first_chapter": 40,
-    "total_mentions": 10,
-    "per_chapter": {
-      "40": {
-        "mentions": 4,
-        "snippet": "\u201cGentlemen,\u201d said Morcerf, \u201cit is only a quarter past ten, and I expect"
-      },
-      "86": {
-        "mentions": 3,
-        "snippet": "\u2018Gentlemen,\u2019 said"
-      },
-      "110": {
-        "mentions": 3,
-        "snippet": "\u201cGentlemen, I assure you I had no idea of insulting the court, or of"
-      }
-    },
-    "co_occurs_with": {
-      "Albert": 2,
-      "Beauchamp": 2,
-      "Constantinople": 2,
-      "Monte Cristo": 2,
-      "There": 2,
-      "Madame Danglars": 2,
-      "Mr. President": 2,
-      "Africa": 1
     }
   },
   {
@@ -7015,14 +6173,14 @@
       }
     },
     "co_occurs_with": {
-      "Gentlemen": 2,
       "Madame Danglars": 2,
       "Albert": 1,
       "Ali Pasha": 1,
       "Ali Tepelini": 1,
       "Beauchamp": 1,
       "Colonel Fernand": 1,
-      "Comte de Morcerf": 1
+      "Comte de Morcerf": 1,
+      "Constantinople": 1
     }
   },
   {
@@ -7048,33 +6206,29 @@
     }
   },
   {
-    "canonical_name": "All",
+    "canonical_name": "With",
     "aliases": [],
-    "first_chapter": 8,
+    "first_chapter": 5,
     "total_mentions": 9,
     "per_chapter": {
-      "8": {
-        "mentions": 3,
-        "snippet": "\u201cAll the formalities have been gone through; the inquiry is already"
+      "5": {
+        "mentions": 5,
+        "snippet": "With the entrance of M."
       },
-      "36": {
-        "mentions": 3,
-        "snippet": "\u201cAll day?"
-      },
-      "47": {
-        "mentions": 3,
-        "snippet": "\u201cAll"
+      "17": {
+        "mentions": 4,
+        "snippet": "\u201cWith what?"
       }
     },
     "co_occurs_with": {
-      "Count": 2,
-      "Monte Cristo": 2,
-      "Albert": 1,
-      "Argentina Theatre": 1,
-      "Ask the Vicomte de Morcerf": 1,
-      "At the Rospoli Palace": 1,
-      "Bracciano": 1,
-      "Carnival": 1
+      "Captain Leclere": 2,
+      "Danglars": 2,
+      "Edmond": 2,
+      "Fernand": 2,
+      "Palais de Justice": 2,
+      "Caderousse": 1,
+      "Fort Saint Nicholas": 1,
+      "Let": 1
     }
   },
   {
@@ -7108,43 +6262,13 @@
     },
     "co_occurs_with": {
       "Monte Cristo": 4,
-      "Benedetto": 3,
       "Busoni": 3,
       "La Carconte": 3,
-      "There": 3,
       "Assunta": 2,
-      "Come": 2,
-      "Gaspard Caderousse": 2
-    }
-  },
-  {
-    "canonical_name": "Two",
-    "aliases": [],
-    "first_chapter": 29,
-    "total_mentions": 9,
-    "per_chapter": {
-      "29": {
-        "mentions": 3,
-        "snippet": "\u201cTwo hundred and eighty-seven thousand five hundred"
-      },
-      "36": {
-        "mentions": 3,
-        "snippet": "\u201cTwo or three hundred Roman crowns?"
-      },
-      "81": {
-        "mentions": 3,
-        "snippet": "Two months ago"
-      }
-    },
-    "co_occurs_with": {
-      "Come": 3,
-      "Count": 2,
-      "Monte Cristo": 2,
-      "There": 2,
-      "Albert": 1,
-      "All": 1,
-      "Argentina Theatre": 1,
-      "Ask the Vicomte de Morcerf": 1
+      "Benedetto": 2,
+      "Gaspard Caderousse": 2,
+      "Marseilles": 2,
+      "Caderousse": 2
     }
   },
   {
@@ -7188,37 +6312,7 @@
       "Comte de Morcerf": 1,
       "Danglars": 1,
       "Diana": 1,
-      "Did": 1
-    }
-  },
-  {
-    "canonical_name": "Doctor",
-    "aliases": [],
-    "first_chapter": 73,
-    "total_mentions": 9,
-    "per_chapter": {
-      "73": {
-        "mentions": 3,
-        "snippet": "Doctor d\u2019Avrigny."
-      },
-      "79": {
-        "mentions": 3,
-        "snippet": "\u201cDoctor d\u2019Avrigny,\u201d said Barrois, staggering as if he would fall."
-      },
-      "80": {
-        "mentions": 3,
-        "snippet": "\u201cDoctor,\u201d cried Villefort, \u201calas, doctor, how often has man\u2019s justice"
-      }
-    },
-    "co_occurs_with": {
-      "Avrigny": 3,
-      "Madame de Villefort": 3,
-      "Mademoiselle Valentine": 3,
-      "Valentine": 3,
-      "Barrois": 2,
-      "Listen": 2,
-      "Madame de Saint": 2,
-      "Mademoiselle de Villefort": 2
+      "From Lord Ruthven": 1
     }
   },
   {
@@ -7237,44 +6331,14 @@
       }
     },
     "co_occurs_with": {
-      "Benedetto": 2,
       "Bertuccio": 2,
       "Monte Cristo": 2,
       "Ali": 1,
       "An Englishman": 1,
       "Andrea Cavalcanti": 1,
       "Baptistin": 1,
-      "Baron Danglars": 1
-    }
-  },
-  {
-    "canonical_name": "Good",
-    "aliases": [],
-    "first_chapter": 91,
-    "total_mentions": 9,
-    "per_chapter": {
-      "91": {
-        "mentions": 3,
-        "snippet": "\u201cGood-bye, Albert,\u201d said Beauchamp suddenly, carelessly extending his"
-      },
-      "104": {
-        "mentions": 3,
-        "snippet": "\u201cGood heavens, what are you telling me?"
-      },
-      "112": {
-        "mentions": 3,
-        "snippet": "\u201cGood,\u201d said Monte Cristo, smiling; \u201cin these prompt arrangements we"
-      }
-    },
-    "co_occurs_with": {
-      "Monte Cristo": 3,
-      "Beauchamp": 2,
-      "Count": 2,
-      "Renaud": 2,
-      "Albert": 1,
-      "Morcerf": 1,
-      "Rue du Helder": 1,
-      "Avrigny": 1
+      "Baron Danglars": 1,
+      "Benedetto": 1
     }
   },
   {
@@ -7299,8 +6363,8 @@
       "Grenoble": 1,
       "Jacques": 1,
       "Lyons": 1,
-      "Noirtier": 1,
-      "Rue Bussy": 1
+      "Rue Bussy": 1,
+      "Rue Coq": 1
     }
   },
   {
@@ -7317,12 +6381,12 @@
     "co_occurs_with": {
       "Cape Pharo": 1,
       "Edmond": 1,
-      "Fernand": 1,
       "Had Morrel": 1,
       "Hundred Days": 1,
       "Mademoiselle de Saint": 1,
       "Marseilles": 1,
-      "Napoleon": 1
+      "Napoleon": 1,
+      "Villefort": 1
     }
   },
   {
@@ -7422,13 +6486,13 @@
     },
     "co_occurs_with": {
       "Albert de Morcerf": 1,
-      "Ali": 1,
       "Appian Way": 1,
       "Are": 1,
       "Beppo": 1,
       "Campo Vaccino": 1,
       "Come": 1,
-      "Conte Alberto": 1
+      "Conte Alberto": 1,
+      "Corso": 1
     }
   },
   {
@@ -7473,8 +6537,8 @@
       "Faubourg Saint": 3,
       "Maximilian Morrel": 3,
       "Sinbad the Sailor": 3,
-      "Julie": 3,
-      "Mademoiselle de Villefort": 3
+      "Mademoiselle de Villefort": 3,
+      "Baron Franz": 2
     }
   },
   {
@@ -7500,11 +6564,11 @@
       "Edward": 3,
       "Madame de Villefort": 3,
       "Monte Cristo": 3,
-      "Noirtier": 3,
       "Valentine": 3,
       "de Villefort": 3,
       "Faubourg Saint": 2,
-      "Baron de Trenck": 1
+      "Baron de Trenck": 1,
+      "Cornelius Nepos": 1
     }
   },
   {
@@ -7572,6 +6636,32 @@
     }
   },
   {
+    "canonical_name": "Listen",
+    "aliases": [],
+    "first_chapter": 73,
+    "total_mentions": 8,
+    "per_chapter": {
+      "73": {
+        "mentions": 3,
+        "snippet": "\u201cListen,\u201d said Morrel; \u201cit is not the first time you have contemplated"
+      },
+      "80": {
+        "mentions": 5,
+        "snippet": "\u201cListen attentively."
+      }
+    },
+    "co_occurs_with": {
+      "Avrigny": 2,
+      "Barrois": 2,
+      "Madame de Saint": 2,
+      "Madame de Villefort": 2,
+      "Mademoiselle Valentine": 2,
+      "Valentine": 2,
+      "Adieu": 1,
+      "Albert de Morcerf": 1
+    }
+  },
+  {
     "canonical_name": "Prince Cavalcanti",
     "aliases": [],
     "first_chapter": 76,
@@ -7597,8 +6687,8 @@
       "Mademoiselle Danglars": 2,
       "Mademoiselle Louise": 2,
       "Madame de Villefort": 2,
-      "Andrea": 1,
-      "Armilly": 1
+      "Armilly": 1,
+      "Come": 1
     }
   },
   {
@@ -7736,11 +6826,11 @@
       "Monte Cristo": 5,
       "Rue Meslay": 3,
       "Sinbad the Sailor": 3,
-      "There": 3,
       "Albert": 2,
       "Baron Franz": 2,
       "Beauchamp": 2,
-      "Debray": 2
+      "Debray": 2,
+      "Morcerf": 2
     }
   },
   {
@@ -7764,35 +6854,9 @@
       "Ali Baba": 1,
       "Arabian Nights": 1,
       "Balearic Isles": 1,
-      "Because": 1,
       "Bey": 1,
-      "Campo Vaccino": 1
-    }
-  },
-  {
-    "canonical_name": "These",
-    "aliases": [],
-    "first_chapter": 33,
-    "total_mentions": 7,
-    "per_chapter": {
-      "33": {
-        "mentions": 4,
-        "snippet": "\u201cThese are my words exactly."
-      },
-      "41": {
-        "mentions": 3,
-        "snippet": "\u201cThese are,"
-      }
-    },
-    "co_occurs_with": {
-      "Albert": 2,
-      "Count": 2,
-      "Monte Cristo": 2,
-      "Rome": 2,
-      "Sinbad the Sailor": 2,
-      "Albano": 1,
-      "Baron Cervetri": 1,
-      "Boulevard de Gand": 1
+      "Campo Vaccino": 1,
+      "Captain Marryat": 1
     }
   },
   {
@@ -7840,7 +6904,59 @@
       "Monte Cristo": 2,
       "Piazza": 2,
       "Popolo": 2,
-      "All": 1
+      "Argentina Theatre": 1
+    }
+  },
+  {
+    "canonical_name": "Gentlemen",
+    "aliases": [],
+    "first_chapter": 40,
+    "total_mentions": 7,
+    "per_chapter": {
+      "40": {
+        "mentions": 4,
+        "snippet": "\u201cGentlemen,\u201d said Morcerf, \u201cit is only a quarter past ten, and I expect"
+      },
+      "86": {
+        "mentions": 3,
+        "snippet": "\u2018Gentlemen,\u2019 said"
+      }
+    },
+    "co_occurs_with": {
+      "Albert": 2,
+      "Beauchamp": 2,
+      "Constantinople": 2,
+      "Monte Cristo": 2,
+      "Africa": 1,
+      "Arabian": 1,
+      "Arabs": 1,
+      "Baron Danglars": 1
+    }
+  },
+  {
+    "canonical_name": "Did",
+    "aliases": [],
+    "first_chapter": 68,
+    "total_mentions": 7,
+    "per_chapter": {
+      "68": {
+        "mentions": 4,
+        "snippet": "\u201cDid they speak of me?"
+      },
+      "78": {
+        "mentions": 3,
+        "snippet": "\u201cDid he take Baptistin with him?"
+      }
+    },
+    "co_occurs_with": {
+      "Danglars": 2,
+      "Madame de Morcerf": 2,
+      "Madame de Villefort": 2,
+      "Monte Cristo": 2,
+      "Valentine": 2,
+      "Albert": 1,
+      "Bertuccio": 1,
+      "Count Cavalcanti": 1
     }
   },
   {
@@ -7878,63 +6994,11 @@
       "Marseilles": 5,
       "Villefort": 5,
       "Edmond": 4,
-      "The": 3,
       "Elba": 2,
       "Island": 2,
-      "Noirtier": 2,
-      "Bonapartist": 2
-    }
-  },
-  {
-    "canonical_name": "Never",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 6,
-    "per_chapter": {
-      "6": {
-        "mentions": 3,
-        "snippet": "\u201cNever mind, dearest mother,\u201d said a young and lovely girl, with a"
-      },
-      "61": {
-        "mentions": 3,
-        "snippet": "Never had Flora, the fresh and smiling goddess of gardeners, been"
-      }
-    },
-    "co_occurs_with": {
-      "Bourges": 1,
-      "Danglars": 1,
-      "Don Carlos": 1,
-      "Monte Cristo": 1,
-      "Not": 1,
-      "Spanish": 1,
-      "The": 1,
-      "the Romans": 1
-    }
-  },
-  {
-    "canonical_name": "Will",
-    "aliases": [],
-    "first_chapter": 11,
-    "total_mentions": 6,
-    "per_chapter": {
-      "11": {
-        "mentions": 3,
-        "snippet": "\u201cWill you speak?"
-      },
-      "59": {
-        "mentions": 3,
-        "snippet": "Will you tell me what you require, in"
-      }
-    },
-    "co_occurs_with": {
-      "Barrois": 1,
-      "Edward de Villefort": 1,
-      "Madame de Villefort": 1,
-      "Mademoiselle Valentine": 1,
-      "Mademoiselle Valentine de Villefort": 1,
-      "Mademoiselle de Villefort": 1,
-      "The": 1,
-      "There": 1
+      "Bonapartist": 2,
+      "Napoleon": 2,
+      "Captain Leclere": 1
     }
   },
   {
@@ -7954,13 +7018,13 @@
     },
     "co_occurs_with": {
       "Honor": 2,
-      "Alas": 1,
       "Danglars": 1,
       "Dear Valentine": 1,
       "Dearest Valentine": 1,
       "Faubourg Saint": 1,
-      "Madame Danglars": 1,
-      "Mademoiselle Danglars": 1
+      "Mademoiselle Danglars": 1,
+      "Marseilles": 1,
+      "Maximilian": 1
     }
   },
   {
@@ -7980,13 +7044,13 @@
     },
     "co_occurs_with": {
       "Legion": 2,
-      "Alas": 1,
       "Danglars": 1,
       "Dear Valentine": 1,
       "Dearest Valentine": 1,
       "Faubourg Saint": 1,
-      "Madame Danglars": 1,
-      "Mademoiselle Danglars": 1
+      "Mademoiselle Danglars": 1,
+      "Marseilles": 1,
+      "Maximilian": 1
     }
   },
   {
@@ -8058,9 +7122,9 @@
       "Albert": 1,
       "Andrea": 1,
       "At Yanina": 1,
-      "Because": 1,
       "Busoni": 1,
-      "Cavalcanti": 1
+      "Cavalcanti": 1,
+      "Certainly": 1
     }
   },
   {
@@ -8133,14 +7197,14 @@
       }
     },
     "co_occurs_with": {
-      "Come": 2,
       "Corso": 2,
       "Monte Cristo": 2,
       "Rome": 2,
       "San Giacomo": 2,
       "Signor Pastrini": 2,
       "Via Macello": 2,
-      "Albert": 1
+      "Albert": 1,
+      "Argentina Theatre": 1
     }
   },
   {
@@ -8160,13 +7224,13 @@
     },
     "co_occurs_with": {
       "Albert de Morcerf": 1,
-      "Ali": 1,
       "Appian Way": 1,
       "Are": 1,
       "Beppo": 1,
       "Campo Vaccino": 1,
       "Come": 1,
-      "Conte Alberto": 1
+      "Conte Alberto": 1,
+      "Corso": 1
     }
   },
   {
@@ -8250,29 +7314,51 @@
     }
   },
   {
-    "canonical_name": "Help",
+    "canonical_name": "From",
     "aliases": [],
-    "first_chapter": 82,
+    "first_chapter": 56,
     "total_mentions": 6,
     "per_chapter": {
-      "82": {
-        "mentions": 3,
-        "snippet": "back that he let go the ladder, crying, \u201cHelp!"
-      },
-      "83": {
-        "mentions": 3,
-        "snippet": "Caderousse continued to call piteously, \u201cHelp, reverend sir, help!"
+      "56": {
+        "mentions": 6,
+        "snippet": "\u201cFrom whom?"
       }
     },
     "co_occurs_with": {
-      "Ali": 2,
-      "Andrea Cavalcanti": 2,
-      "Busoni": 2,
-      "Caderousse": 2,
-      "Faubourg Saint": 2,
-      "Lord Wilmore": 2,
-      "Monte Cristo": 2,
-      "An Englishman": 1
+      "Andrea Cavalcanti": 1,
+      "Asia Minor": 1,
+      "Bartolomeo Cavalcanti": 1,
+      "Beauvoisin": 1,
+      "Busoni": 1,
+      "Cavalcanti": 1,
+      "Certainly": 1,
+      "Count Andrea": 1
+    }
+  },
+  {
+    "canonical_name": "Doctor",
+    "aliases": [],
+    "first_chapter": 79,
+    "total_mentions": 6,
+    "per_chapter": {
+      "79": {
+        "mentions": 3,
+        "snippet": "\u201cDoctor d\u2019Avrigny,\u201d said Barrois, staggering as if he would fall."
+      },
+      "80": {
+        "mentions": 3,
+        "snippet": "\u201cDoctor,\u201d cried Villefort, \u201calas, doctor, how often has man\u2019s justice"
+      }
+    },
+    "co_occurs_with": {
+      "Avrigny": 2,
+      "Madame de Villefort": 2,
+      "Mademoiselle Valentine": 2,
+      "Valentine": 2,
+      "de Villefort": 2,
+      "Barrois": 1,
+      "Listen": 1,
+      "Madame de Saint": 1
     }
   },
   {
@@ -8289,12 +7375,38 @@
     "co_occurs_with": {
       "Albert": 1,
       "Ali Pasha": 1,
-      "Beauchamp": 1,
       "Bertuccio": 1,
       "Count": 1,
       "Danglars": 1,
-      "From": 1,
-      "Into Normandy": 1
+      "Into Normandy": 1,
+      "Madame Danglars": 1,
+      "Mademoiselle Danglars": 1
+    }
+  },
+  {
+    "canonical_name": "Good",
+    "aliases": [],
+    "first_chapter": 91,
+    "total_mentions": 6,
+    "per_chapter": {
+      "91": {
+        "mentions": 3,
+        "snippet": "\u201cGood-bye, Albert,\u201d said Beauchamp suddenly, carelessly extending his"
+      },
+      "104": {
+        "mentions": 3,
+        "snippet": "\u201cGood heavens, what are you telling me?"
+      }
+    },
+    "co_occurs_with": {
+      "Beauchamp": 2,
+      "Count": 2,
+      "Monte Cristo": 2,
+      "Renaud": 2,
+      "Albert": 1,
+      "Morcerf": 1,
+      "Rue du Helder": 1,
+      "Avrigny": 1
     }
   },
   {
@@ -8325,10 +7437,10 @@
       "Edmond": 3,
       "Danglars": 2,
       "Fernand": 2,
-      "Let": 2,
       "Marseilles": 2,
       "With": 2,
-      "Monsieur Noirtier": 2
+      "Monsieur Noirtier": 2,
+      "Noirtier": 2
     }
   },
   {
@@ -8356,9 +7468,9 @@
       "Edmond": 2,
       "Palais de Justice": 2,
       "Rue Coq": 2,
-      "There": 2,
       "Elba": 1,
-      "Island": 1
+      "Island": 1,
+      "Mademoiselle de Saint": 1
     }
   },
   {
@@ -8385,13 +7497,13 @@
       }
     },
     "co_occurs_with": {
-      "Noirtier": 3,
       "Villefort": 3,
       "Captain Leclere": 2,
       "Edmond": 2,
       "Elba": 2,
       "Marseilles": 2,
       "Monsieur Noirtier": 2,
+      "Noirtier": 2,
       "Palais de Justice": 2
     }
   },
@@ -8413,8 +7525,8 @@
       "Jacques": 1,
       "Lyons": 1,
       "Marseilles": 1,
-      "Noirtier": 1,
-      "Rue Bussy": 1
+      "Rue Bussy": 1,
+      "Rue Coq": 1
     }
   },
   {
@@ -8435,8 +7547,8 @@
       "Grenoble": 1,
       "Jacques": 1,
       "Marseilles": 1,
-      "Noirtier": 1,
-      "Rue Bussy": 1
+      "Rue Bussy": 1,
+      "Rue Coq": 1
     }
   },
   {
@@ -8480,11 +7592,11 @@
       "La Carconte": 2,
       "Marseilles": 2,
       "Pont du Gard": 2,
-      "The": 2,
-      "There": 2,
       "An Italian": 1,
       "Assunta": 1,
-      "Beaucaire": 1
+      "Beaucaire": 1,
+      "Bellegarde": 1,
+      "Benedetto": 1
     }
   },
   {
@@ -8548,13 +7660,13 @@
     },
     "co_occurs_with": {
       "Albert": 1,
-      "All": 1,
       "Argentina Theatre": 1,
       "Ask the Vicomte de Morcerf": 1,
       "At the Rospoli Palace": 1,
       "Bracciano": 1,
       "Carnival": 1,
-      "Civita Vecchia": 1
+      "Civita Vecchia": 1,
+      "Corso": 1
     }
   },
   {
@@ -8617,8 +7729,8 @@
       "Monte Cristo": 2,
       "Nubian": 2,
       "Rome": 2,
-      "There": 2,
-      "Africa": 1
+      "Africa": 1,
+      "Arabian": 1
     }
   },
   {
@@ -8822,35 +7934,12 @@
     },
     "co_occurs_with": {
       "Andrea": 1,
-      "Benedetto": 1,
       "Bertuccio": 1,
       "Champs": 1,
       "La Force": 1,
       "Lions": 1,
       "Madame de Saint": 1,
       "Monte Cristo": 1
-    }
-  },
-  {
-    "canonical_name": "Hallo",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 4,
-    "per_chapter": {
-      "3": {
-        "mentions": 4,
-        "snippet": "\u201cHallo, Catalan!"
-      }
-    },
-    "co_occurs_with": {
-      "Arlesian Venus": 1,
-      "Caderousse": 1,
-      "Cape de Morgiou": 1,
-      "Captain Edmond": 1,
-      "Captain Leclere": 1,
-      "Catalan": 1,
-      "Catalans": 1,
-      "Danglars": 1
     }
   },
   {
@@ -8994,11 +8083,11 @@
       "Ali Baba": 1,
       "Arabian Nights": 1,
       "Balearic Isles": 1,
-      "Because": 1,
       "Campo Vaccino": 1,
       "Captain Marryat": 1,
       "Corsica": 1,
-      "Corsican": 1
+      "Corsican": 1,
+      "Franz": 1
     }
   },
   {
@@ -9094,6 +8183,28 @@
     }
   },
   {
+    "canonical_name": "Have",
+    "aliases": [],
+    "first_chapter": 37,
+    "total_mentions": 4,
+    "per_chapter": {
+      "37": {
+        "mentions": 4,
+        "snippet": "\u201cHave you the money he demands?"
+      }
+    },
+    "co_occurs_with": {
+      "Albert de Morcerf": 1,
+      "Appian Way": 1,
+      "Are": 1,
+      "Beppo": 1,
+      "Campo Vaccino": 1,
+      "Come": 1,
+      "Conte Alberto": 1,
+      "Corso": 1
+    }
+  },
+  {
     "canonical_name": "Baron Franz",
     "aliases": [],
     "first_chapter": 40,
@@ -9116,11 +8227,11 @@
       "Monte Cristo": 3,
       "Maximilian Morrel": 2,
       "Rue Meslay": 2,
-      "There": 2,
       "Madame de Saint": 2,
       "Madame de Villefort": 2,
       "Mademoiselle de Villefort": 2,
-      "Noirtier": 2
+      "Valentine": 2,
+      "Africa": 1
     }
   },
   {
@@ -9142,29 +8253,7 @@
       "Benedetto": 1,
       "Busoni": 1,
       "Cap Corse": 1,
-      "Come": 1
-    }
-  },
-  {
-    "canonical_name": "Joannes",
-    "aliases": [],
-    "first_chapter": 44,
-    "total_mentions": 4,
-    "per_chapter": {
-      "44": {
-        "mentions": 4,
-        "snippet": "Joannes, in the Palais Royal, arcade Pierre, No."
-      }
-    },
-    "co_occurs_with": {
-      "An Italian": 1,
-      "Assunta": 1,
-      "Beaucaire": 1,
-      "Bellegarde": 1,
-      "Benedetto": 1,
-      "Busoni": 1,
-      "Cap Corse": 1,
-      "Come": 1
+      "Corsica": 1
     }
   },
   {
@@ -9186,7 +8275,7 @@
       "Benedetto": 1,
       "Busoni": 1,
       "Cap Corse": 1,
-      "Come": 1
+      "Corsica": 1
     }
   },
   {
@@ -9210,13 +8299,13 @@
     },
     "co_occurs_with": {
       "Monte Cristo": 3,
-      "Alas": 2,
       "Danglars": 2,
-      "Madame Danglars": 2,
       "Mademoiselle Danglars": 2,
       "de Villefort": 2,
       "Albert de Morcerf": 2,
-      "Madame de Villefort": 2
+      "Madame de Villefort": 2,
+      "Dearest Valentine": 1,
+      "Faubourg Saint": 1
     }
   },
   {
@@ -9312,11 +8401,11 @@
       "Barrois": 3,
       "Valentine": 3,
       "Madame de Villefort": 2,
-      "Noirtier": 2,
       "de Villefort": 2,
-      "Franz": 2,
       "Mademoiselle Valentine": 2,
-      "Danglars": 1
+      "Danglars": 1,
+      "Madame Danglars": 1,
+      "The": 1
     }
   },
   {
@@ -9341,8 +8430,8 @@
       "Albert": 1,
       "Ali Pasha": 1,
       "At Yanina": 1,
-      "Because": 1,
-      "Busoni": 1
+      "Busoni": 1,
+      "Cavalcanti": 1
     }
   },
   {
@@ -9368,7 +8457,7 @@
       "Monte Cristo": 2,
       "Yanina": 2,
       "Baptistin": 1,
-      "Because": 1
+      "Chinese Baths": 1
     }
   },
   {
@@ -9386,11 +8475,11 @@
       "Ali Pasha": 1,
       "Ali Tepelini": 1,
       "Baptistin": 1,
-      "Because": 1,
       "Chinese Baths": 1,
       "Colonel Fernand": 1,
       "Comte de Morcerf": 1,
-      "Count": 1
+      "Count": 1,
+      "Danglars": 1
     }
   },
   {
@@ -9409,10 +8498,10 @@
       "Are": 1,
       "Auteuil": 1,
       "Baron Danglars": 1,
-      "Because": 1,
-      "Cavalcanti": 1,
       "Cheval Rouge": 1,
-      "Come": 1
+      "Come": 1,
+      "Count": 1,
+      "Danglars": 1
     }
   },
   {
@@ -9433,14 +8522,14 @@
       }
     },
     "co_occurs_with": {
-      "Are": 1,
       "Avrigny": 1,
       "Baptistin": 1,
       "Barrois": 1,
-      "Come": 1,
-      "Count": 1,
       "Free Tribunals": 1,
-      "Have": 1
+      "Madame de Saint": 1,
+      "Madame de Villefort": 1,
+      "Mademoiselle Valentine": 1,
+      "Maximilian": 1
     }
   },
   {
@@ -9478,7 +8567,6 @@
     },
     "co_occurs_with": {
       "Andrea": 1,
-      "Benedetto": 1,
       "Bertuccio": 1,
       "Champs": 1,
       "Den": 1,
@@ -9614,11 +8702,11 @@
       "Danglars": 3,
       "Fernand": 2,
       "Madame de Villefort": 2,
-      "The": 2,
       "Ali Pasha": 1,
       "Ali Tepelini": 1,
       "Baptistin": 1,
-      "Because": 1
+      "Chinese Baths": 1,
+      "Colonel Fernand": 1
     }
   },
   {
@@ -9688,7 +8776,7 @@
       "Jacques": 1,
       "Lyons": 1,
       "Marseilles": 1,
-      "Noirtier": 1
+      "Rue Bussy": 1
     }
   },
   {
@@ -9733,14 +8821,14 @@
       }
     },
     "co_occurs_with": {
-      "Noirtier": 2,
-      "Alas": 1,
       "Captain Leclere": 1,
-      "Come": 1,
       "Danglars": 1,
       "De Villefort": 1,
-      "Did": 1,
-      "Edmond": 1
+      "Edmond": 1,
+      "Faria": 1,
+      "Fernand": 1,
+      "Monsieur Noirtier": 1,
+      "Noirtier": 1
     }
   },
   {
@@ -9968,28 +9056,6 @@
     }
   },
   {
-    "canonical_name": "Which",
-    "aliases": [],
-    "first_chapter": 27,
-    "total_mentions": 3,
-    "per_chapter": {
-      "27": {
-        "mentions": 3,
-        "snippet": "\u201cWhich of the two denounced him?"
-      }
-    },
-    "co_occurs_with": {
-      "Ali Pasha": 1,
-      "At La": 1,
-      "Baron Danglars": 1,
-      "Bonapartist": 1,
-      "Caderousse": 1,
-      "Catalans": 1,
-      "Comte de Morcerf": 1,
-      "Edmond": 1
-    }
-  },
-  {
     "canonical_name": "Thanks",
     "aliases": [],
     "first_chapter": 29,
@@ -10028,11 +9094,11 @@
       "Ali Baba": 1,
       "Arabian Nights": 1,
       "Balearic Isles": 1,
-      "Because": 1,
       "Bey": 1,
       "Campo Vaccino": 1,
       "Corsica": 1,
-      "Corsican": 1
+      "Corsican": 1,
+      "Franz": 1
     }
   },
   {
@@ -10052,11 +9118,11 @@
       "Ali Baba": 1,
       "Arabian Nights": 1,
       "Balearic Isles": 1,
-      "Because": 1,
       "Bey": 1,
       "Campo Vaccino": 1,
       "Captain Marryat": 1,
-      "Corsica": 1
+      "Corsica": 1,
+      "Corsican": 1
     }
   },
   {
@@ -10074,11 +9140,11 @@
       "Ali Baba": 1,
       "Arabian Nights": 1,
       "Balearic Isles": 1,
-      "Because": 1,
       "Bey": 1,
       "Campo Vaccino": 1,
       "Captain Marryat": 1,
-      "Corsica": 1
+      "Corsica": 1,
+      "Corsican": 1
     }
   },
   {
@@ -10122,11 +9188,11 @@
       "Ali Baba": 1,
       "Arabian Nights": 1,
       "Balearic Isles": 1,
-      "Because": 1,
       "Bey": 1,
       "Campo Vaccino": 1,
       "Captain Marryat": 1,
-      "Corsica": 1
+      "Corsica": 1,
+      "Corsican": 1
     }
   },
   {
@@ -10144,11 +9210,11 @@
       "Ali Baba": 1,
       "Arabian Nights": 1,
       "Balearic Isles": 1,
-      "Because": 1,
       "Bey": 1,
       "Campo Vaccino": 1,
       "Captain Marryat": 1,
-      "Corsica": 1
+      "Corsica": 1,
+      "Corsican": 1
     }
   },
   {
@@ -10278,28 +9344,6 @@
     }
   },
   {
-    "canonical_name": "Perhaps",
-    "aliases": [],
-    "first_chapter": 34,
-    "total_mentions": 3,
-    "per_chapter": {
-      "34": {
-        "mentions": 3,
-        "snippet": "Perhaps some of these days"
-      }
-    },
-    "co_occurs_with": {
-      "Albert de Morcerf": 1,
-      "Andrea Rondolo": 1,
-      "Beppo": 1,
-      "Carnival": 1,
-      "Certainly": 1,
-      "Civita Vecchia": 1,
-      "Colosseum": 1,
-      "Coselli": 1
-    }
-  },
-  {
     "canonical_name": "Transteverin",
     "aliases": [],
     "first_chapter": 34,
@@ -10381,14 +9425,14 @@
       }
     },
     "co_occurs_with": {
-      "Come": 2,
       "Corso": 2,
       "Duke": 2,
       "Monte Cristo": 2,
       "Rome": 2,
       "San Giacomo": 2,
       "Signor Pastrini": 2,
-      "Albert": 1
+      "Albert": 1,
+      "Argentina Theatre": 1
     }
   },
   {
@@ -10404,13 +9448,13 @@
     },
     "co_occurs_with": {
       "Albert": 1,
-      "All": 1,
       "Argentina Theatre": 1,
       "Ask the Vicomte de Morcerf": 1,
       "At the Rospoli Palace": 1,
       "Carnival": 1,
       "Civita Vecchia": 1,
-      "Come": 1
+      "Corso": 1,
+      "Count": 1
     }
   },
   {
@@ -10432,11 +9476,11 @@
       "Albert de Morcerf": 2,
       "Luigi Vampa": 2,
       "Monte Cristo": 2,
-      "Peppino": 2,
       "Rome": 2,
       "Signor Pastrini": 2,
       "Baron Danglars": 1,
-      "Cape Morgiou": 1
+      "Cape Morgiou": 1,
+      "Casa Pastrini": 1
     }
   },
   {
@@ -10452,13 +9496,35 @@
     },
     "co_occurs_with": {
       "Albert de Morcerf": 1,
-      "Ali": 1,
       "Appian Way": 1,
       "Are": 1,
       "Beppo": 1,
       "Campo Vaccino": 1,
       "Come": 1,
-      "Conte Alberto": 1
+      "Conte Alberto": 1,
+      "Corso": 1
+    }
+  },
+  {
+    "canonical_name": "Upon",
+    "aliases": [],
+    "first_chapter": 38,
+    "total_mentions": 3,
+    "per_chapter": {
+      "38": {
+        "mentions": 3,
+        "snippet": "\u201cUpon my word,\u201d said Albert, \u201cI deserve no credit for what I could not"
+      }
+    },
+    "co_occurs_with": {
+      "Albert de Morcerf": 1,
+      "Comte de Morcerf": 1,
+      "Count": 1,
+      "For France": 1,
+      "Franz": 1,
+      "Monsieur de Morcerf": 1,
+      "Monte Cristo": 1,
+      "Rue du Helder": 1
     }
   },
   {
@@ -10550,28 +9616,6 @@
     }
   },
   {
-    "canonical_name": "Bravo",
-    "aliases": [],
-    "first_chapter": 40,
-    "total_mentions": 3,
-    "per_chapter": {
-      "40": {
-        "mentions": 3,
-        "snippet": "\u201cBravo,\u201d cried Ch\u00e2teau-Renaud; \u201cyou are the first man I ever met"
-      }
-    },
-    "co_occurs_with": {
-      "Africa": 1,
-      "Albert": 1,
-      "Arabian": 1,
-      "Arabs": 1,
-      "Baron Danglars": 1,
-      "Baron Franz": 1,
-      "Beauchamp": 1,
-      "Bois de Boulogne": 1
-    }
-  },
-  {
     "canonical_name": "Marquis de Saint",
     "aliases": [],
     "first_chapter": 43,
@@ -10638,7 +9682,7 @@
       "Benedetto": 1,
       "Busoni": 1,
       "Cap Corse": 1,
-      "Come": 1
+      "Corsica": 1
     }
   },
   {
@@ -10659,8 +9703,8 @@
       "Benedetto": 1,
       "Busoni": 1,
       "Cap Corse": 1,
-      "Come": 1,
-      "Corsica": 1
+      "Corsica": 1,
+      "Corsican": 1
     }
   },
   {
@@ -10682,29 +9726,7 @@
       "Benedetto": 1,
       "Busoni": 1,
       "Cap Corse": 1,
-      "Come": 1
-    }
-  },
-  {
-    "canonical_name": "After",
-    "aliases": [],
-    "first_chapter": 45,
-    "total_mentions": 3,
-    "per_chapter": {
-      "45": {
-        "mentions": 3,
-        "snippet": "\u201cAfter this he took from his cupboard the bank-notes and gold he had"
-      }
-    },
-    "co_occurs_with": {
-      "Ali": 1,
-      "Assunta": 1,
-      "Benedetto": 1,
-      "Bertuccio": 1,
-      "Busoni": 1,
-      "Caderousse": 1,
-      "Greek": 1,
-      "La Carconte": 1
+      "Corsica": 1
     }
   },
   {
@@ -10779,12 +9801,12 @@
     "co_occurs_with": {
       "Monte Cristo": 3,
       "Madame de Villefort": 2,
-      "Noirtier": 2,
       "Valentine": 2,
-      "Are": 2,
-      "Count": 2,
       "Madame de Saint": 2,
-      "Baron de Trenck": 1
+      "Baron de Trenck": 1,
+      "Cornelius Nepos": 1,
+      "Corpus Christi Day": 1,
+      "Doctor Adelmonte": 1
     }
   },
   {
@@ -10818,6 +9840,28 @@
       "52": {
         "mentions": 3,
         "snippet": "\u201cPrecisely so, madame; this man was myself; for a fortnight I had been"
+      }
+    },
+    "co_occurs_with": {
+      "Baron de Trenck": 1,
+      "Cornelius Nepos": 1,
+      "Corpus Christi Day": 1,
+      "Doctor Adelmonte": 1,
+      "East": 1,
+      "Edward": 1,
+      "Italy": 1,
+      "Jean Jacques Rousseau": 1
+    }
+  },
+  {
+    "canonical_name": "Really",
+    "aliases": [],
+    "first_chapter": 52,
+    "total_mentions": 3,
+    "per_chapter": {
+      "52": {
+        "mentions": 3,
+        "snippet": "\u201cReally,\u201d said Madame de Villefort, whose eyes sparkled with strange"
       }
     },
     "co_occurs_with": {
@@ -10898,51 +9942,7 @@
       "Comte de Morcerf": 1,
       "Countess": 1,
       "Danglars": 1,
-      "Did": 1
-    }
-  },
-  {
-    "canonical_name": "Pray",
-    "aliases": [],
-    "first_chapter": 53,
-    "total_mentions": 3,
-    "per_chapter": {
-      "53": {
-        "mentions": 3,
-        "snippet": "Pray"
-      }
-    },
-    "co_occurs_with": {
-      "Albert": 1,
-      "Ali Tepelini": 1,
-      "Arabian Nights": 1,
-      "Ask Morcerf": 1,
-      "Comte de Morcerf": 1,
-      "Countess": 1,
-      "Danglars": 1,
-      "Diana": 1
-    }
-  },
-  {
-    "canonical_name": "Haitians",
-    "aliases": [],
-    "first_chapter": 54,
-    "total_mentions": 3,
-    "per_chapter": {
-      "54": {
-        "mentions": 3,
-        "snippet": "\u201cBut you were speaking of Haitians?"
-      }
-    },
-    "co_occurs_with": {
-      "Albert de Morcerf": 1,
-      "Baptistin": 1,
-      "Baron Danglars": 1,
-      "Baronne Danglars": 1,
-      "Bartolomeo Cavalcanti": 1,
-      "Bertuccio": 1,
-      "By the Bonapartists": 1,
-      "Cavalcanti": 1
+      "From Lord Ruthven": 1
     }
   },
   {
@@ -11069,36 +10069,14 @@
       }
     },
     "co_occurs_with": {
-      "Franz": 3,
       "Valentine": 3,
+      "Franz": 2,
       "Madame de Villefort": 2,
       "Mademoiselle de Villefort": 2,
       "Monte Cristo": 2,
-      "Noirtier": 2,
-      "At Auteuil": 1,
-      "Baron Franz": 1
-    }
-  },
-  {
-    "canonical_name": "Bayonne",
-    "aliases": [],
-    "first_chapter": 60,
-    "total_mentions": 3,
-    "per_chapter": {
-      "60": {
-        "mentions": 3,
-        "snippet": "Montalivet, transmitted to the prefect of Bayonne, mystified"
-      }
-    },
-    "co_occurs_with": {
       "At Auteuil": 1,
       "Baron Franz": 1,
-      "Edward": 1,
-      "Franz": 1,
-      "General de Quesnel": 1,
-      "Madame Franz": 1,
-      "Madame de Saint": 1,
-      "Madame de Villefort": 1
+      "Edward": 1
     }
   },
   {
@@ -11116,10 +10094,8 @@
       "Danglars": 1,
       "Don Carlos": 1,
       "Monte Cristo": 1,
-      "Never": 1,
       "Not": 1,
       "Spanish": 1,
-      "The": 1,
       "the Romans": 1
     }
   },
@@ -11184,11 +10160,11 @@
       "Albert de Morcerf": 1,
       "Antoinette": 1,
       "Avrigny": 1,
-      "Barrois": 1,
       "Lord Wilmore": 1,
       "Madame Villefort": 1,
       "Madame de Morcerf": 1,
-      "Madame de Saint": 1
+      "Madame de Saint": 1,
+      "Madame de Villefort": 1
     }
   },
   {
@@ -11205,12 +10181,12 @@
     "co_occurs_with": {
       "Albert de Morcerf": 1,
       "Avrigny": 1,
-      "Barrois": 1,
       "Lord Wilmore": 1,
       "Madame Villefort": 1,
       "Madame de Morcerf": 1,
       "Madame de Saint": 1,
-      "Madame de Villefort": 1
+      "Madame de Villefort": 1,
+      "Madeleine": 1
     }
   },
   {
@@ -11228,13 +10204,13 @@
     },
     "co_occurs_with": {
       "Adieu": 1,
-      "Alas": 1,
       "Albert de Morcerf": 1,
       "Avrigny": 1,
       "Baron Franz": 1,
       "Barrois": 1,
       "Can": 1,
-      "Dear Valentine": 1
+      "Dear Valentine": 1,
+      "Dear Villefort": 1
     }
   },
   {
@@ -11249,36 +10225,14 @@
       }
     },
     "co_occurs_with": {
-      "Alas": 1,
       "Albert de Morcerf": 1,
       "Avrigny": 1,
       "Baron Franz": 1,
       "Barrois": 1,
       "Can": 1,
       "Dear Valentine": 1,
-      "Dear Villefort": 1
-    }
-  },
-  {
-    "canonical_name": "Speak",
-    "aliases": [],
-    "first_chapter": 73,
-    "total_mentions": 3,
-    "per_chapter": {
-      "73": {
-        "mentions": 3,
-        "snippet": "\u201cSpeak, speak!"
-      }
-    },
-    "co_occurs_with": {
-      "Adieu": 1,
-      "Alas": 1,
-      "Albert de Morcerf": 1,
-      "Avrigny": 1,
-      "Baron Franz": 1,
-      "Barrois": 1,
-      "Can": 1,
-      "Dear Valentine": 1
+      "Dear Villefort": 1,
+      "Don Juan": 1
     }
   },
   {
@@ -11294,13 +10248,13 @@
     },
     "co_occurs_with": {
       "Adieu": 1,
-      "Alas": 1,
       "Albert de Morcerf": 1,
       "Avrigny": 1,
       "Baron Franz": 1,
       "Barrois": 1,
       "Can": 1,
-      "Dear Valentine": 1
+      "Dear Valentine": 1,
+      "Dear Villefort": 1
     }
   },
   {
@@ -11316,13 +10270,13 @@
     },
     "co_occurs_with": {
       "Adieu": 1,
-      "Alas": 1,
       "Albert de Morcerf": 1,
       "Avrigny": 1,
       "Baron Franz": 1,
       "Barrois": 1,
       "Dear Valentine": 1,
-      "Dear Villefort": 1
+      "Dear Villefort": 1,
+      "Don Juan": 1
     }
   },
   {
@@ -11341,10 +10295,10 @@
       "Bonapartist Club": 1,
       "Claude Lecharpal": 1,
       "Elba": 1,
-      "Franz": 1,
       "General Durand": 1,
       "General Flavien de Quesnel": 1,
-      "General de Quesnel": 1
+      "General de Quesnel": 1,
+      "Island": 1
     }
   },
   {
@@ -11361,14 +10315,14 @@
       }
     },
     "co_occurs_with": {
-      "Andrea": 1,
       "Armilly": 1,
       "Come": 1,
       "Danglars": 1,
       "Hem": 1,
-      "Indeed": 1,
       "King Otho": 1,
-      "Madame Danglars": 1
+      "Madame Danglars": 1,
+      "Mademoiselle Danglars": 1,
+      "Mademoiselle Louise": 1
     }
   },
   {
@@ -11383,14 +10337,14 @@
       }
     },
     "co_occurs_with": {
-      "Andrea": 1,
       "Armilly": 1,
       "Come": 1,
       "Danglars": 1,
-      "Indeed": 1,
       "King Otho": 1,
       "Madame Danglars": 1,
-      "Mademoiselle Danglars": 1
+      "Mademoiselle Danglars": 1,
+      "Mademoiselle Louise": 1,
+      "Marchioness Oliva Corsinari": 1
     }
   },
   {
@@ -11488,28 +10442,6 @@
     }
   },
   {
-    "canonical_name": "Hush",
-    "aliases": [],
-    "first_chapter": 77,
-    "total_mentions": 3,
-    "per_chapter": {
-      "77": {
-        "mentions": 3,
-        "snippet": "\u201cHush,\u201d said the count, \u201cdo not joke in so loud a tone; Hayd\u00e9e may hear"
-      }
-    },
-    "co_occurs_with": {
-      "Ali Pasha": 1,
-      "Ali Tepelini": 1,
-      "Certainly": 1,
-      "Christian Charity": 1,
-      "Comte de Morcerf": 1,
-      "Constantinople": 1,
-      "Count Albert": 1,
-      "Danglars": 1
-    }
-  },
-  {
     "canonical_name": "Romaic",
     "aliases": [],
     "first_chapter": 77,
@@ -11549,28 +10481,6 @@
       "Did Barrois": 1,
       "Doctor": 1,
       "Faubourg Saint": 1,
-      "Look": 1,
-      "Madame de Villefort": 1,
-      "Mademoiselle Valentine": 1,
-      "Mademoiselle de Villefort": 1
-    }
-  },
-  {
-    "canonical_name": "Look",
-    "aliases": [],
-    "first_chapter": 79,
-    "total_mentions": 3,
-    "per_chapter": {
-      "79": {
-        "mentions": 3,
-        "snippet": "\u201cLook, look, doctor,\u201d said Villefort, \u201che is quite coming round again;"
-      }
-    },
-    "co_occurs_with": {
-      "Avrigny": 1,
-      "Did Barrois": 1,
-      "Doctor": 1,
-      "Faubourg Saint": 1,
       "Madame de Villefort": 1,
       "Mademoiselle Valentine": 1,
       "Mademoiselle de Villefort": 1,
@@ -11595,10 +10505,10 @@
       "Are": 1,
       "Auteuil": 1,
       "Baron Danglars": 1,
-      "Because": 1,
-      "Cavalcanti": 1,
       "Cheval Rouge": 1,
-      "Come": 1
+      "Come": 1,
+      "Count": 1,
+      "Danglars": 1
     }
   },
   {
@@ -11624,25 +10534,25 @@
     }
   },
   {
-    "canonical_name": "Doubtless",
+    "canonical_name": "Help",
     "aliases": [],
-    "first_chapter": 92,
+    "first_chapter": 83,
     "total_mentions": 3,
     "per_chapter": {
-      "92": {
+      "83": {
         "mentions": 3,
-        "snippet": "\u201cDoubtless, doubtless,\u201d said Morrel; \u201cbut I shall say, like the"
+        "snippet": "Caderousse continued to call piteously, \u201cHelp, reverend sir, help!"
       }
     },
     "co_occurs_with": {
-      "Avenue de Marigny": 1,
-      "Baptistin": 1,
-      "Bertuccio": 1,
-      "Bois de Vincennes": 1,
-      "Captain Fernand": 1,
-      "Come": 1,
-      "Count": 1,
-      "Emmanuel": 1
+      "Ali": 1,
+      "Andrea Cavalcanti": 1,
+      "Busoni": 1,
+      "Caderousse": 1,
+      "Corsican Benedetto": 1,
+      "Faubourg Saint": 1,
+      "Lord Wilmore": 1,
+      "Monte Cristo": 1
     }
   },
   {
@@ -11756,6 +10666,26 @@
     }
   },
   {
+    "canonical_name": "Alas",
+    "aliases": [],
+    "first_chapter": 101,
+    "total_mentions": 3,
+    "per_chapter": {
+      "101": {
+        "mentions": 3,
+        "snippet": "\u201cAlas!"
+      }
+    },
+    "co_occurs_with": {
+      "Madame de Saint": 1,
+      "Madame de Villefort": 1,
+      "Maximilian": 1,
+      "Monte Cristo": 1,
+      "Valentine": 1,
+      "de Villefort": 1
+    }
+  },
+  {
     "canonical_name": "Dead",
     "aliases": [],
     "first_chapter": 102,
@@ -11786,28 +10716,6 @@
       "104": {
         "mentions": 3,
         "snippet": "\u201cPoor girl,\u201d said Debray, like the rest, paying an involuntary tribute"
-      }
-    },
-    "co_occurs_with": {
-      "Avrigny": 1,
-      "Baron Danglars": 1,
-      "Beauchamp": 1,
-      "Benedetto": 1,
-      "Boville": 1,
-      "Certainly": 1,
-      "Count": 1,
-      "Danglars": 1
-    }
-  },
-  {
-    "canonical_name": "Still",
-    "aliases": [],
-    "first_chapter": 104,
-    "total_mentions": 3,
-    "per_chapter": {
-      "104": {
-        "mentions": 3,
-        "snippet": "\u201cStill,\u201d said Ch\u00e2teau-Renaud, \u201cDr."
       }
     },
     "co_occurs_with": {
@@ -11882,7 +10790,6 @@
       "Albert de Morcerf": 1,
       "Come": 1,
       "Danglars": 1,
-      "Here": 1,
       "Peppino": 1,
       "Rome": 1,
       "Signor Pastrini": 1

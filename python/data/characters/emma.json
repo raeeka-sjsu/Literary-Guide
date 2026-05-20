@@ -1488,36 +1488,6 @@
     }
   },
   {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 33,
-    "per_chapter": {
-      "6": {
-        "mentions": 18,
-        "snippet": "\u2014The year will wear away at this rate, and nothing done."
-      },
-      "11": {
-        "mentions": 9,
-        "snippet": "The intelligence, which had been so anxiously announced to"
-      },
-      "17": {
-        "mentions": 6,
-        "snippet": "\u2014The fate of thousands."
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 3,
-      "Emma": 3,
-      "Knightley": 3,
-      "Mr. Knightley": 3,
-      "Mr. Weston": 3,
-      "Mr. Woodhouse": 3,
-      "Mrs. Weston": 3,
-      "Weston": 3
-    }
-  },
-  {
     "canonical_name": "Colonel Campbell",
     "aliases": [
       "Campbell"
@@ -1685,82 +1655,6 @@
       "Weston": 5,
       "Woodhouse": 5,
       "Elton": 4
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 24,
-    "per_chapter": {
-      "2": {
-        "mentions": 5,
-        "snippet": "\u2014\u201cVery"
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "\u201cVery true, Miss Woodhouse, so she will."
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "\u201cVery true, my love, very true."
-      },
-      "8": {
-        "mentions": 5,
-        "snippet": "\u201cVery."
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "and dulness, \u201cVery well, Mr."
-      },
-      "16": {
-        "mentions": 5,
-        "snippet": "Very pleasant"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 6,
-      "Knightley": 6,
-      "Miss Woodhouse": 6,
-      "Mr. Knightley": 6,
-      "Mr. Woodhouse": 6,
-      "Woodhouse": 6,
-      "Emma": 5,
-      "Mr. Elton": 5
-    }
-  },
-  {
-    "canonical_name": "Isabella",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 23,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "Isabella\u2019s marriage, on their being left to each other, was yet a"
-      },
-      "12": {
-        "mentions": 6,
-        "snippet": "Isabella\u2019s first day."
-      },
-      "15": {
-        "mentions": 6,
-        "snippet": "\u201cThen, my dear Isabella, it is the most"
-      },
-      "17": {
-        "mentions": 7,
-        "snippet": "Isabella\u2019s sons; but she was convinced that a daughter would suit both"
-      }
-    },
-    "co_occurs_with": {
-      "Hartfield": 4,
-      "Knightley": 4,
-      "Mr. Knightley": 4,
-      "Mr. Woodhouse": 4,
-      "Woodhouse": 4,
-      "Elton": 3,
-      "Mr. Elton": 3,
-      "Mr. Weston": 3
     }
   },
   {
@@ -1956,41 +1850,33 @@
     }
   },
   {
-    "canonical_name": "Highbury",
+    "canonical_name": "Isabella",
     "aliases": [],
     "first_chapter": 1,
     "total_mentions": 17,
     "per_chapter": {
       "1": {
-        "mentions": 3,
-        "snippet": "Highbury, the large and populous village, almost amounting to a town,"
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "Highbury, both in person and mind."
-      },
-      "5": {
         "mentions": 4,
-        "snippet": "Highbury, Highbury itself, Hartfield still more, and professed himself"
+        "snippet": "Isabella\u2019s marriage, on their being left to each other, was yet a"
       },
-      "6": {
-        "mentions": 3,
-        "snippet": "Suckling, the Highbury world were obliged to endure the mortification"
+      "12": {
+        "mentions": 6,
+        "snippet": "Isabella\u2019s first day."
       },
-      "8": {
-        "mentions": 4,
-        "snippet": "the lawyer of Highbury."
+      "17": {
+        "mentions": 7,
+        "snippet": "Isabella\u2019s sons; but she was convinced that a daughter would suit both"
       }
     },
     "co_occurs_with": {
-      "Elton": 5,
-      "Miss Woodhouse": 5,
-      "Mr. Woodhouse": 5,
-      "Woodhouse": 5,
-      "Knightley": 4,
-      "Mr. Elton": 4,
-      "Mr. Knightley": 4,
-      "Mr. Weston": 4
+      "Hartfield": 3,
+      "Knightley": 3,
+      "Mr. Knightley": 3,
+      "Mr. Woodhouse": 3,
+      "Woodhouse": 3,
+      "Brunswick Square": 2,
+      "Elton": 2,
+      "Miss Taylor": 2
     }
   },
   {
@@ -2227,6 +2113,40 @@
       "Miss Smith": 3,
       "Miss Woodhouse": 3,
       "Mr. Elton": 3
+    }
+  },
+  {
+    "canonical_name": "Highbury",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 14,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "Highbury, both in person and mind."
+      },
+      "5": {
+        "mentions": 4,
+        "snippet": "Highbury, Highbury itself, Hartfield still more, and professed himself"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "Suckling, the Highbury world were obliged to endure the mortification"
+      },
+      "8": {
+        "mentions": 4,
+        "snippet": "the lawyer of Highbury."
+      }
+    },
+    "co_occurs_with": {
+      "Elton": 4,
+      "Emma": 4,
+      "Jane Fairfax": 4,
+      "Miss Bates": 4,
+      "Miss Fairfax": 4,
+      "Miss Woodhouse": 4,
+      "Mr. Woodhouse": 4,
+      "Woodhouse": 4
     }
   },
   {
@@ -2526,6 +2446,28 @@
     }
   },
   {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 9,
+    "per_chapter": {
+      "11": {
+        "mentions": 9,
+        "snippet": "The intelligence, which had been so anxiously announced to"
+      }
+    },
+    "co_occurs_with": {
+      "About Jane Fairfax": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Frank Churchill": 1,
+      "Good God": 1,
+      "Harriet Smith": 1,
+      "Hartfield": 1,
+      "In Jane": 1
+    }
+  },
+  {
     "canonical_name": "James",
     "aliases": [],
     "first_chapter": 1,
@@ -2543,12 +2485,12 @@
     "co_occurs_with": {
       "Elton": 2,
       "Hartfield": 2,
-      "Isabella": 2,
       "Knightley": 2,
       "Miss Woodhouse": 2,
       "Mr. Elton": 2,
       "Mr. Knightley": 2,
-      "Mr. Weston": 2
+      "Mr. Weston": 2,
+      "Mr. Woodhouse": 2
     }
   },
   {
@@ -2577,32 +2519,6 @@
       "Mr. John Knightley": 2,
       "Mr. Knightley": 2,
       "Mr. Woodhouse": 2
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 8,
-    "per_chapter": {
-      "5": {
-        "mentions": 5,
-        "snippet": "There were the pencilled marks and memorandums on the wainscot"
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "\u2014There, with spirits"
-      }
-    },
-    "co_occurs_with": {
-      "Emma": 2,
-      "Frank Churchill": 2,
-      "Harriet": 2,
-      "Jane Fairfax": 2,
-      "Miss Fairfax": 2,
-      "Mr. Weston": 2,
-      "Mrs. Goddard": 2,
-      "Weston": 2
     }
   },
   {
@@ -2769,58 +2685,6 @@
       "Miss Fairfax": 4,
       "Miss Woodhouse": 4,
       "Mr. Frank Churchill": 4
-    }
-  },
-  {
-    "canonical_name": "Upon",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 7,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "I said to my mother, \u2018Upon my"
-      },
-      "16": {
-        "mentions": 4,
-        "snippet": ") Upon my"
-      }
-    },
-    "co_occurs_with": {
-      "Colonel Campbell": 2,
-      "Elton": 2,
-      "Frank Churchill": 2,
-      "Jane": 2,
-      "Knightley": 2,
-      "Maple Grove": 2,
-      "Miss Bates": 2,
-      "Miss Fairfax": 2
-    }
-  },
-  {
-    "canonical_name": "Such",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 7,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "\u2014Such a transformation!"
-      },
-      "6": {
-        "mentions": 4,
-        "snippet": "Such schemes as these are nothing without"
-      }
-    },
-    "co_occurs_with": {
-      "Elton": 2,
-      "Frank Churchill": 2,
-      "Knightley": 2,
-      "Maple Grove": 2,
-      "Miss Bates": 2,
-      "Miss Fairfax": 2,
-      "Miss Woodhouse": 2,
-      "Mr. Knightley": 2
     }
   },
   {
@@ -3013,12 +2877,12 @@
     "co_occurs_with": {
       "Brunswick Square": 1,
       "Colonel Campbell": 1,
-      "Come": 1,
       "Cromer": 1,
       "Emma": 1,
       "Harriet Smith": 1,
       "Hartfield": 1,
-      "Isabella": 1
+      "Isabella": 1,
+      "Jane Fairfax": 1
     }
   },
   {
@@ -3041,28 +2905,6 @@
       "Elton": 1,
       "Emma": 1,
       "Ford": 1
-    }
-  },
-  {
-    "canonical_name": "These",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 5,
-    "per_chapter": {
-      "6": {
-        "mentions": 5,
-        "snippet": "\u2014These delays and disappointments are quite odious."
-      }
-    },
-    "co_occurs_with": {
-      "Abbey Mill Farm": 1,
-      "Box Hill": 1,
-      "Cole": 1,
-      "Donwell": 1,
-      "Elton": 1,
-      "Emma": 1,
-      "Frank Churchill": 1,
-      "Harriet": 1
     }
   },
   {
@@ -3118,7 +2960,7 @@
       "Mr. Elton": 3,
       "Mr. Knightley": 3,
       "Mr. Woodhouse": 3,
-      "Very": 3
+      "Woodhouse": 3
     }
   },
   {
@@ -3165,28 +3007,6 @@
       "Donwell Abbey": 1,
       "Elton": 1,
       "Emma": 1
-    }
-  },
-  {
-    "canonical_name": "Surry",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 4,
-    "per_chapter": {
-      "14": {
-        "mentions": 4,
-        "snippet": "Surry is full of beauties."
-      }
-    },
-    "co_occurs_with": {
-      "Bath": 1,
-      "Clara Partridge": 1,
-      "Elton": 1,
-      "Emma": 1,
-      "Harriet": 1,
-      "Hartfield": 1,
-      "James Cooper": 1,
-      "Knightley": 1
     }
   },
   {
@@ -3266,28 +3086,6 @@
     }
   },
   {
-    "canonical_name": "Some",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 4,
-    "per_chapter": {
-      "6": {
-        "mentions": 4,
-        "snippet": "\u201cSome very fine morning, he, and Emma, and Harriet, could go"
-      }
-    },
-    "co_occurs_with": {
-      "Abbey Mill Farm": 1,
-      "Box Hill": 1,
-      "Cole": 1,
-      "Donwell": 1,
-      "Elton": 1,
-      "Emma": 1,
-      "Frank Churchill": 1,
-      "Harriet": 1
-    }
-  },
-  {
     "canonical_name": "Swisserland",
     "aliases": [],
     "first_chapter": 6,
@@ -3340,6 +3138,28 @@
     }
   },
   {
+    "canonical_name": "Upon",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 4,
+    "per_chapter": {
+      "16": {
+        "mentions": 4,
+        "snippet": ") Upon my"
+      }
+    },
+    "co_occurs_with": {
+      "Abbey Mill": 1,
+      "Box Hill": 1,
+      "Colonel Campbell": 1,
+      "Crown": 1,
+      "Donwell": 1,
+      "Elton": 1,
+      "Emma": 1,
+      "Frank Churchill": 1
+    }
+  },
+  {
     "canonical_name": "Miss Prince",
     "aliases": [
       "Prince"
@@ -3388,28 +3208,6 @@
     }
   },
   {
-    "canonical_name": "Behold",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 3,
-    "per_chapter": {
-      "9": {
-        "mentions": 3,
-        "snippet": "Behold him there, the monarch of the seas!"
-      }
-    },
-    "co_occurs_with": {
-      "Aye": 1,
-      "Cole": 1,
-      "Dear Miss Woodhouse": 1,
-      "Elegant Extracts": 1,
-      "Elton": 1,
-      "Emma": 1,
-      "Harriet": 1,
-      "Hartfield": 1
-    }
-  },
-  {
     "canonical_name": "Aye",
     "aliases": [],
     "first_chapter": 9,
@@ -3421,14 +3219,14 @@
       }
     },
     "co_occurs_with": {
-      "Behold": 1,
       "Cole": 1,
       "Dear Miss Woodhouse": 1,
       "Elegant Extracts": 1,
       "Elton": 1,
       "Emma": 1,
       "Harriet": 1,
-      "Hartfield": 1
+      "Hartfield": 1,
+      "Henry": 1
     }
   },
   {
@@ -3462,28 +3260,6 @@
     }
   },
   {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 3,
-    "per_chapter": {
-      "12": {
-        "mentions": 3,
-        "snippet": "Come, my dear Emma,"
-      }
-    },
-    "co_occurs_with": {
-      "Brunswick Square": 1,
-      "Colonel Campbell": 1,
-      "Cromer": 1,
-      "Emma": 1,
-      "Harriet Smith": 1,
-      "Hartfield": 1,
-      "Isabella": 1,
-      "Jane Fairfax": 1
-    }
-  },
-  {
     "canonical_name": "Cromer",
     "aliases": [],
     "first_chapter": 12,
@@ -3497,12 +3273,12 @@
     "co_occurs_with": {
       "Brunswick Square": 1,
       "Colonel Campbell": 1,
-      "Come": 1,
       "Emma": 1,
       "Harriet Smith": 1,
       "Hartfield": 1,
       "Isabella": 1,
-      "Jane Fairfax": 1
+      "Jane Fairfax": 1,
+      "John Knightley": 1
     }
   },
   {
@@ -3610,28 +3386,6 @@
     }
   },
   {
-    "canonical_name": "Selina",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 3,
-    "per_chapter": {
-      "14": {
-        "mentions": 3,
-        "snippet": "Many a time has Selina said, when she has been going to"
-      }
-    },
-    "co_occurs_with": {
-      "Bath": 1,
-      "Clara Partridge": 1,
-      "Elton": 1,
-      "Emma": 1,
-      "Harriet": 1,
-      "Hartfield": 1,
-      "James Cooper": 1,
-      "Knightley": 1
-    }
-  },
-  {
     "canonical_name": "Hughes",
     "aliases": [],
     "first_chapter": 2,
@@ -3640,28 +3394,6 @@
       "2": {
         "mentions": 3,
         "snippet": "Hughes I"
-      }
-    },
-    "co_occurs_with": {
-      "Colonel Campbell": 1,
-      "Come Emma": 1,
-      "Come Miss Woodhouse": 1,
-      "Dear Miss Woodhouse": 1,
-      "Dixon": 1,
-      "Dr. Hughes": 1,
-      "Elton": 1,
-      "Frank Churchill": 1
-    }
-  },
-  {
-    "canonical_name": "Never",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 3,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "\u2014Never were such neighbours."
       }
     },
     "co_occurs_with": {
@@ -3739,50 +3471,6 @@
       "Emma": 1,
       "Frank Churchill": 1,
       "Harriet": 1
-    }
-  },
-  {
-    "canonical_name": "Had",
-    "aliases": [],
-    "first_chapter": 11,
-    "total_mentions": 3,
-    "per_chapter": {
-      "11": {
-        "mentions": 3,
-        "snippet": "\u201cHad you any idea,\u201d cried Harriet, \u201cof his being in love with her?"
-      }
-    },
-    "co_occurs_with": {
-      "About Jane Fairfax": 1,
-      "Elton": 1,
-      "Emma": 1,
-      "Frank Churchill": 1,
-      "Good God": 1,
-      "Harriet Smith": 1,
-      "Hartfield": 1,
-      "In Jane": 1
-    }
-  },
-  {
-    "canonical_name": "Was",
-    "aliases": [],
-    "first_chapter": 11,
-    "total_mentions": 3,
-    "per_chapter": {
-      "11": {
-        "mentions": 3,
-        "snippet": "\u2014Was it a new circumstance for a man of first-rate"
-      }
-    },
-    "co_occurs_with": {
-      "About Jane Fairfax": 1,
-      "Elton": 1,
-      "Emma": 1,
-      "Frank Churchill": 1,
-      "Good God": 1,
-      "Had": 1,
-      "Harriet Smith": 1,
-      "Hartfield": 1
     }
   },
   {

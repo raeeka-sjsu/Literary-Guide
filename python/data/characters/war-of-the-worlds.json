@@ -1282,28 +1282,6 @@
     }
   },
   {
-    "canonical_name": "Not",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 3,
-    "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "\u201cNot begun!"
-      }
-    },
-    "co_occurs_with": {
-      "British Museum": 1,
-      "Great God": 1,
-      "Heat": 1,
-      "Leatherhead": 1,
-      "Lord. Very": 1,
-      "Martian": 1,
-      "Martians": 1,
-      "New Malden": 1
-    }
-  },
-  {
     "canonical_name": "Fulham",
     "aliases": [],
     "first_chapter": 8,

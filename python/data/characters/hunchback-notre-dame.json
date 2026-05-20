@@ -13,14 +13,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -56,9 +56,9 @@
       "Pierre Gringoire": 3,
       "Dame": 2,
       "Dom Claude": 2,
-      "Here": 2,
       "Notre": 2,
-      "Place": 2
+      "Place": 2,
+      "Flemings": 2
     }
   },
   {
@@ -84,28 +84,6 @@
     }
   },
   {
-    "canonical_name": "Quasimodo",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 28,
-    "per_chapter": {
-      "4": {
-        "mentions": 28,
-        "snippet": "That night, Quasimodo did not sleep."
-      }
-    },
-    "co_occurs_with": {
-      "Andry the Red": 1,
-      "By the Pope": 1,
-      "Captain Clopin": 1,
-      "Clopin Trouillefou": 1,
-      "Dame": 1,
-      "Dieu": 1,
-      "Dom Claude": 1,
-      "Duke": 1
-    }
-  },
-  {
     "canonical_name": "Sire",
     "aliases": [],
     "first_chapter": 5,
@@ -117,14 +95,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -167,12 +145,12 @@
     "co_occurs_with": {
       "Dame": 2,
       "Dieu": 2,
-      "Here": 2,
       "Pierre Gringoire": 2,
       "Tis": 2,
       "Andry the Red": 1,
       "By the Pope": 1,
-      "Captain Clopin": 1
+      "Captain Clopin": 1,
+      "Clopin Trouillefou": 1
     }
   },
   {
@@ -192,13 +170,13 @@
     },
     "co_occurs_with": {
       "Dieu": 2,
-      "Here": 2,
       "Notre": 2,
       "Pierre Gringoire": 2,
       "Tis": 2,
       "Andry the Red": 1,
       "By the Pope": 1,
-      "Captain Clopin": 1
+      "Captain Clopin": 1,
+      "Clopin Trouillefou": 1
     }
   },
   {
@@ -246,7 +224,7 @@
       "Mother": 2,
       "Rat": 2,
       "Tis": 2,
-      "Alas": 1
+      "City": 1
     }
   },
   {
@@ -287,14 +265,14 @@
       }
     },
     "co_occurs_with": {
-      "Louis": 2,
       "Pont Notre": 2,
-      "Alas": 1,
-      "Come": 1,
       "Dieu": 1,
       "Djali": 1,
       "Egypt": 1,
-      "Esmeralda": 1
+      "Esmeralda": 1,
+      "Give": 1,
+      "Gudule": 1,
+      "Henriet Cousin": 1
     }
   },
   {
@@ -321,10 +299,10 @@
       "Tis": 3,
       "Dame": 2,
       "Egypt": 2,
-      "Here": 2,
       "Notre": 2,
       "Place": 2,
-      "Hermite": 2
+      "Hermite": 2,
+      "Pasque": 2
     }
   },
   {
@@ -350,7 +328,7 @@
       "Rat": 2,
       "Reims": 2,
       "Tis": 2,
-      "Alas": 1
+      "City": 1
     }
   },
   {
@@ -373,10 +351,10 @@
       "Clopin Trouillefou": 2,
       "Duke": 2,
       "Egypt": 2,
-      "Let": 2,
       "Master Pierre Gringoire": 2,
       "Pierre Gringoire": 2,
-      "Are": 1
+      "Argot": 1,
+      "Bellevigne": 1
     }
   },
   {
@@ -409,38 +387,8 @@
       "Clopin Trouillefou": 2,
       "Duke": 2,
       "Holy Virgin": 2,
-      "Let": 2,
-      "Listen": 2
-    }
-  },
-  {
-    "canonical_name": "Louis",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 15,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "the king, Louis XI."
-      },
-      "2": {
-        "mentions": 11,
-        "snippet": "since the time of Louis XI."
-      },
-      "5": {
-        "mentions": 1,
-        "snippet": "Louis de France says his prayers."
-      }
-    },
-    "co_occurs_with": {
-      "Dieu": 2,
-      "Hermite": 2,
-      "Louvre": 2,
-      "Pasque": 2,
-      "Pierre Gringoire": 2,
-      "Porte Saint": 2,
-      "Tis": 2,
-      "City": 2
+      "Master Pierre Gringoire": 2,
+      "Thunes": 2
     }
   },
   {
@@ -460,13 +408,13 @@
     },
     "co_occurs_with": {
       "Tis": 2,
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
-      "Charles the Seventh": 1
+      "Charles the Seventh": 1,
+      "Dame": 1,
+      "Dieu": 1
     }
   },
   {
@@ -487,12 +435,12 @@
     "co_occurs_with": {
       "Louis": 2,
       "Porte Saint": 2,
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
-      "Charles the Bold": 1
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
     }
   },
   {
@@ -515,6 +463,32 @@
       "Catherine de Medicis": 1,
       "Charles": 1,
       "City": 1
+    }
+  },
+  {
+    "canonical_name": "Louis",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 12,
+    "per_chapter": {
+      "2": {
+        "mentions": 11,
+        "snippet": "since the time of Louis XI."
+      },
+      "5": {
+        "mentions": 1,
+        "snippet": "Louis de France says his prayers."
+      }
+    },
+    "co_occurs_with": {
+      "Louvre": 2,
+      "Porte Saint": 2,
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
     }
   },
   {
@@ -562,7 +536,7 @@
       "Mother": 2,
       "Reims": 2,
       "Tis": 2,
-      "Alas": 1
+      "City": 1
     }
   },
   {
@@ -588,7 +562,7 @@
       "Rat": 2,
       "Reims": 2,
       "Tis": 2,
-      "Alas": 1
+      "City": 1
     }
   },
   {
@@ -631,14 +605,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -653,14 +627,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
       "Dame": 1,
-      "Dieu": 1
+      "Dieu": 1,
+      "Father Coppenole": 1,
+      "Flanders": 1
     }
   },
   {
@@ -681,34 +655,12 @@
     "co_occurs_with": {
       "Dieu": 2,
       "Hermite": 2,
-      "Louis": 2,
       "Pierre Gringoire": 2,
       "Tis": 2,
-      "Against": 1,
-      "Are": 1,
-      "Bastille": 1
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 12,
-    "per_chapter": {
-      "1": {
-        "mentions": 12,
-        "snippet": "Come quickly!"
-      }
-    },
-    "co_occurs_with": {
-      "Alas": 1,
-      "City": 1,
-      "Dieu": 1,
-      "Djali": 1,
-      "Egypt": 1,
-      "Esmeralda": 1,
-      "Give": 1,
-      "Gudule": 1
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1
     }
   },
   {
@@ -761,12 +713,12 @@
     "co_occurs_with": {
       "Louis": 2,
       "Louvre": 2,
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
-      "Charles the Bold": 1
+      "Charles the Bold": 1,
+      "Charles the Seventh": 1,
+      "Dame": 1
     }
   },
   {
@@ -782,13 +734,13 @@
     },
     "co_occurs_with": {
       "Andry the Red": 1,
-      "Are": 1,
       "Argot": 1,
       "Bellevigne": 1,
       "Clopin Trouillefou": 1,
       "Colette la Charonne": 1,
       "Cour": 1,
-      "Duke": 1
+      "Duke": 1,
+      "Egypt": 1
     }
   },
   {
@@ -851,14 +803,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -878,13 +830,13 @@
     },
     "co_occurs_with": {
       "Dieu": 2,
-      "Louis": 2,
       "Pasque": 2,
       "Pierre Gringoire": 2,
       "Tis": 2,
-      "Against": 1,
-      "Are": 1,
-      "Bastille": 1
+      "Bastille": 1,
+      "Burgundy": 1,
+      "Chancellor Hugonet": 1,
+      "Charles the Bold": 1
     }
   },
   {
@@ -908,11 +860,11 @@
       "Andry the Red": 2,
       "Duke": 2,
       "Egypt": 2,
-      "Let": 2,
       "Master Pierre Gringoire": 2,
       "Pierre Gringoire": 2,
       "Thunes": 2,
-      "Are": 1
+      "Argot": 1,
+      "Bellevigne": 1
     }
   },
   {
@@ -934,11 +886,11 @@
       "Andry the Red": 2,
       "Clopin Trouillefou": 2,
       "Egypt": 2,
-      "Let": 2,
       "Master Pierre Gringoire": 2,
       "Pierre Gringoire": 2,
       "Thunes": 2,
-      "Are": 1
+      "Argot": 1,
+      "Bellevigne": 1
     }
   },
   {
@@ -1003,92 +955,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
-    }
-  },
-  {
-    "canonical_name": "Listen",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 8,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "\u201cListen!"
-      },
-      "6": {
-        "mentions": 4,
-        "snippet": "Listen."
-      }
-    },
-    "co_occurs_with": {
-      "Egypt": 2,
-      "Holy Virgin": 2,
-      "Pierre Gringoire": 2,
-      "Andry the Red": 1,
-      "Are": 1,
-      "Argot": 1,
-      "Bellevigne": 1,
-      "Clopin Trouillefou": 1
-    }
-  },
-  {
-    "canonical_name": "Are",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 8,
-    "per_chapter": {
-      "5": {
-        "mentions": 5,
-        "snippet": "Are you mad, Olivier?"
-      },
-      "6": {
-        "mentions": 3,
-        "snippet": "Are you anything of that sort?"
-      }
-    },
-    "co_occurs_with": {
-      "Pierre Gringoire": 2,
-      "Andry the Red": 1,
-      "Argot": 1,
-      "Bellevigne": 1,
-      "Clopin Trouillefou": 1,
-      "Colette la Charonne": 1,
-      "Cour": 1,
-      "Duke": 1
-    }
-  },
-  {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 8,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "Here and there black pitchforks formed horns to the"
-      },
-      "5": {
-        "mentions": 5,
-        "snippet": "Here he smiled, in the consciousness of his power; this softened"
-      }
-    },
-    "co_occurs_with": {
-      "Dame": 2,
-      "Dieu": 2,
-      "Notre": 2,
-      "Pierre Gringoire": 2,
-      "Tis": 2,
-      "Andry the Red": 1,
-      "By the Pope": 1,
-      "Captain Clopin": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -1106,36 +980,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
-    }
-  },
-  {
-    "canonical_name": "Alas",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 8,
-    "per_chapter": {
-      "1": {
-        "mentions": 8,
-        "snippet": "Alas!"
-      }
-    },
-    "co_occurs_with": {
-      "City": 1,
-      "Come": 1,
+      "Dame": 1,
       "Dieu": 1,
-      "Djali": 1,
-      "Egypt": 1,
-      "Esmeralda": 1,
-      "Give": 1,
-      "Gudule": 1
+      "Father Coppenole": 1
     }
   },
   {
@@ -1151,13 +1003,13 @@
     },
     "co_occurs_with": {
       "Andry the Red": 1,
-      "Are": 1,
       "Argot": 1,
       "Bellevigne": 1,
       "Clopin Trouillefou": 1,
       "Colette la Charonne": 1,
       "Cour": 1,
-      "Duke": 1
+      "Duke": 1,
+      "Egypt": 1
     }
   },
   {
@@ -1247,35 +1099,9 @@
       "Dieu": 3,
       "Tis": 3,
       "Andry the Red": 2,
-      "Are": 2,
-      "Clopin Trouillefou": 2,
-      "Duke": 2
-    }
-  },
-  {
-    "canonical_name": "Let",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 6,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "Let us return to Notre-Dame."
-      },
-      "6": {
-        "mentions": 3,
-        "snippet": "surrounded him, \u201cLet\u2019s take him to the king!"
-      }
-    },
-    "co_occurs_with": {
-      "Andry the Red": 2,
       "Clopin Trouillefou": 2,
       "Duke": 2,
-      "Egypt": 2,
-      "Master Pierre Gringoire": 2,
-      "Pierre Gringoire": 2,
-      "Thunes": 2,
-      "Are": 1
+      "Master Pierre Gringoire": 2
     }
   },
   {
@@ -1367,7 +1193,7 @@
       "Rat": 2,
       "Reims": 2,
       "Tis": 2,
-      "Alas": 1
+      "City": 1
     }
   },
   {
@@ -1382,14 +1208,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -1404,14 +1230,14 @@
       }
     },
     "co_occurs_with": {
-      "Alas": 1,
       "City": 1,
-      "Come": 1,
       "Dieu": 1,
       "Djali": 1,
       "Egypt": 1,
       "Esmeralda": 1,
-      "Give": 1
+      "Give": 1,
+      "Gudule": 1,
+      "Henriet Cousin": 1
     }
   },
   {
@@ -1436,12 +1262,12 @@
     "co_occurs_with": {
       "Pierre Gringoire": 3,
       "Egypt": 2,
-      "Listen": 2,
       "Djali": 2,
       "Esmeralda": 2,
       "Andry the Red": 1,
-      "Are": 1,
-      "Argot": 1
+      "Argot": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1
     }
   },
   {
@@ -1463,11 +1289,11 @@
       "Clopin Trouillefou": 2,
       "Duke": 2,
       "Egypt": 2,
-      "Let": 2,
       "Master Pierre Gringoire": 2,
       "Pierre Gringoire": 2,
       "Thunes": 2,
-      "Are": 1
+      "Argot": 1,
+      "Bellevigne": 1
     }
   },
   {
@@ -1483,13 +1309,13 @@
     },
     "co_occurs_with": {
       "Andry the Red": 1,
-      "Are": 1,
       "Argot": 1,
       "Bellevigne": 1,
       "Clopin Trouillefou": 1,
       "Colette la Charonne": 1,
       "Duke": 1,
-      "Egypt": 1
+      "Egypt": 1,
+      "Emperor": 1
     }
   },
   {
@@ -1605,6 +1431,28 @@
     }
   },
   {
+    "canonical_name": "Listen",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 4,
+    "per_chapter": {
+      "6": {
+        "mentions": 4,
+        "snippet": "Listen."
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "Argot": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1,
+      "Colette la Charonne": 1,
+      "Cour": 1,
+      "Duke": 1,
+      "Egypt": 1
+    }
+  },
+  {
     "canonical_name": "Argot",
     "aliases": [],
     "first_chapter": 6,
@@ -1617,13 +1465,13 @@
     },
     "co_occurs_with": {
       "Andry the Red": 1,
-      "Are": 1,
       "Bellevigne": 1,
       "Clopin Trouillefou": 1,
       "Colette la Charonne": 1,
       "Cour": 1,
       "Duke": 1,
-      "Egypt": 1
+      "Egypt": 1,
+      "Emperor": 1
     }
   },
   {
@@ -1639,13 +1487,13 @@
     },
     "co_occurs_with": {
       "Andry the Red": 1,
-      "Are": 1,
       "Argot": 1,
       "Bellevigne": 1,
       "Clopin Trouillefou": 1,
       "Colette la Charonne": 1,
       "Cour": 1,
-      "Duke": 1
+      "Duke": 1,
+      "Egypt": 1
     }
   },
   {
@@ -1661,13 +1509,13 @@
     },
     "co_occurs_with": {
       "Andry the Red": 1,
-      "Are": 1,
       "Argot": 1,
       "Clopin Trouillefou": 1,
       "Colette la Charonne": 1,
       "Cour": 1,
       "Duke": 1,
-      "Egypt": 1
+      "Egypt": 1,
+      "Emperor": 1
     }
   },
   {
@@ -1748,36 +1596,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
-    }
-  },
-  {
-    "canonical_name": "These",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 4,
-    "per_chapter": {
-      "5": {
-        "mentions": 4,
-        "snippet": "\u201cThese be dear beasts,\u201d said Louis XI."
-      }
-    },
-    "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
-      "Bastille": 1,
-      "Burgundy": 1,
-      "Chancellor Hugonet": 1,
-      "Charles the Bold": 1,
-      "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -1792,14 +1618,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
       "Dame": 1,
-      "Dieu": 1
+      "Dieu": 1,
+      "Father Coppenole": 1,
+      "Flanders": 1
     }
   },
   {
@@ -1814,14 +1640,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -1836,36 +1662,14 @@
       }
     },
     "co_occurs_with": {
-      "Alas": 1,
       "City": 1,
-      "Come": 1,
       "Dieu": 1,
       "Djali": 1,
       "Egypt": 1,
       "Esmeralda": 1,
-      "Give": 1
-    }
-  },
-  {
-    "canonical_name": "Have",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 4,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "\u2014Have"
-      }
-    },
-    "co_occurs_with": {
-      "Alas": 1,
-      "City": 1,
-      "Come": 1,
-      "Dieu": 1,
-      "Djali": 1,
-      "Egypt": 1,
-      "Esmeralda": 1,
-      "Give": 1
+      "Give": 1,
+      "Gudule": 1,
+      "Henriet Cousin": 1
     }
   },
   {
@@ -1880,14 +1684,14 @@
       }
     },
     "co_occurs_with": {
-      "Alas": 1,
       "City": 1,
-      "Come": 1,
       "Dieu": 1,
       "Djali": 1,
       "Egypt": 1,
       "Esmeralda": 1,
-      "Gudule": 1
+      "Gudule": 1,
+      "Henriet Cousin": 1,
+      "Hermite": 1
     }
   },
   {
@@ -1902,14 +1706,14 @@
       }
     },
     "co_occurs_with": {
-      "Alas": 1,
       "City": 1,
-      "Come": 1,
       "Dieu": 1,
       "Djali": 1,
       "Egypt": 1,
       "Esmeralda": 1,
-      "Give": 1
+      "Give": 1,
+      "Gudule": 1,
+      "Henriet Cousin": 1
     }
   },
   {
@@ -1932,10 +1736,10 @@
       "Clopin Trouillefou": 2,
       "Duke": 2,
       "Egypt": 2,
-      "Let": 2,
       "Pierre Gringoire": 2,
       "Thunes": 2,
-      "Are": 1
+      "Argot": 1,
+      "Bellevigne": 1
     }
   },
   {
@@ -1951,13 +1755,35 @@
     },
     "co_occurs_with": {
       "Andry the Red": 1,
-      "Are": 1,
       "Argot": 1,
       "Bellevigne": 1,
       "Clopin Trouillefou": 1,
       "Colette la Charonne": 1,
       "Cour": 1,
-      "Duke": 1
+      "Duke": 1,
+      "Egypt": 1
+    }
+  },
+  {
+    "canonical_name": "Let",
+    "aliases": [],
+    "first_chapter": 6,
+    "total_mentions": 3,
+    "per_chapter": {
+      "6": {
+        "mentions": 3,
+        "snippet": "surrounded him, \u201cLet\u2019s take him to the king!"
+      }
+    },
+    "co_occurs_with": {
+      "Andry the Red": 1,
+      "Argot": 1,
+      "Bellevigne": 1,
+      "Clopin Trouillefou": 1,
+      "Colette la Charonne": 1,
+      "Cour": 1,
+      "Duke": 1,
+      "Egypt": 1
     }
   },
   {
@@ -1973,13 +1799,13 @@
     },
     "co_occurs_with": {
       "Andry the Red": 1,
-      "Are": 1,
       "Argot": 1,
       "Bellevigne": 1,
       "Clopin Trouillefou": 1,
       "Colette la Charonne": 1,
       "Cour": 1,
-      "Duke": 1
+      "Duke": 1,
+      "Egypt": 1
     }
   },
   {
@@ -1995,13 +1821,13 @@
     },
     "co_occurs_with": {
       "Andry the Red": 1,
-      "Are": 1,
       "Argot": 1,
       "Bellevigne": 1,
       "Clopin Trouillefou": 1,
       "Colette la Charonne": 1,
       "Cour": 1,
-      "Duke": 1
+      "Duke": 1,
+      "Egypt": 1
     }
   },
   {
@@ -2043,13 +1869,13 @@
     },
     "co_occurs_with": {
       "City": 2,
-      "Louis": 2,
-      "Alas": 1,
-      "Come": 1,
       "Dieu": 1,
       "Djali": 1,
       "Egypt": 1,
-      "Esmeralda": 1
+      "Esmeralda": 1,
+      "Give": 1,
+      "Gudule": 1,
+      "Henriet Cousin": 1
     }
   },
   {
@@ -2420,14 +2246,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -2442,14 +2268,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -2466,14 +2292,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -2490,14 +2316,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -2512,14 +2338,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -2534,80 +2360,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
-      "Dame": 1
-    }
-  },
-  {
-    "canonical_name": "Hold",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "Hold, Master Olivier; I desire to see that cage myself."
-      }
-    },
-    "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
-      "Bastille": 1,
-      "Burgundy": 1,
-      "Chancellor Hugonet": 1,
-      "Charles the Bold": 1,
-      "Charles the Seventh": 1,
-      "Dame": 1
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cVery fine heart of oak,\u201d said the king, striking the woodwork"
-      }
-    },
-    "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
-      "Bastille": 1,
-      "Burgundy": 1,
-      "Chancellor Hugonet": 1,
-      "Charles the Bold": 1,
-      "Charles the Seventh": 1,
-      "Dame": 1
-    }
-  },
-  {
-    "canonical_name": "Pardieu",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cPardieu, yes sire!"
-      }
-    },
-    "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
-      "Bastille": 1,
-      "Burgundy": 1,
-      "Chancellor Hugonet": 1,
-      "Charles the Bold": 1,
-      "Charles the Seventh": 1,
-      "Dame": 1
+      "Dame": 1,
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -2622,36 +2382,14 @@
       }
     },
     "co_occurs_with": {
-      "Against": 1,
-      "Are": 1,
-      "Bastille": 1,
-      "Burgundy": 1,
-      "Chancellor Hugonet": 1,
-      "Charles the Bold": 1,
-      "Charles the Seventh": 1,
-      "Dame": 1
-    }
-  },
-  {
-    "canonical_name": "Against",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "Against the duke, also, sometimes."
-      }
-    },
-    "co_occurs_with": {
-      "Are": 1,
       "Bastille": 1,
       "Burgundy": 1,
       "Chancellor Hugonet": 1,
       "Charles the Bold": 1,
       "Charles the Seventh": 1,
       "Dame": 1,
-      "Dieu": 1
+      "Dieu": 1,
+      "Father Coppenole": 1
     }
   },
   {
@@ -2668,36 +2406,14 @@
       }
     },
     "co_occurs_with": {
-      "Alas": 1,
       "City": 1,
-      "Come": 1,
       "Dieu": 1,
       "Djali": 1,
       "Egypt": 1,
       "Esmeralda": 1,
-      "Give": 1
-    }
-  },
-  {
-    "canonical_name": "Help",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "\u201cHelp!"
-      }
-    },
-    "co_occurs_with": {
-      "Alas": 1,
-      "City": 1,
-      "Come": 1,
-      "Dieu": 1,
-      "Djali": 1,
-      "Egypt": 1,
-      "Esmeralda": 1,
-      "Give": 1
+      "Give": 1,
+      "Gudule": 1,
+      "Henriet Cousin": 1
     }
   },
   {
@@ -2712,14 +2428,14 @@
       }
     },
     "co_occurs_with": {
-      "Alas": 1,
       "City": 1,
-      "Come": 1,
       "Dieu": 1,
       "Djali": 1,
       "Egypt": 1,
       "Esmeralda": 1,
-      "Give": 1
+      "Give": 1,
+      "Gudule": 1,
+      "Henriet Cousin": 1
     }
   },
   {
@@ -2734,14 +2450,14 @@
       }
     },
     "co_occurs_with": {
-      "Alas": 1,
       "City": 1,
-      "Come": 1,
       "Dieu": 1,
       "Djali": 1,
       "Egypt": 1,
       "Esmeralda": 1,
-      "Give": 1
+      "Give": 1,
+      "Gudule": 1,
+      "Henriet Cousin": 1
     }
   }
 ]

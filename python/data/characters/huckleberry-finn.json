@@ -3,7 +3,7 @@
     "canonical_name": "Jim",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 285,
+    "total_mentions": 272,
     "per_chapter": {
       "2": {
         "mentions": 16,
@@ -32,10 +32,6 @@
       "18": {
         "mentions": 10,
         "snippet": "there asleep\u2014and, by jings, it was my old Jim!"
-      },
-      "19": {
-        "mentions": 13,
-        "snippet": "Jim said he believed it was spirits; but I says:"
       },
       "20": {
         "mentions": 18,
@@ -102,7 +98,7 @@
       "Uncle Silas": 6,
       "New Orleans": 4,
       "Huck": 4,
-      "The": 3
+      "Tom": 3
     }
   },
   {
@@ -337,14 +333,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 2,
-      "Bob": 2,
       "Tom": 2,
       "Baldy Shepherdson": 1,
       "Bud": 1,
-      "Don": 1,
       "Grangerfords": 1,
-      "Harney Shepherdson": 1
+      "Harney Shepherdson": 1,
+      "Has": 1,
+      "Jack": 1,
+      "Jim": 1
     }
   },
   {
@@ -377,12 +373,12 @@
     "co_occurs_with": {
       "Jim": 3,
       "Aunt Sally": 3,
-      "All": 2,
-      "Bob": 2,
       "Buck": 2,
       "Testament": 2,
       "Uncle Silas": 2,
-      "Baldy Shepherdson": 1
+      "Baldy Shepherdson": 1,
+      "Bud": 1,
+      "Grangerfords": 1
     }
   },
   {
@@ -573,44 +569,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Baldy Shepherdson": 1,
-      "Bob": 1,
       "Buck": 1,
       "Bud": 1,
-      "Don": 1,
       "Grangerfords": 1,
-      "Harney Shepherdson": 1
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 11,
-    "total_mentions": 22,
-    "per_chapter": {
-      "11": {
-        "mentions": 7,
-        "snippet": "\u201cThe nigger run off the very night Huck Finn was killed."
-      },
-      "30": {
-        "mentions": 10,
-        "snippet": "The man that had a-holt of me was very good to me, and kept saying he"
-      },
-      "42": {
-        "mentions": 5,
-        "snippet": "The old man was uptown again before breakfast, but couldn\u2019t get no"
-      }
-    },
-    "co_occurs_with": {
-      "Jim": 3,
-      "Huck Finn": 2,
-      "Judge Thatcher": 2,
-      "Tom Sawyer": 2,
-      "Aunt Polly": 1,
-      "Aunt Sally": 1,
-      "Aunty": 1,
-      "Miss Watson": 1
+      "Harney Shepherdson": 1,
+      "Has": 1,
+      "Jack": 1,
+      "Jim": 1
     }
   },
   {
@@ -641,6 +607,32 @@
       "Tom Sawyer": 2,
       "Aunt Polly": 1,
       "Aunty": 1
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 17,
+    "per_chapter": {
+      "11": {
+        "mentions": 7,
+        "snippet": "\u201cThe nigger run off the very night Huck Finn was killed."
+      },
+      "30": {
+        "mentions": 10,
+        "snippet": "The man that had a-holt of me was very good to me, and kept saying he"
+      }
+    },
+    "co_occurs_with": {
+      "Jim": 2,
+      "Abner Moore": 1,
+      "Elexander Peters": 1,
+      "George Peters": 1,
+      "Goshen": 1,
+      "Huck Finn": 1,
+      "Judge Thatcher": 1,
+      "Judith Loftus": 1
     }
   },
   {
@@ -676,14 +668,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Bang": 1,
       "Ben Thompson": 1,
       "Bill": 1,
       "Birnam Wood": 1,
       "Colonel Sherburn": 1,
       "Drury Lane Theatre": 1,
-      "Edmund Kean": 1
+      "Edmund Kean": 1,
+      "Hamlet": 1
     }
   },
   {
@@ -699,7 +691,6 @@
     },
     "co_occurs_with": {
       "Gilford Dudley": 1,
-      "Here": 1,
       "Jane Grey": 1,
       "Jim": 1,
       "Lady Jane Grey": 1,
@@ -748,8 +739,8 @@
       "Uncle Silas": 3,
       "Aunt Sally": 2,
       "Judge Thatcher": 2,
-      "The": 2,
-      "Ben Rogers": 2
+      "Ben Rogers": 2,
+      "Jo Harper": 2
     }
   },
   {
@@ -853,66 +844,6 @@
     }
   },
   {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 10,
-    "per_chapter": {
-      "17": {
-        "mentions": 3,
-        "snippet": "\u201cAll ready."
-      },
-      "18": {
-        "mentions": 4,
-        "snippet": "\u201cAll right; trot ahead."
-      },
-      "21": {
-        "mentions": 3,
-        "snippet": "All the stores was along one street."
-      }
-    },
-    "co_occurs_with": {
-      "Bob": 2,
-      "Buck": 2,
-      "Tom": 2,
-      "Baldy Shepherdson": 1,
-      "Bud": 1,
-      "Don": 1,
-      "Grangerfords": 1,
-      "Harney Shepherdson": 1
-    }
-  },
-  {
-    "canonical_name": "Don",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 9,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "\u201cDon\u2019t put your feet up there, Huckleberry;\u201d and \u201cDon\u2019t scrunch up like"
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "Don\u2019t you know what a feud is?"
-      },
-      "34": {
-        "mentions": 3,
-        "snippet": "\u201cDon\u2019t you reckon I know what I\u2019m about?"
-      }
-    },
-    "co_occurs_with": {
-      "Tom Sawyer": 2,
-      "Widow Douglas": 2,
-      "Jim": 2,
-      "Aunt Polly": 1,
-      "Huckleberry": 1,
-      "Judge Thatcher": 1,
-      "Mark Twain": 1,
-      "Miss Watson": 1
-    }
-  },
-  {
     "canonical_name": "Illinois",
     "aliases": [],
     "first_chapter": 8,
@@ -963,9 +894,9 @@
       "Jim Turner": 1,
       "Missouri": 1,
       "Tom Sawyer": 1,
-      "All": 1,
       "Bang": 1,
-      "Ben Thompson": 1
+      "Ben Thompson": 1,
+      "Birnam Wood": 1
     }
   },
   {
@@ -992,32 +923,6 @@
       "Indian Ocean": 1,
       "Jim": 1,
       "New Orleans": 1
-    }
-  },
-  {
-    "canonical_name": "Sherburn",
-    "aliases": [],
-    "first_chapter": 21,
-    "total_mentions": 9,
-    "per_chapter": {
-      "21": {
-        "mentions": 3,
-        "snippet": "because he\u2019d come to town to kill old Colonel Sherburn, and his motto"
-      },
-      "22": {
-        "mentions": 6,
-        "snippet": "They swarmed up towards Sherburn\u2019s house, a-whooping and raging like"
-      }
-    },
-    "co_occurs_with": {
-      "All": 1,
-      "Bang": 1,
-      "Ben Thompson": 1,
-      "Bill": 1,
-      "Birnam Wood": 1,
-      "Boggs": 1,
-      "Colonel Sherburn": 1,
-      "Drury Lane Theatre": 1
     }
   },
   {
@@ -1133,9 +1038,9 @@
       "Aunt Polly": 3,
       "Huck Finn": 2,
       "Jim": 2,
-      "The": 2,
       "Don": 1,
-      "Huckleberry": 1
+      "Huckleberry": 1,
+      "Mark Twain": 1
     }
   },
   {
@@ -1158,32 +1063,6 @@
       "Judge Thatcher": 1,
       "Judith Loftus": 1,
       "Mary Williams": 1
-    }
-  },
-  {
-    "canonical_name": "Bob",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 8,
-    "per_chapter": {
-      "17": {
-        "mentions": 3,
-        "snippet": "Bob and Tom, some of you, and fetch the guns."
-      },
-      "18": {
-        "mentions": 5,
-        "snippet": "Then Tom and Bob went to the sideboard"
-      }
-    },
-    "co_occurs_with": {
-      "All": 2,
-      "Buck": 2,
-      "Tom": 2,
-      "Baldy Shepherdson": 1,
-      "Bud": 1,
-      "Don": 1,
-      "Grangerfords": 1,
-      "Harney Shepherdson": 1
     }
   },
   {
@@ -1276,12 +1155,12 @@
     "co_occurs_with": {
       "Jim": 2,
       "Tom": 2,
-      "All": 1,
       "Baldy Shepherdson": 1,
-      "Bob": 1,
       "Buck": 1,
       "Bud": 1,
-      "Don": 1
+      "Grangerfords": 1,
+      "Harney Shepherdson": 1,
+      "Has": 1
     }
   },
   {
@@ -1308,6 +1187,30 @@
       "Indian Ocean": 1,
       "Jim": 1,
       "New Orleans": 1
+    }
+  },
+  {
+    "canonical_name": "Colonel Sherburn",
+    "aliases": [
+      "Sherburn"
+    ],
+    "first_chapter": 21,
+    "total_mentions": 7,
+    "per_chapter": {
+      "21": {
+        "mentions": 7,
+        "snippet": "because he\u2019d come to town to kill old Colonel Sherburn, and his motto"
+      }
+    },
+    "co_occurs_with": {
+      "Bang": 1,
+      "Ben Thompson": 1,
+      "Bill": 1,
+      "Birnam Wood": 1,
+      "Boggs": 1,
+      "Drury Lane Theatre": 1,
+      "Edmund Kean": 1,
+      "Hamlet": 1
     }
   },
   {
@@ -1466,14 +1369,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Baldy Shepherdson": 1,
-      "Bob": 1,
       "Buck": 1,
       "Bud": 1,
-      "Don": 1,
       "Harney Shepherdson": 1,
-      "Has": 1
+      "Has": 1,
+      "Jack": 1,
+      "Jim": 1,
+      "Mars Jawge": 1
     }
   },
   {
@@ -1490,7 +1393,6 @@
     "co_occurs_with": {
       "Bridgewater": 1,
       "Duke": 1,
-      "Jim": 1,
       "Looy the Seventeen": 1,
       "Marry Antonette": 1,
       "Your Grace": 1,
@@ -1586,14 +1488,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Bob": 1,
       "Buck": 1,
       "Dr. Gunn": 1,
       "George Jackson": 1,
       "Henry Clay": 1,
       "Highland Marys": 1,
-      "Mary Ann": 1
+      "Mary Ann": 1,
+      "Shall Never Hear Thy": 1,
+      "Stephen Dowling Bots": 1
     }
   },
   {
@@ -1610,14 +1512,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Baldy Shepherdson": 1,
-      "Bob": 1,
       "Buck": 1,
       "Bud": 1,
-      "Don": 1,
       "Grangerfords": 1,
-      "Harney Shepherdson": 1
+      "Harney Shepherdson": 1,
+      "Has": 1,
+      "Jack": 1,
+      "Jim": 1
     }
   },
   {
@@ -1632,36 +1534,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Baldy Shepherdson": 1,
-      "Bob": 1,
       "Buck": 1,
       "Bud": 1,
-      "Don": 1,
       "Grangerfords": 1,
-      "Harney Shepherdson": 1
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 28,
-    "total_mentions": 5,
-    "per_chapter": {
-      "28": {
-        "mentions": 5,
-        "snippet": "There, now we\u2019re over the worst of it, you"
-      }
-    },
-    "co_occurs_with": {
-      "Apthorps": 1,
-      "Doctor Robinson": 1,
-      "Harvey": 1,
-      "Mary Jane": 1,
-      "Miss Mary": 1,
-      "Miss Mary Jane": 1,
-      "Miss Susan": 1,
-      "Mr. Lothrop": 1
+      "Harney Shepherdson": 1,
+      "Has": 1,
+      "Jim": 1,
+      "Mars Jawge": 1
     }
   },
   {
@@ -1734,14 +1614,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Bob": 1,
       "Buck": 1,
       "Dr. Gunn": 1,
       "Emmeline": 1,
       "Henry Clay": 1,
       "Highland Marys": 1,
-      "Mary Ann": 1
+      "Mary Ann": 1,
+      "Shall Never Hear Thy": 1,
+      "Stephen Dowling Bots": 1
     }
   },
   {
@@ -1756,14 +1636,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Bob": 1,
       "Buck": 1,
       "Dr. Gunn": 1,
       "Emmeline": 1,
       "George Jackson": 1,
       "Henry Clay": 1,
-      "Highland Marys": 1
+      "Highland Marys": 1,
+      "Mary Ann": 1,
+      "Shall Never Hear Thy": 1
     }
   },
   {
@@ -1780,14 +1660,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Bang": 1,
       "Ben Thompson": 1,
       "Bill": 1,
       "Birnam Wood": 1,
       "Boggs": 1,
       "Colonel Sherburn": 1,
-      "Drury Lane Theatre": 1
+      "Drury Lane Theatre": 1,
+      "Edmund Kean": 1
     }
   },
   {
@@ -1804,34 +1684,12 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Bang": 1,
       "Ben Thompson": 1,
       "Bill": 1,
       "Birnam Wood": 1,
       "Boggs": 1,
       "Colonel Sherburn": 1,
-      "Drury Lane Theatre": 1
-    }
-  },
-  {
-    "canonical_name": "Colonel Sherburn",
-    "aliases": [],
-    "first_chapter": 21,
-    "total_mentions": 4,
-    "per_chapter": {
-      "21": {
-        "mentions": 4,
-        "snippet": "because he\u2019d come to town to kill old Colonel Sherburn, and his motto"
-      }
-    },
-    "co_occurs_with": {
-      "All": 1,
-      "Bang": 1,
-      "Ben Thompson": 1,
-      "Bill": 1,
-      "Birnam Wood": 1,
-      "Boggs": 1,
       "Drury Lane Theatre": 1,
       "Edmund Kean": 1
     }
@@ -1848,14 +1706,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Bang": 1,
       "Ben Thompson": 1,
       "Bill": 1,
       "Birnam Wood": 1,
       "Boggs": 1,
       "Colonel Sherburn": 1,
-      "Drury Lane Theatre": 1
+      "Drury Lane Theatre": 1,
+      "Edmund Kean": 1
     }
   },
   {
@@ -1982,30 +1840,10 @@
       "Tom Sawyer": 2,
       "Uncle Silas": 2,
       "Did": 1,
-      "Don": 1,
       "Huck Finn": 1,
       "Mars Silas": 1,
-      "Misto Tom": 1
-    }
-  },
-  {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 38,
-    "total_mentions": 4,
-    "per_chapter": {
-      "38": {
-        "mentions": 4,
-        "snippet": "_Here a captive heart busted."
-      }
-    },
-    "co_occurs_with": {
-      "Gilford Dudley": 1,
-      "Jane Grey": 1,
-      "Jim": 1,
-      "Lady Jane Grey": 1,
-      "Mars Tom": 1,
-      "The Last Link": 1
+      "Misto Tom": 1,
+      "Aunt Sally": 1
     }
   },
   {
@@ -2046,8 +1884,8 @@
       }
     },
     "co_occurs_with": {
-      "Don": 2,
       "Aunt Polly": 1,
+      "Don": 1,
       "Huckleberry": 1,
       "Judge Thatcher": 1,
       "Mark Twain": 1,
@@ -2074,6 +1912,28 @@
       "Judge Thatcher": 1,
       "Mark Twain": 1,
       "Miss Watson": 1,
+      "Mr. Mark Twain": 1,
+      "Tom Sawyer": 1
+    }
+  },
+  {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 3,
+    "per_chapter": {
+      "1": {
+        "mentions": 3,
+        "snippet": "\u201cDon\u2019t put your feet up there, Huckleberry;\u201d and \u201cDon\u2019t scrunch up like"
+      }
+    },
+    "co_occurs_with": {
+      "Aunt Polly": 1,
+      "Huckleberry": 1,
+      "Judge Thatcher": 1,
+      "Mark Twain": 1,
+      "Miss Watson": 1,
+      "Moses": 1,
       "Mr. Mark Twain": 1,
       "Tom Sawyer": 1
     }
@@ -2237,25 +2097,6 @@
     }
   },
   {
-    "canonical_name": "Solomon",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 3,
-    "per_chapter": {
-      "14": {
-        "mentions": 3,
-        "snippet": "Solomon had one; he had about a million wives."
-      }
-    },
-    "co_occurs_with": {
-      "Huck": 1,
-      "Jim": 1,
-      "King Sollermun": 1,
-      "Louis Sixteenth": 1,
-      "Miss Watson": 1
-    }
-  },
-  {
     "canonical_name": "Dah",
     "aliases": [],
     "first_chapter": 16,
@@ -2287,14 +2128,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Baldy Shepherdson": 1,
-      "Bob": 1,
       "Buck": 1,
       "Bud": 1,
-      "Don": 1,
       "Grangerfords": 1,
-      "Harney Shepherdson": 1
+      "Harney Shepherdson": 1,
+      "Has": 1,
+      "Jack": 1,
+      "Jim": 1
     }
   },
   {
@@ -2309,14 +2150,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Baldy Shepherdson": 1,
-      "Bob": 1,
       "Buck": 1,
       "Bud": 1,
-      "Don": 1,
       "Grangerfords": 1,
-      "Harney Shepherdson": 1
+      "Harney Shepherdson": 1,
+      "Jack": 1,
+      "Jim": 1,
+      "Mars Jawge": 1
     }
   },
   {
@@ -2331,14 +2172,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Baldy Shepherdson": 1,
-      "Bob": 1,
       "Buck": 1,
-      "Don": 1,
       "Grangerfords": 1,
       "Harney Shepherdson": 1,
-      "Has": 1
+      "Has": 1,
+      "Jack": 1,
+      "Jim": 1,
+      "Mars Jawge": 1
     }
   },
   {
@@ -2355,7 +2196,6 @@
     "co_occurs_with": {
       "Bilgewater": 1,
       "Bridgewater": 1,
-      "Jim": 1,
       "Looy the Seventeen": 1,
       "Marry Antonette": 1,
       "Your Grace": 1,
@@ -2377,34 +2217,11 @@
     "co_occurs_with": {
       "Bilgewater": 1,
       "Duke": 1,
-      "Jim": 1,
       "Looy the Seventeen": 1,
       "Marry Antonette": 1,
       "Your Grace": 1,
       "Your Lordship": 1,
       "Your Majesty": 1
-    }
-  },
-  {
-    "canonical_name": "Richard",
-    "aliases": [],
-    "first_chapter": 21,
-    "total_mentions": 3,
-    "per_chapter": {
-      "21": {
-        "mentions": 3,
-        "snippet": "himself Richard III."
-      }
-    },
-    "co_occurs_with": {
-      "All": 1,
-      "Bang": 1,
-      "Ben Thompson": 1,
-      "Bill": 1,
-      "Birnam Wood": 1,
-      "Boggs": 1,
-      "Colonel Sherburn": 1,
-      "Drury Lane Theatre": 1
     }
   },
   {
@@ -2419,14 +2236,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Ben Thompson": 1,
       "Bill": 1,
       "Birnam Wood": 1,
       "Boggs": 1,
       "Colonel Sherburn": 1,
       "Drury Lane Theatre": 1,
-      "Edmund Kean": 1
+      "Edmund Kean": 1,
+      "Hamlet": 1
     }
   },
   {
@@ -2441,7 +2258,6 @@
       }
     },
     "co_occurs_with": {
-      "Sherburn": 1,
       "Thrilling Tragedy": 1,
       "the North": 1,
       "the South": 1
@@ -2617,7 +2433,6 @@
       }
     },
     "co_occurs_with": {
-      "Don": 1,
       "Huck Finn": 1,
       "Jim": 1,
       "Mars Sid": 1,

@@ -47,6 +47,11 @@ Rules:
 - 1 to 3 steps. More than 3 is wasteful.
 - For "main characters" / "who's in the book" / "list characters": ALWAYS use
   list_known_characters as the FIRST step. It's a structured spoiler-safe lookup.
+- **For ANY question that names a specific character (e.g., "Mr. Darcy",
+  "Heathcliff", "the White Rabbit", "Dorothy"): ALWAYS call get_character_profile
+  with that character's name as one of the steps.** This guarantees the character's
+  data reaches the synthesizer even if they would not appear in a top-N list.
+  Pair it with list_known_characters or retrieve_passages as needed.
 - For "who is X" / "tell me about X" / "what is X like": use get_character_profile
   first; optionally follow with lookup_character for representative quotes.
 - For thematic / symbolic / "what does X reveal" questions: retrieve_passages,
@@ -88,6 +93,13 @@ Q: "Summarize the mood of chapter 3."
  "steps": [
    {"tool":"summarize_chapter","args":{"chapter":3}},
    {"tool":"retrieve_passages","args":{"query":"chapter 3 mood tone atmosphere","k":2}}
+ ]}
+
+Q: "Does the White Rabbit become one of the main characters later?"
+{"reasoning": "Question names a specific character — fetch profile, then list other introduced characters for context.",
+ "steps": [
+   {"tool":"get_character_profile","args":{"name":"White Rabbit"}},
+   {"tool":"list_known_characters","args":{"top_k":10}}
  ]}
 """
 
@@ -191,10 +203,20 @@ def _format_passages(tool_outputs: List[Dict[str, Any]]) -> List[Dict[str, Any]]
                 aliases = ", ".join(item.get("aliases") or [])
                 aliases_part = f" (also called {aliases})" if aliases else ""
                 snippet = item.get("intro_snippet") or ""
+                breadth_part = ""
+                if item.get("chapters_appeared_in") and item.get("appearance_span"):
+                    breadth_part = (
+                        f"\n  Appears across {item['chapters_appeared_in']} chapter(s), "
+                        f"spanning a range of {item['appearance_span']} chapters from "
+                        f"first to last appearance (an indicator of structural importance "
+                        f"to the narrative — a character spanning many chapters tends to be "
+                        f"a main character regardless of absolute mention count)."
+                    )
                 text = (
                     f"Character: {item.get('name')}{aliases_part}\n"
                     f"  First appears in chapter {item.get('first_chapter')}, "
-                    f"mentioned {item.get('mentions_so_far')} times so far.\n"
+                    f"mentioned {item.get('mentions_so_far')} times so far."
+                    f"{breadth_part}\n"
                     f"  Introduction: \"{snippet}\""
                 )
                 flat.append({
@@ -300,10 +322,28 @@ def run_agent(
 
     timings: Dict[str, int] = {}
 
+    # Look up total chapters for the book — needed so the synthesizer knows
+    # when the reader is on the final chapter.
+    total_chapters: Optional[int] = None
+    try:
+        import json as _json
+        from pathlib import Path as _Path
+        book_path = _Path(__file__).resolve().parent.parent / "data" / "books" / f"{book_id}.json"
+        with open(book_path) as _f:
+            _book = _json.load(_f)
+        total_chapters = len(_book.get("chapters") or [])
+    except Exception:
+        total_chapters = None
+    chapter_header = (
+        f"Current chapter: {current_chapter} of {total_chapters}"
+        + (" (this is the FINAL chapter — there is no 'later' in this book)"
+           if total_chapters and current_chapter >= total_chapters else "")
+    ) if total_chapters else f"Current chapter: {current_chapter}"
+
     # ---- 1. Planner ----
     t0 = time.time()
     step("planner", status="running", question=question)
-    planner_user = f"Current chapter: {current_chapter}\nQuestion: {question}"
+    planner_user = f"{chapter_header}\nQuestion: {question}"
     planner_raw = llm_call(PLANNER_SYSTEM, planner_user)
     plan = _safe_json(planner_raw) or {
         "reasoning": "fallback: planner output unparseable, default to retrieve_passages",
@@ -376,7 +416,7 @@ def run_agent(
     # ---- 3. Synthesizer ----
     t0 = time.time()
     step("synthesizer", status="running")
-    synth_user_parts = [f"Current chapter: {current_chapter}"]
+    synth_user_parts = [chapter_header]
     if memory_summary:
         synth_user_parts.append(f"Reader memory:\n{memory_summary}")
     synth_user_parts.append(f"Question: {question}")
@@ -395,7 +435,7 @@ def run_agent(
     t0 = time.time()
     step("critic", status="running")
     critic_user = (
-        f"Current chapter: {current_chapter}\nQuestion: {question}\n"
+        f"{chapter_header}\nQuestion: {question}\n"
         f"Available passage indices: 1..{len(passages)}\n\n"
         f"Pre-computed grounding signal:\n"
         f"  grounded_names: {grounded_list}\n"

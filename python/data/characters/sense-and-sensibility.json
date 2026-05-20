@@ -3,7 +3,7 @@
     "canonical_name": "Elinor",
     "aliases": [],
     "first_chapter": 3,
-    "total_mentions": 642,
+    "total_mentions": 588,
     "per_chapter": {
       "3": {
         "mentions": 9,
@@ -17,17 +17,9 @@
         "mentions": 7,
         "snippet": "\u201d said Elinor, \u201cdo you call Colonel Brandon infirm?"
       },
-      "9": {
-        "mentions": 3,
-        "snippet": "which had prevented their mother and Elinor from sharing such"
-      },
       "10": {
         "mentions": 9,
         "snippet": "\u201cWell, Marianne,\u201d said Elinor, as soon as he had left them, \u201cfor _one_"
-      },
-      "11": {
-        "mentions": 12,
-        "snippet": "Elinor could not be surprised at their attachment."
       },
       "12": {
         "mentions": 16,
@@ -85,10 +77,6 @@
         "mentions": 13,
         "snippet": "Elinor,"
       },
-      "26": {
-        "mentions": 20,
-        "snippet": "Elinor could not find herself in the carriage with Mrs."
-      },
       "27": {
         "mentions": 25,
         "snippet": "\u201cAt any rate,\u201d said Elinor, wishing to prevent Mrs."
@@ -145,10 +133,6 @@
         "mentions": 19,
         "snippet": "So far was she, at the same time, from any backwardness to give Elinor"
       },
-      "42": {
-        "mentions": 9,
-        "snippet": "One other short call in Harley Street, in which Elinor received her"
-      },
       "43": {
         "mentions": 24,
         "snippet": "bed, Elinor was very ready to adopt Mrs."
@@ -169,10 +153,6 @@
         "mentions": 21,
         "snippet": "But it was neither in Elinor\u2019s power, nor in"
       },
-      "48": {
-        "mentions": 10,
-        "snippet": "Elinor now found the difference between the expectation of an"
-      },
       "49": {
         "mentions": 21,
         "snippet": "Elinor to marry him;\u2014and considering that he was not altogether"
@@ -183,21 +163,21 @@
       }
     },
     "co_occurs_with": {
-      "Dashwood": 42,
-      "Marianne": 41,
-      "Jennings": 36,
-      "Mrs. Jennings": 36,
-      "Colonel Brandon": 29,
-      "Mrs. Dashwood": 29,
-      "Miss Dashwood": 29,
-      "Sir John": 27
+      "Dashwood": 39,
+      "Marianne": 35,
+      "Jennings": 32,
+      "Mrs. Jennings": 32,
+      "Miss Dashwood": 27,
+      "Mrs. Dashwood": 26,
+      "Sir John": 25,
+      "Colonel Brandon": 24
     }
   },
   {
     "canonical_name": "Marianne",
     "aliases": [],
     "first_chapter": 3,
-    "total_mentions": 396,
+    "total_mentions": 393,
     "per_chapter": {
       "3": {
         "mentions": 4,
@@ -331,10 +311,6 @@
         "mentions": 3,
         "snippet": "Marianne had left the room before the conversation began."
       },
-      "41": {
-        "mentions": 3,
-        "snippet": "Marianne, not contented with"
-      },
       "42": {
         "mentions": 9,
         "snippet": "Marianne, few as had been her hours of comfort in London, and eager as"
@@ -373,13 +349,13 @@
       }
     },
     "co_occurs_with": {
-      "Dashwood": 41,
-      "Elinor": 41,
-      "Jennings": 36,
-      "Mrs. Jennings": 36,
-      "Colonel Brandon": 29,
-      "Mrs. Dashwood": 29,
-      "Miss Dashwood": 27,
+      "Dashwood": 40,
+      "Elinor": 35,
+      "Jennings": 35,
+      "Mrs. Jennings": 35,
+      "Mrs. Dashwood": 28,
+      "Colonel Brandon": 27,
+      "Miss Dashwood": 26,
       "Sir John": 25
     }
   },
@@ -389,7 +365,7 @@
       "Brandon"
     ],
     "first_chapter": 7,
-    "total_mentions": 371,
+    "total_mentions": 368,
     "per_chapter": {
       "7": {
         "mentions": 7,
@@ -398,10 +374,6 @@
       "8": {
         "mentions": 19,
         "snippet": "pronounce that Colonel Brandon was very much in love with Marianne"
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "Brandon will be"
       },
       "10": {
         "mentions": 7,
@@ -513,14 +485,14 @@
       }
     },
     "co_occurs_with": {
-      "Elinor": 29,
-      "Marianne": 29,
-      "Dashwood": 28,
       "Jennings": 28,
       "Mrs. Jennings": 28,
-      "Mrs. Dashwood": 20,
-      "Sir John": 19,
-      "Miss Dashwood": 19
+      "Dashwood": 27,
+      "Marianne": 27,
+      "Elinor": 24,
+      "Mrs. Dashwood": 19,
+      "Sir John": 18,
+      "Miss Dashwood": 18
     }
   },
   {
@@ -654,13 +626,13 @@
     },
     "co_occurs_with": {
       "Dashwood": 30,
-      "Elinor": 27,
+      "Elinor": 25,
       "Marianne": 25,
       "Jennings": 24,
       "Mrs. Jennings": 24,
       "Mrs. Dashwood": 20,
       "Miss Dashwood": 20,
-      "Colonel Brandon": 19
+      "Lady Middleton": 19
     }
   },
   {
@@ -771,10 +743,10 @@
     "co_occurs_with": {
       "Dashwood": 23,
       "Marianne": 21,
-      "Elinor": 20,
       "Jennings": 20,
       "Mrs. Jennings": 20,
       "Sir John": 19,
+      "Elinor": 18,
       "Mrs. Dashwood": 16,
       "Miss Dashwood": 15
     }
@@ -941,8 +913,8 @@
     "co_occurs_with": {
       "Mrs. Jennings": 38,
       "Dashwood": 36,
-      "Elinor": 36,
-      "Marianne": 36,
+      "Marianne": 35,
+      "Elinor": 32,
       "Colonel Brandon": 28,
       "Miss Dashwood": 26,
       "Sir John": 24,
@@ -1111,8 +1083,8 @@
     "co_occurs_with": {
       "Jennings": 38,
       "Dashwood": 36,
-      "Elinor": 36,
-      "Marianne": 36,
+      "Marianne": 35,
+      "Elinor": 32,
       "Colonel Brandon": 28,
       "Miss Dashwood": 26,
       "Sir John": 24,
@@ -1319,14 +1291,14 @@
       }
     },
     "co_occurs_with": {
-      "Elinor": 42,
-      "Marianne": 41,
+      "Marianne": 40,
+      "Elinor": 39,
       "Jennings": 36,
       "Mrs. Jennings": 36,
       "Mrs. Dashwood": 34,
       "Sir John": 30,
       "Miss Dashwood": 30,
-      "Colonel Brandon": 28
+      "Colonel Brandon": 27
     }
   },
   {
@@ -1410,8 +1382,8 @@
     },
     "co_occurs_with": {
       "Dashwood": 18,
-      "Elinor": 17,
-      "Marianne": 16,
+      "Elinor": 16,
+      "Marianne": 15,
       "Ferrars": 14,
       "Jennings": 13,
       "Mrs. Dashwood": 13,
@@ -1548,12 +1520,12 @@
     },
     "co_occurs_with": {
       "Dashwood": 30,
-      "Elinor": 29,
-      "Marianne": 27,
+      "Elinor": 27,
       "Jennings": 26,
+      "Marianne": 26,
       "Mrs. Jennings": 26,
       "Sir John": 20,
-      "Colonel Brandon": 19,
+      "Colonel Brandon": 18,
       "Mrs. Dashwood": 17
     }
   },
@@ -1702,123 +1674,13 @@
     },
     "co_occurs_with": {
       "Dashwood": 34,
-      "Elinor": 29,
-      "Marianne": 29,
+      "Marianne": 28,
+      "Elinor": 26,
       "Jennings": 24,
       "Mrs. Jennings": 24,
-      "Colonel Brandon": 20,
       "Sir John": 20,
+      "Colonel Brandon": 19,
       "Miss Dashwood": 17
-    }
-  },
-  {
-    "canonical_name": "Willoughby",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 106,
-    "per_chapter": {
-      "9": {
-        "mentions": 3,
-        "snippet": "Willoughby\u2019s pointer, than he could describe to her the shades of his"
-      },
-      "10": {
-        "mentions": 2,
-        "snippet": "Willoughby\u2019s opinion in almost every matter of importance."
-      },
-      "11": {
-        "mentions": 4,
-        "snippet": "meeting of the kind Willoughby was included; and the ease and"
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "Willoughby very soon."
-      },
-      "13": {
-        "mentions": 6,
-        "snippet": "Willoughby got up two hours before his usual"
-      },
-      "14": {
-        "mentions": 7,
-        "snippet": "engrossed by the extraordinary silence of her sister and Willoughby on"
-      },
-      "15": {
-        "mentions": 20,
-        "snippet": "mother, who concluded that a promise had been made by Willoughby the"
-      },
-      "16": {
-        "mentions": 12,
-        "snippet": "to sleep at all the first night after parting from Willoughby."
-      },
-      "18": {
-        "mentions": 2,
-        "snippet": "Willoughby hunts."
-      },
-      "20": {
-        "mentions": 4,
-        "snippet": "Willoughby at Cleveland, and whether"
-      },
-      "26": {
-        "mentions": 1,
-        "snippet": "Willoughby"
-      },
-      "27": {
-        "mentions": 2,
-        "snippet": "Willoughby is very generally known."
-      },
-      "28": {
-        "mentions": 8,
-        "snippet": "regret what she had done, in applying to her mother; for Willoughby"
-      },
-      "29": {
-        "mentions": 1,
-        "snippet": "Willoughby?"
-      },
-      "30": {
-        "mentions": 4,
-        "snippet": "Willoughby, or making the slightest"
-      },
-      "31": {
-        "mentions": 4,
-        "snippet": "Willoughby, that will open his character farther."
-      },
-      "32": {
-        "mentions": 2,
-        "snippet": "Willoughby\u2019s portrait was"
-      },
-      "36": {
-        "mentions": 1,
-        "snippet": "Willoughby, she"
-      },
-      "42": {
-        "mentions": 3,
-        "snippet": "hopes, and that confidence, in Willoughby, which were now extinguished"
-      },
-      "44": {
-        "mentions": 8,
-        "snippet": "Willoughby, I advise you at present to return to Combe."
-      },
-      "45": {
-        "mentions": 1,
-        "snippet": "Willoughby\u2019s death."
-      },
-      "46": {
-        "mentions": 7,
-        "snippet": "every object with which the remembrance of Willoughby could be"
-      },
-      "47": {
-        "mentions": 3,
-        "snippet": "Dashwood, like her daughter, heard Willoughby\u2019s story from"
-      }
-    },
-    "co_occurs_with": {
-      "Marianne": 23,
-      "Elinor": 22,
-      "Dashwood": 21,
-      "Jennings": 20,
-      "Mrs. Jennings": 20,
-      "Colonel Brandon": 18,
-      "Mrs. Dashwood": 15,
-      "Sir John": 15
     }
   },
   {
@@ -1913,14 +1775,120 @@
       }
     },
     "co_occurs_with": {
-      "Elinor": 21,
       "Dashwood": 20,
-      "Marianne": 18,
+      "Elinor": 19,
       "Jennings": 17,
+      "Marianne": 17,
       "Mrs. Jennings": 17,
       "Mrs. Ferrars": 16,
       "Edward": 14,
       "Miss Dashwood": 14
+    }
+  },
+  {
+    "canonical_name": "Willoughby",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 102,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "Willoughby\u2019s pointer, than he could describe to her the shades of his"
+      },
+      "10": {
+        "mentions": 2,
+        "snippet": "Willoughby\u2019s opinion in almost every matter of importance."
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "Willoughby very soon."
+      },
+      "13": {
+        "mentions": 6,
+        "snippet": "Willoughby got up two hours before his usual"
+      },
+      "14": {
+        "mentions": 7,
+        "snippet": "engrossed by the extraordinary silence of her sister and Willoughby on"
+      },
+      "15": {
+        "mentions": 20,
+        "snippet": "mother, who concluded that a promise had been made by Willoughby the"
+      },
+      "16": {
+        "mentions": 12,
+        "snippet": "to sleep at all the first night after parting from Willoughby."
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "Willoughby hunts."
+      },
+      "20": {
+        "mentions": 4,
+        "snippet": "Willoughby at Cleveland, and whether"
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "Willoughby"
+      },
+      "27": {
+        "mentions": 2,
+        "snippet": "Willoughby is very generally known."
+      },
+      "28": {
+        "mentions": 8,
+        "snippet": "regret what she had done, in applying to her mother; for Willoughby"
+      },
+      "29": {
+        "mentions": 1,
+        "snippet": "Willoughby?"
+      },
+      "30": {
+        "mentions": 4,
+        "snippet": "Willoughby, or making the slightest"
+      },
+      "31": {
+        "mentions": 4,
+        "snippet": "Willoughby, that will open his character farther."
+      },
+      "32": {
+        "mentions": 2,
+        "snippet": "Willoughby\u2019s portrait was"
+      },
+      "36": {
+        "mentions": 1,
+        "snippet": "Willoughby, she"
+      },
+      "42": {
+        "mentions": 3,
+        "snippet": "hopes, and that confidence, in Willoughby, which were now extinguished"
+      },
+      "44": {
+        "mentions": 8,
+        "snippet": "Willoughby, I advise you at present to return to Combe."
+      },
+      "45": {
+        "mentions": 1,
+        "snippet": "Willoughby\u2019s death."
+      },
+      "46": {
+        "mentions": 7,
+        "snippet": "every object with which the remembrance of Willoughby could be"
+      },
+      "47": {
+        "mentions": 3,
+        "snippet": "Dashwood, like her daughter, heard Willoughby\u2019s story from"
+      }
+    },
+    "co_occurs_with": {
+      "Marianne": 22,
+      "Dashwood": 20,
+      "Jennings": 19,
+      "Mrs. Jennings": 19,
+      "Elinor": 18,
+      "Colonel Brandon": 16,
+      "Mr. Willoughby": 14,
+      "Mrs. Dashwood": 14
     }
   },
   {
@@ -2106,10 +2074,10 @@
     },
     "co_occurs_with": {
       "Dashwood": 16,
-      "Elinor": 16,
       "Ferrars": 16,
-      "Marianne": 13,
+      "Elinor": 15,
       "Jennings": 12,
+      "Marianne": 12,
       "Mrs. Jennings": 12,
       "Mrs. Dashwood": 12,
       "Edward": 11
@@ -2187,11 +2155,11 @@
       }
     },
     "co_occurs_with": {
-      "Elinor": 16,
       "Jennings": 16,
       "Marianne": 16,
       "Mrs. Jennings": 16,
       "Dashwood": 14,
+      "Elinor": 14,
       "Colonel Brandon": 12,
       "Mr. Palmer": 12,
       "Miss Dashwood": 11
@@ -2320,9 +2288,9 @@
     },
     "co_occurs_with": {
       "Dashwood": 13,
-      "Elinor": 12,
       "Jennings": 12,
       "Mrs. Jennings": 12,
+      "Elinor": 11,
       "Marianne": 11,
       "Colonel Brandon": 10,
       "Sir John": 10,
@@ -2373,8 +2341,8 @@
       "Jennings": 7,
       "Mrs. Jennings": 7,
       "Fanny": 6,
-      "Marianne": 6,
-      "Mrs. Ferrars": 6
+      "Mrs. Ferrars": 6,
+      "Edward": 6
     }
   },
   {
@@ -2444,11 +2412,11 @@
       "Marianne": 14,
       "Willoughby": 14,
       "Dashwood": 13,
-      "Elinor": 13,
       "Jennings": 13,
       "Mrs. Jennings": 13,
-      "Colonel Brandon": 12,
-      "Miss Dashwood": 12
+      "Miss Dashwood": 12,
+      "Colonel Brandon": 11,
+      "Elinor": 11
     }
   },
   {
@@ -2503,12 +2471,12 @@
       }
     },
     "co_occurs_with": {
-      "Elinor": 11,
       "Jennings": 11,
       "Marianne": 11,
       "Mrs. Jennings": 11,
       "Palmer": 11,
       "Dashwood": 9,
+      "Elinor": 9,
       "Colonel Brandon": 9,
       "Miss Dashwood": 7
     }
@@ -2569,12 +2537,12 @@
       }
     },
     "co_occurs_with": {
-      "Elinor": 12,
       "Jennings": 12,
       "Marianne": 12,
       "Mrs. Jennings": 12,
       "Palmer": 12,
       "Dashwood": 10,
+      "Elinor": 10,
       "Colonel Brandon": 9,
       "Miss Dashwood": 8
     }
@@ -2781,12 +2749,12 @@
     "co_occurs_with": {
       "Marianne": 12,
       "Dashwood": 11,
-      "Elinor": 11,
       "Jennings": 10,
       "Miss Dashwood": 10,
       "Mrs. Jennings": 10,
+      "Elinor": 9,
       "Willoughby": 8,
-      "Colonel Brandon": 7
+      "Mrs. Dashwood": 7
     }
   },
   {
@@ -2827,9 +2795,9 @@
     "co_occurs_with": {
       "Dashwood": 7,
       "Mrs. Dashwood": 6,
-      "Elinor": 5,
       "Marianne": 5,
       "Sir John": 5,
+      "Elinor": 4,
       "John Dashwood": 3,
       "Mrs. John Dashwood": 3,
       "Barton Park": 3
@@ -2875,12 +2843,12 @@
       }
     },
     "co_occurs_with": {
-      "Elinor": 8,
       "Jennings": 8,
       "Marianne": 8,
       "Mrs. Jennings": 8,
       "Colonel Brandon": 7,
       "Dashwood": 7,
+      "Elinor": 7,
       "Ferrars": 6,
       "Miss Dashwood": 6
     }
@@ -2941,13 +2909,13 @@
       }
     },
     "co_occurs_with": {
-      "Elinor": 12,
       "Ferrars": 12,
       "Dashwood": 11,
+      "Elinor": 11,
       "Jennings": 10,
-      "Marianne": 10,
       "Mrs. Jennings": 10,
       "Miss Dashwood": 9,
+      "Marianne": 9,
       "Edward": 7
     }
   },
@@ -3096,13 +3064,13 @@
     },
     "co_occurs_with": {
       "Colonel Brandon": 4,
-      "Elinor": 4,
       "Jennings": 4,
       "Marianne": 4,
       "Mr. Palmer": 4,
       "Mrs. Jennings": 4,
       "Palmer": 4,
-      "Barton": 3
+      "Barton": 3,
+      "Dashwood": 3
     }
   },
   {
@@ -3200,8 +3168,8 @@
     },
     "co_occurs_with": {
       "Dashwood": 7,
-      "Elinor": 7,
       "Edward": 6,
+      "Elinor": 6,
       "Marianne": 6,
       "Ferrars": 5,
       "Colonel Brandon": 4,
@@ -3249,10 +3217,10 @@
       }
     },
     "co_occurs_with": {
-      "Elinor": 8,
       "Jennings": 8,
       "Mrs. Jennings": 8,
       "Dashwood": 7,
+      "Elinor": 7,
       "Marianne": 7,
       "Ferrars": 7,
       "Edward": 6,
@@ -3301,8 +3269,8 @@
       "Mrs. John Dashwood": 5,
       "Elinor": 5,
       "Jennings": 5,
-      "Marianne": 5,
-      "Mrs. Jennings": 5
+      "Mrs. Jennings": 5,
+      "Miss Dashwoods": 4
     }
   },
   {
@@ -3383,11 +3351,11 @@
       }
     },
     "co_occurs_with": {
-      "Elinor": 9,
       "Jennings": 9,
       "Mrs. Jennings": 9,
       "Dashwood": 8,
-      "Marianne": 8,
+      "Elinor": 8,
+      "Marianne": 7,
       "Colonel Brandon": 6,
       "Ferrars": 6,
       "Lady Middleton": 6
@@ -3479,14 +3447,14 @@
       }
     },
     "co_occurs_with": {
-      "Elinor": 7,
       "Marianne": 7,
       "Colonel Brandon": 6,
       "Jennings": 6,
       "Mrs. Jennings": 6,
       "Palmer": 6,
       "Willoughby": 6,
-      "Dashwood": 5
+      "Dashwood": 5,
+      "Elinor": 5
     }
   },
   {
@@ -3509,14 +3477,14 @@
       }
     },
     "co_occurs_with": {
-      "Elinor": 3,
       "Jennings": 3,
       "Marianne": 3,
       "Mr. Palmer": 3,
       "Mrs. Jennings": 3,
       "Mrs. Palmer": 3,
       "Palmer": 3,
-      "Berkeley Street": 2
+      "Berkeley Street": 2,
+      "Dashwood": 2
     }
   },
   {
@@ -3569,42 +3537,12 @@
     "co_occurs_with": {
       "Dashwood": 10,
       "Sir John": 8,
-      "Elinor": 7,
       "Marianne": 7,
+      "Elinor": 6,
       "Jennings": 6,
       "Miss Dashwood": 6,
       "Mrs. Dashwood": 6,
       "Mrs. Jennings": 6
-    }
-  },
-  {
-    "canonical_name": "Margaret",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 10,
-    "per_chapter": {
-      "9": {
-        "mentions": 6,
-        "snippet": "beauties; and towards one of these hills did Marianne and Margaret one"
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "pray, Miss Margaret, let us know all about it,\u201d said Mrs."
-      },
-      "47": {
-        "mentions": 3,
-        "snippet": "Margaret returned, and the family were again all restored to each"
-      }
-    },
-    "co_occurs_with": {
-      "Colonel Brandon": 3,
-      "Dashwood": 3,
-      "Elinor": 3,
-      "Marianne": 3,
-      "Mrs. Dashwood": 3,
-      "Willoughby": 3,
-      "Miss Dashwood": 2,
-      "Miss Marianne": 2
     }
   },
   {
@@ -3628,13 +3566,13 @@
     },
     "co_occurs_with": {
       "Colonel Brandon": 3,
-      "Elinor": 3,
       "Ferrars": 3,
       "Jennings": 3,
       "Marianne": 3,
       "Mr. Ferrars": 3,
       "Mrs. Jennings": 3,
-      "Barton": 2
+      "Barton": 2,
+      "Dashwood": 2
     }
   },
   {
@@ -3673,10 +3611,10 @@
       "John Middleton": 6,
       "Sir John": 6,
       "Barton Park": 5,
-      "Elinor": 4,
       "Marianne": 4,
       "Mrs. Dashwood": 4,
-      "Devonshire": 3
+      "Devonshire": 3,
+      "Edward": 3
     }
   },
   {
@@ -3715,10 +3653,10 @@
       "Sir John": 6,
       "Sir John Middleton": 6,
       "Barton Park": 5,
-      "Elinor": 4,
       "Marianne": 4,
       "Mrs. Dashwood": 4,
-      "Devonshire": 3
+      "Devonshire": 3,
+      "Edward": 3
     }
   },
   {
@@ -3755,8 +3693,8 @@
     "co_occurs_with": {
       "Dashwood": 6,
       "Edward": 6,
-      "Elinor": 6,
       "Marianne": 6,
+      "Elinor": 5,
       "Ferrars": 5,
       "Jennings": 5,
       "Miss Dashwood": 5,
@@ -3812,29 +3750,29 @@
     }
   },
   {
-    "canonical_name": "Mama",
+    "canonical_name": "Margaret",
     "aliases": [],
-    "first_chapter": 3,
+    "first_chapter": 9,
     "total_mentions": 7,
     "per_chapter": {
-      "3": {
-        "mentions": 4,
-        "snippet": "Mama, how shall we do without her?"
+      "9": {
+        "mentions": 6,
+        "snippet": "beauties; and towards one of these hills did Marianne and Margaret one"
       },
-      "8": {
-        "mentions": 3,
-        "snippet": "\u201cBut at least, Mama, you cannot deny the absurdity of the accusation,"
+      "12": {
+        "mentions": 1,
+        "snippet": "pray, Miss Margaret, let us know all about it,\u201d said Mrs."
       }
     },
     "co_occurs_with": {
       "Dashwood": 2,
-      "Edward Ferrars": 2,
-      "Elinor": 2,
       "Marianne": 2,
+      "Miss Dashwood": 2,
+      "Mr. Willoughby": 2,
       "Mrs. Dashwood": 2,
-      "John Dashwood": 1,
-      "Mrs. John Dashwood": 1,
-      "Norland": 1
+      "Sir John": 2,
+      "Willoughby": 2,
+      "Allenham Court": 1
     }
   },
   {
@@ -3883,32 +3821,6 @@
       "Marianne": 2,
       "Miss Dashwood": 2,
       "Miss Steele": 2
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 6,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u2014The furniture"
-      },
-      "47": {
-        "mentions": 3,
-        "snippet": "\u201cThe whole of his behaviour,\u201d replied Elinor, \u201cfrom the beginning to"
-      }
-    },
-    "co_occurs_with": {
-      "Dashwood": 2,
-      "Edward": 2,
-      "Mrs. Dashwood": 2,
-      "Barton Park": 1,
-      "Devonshire": 1,
-      "John Dashwood": 1,
-      "John Middleton": 1,
-      "Lady Middleton": 1
     }
   },
   {
@@ -4010,7 +3922,7 @@
     },
     "co_occurs_with": {
       "Dashwood": 5,
-      "Elinor": 5,
+      "Elinor": 4,
       "Jennings": 4,
       "John Dashwood": 4,
       "Mr. Robert Ferrars": 4,
@@ -4071,9 +3983,9 @@
     "co_occurs_with": {
       "Dashwood": 3,
       "Edward": 3,
-      "Elinor": 3,
       "Lucy Steele": 3,
       "Marianne": 3,
+      "Elinor": 2,
       "Ferrars": 2,
       "Jennings": 2,
       "Miss Dashwood": 2
@@ -4309,10 +4221,10 @@
       "Colonel Brandon": 1,
       "Conduit Street": 1,
       "Dashwood": 1,
-      "Dorsetshire": 1,
       "East Kingham Farm": 1,
       "Edward Ferrars": 1,
-      "Elinor": 1
+      "Elinor": 1,
+      "Exeter Exchange": 1
     }
   },
   {
@@ -4483,6 +4395,28 @@
     }
   },
   {
+    "canonical_name": "Mama",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 3,
+    "per_chapter": {
+      "8": {
+        "mentions": 3,
+        "snippet": "\u201cBut at least, Mama, you cannot deny the absurdity of the accusation,"
+      }
+    },
+    "co_occurs_with": {
+      "Colonel Brandon": 1,
+      "Dashwood": 1,
+      "Edward Ferrars": 1,
+      "Elinor": 1,
+      "Jennings": 1,
+      "Marianne": 1,
+      "Mrs. Dashwood": 1,
+      "Mrs. Jennings": 1
+    }
+  },
+  {
     "canonical_name": "Miss Careys",
     "aliases": [
       "Careys"
@@ -4507,50 +4441,6 @@
     }
   },
   {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 13,
-    "total_mentions": 3,
-    "per_chapter": {
-      "13": {
-        "mentions": 3,
-        "snippet": "Elinor then heard Willoughby say, in a low voice to Marianne, \u201cThere"
-      }
-    },
-    "co_occurs_with": {
-      "Colonel Brandon": 1,
-      "Colonel. And": 1,
-      "Come Colonel": 1,
-      "Dashwood": 1,
-      "Elinor": 1,
-      "Jennings": 1,
-      "Lady Middleton": 1,
-      "Marianne": 1
-    }
-  },
-  {
-    "canonical_name": "Have",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 3,
-    "per_chapter": {
-      "16": {
-        "mentions": 3,
-        "snippet": "\u201cHave you been lately in Sussex?"
-      }
-    },
-    "co_occurs_with": {
-      "Barton": 1,
-      "Dashwood": 1,
-      "Edward Ferrars": 1,
-      "Elinor": 1,
-      "Ferrars": 1,
-      "Jennings": 1,
-      "Marianne": 1,
-      "Mr. Ferrars": 1
-    }
-  },
-  {
     "canonical_name": "Westons",
     "aliases": [],
     "first_chapter": 20,
@@ -4559,28 +4449,6 @@
       "20": {
         "mentions": 3,
         "snippet": "go, for the Westons come to us next week you know."
-      }
-    },
-    "co_occurs_with": {
-      "Barton": 1,
-      "Brandon Monday": 1,
-      "Charlotte": 1,
-      "Cleveland": 1,
-      "Colonel Brandon": 1,
-      "Colonel Brandon Monday": 1,
-      "Combe Magna": 1,
-      "Dashwood": 1
-    }
-  },
-  {
-    "canonical_name": "Not",
-    "aliases": [],
-    "first_chapter": 20,
-    "total_mentions": 3,
-    "per_chapter": {
-      "20": {
-        "mentions": 3,
-        "snippet": "\u201cNot go to town!"
       }
     },
     "co_occurs_with": {
@@ -4701,28 +4569,6 @@
     }
   },
   {
-    "canonical_name": "Dorsetshire",
-    "aliases": [],
-    "first_chapter": 33,
-    "total_mentions": 3,
-    "per_chapter": {
-      "33": {
-        "mentions": 3,
-        "snippet": "\u201cYes; he has very good property in Dorsetshire."
-      }
-    },
-    "co_occurs_with": {
-      "Berkeley Street": 1,
-      "Colonel Brandon": 1,
-      "Conduit Street": 1,
-      "Dashwood": 1,
-      "East Kingham Farm": 1,
-      "Edward Ferrars": 1,
-      "Elinor": 1,
-      "Exeter Exchange": 1
-    }
-  },
-  {
     "canonical_name": "Lord Courtland",
     "aliases": [
       "Courtland"
@@ -4744,28 +4590,6 @@
       "Harley Street": 1,
       "Jennings": 1,
       "John Dashwood": 1
-    }
-  },
-  {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 37,
-    "total_mentions": 3,
-    "per_chapter": {
-      "37": {
-        "mentions": 3,
-        "snippet": "Here Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Barton Park": 1,
-      "Berkeley Street": 1,
-      "Charlotte": 1,
-      "Dashwood": 1,
-      "Edward": 1,
-      "Edward Ferrars": 1,
-      "Elinor": 1,
-      "Fanny": 1
     }
   },
   {
@@ -4812,28 +4636,6 @@
       "Harley Street": 1,
       "Jennings": 1,
       "Kensington Gardens": 1
-    }
-  },
-  {
-    "canonical_name": "Had",
-    "aliases": [],
-    "first_chapter": 44,
-    "total_mentions": 3,
-    "per_chapter": {
-      "44": {
-        "mentions": 3,
-        "snippet": "\u201cHad they told me,\u201d he cried with vehemence, \u201cthat Mr."
-      }
-    },
-    "co_occurs_with": {
-      "At Marlborough": 1,
-      "Berkeley Street": 1,
-      "Bond Street": 1,
-      "Colonel Brandon": 1,
-      "Combe Magna": 1,
-      "Dashwood": 1,
-      "Devonshire": 1,
-      "Drury Lane": 1
     }
   }
 ]

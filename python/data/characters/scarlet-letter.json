@@ -374,11 +374,10 @@
   {
     "canonical_name": "Roger Chillingworth",
     "aliases": [
-      "Chillingworth",
-      "Roger"
+      "Chillingworth"
     ],
     "first_chapter": 4,
-    "total_mentions": 53,
+    "total_mentions": 50,
     "per_chapter": {
       "4": {
         "mentions": 2,
@@ -397,8 +396,8 @@
         "snippet": "Old Roger Chillingworth, throughout life, had been calm in"
       },
       "11": {
-        "mentions": 6,
-        "snippet": "The intellect of Roger"
+        "mentions": 3,
+        "snippet": "Chillingworth had now a sufficiently plain path before it."
       },
       "12": {
         "mentions": 3,
@@ -442,48 +441,6 @@
       "New England": 6,
       "Arthur Dimmesdale": 4,
       "Black Man": 4
-    }
-  },
-  {
-    "canonical_name": "Thou",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 35,
-    "per_chapter": {
-      "4": {
-        "mentions": 6,
-        "snippet": "\u201cThou knowest,\u201d said Hester,\u2014for, depressed as she was, she could not"
-      },
-      "6": {
-        "mentions": 4,
-        "snippet": "Father in Heaven,\u2014if Thou art still my Father,\u2014what is this being"
-      },
-      "17": {
-        "mentions": 9,
-        "snippet": "Thou little knowest what a relief it is, after the"
-      },
-      "18": {
-        "mentions": 5,
-        "snippet": "Thou to whom I dare not lift mine eyes, wilt Thou yet pardon me!"
-      },
-      "19": {
-        "mentions": 6,
-        "snippet": "\u201cThou wilt love her dearly,\u201d repeated Hester Prynne, as she and the"
-      },
-      "23": {
-        "mentions": 5,
-        "snippet": "\u201cThou hast escaped me!"
-      }
-    },
-    "co_occurs_with": {
-      "Hester Prynne": 6,
-      "Pearl": 4,
-      "Roger Chillingworth": 3,
-      "Arthur Dimmesdale": 3,
-      "Dimmesdale": 1,
-      "Election Sermon": 1,
-      "Eternal Justice": 1,
-      "Lord. But": 1
     }
   },
   {
@@ -547,7 +504,7 @@
       "Mr. Dimmesdale": 3,
       "Reverend Arthur Dimmesdale": 3,
       "Reverend Mr": 3,
-      "Thou": 3
+      "Governor Bellingham": 2
     }
   },
   {
@@ -921,32 +878,6 @@
     }
   },
   {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 8,
-    "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "Come, therefore, and let us fling mud at them!"
-      },
-      "19": {
-        "mentions": 5,
-        "snippet": "\u201cCome, dearest child!"
-      }
-    },
-    "co_occurs_with": {
-      "Hester Prynne": 2,
-      "Pearl": 2,
-      "Governor Bellingham": 1,
-      "New England": 1,
-      "Reverend Mr": 1,
-      "The Governor": 1,
-      "Arthur Dimmesdale": 1,
-      "Dost": 1
-    }
-  },
-  {
     "canonical_name": "Father Wilson",
     "aliases": [],
     "first_chapter": 12,
@@ -1077,28 +1008,6 @@
     }
   },
   {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 6,
-    "per_chapter": {
-      "10": {
-        "mentions": 6,
-        "snippet": "\u201cThere can be, if I forebode aright, no power, short of the Divine"
-      }
-    },
-    "co_occurs_with": {
-      "Black Man": 1,
-      "Dimmesdale": 1,
-      "Hester Prynne": 1,
-      "Holy Writ": 1,
-      "Master Dimmesdale": 1,
-      "Mr. Dimmesdale": 1,
-      "Pearl": 1,
-      "Reverend Mr": 1
-    }
-  },
-  {
     "canonical_name": "Wilt",
     "aliases": [],
     "first_chapter": 17,
@@ -1113,8 +1022,44 @@
       "Arthur Dimmesdale": 1,
       "Hester Prynne": 1,
       "Let God": 1,
-      "Roger Chillingworth": 1,
-      "Thou": 1
+      "Roger Chillingworth": 1
+    }
+  },
+  {
+    "canonical_name": "Thou",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 5,
+    "per_chapter": {
+      "18": {
+        "mentions": 5,
+        "snippet": "Thou to whom I dare not lift mine eyes, wilt Thou yet pardon me!"
+      }
+    },
+    "co_occurs_with": {
+      "Arthur Dimmesdale": 1,
+      "Hester Prynne": 1,
+      "Pearl": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 5,
+    "per_chapter": {
+      "19": {
+        "mentions": 5,
+        "snippet": "\u201cCome, dearest child!"
+      }
+    },
+    "co_occurs_with": {
+      "Arthur Dimmesdale": 1,
+      "Dost": 1,
+      "Hester Prynne": 1,
+      "Mistress Hibbins": 1,
+      "Pearl": 1,
+      "The Child": 1
     }
   },
   {
@@ -1180,7 +1125,6 @@
       "England Puritans": 1,
       "Hester Prynne": 1,
       "Pearl": 1,
-      "Thou": 1,
       "Thy Heavenly Father": 1
     }
   },
@@ -1233,28 +1177,6 @@
     }
   },
   {
-    "canonical_name": "Not",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 4,
-    "per_chapter": {
-      "12": {
-        "mentions": 4,
-        "snippet": "\u201cNot so, my child."
-      }
-    },
-    "co_occurs_with": {
-      "Arthur Dimmesdale": 1,
-      "Dimmesdale": 1,
-      "Father Wilson": 1,
-      "Governor Bellingham": 1,
-      "Governor Winthrop": 1,
-      "Hester Prynne": 1,
-      "King James": 1,
-      "Master Dimmesdale": 1
-    }
-  },
-  {
     "canonical_name": "Whigs",
     "aliases": [],
     "first_chapter": 24,
@@ -1300,28 +1222,6 @@
       "Mr. Dimmesdale": 2,
       "New England": 2,
       "Pearl": 2
-    }
-  },
-  {
-    "canonical_name": "Satan",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 3,
-    "per_chapter": {
-      "12": {
-        "mentions": 3,
-        "snippet": "the settlements or lonely cottages, as they rode with Satan through"
-      }
-    },
-    "co_occurs_with": {
-      "Arthur Dimmesdale": 1,
-      "Dimmesdale": 1,
-      "Father Wilson": 1,
-      "Governor Bellingham": 1,
-      "Governor Winthrop": 1,
-      "Hester Prynne": 1,
-      "King James": 1,
-      "Master Dimmesdale": 1
     }
   },
   {
@@ -1385,8 +1285,7 @@
       "Hester Prynne": 1,
       "Mistress Hibbins": 1,
       "Pearl": 1,
-      "The Child": 1,
-      "Thou": 1
+      "The Child": 1
     }
   },
   {

@@ -85,10 +85,10 @@
       "Mr Elliot": 13,
       "Miss Elliot": 12,
       "Mrs Musgrove": 12,
-      "Anne": 11,
-      "Charles Hayter": 11,
       "Mr Musgrove": 11,
-      "Mrs Croft": 10
+      "Anne": 10,
+      "Mrs Croft": 10,
+      "Sir Walter": 10
     }
   },
   {
@@ -182,9 +182,9 @@
       "Mrs Clay": 14,
       "Sir Walter": 13,
       "Captain Wentworth": 13,
-      "Anne": 12,
       "Bath": 12,
-      "Kellynch Hall": 11
+      "Kellynch Hall": 11,
+      "Anne": 11
     }
   },
   {
@@ -283,8 +283,8 @@
       "Captain Wentworth": 14,
       "Bath": 13,
       "Mrs Clay": 13,
-      "Anne": 12,
-      "Kellynch Hall": 11
+      "Kellynch Hall": 11,
+      "Anne": 11
     }
   },
   {
@@ -435,12 +435,12 @@
     "co_occurs_with": {
       "Mr Musgrove": 12,
       "Captain Wentworth": 12,
-      "Charles Hayter": 11,
       "Lady Russell": 10,
-      "Mary": 10,
-      "Anne": 9,
+      "Mary": 9,
       "Miss Elliot": 9,
-      "Mr Elliot": 9
+      "Mr Elliot": 9,
+      "Charles Hayter": 9,
+      "Anne": 8
     }
   },
   {
@@ -624,80 +624,6 @@
     }
   },
   {
-    "canonical_name": "Anne",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 135,
-    "per_chapter": {
-      "2": {
-        "mentions": 12,
-        "snippet": "the father of Anne and her sisters, was, as being Sir Walter, in her"
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "What Miss Anne says, is very true,\u201d was Mr"
-      },
-      "5": {
-        "mentions": 29,
-        "snippet": "Hall, Anne found it most natural to take her almost daily walk to Lady"
-      },
-      "6": {
-        "mentions": 5,
-        "snippet": "Anne, Sir Walter and your sister are gone; and what part of Bath do you"
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "Miss Anne, if it had pleased Heaven to spare my poor son, I dare"
-      },
-      "10": {
-        "mentions": 22,
-        "snippet": "Anne had soon been in company with all the four together often enough"
-      },
-      "11": {
-        "mentions": 11,
-        "snippet": "fixed; and Anne, being engaged to join her as soon as she was"
-      },
-      "14": {
-        "mentions": 20,
-        "snippet": "Mrs Musgrove\u2019s going than Anne conceived they could have been at all"
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "\u201cnow Miss Anne was come, she could not suppose herself at all wanted;\u201d"
-      },
-      "18": {
-        "mentions": 14,
-        "snippet": "It was the beginning of February; and Anne, having been a month in"
-      },
-      "19": {
-        "mentions": 1,
-        "snippet": "thicker than Miss Anne\u2019s; and, in short, her civility rendered her"
-      },
-      "22": {
-        "mentions": 3,
-        "snippet": "hard-hearted sister, Miss Anne, seems bent on cruelty."
-      },
-      "23": {
-        "mentions": 1,
-        "snippet": "Harville anywhere, remember to give Miss Anne\u2019s message."
-      },
-      "24": {
-        "mentions": 14,
-        "snippet": "if such parties succeed, how should a Captain Wentworth and an Anne"
-      }
-    },
-    "co_occurs_with": {
-      "Lady Russell": 12,
-      "Mr Elliot": 12,
-      "Miss Elliot": 11,
-      "Captain Wentworth": 11,
-      "Charles Hayter": 10,
-      "Mrs Clay": 9,
-      "Mr Musgrove": 9,
-      "Mrs Musgrove": 9
-    }
-  },
-  {
     "canonical_name": "Captain Harville",
     "aliases": [
       "Harville"
@@ -742,18 +668,18 @@
       "Captain Wentworth": 8,
       "Mrs Musgrove": 8,
       "Captain Benwick": 7,
-      "Charles Hayter": 7,
       "Lady Russell": 7,
       "Miss Elliot": 7,
       "Mr Elliot": 7,
-      "Mrs Harville": 7
+      "Mrs Harville": 7,
+      "Mr Musgrove": 7
     }
   },
   {
     "canonical_name": "Mary",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 124,
+    "total_mentions": 121,
     "per_chapter": {
       "1": {
         "mentions": 5,
@@ -783,10 +709,6 @@
         "mentions": 12,
         "snippet": "\u201d cried Mary; \u201cit must be our cousin; it must be our Mr"
       },
-      "13": {
-        "mentions": 3,
-        "snippet": "really left nothing for Mary to do."
-      },
       "14": {
         "mentions": 17,
         "snippet": "Though Charles and Mary had remained at Lyme much longer after Mr and"
@@ -801,14 +723,84 @@
       }
     },
     "co_occurs_with": {
-      "Mrs Musgrove": 10,
-      "Lady Russell": 9,
       "Mr Musgrove": 9,
-      "Captain Wentworth": 9,
-      "Miss Elliot": 8,
-      "Mr Elliot": 8,
-      "Charles Hayter": 8,
-      "Sir Walter": 7
+      "Mrs Musgrove": 9,
+      "Lady Russell": 8,
+      "Captain Wentworth": 8,
+      "Miss Elliot": 7,
+      "Mr Elliot": 7,
+      "Charles Musgrove": 6,
+      "Sir Walter": 6
+    }
+  },
+  {
+    "canonical_name": "Anne",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 113,
+    "per_chapter": {
+      "2": {
+        "mentions": 12,
+        "snippet": "the father of Anne and her sisters, was, as being Sir Walter, in her"
+      },
+      "3": {
+        "mentions": 1,
+        "snippet": "What Miss Anne says, is very true,\u201d was Mr"
+      },
+      "5": {
+        "mentions": 29,
+        "snippet": "Hall, Anne found it most natural to take her almost daily walk to Lady"
+      },
+      "6": {
+        "mentions": 5,
+        "snippet": "Anne, Sir Walter and your sister are gone; and what part of Bath do you"
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Miss Anne, if it had pleased Heaven to spare my poor son, I dare"
+      },
+      "11": {
+        "mentions": 11,
+        "snippet": "fixed; and Anne, being engaged to join her as soon as she was"
+      },
+      "14": {
+        "mentions": 20,
+        "snippet": "Mrs Musgrove\u2019s going than Anne conceived they could have been at all"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "\u201cnow Miss Anne was come, she could not suppose herself at all wanted;\u201d"
+      },
+      "18": {
+        "mentions": 14,
+        "snippet": "It was the beginning of February; and Anne, having been a month in"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "thicker than Miss Anne\u2019s; and, in short, her civility rendered her"
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "hard-hearted sister, Miss Anne, seems bent on cruelty."
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "Harville anywhere, remember to give Miss Anne\u2019s message."
+      },
+      "24": {
+        "mentions": 14,
+        "snippet": "if such parties succeed, how should a Captain Wentworth and an Anne"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Russell": 11,
+      "Mr Elliot": 11,
+      "Miss Elliot": 10,
+      "Captain Wentworth": 10,
+      "Mrs Clay": 9,
+      "Bath": 8,
+      "Sir Walter": 8,
+      "Mr Musgrove": 8
     }
   },
   {
@@ -866,13 +858,13 @@
     },
     "co_occurs_with": {
       "Captain Wentworth": 10,
-      "Anne": 8,
       "Miss Elliot": 8,
       "Mr Elliot": 8,
       "Lady Russell": 8,
-      "Charles Hayter": 8,
       "Mrs Musgrove": 8,
-      "Kellynch Hall": 7
+      "Anne": 7,
+      "Kellynch Hall": 7,
+      "Sir Walter": 7
     }
   },
   {
@@ -956,9 +948,9 @@
       "Mrs Clay": 12,
       "Captain Wentworth": 12,
       "Sir Walter": 11,
-      "Anne": 11,
       "Bath": 11,
-      "Kellynch Hall": 10
+      "Kellynch Hall": 10,
+      "Anne": 10
     }
   },
   {
@@ -1072,52 +1064,6 @@
     }
   },
   {
-    "canonical_name": "Henrietta",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 68,
-    "per_chapter": {
-      "9": {
-        "mentions": 22,
-        "snippet": "pleasing young man, between whom and Henrietta there had been a"
-      },
-      "10": {
-        "mentions": 10,
-        "snippet": "Charles Hayter seemed aware of being slighted, and yet Henrietta"
-      },
-      "12": {
-        "mentions": 16,
-        "snippet": "Anne and Henrietta, finding themselves the earliest of the party the"
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "overheard him telling Henrietta all about it; and then \u2018Miss Elliot\u2019"
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "She only knew that Henrietta was at home"
-      },
-      "22": {
-        "mentions": 11,
-        "snippet": "She then found that it consisted of Mrs Musgrove, Henrietta, and"
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "she immediately heard that Mary and Henrietta, too impatient to wait,"
-      }
-    },
-    "co_occurs_with": {
-      "Captain Wentworth": 7,
-      "Mr Musgrove": 7,
-      "Mrs Musgrove": 7,
-      "Charles Hayter": 6,
-      "Lady Russell": 6,
-      "Louisa": 6,
-      "Mary": 6,
-      "Miss Elliot": 6
-    }
-  },
-  {
     "canonical_name": "Lady Dalrymple",
     "aliases": [
       "Dalrymple"
@@ -1205,8 +1151,8 @@
       "Sir Walter": 5,
       "Lady Russell": 4,
       "Mrs Clay": 4,
-      "Mary": 3,
-      "Sir Walter Elliot": 3
+      "Sir Walter Elliot": 3,
+      "Walter Elliot": 3
     }
   },
   {
@@ -1307,10 +1253,52 @@
       "Mrs Musgrove": 8,
       "Charles Hayter": 7,
       "Lady Russell": 7,
-      "Mary": 7,
       "Uppercross": 7,
       "Mr Musgrove": 7,
-      "Captain Benwick": 6
+      "Captain Benwick": 6,
+      "Captain Harville": 6
+    }
+  },
+  {
+    "canonical_name": "Henrietta",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 65,
+    "per_chapter": {
+      "9": {
+        "mentions": 22,
+        "snippet": "pleasing young man, between whom and Henrietta there had been a"
+      },
+      "10": {
+        "mentions": 10,
+        "snippet": "Charles Hayter seemed aware of being slighted, and yet Henrietta"
+      },
+      "12": {
+        "mentions": 16,
+        "snippet": "Anne and Henrietta, finding themselves the earliest of the party the"
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "She only knew that Henrietta was at home"
+      },
+      "22": {
+        "mentions": 11,
+        "snippet": "She then found that it consisted of Mrs Musgrove, Henrietta, and"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "she immediately heard that Mary and Henrietta, too impatient to wait,"
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 6,
+      "Mr Musgrove": 6,
+      "Mrs Musgrove": 6,
+      "Charles Hayter": 5,
+      "Lady Russell": 5,
+      "Louisa": 5,
+      "Mary": 5,
+      "Miss Elliot": 5
     }
   },
   {
@@ -1355,10 +1343,10 @@
       "Mrs Musgrove": 7,
       "Mary": 6,
       "Captain Wentworth": 6,
-      "Charles Hayter": 5,
       "Mrs Croft": 5,
-      "Anne": 4,
-      "Lady Russell": 4
+      "Lady Russell": 4,
+      "Miss Elliot": 4,
+      "Mr Elliot": 4
     }
   },
   {
@@ -1405,10 +1393,10 @@
       "Mrs Musgrove": 8,
       "Charles Hayter": 7,
       "Lady Russell": 7,
-      "Mary": 7,
       "Mr Musgrove": 7,
       "Louisa": 7,
-      "Anne": 5
+      "Mary": 6,
+      "Captain Benwick": 5
     }
   },
   {
@@ -1462,75 +1450,6 @@
     }
   },
   {
-    "canonical_name": "Charles Hayter",
-    "aliases": [
-      "Charles",
-      "Hayter"
-    ],
-    "first_chapter": 5,
-    "total_mentions": 43,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "Charles"
-      },
-      "6": {
-        "mentions": 5,
-        "snippet": "Mrs Charles had a little of your method with those children."
-      },
-      "8": {
-        "mentions": 3,
-        "snippet": "Charles, my dear,\u201d (beckoning him to her), \u201cdo ask"
-      },
-      "9": {
-        "mentions": 16,
-        "snippet": "when a certain Charles Hayter returned among them, to be a good deal"
-      },
-      "10": {
-        "mentions": 4,
-        "snippet": "After a short struggle, however, Charles Hayter seemed to quit the"
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "Her usefulness to little Charles would always give some"
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "They were indebted, the next day, to Charles Hayter, for all the minute"
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "Though neither Henrietta, nor Louisa, nor Charles Hayter, nor Captain"
-      },
-      "18": {
-        "mentions": 2,
-        "snippet": "Charles Hayter, who had been calling much oftener than was welcome."
-      },
-      "22": {
-        "mentions": 3,
-        "snippet": "recently, (since Mary\u2019s last letter to herself), Charles Hayter had"
-      },
-      "23": {
-        "mentions": 1,
-        "snippet": "Charles Hayter was quite wild about it, and Henrietta was pretty near"
-      },
-      "24": {
-        "mentions": 1,
-        "snippet": "Benwick or Charles Hayter."
-      }
-    },
-    "co_occurs_with": {
-      "Mrs Musgrove": 11,
-      "Captain Wentworth": 11,
-      "Anne": 10,
-      "Lady Russell": 10,
-      "Mr Musgrove": 10,
-      "Mr Elliot": 9,
-      "Mary": 8,
-      "Miss Elliot": 8
-    }
-  },
-  {
     "canonical_name": "Mrs Harville",
     "aliases": [],
     "first_chapter": 8,
@@ -1570,10 +1489,71 @@
       "Captain Wentworth": 7,
       "Mrs Musgrove": 7,
       "Captain Benwick": 6,
-      "Charles Hayter": 6,
       "Lady Russell": 6,
       "Louisa": 6,
-      "Miss Elliot": 6
+      "Miss Elliot": 6,
+      "Mr Elliot": 6
+    }
+  },
+  {
+    "canonical_name": "Charles Hayter",
+    "aliases": [
+      "Charles",
+      "Hayter"
+    ],
+    "first_chapter": 6,
+    "total_mentions": 37,
+    "per_chapter": {
+      "6": {
+        "mentions": 5,
+        "snippet": "Mrs Charles had a little of your method with those children."
+      },
+      "9": {
+        "mentions": 16,
+        "snippet": "when a certain Charles Hayter returned among them, to be a good deal"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "After a short struggle, however, Charles Hayter seemed to quit the"
+      },
+      "11": {
+        "mentions": 3,
+        "snippet": "Her usefulness to little Charles would always give some"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "They were indebted, the next day, to Charles Hayter, for all the minute"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Though neither Henrietta, nor Louisa, nor Charles Hayter, nor Captain"
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "Charles Hayter, who had been calling much oftener than was welcome."
+      },
+      "22": {
+        "mentions": 3,
+        "snippet": "recently, (since Mary\u2019s last letter to herself), Charles Hayter had"
+      },
+      "23": {
+        "mentions": 1,
+        "snippet": "Charles Hayter was quite wild about it, and Henrietta was pretty near"
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "Benwick or Charles Hayter."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 10,
+      "Lady Russell": 9,
+      "Mrs Musgrove": 9,
+      "Mr Musgrove": 8,
+      "Anne": 7,
+      "Uppercross": 7,
+      "Captain Benwick": 7,
+      "Louisa": 7
     }
   },
   {
@@ -1634,12 +1614,12 @@
     "co_occurs_with": {
       "Mrs Musgrove": 12,
       "Captain Wentworth": 11,
-      "Charles Hayter": 10,
-      "Anne": 9,
       "Lady Russell": 9,
       "Mary": 9,
+      "Anne": 8,
       "Miss Elliot": 8,
-      "Mr Elliot": 8
+      "Mr Elliot": 8,
+      "Charles Hayter": 8
     }
   },
   {
@@ -2054,8 +2034,8 @@
       "Mr Elliot": 8,
       "Sir Walter": 7,
       "Kellynch Hall": 6,
-      "Mary": 5,
-      "Mrs Croft": 5
+      "Mrs Croft": 5,
+      "Camden Place": 5
     }
   },
   {
@@ -2078,14 +2058,14 @@
       }
     },
     "co_occurs_with": {
-      "Charles Hayter": 3,
       "Kellynch Hall": 3,
       "Miss Elliot": 3,
       "Mr Elliot": 3,
       "Mrs Croft": 3,
       "Mrs Musgrove": 3,
       "Anne": 2,
-      "Lady Russell": 2
+      "Lady Russell": 2,
+      "Miss Musgroves": 2
     }
   },
   {
@@ -2184,10 +2164,10 @@
       "Captain Benwick": 3,
       "Captain Harville": 3,
       "Captain Wentworth": 3,
-      "Henrietta": 3,
       "Lady Russell": 3,
       "Louisa": 3,
-      "Lyme": 3
+      "Lyme": 3,
+      "Mary": 3
     }
   },
   {
@@ -2300,12 +2280,12 @@
     "co_occurs_with": {
       "Captain Wentworth": 4,
       "Mrs Croft": 4,
-      "Anne": 3,
       "Kellynch Hall": 3,
       "Miss Elliot": 3,
       "Mr Elliot": 3,
       "Sir Walter": 3,
-      "Charles Musgrove": 3
+      "Charles Musgrove": 3,
+      "Lady Russell": 3
     }
   },
   {
@@ -2337,10 +2317,10 @@
     },
     "co_occurs_with": {
       "Captain Wentworth": 5,
-      "Mary": 5,
       "Mrs Musgrove": 5,
       "Charles Hayter": 4,
       "Lady Russell": 4,
+      "Mary": 4,
       "Mr Musgrove": 4,
       "Mrs Croft": 4,
       "Sir Walter": 4
@@ -2455,9 +2435,9 @@
       "Mrs Musgrove": 4,
       "Anne": 3,
       "Bath": 3,
-      "Charles Hayter": 3,
       "Kellynch Hall": 3,
-      "Lady Russell": 3
+      "Lady Russell": 3,
+      "Miss Musgroves": 3
     }
   },
   {
@@ -2513,6 +2493,42 @@
     }
   },
   {
+    "canonical_name": "Captain Frederick Wentworth",
+    "aliases": [
+      "Frederick"
+    ],
+    "first_chapter": 4,
+    "total_mentions": 8,
+    "per_chapter": {
+      "4": {
+        "mentions": 2,
+        "snippet": "suspicious appearances may be, but a Captain Frederick Wentworth, his"
+      },
+      "6": {
+        "mentions": 2,
+        "snippet": "board Captain Frederick Wentworth\u2019s frigate, the Laconia; and from the"
+      },
+      "9": {
+        "mentions": 1,
+        "snippet": "Sir Frederick and Lady Wentworth!"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "\u201cHere, Frederick, you and I part company, I believe,\u201d said she."
+      }
+    },
+    "co_occurs_with": {
+      "Captain Wentworth": 4,
+      "Mrs Croft": 4,
+      "Lady Russell": 3,
+      "Sir Walter": 3,
+      "Charles Hayter": 3,
+      "Mr Musgrove": 3,
+      "Mrs Musgrove": 3,
+      "Anne Elliot": 2
+    }
+  },
+  {
     "canonical_name": "Uppercross Cottage",
     "aliases": [
       "Cottage"
@@ -2540,8 +2556,8 @@
       "Mrs Musgrove": 3,
       "Anne": 2,
       "Bath": 2,
-      "Charles Hayter": 2,
-      "Elizabeth": 2
+      "Elizabeth": 2,
+      "Kellynch Hall": 2
     }
   },
   {
@@ -2611,36 +2627,6 @@
     }
   },
   {
-    "canonical_name": "Frederick",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 7,
-    "per_chapter": {
-      "8": {
-        "mentions": 3,
-        "snippet": "\u201cIf you had been a week later at Lisbon, last spring, Frederick, you"
-      },
-      "9": {
-        "mentions": 1,
-        "snippet": "Sir Frederick and Lady Wentworth!"
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "\u201cHere, Frederick, you and I part company, I believe,\u201d said she."
-      }
-    },
-    "co_occurs_with": {
-      "Captain Wentworth": 3,
-      "Charles Hayter": 3,
-      "Mr Musgrove": 3,
-      "Mrs Croft": 3,
-      "Mrs Musgrove": 3,
-      "Anne Elliot": 2,
-      "Henrietta": 2,
-      "Miss Musgroves": 2
-    }
-  },
-  {
     "canonical_name": "Winthrop",
     "aliases": [],
     "first_chapter": 10,
@@ -2653,13 +2639,13 @@
     },
     "co_occurs_with": {
       "Admiral Croft": 1,
-      "Anne": 1,
       "Captain Wentworth": 1,
       "Charles Hayter": 1,
       "Charles Musgrove": 1,
       "Henrietta": 1,
       "Lady Russell": 1,
-      "Louisa": 1
+      "Louisa": 1,
+      "Mary": 1
     }
   },
   {
@@ -2735,9 +2721,9 @@
       "Anne Elliot": 1,
       "Captain Harville": 1,
       "Captain Wentworth": 1,
-      "Charles Hayter": 1,
       "Dick Musgrove": 1,
-      "East Indies": 1
+      "East Indies": 1,
+      "Gibraltar": 1
     }
   },
   {
@@ -3037,32 +3023,6 @@
     }
   },
   {
-    "canonical_name": "Captain Frederick Wentworth",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 4,
-    "per_chapter": {
-      "4": {
-        "mentions": 2,
-        "snippet": "suspicious appearances may be, but a Captain Frederick Wentworth, his"
-      },
-      "6": {
-        "mentions": 2,
-        "snippet": "board Captain Frederick Wentworth\u2019s frigate, the Laconia; and from the"
-      }
-    },
-    "co_occurs_with": {
-      "Captain Wentworth": 2,
-      "Frederick Wentworth": 2,
-      "Kellynch Hall": 2,
-      "Lady Russell": 2,
-      "Mr Wentworth": 2,
-      "Mrs Croft": 2,
-      "Sir Walter": 2,
-      "Admiral Croft": 1
-    }
-  },
-  {
     "canonical_name": "Frederick Wentworth",
     "aliases": [],
     "first_chapter": 4,
@@ -3162,30 +3122,8 @@
       "Captain Harville": 3,
       "Captain Wentworth": 3,
       "Charles Hayter": 3,
-      "Henrietta": 3,
-      "Lady Russell": 3
-    }
-  },
-  {
-    "canonical_name": "Sophy",
-    "aliases": [],
-    "first_chapter": 18,
-    "total_mentions": 4,
-    "per_chapter": {
-      "18": {
-        "mentions": 4,
-        "snippet": "Sophy"
-      }
-    },
-    "co_occurs_with": {
-      "Admiral Brand": 1,
-      "Admiral Croft": 1,
-      "Anne": 1,
-      "Archibald Drew": 1,
-      "Bath": 1,
-      "Camden Place": 1,
-      "Captain Benwick": 1,
-      "Captain Brigden": 1
+      "Lady Russell": 3,
+      "Miss Elliot": 3
     }
   },
   {
@@ -3207,7 +3145,7 @@
       "Charles Smith": 1,
       "Colonel Wallis": 1,
       "Dear Smith": 1,
-      "Indeed": 1
+      "Kellynch Hall": 1
     }
   },
   {
@@ -3252,8 +3190,8 @@
       "Asp": 1,
       "Captain Harville": 1,
       "Captain Wentworth": 1,
-      "Charles Hayter": 1,
-      "Dick Musgrove": 1
+      "Dick Musgrove": 1,
+      "East Indies": 1
     }
   },
   {
@@ -3304,8 +3242,8 @@
       "Asp": 1,
       "Captain Harville": 1,
       "Captain Wentworth": 1,
-      "Charles Hayter": 1,
-      "Dick Musgrove": 1
+      "Dick Musgrove": 1,
+      "East Indies": 1
     }
   },
   {
@@ -3326,8 +3264,8 @@
       "Asp": 1,
       "Captain Harville": 1,
       "Captain Wentworth": 1,
-      "Charles Hayter": 1,
-      "Dick Musgrove": 1
+      "Dick Musgrove": 1,
+      "East Indies": 1
     }
   },
   {
@@ -3348,8 +3286,8 @@
       "Asp": 1,
       "Captain Harville": 1,
       "Captain Wentworth": 1,
-      "Charles Hayter": 1,
-      "Dick Musgrove": 1
+      "Dick Musgrove": 1,
+      "East Indies": 1
     }
   },
   {
@@ -3365,11 +3303,11 @@
     },
     "co_occurs_with": {
       "Anne Elliot": 1,
+      "Captain Frederick Wentworth": 1,
       "Captain Wentworth": 1,
       "Charles Hayter": 1,
       "Cousin Charles": 1,
       "Dr Shirley": 1,
-      "Frederick": 1,
       "Henrietta": 1,
       "Louisa": 1
     }
@@ -3391,13 +3329,13 @@
     },
     "co_occurs_with": {
       "Admiral Croft": 2,
-      "Anne": 2,
       "Captain Wentworth": 2,
       "Charles Hayter": 2,
       "Charles Musgrove": 2,
       "Henrietta": 2,
       "Lady Russell": 2,
-      "Louisa": 2
+      "Louisa": 2,
+      "Mary": 2
     }
   },
   {
@@ -3721,28 +3659,6 @@
       "21": {
         "mentions": 3,
         "snippet": "Was not it Mrs Speed, as usual, or the maid?"
-      }
-    },
-    "co_occurs_with": {
-      "Anne Elliot": 1,
-      "Bath": 1,
-      "Camden Place": 1,
-      "Captain Wentworth": 1,
-      "Charles Smith": 1,
-      "Colonel Wallis": 1,
-      "Dear Smith": 1,
-      "Indeed": 1
-    }
-  },
-  {
-    "canonical_name": "Indeed",
-    "aliases": [],
-    "first_chapter": 21,
-    "total_mentions": 3,
-    "per_chapter": {
-      "21": {
-        "mentions": 3,
-        "snippet": "\u201cIndeed!"
       }
     },
     "co_occurs_with": {

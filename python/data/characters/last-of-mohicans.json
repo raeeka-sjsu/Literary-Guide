@@ -3,7 +3,7 @@
     "canonical_name": "Heyward",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 266,
+    "total_mentions": 263,
     "per_chapter": {
       "2": {
         "mentions": 4,
@@ -101,10 +101,6 @@
         "mentions": 10,
         "snippet": "Close at their side stood Heyward,"
       },
-      "30": {
-        "mentions": 3,
-        "snippet": "Heyward struggled madly with his captors; the"
-      },
       "31": {
         "mentions": 3,
         "snippet": "When Heyward"
@@ -119,14 +115,14 @@
       }
     },
     "co_occurs_with": {
-      "Duncan": 20,
-      "Uncas": 17,
-      "Hawkeye": 17,
-      "Huron": 16,
-      "Cora": 15,
-      "Alice": 13,
-      "Magua": 12,
-      "William Henry": 11
+      "Duncan": 19,
+      "Uncas": 15,
+      "Huron": 15,
+      "Hawkeye": 14,
+      "Cora": 13,
+      "Alice": 12,
+      "William Henry": 11,
+      "Magua": 10
     }
   },
   {
@@ -217,13 +213,13 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 20,
-      "Hawkeye": 15,
-      "Uncas": 14,
+      "Heyward": 19,
       "Huron": 14,
-      "Cora": 10,
-      "Magua": 10,
+      "Hawkeye": 13,
+      "Uncas": 13,
+      "Cora": 9,
       "Hurons": 9,
+      "Magua": 9,
       "Alice": 9
     }
   },
@@ -231,7 +227,7 @@
     "canonical_name": "Uncas",
     "aliases": [],
     "first_chapter": 3,
-    "total_mentions": 229,
+    "total_mentions": 226,
     "per_chapter": {
       "3": {
         "mentions": 7,
@@ -252,10 +248,6 @@
       "12": {
         "mentions": 19,
         "snippet": "Uncas answered the whoop, and leaping on an enemy, with a single, well-directed"
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "Uncas, clear out the spring, while your father and I make a cover for"
       },
       "14": {
         "mentions": 3,
@@ -311,21 +303,21 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 17,
-      "Hawkeye": 16,
-      "Duncan": 14,
+      "Heyward": 15,
+      "Hawkeye": 15,
+      "Duncan": 13,
       "Huron": 13,
-      "Chingachgook": 10,
       "Mohicans": 8,
       "Mohican": 8,
-      "Hurons": 8
+      "Indians": 7,
+      "Hurons": 7
     }
   },
   {
     "canonical_name": "Hawkeye",
     "aliases": [],
     "first_chapter": 3,
-    "total_mentions": 203,
+    "total_mentions": 189,
     "per_chapter": {
       "3": {
         "mentions": 8,
@@ -347,10 +339,6 @@
         "mentions": 16,
         "snippet": "next moment, Hawkeye, too eager to load the rifle he had regained, was seen"
       },
-      "13": {
-        "mentions": 9,
-        "snippet": "The route taken by Hawkeye lay across those sandy plains, relived by occasional"
-      },
       "14": {
         "mentions": 12,
         "snippet": "When the banks of the little stream were gained, Hawkeye made another halt; and"
@@ -370,10 +358,6 @@
       "21": {
         "mentions": 12,
         "snippet": "As Hawkeye and the Mohicans had, however, often traversed the mountains and"
-      },
-      "22": {
-        "mentions": 5,
-        "snippet": "The merriment of Hawkeye was not easily appeased."
       },
       "25": {
         "mentions": 4,
@@ -405,21 +389,21 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 17,
-      "Uncas": 16,
-      "Duncan": 15,
+      "Uncas": 15,
+      "Heyward": 14,
+      "Duncan": 13,
       "Huron": 12,
-      "Chingachgook": 11,
-      "Cora": 9,
-      "Alice": 8,
-      "Hurons": 8
+      "Cora": 8,
+      "Mohicans": 7,
+      "Mohican": 7,
+      "Indians": 7
     }
   },
   {
     "canonical_name": "Magua",
     "aliases": [],
     "first_chapter": 4,
-    "total_mentions": 185,
+    "total_mentions": 182,
     "per_chapter": {
       "4": {
         "mentions": 7,
@@ -440,10 +424,6 @@
       "17": {
         "mentions": 13,
         "snippet": "\u201cMagua is a great chief."
-      },
-      "22": {
-        "mentions": 3,
-        "snippet": "Magua had waited on the mountain until a safe moment to retire presented"
       },
       "24": {
         "mentions": 14,
@@ -479,14 +459,14 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 12,
       "Huron": 12,
-      "Duncan": 10,
+      "Heyward": 10,
+      "Duncan": 9,
       "Le Renard Subtil": 7,
       "David": 7,
-      "Cora": 7,
-      "Delawares": 7,
-      "Hawkeye": 7
+      "Le Renard": 6,
+      "Indians": 6,
+      "Cora": 6
     }
   },
   {
@@ -573,7 +553,7 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 16,
+      "Heyward": 15,
       "Duncan": 14,
       "Uncas": 13,
       "Hawkeye": 12,
@@ -587,7 +567,7 @@
     "canonical_name": "Cora",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 132,
+    "total_mentions": 129,
     "per_chapter": {
       "2": {
         "mentions": 9,
@@ -629,10 +609,6 @@
         "mentions": 20,
         "snippet": "Though the cheeks of Cora"
       },
-      "22": {
-        "mentions": 3,
-        "snippet": "Cora had been sent to a tribe that temporarily occupied an adjacent valley,"
-      },
       "29": {
         "mentions": 10,
         "snippet": "Cora stood foremost among the prisoners, entwining her arms in those of Alice,"
@@ -651,26 +627,22 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 15,
-      "Duncan": 10,
-      "Alice": 10,
-      "Hawkeye": 9,
+      "Heyward": 13,
+      "Duncan": 9,
+      "Hawkeye": 8,
+      "Alice": 8,
       "Major Heyward": 7,
-      "Magua": 7,
       "Uncas": 6,
-      "Munro": 6
+      "Huron": 6,
+      "Magua": 6
     }
   },
   {
     "canonical_name": "Alice",
     "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 104,
+    "first_chapter": 6,
+    "total_mentions": 96,
     "per_chapter": {
-      "2": {
-        "mentions": 8,
-        "snippet": "\u201cSay, rather, Alice, that I would not trust you."
-      },
       "6": {
         "mentions": 16,
         "snippet": "ingenuous Alice gazed at his free air and proud carriage, as she would have"
@@ -721,14 +693,14 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 13,
-      "Cora": 10,
+      "Heyward": 12,
       "Duncan": 9,
-      "Hawkeye": 8,
-      "Major Heyward": 6,
+      "Cora": 8,
+      "Hawkeye": 6,
       "Huron": 6,
-      "Magua": 6,
-      "Munro": 5
+      "Major Heyward": 5,
+      "Magua": 5,
+      "Munro": 4
     }
   },
   {
@@ -781,12 +753,12 @@
     "co_occurs_with": {
       "Duncan": 9,
       "Heyward": 9,
-      "Hawkeye": 8,
       "Huron": 8,
-      "Uncas": 8,
-      "Chingachgook": 6,
-      "Magua": 5,
-      "Delawares": 5
+      "Uncas": 7,
+      "Hawkeye": 6,
+      "Delawares": 5,
+      "Mohicans": 4,
+      "Tis": 4
     }
   },
   {
@@ -837,133 +809,13 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 9,
-      "Hawkeye": 8,
-      "Uncas": 7,
+      "Heyward": 8,
       "Duncan": 7,
-      "Magua": 7,
-      "Huron": 6,
-      "Hurons": 5,
-      "Cora": 5
-    }
-  },
-  {
-    "canonical_name": "Chingachgook",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 60,
-    "per_chapter": {
-      "3": {
-        "mentions": 5,
-        "snippet": "\u201cEven your traditions make the case in my favor, Chingachgook,\u201d he"
-      },
-      "6": {
-        "mentions": 3,
-        "snippet": "calmed them, with the assurance it was only their attendant, Chingachgook, who,"
-      },
-      "8": {
-        "mentions": 7,
-        "snippet": "A steady, though deliberate return was made from the rifle of Chingachgook, who"
-      },
-      "12": {
-        "mentions": 4,
-        "snippet": "loud whoop upon the expected Chingachgook."
-      },
-      "13": {
-        "mentions": 7,
-        "snippet": "recollections were reviving at each moment, Chingachgook related to his son, in"
-      },
-      "18": {
-        "mentions": 4,
-        "snippet": "you, Chingachgook,\u201d he added, in Delaware; \u201cshall the Hurons boast"
-      },
-      "19": {
-        "mentions": 11,
-        "snippet": "The head of Chingachgook was resting on a hand, as he sat musing by himself but"
-      },
-      "20": {
-        "mentions": 6,
-        "snippet": "Chingachgook laid aside his paddle; while Uncas and the scout urged the light"
-      },
-      "21": {
-        "mentions": 3,
-        "snippet": "appeals to the opinion of Chingachgook were frequent and earnest."
-      },
-      "32": {
-        "mentions": 5,
-        "snippet": "We shall not pause to detail the meeting between the scout and Chingachgook, or"
-      },
-      "33": {
-        "mentions": 5,
-        "snippet": "Directly in front of the corpse Chingachgook was placed, without arms, paint or"
-      }
-    },
-    "co_occurs_with": {
-      "Hawkeye": 11,
-      "Heyward": 10,
-      "Uncas": 10,
-      "Duncan": 8,
-      "Huron": 7,
-      "Hurons": 6,
-      "Mohican": 5,
-      "Mohicans": 5
-    }
-  },
-  {
-    "canonical_name": "David",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 60,
-    "per_chapter": {
-      "7": {
-        "mentions": 5,
-        "snippet": "to a dangerous elevation; while David, in imitation of the woodsmen, bestowed"
-      },
-      "9": {
-        "mentions": 9,
-        "snippet": "\u201cThe Hurons are not to be seen,\u201d he said, addressing David, who had"
-      },
-      "10": {
-        "mentions": 4,
-        "snippet": "the sisters and the still wondering David."
-      },
-      "12": {
-        "mentions": 10,
-        "snippet": "approached David, and liberated him from the bonds he had, until that moment,"
-      },
-      "17": {
-        "mentions": 8,
-        "snippet": "There he found David,"
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "council-lodge, resolved to seek and question David, in order to put an end to"
-      },
-      "27": {
-        "mentions": 5,
-        "snippet": "David for that of the prisoner; but the very accident which Hawkeye had"
-      },
-      "31": {
-        "mentions": 3,
-        "snippet": "within hearing of David, he attempted to repeat the musical effort, which had"
-      },
-      "32": {
-        "mentions": 8,
-        "snippet": "David, whose face was a little flushed, and whose ordinarily quiet and"
-      },
-      "33": {
-        "mentions": 4,
-        "snippet": "Even David was not"
-      }
-    },
-    "co_occurs_with": {
-      "Heyward": 9,
-      "Duncan": 7,
-      "Huron": 7,
-      "Magua": 7,
-      "Cora": 6,
       "Uncas": 6,
-      "Hawkeye": 5,
+      "Hawkeye": 6,
+      "Huron": 6,
+      "Magua": 6,
+      "Hurons": 5,
       "Indians": 4
     }
   },
@@ -1015,14 +867,68 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 9,
+      "Heyward": 8,
       "Duncan": 7,
       "Hawkeye": 7,
       "Huron": 7,
       "Uncas": 7,
       "Magua": 5,
       "Royal Americans": 4,
-      "Chingachgook": 4
+      "Mohican": 4
+    }
+  },
+  {
+    "canonical_name": "David",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 55,
+    "per_chapter": {
+      "9": {
+        "mentions": 9,
+        "snippet": "\u201cThe Hurons are not to be seen,\u201d he said, addressing David, who had"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "the sisters and the still wondering David."
+      },
+      "12": {
+        "mentions": 10,
+        "snippet": "approached David, and liberated him from the bonds he had, until that moment,"
+      },
+      "17": {
+        "mentions": 8,
+        "snippet": "There he found David,"
+      },
+      "24": {
+        "mentions": 4,
+        "snippet": "council-lodge, resolved to seek and question David, in order to put an end to"
+      },
+      "27": {
+        "mentions": 5,
+        "snippet": "David for that of the prisoner; but the very accident which Hawkeye had"
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "within hearing of David, he attempted to repeat the musical effort, which had"
+      },
+      "32": {
+        "mentions": 8,
+        "snippet": "David, whose face was a little flushed, and whose ordinarily quiet and"
+      },
+      "33": {
+        "mentions": 4,
+        "snippet": "Even David was not"
+      }
+    },
+    "co_occurs_with": {
+      "Heyward": 8,
+      "Huron": 7,
+      "Magua": 7,
+      "Duncan": 6,
+      "Cora": 5,
+      "Uncas": 5,
+      "Indians": 4,
+      "La Longue Carabine": 4
     }
   },
   {
@@ -1087,8 +993,8 @@
       "Uncas": 7,
       "Hawkeye": 7,
       "Magua": 6,
-      "Chingachgook": 5,
-      "Delawares": 4
+      "Delawares": 4,
+      "Le Subtil": 4
     }
   },
   {
@@ -1129,7 +1035,7 @@
     "co_occurs_with": {
       "Cora": 7,
       "Heyward": 7,
-      "Alice": 6,
+      "Alice": 5,
       "Munro": 4,
       "William Henry": 4,
       "Miss Munro": 3,
@@ -1180,10 +1086,56 @@
       "Huron": 8,
       "Uncas": 8,
       "Hawkeye": 7,
-      "Heyward": 7,
+      "Heyward": 6,
       "Duncan": 6,
-      "Chingachgook": 5,
+      "Chingachgook": 4,
       "Delaware": 4,
+      "Indians": 4
+    }
+  },
+  {
+    "canonical_name": "Chingachgook",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 39,
+    "per_chapter": {
+      "3": {
+        "mentions": 5,
+        "snippet": "\u201cEven your traditions make the case in my favor, Chingachgook,\u201d he"
+      },
+      "6": {
+        "mentions": 3,
+        "snippet": "calmed them, with the assurance it was only their attendant, Chingachgook, who,"
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "loud whoop upon the expected Chingachgook."
+      },
+      "13": {
+        "mentions": 7,
+        "snippet": "recollections were reviving at each moment, Chingachgook related to his son, in"
+      },
+      "18": {
+        "mentions": 4,
+        "snippet": "you, Chingachgook,\u201d he added, in Delaware; \u201cshall the Hurons boast"
+      },
+      "19": {
+        "mentions": 11,
+        "snippet": "The head of Chingachgook was resting on a hand, as he sat musing by himself but"
+      },
+      "32": {
+        "mentions": 5,
+        "snippet": "We shall not pause to detail the meeting between the scout and Chingachgook, or"
+      }
+    },
+    "co_occurs_with": {
+      "Hawkeye": 6,
+      "Heyward": 6,
+      "Uncas": 5,
+      "Duncan": 5,
+      "Alice": 4,
+      "Huron": 4,
+      "Mohican": 4,
       "Indians": 4
     }
   },
@@ -1191,7 +1143,7 @@
     "canonical_name": "Montcalm",
     "aliases": [],
     "first_chapter": 14,
-    "total_mentions": 38,
+    "total_mentions": 35,
     "per_chapter": {
       "14": {
         "mentions": 4,
@@ -1209,10 +1161,6 @@
         "mentions": 7,
         "snippet": "breast, Montcalm sternly demanded:"
       },
-      "18": {
-        "mentions": 3,
-        "snippet": "know that Montcalm died like a hero on the plains of Abraham, have yet to learn"
-      },
       "19": {
         "mentions": 4,
         "snippet": "Montcalm has not yet entirely deserted his conquest."
@@ -1223,14 +1171,14 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 7,
-      "William Henry": 7,
-      "Munro": 5,
+      "Heyward": 6,
+      "William Henry": 6,
       "Cora": 4,
-      "Hawkeye": 4,
-      "Uncas": 4,
-      "Miss Munro": 4,
-      "Huron": 4
+      "Munro": 4,
+      "Duncan": 3,
+      "Hawkeye": 3,
+      "Let": 3,
+      "Tis": 3
     }
   },
   {
@@ -1277,17 +1225,17 @@
       "Uncas": 8,
       "Hawkeye": 7,
       "Duncan": 6,
-      "Chingachgook": 5,
       "Huron": 5,
       "Tis": 4,
-      "Hurons": 4
+      "Hurons": 4,
+      "New York": 3
     }
   },
   {
     "canonical_name": "Munro",
     "aliases": [],
     "first_chapter": 11,
-    "total_mentions": 30,
+    "total_mentions": 27,
     "per_chapter": {
       "11": {
         "mentions": 10,
@@ -1317,31 +1265,27 @@
         "mentions": 3,
         "snippet": "associates, Munro and Duncan slept without fear, if not without uneasiness."
       },
-      "22": {
-        "mentions": 3,
-        "snippet": "\u201d exclaimed the trembling Munro;"
-      },
       "33": {
         "mentions": 7,
         "snippet": "At her feet was seated the desolate Munro."
       }
     },
     "co_occurs_with": {
-      "Heyward": 9,
-      "Cora": 6,
-      "Alice": 5,
-      "Montcalm": 5,
+      "Heyward": 8,
+      "Cora": 5,
       "William Henry": 5,
-      "Hawkeye": 5,
       "Huron": 5,
-      "Major Heyward": 4
+      "Alice": 4,
+      "Major Heyward": 4,
+      "Miss Munro": 4,
+      "Montcalm": 4
     }
   },
   {
     "canonical_name": "Sagamore",
     "aliases": [],
     "first_chapter": 19,
-    "total_mentions": 28,
+    "total_mentions": 25,
     "per_chapter": {
       "19": {
         "mentions": 7,
@@ -1350,10 +1294,6 @@
       "20": {
         "mentions": 8,
         "snippet": "The eyes of the Sagamore moved warily from islet to islet, and copse to copse,"
-      },
-      "21": {
-        "mentions": 3,
-        "snippet": "Look sharp for wheels, Sagamore,\u201d"
       },
       "25": {
         "mentions": 4,
@@ -1369,14 +1309,14 @@
       }
     },
     "co_occurs_with": {
-      "Hawkeye": 6,
-      "Heyward": 6,
-      "Uncas": 6,
-      "Chingachgook": 5,
-      "Duncan": 5,
-      "Huron": 5,
-      "Hurons": 3,
-      "Indians": 3
+      "Hawkeye": 5,
+      "Heyward": 5,
+      "Uncas": 5,
+      "Duncan": 4,
+      "Huron": 4,
+      "Indians": 3,
+      "William Henry": 3,
+      "Delaware": 3
     }
   },
   {
@@ -1417,38 +1357,12 @@
     "co_occurs_with": {
       "Heyward": 7,
       "Duncan": 5,
-      "Hawkeye": 5,
-      "Cora": 4,
+      "Hawkeye": 4,
       "Mohicans": 4,
       "Uncas": 4,
       "William Henry": 4,
-      "Huron": 4
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 24,
-    "per_chapter": {
-      "5": {
-        "mentions": 14,
-        "snippet": "The suddenness of the flight of his guide, and the wild cries of the pursuers,"
-      },
-      "16": {
-        "mentions": 10,
-        "snippet": "The thistle is the order"
-      }
-    },
-    "co_occurs_with": {
-      "Heyward": 2,
-      "An Indian": 1,
-      "Delawares": 1,
-      "Did This": 1,
-      "Indians": 1,
-      "Iroquois": 1,
-      "Le Subtil": 1,
-      "Mohicans": 1
+      "Huron": 4,
+      "Hurons": 4
     }
   },
   {
@@ -1514,8 +1428,8 @@
     },
     "co_occurs_with": {
       "Heyward": 11,
-      "Montcalm": 7,
       "Huron": 7,
+      "Montcalm": 6,
       "Le Renard Subtil": 6,
       "Cora": 5,
       "Duncan": 5,
@@ -1551,14 +1465,14 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 5,
       "Duncan": 4,
-      "Hawkeye": 4,
-      "Cora": 3,
+      "Heyward": 4,
+      "Hawkeye": 3,
       "Royal Americans": 3,
       "Tis": 3,
       "Uncas": 3,
-      "William Henry": 3
+      "William Henry": 3,
+      "Delaware": 3
     }
   },
   {
@@ -1601,7 +1515,7 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 7,
+      "Heyward": 6,
       "Magua": 6,
       "Huron": 6,
       "Le Renard Subtil": 5,
@@ -1639,40 +1553,6 @@
       "Delawares": 2,
       "Hawkeye": 2,
       "Heyward": 2
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 15,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "\u201cThere is reason in an Indian, though nature has made him with a red"
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "\u2019 There he hunted and"
-      },
-      "16": {
-        "mentions": 6,
-        "snippet": "There it was my lot to form a connection with one"
-      },
-      "19": {
-        "mentions": 3,
-        "snippet": "\u201cThere would be picking, too, among"
-      }
-    },
-    "co_occurs_with": {
-      "Heyward": 3,
-      "Indians": 3,
-      "Cora": 2,
-      "Major Heyward": 2,
-      "Montcalm": 2,
-      "Munro": 2,
-      "William Henry": 2,
-      "Chingachgook": 2
     }
   },
   {
@@ -1732,11 +1612,11 @@
       "Hawkeye": 3,
       "Heyward": 3,
       "Mohicans": 3,
-      "Montcalm": 3,
       "Uncas": 3,
       "William Henry": 3,
       "Duncan": 2,
-      "Lake George": 2
+      "Lake George": 2,
+      "Let": 2
     }
   },
   {
@@ -1814,13 +1694,13 @@
     },
     "co_occurs_with": {
       "Huron": 6,
-      "Magua": 6,
       "Heyward": 6,
+      "Magua": 5,
       "Duncan": 5,
       "Uncas": 5,
-      "Cora": 4,
       "Indians": 4,
-      "Delawares": 4
+      "Delawares": 4,
+      "Hurons": 4
     }
   },
   {
@@ -1859,7 +1739,7 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 7,
+      "Heyward": 6,
       "Le Renard": 5,
       "Magua": 5,
       "Duncan": 5,
@@ -1913,7 +1793,7 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 8,
+      "Heyward": 7,
       "Huron": 7,
       "Magua": 7,
       "Duncan": 6,
@@ -1945,12 +1825,34 @@
     "co_occurs_with": {
       "Delaware": 3,
       "Duncan": 3,
-      "Heyward": 3,
       "Huron": 3,
       "Lenni Lenape": 3,
+      "Heyward": 2,
       "Uncas": 2,
       "Cora": 2,
       "Delawares": 2
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 16,
+    "total_mentions": 10,
+    "per_chapter": {
+      "16": {
+        "mentions": 10,
+        "snippet": "The thistle is the order"
+      }
+    },
+    "co_occurs_with": {
+      "Alice Graham": 1,
+      "Ask the French": 1,
+      "Colonel Munro": 1,
+      "Cora": 1,
+      "Duncan Heyward": 1,
+      "Heyward": 1,
+      "Let General Webb": 1,
+      "Let the Frenchman": 1
     }
   },
   {
@@ -2012,10 +1914,10 @@
     },
     "co_occurs_with": {
       "Duncan": 5,
-      "Heyward": 5,
       "Huron": 5,
       "Magua": 5,
       "David": 4,
+      "Heyward": 4,
       "Indians": 4,
       "Le Renard": 4,
       "Le Renard Subtil": 3
@@ -2078,12 +1980,12 @@
     },
     "co_occurs_with": {
       "Heyward": 4,
-      "Montcalm": 4,
       "Munro": 4,
       "William Henry": 4,
       "Alice": 3,
       "Cora": 3,
       "Major Heyward": 3,
+      "Montcalm": 3,
       "Duncan Heyward": 2
     }
   },
@@ -2134,32 +2036,6 @@
     }
   },
   {
-    "canonical_name": "Though",
-    "aliases": [],
-    "first_chapter": 22,
-    "total_mentions": 7,
-    "per_chapter": {
-      "22": {
-        "mentions": 3,
-        "snippet": "Though our wayfaring has been sore and our sustenance scanty,"
-      },
-      "32": {
-        "mentions": 4,
-        "snippet": "\u201cThough not admonished of your intentions in words,\u201d returned"
-      }
-    },
-    "co_occurs_with": {
-      "Delawares": 2,
-      "Duncan": 2,
-      "Hawkeye": 2,
-      "Heyward": 2,
-      "Hurons": 2,
-      "Magua": 2,
-      "Alice": 1,
-      "Cora": 1
-    }
-  },
-  {
     "canonical_name": "Lenape",
     "aliases": [],
     "first_chapter": 33,
@@ -2171,14 +2047,14 @@
       }
     },
     "co_occurs_with": {
-      "Chingachgook": 1,
       "Cora": 1,
       "David": 1,
       "Delaware": 1,
       "Delawares": 1,
       "Gray Head": 1,
       "Great Spirit": 1,
-      "Hawkeye": 1
+      "Hawkeye": 1,
+      "Heyward": 1
     }
   },
   {
@@ -2208,39 +2084,13 @@
     },
     "co_occurs_with": {
       "Alice": 3,
-      "Cora": 3,
       "Heyward": 3,
-      "Hawkeye": 3,
+      "Cora": 2,
       "Huron": 2,
-      "Magua": 2,
       "Major Heyward": 2,
-      "Munro": 2
-    }
-  },
-  {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 6,
-    "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "\u201cHere is nothing to be seen but the gloom and quiet of a lovely"
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "\u201cHere are no dead,\u201d said Heyward; \u201cthe storm seems not to"
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 2,
-      "Hawkeye": 2,
-      "Heyward": 2,
-      "Mohicans": 2,
-      "Uncas": 2,
-      "Chingachgook": 1,
-      "French Indians": 1,
-      "Great Lakes": 1
+      "Tis": 2,
+      "Duncan": 2,
+      "Hawkeye": 2
     }
   },
   {
@@ -2361,10 +2211,10 @@
       "Heyward": 4,
       "Mohicans": 3,
       "Uncas": 3,
-      "Montcalm": 3,
       "Great Britain": 2,
       "Lake George": 2,
-      "Cora": 2
+      "Cora": 2,
+      "Hawkeye": 2
     }
   },
   {
@@ -2425,8 +2275,8 @@
       }
     },
     "co_occurs_with": {
-      "Heyward": 3,
       "Cora": 2,
+      "Heyward": 2,
       "William Henry": 2,
       "Duncan": 2,
       "Huron": 2,
@@ -2456,9 +2306,9 @@
       "Munro": 2,
       "William Henry": 2,
       "Childe Harold": 1,
-      "Chingachgook": 1,
       "Duncan": 1,
-      "Hawkeye": 1
+      "Hawkeye": 1,
+      "Horican": 1
     }
   },
   {
@@ -2870,28 +2720,6 @@
     }
   },
   {
-    "canonical_name": "Does",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 3,
-    "per_chapter": {
-      "10": {
-        "mentions": 3,
-        "snippet": "Does not Renard"
-      }
-    },
-    "co_occurs_with": {
-      "Can the Delawares": 1,
-      "David": 1,
-      "Do the Delawares": 1,
-      "Duncan": 1,
-      "Fort Edward": 1,
-      "Heyward": 1,
-      "Huron": 1,
-      "Indians": 1
-    }
-  },
-  {
     "canonical_name": "Listen",
     "aliases": [],
     "first_chapter": 11,
@@ -2911,28 +2739,6 @@
       "Heyward": 1,
       "Huron": 1,
       "Indians": 1
-    }
-  },
-  {
-    "canonical_name": "See",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 3,
-    "per_chapter": {
-      "14": {
-        "mentions": 3,
-        "snippet": "See,\u201d he said, pointing through the trees toward"
-      }
-    },
-    "co_occurs_with": {
-      "Baron Dieskau": 1,
-      "Cora": 1,
-      "Duncan": 1,
-      "Frenchers": 1,
-      "Frenchman": 1,
-      "Hawkeye": 1,
-      "Heyward": 1,
-      "Horican": 1
     }
   },
   {
@@ -3089,9 +2895,9 @@
     "co_occurs_with": {
       "Delaware": 3,
       "Duncan": 3,
-      "Heyward": 3,
       "Huron": 3,
       "Yengeese": 3,
+      "Heyward": 2,
       "Uncas": 2,
       "Cora": 2,
       "Delawares": 2
@@ -3146,28 +2952,6 @@
     }
   },
   {
-    "canonical_name": "Hold",
-    "aliases": [],
-    "first_chapter": 26,
-    "total_mentions": 3,
-    "per_chapter": {
-      "26": {
-        "mentions": 3,
-        "snippet": "Hold your head down, and draw in your legs;"
-      }
-    },
-    "co_occurs_with": {
-      "David Gamut": 1,
-      "Hawkeye": 1,
-      "Huron": 1,
-      "Indians": 1,
-      "Le Cerf Agile": 1,
-      "Mohican": 1,
-      "The Delaware": 1,
-      "The Delawares": 1
-    }
-  },
-  {
     "canonical_name": "Mingoes",
     "aliases": [],
     "first_chapter": 30,
@@ -3186,7 +2970,7 @@
       "Duncan": 1,
       "Great Manitou": 1,
       "Hawkeye": 1,
-      "Heyward": 1
+      "Huron": 1
     }
   }
 ]

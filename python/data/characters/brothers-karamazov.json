@@ -3,7 +3,7 @@
     "canonical_name": "Alyosha",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 235,
+    "total_mentions": 210,
     "per_chapter": {
       "1": {
         "mentions": 10,
@@ -32,28 +32,24 @@
       "10": {
         "mentions": 45,
         "snippet": "Alyosha left his father\u2019s house feeling even more exhausted and"
-      },
-      "11": {
-        "mentions": 25,
-        "snippet": "Alyosha walked quickly along the road, at that hour"
       }
     },
     "co_occurs_with": {
-      "Dmitri Fyodorovitch": 5,
-      "Grushenka": 5,
-      "Alexey Fyodorovitch": 4,
-      "Katerina Ivanovna": 4,
-      "Father Zossima": 4,
-      "Madame Hohlakov": 3,
+      "Dmitri Fyodorovitch": 4,
+      "Alexey Fyodorovitch": 3,
+      "Katerina Ivanovna": 3,
       "Ivan": 3,
-      "Don": 3
+      "Father Zossima": 3,
+      "Madame Hohlakov": 2,
+      "Fyodor Pavlovitch": 2,
+      "Grushenka": 2
     }
   },
   {
     "canonical_name": "Mitya",
     "aliases": [],
     "first_chapter": 3,
-    "total_mentions": 142,
+    "total_mentions": 137,
     "per_chapter": {
       "3": {
         "mentions": 14,
@@ -66,21 +62,17 @@
       "7": {
         "mentions": 88,
         "snippet": "With his long, rapid strides, Mitya walked straight up to the table."
-      },
-      "14": {
-        "mentions": 5,
-        "snippet": "Mitya stood up, but said very"
       }
     },
     "co_occurs_with": {
       "Grushenka": 3,
       "Alyosha": 2,
-      "Have": 2,
-      "Rakitin": 2,
       "Dmitri Fyodorovitch": 2,
       "Alexey Fyodorovitch": 1,
       "Apocryphal Gospels": 1,
-      "Brother Ivan": 1
+      "Brother Ivan": 1,
+      "Fyodor Pavlovitch": 1,
+      "Grusha": 1
     }
   },
   {
@@ -121,7 +113,7 @@
     "canonical_name": "Grushenka",
     "aliases": [],
     "first_chapter": 3,
-    "total_mentions": 129,
+    "total_mentions": 113,
     "per_chapter": {
       "3": {
         "mentions": 50,
@@ -131,10 +123,6 @@
         "mentions": 5,
         "snippet": "These exceptions, however, were few in number; only Grushenka, Alyosha"
       },
-      "6": {
-        "mentions": 3,
-        "snippet": "Grushenka had come on the scene, and there"
-      },
       "7": {
         "mentions": 46,
         "snippet": "\u201cI\u2014there\u2019s nothing the matter,\u201d he turned suddenly to Grushenka, who"
@@ -143,50 +131,20 @@
         "mentions": 3,
         "snippet": "those taps we\u2019d agreed upon as a signal that Grushenka had come, in his"
       },
-      "10": {
-        "mentions": 13,
-        "snippet": "The porti\u00e8re was raised and Grushenka herself, smiling and beaming,"
-      },
       "11": {
         "mentions": 9,
         "snippet": "\u201cGrushenka at Katerina Ivanovna\u2019s."
       }
     },
     "co_occurs_with": {
-      "Dmitri Fyodorovitch": 6,
-      "Alyosha": 5,
-      "Alexey Fyodorovitch": 4,
-      "Katerina Ivanovna": 4,
-      "Madame Hohlakov": 3,
-      "Fyodor Pavlovitch": 3,
+      "Dmitri Fyodorovitch": 4,
+      "Katerina Ivanovna": 3,
       "Mitya": 3,
-      "Agrafena Alexandrovna": 3
-    }
-  },
-  {
-    "canonical_name": "Rakitin",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 111,
-    "per_chapter": {
-      "3": {
-        "mentions": 84,
-        "snippet": "It was quite dark when Rakitin and Alyosha entered her rooms, yet they"
-      },
-      "4": {
-        "mentions": 27,
-        "snippet": "and Rakitin were treated like this."
-      }
-    },
-    "co_occurs_with": {
+      "Alexey Fyodorovitch": 2,
+      "Father Zossima": 2,
+      "Madame Hohlakov": 2,
       "Alyosha": 2,
-      "Grushenka": 2,
-      "Have": 2,
-      "Mitya": 2,
-      "Alexey Fyodorovitch": 1,
-      "Apocryphal Gospels": 1,
-      "Brother Ivan": 1,
-      "Fyodor Pavlovitch": 1
+      "Fyodor Pavlovitch": 2
     }
   },
   {
@@ -217,10 +175,32 @@
       "Grigory Vassilyevitch": 3,
       "Agrafena Alexandrovna": 2,
       "Dmitri Fyodorovitch": 2,
-      "Grushenka": 2,
       "Ivan": 2,
       "Katerina Ivanovna": 2,
-      "Marfa Ignatyevna": 2
+      "Marfa Ignatyevna": 2,
+      "Mr. Prosecutor": 2
+    }
+  },
+  {
+    "canonical_name": "Rakitin",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 84,
+    "per_chapter": {
+      "3": {
+        "mentions": 84,
+        "snippet": "It was quite dark when Rakitin and Alyosha entered her rooms, yet they"
+      }
+    },
+    "co_occurs_with": {
+      "Agrafena Alexandrovna": 1,
+      "Alyosha": 1,
+      "Dmitri Fyodorovitch": 1,
+      "Don": 1,
+      "Father Zossima": 1,
+      "Good God": 1,
+      "Grushenka": 1,
+      "Kuzma Kuzmitch": 1
     }
   },
   {
@@ -253,11 +233,11 @@
       }
     },
     "co_occurs_with": {
-      "Alyosha": 4,
-      "Don": 3,
+      "Alyosha": 3,
       "Dmitri Fyodorovitch": 2,
       "Grushenka": 2,
       "Katerina Ivanovna": 2,
+      "Don": 2,
       "Good God": 2,
       "Petersburg": 2,
       "Alexey Fyodorovitch": 1
@@ -299,12 +279,12 @@
     "co_occurs_with": {
       "Agrippina": 1,
       "Andrey": 1,
-      "Come": 1,
       "Dmitri Fyodorovitch": 1,
       "For Piron": 1,
-      "Forgive": 1,
       "French Academy": 1,
-      "From": 1
+      "Good Lord": 1,
+      "Grushenka": 1,
+      "In Warsaw": 1
     }
   },
   {
@@ -335,11 +315,11 @@
       }
     },
     "co_occurs_with": {
-      "Alyosha": 4,
-      "Grushenka": 4,
       "Alexey Fyodorovitch": 3,
+      "Alyosha": 3,
       "Dmitri Fyodorovitch": 3,
       "Madame Hohlakov": 3,
+      "Grushenka": 3,
       "Ivan": 3,
       "Father Zossima": 2,
       "Fyodor Pavlovitch": 2
@@ -359,12 +339,12 @@
     "co_occurs_with": {
       "Agrippina": 1,
       "Andrey": 1,
-      "Come": 1,
       "Dmitri Fyodorovitch": 1,
       "For Piron": 1,
-      "Forgive": 1,
       "French Academy": 1,
-      "From": 1
+      "Good Lord": 1,
+      "Grushenka": 1,
+      "In Warsaw": 1
     }
   },
   {
@@ -381,12 +361,12 @@
     "co_occurs_with": {
       "Agrippina": 1,
       "Andrey": 1,
-      "Come": 1,
       "Dmitri Fyodorovitch": 1,
       "For Piron": 1,
-      "Forgive": 1,
       "French Academy": 1,
-      "From": 1
+      "Good Lord": 1,
+      "Grushenka": 1,
+      "In Warsaw": 1
     }
   },
   {
@@ -427,8 +407,8 @@
       }
     },
     "co_occurs_with": {
-      "Grushenka": 6,
-      "Alyosha": 5,
+      "Alyosha": 4,
+      "Grushenka": 4,
       "Alexey Fyodorovitch": 3,
       "Katerina Ivanovna": 3,
       "Agrafena Alexandrovna": 3,
@@ -463,11 +443,11 @@
       }
     },
     "co_occurs_with": {
-      "Alyosha": 4,
-      "Grushenka": 4,
+      "Alyosha": 3,
       "Dmitri Fyodorovitch": 3,
       "Katerina Ivanovna": 3,
       "Madame Hohlakov": 3,
+      "Grushenka": 2,
       "Fyodor Pavlovitch": 2,
       "Ivan Fyodorovitch": 2,
       "Agafya Ivanovna": 1
@@ -496,10 +476,10 @@
     },
     "co_occurs_with": {
       "Alexey Fyodorovitch": 3,
-      "Alyosha": 3,
-      "Grushenka": 3,
       "Katerina Ivanovna": 3,
+      "Alyosha": 2,
       "Dmitri Fyodorovitch": 2,
+      "Grushenka": 2,
       "Agafya Ivanovna": 1,
       "Again Katerina": 1,
       "High Street": 1
@@ -531,10 +511,10 @@
       "Smerdyakov": 3,
       "Agrafena Alexandrovna": 2,
       "Dmitri Fyodorovitch": 2,
-      "Grushenka": 2,
       "Marfa Ignatyevna": 2,
       "Mr. Prosecutor": 2,
-      "All": 1
+      "Father Isaac": 1,
+      "God Himself": 1
     }
   },
   {
@@ -561,44 +541,14 @@
       }
     },
     "co_occurs_with": {
-      "Grushenka": 3,
       "Grigory Vassilyevitch": 3,
       "Smerdyakov": 3,
       "Alexey Fyodorovitch": 2,
       "Alyosha": 2,
+      "Grushenka": 2,
       "Ivan": 2,
       "Ivan Fyodorovitch": 2,
       "Katerina Ivanovna": 2
-    }
-  },
-  {
-    "canonical_name": "Don",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 14,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "\u201cDon\u2019t inquire."
-      },
-      "3": {
-        "mentions": 6,
-        "snippet": "\u201cDon\u2019t be afraid of me, my dear Alyosha, you cannot"
-      },
-      "9": {
-        "mentions": 4,
-        "snippet": "\u201cDon\u2019t believe it then,\u201d said the gentleman, smiling amicably, \u201cwhat\u2019s"
-      }
-    },
-    "co_occurs_with": {
-      "Alyosha": 3,
-      "Father Zossima": 3,
-      "Count Mattei": 1,
-      "Fool": 1,
-      "Ivan": 1,
-      "Jesuit": 1,
-      "Katerina Ivanovna": 1,
-      "Not": 1
     }
   },
   {
@@ -622,43 +572,13 @@
     },
     "co_occurs_with": {
       "Dmitri Fyodorovitch": 3,
-      "Grushenka": 3,
       "Fyodor Pavlovitch": 2,
       "Grigory Vassilyevitch": 2,
+      "Grushenka": 2,
       "Marfa Ignatyevna": 2,
       "Smerdyakov": 2,
       "Alyosha": 2,
-      "All": 1
-    }
-  },
-  {
-    "canonical_name": "Gentlemen",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 13,
-    "per_chapter": {
-      "7": {
-        "mentions": 4,
-        "snippet": "\u201cGentlemen,\u201d he said in a loud voice, almost shouting, yet stammering"
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "Gentlemen of the jury, the psychological method is a"
-      },
-      "13": {
-        "mentions": 6,
-        "snippet": "Gentlemen of the jury, what is a father\u2014a"
-      }
-    },
-    "co_occurs_with": {
-      "Agrippina": 1,
-      "Andrey": 1,
-      "Come": 1,
-      "Dmitri Fyodorovitch": 1,
-      "For Piron": 1,
-      "Forgive": 1,
-      "French Academy": 1,
-      "From": 1
+      "Father Isaac": 1
     }
   },
   {
@@ -675,12 +595,12 @@
     "co_occurs_with": {
       "Agrippina": 1,
       "Andrey": 1,
-      "Come": 1,
       "Dmitri Fyodorovitch": 1,
       "For Piron": 1,
-      "Forgive": 1,
       "French Academy": 1,
-      "From": 1
+      "Good Lord": 1,
+      "Grushenka": 1,
+      "In Warsaw": 1
     }
   },
   {
@@ -697,38 +617,12 @@
     "co_occurs_with": {
       "Agrippina": 1,
       "Andrey": 1,
-      "Come": 1,
       "Dmitri Fyodorovitch": 1,
       "For Piron": 1,
-      "Forgive": 1,
       "French Academy": 1,
-      "From": 1
-    }
-  },
-  {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 12,
-    "per_chapter": {
-      "2": {
-        "mentions": 8,
-        "snippet": "\u201cAll this as rational and edifying,\u201d said my antagonist, \u201cand in any"
-      },
-      "8": {
-        "mentions": 4,
-        "snippet": "\u201cAll I understand is that you are mad."
-      }
-    },
-    "co_occurs_with": {
-      "Agrafena Alexandrovna": 1,
-      "Dmitri Fyodorovitch": 1,
-      "Father Isaac": 1,
-      "Fyodor Pavlovitch": 1,
-      "God Himself": 1,
-      "Grigory Vassilyevitch": 1,
+      "Good Lord": 1,
       "Grushenka": 1,
-      "Here": 1
+      "In Warsaw": 1
     }
   },
   {
@@ -762,6 +656,32 @@
     }
   },
   {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 10,
+    "per_chapter": {
+      "3": {
+        "mentions": 6,
+        "snippet": "\u201cDon\u2019t be afraid of me, my dear Alyosha, you cannot"
+      },
+      "9": {
+        "mentions": 4,
+        "snippet": "\u201cDon\u2019t believe it then,\u201d said the gentleman, smiling amicably, \u201cwhat\u2019s"
+      }
+    },
+    "co_occurs_with": {
+      "Alyosha": 2,
+      "Father Zossima": 2,
+      "Count Mattei": 1,
+      "Fool": 1,
+      "Ivan": 1,
+      "Jesuit": 1,
+      "Katerina Ivanovna": 1,
+      "Polar Star": 1
+    }
+  },
+  {
     "canonical_name": "Father Anfim",
     "aliases": [
       "Anfim"
@@ -781,8 +701,8 @@
       "Cadet Corps": 1,
       "Christ": 1,
       "Divine Truth": 1,
-      "Don": 1,
-      "Egypt": 1
+      "Egypt": 1,
+      "Elder Zossima": 1
     }
   },
   {
@@ -806,31 +726,9 @@
       "Bible": 1,
       "Cadet Corps": 1,
       "Divine Truth": 1,
-      "Don": 1,
       "Egypt": 1,
-      "Elder Zossima": 1
-    }
-  },
-  {
-    "canonical_name": "Fenya",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 9,
-    "per_chapter": {
-      "3": {
-        "mentions": 9,
-        "snippet": "Fenya, fetch him a candle."
-      }
-    },
-    "co_occurs_with": {
-      "Agrafena Alexandrovna": 1,
-      "Alyosha": 1,
-      "Dmitri Fyodorovitch": 1,
-      "Don": 1,
-      "Father Zossima": 1,
-      "Good God": 1,
-      "Grushenka": 1,
-      "Have": 1
+      "Elder Zossima": 1,
+      "Father Anfim": 1
     }
   },
   {
@@ -848,7 +746,6 @@
     },
     "co_occurs_with": {
       "Fyodor Pavlovitch": 1,
-      "Gentlemen": 1,
       "Grigory Vassilyevitch": 1,
       "Ivan Karamazov": 1,
       "Mr. Prosecutor": 1,
@@ -897,36 +794,10 @@
       "Dmitri Fyodorovitch": 2,
       "Fyodor Pavlovitch": 2,
       "Grigory Vassilyevitch": 2,
-      "Grushenka": 2,
       "Smerdyakov": 2,
-      "All": 1,
-      "Father Isaac": 1
-    }
-  },
-  {
-    "canonical_name": "Have",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 7,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "Have you heard her speak before of what"
-      },
-      "4": {
-        "mentions": 4,
-        "snippet": "Have you broken with him completely?"
-      }
-    },
-    "co_occurs_with": {
-      "Alyosha": 2,
-      "Grushenka": 2,
-      "Mitya": 2,
-      "Rakitin": 2,
-      "Alexey Fyodorovitch": 1,
-      "Apocryphal Gospels": 1,
-      "Brother Ivan": 1,
-      "Fyodor Pavlovitch": 1
+      "Father Isaac": 1,
+      "God Himself": 1,
+      "Grushenka": 1
     }
   },
   {
@@ -943,12 +814,12 @@
     "co_occurs_with": {
       "Agrippina": 1,
       "Andrey": 1,
-      "Come": 1,
       "Dmitri Fyodorovitch": 1,
       "For Piron": 1,
-      "Forgive": 1,
       "French Academy": 1,
-      "From": 1
+      "Good Lord": 1,
+      "Grushenka": 1,
+      "In Warsaw": 1
     }
   },
   {
@@ -968,9 +839,7 @@
       "Gospel": 1,
       "Ippolit Kirillovitch": 1,
       "Mihail Semyonovitch": 1,
-      "Mitya": 1,
-      "President": 1,
-      "There": 1
+      "President": 1
     }
   },
   {
@@ -1035,8 +904,8 @@
       "Cadet Corps": 1,
       "Christ": 1,
       "Divine Truth": 1,
-      "Don": 1,
-      "Egypt": 1
+      "Egypt": 1,
+      "Elder Zossima": 1
     }
   },
   {
@@ -1051,36 +920,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Father Zossima": 1,
       "Good God": 1,
       "Good Lord": 1,
       "Holy Mother": 1,
       "New Testament": 1,
       "Petersburg": 1,
-      "Tell": 1
-    }
-  },
-  {
-    "canonical_name": "Hush",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 6,
-    "per_chapter": {
-      "3": {
-        "mentions": 6,
-        "snippet": "\u201cHush, both of you."
-      }
-    },
-    "co_occurs_with": {
-      "Agrafena Alexandrovna": 1,
-      "Alyosha": 1,
-      "Dmitri Fyodorovitch": 1,
-      "Don": 1,
-      "Father Zossima": 1,
-      "Fenya": 1,
-      "Good God": 1,
-      "Grushenka": 1
+      "Thank God": 1,
+      "The Holy Spirit": 1
     }
   },
   {
@@ -1096,13 +943,13 @@
     },
     "co_occurs_with": {
       "Agrafena Alexandrovna": 1,
-      "All": 1,
       "Dmitri Fyodorovitch": 1,
       "Father Isaac": 1,
       "Fyodor Pavlovitch": 1,
       "God Himself": 1,
       "Grigory Vassilyevitch": 1,
-      "Grushenka": 1
+      "Grushenka": 1,
+      "Holy Father Isaac": 1
     }
   },
   {
@@ -1124,7 +971,7 @@
       "Ivan": 1,
       "Jesuit": 1,
       "Katerina Ivanovna": 1,
-      "Not": 1
+      "Polar Star": 1
     }
   },
   {
@@ -1146,10 +993,10 @@
       "Alexey Fyodorovitch": 2,
       "Alyosha": 2,
       "Fyodor Pavlovitch": 2,
-      "Grushenka": 2,
       "Apocryphal Gospels": 1,
       "Brother Ivan": 1,
       "Grusha": 1,
+      "Grushenka": 1,
       "Have": 1
     }
   },
@@ -1173,8 +1020,8 @@
       "Cadet Corps": 1,
       "Christ": 1,
       "Divine Truth": 1,
-      "Don": 1,
-      "Egypt": 1
+      "Egypt": 1,
+      "Elder Zossima": 1
     }
   },
   {
@@ -1195,8 +1042,8 @@
       "Cadet Corps": 1,
       "Christ": 1,
       "Divine Truth": 1,
-      "Don": 1,
-      "Egypt": 1
+      "Egypt": 1,
+      "Elder Zossima": 1
     }
   },
   {
@@ -1217,30 +1064,8 @@
       "Cadet Corps": 1,
       "Christ": 1,
       "Divine Truth": 1,
-      "Don": 1,
-      "Egypt": 1
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 5,
-    "per_chapter": {
-      "7": {
-        "mentions": 5,
-        "snippet": "\u201cCome, come, what a fellow you are!"
-      }
-    },
-    "co_occurs_with": {
-      "Agrippina": 1,
-      "Andrey": 1,
-      "Dmitri Fyodorovitch": 1,
-      "For Piron": 1,
-      "Forgive": 1,
-      "French Academy": 1,
-      "From": 1,
-      "Gentlemen": 1
+      "Egypt": 1,
+      "Elder Zossima": 1
     }
   },
   {
@@ -1256,13 +1081,13 @@
     },
     "co_occurs_with": {
       "Andrey": 1,
-      "Come": 1,
       "Dmitri Fyodorovitch": 1,
       "For Piron": 1,
-      "Forgive": 1,
       "French Academy": 1,
-      "From": 1,
-      "Gentlemen": 1
+      "Good Lord": 1,
+      "Grushenka": 1,
+      "In Warsaw": 1,
+      "Kalganov": 1
     }
   },
   {
@@ -1278,13 +1103,13 @@
     },
     "co_occurs_with": {
       "Agrafena Alexandrovna": 1,
-      "All": 1,
       "Dmitri Fyodorovitch": 1,
       "Father Isaac": 1,
       "Fyodor Pavlovitch": 1,
       "God Himself": 1,
       "Grigory Vassilyevitch": 1,
-      "Grushenka": 1
+      "Grushenka": 1,
+      "Holy Father Isaac": 1
     }
   },
   {
@@ -1304,9 +1129,7 @@
       "For Thou": 1,
       "Gospel": 1,
       "Ippolit Kirillovitch": 1,
-      "Mihail Semyonovitch": 1,
-      "Mitya": 1,
-      "There": 1
+      "Mihail Semyonovitch": 1
     }
   },
   {
@@ -1322,7 +1145,6 @@
     },
     "co_occurs_with": {
       "Alexey Fyodorovitch": 1,
-      "Alyosha": 1,
       "Dmitri Fyodorovitch": 1,
       "Father Zossima": 1,
       "Grushenka": 1,
@@ -1414,8 +1236,8 @@
       "Cadet Corps": 1,
       "Christ": 1,
       "Divine Truth": 1,
-      "Don": 1,
-      "Egypt": 1
+      "Egypt": 1,
+      "Elder Zossima": 1
     }
   },
   {
@@ -1436,8 +1258,8 @@
       "Cadet Corps": 1,
       "Christ": 1,
       "Divine Truth": 1,
-      "Don": 1,
-      "Egypt": 1
+      "Egypt": 1,
+      "Elder Zossima": 1
     }
   },
   {
@@ -1457,9 +1279,9 @@
       "Dmitri Fyodorovitch": 1,
       "Don": 1,
       "Father Zossima": 1,
-      "Fenya": 1,
       "Good God": 1,
-      "Grushenka": 1
+      "Grushenka": 1,
+      "Mitya": 1
     }
   },
   {
@@ -1479,9 +1301,9 @@
       "Dmitri Fyodorovitch": 1,
       "Don": 1,
       "Father Zossima": 1,
-      "Fenya": 1,
       "Good God": 1,
-      "Grushenka": 1
+      "Grushenka": 1,
+      "Kuzma Kuzmitch": 1
     }
   },
   {
@@ -1501,9 +1323,31 @@
       "Dmitri Fyodorovitch": 1,
       "Don": 1,
       "Father Zossima": 1,
-      "Fenya": 1,
       "Good God": 1,
-      "Grushenka": 1
+      "Grushenka": 1,
+      "Kuzma Kuzmitch": 1
+    }
+  },
+  {
+    "canonical_name": "Have",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "Have you broken with him completely?"
+      }
+    },
+    "co_occurs_with": {
+      "Alexey Fyodorovitch": 1,
+      "Alyosha": 1,
+      "Apocryphal Gospels": 1,
+      "Brother Ivan": 1,
+      "Fyodor Pavlovitch": 1,
+      "Grusha": 1,
+      "Grushenka": 1,
+      "Him": 1
     }
   },
   {
@@ -1528,10 +1372,10 @@
       "Grigory Vassilyevitch": 2,
       "Smerdyakov": 2,
       "Agrafena Alexandrovna": 1,
-      "All": 1,
       "Dmitri Fyodorovitch": 1,
       "Father Isaac": 1,
-      "God Himself": 1
+      "God Himself": 1,
+      "Grushenka": 1
     }
   },
   {
@@ -1547,35 +1391,13 @@
     },
     "co_occurs_with": {
       "Agrafena Alexandrovna": 1,
-      "All": 1,
       "Dmitri Fyodorovitch": 1,
       "Father Isaac": 1,
       "Fyodor Pavlovitch": 1,
       "God Himself": 1,
       "Grigory Vassilyevitch": 1,
-      "Grushenka": 1
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 4,
-    "per_chapter": {
-      "14": {
-        "mentions": 4,
-        "snippet": "\u201cThere are,\u201d he said to one group, as I was told afterwards, \u201cthere are"
-      }
-    },
-    "co_occurs_with": {
-      "Christ": 1,
-      "Fetyukovitch": 1,
-      "For Thou": 1,
-      "Gospel": 1,
-      "Ippolit Kirillovitch": 1,
-      "Mihail Semyonovitch": 1,
-      "Mitya": 1,
-      "President": 1
+      "Grushenka": 1,
+      "Holy Father Isaac": 1
     }
   },
   {
@@ -1595,9 +1417,9 @@
       "Alexey Fyodorovitch": 1,
       "Alyosha": 1,
       "Dmitri Fyodorovitch": 1,
-      "Grushenka": 1,
       "High Street": 1,
-      "Katerina Ivanovna": 1
+      "Katerina Ivanovna": 1,
+      "Madame Hohlakov": 1
     }
   },
   {
@@ -1645,28 +1467,6 @@
     }
   },
   {
-    "canonical_name": "Life",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Life will bring you many misfortunes, but you will find your"
-      }
-    },
-    "co_occurs_with": {
-      "Alexey Fyodorovitch Karamazov": 1,
-      "Alyosha": 1,
-      "Bible": 1,
-      "Cadet Corps": 1,
-      "Christ": 1,
-      "Divine Truth": 1,
-      "Don": 1,
-      "Egypt": 1
-    }
-  },
-  {
     "canonical_name": "Markel",
     "aliases": [],
     "first_chapter": 1,
@@ -1684,8 +1484,8 @@
       "Cadet Corps": 1,
       "Christ": 1,
       "Divine Truth": 1,
-      "Don": 1,
-      "Egypt": 1
+      "Egypt": 1,
+      "Elder Zossima": 1
     }
   },
   {
@@ -1705,9 +1505,9 @@
       "Cadet Corps": 1,
       "Christ": 1,
       "Divine Truth": 1,
-      "Don": 1,
       "Egypt": 1,
-      "Elder Zossima": 1
+      "Elder Zossima": 1,
+      "Father Anfim": 1
     }
   },
   {
@@ -1728,8 +1528,8 @@
       "Cadet Corps": 1,
       "Christ": 1,
       "Divine Truth": 1,
-      "Don": 1,
-      "Egypt": 1
+      "Egypt": 1,
+      "Elder Zossima": 1
     }
   },
   {
@@ -1750,30 +1550,8 @@
       "Cadet Corps": 1,
       "Christ": 1,
       "Divine Truth": 1,
-      "Don": 1,
-      "Elder Zossima": 1
-    }
-  },
-  {
-    "canonical_name": "Tell",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 3,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "Tell that to the person whom you hold dearest"
-      }
-    },
-    "co_occurs_with": {
-      "Afanasy": 1,
-      "All": 1,
-      "Father Zossima": 1,
-      "Good God": 1,
-      "Good Lord": 1,
-      "Holy Mother": 1,
-      "New Testament": 1,
-      "Petersburg": 1
+      "Elder Zossima": 1,
+      "Father Anfim": 1
     }
   },
   {
@@ -1793,97 +1571,9 @@
       "Dmitri Fyodorovitch": 1,
       "Don": 1,
       "Father Zossima": 1,
-      "Fenya": 1,
       "Good God": 1,
-      "Grushenka": 1
-    }
-  },
-  {
-    "canonical_name": "Let",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 3,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "Let me sit on your knee, Alyosha, like this."
-      }
-    },
-    "co_occurs_with": {
-      "Agrafena Alexandrovna": 1,
-      "Alyosha": 1,
-      "Dmitri Fyodorovitch": 1,
-      "Don": 1,
-      "Father Zossima": 1,
-      "Fenya": 1,
-      "Good God": 1,
-      "Grushenka": 1
-    }
-  },
-  {
-    "canonical_name": "Forgive",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 3,
-    "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "Forgive me, _panie_,\u201d he cried wildly, \u201cI flew here and"
-      }
-    },
-    "co_occurs_with": {
-      "Agrippina": 1,
-      "Andrey": 1,
-      "Come": 1,
-      "Dmitri Fyodorovitch": 1,
-      "For Piron": 1,
-      "French Academy": 1,
-      "From": 1,
-      "Gentlemen": 1
-    }
-  },
-  {
-    "canonical_name": "Would",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 3,
-    "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "Would you believe it, he will have it that all our cavalry"
-      }
-    },
-    "co_occurs_with": {
-      "Agrippina": 1,
-      "Andrey": 1,
-      "Come": 1,
-      "Dmitri Fyodorovitch": 1,
-      "For Piron": 1,
-      "Forgive": 1,
-      "French Academy": 1,
-      "From": 1
-    }
-  },
-  {
-    "canonical_name": "From",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 3,
-    "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "From his fair face looked out beautiful pale blue eyes, with"
-      }
-    },
-    "co_occurs_with": {
-      "Agrippina": 1,
-      "Andrey": 1,
-      "Come": 1,
-      "Dmitri Fyodorovitch": 1,
-      "For Piron": 1,
-      "Forgive": 1,
-      "French Academy": 1,
-      "Gentlemen": 1
+      "Grushenka": 1,
+      "Kuzma Kuzmitch": 1
     }
   },
   {
@@ -1900,12 +1590,12 @@
     "co_occurs_with": {
       "Agrippina": 1,
       "Andrey": 1,
-      "Come": 1,
       "Dmitri Fyodorovitch": 1,
       "For Piron": 1,
-      "Forgive": 1,
       "French Academy": 1,
-      "From": 1
+      "Good Lord": 1,
+      "Grushenka": 1,
+      "In Warsaw": 1
     }
   },
   {
@@ -1922,12 +1612,12 @@
     "co_occurs_with": {
       "Agrippina": 1,
       "Andrey": 1,
-      "Come": 1,
       "Dmitri Fyodorovitch": 1,
       "For Piron": 1,
-      "Forgive": 1,
       "French Academy": 1,
-      "From": 1
+      "Good Lord": 1,
+      "Grushenka": 1,
+      "In Warsaw": 1
     }
   },
   {
@@ -1943,13 +1633,13 @@
     },
     "co_occurs_with": {
       "Agrippina": 1,
-      "Come": 1,
       "Dmitri Fyodorovitch": 1,
       "For Piron": 1,
-      "Forgive": 1,
       "French Academy": 1,
-      "From": 1,
-      "Gentlemen": 1
+      "Good Lord": 1,
+      "Grushenka": 1,
+      "In Warsaw": 1,
+      "Kalganov": 1
     }
   },
   {
@@ -1997,28 +1687,6 @@
     }
   },
   {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 3,
-    "per_chapter": {
-      "8": {
-        "mentions": 3,
-        "snippet": "Here we are face to face; what\u2019s the use of"
-      }
-    },
-    "co_occurs_with": {
-      "Agrafena Alexandrovna": 1,
-      "All": 1,
-      "Dmitri Fyodorovitch": 1,
-      "Father Isaac": 1,
-      "Fyodor Pavlovitch": 1,
-      "God Himself": 1,
-      "Grigory Vassilyevitch": 1,
-      "Grushenka": 1
-    }
-  },
-  {
     "canonical_name": "Tchermashnya",
     "aliases": [],
     "first_chapter": 8,
@@ -2031,57 +1699,13 @@
     },
     "co_occurs_with": {
       "Agrafena Alexandrovna": 1,
-      "All": 1,
       "Dmitri Fyodorovitch": 1,
       "Father Isaac": 1,
       "Fyodor Pavlovitch": 1,
       "God Himself": 1,
       "Grigory Vassilyevitch": 1,
-      "Grushenka": 1
-    }
-  },
-  {
-    "canonical_name": "Satan",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 3,
-    "per_chapter": {
-      "9": {
-        "mentions": 3,
-        "snippet": "Satan _sum et nihil humanum a me alienum"
-      }
-    },
-    "co_occurs_with": {
-      "Alyosha": 1,
-      "Count Mattei": 1,
-      "Don": 1,
-      "Father Zossima": 1,
-      "Fool": 1,
-      "Ivan": 1,
-      "Jesuit": 1,
-      "Katerina Ivanovna": 1
-    }
-  },
-  {
-    "canonical_name": "Not",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 3,
-    "per_chapter": {
-      "9": {
-        "mentions": 3,
-        "snippet": "\u201cNot in the slightest!"
-      }
-    },
-    "co_occurs_with": {
-      "Alyosha": 1,
-      "Count Mattei": 1,
-      "Don": 1,
-      "Father Zossima": 1,
-      "Fool": 1,
-      "Ivan": 1,
-      "Jesuit": 1,
-      "Katerina Ivanovna": 1
+      "Grushenka": 1,
+      "Holy Father Isaac": 1
     }
   },
   {
@@ -2103,7 +1727,7 @@
       "Fool": 1,
       "Ivan": 1,
       "Katerina Ivanovna": 1,
-      "Not": 1
+      "Polar Star": 1
     }
   },
   {
@@ -2119,7 +1743,6 @@
     },
     "co_occurs_with": {
       "Fyodor Pavlovitch Karamazov": 1,
-      "Gentlemen": 1,
       "Good Shepherd": 1,
       "The Lover": 1
     }
@@ -2141,9 +1764,7 @@
       "For Thou": 1,
       "Ippolit Kirillovitch": 1,
       "Mihail Semyonovitch": 1,
-      "Mitya": 1,
-      "President": 1,
-      "There": 1
+      "President": 1
     }
   }
 ]

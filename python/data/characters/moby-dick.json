@@ -328,128 +328,6 @@
     }
   },
   {
-    "canonical_name": "Stubb",
-    "aliases": [],
-    "first_chapter": 22,
-    "total_mentions": 143,
-    "per_chapter": {
-      "22": {
-        "mentions": 2,
-        "snippet": "Stubb\u2014luck to ye, Mr."
-      },
-      "27": {
-        "mentions": 7,
-        "snippet": "Stubb was the second mate."
-      },
-      "29": {
-        "mentions": 9,
-        "snippet": "taffrail to mainmast, Stubb, the old second mate, came up from below,"
-      },
-      "34": {
-        "mentions": 1,
-        "snippet": "Stubb,\u201d and descends the scuttle."
-      },
-      "36": {
-        "mentions": 8,
-        "snippet": "\u201d whispered Stubb; \u201cthe chick that\u2019s in him pecks"
-      },
-      "39": {
-        "mentions": 5,
-        "snippet": "(_Stubb solus, and mending a brace_."
-      },
-      "48": {
-        "mentions": 3,
-        "snippet": "Stubb!"
-      },
-      "49": {
-        "mentions": 2,
-        "snippet": "Stubb,\u201d said I, turning to that worthy, who, buttoned up in his"
-      },
-      "61": {
-        "mentions": 1,
-        "snippet": "Stubb,\u201d said Daggoo."
-      },
-      "65": {
-        "mentions": 3,
-        "snippet": "like Stubb, eat him by his own light, as you may say; this seems so"
-      },
-      "72": {
-        "mentions": 4,
-        "snippet": "than Stubb, in order to afford the imperilled harpooneer the strongest"
-      },
-      "73": {
-        "mentions": 12,
-        "snippet": "boats, Stubb\u2019s and Flask\u2019s, were detached in pursuit."
-      },
-      "81": {
-        "mentions": 7,
-        "snippet": "\u201cNot that,\u201d said Stubb, \u201cno, no, it\u2019s a coffee-pot, Mr."
-      },
-      "84": {
-        "mentions": 4,
-        "snippet": "Nevertheless, the boats pursued, and Stubb\u2019s was foremost."
-      },
-      "91": {
-        "mentions": 24,
-        "snippet": "\u201cI will bet something now,\u201d said Stubb, \u201cthat somewhere hereabouts are"
-      },
-      "93": {
-        "mentions": 14,
-        "snippet": "It came to pass, that in the ambergris affair Stubb\u2019s after-oarsman"
-      },
-      "99": {
-        "mentions": 3,
-        "snippet": "\u201cThere now\u2019s the old Mogul,\u201d soliloquized Stubb by the try-works, \u201che\u2019s"
-      },
-      "108": {
-        "mentions": 3,
-        "snippet": "Stubb knows him best of all, and Stubb always says"
-      },
-      "114": {
-        "mentions": 4,
-        "snippet": "And Stubb, fish-like, with sparkling scales, leaped up in that same"
-      },
-      "121": {
-        "mentions": 3,
-        "snippet": "_Stubb and Flask mounted on them, and passing additional lashings over"
-      },
-      "123": {
-        "mentions": 1,
-        "snippet": "Stubb; go thou down, and wake him, and tell"
-      },
-      "125": {
-        "mentions": 1,
-        "snippet": "Stubb about it."
-      },
-      "126": {
-        "mentions": 1,
-        "snippet": "Stubb, Mr."
-      },
-      "133": {
-        "mentions": 1,
-        "snippet": "Stubb, send"
-      },
-      "134": {
-        "mentions": 10,
-        "snippet": "\u201d cried Stubb, \u201cbut this swift motion of the deck"
-      },
-      "135": {
-        "mentions": 10,
-        "snippet": "sped, he also caught flying glimpses of Stubb and Flask, busying"
-      }
-    },
-    "co_occurs_with": {
-      "Starbuck": 14,
-      "Ahab": 13,
-      "Mr. Starbuck": 12,
-      "Captain Ahab": 11,
-      "Flask": 10,
-      "White Whale": 10,
-      "Mr. Stubb": 9,
-      "Pequod": 7
-    }
-  },
-  {
     "canonical_name": "Captain Ahab",
     "aliases": [
       "Captain"
@@ -587,6 +465,124 @@
       "Starbuck": 9,
       "Queequeg": 8,
       "Flask": 7
+    }
+  },
+  {
+    "canonical_name": "Stubb",
+    "aliases": [],
+    "first_chapter": 22,
+    "total_mentions": 140,
+    "per_chapter": {
+      "22": {
+        "mentions": 2,
+        "snippet": "Stubb\u2014luck to ye, Mr."
+      },
+      "27": {
+        "mentions": 7,
+        "snippet": "Stubb was the second mate."
+      },
+      "29": {
+        "mentions": 9,
+        "snippet": "taffrail to mainmast, Stubb, the old second mate, came up from below,"
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "Stubb,\u201d and descends the scuttle."
+      },
+      "36": {
+        "mentions": 8,
+        "snippet": "\u201d whispered Stubb; \u201cthe chick that\u2019s in him pecks"
+      },
+      "39": {
+        "mentions": 5,
+        "snippet": "(_Stubb solus, and mending a brace_."
+      },
+      "48": {
+        "mentions": 3,
+        "snippet": "Stubb!"
+      },
+      "49": {
+        "mentions": 2,
+        "snippet": "Stubb,\u201d said I, turning to that worthy, who, buttoned up in his"
+      },
+      "61": {
+        "mentions": 1,
+        "snippet": "Stubb,\u201d said Daggoo."
+      },
+      "65": {
+        "mentions": 3,
+        "snippet": "like Stubb, eat him by his own light, as you may say; this seems so"
+      },
+      "72": {
+        "mentions": 4,
+        "snippet": "than Stubb, in order to afford the imperilled harpooneer the strongest"
+      },
+      "73": {
+        "mentions": 12,
+        "snippet": "boats, Stubb\u2019s and Flask\u2019s, were detached in pursuit."
+      },
+      "81": {
+        "mentions": 7,
+        "snippet": "\u201cNot that,\u201d said Stubb, \u201cno, no, it\u2019s a coffee-pot, Mr."
+      },
+      "84": {
+        "mentions": 4,
+        "snippet": "Nevertheless, the boats pursued, and Stubb\u2019s was foremost."
+      },
+      "91": {
+        "mentions": 24,
+        "snippet": "\u201cI will bet something now,\u201d said Stubb, \u201cthat somewhere hereabouts are"
+      },
+      "93": {
+        "mentions": 14,
+        "snippet": "It came to pass, that in the ambergris affair Stubb\u2019s after-oarsman"
+      },
+      "99": {
+        "mentions": 3,
+        "snippet": "\u201cThere now\u2019s the old Mogul,\u201d soliloquized Stubb by the try-works, \u201che\u2019s"
+      },
+      "114": {
+        "mentions": 4,
+        "snippet": "And Stubb, fish-like, with sparkling scales, leaped up in that same"
+      },
+      "121": {
+        "mentions": 3,
+        "snippet": "_Stubb and Flask mounted on them, and passing additional lashings over"
+      },
+      "123": {
+        "mentions": 1,
+        "snippet": "Stubb; go thou down, and wake him, and tell"
+      },
+      "125": {
+        "mentions": 1,
+        "snippet": "Stubb about it."
+      },
+      "126": {
+        "mentions": 1,
+        "snippet": "Stubb, Mr."
+      },
+      "133": {
+        "mentions": 1,
+        "snippet": "Stubb, send"
+      },
+      "134": {
+        "mentions": 10,
+        "snippet": "\u201d cried Stubb, \u201cbut this swift motion of the deck"
+      },
+      "135": {
+        "mentions": 10,
+        "snippet": "sped, he also caught flying glimpses of Stubb and Flask, busying"
+      }
+    },
+    "co_occurs_with": {
+      "Ahab": 13,
+      "Starbuck": 13,
+      "Captain Ahab": 11,
+      "Mr. Starbuck": 11,
+      "Flask": 10,
+      "White Whale": 10,
+      "Mr. Stubb": 9,
+      "Pequod": 7
     }
   },
   {
@@ -1014,7 +1010,7 @@
     "co_occurs_with": {
       "Mr. Starbuck": 17,
       "Ahab": 16,
-      "Stubb": 14,
+      "Stubb": 13,
       "Moby Dick": 12,
       "White Whale": 11,
       "Captain Ahab": 9,
@@ -1047,13 +1043,13 @@
     },
     "co_occurs_with": {
       "Cape Horn": 2,
-      "With": 2,
       "Joppa": 2,
       "Alleghanian Ridge": 1,
       "Black Sea": 1,
-      "Bulkington": 1,
       "Landlord": 1,
-      "New Zealand": 1
+      "New Zealand": 1,
+      "Peter Coffin": 1,
+      "Queequeg": 1
     }
   },
   {
@@ -1413,40 +1409,6 @@
     }
   },
   {
-    "canonical_name": "Pip",
-    "aliases": [],
-    "first_chapter": 40,
-    "total_mentions": 39,
-    "per_chapter": {
-      "40": {
-        "mentions": 7,
-        "snippet": "Strike the bell eight, thou Pip!"
-      },
-      "110": {
-        "mentions": 9,
-        "snippet": "But ere this was done, Pip, who had been slily hovering near by all"
-      },
-      "125": {
-        "mentions": 15,
-        "snippet": "Ha, Pip?"
-      },
-      "129": {
-        "mentions": 8,
-        "snippet": "(_Ahab moving to go on deck; Pip catches him by the hand to follow."
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 2,
-      "Antilles": 1,
-      "Captain Noah": 1,
-      "Long Island": 1,
-      "Nantucket": 1,
-      "Queequeg": 1,
-      "Captain Ahab": 1,
-      "In the Isle": 1
-    }
-  },
-  {
     "canonical_name": "Nantucket",
     "aliases": [],
     "first_chapter": 2,
@@ -1507,13 +1469,9 @@
   {
     "canonical_name": "Tashtego",
     "aliases": [],
-    "first_chapter": 27,
-    "total_mentions": 34,
+    "first_chapter": 34,
+    "total_mentions": 30,
     "per_chapter": {
-      "27": {
-        "mentions": 4,
-        "snippet": "Next was Tashtego, an unmixed Indian from Gay Head, the most westerly"
-      },
       "34": {
         "mentions": 5,
         "snippet": "Such portentous appetites had Queequeg and Tashtego, that"
@@ -1540,60 +1498,14 @@
       }
     },
     "co_occurs_with": {
-      "Stubb": 6,
-      "Ahab": 4,
+      "Stubb": 5,
       "Mr. Starbuck": 4,
       "Starbuck": 4,
-      "Captain Ahab": 3,
-      "Flask": 3,
-      "Pequod": 3,
-      "Moby Dick": 3
-    }
-  },
-  {
-    "canonical_name": "Aye",
-    "aliases": [],
-    "first_chapter": 36,
-    "total_mentions": 30,
-    "per_chapter": {
-      "36": {
-        "mentions": 6,
-        "snippet": "\u201d cried Ahab; then pausing, \u201cAye, Starbuck; aye, my"
-      },
-      "48": {
-        "mentions": 3,
-        "snippet": "\u201cAye, aye, sir,\u201d cheerily cried little King-Post, sweeping round his"
-      },
-      "54": {
-        "mentions": 4,
-        "snippet": "\u201c\u2018Aye, aye, my merry lads, it\u2019s a lively leak this; hold a cannikin,"
-      },
-      "71": {
-        "mentions": 3,
-        "snippet": "Ahab answered\u2014\u201cAye."
-      },
-      "100": {
-        "mentions": 4,
-        "snippet": "sword-fish blades) cried out in his walrus way, \u201cAye, aye, hearty!"
-      },
-      "123": {
-        "mentions": 4,
-        "snippet": "Aye,"
-      },
-      "134": {
-        "mentions": 6,
-        "snippet": "\u201cAye, aye!"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 6,
-      "Moby Dick": 6,
-      "Starbuck": 5,
-      "White Whale": 5,
-      "Captain Ahab": 4,
-      "Stubb": 4,
-      "Mr. Starbuck": 3,
-      "Daggoo": 2
+      "Ahab": 3,
+      "Moby Dick": 3,
+      "Queequeg": 3,
+      "Mr. Stubb": 3,
+      "Captain Ahab": 2
     }
   },
   {
@@ -1673,7 +1585,7 @@
     },
     "co_occurs_with": {
       "Starbuck": 17,
-      "Stubb": 12,
+      "Stubb": 11,
       "Ahab": 9,
       "White Whale": 8,
       "Moby Dick": 7,
@@ -1811,6 +1723,36 @@
     }
   },
   {
+    "canonical_name": "Pip",
+    "aliases": [],
+    "first_chapter": 40,
+    "total_mentions": 24,
+    "per_chapter": {
+      "40": {
+        "mentions": 7,
+        "snippet": "Strike the bell eight, thou Pip!"
+      },
+      "110": {
+        "mentions": 9,
+        "snippet": "But ere this was done, Pip, who had been slily hovering near by all"
+      },
+      "129": {
+        "mentions": 8,
+        "snippet": "(_Ahab moving to go on deck; Pip catches him by the hand to follow."
+      }
+    },
+    "co_occurs_with": {
+      "Antilles": 1,
+      "Captain Noah": 1,
+      "Long Island": 1,
+      "Nantucket": 1,
+      "Queequeg": 1,
+      "Ahab": 1,
+      "Blanket Bay": 1,
+      "the Spaniard": 1
+    }
+  },
+  {
     "canonical_name": "Right Whale",
     "aliases": [],
     "first_chapter": 32,
@@ -1865,36 +1807,6 @@
     }
   },
   {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 36,
-    "total_mentions": 23,
-    "per_chapter": {
-      "36": {
-        "mentions": 8,
-        "snippet": "The hours wore on;\u2014Ahab now shut up within his cabin; anon, pacing the"
-      },
-      "72": {
-        "mentions": 4,
-        "snippet": "The whale, be it observed, lies almost entirely submerged,"
-      },
-      "119": {
-        "mentions": 11,
-        "snippet": "The scud all a flyin\u2019, That\u2019s his flip only foamin\u2019; When he stirs in"
-      }
-    },
-    "co_occurs_with": {
-      "Mr. Starbuck": 3,
-      "Starbuck": 3,
-      "Ahab": 2,
-      "Good Hope": 2,
-      "Moby Dick": 2,
-      "Queequeg": 2,
-      "Stubb": 2,
-      "All": 1
-    }
-  },
-  {
     "canonical_name": "Don Sebastian",
     "aliases": [
       "Sebastian"
@@ -1916,6 +1828,40 @@
       "Captain Ahab": 1,
       "Dame Isabella": 1,
       "Don Pedro": 1
+    }
+  },
+  {
+    "canonical_name": "Aye",
+    "aliases": [],
+    "first_chapter": 36,
+    "total_mentions": 20,
+    "per_chapter": {
+      "36": {
+        "mentions": 6,
+        "snippet": "\u201d cried Ahab; then pausing, \u201cAye, Starbuck; aye, my"
+      },
+      "54": {
+        "mentions": 4,
+        "snippet": "\u201c\u2018Aye, aye, my merry lads, it\u2019s a lively leak this; hold a cannikin,"
+      },
+      "100": {
+        "mentions": 4,
+        "snippet": "sword-fish blades) cried out in his walrus way, \u201cAye, aye, hearty!"
+      },
+      "134": {
+        "mentions": 6,
+        "snippet": "\u201cAye, aye!"
+      }
+    },
+    "co_occurs_with": {
+      "Moby Dick": 4,
+      "Ahab": 3,
+      "White Whale": 3,
+      "Captain Ahab": 2,
+      "Good Hope": 2,
+      "Mr. Starbuck": 2,
+      "Nantucket": 2,
+      "Starbuck": 2
     }
   },
   {
@@ -1966,12 +1912,12 @@
     "co_occurs_with": {
       "Ahab": 1,
       "American Whale Fleet": 1,
-      "Aye": 1,
       "Captain Mayhew": 1,
       "Harry Macey": 1,
       "Moby Dick": 1,
       "Mr. Har": 1,
-      "Mr. Harry": 1
+      "Mr. Harry": 1,
+      "Mr. Harry Macey": 1
     }
   },
   {
@@ -2150,8 +2096,8 @@
       "Black Parliament": 1,
       "Cape Horn": 1,
       "Dives": 1,
-      "Euroclydon": 1,
-      "Fish Inn": 1
+      "Fish Inn": 1,
+      "Ishmael": 1
     }
   },
   {
@@ -2180,12 +2126,12 @@
     "co_occurs_with": {
       "Ahab": 3,
       "Queequeg": 3,
-      "Aye": 2,
       "Captain Ahab": 2,
       "Flask": 2,
       "Moby Dick": 2,
       "Mr. Starbuck": 2,
-      "Starbuck": 2
+      "Starbuck": 2,
+      "Stubb": 2
     }
   },
   {
@@ -2325,7 +2271,6 @@
       "Ahab": 1,
       "Captain Ahab": 1,
       "Icy Sea": 1,
-      "Look": 1,
       "Mother Carey": 1,
       "Pray God": 1,
       "Three Fates": 1,
@@ -2379,7 +2324,7 @@
       "Captain Peleg": 1,
       "Pequod": 1,
       "Dough": 1,
-      "Ginger": 1
+      "Mr. Dough": 1
     }
   },
   {
@@ -2446,12 +2391,12 @@
     "co_occurs_with": {
       "Ahab": 1,
       "American Whale Fleet": 1,
-      "Aye": 1,
       "Gabriel": 1,
       "Harry Macey": 1,
       "Moby Dick": 1,
       "Mr. Har": 1,
-      "Mr. Harry": 1
+      "Mr. Harry": 1,
+      "Mr. Harry Macey": 1
     }
   },
   {
@@ -2527,67 +2472,7 @@
       "Icy Glen": 1,
       "King Tranquo": 1,
       "Leviathanic Museum": 1,
-      "Life": 1
-    }
-  },
-  {
-    "canonical_name": "Thou",
-    "aliases": [],
-    "first_chapter": 26,
-    "total_mentions": 10,
-    "per_chapter": {
-      "26": {
-        "mentions": 4,
-        "snippet": "Thou shalt"
-      },
-      "109": {
-        "mentions": 3,
-        "snippet": "Thou art always prating to me, Starbuck,"
-      },
-      "124": {
-        "mentions": 3,
-        "snippet": "\u201cThou liest!"
-      }
-    },
-    "co_occurs_with": {
-      "Starbuck": 3,
-      "Ahab": 2,
-      "Bashee Isles": 1,
-      "Captain Ahab": 1,
-      "In Sperm": 1,
-      "Up Burtons": 1,
-      "West the Pequod": 1,
-      "Heading East": 1
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 47,
-    "total_mentions": 10,
-    "per_chapter": {
-      "47": {
-        "mentions": 3,
-        "snippet": "There lay the fixed threads of"
-      },
-      "125": {
-        "mentions": 4,
-        "snippet": "There now\u2019s a patched professor in Queen Nature\u2019s"
-      },
-      "134": {
-        "mentions": 3,
-        "snippet": "\u201cThere she blows\u2014she blows!"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 2,
-      "Sperm Whale": 2,
-      "Stubb": 2,
-      "Queequeg": 1,
-      "Tashtego the Indian": 1,
-      "Aye": 1,
-      "Great God": 1,
-      "In Jesus": 1
+      "New Hampshire": 1
     }
   },
   {
@@ -2787,32 +2672,6 @@
     }
   },
   {
-    "canonical_name": "Bulkington",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 8,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "them, they raised a cry of \u201cBulkington!"
-      },
-      "23": {
-        "mentions": 5,
-        "snippet": "Some chapters back, one Bulkington was spoken of, a tall, newlanded"
-      }
-    },
-    "co_occurs_with": {
-      "Alleghanian Ridge": 1,
-      "Black Sea": 1,
-      "Cape Horn": 1,
-      "Jonah": 1,
-      "Landlord": 1,
-      "New Zealand": 1,
-      "Peter Coffin": 1,
-      "Queequeg": 1
-    }
-  },
-  {
     "canonical_name": "Quohog",
     "aliases": [],
     "first_chapter": 18,
@@ -3008,10 +2867,10 @@
       "Moby Dick": 2,
       "Mr. Starbuck": 1,
       "Pequod": 1,
-      "Some": 1,
       "Stand": 1,
       "Starbuck": 1,
-      "Stubb": 1
+      "Stubb": 1,
+      "Tashtego": 1
     }
   },
   {
@@ -3028,12 +2887,12 @@
     "co_occurs_with": {
       "Alleghanian Ridge": 1,
       "Black Sea": 1,
-      "Bulkington": 1,
       "Cape Horn": 1,
       "Jonah": 1,
       "New Zealand": 1,
       "Peter Coffin": 1,
-      "Queequeg": 1
+      "Queequeg": 1,
+      "Sal": 1
     }
   },
   {
@@ -3173,7 +3032,7 @@
       "Mr. Starbuck": 2,
       "Nantucket": 2,
       "Starbuck": 2,
-      "The": 2
+      "White Whale": 2
     }
   },
   {
@@ -3285,7 +3144,7 @@
       "Ishmael": 1,
       "King Tranquo": 1,
       "Leviathanic Museum": 1,
-      "Life": 1
+      "New Hampshire": 1
     }
   },
   {
@@ -3329,33 +3188,7 @@
       "Sperm Whale": 2,
       "Black Parliament": 1,
       "Dives": 1,
-      "Euroclydon": 1
-    }
-  },
-  {
-    "canonical_name": "With",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 6,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "With"
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "\u201cI saw the opening maw of hell, With endless pains and sorrows there;"
-      }
-    },
-    "co_occurs_with": {
-      "Jonah": 2,
-      "Alleghanian Ridge": 1,
-      "Black Sea": 1,
-      "Bulkington": 1,
-      "Cape Horn": 1,
-      "Landlord": 1,
-      "New Zealand": 1,
-      "Peter Coffin": 1
+      "Fish Inn": 1
     }
   },
   {
@@ -3421,9 +3254,9 @@
       "Queequeg": 2,
       "Cape Horn": 1,
       "Captain Peleg": 1,
-      "Morning": 1,
       "Old Thunder": 1,
-      "Pequod": 1
+      "Pequod": 1,
+      "Grand Jury": 1
     }
   },
   {
@@ -3470,28 +3303,6 @@
       "Commodore Davis": 1,
       "Discovery Expedition": 1,
       "John Ferdinando": 1
-    }
-  },
-  {
-    "canonical_name": "Pull",
-    "aliases": [],
-    "first_chapter": 48,
-    "total_mentions": 6,
-    "per_chapter": {
-      "48": {
-        "mentions": 6,
-        "snippet": "\u201cPull, pull, my fine hearts-alive; pull, my children; pull, my little"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Archy": 1,
-      "Aye": 1,
-      "Captain Ahab": 1,
-      "Daggoo": 1,
-      "Fedallah": 1,
-      "Flask": 1,
-      "King": 1
     }
   },
   {
@@ -3583,11 +3394,11 @@
       "Ahab": 2,
       "Moby Dick": 2,
       "Starbuck": 2,
-      "Aye": 1,
       "Captain Ahab": 1,
       "Mr. Stubb": 1,
       "Stubb": 1,
-      "Avast Stubb": 1
+      "Avast Stubb": 1,
+      "Good Hope": 1
     }
   },
   {
@@ -3607,30 +3418,23 @@
       "In the Isle": 1,
       "Man": 1,
       "Mr. Stubb": 1,
-      "Pip": 1,
       "Queen Nature": 1,
-      "Stubb": 1
+      "Stubb": 1,
+      "Tahitian": 1
     }
   },
   {
-    "canonical_name": "Euroclydon",
+    "canonical_name": "Bulkington",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 23,
     "total_mentions": 5,
     "per_chapter": {
-      "2": {
+      "23": {
         "mentions": 5,
-        "snippet": "where that tempestuous wind Euroclydon kept up a worse howling than"
+        "snippet": "Some chapters back, one Bulkington was spoken of, a tall, newlanded"
       }
     },
     "co_occurs_with": {
-      "Black Parliament": 1,
-      "Cape Horn": 1,
-      "Dives": 1,
-      "Fish Inn": 1,
-      "Ishmael": 1,
-      "Lazarus": 1,
-      "Nantucket": 1,
       "New Bedford": 1
     }
   },
@@ -3714,34 +3518,12 @@
     "co_occurs_with": {
       "Ahab": 1,
       "Archy": 1,
-      "Aye": 1,
       "Captain Ahab": 1,
       "Daggoo": 1,
       "Fedallah": 1,
       "Flask": 1,
-      "King": 1
-    }
-  },
-  {
-    "canonical_name": "Ginger",
-    "aliases": [],
-    "first_chapter": 72,
-    "total_mentions": 5,
-    "per_chapter": {
-      "72": {
-        "mentions": 5,
-        "snippet": "\u201cGinger?"
-      }
-    },
-    "co_occurs_with": {
-      "Aunt Charity": 1,
-      "Dough": 1,
-      "Mr. Dough": 1,
-      "Mr. Starbuck": 1,
-      "Queequeg": 1,
-      "Starbuck": 1,
-      "Stubb": 1,
-      "Temperance Society": 1
+      "King": 1,
+      "Mr. Flask": 1
     }
   },
   {
@@ -3823,7 +3605,6 @@
     },
     "co_occurs_with": {
       "Ahab": 1,
-      "Come": 1,
       "Polynesian Isles": 1,
       "White Whale": 1
     }
@@ -3845,9 +3626,9 @@
       "In the Isle": 1,
       "Manxman": 1,
       "Mr. Stubb": 1,
-      "Pip": 1,
       "Queen Nature": 1,
-      "Stubb": 1
+      "Stubb": 1,
+      "Tahitian": 1
     }
   },
   {
@@ -3865,11 +3646,11 @@
       "Black Parliament": 1,
       "Cape Horn": 1,
       "Dives": 1,
-      "Euroclydon": 1,
       "Fish Inn": 1,
       "Ishmael": 1,
       "Nantucket": 1,
-      "New Bedford": 1
+      "New Bedford": 1,
+      "Peter Coffin": 1
     }
   },
   {
@@ -3896,32 +3677,10 @@
       "White Whale": 2,
       "Alleghanian Ridge": 1,
       "Black Sea": 1,
-      "Bulkington": 1,
       "Cape Horn": 1,
       "Jonah": 1,
-      "Landlord": 1
-    }
-  },
-  {
-    "canonical_name": "Shipmates",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 4,
-    "per_chapter": {
-      "9": {
-        "mentions": 4,
-        "snippet": "\u201cShipmates, this book, containing only four chapters\u2014four yarns\u2014is one"
-      }
-    },
-    "co_occurs_with": {
-      "Cadiz": 1,
-      "Captain Ahab": 1,
-      "Captain. He": 1,
-      "Deliverer God": 1,
-      "Father Mapple": 1,
-      "Jonah": 1,
-      "Joppa": 1,
-      "Lord God": 1
+      "Landlord": 1,
+      "Peter Coffin": 1
     }
   },
   {
@@ -4008,28 +3767,6 @@
       "Captain Bildad": 1,
       "Captain Peleg": 1,
       "Ishmael": 1
-    }
-  },
-  {
-    "canonical_name": "Morning",
-    "aliases": [],
-    "first_chapter": 19,
-    "total_mentions": 4,
-    "per_chapter": {
-      "19": {
-        "mentions": 4,
-        "snippet": "Morning to ye,"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Cape Horn": 1,
-      "Captain Ahab": 1,
-      "Captain Peleg": 1,
-      "Elijah": 1,
-      "Old Thunder": 1,
-      "Pequod": 1,
-      "Queequeg": 1
     }
   },
   {
@@ -4256,27 +3993,6 @@
       "Captain Coffin": 1,
       "Dan Coopman": 1,
       "Dr. Snodhead": 1
-    }
-  },
-  {
-    "canonical_name": "Start",
-    "aliases": [],
-    "first_chapter": 61,
-    "total_mentions": 4,
-    "per_chapter": {
-      "61": {
-        "mentions": 4,
-        "snippet": "\u201cStart her, start her, my men!"
-      }
-    },
-    "co_occurs_with": {
-      "Indian Ocean": 1,
-      "Mr. Stubb": 1,
-      "New York": 1,
-      "Ontario Indians": 1,
-      "Sperm Whale": 1,
-      "Stubb": 1,
-      "Tashtego": 1
     }
   },
   {
@@ -4536,8 +4252,8 @@
       "Ishmael": 1,
       "King Tranquo": 1,
       "Leviathanic Museum": 1,
-      "Life": 1,
-      "New Hampshire": 1
+      "New Hampshire": 1,
+      "Pupella": 1
     }
   },
   {
@@ -4557,31 +4273,9 @@
       "Mr. Starbuck": 1,
       "Parsee": 1,
       "Pequod": 1,
-      "Some": 1,
       "Starbuck": 1,
-      "Stubb": 1
-    }
-  },
-  {
-    "canonical_name": "Some",
-    "aliases": [],
-    "first_chapter": 135,
-    "total_mentions": 4,
-    "per_chapter": {
-      "135": {
-        "mentions": 4,
-        "snippet": "\u201cSome ships sail from their ports, and ever afterwards are missing,"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Moby Dick": 1,
-      "Mr. Starbuck": 1,
-      "Parsee": 1,
-      "Pequod": 1,
-      "Stand": 1,
-      "Starbuck": 1,
-      "Stubb": 1
+      "Stubb": 1,
+      "Tashtego": 1
     }
   },
   {
@@ -4628,12 +4322,12 @@
     "co_occurs_with": {
       "Black Parliament": 1,
       "Cape Horn": 1,
-      "Euroclydon": 1,
       "Fish Inn": 1,
       "Ishmael": 1,
       "Lazarus": 1,
       "Nantucket": 1,
-      "New Bedford": 1
+      "New Bedford": 1,
+      "Peter Coffin": 1
     }
   },
   {
@@ -4655,11 +4349,11 @@
       "Cape Horn": 2,
       "Alleghanian Ridge": 1,
       "Black Sea": 1,
-      "Bulkington": 1,
       "Jonah": 1,
       "Landlord": 1,
       "New Zealand": 1,
-      "Peter Coffin": 1
+      "Peter Coffin": 1,
+      "Queequeg": 1
     }
   },
   {
@@ -4676,12 +4370,12 @@
     "co_occurs_with": {
       "Alleghanian Ridge": 1,
       "Black Sea": 1,
-      "Bulkington": 1,
       "Cape Horn": 1,
       "Jonah": 1,
       "Landlord": 1,
       "New Zealand": 1,
-      "Peter Coffin": 1
+      "Peter Coffin": 1,
+      "Queequeg": 1
     }
   },
   {
@@ -4712,6 +4406,28 @@
       "Ishmael": 1,
       "King Tranquo": 1,
       "Leviathanic Museum": 1
+    }
+  },
+  {
+    "canonical_name": "With",
+    "aliases": [],
+    "first_chapter": 9,
+    "total_mentions": 3,
+    "per_chapter": {
+      "9": {
+        "mentions": 3,
+        "snippet": "\u201cI saw the opening maw of hell, With endless pains and sorrows there;"
+      }
+    },
+    "co_occurs_with": {
+      "Cadiz": 1,
+      "Captain Ahab": 1,
+      "Captain. He": 1,
+      "Deliverer God": 1,
+      "Father Mapple": 1,
+      "Jonah": 1,
+      "Joppa": 1,
+      "Lord God": 1
     }
   },
   {
@@ -4889,28 +4605,6 @@
     }
   },
   {
-    "canonical_name": "First",
-    "aliases": [],
-    "first_chapter": 18,
-    "total_mentions": 3,
-    "per_chapter": {
-      "18": {
-        "mentions": 3,
-        "snippet": "\u201cFirst Congregational Church,\u201d cried Bildad, \u201cwhat!"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Captain Ahab": 1,
-      "Captain Bildad": 1,
-      "Captain Peleg": 1,
-      "Catholic Church": 1,
-      "Congregational Church": 1,
-      "Davy Jones": 1,
-      "Deacon Deuteronomy": 1
-    }
-  },
-  {
     "canonical_name": "Judgment",
     "aliases": [],
     "first_chapter": 18,
@@ -4953,9 +4647,9 @@
       "Captain Ahab": 1,
       "Captain Peleg": 1,
       "Elijah": 1,
-      "Morning": 1,
       "Pequod": 1,
-      "Queequeg": 1
+      "Queequeg": 1,
+      "Avast Stubb": 1
     }
   },
   {
@@ -5111,28 +4805,6 @@
       "Obed Macy": 1,
       "Old Greenland": 1,
       "Saint Stylites": 1
-    }
-  },
-  {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 36,
-    "total_mentions": 3,
-    "per_chapter": {
-      "36": {
-        "mentions": 3,
-        "snippet": "\u201cAll ye mast-headers have before now heard me give orders about a white"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Aye": 1,
-      "Captain Ahab": 1,
-      "Daggoo": 1,
-      "Flask": 1,
-      "Good Hope": 1,
-      "Moby Dick": 1,
-      "Mr. Starbuck": 1
     }
   },
   {
@@ -5367,13 +5039,13 @@
     },
     "co_occurs_with": {
       "Ahab": 1,
-      "Aye": 1,
       "Captain Ahab": 1,
       "Daggoo": 1,
       "Fedallah": 1,
       "Flask": 1,
       "King": 1,
-      "Mr. Flask": 1
+      "Mr. Flask": 1,
+      "Mr. Starbuck": 1
     }
   },
   {
@@ -5622,12 +5294,12 @@
     "co_occurs_with": {
       "Ahab": 1,
       "American Whale Fleet": 1,
-      "Aye": 1,
       "Captain Mayhew": 1,
       "Gabriel": 1,
       "Harry Macey": 1,
       "Moby Dick": 1,
-      "Mr. Har": 1
+      "Mr. Har": 1,
+      "Mr. Harry": 1
     }
   },
   {
@@ -5827,28 +5499,6 @@
     }
   },
   {
-    "canonical_name": "Upon",
-    "aliases": [],
-    "first_chapter": 91,
-    "total_mentions": 3,
-    "per_chapter": {
-      "91": {
-        "mentions": 3,
-        "snippet": "Upon"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Bouton": 1,
-      "Captain Ahab": 1,
-      "Frenchman": 1,
-      "Guernsey": 1,
-      "Moby Dick": 1,
-      "Monsieur": 1,
-      "Pequod": 1
-    }
-  },
-  {
     "canonical_name": "Aries",
     "aliases": [],
     "first_chapter": 99,
@@ -5862,12 +5512,12 @@
     "co_occurs_with": {
       "Ahab": 1,
       "Cancer the Crab": 1,
-      "Jenny": 1,
       "Milky Way": 1,
       "Negro Hill": 1,
       "South America": 1,
       "Stubb": 1,
-      "Virtue": 1
+      "Virtue": 1,
+      "White Whale": 1
     }
   },
   {
@@ -5885,33 +5535,11 @@
       "Ahab": 1,
       "Aries": 1,
       "Cancer the Crab": 1,
-      "Jenny": 1,
-      "Milky Way": 1,
-      "Negro Hill": 1,
-      "South America": 1,
-      "Stubb": 1
-    }
-  },
-  {
-    "canonical_name": "Jenny",
-    "aliases": [],
-    "first_chapter": 99,
-    "total_mentions": 3,
-    "per_chapter": {
-      "99": {
-        "mentions": 3,
-        "snippet": "Jenny!"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Aries": 1,
-      "Cancer the Crab": 1,
       "Milky Way": 1,
       "Negro Hill": 1,
       "South America": 1,
       "Stubb": 1,
-      "Virtue": 1
+      "White Whale": 1
     }
   },
   {
@@ -5977,7 +5605,7 @@
       "Ishmael": 1,
       "King Tranquo": 1,
       "Leviathanic Museum": 1,
-      "Life": 1
+      "New Hampshire": 1
     }
   },
   {
@@ -5989,28 +5617,6 @@
       "102": {
         "mentions": 3,
         "snippet": "the lord of Tranque, at his retired palm villa at Pupella; a sea-side"
-      }
-    },
-    "co_occurs_with": {
-      "Arsacidean": 1,
-      "Burton Constable": 1,
-      "Clifford Constable": 1,
-      "Icy Glen": 1,
-      "Ishmael": 1,
-      "King Tranquo": 1,
-      "Leviathanic Museum": 1,
-      "Life": 1
-    }
-  },
-  {
-    "canonical_name": "Life",
-    "aliases": [],
-    "first_chapter": 102,
-    "total_mentions": 3,
-    "per_chapter": {
-      "102": {
-        "mentions": 3,
-        "snippet": "Life folded Death; Death trellised Life; the grim"
       }
     },
     "co_occurs_with": {
@@ -6061,7 +5667,6 @@
       "Greek": 1,
       "Mr. Starbuck": 1,
       "Starbuck": 1,
-      "Stubb": 1,
       "Thames Tunnel": 1
     }
   },
@@ -6080,7 +5685,6 @@
       "Mr. Starbuck": 1,
       "Prometheus": 1,
       "Starbuck": 1,
-      "Stubb": 1,
       "Thames Tunnel": 1
     }
   },
@@ -6158,73 +5762,10 @@
       "Ahab": 1,
       "Captain Ahab": 1,
       "Icy Sea": 1,
-      "Look": 1,
       "Perth": 1,
       "Pray God": 1,
       "Three Fates": 1,
       "White Whale": 1
-    }
-  },
-  {
-    "canonical_name": "Look",
-    "aliases": [],
-    "first_chapter": 113,
-    "total_mentions": 3,
-    "per_chapter": {
-      "113": {
-        "mentions": 3,
-        "snippet": "\u201cLook ye here, then,\u201d cried Ahab, passionately advancing, and leaning"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Captain Ahab": 1,
-      "Icy Sea": 1,
-      "Mother Carey": 1,
-      "Perth": 1,
-      "Pray God": 1,
-      "Three Fates": 1,
-      "White Whale": 1
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 115,
-    "total_mentions": 3,
-    "per_chapter": {
-      "115": {
-        "mentions": 3,
-        "snippet": "\u201cCome aboard, come aboard!"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Bachelor": 1,
-      "Polynesian Isles": 1,
-      "White Whale": 1
-    }
-  },
-  {
-    "canonical_name": "Such",
-    "aliases": [],
-    "first_chapter": 119,
-    "total_mentions": 3,
-    "per_chapter": {
-      "119": {
-        "mentions": 3,
-        "snippet": "tail,\u2014 Such a funny, sporty, gamy, jesty, joky, hoky-poky lad, is the"
-      }
-    },
-    "co_occurs_with": {
-      "Ahab": 1,
-      "Avast Stubb": 1,
-      "Good Hope": 1,
-      "Moby Dick": 1,
-      "Mr. Starbuck": 1,
-      "Ocean": 1,
-      "Old Thunder": 1,
-      "Starbuck": 1
     }
   },
   {
@@ -6246,7 +5787,7 @@
       "Mr. Starbuck": 1,
       "Old Thunder": 1,
       "Starbuck": 1,
-      "Such": 1
+      "Tekel Upharsin": 1
     }
   },
   {
@@ -6267,8 +5808,8 @@
       "Man": 1,
       "Manxman": 1,
       "Mr. Stubb": 1,
-      "Pip": 1,
-      "Queen Nature": 1
+      "Queen Nature": 1,
+      "Stubb": 1
     }
   },
   {

@@ -90,13 +90,49 @@ def ask():
     except (TypeError, ValueError):
         return jsonify({"error": "chapter must be an integer"}), 400
 
-    res = answer(
-        question, chapter,
-        provider=provider, top_k=top_k, book_id=book_id,
-        user_id=user_id, retrieval_mode=retrieval_mode,
-        persist=bool(book_id),
-        agent_mode=agent_mode,
-    )
+    try:
+        res = answer(
+            question, chapter,
+            provider=provider, top_k=top_k, book_id=book_id,
+            user_id=user_id, retrieval_mode=retrieval_mode,
+            persist=bool(book_id),
+            agent_mode=agent_mode,
+        )
+    except Exception as e:
+        # Surface the underlying LLM-provider error to the UI in a clean,
+        # JSON-shaped 502 response, so the user sees a useful message rather
+        # than a generic "agent unreachable" or HTML 500 page.
+        msg = str(e)
+        kind = "provider_error"
+        # Detect the common cases by message content
+        m_lower = msg.lower()
+        if "credit balance is too low" in m_lower or "insufficient" in m_lower:
+            kind = "credit_balance_too_low"
+            friendly = (
+                f"The {provider} API rejected the request because your account "
+                "has insufficient credits. Add credits at the provider's billing "
+                "page, or switch to a different LLM in the dropdown."
+            )
+        elif "rate limit" in m_lower or "429" in msg:
+            kind = "rate_limited"
+            friendly = (
+                f"The {provider} API is rate-limiting requests. Wait a few "
+                "seconds and try again, or switch to a different LLM."
+            )
+        elif "authentication" in m_lower or "invalid api key" in m_lower or "401" in msg:
+            kind = "auth_failed"
+            friendly = (
+                f"The {provider} API rejected the API key. Check that .env "
+                "contains the correct key and restart the backend."
+            )
+        else:
+            friendly = f"The {provider} backend returned an error: {msg}"
+        return jsonify({
+            "error": friendly,
+            "error_kind": kind,
+            "provider": provider,
+            "detail": msg[:500],
+        }), 502
 
     # Strip embeddings/heavy fields for JSON response
     return jsonify({

@@ -427,9 +427,9 @@
     "co_occurs_with": {
       "Mr. Rochester": 13,
       "Rochester": 13,
-      "Thornfield Hall": 12,
       "Fairfax": 11,
       "Mrs. Fairfax": 11,
+      "Thornfield Hall": 11,
       "Jane Eyre": 8,
       "Mrs. Reed": 7,
       "Reed": 7
@@ -522,7 +522,7 @@
       "Mrs. Fairfax": 19,
       "Mr. Rochester": 18,
       "Rochester": 18,
-      "Thornfield Hall": 17,
+      "Thornfield Hall": 16,
       "Miss Eyre": 11,
       "Grace Poole": 10,
       "Miss Ingram": 8,
@@ -616,7 +616,7 @@
       "Fairfax": 19,
       "Mr. Rochester": 18,
       "Rochester": 18,
-      "Thornfield Hall": 17,
+      "Thornfield Hall": 16,
       "Miss Eyre": 11,
       "Grace Poole": 10,
       "Miss Ingram": 8,
@@ -759,8 +759,8 @@
       "Brocklehurst": 7,
       "Miss Temple": 7,
       "Mr. Brocklehurst": 7,
-      "Thornfield Hall": 7,
-      "Bessie": 6
+      "Bessie": 6,
+      "Fairfax": 6
     }
   },
   {
@@ -879,50 +879,8 @@
       "Brocklehurst": 7,
       "Miss Temple": 7,
       "Mr. Brocklehurst": 7,
-      "Thornfield Hall": 7,
-      "Bessie": 6
-    }
-  },
-  {
-    "canonical_name": "Diana",
-    "aliases": [],
-    "first_chapter": 28,
-    "total_mentions": 68,
-    "per_chapter": {
-      "28": {
-        "mentions": 6,
-        "snippet": "\u201cListen, Diana,\u201d said one of the absorbed students; \u201cFranz and old"
-      },
-      "29": {
-        "mentions": 14,
-        "snippet": "Diana and Mary appeared in the chamber once or twice a day."
-      },
-      "30": {
-        "mentions": 13,
-        "snippet": "I could join with Diana and Mary in all"
-      },
-      "33": {
-        "mentions": 10,
-        "snippet": "\u201cI wish Diana or Mary would come and live with you: it is too bad that"
-      },
-      "34": {
-        "mentions": 18,
-        "snippet": "Diana and Mary will be at home in a"
-      },
-      "35": {
-        "mentions": 7,
-        "snippet": "On re-entering the parlour, I found Diana standing at the window,"
-      }
-    },
-    "co_occurs_with": {
-      "Oliver": 5,
-      "Moor House": 4,
-      "Mr. Oliver": 4,
-      "Mr. Rivers": 4,
-      "Mr. Rochester": 4,
-      "Mr. St": 4,
-      "Rochester": 4,
-      "Jane Elliott": 3
+      "Bessie": 6,
+      "Fairfax": 6
     }
   },
   {
@@ -963,10 +921,10 @@
       "Miss Oliver": 5,
       "Moor House": 5,
       "Mr. Oliver": 5,
-      "Diana": 4,
       "Mr. Rochester": 4,
       "Mr. St": 4,
-      "Rochester": 4
+      "Rochester": 4,
+      "Morton": 4
     }
   },
   {
@@ -1046,6 +1004,44 @@
     }
   },
   {
+    "canonical_name": "Diana",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 55,
+    "per_chapter": {
+      "28": {
+        "mentions": 6,
+        "snippet": "\u201cListen, Diana,\u201d said one of the absorbed students; \u201cFranz and old"
+      },
+      "29": {
+        "mentions": 14,
+        "snippet": "Diana and Mary appeared in the chamber once or twice a day."
+      },
+      "33": {
+        "mentions": 10,
+        "snippet": "\u201cI wish Diana or Mary would come and live with you: it is too bad that"
+      },
+      "34": {
+        "mentions": 18,
+        "snippet": "Diana and Mary will be at home in a"
+      },
+      "35": {
+        "mentions": 7,
+        "snippet": "On re-entering the parlour, I found Diana standing at the window,"
+      }
+    },
+    "co_occurs_with": {
+      "Mr. Rochester": 4,
+      "Oliver": 4,
+      "Rochester": 4,
+      "Jane Elliott": 3,
+      "Moor House": 3,
+      "Mr. Oliver": 3,
+      "Mr. Rivers": 3,
+      "Mr. St": 3
+    }
+  },
+  {
     "canonical_name": "Colonel Dent",
     "aliases": [
       "Dent"
@@ -1083,102 +1079,6 @@
       "Mrs. Fairfax": 4,
       "Thornfield Hall": 4,
       "Eshton": 3
-    }
-  },
-  {
-    "canonical_name": "Thornfield Hall",
-    "aliases": [
-      "Thornfield"
-    ],
-    "first_chapter": 10,
-    "total_mentions": 48,
-    "per_chapter": {
-      "10": {
-        "mentions": 3,
-        "snippet": "Fairfax, Thornfield, near Millcote, \u2014\u2014shire."
-      },
-      "11": {
-        "mentions": 1,
-        "snippet": "Thornfield Hall, this would be its haunt."
-      },
-      "12": {
-        "mentions": 2,
-        "snippet": "Thornfield Hall seemed to pledge, was not belied on a longer"
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "Thornfield Hall was a changed place: no longer silent as a church, it"
-      },
-      "15": {
-        "mentions": 3,
-        "snippet": "I like Thornfield, its"
-      },
-      "16": {
-        "mentions": 1,
-        "snippet": "dreaded at Thornfield Hall: but in future\u201d (and I laid marked stress on"
-      },
-      "17": {
-        "mentions": 1,
-        "snippet": "the master of Thornfield Hall, welcoming his fair and gallant guests"
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "Merry days were these at Thornfield Hall; and busy days too: how"
-      },
-      "20": {
-        "mentions": 2,
-        "snippet": "a shrilly sound that ran from end to end of Thornfield Hall."
-      },
-      "21": {
-        "mentions": 1,
-        "snippet": "She wanted to know if I was happy at Thornfield Hall, and what sort of"
-      },
-      "22": {
-        "mentions": 1,
-        "snippet": "A fortnight of dubious calm succeeded my return to Thornfield Hall."
-      },
-      "23": {
-        "mentions": 7,
-        "snippet": "Thornfield were green and shorn; the roads white and baked; the trees"
-      },
-      "24": {
-        "mentions": 3,
-        "snippet": "keeping,\u2014heirlooms for the ladies of Thornfield."
-      },
-      "25": {
-        "mentions": 3,
-        "snippet": "but one you will eat at Thornfield Hall for a long time."
-      },
-      "26": {
-        "mentions": 3,
-        "snippet": "fifteen years back), Edward Fairfax Rochester, of Thornfield Hall, in"
-      },
-      "27": {
-        "mentions": 4,
-        "snippet": "Thornfield Hall\u2014this accursed place\u2014this tent of Achan\u2014this insolent"
-      },
-      "33": {
-        "mentions": 2,
-        "snippet": "left Thornfield Hall in the night; every research after her course had"
-      },
-      "36": {
-        "mentions": 6,
-        "snippet": "\u201cHow far is Thornfield Hall from here?"
-      },
-      "37": {
-        "mentions": 3,
-        "snippet": "words, that I had heard all which had happened since I left Thornfield,"
-      }
-    },
-    "co_occurs_with": {
-      "Mr. Rochester": 18,
-      "Rochester": 18,
-      "Fairfax": 17,
-      "Mrs. Fairfax": 17,
-      "Miss Eyre": 12,
-      "Grace Poole": 10,
-      "Jane Eyre": 9,
-      "Miss Ingram": 8
     }
   },
   {
@@ -1298,6 +1198,98 @@
     }
   },
   {
+    "canonical_name": "Thornfield Hall",
+    "aliases": [
+      "Thornfield"
+    ],
+    "first_chapter": 11,
+    "total_mentions": 45,
+    "per_chapter": {
+      "11": {
+        "mentions": 1,
+        "snippet": "Thornfield Hall, this would be its haunt."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "Thornfield Hall seemed to pledge, was not belied on a longer"
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "Thornfield Hall was a changed place: no longer silent as a church, it"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "I like Thornfield, its"
+      },
+      "16": {
+        "mentions": 1,
+        "snippet": "dreaded at Thornfield Hall: but in future\u201d (and I laid marked stress on"
+      },
+      "17": {
+        "mentions": 1,
+        "snippet": "the master of Thornfield Hall, welcoming his fair and gallant guests"
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Merry days were these at Thornfield Hall; and busy days too: how"
+      },
+      "20": {
+        "mentions": 2,
+        "snippet": "a shrilly sound that ran from end to end of Thornfield Hall."
+      },
+      "21": {
+        "mentions": 1,
+        "snippet": "She wanted to know if I was happy at Thornfield Hall, and what sort of"
+      },
+      "22": {
+        "mentions": 1,
+        "snippet": "A fortnight of dubious calm succeeded my return to Thornfield Hall."
+      },
+      "23": {
+        "mentions": 7,
+        "snippet": "Thornfield were green and shorn; the roads white and baked; the trees"
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "keeping,\u2014heirlooms for the ladies of Thornfield."
+      },
+      "25": {
+        "mentions": 3,
+        "snippet": "but one you will eat at Thornfield Hall for a long time."
+      },
+      "26": {
+        "mentions": 3,
+        "snippet": "fifteen years back), Edward Fairfax Rochester, of Thornfield Hall, in"
+      },
+      "27": {
+        "mentions": 4,
+        "snippet": "Thornfield Hall\u2014this accursed place\u2014this tent of Achan\u2014this insolent"
+      },
+      "33": {
+        "mentions": 2,
+        "snippet": "left Thornfield Hall in the night; every research after her course had"
+      },
+      "36": {
+        "mentions": 6,
+        "snippet": "\u201cHow far is Thornfield Hall from here?"
+      },
+      "37": {
+        "mentions": 3,
+        "snippet": "words, that I had heard all which had happened since I left Thornfield,"
+      }
+    },
+    "co_occurs_with": {
+      "Mr. Rochester": 18,
+      "Rochester": 18,
+      "Fairfax": 16,
+      "Mrs. Fairfax": 16,
+      "Miss Eyre": 11,
+      "Grace Poole": 10,
+      "Jane Eyre": 9,
+      "Miss Ingram": 8
+    }
+  },
+  {
     "canonical_name": "Jane Eyre",
     "aliases": [],
     "first_chapter": 2,
@@ -1405,8 +1397,8 @@
       "Jane Eyre": 4,
       "Bessie": 4,
       "Gateshead Hall": 3,
-      "John": 3,
-      "Missis": 3
+      "Georgiana": 3,
+      "John Reed": 3
     }
   },
   {
@@ -1475,74 +1467,6 @@
     }
   },
   {
-    "canonical_name": "Mary",
-    "aliases": [],
-    "first_chapter": 18,
-    "total_mentions": 30,
-    "per_chapter": {
-      "18": {
-        "mentions": 1,
-        "snippet": "Miss Mary declared she felt, for"
-      },
-      "28": {
-        "mentions": 6,
-        "snippet": "Mary, are you?"
-      },
-      "34": {
-        "mentions": 13,
-        "snippet": "Diana and Mary will be at home in a"
-      },
-      "37": {
-        "mentions": 10,
-        "snippet": "\u201cMary,\u201d I said,"
-      }
-    },
-    "co_occurs_with": {
-      "Mr. Rochester": 4,
-      "Rochester": 4,
-      "Hindostanee": 2,
-      "Moor House": 2,
-      "Thornfield Hall": 2,
-      "Will": 2,
-      "Diana": 2,
-      "Fairfax": 2
-    }
-  },
-  {
-    "canonical_name": "Eliza",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 29,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "inferiority to Eliza, John, and Georgiana Reed."
-      },
-      "4": {
-        "mentions": 5,
-        "snippet": "Eliza and Georgiana, evidently acting according to orders, spoke to me"
-      },
-      "21": {
-        "mentions": 14,
-        "snippet": "This I felt sure was Eliza,"
-      },
-      "22": {
-        "mentions": 5,
-        "snippet": "Eliza; from her she got neither sympathy in her dejection, support in"
-      }
-    },
-    "co_occurs_with": {
-      "Mrs. Reed": 4,
-      "Reed": 4,
-      "Bessie": 3,
-      "John": 3,
-      "John Reed": 3,
-      "Georgiana": 3,
-      "Jane Eyre": 3,
-      "British Birds": 2
-    }
-  },
-  {
     "canonical_name": "Hannah",
     "aliases": [],
     "first_chapter": 28,
@@ -1559,13 +1483,13 @@
     },
     "co_occurs_with": {
       "Diana": 2,
-      "Mary": 2,
       "Mr. Rochester": 2,
       "Oliver": 2,
       "Rochester": 2,
       "East Indiaman": 1,
       "Fairfax": 1,
-      "Frederic Granby": 1
+      "Frederic Granby": 1,
+      "Guinea Coast": 1
     }
   },
   {
@@ -1628,10 +1552,10 @@
       "Jane": 2,
       "Jane Eyre": 2,
       "Miss Jane": 2,
-      "Missis": 2,
       "Mr. Reed": 2,
       "Mrs. Reed": 2,
-      "Reed": 2
+      "Reed": 2,
+      "Gateshead Church": 1
     }
   },
   {
@@ -1664,40 +1588,6 @@
       "Gateshead Hall": 2,
       "Georgiana": 2,
       "Jane": 2
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 24,
-    "per_chapter": {
-      "3": {
-        "mentions": 4,
-        "snippet": "The next thing I remember is, waking up with a feeling as if I had had"
-      },
-      "4": {
-        "mentions": 4,
-        "snippet": "The remains of my breakfast of bread and milk stood on the"
-      },
-      "14": {
-        "mentions": 4,
-        "snippet": "The fact is, once for all, I don\u2019t wish to treat you like an"
-      },
-      "29": {
-        "mentions": 12,
-        "snippet": "The recollection of about three days and nights succeeding this is very"
-      }
-    },
-    "co_occurs_with": {
-      "Aunt Reed": 2,
-      "Bessie": 2,
-      "Gateshead Hall": 2,
-      "Georgiana": 2,
-      "Jane": 2,
-      "Jane Eyre": 2,
-      "John Reed": 2,
-      "Miss Jane": 2
     }
   },
   {
@@ -1736,6 +1626,36 @@
       "Mrs. Fairfax": 4,
       "Thornfield Hall": 4,
       "Colonel Dent": 3
+    }
+  },
+  {
+    "canonical_name": "Mary",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 24,
+    "per_chapter": {
+      "18": {
+        "mentions": 1,
+        "snippet": "Miss Mary declared she felt, for"
+      },
+      "34": {
+        "mentions": 13,
+        "snippet": "Diana and Mary will be at home in a"
+      },
+      "37": {
+        "mentions": 10,
+        "snippet": "\u201cMary,\u201d I said,"
+      }
+    },
+    "co_occurs_with": {
+      "Mr. Rochester": 3,
+      "Rochester": 3,
+      "Hindostanee": 2,
+      "Moor House": 2,
+      "Thornfield Hall": 2,
+      "Fairfax": 2,
+      "Mrs. Fairfax": 2,
+      "Did Rivers": 1
     }
   },
   {
@@ -1814,12 +1734,12 @@
     "co_occurs_with": {
       "Mr. Oliver": 6,
       "Mr. Rivers": 6,
-      "Diana": 5,
       "Miss Oliver": 5,
       "Moor House": 5,
       "Mr. Rochester": 5,
       "Mr. St": 5,
-      "Rochester": 5
+      "Rochester": 5,
+      "Diana": 4
     }
   },
   {
@@ -1884,46 +1804,12 @@
     "co_occurs_with": {
       "Mr. Oliver": 5,
       "Oliver": 5,
-      "Diana": 4,
       "Moor House": 4,
       "Mr. Rivers": 4,
+      "Diana": 3,
       "Jane Elliott": 3,
       "Miss Oliver": 3,
       "Mr. Rochester": 3
-    }
-  },
-  {
-    "canonical_name": "Leah",
-    "aliases": [],
-    "first_chapter": 11,
-    "total_mentions": 21,
-    "per_chapter": {
-      "11": {
-        "mentions": 6,
-        "snippet": "Leah, make a little hot negus and cut a sandwich or two: here are"
-      },
-      "12": {
-        "mentions": 4,
-        "snippet": ", John and his wife, Leah the"
-      },
-      "16": {
-        "mentions": 5,
-        "snippet": "Fairfax\u2019s voice, and Leah\u2019s, and the cook\u2019s\u2014that is, John\u2019s wife\u2014and"
-      },
-      "17": {
-        "mentions": 6,
-        "snippet": "once, indeed, overheard part of a dialogue between Leah and one of the"
-      }
-    },
-    "co_occurs_with": {
-      "Fairfax": 4,
-      "Grace Poole": 4,
-      "Mr. Rochester": 4,
-      "Mrs. Fairfax": 4,
-      "Rochester": 4,
-      "Thornfield Hall": 4,
-      "George Inn": 2,
-      "Is Mr": 2
     }
   },
   {
@@ -1961,7 +1847,7 @@
       "Mr. Rochester": 4,
       "Rochester": 4,
       "Morton": 4,
-      "Diana": 3
+      "Mr. St": 3
     }
   },
   {
@@ -1991,7 +1877,7 @@
       "Rochester": 3,
       "Thornfield Hall": 3,
       "George Inn": 2,
-      "Leah": 2
+      "Millcote": 2
     }
   },
   {
@@ -2055,9 +1941,9 @@
       "Mrs. Fairfax": 4,
       "Mrs. Reed": 4,
       "Reed": 4,
-      "Thornfield Hall": 4,
       "Mr. Rochester": 3,
-      "Rochester": 3
+      "Rochester": 3,
+      "Thornfield Hall": 3
     }
   },
   {
@@ -2199,40 +2085,6 @@
     }
   },
   {
-    "canonical_name": "Not",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 17,
-    "per_chapter": {
-      "4": {
-        "mentions": 5,
-        "snippet": "Not a"
-      },
-      "19": {
-        "mentions": 3,
-        "snippet": "\u201cNot I."
-      },
-      "28": {
-        "mentions": 6,
-        "snippet": "Not a tie holds me to human society at this"
-      },
-      "31": {
-        "mentions": 3,
-        "snippet": "Not to"
-      }
-    },
-    "co_occurs_with": {
-      "Mr. Rochester": 3,
-      "Rochester": 3,
-      "Good": 2,
-      "Jane": 2,
-      "Mr. Oliver": 2,
-      "Mr. St": 2,
-      "Oliver": 2,
-      "Aunt Reed": 1
-    }
-  },
-  {
     "canonical_name": "Helen Burns",
     "aliases": [],
     "first_chapter": 6,
@@ -2271,6 +2123,36 @@
     }
   },
   {
+    "canonical_name": "Eliza",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 15,
+    "per_chapter": {
+      "1": {
+        "mentions": 5,
+        "snippet": "inferiority to Eliza, John, and Georgiana Reed."
+      },
+      "4": {
+        "mentions": 5,
+        "snippet": "Eliza and Georgiana, evidently acting according to orders, spoke to me"
+      },
+      "22": {
+        "mentions": 5,
+        "snippet": "Eliza; from her she got neither sympathy in her dejection, support in"
+      }
+    },
+    "co_occurs_with": {
+      "Mrs. Reed": 3,
+      "Reed": 3,
+      "Bessie": 2,
+      "John": 2,
+      "John Reed": 2,
+      "Master John": 2,
+      "Georgiana": 2,
+      "Jane Eyre": 2
+    }
+  },
+  {
     "canonical_name": "Lord Ingram",
     "aliases": [],
     "first_chapter": 16,
@@ -2298,40 +2180,6 @@
       "Miss Ingram": 3,
       "Mr. Eshton": 3,
       "Mr. Rochester": 3
-    }
-  },
-  {
-    "canonical_name": "Missis",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 14,
-    "per_chapter": {
-      "2": {
-        "mentions": 4,
-        "snippet": "\u201cI\u2019ve told Missis often my"
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "Missis"
-      },
-      "10": {
-        "mentions": 4,
-        "snippet": "\u201cMissis looks stout and well enough in the face, but I think she\u2019s not"
-      },
-      "21": {
-        "mentions": 3,
-        "snippet": "Missis refused: her means have long been much reduced by"
-      }
-    },
-    "co_occurs_with": {
-      "Mrs. Reed": 4,
-      "Reed": 4,
-      "Jane": 3,
-      "Jane Eyre": 3,
-      "John": 3,
-      "Miss Eyre": 3,
-      "Miss Jane": 3,
-      "Mr. Reed": 3
     }
   },
   {
@@ -2445,10 +2293,10 @@
       "Rochester": 6,
       "Mr. Rivers": 5,
       "Oliver": 5,
-      "Diana": 4,
       "Miss Oliver": 4,
       "Mr. Oliver": 4,
-      "Mr. St": 4
+      "Mr. St": 4,
+      "Diana": 3
     }
   },
   {
@@ -2540,48 +2388,6 @@
     }
   },
   {
-    "canonical_name": "John",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 12,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "What a fury to fly at Master John!"
-      },
-      "2": {
-        "mentions": 3,
-        "snippet": "All John Reed\u2019s violent tyrannies, all his sisters\u2019 proud indifference,"
-      },
-      "4": {
-        "mentions": 1,
-        "snippet": "Missis and the young ladies and Master John are going out to tea this"
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "John\u2019s conduct does not please her\u2014he"
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "I have sent John down to the gates to see if"
-      },
-      "21": {
-        "mentions": 3,
-        "snippet": "John died yesterday was a week, at his chambers in London."
-      }
-    },
-    "co_occurs_with": {
-      "Mrs. Reed": 6,
-      "Reed": 6,
-      "Bessie": 4,
-      "John Reed": 4,
-      "Miss Eyre": 4,
-      "Eliza": 3,
-      "Jane": 3,
-      "Jane Eyre": 3
-    }
-  },
-  {
     "canonical_name": "Aunt Reed",
     "aliases": [],
     "first_chapter": 3,
@@ -2609,36 +2415,6 @@
       "Reed": 3,
       "Gateshead Hall": 2,
       "Jane": 2
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 12,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "\u201cCome here,\u201d he said."
-      },
-      "20": {
-        "mentions": 4,
-        "snippet": "\u201cCome out, then, quietly."
-      },
-      "23": {
-        "mentions": 5,
-        "snippet": "Come!"
-      }
-    },
-    "co_occurs_with": {
-      "Jane": 3,
-      "Fairfax": 2,
-      "Miss Ingram": 2,
-      "Mr. Rochester": 2,
-      "Mrs. Fairfax": 2,
-      "Rochester": 2,
-      "Thornfield Hall": 2,
-      "Aunt Reed": 1
     }
   },
   {
@@ -2754,11 +2530,11 @@
       "Oliver": 6,
       "Mr. Rivers": 5,
       "Mr. St": 5,
-      "Diana": 4,
       "Miss Oliver": 4,
       "Moor House": 4,
       "Mr. Rochester": 4,
-      "Rochester": 4
+      "Rochester": 4,
+      "Diana": 3
     }
   },
   {
@@ -2784,11 +2560,11 @@
       "Bessie": 3,
       "Georgiana": 3,
       "John Reed": 3,
-      "Missis": 3,
       "Mrs. Reed": 3,
       "Reed": 3,
       "Aunt Reed": 2,
-      "Jane": 2
+      "Jane": 2,
+      "Jane Eyre": 2
     }
   },
   {
@@ -2890,33 +2666,29 @@
     }
   },
   {
-    "canonical_name": "Are",
+    "canonical_name": "Leah",
     "aliases": [],
-    "first_chapter": 9,
+    "first_chapter": 11,
     "total_mentions": 10,
     "per_chapter": {
-      "9": {
-        "mentions": 3,
-        "snippet": "\u201cAre you going somewhere, Helen?"
+      "11": {
+        "mentions": 6,
+        "snippet": "Leah, make a little hot negus and cut a sandwich or two: here are"
       },
-      "23": {
-        "mentions": 3,
-        "snippet": "Are you anything akin to me, do you think, Jane?"
-      },
-      "25": {
+      "12": {
         "mentions": 4,
-        "snippet": "\u201cAre all your arrangements complete?"
+        "snippet": ", John and his wife, Leah the"
       }
     },
     "co_occurs_with": {
       "Fairfax": 2,
-      "Jane": 2,
-      "Janet": 2,
+      "Grace Poole": 2,
       "Mr. Rochester": 2,
       "Mrs. Fairfax": 2,
       "Rochester": 2,
       "Thornfield Hall": 2,
-      "Because": 1
+      "Adela Varens": 1,
+      "Did": 1
     }
   },
   {
@@ -2962,63 +2734,41 @@
     }
   },
   {
-    "canonical_name": "Did",
+    "canonical_name": "John",
     "aliases": [],
     "first_chapter": 1,
     "total_mentions": 9,
     "per_chapter": {
       "1": {
-        "mentions": 3,
-        "snippet": "\u201cDid she say that to me?"
+        "mentions": 1,
+        "snippet": "What a fury to fly at Master John!"
       },
-      "11": {
-        "mentions": 3,
-        "snippet": "\u201cDid you not know he"
-      },
-      "33": {
-        "mentions": 3,
-        "snippet": "\u201cDid no one go to Thornfield Hall, then?"
-      }
-    },
-    "co_occurs_with": {
-      "Mrs. Reed": 3,
-      "Reed": 3,
-      "Jane Eyre": 2,
-      "Miss Eyre": 2,
-      "Mr. Rochester": 2,
-      "Rochester": 2,
-      "Thornfield Hall": 2,
-      "Arctic Zone": 1
-    }
-  },
-  {
-    "canonical_name": "Good",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 9,
-    "per_chapter": {
       "4": {
-        "mentions": 3,
-        "snippet": "me, and said, \u201cGood night, Miss Jane."
+        "mentions": 1,
+        "snippet": "Missis and the young ladies and Master John are going out to tea this"
       },
-      "31": {
-        "mentions": 3,
-        "snippet": "\u201cGood evening, Mr."
+      "10": {
+        "mentions": 1,
+        "snippet": "John\u2019s conduct does not please her\u2014he"
       },
-      "34": {
+      "17": {
         "mentions": 3,
-        "snippet": "Good fortune opens"
+        "snippet": "I have sent John down to the gates to see if"
+      },
+      "21": {
+        "mentions": 3,
+        "snippet": "John died yesterday was a week, at his chambers in London."
       }
     },
     "co_occurs_with": {
-      "Jane": 2,
-      "Not": 2,
-      "Miss Oliver": 2,
-      "Moor House": 2,
-      "Morton": 2,
-      "Mr. Rivers": 2,
-      "Mr. Rochester": 2,
-      "Oliver": 2
+      "Mrs. Reed": 5,
+      "Reed": 5,
+      "Bessie": 4,
+      "John Reed": 4,
+      "Brocklehurst": 3,
+      "Georgiana": 3,
+      "Miss Temple": 3,
+      "Mr. Brocklehurst": 3
     }
   },
   {
@@ -3045,36 +2795,6 @@
       "At Gateshead": 1,
       "Aunt Reed": 1,
       "Bessie": 1
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 24,
-    "total_mentions": 9,
-    "per_chapter": {
-      "24": {
-        "mentions": 3,
-        "snippet": "\u201cVery much."
-      },
-      "31": {
-        "mentions": 3,
-        "snippet": "\u201cVery well; I hope you feel the content you express: at any rate, your"
-      },
-      "37": {
-        "mentions": 3,
-        "snippet": "\u201cVery dimly\u2014each is a luminous cloud."
-      }
-    },
-    "co_occurs_with": {
-      "Mr. Rochester": 3,
-      "Rochester": 3,
-      "Jane Eyre": 2,
-      "Janet": 2,
-      "Miss Eyre": 2,
-      "Thornfield Hall": 2,
-      "Moor House": 2,
-      "Fairfax": 1
     }
   },
   {
@@ -3110,9 +2830,35 @@
       "Reed": 5,
       "John": 4,
       "Georgiana": 4,
-      "Eliza": 3,
       "Aunt Reed": 3,
-      "Jane": 3
+      "Jane": 3,
+      "Jane Eyre": 3
+    }
+  },
+  {
+    "canonical_name": "Missis",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 8,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "\u201cI\u2019ve told Missis often my"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cMissis looks stout and well enough in the face, but I think she\u2019s not"
+      }
+    },
+    "co_occurs_with": {
+      "Jane": 2,
+      "Miss Eyre": 2,
+      "Miss Jane": 2,
+      "Mrs. Reed": 2,
+      "Reed": 2,
+      "Gateshead Church": 1,
+      "Gateshead Hall": 1,
+      "Jane Eyre": 1
     }
   },
   {
@@ -3186,13 +2932,13 @@
     },
     "co_occurs_with": {
       "Jane Eyre": 3,
-      "Missis": 3,
       "Mrs. Reed": 3,
       "Reed": 3,
       "Gateshead Church": 2,
       "Gateshead Hall": 2,
       "Jane": 2,
-      "John": 2
+      "Miss Abbot": 2,
+      "Miss Eyre": 2
     }
   },
   {
@@ -3293,66 +3039,14 @@
       }
     },
     "co_occurs_with": {
-      "Are": 1,
-      "Because": 1,
       "Bitternutt Lodge": 1,
-      "Come": 1,
       "Dear Edward": 1,
       "Fairfax": 1,
       "From England": 1,
-      "Jane": 1
-    }
-  },
-  {
-    "canonical_name": "With",
-    "aliases": [],
-    "first_chapter": 24,
-    "total_mentions": 7,
-    "per_chapter": {
-      "24": {
-        "mentions": 4,
-        "snippet": "With anxiety I"
-      },
-      "32": {
-        "mentions": 3,
-        "snippet": "\u201cWith pleasure,\u201d I replied; and I felt a thrill of artist-delight at"
-      }
-    },
-    "co_occurs_with": {
-      "Mr. Rochester": 2,
-      "Rochester": 2,
-      "Fairfax": 1,
-      "Grand Turk": 1,
-      "Indeed": 1,
-      "Jane Eyre": 1,
-      "Jane Rochester": 1,
-      "Janet": 1
-    }
-  },
-  {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 25,
-    "total_mentions": 7,
-    "per_chapter": {
-      "25": {
-        "mentions": 3,
-        "snippet": "\u201cAll, sir."
-      },
-      "28": {
-        "mentions": 4,
-        "snippet": "All the valley at my right hand was full of"
-      }
-    },
-    "co_occurs_with": {
-      "Mr. Rochester": 2,
-      "Rochester": 2,
-      "Diana": 1,
-      "Did Mr": 1,
-      "Hannah": 1,
-      "Jane Elliott": 1,
-      "Marsh End": 1,
-      "Mary": 1
+      "Jane": 1,
+      "Janet": 1,
+      "Miss Eyre": 1,
+      "Miss Ingram": 1
     }
   },
   {
@@ -3375,10 +3069,10 @@
       "Moor House": 2,
       "Mr. Rochester": 2,
       "Rochester": 2,
-      "Because": 1,
-      "Can": 1,
       "Did Rivers": 1,
-      "Edward Fairfax Rochester": 1
+      "Edward Fairfax Rochester": 1,
+      "Great God": 1,
+      "Is Miss Eyre": 1
     }
   },
   {
@@ -3395,14 +3089,14 @@
       }
     },
     "co_occurs_with": {
-      "Are": 1,
       "Brocklehurst": 1,
       "Helen Burns": 1,
       "Him": 1,
       "Jane": 1,
       "Lowood": 1,
       "Lowton Dispensary": 1,
-      "Mary Ann": 1
+      "Mary Ann": 1,
+      "Mary Ann Wilson": 1
     }
   },
   {
@@ -3426,13 +3120,13 @@
     },
     "co_occurs_with": {
       "Miss Eyre": 3,
-      "Thornfield Hall": 3,
       "Fairfax": 2,
       "Mrs. Fairfax": 2,
       "Mrs. Reed": 2,
       "Reed": 2,
       "Jane Eyre": 2,
-      "Mr. Briggs": 2
+      "Mr. Briggs": 2,
+      "Mr. Rochester": 2
     }
   },
   {
@@ -3617,92 +3311,14 @@
       }
     },
     "co_occurs_with": {
-      "Again": 1,
       "Carter": 1,
       "Colonel Dent": 1,
       "Come": 1,
       "Fairfax": 1,
       "Fairfax Rochester": 1,
       "Grace Poole": 1,
-      "Jane": 1
-    }
-  },
-  {
-    "canonical_name": "Again",
-    "aliases": [],
-    "first_chapter": 20,
-    "total_mentions": 6,
-    "per_chapter": {
-      "20": {
-        "mentions": 3,
-        "snippet": "Again the poor man groaned; he looked as if he dared not move; fear,"
-      },
-      "33": {
-        "mentions": 3,
-        "snippet": "Again came the blank of a pause: the clock struck eight strokes."
-      }
-    },
-    "co_occurs_with": {
-      "Mr. Rochester": 2,
-      "Rochester": 2,
-      "Thornfield Hall": 2,
-      "Alice Fairfax": 1,
-      "Diana": 1,
-      "Did": 1,
-      "Eyre Rivers": 1,
-      "Jane Elliott": 1
-    }
-  },
-  {
-    "canonical_name": "Because",
-    "aliases": [],
-    "first_chapter": 23,
-    "total_mentions": 6,
-    "per_chapter": {
-      "23": {
-        "mentions": 3,
-        "snippet": "\u201cBecause,\u201d he said, \u201cI sometimes have a queer feeling with regard to"
-      },
-      "37": {
-        "mentions": 3,
-        "snippet": "\u201cBecause I had come in, in Mary\u2019s stead, with the tray."
-      }
-    },
-    "co_occurs_with": {
-      "Janet": 2,
-      "Miss Eyre": 2,
-      "Mr. Rochester": 2,
-      "Rochester": 2,
-      "Thornfield Hall": 2,
-      "Are": 1,
-      "Bitternutt Lodge": 1,
-      "Come": 1
-    }
-  },
-  {
-    "canonical_name": "Will",
-    "aliases": [],
-    "first_chapter": 28,
-    "total_mentions": 6,
-    "per_chapter": {
-      "28": {
-        "mentions": 3,
-        "snippet": "\u201cWill you give me a piece of bread?"
-      },
-      "37": {
-        "mentions": 3,
-        "snippet": "\u201cWill you take my arm, sir?"
-      }
-    },
-    "co_occurs_with": {
-      "Mary": 2,
-      "Mr. Rochester": 2,
-      "Rochester": 2,
-      "Because": 1,
-      "Can": 1,
-      "Did Rivers": 1,
-      "Edward Fairfax Rochester": 1,
-      "Great God": 1
+      "Jane": 1,
+      "Mason": 1
     }
   },
   {
@@ -3797,10 +3413,10 @@
       }
     },
     "co_occurs_with": {
-      "Diana": 3,
       "Mr. Oliver": 3,
       "Mr. St": 3,
       "Oliver": 3,
+      "Diana": 2,
       "Jane Elliott": 2,
       "Mary Rivers": 2,
       "Moor House": 2,
@@ -3835,8 +3451,8 @@
       "Mr. Rochester": 3,
       "Oliver": 3,
       "Rochester": 3,
-      "Good": 2,
-      "Moor House": 2
+      "Moor House": 2,
+      "Mr. Oliver": 2
     }
   },
   {
@@ -3878,13 +3494,13 @@
     },
     "co_occurs_with": {
       "Alice Wood": 1,
-      "Good": 1,
       "Miss Oliver": 1,
       "Miss Rosamond": 1,
       "Moor House": 1,
       "Morton": 1,
       "Mr. Oliver": 1,
-      "Mr. Rivers": 1
+      "Mr. Rivers": 1,
+      "Mr. Rochester": 1
     }
   },
   {
@@ -3903,14 +3519,14 @@
       }
     },
     "co_occurs_with": {
-      "John": 2,
       "Mrs. Reed": 2,
       "Reed": 2,
       "Arctic Zone": 1,
       "Bessie": 1,
       "British Birds": 1,
-      "Did": 1,
-      "Eliza": 1
+      "Eliza": 1,
+      "Georgiana Reed": 1,
+      "John": 1
     }
   },
   {
@@ -3964,9 +3580,9 @@
       "Miss Jane": 3,
       "Mrs. Reed": 3,
       "Reed": 3,
-      "John": 2,
       "Miss Abbot": 2,
-      "Missis": 2
+      "Mr. Reed": 2,
+      "Aunt Reed": 2
     }
   },
   {
@@ -3986,9 +3602,9 @@
       "Brocklehurst": 1,
       "Brocklehurst Hall": 1,
       "Broughton Brocklehurst": 1,
-      "Come": 1,
       "Eliza": 1,
-      "Gateshead Hall": 1
+      "Gateshead Hall": 1,
+      "Georgiana": 1
     }
   },
   {
@@ -4049,14 +3665,14 @@
       }
     },
     "co_occurs_with": {
-      "Are": 1,
       "Brocklehurst": 1,
       "Helen Burns": 1,
       "Jane": 1,
       "Lowood": 1,
       "Lowton Dispensary": 1,
       "Mary Ann": 1,
-      "Mary Ann Wilson": 1
+      "Mary Ann Wilson": 1,
+      "Miss Miller": 1
     }
   },
   {
@@ -4216,25 +3832,25 @@
     }
   },
   {
-    "canonical_name": "Indeed",
+    "canonical_name": "Come",
     "aliases": [],
-    "first_chapter": 24,
+    "first_chapter": 20,
     "total_mentions": 4,
     "per_chapter": {
-      "24": {
+      "20": {
         "mentions": 4,
-        "snippet": "\u201cIndeed I will, sir; I have my petition all ready."
+        "snippet": "\u201cCome out, then, quietly."
       }
     },
     "co_occurs_with": {
+      "Carter": 1,
+      "Colonel Dent": 1,
       "Fairfax": 1,
-      "Grand Turk": 1,
-      "Jane Eyre": 1,
-      "Jane Rochester": 1,
-      "Janet": 1,
-      "John Eyre": 1,
-      "King Ahasuerus": 1,
-      "Millcote": 1
+      "Fairfax Rochester": 1,
+      "Grace Poole": 1,
+      "Jane": 1,
+      "Mason": 1,
+      "Miss Ingram": 1
     }
   },
   {
@@ -4270,28 +3886,6 @@
     }
   },
   {
-    "canonical_name": "Some",
-    "aliases": [],
-    "first_chapter": 28,
-    "total_mentions": 4,
-    "per_chapter": {
-      "28": {
-        "mentions": 4,
-        "snippet": "Some time passed before I felt tranquil even here: I had a vague dread"
-      }
-    },
-    "co_occurs_with": {
-      "All": 1,
-      "Diana": 1,
-      "Did Mr": 1,
-      "Hannah": 1,
-      "Jane Elliott": 1,
-      "Marsh End": 1,
-      "Mary": 1,
-      "Mr. Oliver": 1
-    }
-  },
-  {
     "canonical_name": "Nay",
     "aliases": [],
     "first_chapter": 28,
@@ -4303,14 +3897,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Diana": 1,
       "Did Mr": 1,
       "Hannah": 1,
       "Jane Elliott": 1,
       "Marsh End": 1,
-      "Mary": 1,
-      "Mr. Oliver": 1
+      "Mr. Oliver": 1,
+      "Mr. Rochester": 1,
+      "Mr. St": 1
     }
   },
   {
@@ -4334,13 +3928,13 @@
     },
     "co_occurs_with": {
       "Moor House": 3,
-      "Diana": 2,
       "Marsh End": 2,
       "Mr. Oliver": 2,
       "Mr. Rivers": 2,
       "Mr. St": 2,
       "Oliver": 2,
-      "Aye": 1
+      "Aye": 1,
+      "Bill Oliver": 1
     }
   },
   {
@@ -4362,10 +3956,10 @@
       "East Indiaman": 1,
       "Fairfax": 1,
       "Frederic Granby": 1,
-      "Good": 1,
       "Guinea Coast": 1,
       "Hannah": 1,
-      "Hindostanee": 1
+      "Hindostanee": 1,
+      "India": 1
     }
   },
   {
@@ -4391,28 +3985,6 @@
     }
   },
   {
-    "canonical_name": "Which",
-    "aliases": [],
-    "first_chapter": 37,
-    "total_mentions": 4,
-    "per_chapter": {
-      "37": {
-        "mentions": 4,
-        "snippet": "\u201cWhich I never will, sir, from this day."
-      }
-    },
-    "co_occurs_with": {
-      "Because": 1,
-      "Can": 1,
-      "Did Rivers": 1,
-      "Edward Fairfax Rochester": 1,
-      "Great God": 1,
-      "Hindostanee": 1,
-      "Is Miss Eyre": 1,
-      "Jane Eyre": 1
-    }
-  },
-  {
     "canonical_name": "Uncle Reed",
     "aliases": [],
     "first_chapter": 4,
@@ -4429,9 +4001,9 @@
       "Brocklehurst": 1,
       "Brocklehurst Hall": 1,
       "Broughton Brocklehurst": 1,
-      "Come": 1,
       "Eliza": 1,
-      "Gateshead Hall": 1
+      "Gateshead Hall": 1,
+      "Georgiana": 1
     }
   },
   {
@@ -4557,7 +4129,29 @@
       "Rochester": 3,
       "Thornfield Hall": 3,
       "Jane Eyre": 2,
-      "Leah": 2
+      "Miss Eyre": 2
+    }
+  },
+  {
+    "canonical_name": "Did",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "\u201cDid you not know he"
+      }
+    },
+    "co_occurs_with": {
+      "Adela Varens": 1,
+      "Fairfax": 1,
+      "George Inn": 1,
+      "George the Third": 1,
+      "God Mrs": 1,
+      "Grace Poole": 1,
+      "Holy Virgin": 1,
+      "Is Mr": 1
     }
   },
   {
@@ -4606,28 +4200,6 @@
       "Brocklehurst": 1,
       "Edouard Fairfax": 1,
       "Evening Star": 1
-    }
-  },
-  {
-    "canonical_name": "Strange",
-    "aliases": [],
-    "first_chapter": 15,
-    "total_mentions": 3,
-    "per_chapter": {
-      "15": {
-        "mentions": 3,
-        "snippet": "Strange!"
-      }
-    },
-    "co_occurs_with": {
-      "Apollo Belvidere": 1,
-      "Bois de Boulogne": 1,
-      "Fairfax": 1,
-      "Grace Poole": 1,
-      "Jane Eyre": 1,
-      "Miss Eyre": 1,
-      "Mr. Rochester": 1,
-      "Mrs. Fairfax": 1
     }
   },
   {
@@ -4775,7 +4347,7 @@
       "Mr. Rochester": 2,
       "Mrs. Dent": 2,
       "Rochester": 2,
-      "Don": 1
+      "Grace Poole": 1
     }
   },
   {
@@ -4805,28 +4377,6 @@
     }
   },
   {
-    "canonical_name": "Don",
-    "aliases": [],
-    "first_chapter": 19,
-    "total_mentions": 3,
-    "per_chapter": {
-      "19": {
-        "mentions": 3,
-        "snippet": "\u201cDon\u2019t be alarmed,\u201d continued the strange being; \u201cshe\u2019s a safe hand is"
-      }
-    },
-    "co_occurs_with": {
-      "Colonel Dent": 1,
-      "Grace Poole": 1,
-      "Jane": 1,
-      "Mason": 1,
-      "Miss Eyre": 1,
-      "Miss Ingram": 1,
-      "Mr. Mason": 1,
-      "Mr. Rochester": 1
-    }
-  },
-  {
     "canonical_name": "Bitternutt Lodge",
     "aliases": [],
     "first_chapter": 23,
@@ -4838,14 +4388,14 @@
       }
     },
     "co_occurs_with": {
-      "Are": 1,
-      "Because": 1,
-      "Come": 1,
       "Dear Edward": 1,
       "Fairfax": 1,
       "From England": 1,
       "Ireland": 1,
-      "Jane": 1
+      "Jane": 1,
+      "Janet": 1,
+      "Miss Eyre": 1,
+      "Miss Ingram": 1
     }
   },
   {
@@ -4899,9 +4449,9 @@
       "Jane Eyre": 2,
       "Miss Eyre": 2,
       "Thornfield Hall": 2,
-      "Because": 1,
-      "Can": 1,
-      "Did Rivers": 1
+      "Did Rivers": 1,
+      "Great God": 1,
+      "Hindostanee": 1
     }
   },
   {
@@ -4927,94 +4477,6 @@
     }
   },
   {
-    "canonical_name": "Let",
-    "aliases": [],
-    "first_chapter": 27,
-    "total_mentions": 3,
-    "per_chapter": {
-      "27": {
-        "mentions": 3,
-        "snippet": "\u201cLet me be torn away, then\u201d I cried."
-      }
-    },
-    "co_occurs_with": {
-      "Bertha Mason": 1,
-      "Blanche Ingram": 1,
-      "Clara": 1,
-      "Edward Rochester": 1,
-      "Fairfax": 1,
-      "Farewell": 1,
-      "Ferndean Manor": 1,
-      "Giacinta": 1
-    }
-  },
-  {
-    "canonical_name": "One",
-    "aliases": [],
-    "first_chapter": 27,
-    "total_mentions": 3,
-    "per_chapter": {
-      "27": {
-        "mentions": 3,
-        "snippet": "\u201cOne night I had been awakened by her yells\u2014(since the medical men had"
-      }
-    },
-    "co_occurs_with": {
-      "Bertha Mason": 1,
-      "Blanche Ingram": 1,
-      "Clara": 1,
-      "Edward Rochester": 1,
-      "Fairfax": 1,
-      "Farewell": 1,
-      "Ferndean Manor": 1,
-      "Giacinta": 1
-    }
-  },
-  {
-    "canonical_name": "Giacinta",
-    "aliases": [],
-    "first_chapter": 27,
-    "total_mentions": 3,
-    "per_chapter": {
-      "27": {
-        "mentions": 3,
-        "snippet": "successors: an Italian, Giacinta, and a German, Clara; both considered"
-      }
-    },
-    "co_occurs_with": {
-      "Bertha Mason": 1,
-      "Blanche Ingram": 1,
-      "Clara": 1,
-      "Edward Rochester": 1,
-      "Fairfax": 1,
-      "Farewell": 1,
-      "Ferndean Manor": 1,
-      "Grace Poole": 1
-    }
-  },
-  {
-    "canonical_name": "Clara",
-    "aliases": [],
-    "first_chapter": 27,
-    "total_mentions": 3,
-    "per_chapter": {
-      "27": {
-        "mentions": 3,
-        "snippet": "successors: an Italian, Giacinta, and a German, Clara; both considered"
-      }
-    },
-    "co_occurs_with": {
-      "Bertha Mason": 1,
-      "Blanche Ingram": 1,
-      "Edward Rochester": 1,
-      "Fairfax": 1,
-      "Farewell": 1,
-      "Ferndean Manor": 1,
-      "Giacinta": 1,
-      "Grace Poole": 1
-    }
-  },
-  {
     "canonical_name": "Would",
     "aliases": [],
     "first_chapter": 28,
@@ -5026,14 +4488,36 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Diana": 1,
       "Did Mr": 1,
       "Hannah": 1,
       "Jane Elliott": 1,
       "Marsh End": 1,
-      "Mary": 1,
-      "Mr. Oliver": 1
+      "Mr. Oliver": 1,
+      "Mr. Rochester": 1,
+      "Mr. St": 1
+    }
+  },
+  {
+    "canonical_name": "Will",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 3,
+    "per_chapter": {
+      "28": {
+        "mentions": 3,
+        "snippet": "\u201cWill you give me a piece of bread?"
+      }
+    },
+    "co_occurs_with": {
+      "Diana": 1,
+      "Did Mr": 1,
+      "Hannah": 1,
+      "Jane Elliott": 1,
+      "Marsh End": 1,
+      "Mr. Oliver": 1,
+      "Mr. Rochester": 1,
+      "Mr. St": 1
     }
   },
   {
@@ -5059,47 +4543,25 @@
     }
   },
   {
-    "canonical_name": "Twenty",
+    "canonical_name": "Again",
     "aliases": [],
     "first_chapter": 33,
     "total_mentions": 3,
     "per_chapter": {
       "33": {
         "mentions": 3,
-        "snippet": "\u201cTwenty years ago, a poor curate\u2014never mind his name at this"
+        "snippet": "Again came the blank of a pause: the clock struck eight strokes."
       }
     },
     "co_occurs_with": {
-      "Again": 1,
       "Alice Fairfax": 1,
       "Diana": 1,
-      "Did": 1,
       "Eyre Rivers": 1,
       "Jane Elliott": 1,
       "Jane Eyre": 1,
-      "Jane Reed": 1
-    }
-  },
-  {
-    "canonical_name": "Perhaps",
-    "aliases": [],
-    "first_chapter": 33,
-    "total_mentions": 3,
-    "per_chapter": {
-      "33": {
-        "mentions": 3,
-        "snippet": "Perhaps now you"
-      }
-    },
-    "co_occurs_with": {
-      "Again": 1,
-      "Alice Fairfax": 1,
-      "Diana": 1,
-      "Did": 1,
-      "Eyre Rivers": 1,
-      "Jane Elliott": 1,
-      "Jane Eyre": 1,
-      "Jane Reed": 1
+      "Jane Reed": 1,
+      "John Eyre": 1,
+      "Lowood School": 1
     }
   },
   {
@@ -5122,50 +4584,6 @@
       "Marsh Glen": 1,
       "Mighty Spirit": 1,
       "Mr. Rochester": 1
-    }
-  },
-  {
-    "canonical_name": "Can",
-    "aliases": [],
-    "first_chapter": 37,
-    "total_mentions": 3,
-    "per_chapter": {
-      "37": {
-        "mentions": 3,
-        "snippet": "\u201cCan there be life here?"
-      }
-    },
-    "co_occurs_with": {
-      "Because": 1,
-      "Did Rivers": 1,
-      "Edward Fairfax Rochester": 1,
-      "Great God": 1,
-      "Hindostanee": 1,
-      "Is Miss Eyre": 1,
-      "Jane Eyre": 1,
-      "Janet": 1
-    }
-  },
-  {
-    "canonical_name": "Only",
-    "aliases": [],
-    "first_chapter": 37,
-    "total_mentions": 3,
-    "per_chapter": {
-      "37": {
-        "mentions": 3,
-        "snippet": "\u201cOnly you?"
-      }
-    },
-    "co_occurs_with": {
-      "Because": 1,
-      "Can": 1,
-      "Did Rivers": 1,
-      "Edward Fairfax Rochester": 1,
-      "Great God": 1,
-      "Hindostanee": 1,
-      "Is Miss Eyre": 1,
-      "Jane Eyre": 1
     }
   },
   {

@@ -2,20 +2,12 @@
   {
     "canonical_name": "Elizabeth",
     "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 496,
+    "first_chapter": 4,
+    "total_mentions": 407,
     "per_chapter": {
-      "3": {
-        "mentions": 4,
-        "snippet": "Elizabeth Bennet had been obliged, by the scarcity of gentlemen, to sit"
-      },
       "4": {
         "mentions": 3,
         "snippet": "When Jane and Elizabeth were alone, the former, who had been cautious in"
-      },
-      "7": {
-        "mentions": 14,
-        "snippet": "\u201cThat would be a good scheme,\u201d said Elizabeth, \u201cif you were sure that"
       },
       "9": {
         "mentions": 8,
@@ -85,14 +77,6 @@
         "mentions": 1,
         "snippet": "\u201cYes, Miss Elizabeth, you will have the honour of seeing Lady Catherine"
       },
-      "29": {
-        "mentions": 14,
-        "snippet": "Elizabeth,--"
-      },
-      "30": {
-        "mentions": 9,
-        "snippet": "and Elizabeth was thankful to find that they did not see more of her"
-      },
       "31": {
         "mentions": 10,
         "snippet": "at home, of new books and music, that Elizabeth had never been half so"
@@ -108,10 +92,6 @@
       "34": {
         "mentions": 9,
         "snippet": "When they were gone, Elizabeth, as if intending to exasperate herself as"
-      },
-      "37": {
-        "mentions": 4,
-        "snippet": "Elizabeth could not see Lady Catherine without recollecting that, had"
       },
       "38": {
         "mentions": 2,
@@ -137,10 +117,6 @@
         "mentions": 40,
         "snippet": "Elizabeth, as they drove along, watched for the first appearance of"
       },
-      "44": {
-        "mentions": 14,
-        "snippet": "Elizabeth had settled it that Mr."
-      },
       "45": {
         "mentions": 30,
         "snippet": "Convinced as Elizabeth now was that Miss Bingley\u2019s dislike of her had"
@@ -161,10 +137,6 @@
         "mentions": 15,
         "snippet": "Their sister\u2019s wedding-day arrived; and Jane and Elizabeth felt for her"
       },
-      "52": {
-        "mentions": 5,
-        "snippet": "Elizabeth had the satisfaction of receiving an answer to her letter as"
-      },
       "53": {
         "mentions": 15,
         "snippet": "never again distressed himself, or provoked his dear sister Elizabeth,"
@@ -172,10 +144,6 @@
       "54": {
         "mentions": 12,
         "snippet": "As soon as they were gone, Elizabeth walked out to recover her spirits;"
-      },
-      "55": {
-        "mentions": 18,
-        "snippet": "Elizabeth and Catherine for a considerable time, without making any"
       },
       "57": {
         "mentions": 11,
@@ -189,24 +157,20 @@
         "mentions": 13,
         "snippet": "which Elizabeth received from Jane as soon as she entered the room, and"
       },
-      "60": {
-        "mentions": 7,
-        "snippet": "Elizabeth\u2019s spirits soon rising to playfulness again, she wanted Mr."
-      },
       "61": {
         "mentions": 11,
         "snippet": "to Derbyshire; and Jane and Elizabeth, in addition to every other source"
       }
     },
     "co_occurs_with": {
-      "Bennet": 42,
-      "Darcy": 41,
-      "Mr. Darcy": 39,
-      "Mrs. Bennet": 33,
-      "Bingley": 31,
-      "Jane": 31,
-      "Miss Bennet": 29,
-      "Collins": 26
+      "Bennet": 33,
+      "Darcy": 32,
+      "Mr. Darcy": 30,
+      "Mrs. Bennet": 28,
+      "Bingley": 25,
+      "Jane": 24,
+      "Miss Bennet": 22,
+      "Collins": 21
     }
   },
   {
@@ -411,12 +375,12 @@
     "co_occurs_with": {
       "Mr. Darcy": 46,
       "Bennet": 43,
-      "Elizabeth": 41,
-      "Bingley": 35,
+      "Bingley": 34,
       "Miss Bennet": 32,
+      "Elizabeth": 32,
       "Mrs. Bennet": 31,
-      "Jane": 29,
-      "Mr. Bingley": 28
+      "Mr. Bingley": 28,
+      "Jane": 26
     }
   },
   {
@@ -640,12 +604,12 @@
     },
     "co_occurs_with": {
       "Darcy": 43,
-      "Elizabeth": 42,
       "Mr. Darcy": 41,
       "Mrs. Bennet": 40,
-      "Bingley": 35,
+      "Bingley": 34,
       "Miss Bennet": 34,
-      "Jane": 31,
+      "Elizabeth": 33,
+      "Jane": 29,
       "Mr. Bingley": 28
     }
   },
@@ -767,12 +731,12 @@
       }
     },
     "co_occurs_with": {
-      "Elizabeth": 23,
       "Collins": 23,
       "Bennet": 22,
       "Mr. Collins": 21,
       "Darcy": 20,
       "Mr. Darcy": 19,
+      "Elizabeth": 18,
       "Mrs. Bennet": 17,
       "Bingley": 16
     }
@@ -971,24 +935,20 @@
     "co_occurs_with": {
       "Darcy": 46,
       "Bennet": 41,
-      "Elizabeth": 39,
-      "Bingley": 33,
+      "Bingley": 32,
       "Miss Bennet": 31,
       "Mrs. Bennet": 30,
-      "Jane": 28,
-      "Mr. Bingley": 26
+      "Elizabeth": 30,
+      "Mr. Bingley": 26,
+      "Jane": 25
     }
   },
   {
     "canonical_name": "Jane",
     "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 260,
+    "first_chapter": 5,
+    "total_mentions": 246,
     "per_chapter": {
-      "3": {
-        "mentions": 5,
-        "snippet": "Jane was as much gratified by this as her"
-      },
       "5": {
         "mentions": 3,
         "snippet": "\u201cOh, you mean Jane, I suppose, because he danced with her twice."
@@ -1016,10 +976,6 @@
       "15": {
         "mentions": 6,
         "snippet": "encouragement, a caution against the very Jane he had fixed on."
-      },
-      "17": {
-        "mentions": 6,
-        "snippet": "Elizabeth related to Jane, the next day, what had passed between Mr."
       },
       "18": {
         "mentions": 12,
@@ -1064,10 +1020,6 @@
       "37": {
         "mentions": 4,
         "snippet": "united with Jane in an endeavour to check the imprudence of Catherine"
-      },
-      "38": {
-        "mentions": 3,
-        "snippet": "Jane looked well, and Elizabeth had little opportunity of studying her"
       },
       "39": {
         "mentions": 5,
@@ -1127,21 +1079,21 @@
       }
     },
     "co_occurs_with": {
-      "Bennet": 31,
-      "Elizabeth": 31,
-      "Darcy": 29,
-      "Mrs. Bennet": 29,
-      "Mr. Darcy": 28,
-      "Bingley": 24,
-      "Miss Bennet": 22,
-      "Mr. Bingley": 21
+      "Bennet": 29,
+      "Mrs. Bennet": 27,
+      "Darcy": 26,
+      "Mr. Darcy": 25,
+      "Elizabeth": 24,
+      "Bingley": 22,
+      "Miss Bennet": 21,
+      "Mr. Bingley": 19
     }
   },
   {
     "canonical_name": "Bingley",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 213,
+    "total_mentions": 207,
     "per_chapter": {
       "1": {
         "mentions": 4,
@@ -1263,10 +1215,6 @@
         "mentions": 2,
         "snippet": "Bingley and his sisters."
       },
-      "44": {
-        "mentions": 6,
-        "snippet": "They had not been long together before Darcy told her that Bingley was"
-      },
       "45": {
         "mentions": 13,
         "snippet": "Convinced as Elizabeth now was that Miss Bingley\u2019s dislike of her had"
@@ -1301,14 +1249,14 @@
       }
     },
     "co_occurs_with": {
-      "Bennet": 35,
-      "Darcy": 35,
-      "Mr. Darcy": 33,
+      "Bennet": 34,
+      "Darcy": 34,
+      "Mr. Darcy": 32,
       "Mr. Bingley": 31,
-      "Elizabeth": 31,
-      "Miss Bennet": 26,
-      "Jane": 24,
-      "Miss Bingley": 24
+      "Miss Bennet": 25,
+      "Elizabeth": 25,
+      "Miss Bingley": 24,
+      "Mrs. Bennet": 23
     }
   },
   {
@@ -1441,10 +1389,10 @@
     "co_occurs_with": {
       "Mr. Collins": 28,
       "Bennet": 26,
-      "Elizabeth": 26,
       "Lady Catherine": 23,
       "Mrs. Bennet": 21,
       "Darcy": 21,
+      "Elizabeth": 21,
       "Mr. Darcy": 20,
       "Bingley": 18
     }
@@ -1618,10 +1566,10 @@
     },
     "co_occurs_with": {
       "Bennet": 40,
-      "Elizabeth": 33,
       "Darcy": 31,
       "Mr. Darcy": 30,
-      "Jane": 29,
+      "Elizabeth": 28,
+      "Jane": 27,
       "Mr. Bennet": 24,
       "Bingley": 23,
       "Miss Bennet": 23
@@ -1748,10 +1696,10 @@
     },
     "co_occurs_with": {
       "Collins": 28,
-      "Elizabeth": 25,
       "Bennet": 24,
       "Lady Catherine": 21,
       "Mrs. Bennet": 20,
+      "Elizabeth": 20,
       "Darcy": 19,
       "Mr. Darcy": 18,
       "Bingley": 17
@@ -1865,10 +1813,10 @@
       "Darcy": 23,
       "Bennet": 22,
       "Mr. Darcy": 22,
-      "Elizabeth": 20,
       "Miss Bennet": 19,
       "Mr. Bingley": 18,
-      "Jane": 14
+      "Elizabeth": 15,
+      "Mrs. Bennet": 13
     }
   },
   {
@@ -1940,13 +1888,13 @@
     },
     "co_occurs_with": {
       "Bennet": 15,
-      "Elizabeth": 14,
       "Mrs. Bennet": 14,
       "Jane": 12,
       "Mr. Bennet": 12,
       "Wickham": 12,
       "Darcy": 11,
-      "Mr. Darcy": 11
+      "Mr. Darcy": 11,
+      "Elizabeth": 11
     }
   },
   {
@@ -2085,10 +2033,10 @@
       "Bennet": 28,
       "Darcy": 28,
       "Mr. Darcy": 26,
-      "Elizabeth": 23,
       "Mrs. Bennet": 22,
-      "Jane": 21,
-      "Miss Bennet": 20
+      "Miss Bennet": 20,
+      "Elizabeth": 20,
+      "Jane": 19
     }
   },
   {
@@ -2238,10 +2186,10 @@
       "Bennet": 34,
       "Darcy": 32,
       "Mr. Darcy": 31,
-      "Elizabeth": 29,
-      "Bingley": 26,
+      "Bingley": 25,
       "Mrs. Bennet": 23,
-      "Jane": 22,
+      "Elizabeth": 22,
+      "Jane": 21,
       "Mr. Bingley": 20
     }
   },
@@ -2313,12 +2261,12 @@
     "co_occurs_with": {
       "Bennet": 12,
       "Bingley": 11,
-      "Elizabeth": 11,
       "Darcy": 10,
       "Lady Catherine": 10,
       "Miss Lucas": 9,
       "Miss Bingley": 9,
-      "Mr. Darcy": 9
+      "Mr. Darcy": 9,
+      "Collins": 9
     }
   },
   {
@@ -2429,12 +2377,12 @@
       }
     },
     "co_occurs_with": {
-      "Elizabeth": 22,
       "Bennet": 21,
       "Darcy": 21,
       "Mr. Darcy": 21,
       "Mr. Wickham": 21,
-      "Jane": 19,
+      "Elizabeth": 20,
+      "Jane": 18,
       "Mrs. Bennet": 18,
       "Bingley": 15
     }
@@ -2511,14 +2459,14 @@
       }
     },
     "co_occurs_with": {
-      "Elizabeth": 15,
       "Mrs. Gardiner": 14,
       "Bennet": 13,
       "Darcy": 13,
       "Mr. Darcy": 13,
+      "Elizabeth": 12,
       "Mr. Gardiner": 12,
-      "Jane": 11,
-      "Wickham": 11
+      "Wickham": 11,
+      "Mrs. Bennet": 10
     }
   },
   {
@@ -2635,10 +2583,10 @@
     "co_occurs_with": {
       "Bennet": 26,
       "Mrs. Bennet": 24,
-      "Elizabeth": 20,
-      "Jane": 18,
       "Darcy": 17,
+      "Jane": 17,
       "Mr. Darcy": 16,
+      "Elizabeth": 15,
       "Bingley": 14,
       "Mr. Bingley": 13
     }
@@ -2722,13 +2670,13 @@
     },
     "co_occurs_with": {
       "Bennet": 17,
-      "Jane": 14,
       "Mrs. Bennet": 14,
-      "Elizabeth": 13,
+      "Jane": 13,
       "Bingley": 12,
       "Lady Lucas": 12,
       "Darcy": 12,
-      "Mr. Bingley": 11
+      "Mr. Bingley": 11,
+      "Miss Bennet": 11
     }
   },
   {
@@ -2792,10 +2740,10 @@
       "Bennet": 12,
       "Mrs. Bennet": 10,
       "Darcy": 9,
-      "Elizabeth": 9,
       "Mr. Darcy": 9,
       "Jane": 8,
       "Mr. Bennet": 8,
+      "Elizabeth": 8,
       "Lydia": 7
     }
   },
@@ -2847,8 +2795,8 @@
     "co_occurs_with": {
       "Darcy": 9,
       "Mr. Darcy": 9,
-      "Elizabeth": 7,
       "Bennet": 6,
+      "Elizabeth": 6,
       "Bingley": 6,
       "Wickham": 5,
       "Miss Bennet": 5,
@@ -2929,9 +2877,9 @@
     "co_occurs_with": {
       "Darcy": 16,
       "Mr. Darcy": 15,
-      "Elizabeth": 14,
       "Bennet": 13,
-      "Bingley": 13,
+      "Bingley": 12,
+      "Elizabeth": 10,
       "Mr. Bingley": 10,
       "Jane": 9,
       "Mrs. Bennet": 9
@@ -3032,10 +2980,10 @@
       "Wickham": 21,
       "Darcy": 19,
       "Mr. Darcy": 19,
-      "Elizabeth": 18,
       "Bennet": 17,
-      "Jane": 15,
+      "Elizabeth": 16,
       "Bingley": 14,
+      "Jane": 14,
       "Mrs. Bennet": 14
     }
   },
@@ -3104,79 +3052,13 @@
     },
     "co_occurs_with": {
       "Gardiner": 14,
-      "Elizabeth": 13,
       "Darcy": 12,
       "Mr. Darcy": 12,
       "Bennet": 11,
-      "Mr. Gardiner": 10,
-      "Jane": 9,
-      "Wickham": 9
-    }
-  },
-  {
-    "canonical_name": "Lizzy",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 53,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "I must throw in a good word for my little Lizzy."
-      },
-      "19": {
-        "mentions": 3,
-        "snippet": "I am sure Lizzy will be very happy--I am sure"
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "But I tell you what, Miss Lizzy, if you take it"
-      },
-      "24": {
-        "mentions": 3,
-        "snippet": "\u201cMy dear Lizzy, do not give way to such feelings as these."
-      },
-      "40": {
-        "mentions": 4,
-        "snippet": "dear Lizzy,"
-      },
-      "45": {
-        "mentions": 5,
-        "snippet": "\u201cSince writing the above, dearest Lizzy, something has occurred of a"
-      },
-      "48": {
-        "mentions": 3,
-        "snippet": "Lizzy could tell us what relations he has now living better than any"
-      },
-      "52": {
-        "mentions": 4,
-        "snippet": "fancy, Lizzy, that obstinacy is the real defect of his character,"
-      },
-      "54": {
-        "mentions": 3,
-        "snippet": "\u201cMy dear Lizzy, you cannot think me so weak as to be in danger now."
-      },
-      "55": {
-        "mentions": 1,
-        "snippet": "Lizzy\u2019s hair."
-      },
-      "57": {
-        "mentions": 6,
-        "snippet": "\u201cLizzy,\u201d said he, \u201cI was going to look for you: come into my room."
-      },
-      "59": {
-        "mentions": 17,
-        "snippet": "\u201cMy dear Lizzy, where can you have been walking to?"
-      }
-    },
-    "co_occurs_with": {
-      "Bennet": 12,
       "Elizabeth": 11,
-      "Mrs. Bennet": 10,
-      "Jane": 9,
-      "Darcy": 8,
-      "Mr. Darcy": 8,
-      "Mr. Bennet": 7,
-      "Collins": 7
+      "Mr. Gardiner": 10,
+      "Wickham": 9,
+      "Mrs. Bennet": 8
     }
   },
   {
@@ -3227,64 +3109,72 @@
       "Lady Catherine": 8,
       "Mr. Collins": 8,
       "Sir William": 7,
-      "Elizabeth": 7,
       "Bennet": 6,
       "Darcy": 6,
-      "Mr. Darcy": 6
+      "Mr. Darcy": 6,
+      "George Allen": 5
     }
   },
   {
-    "canonical_name": "Kitty",
+    "canonical_name": "Lizzy",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 19,
     "total_mentions": 50,
     "per_chapter": {
-      "2": {
+      "19": {
+        "mentions": 3,
+        "snippet": "I am sure Lizzy will be very happy--I am sure"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "But I tell you what, Miss Lizzy, if you take it"
+      },
+      "24": {
+        "mentions": 3,
+        "snippet": "\u201cMy dear Lizzy, do not give way to such feelings as these."
+      },
+      "40": {
         "mentions": 4,
-        "snippet": "\u201cDon\u2019t keep coughing so, Kitty, for heaven\u2019s sake!"
+        "snippet": "dear Lizzy,"
       },
-      "39": {
-        "mentions": 7,
-        "snippet": "punctuality, both Kitty and Lydia looking out of a dining-room upstairs."
-      },
-      "41": {
-        "mentions": 6,
-        "snippet": "frequently were they reproached for this insensibility by Kitty and"
-      },
-      "47": {
-        "mentions": 6,
-        "snippet": "Mary and Kitty, thank"
+      "45": {
+        "mentions": 5,
+        "snippet": "\u201cSince writing the above, dearest Lizzy, something has occurred of a"
       },
       "48": {
-        "mentions": 5,
-        "snippet": "\u201cAnd Lydia used to want to go to London,\u201d added Kitty."
-      },
-      "49": {
         "mentions": 3,
-        "snippet": "Mary and Kitty were both with Mrs."
+        "snippet": "Lizzy could tell us what relations he has now living better than any"
+      },
+      "52": {
+        "mentions": 4,
+        "snippet": "fancy, Lizzy, that obstinacy is the real defect of his character,"
+      },
+      "54": {
+        "mentions": 3,
+        "snippet": "\u201cMy dear Lizzy, you cannot think me so weak as to be in danger now."
       },
       "55": {
-        "mentions": 9,
-        "snippet": "\u201cWe will be down as soon as we can,\u201d said Jane; \u201cbut I dare say Kitty is"
+        "mentions": 1,
+        "snippet": "Lizzy\u2019s hair."
       },
-      "58": {
-        "mentions": 4,
-        "snippet": "They lagged behind, while Elizabeth, Kitty, and Darcy"
+      "57": {
+        "mentions": 6,
+        "snippet": "\u201cLizzy,\u201d said he, \u201cI was going to look for you: come into my room."
       },
       "59": {
-        "mentions": 6,
-        "snippet": "Darcy, and Lizzy, and Kitty,\u201d said Mrs."
+        "mentions": 17,
+        "snippet": "\u201cMy dear Lizzy, where can you have been walking to?"
       }
     },
     "co_occurs_with": {
-      "Bennet": 9,
-      "Mrs. Bennet": 9,
-      "Mr. Bennet": 8,
-      "Elizabeth": 8,
-      "Jane": 7,
-      "Lydia": 5,
-      "Wickham": 5,
-      "Darcy": 5
+      "Bennet": 11,
+      "Mrs. Bennet": 10,
+      "Elizabeth": 9,
+      "Jane": 9,
+      "Darcy": 8,
+      "Mr. Darcy": 8,
+      "Collins": 7,
+      "Mr. Collins": 7
     }
   },
   {
@@ -3343,14 +3233,60 @@
       }
     },
     "co_occurs_with": {
-      "Bingley": 12,
       "Darcy": 12,
       "Mr. Darcy": 12,
       "Bennet": 11,
-      "Elizabeth": 11,
+      "Bingley": 11,
       "Mr. Bingley": 11,
       "Miss Bennet": 10,
-      "Jane": 9
+      "Mrs. Bennet": 9,
+      "Elizabeth": 8
+    }
+  },
+  {
+    "canonical_name": "Kitty",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 41,
+    "per_chapter": {
+      "2": {
+        "mentions": 4,
+        "snippet": "\u201cDon\u2019t keep coughing so, Kitty, for heaven\u2019s sake!"
+      },
+      "39": {
+        "mentions": 7,
+        "snippet": "punctuality, both Kitty and Lydia looking out of a dining-room upstairs."
+      },
+      "41": {
+        "mentions": 6,
+        "snippet": "frequently were they reproached for this insensibility by Kitty and"
+      },
+      "48": {
+        "mentions": 5,
+        "snippet": "\u201cAnd Lydia used to want to go to London,\u201d added Kitty."
+      },
+      "55": {
+        "mentions": 9,
+        "snippet": "\u201cWe will be down as soon as we can,\u201d said Jane; \u201cbut I dare say Kitty is"
+      },
+      "58": {
+        "mentions": 4,
+        "snippet": "They lagged behind, while Elizabeth, Kitty, and Darcy"
+      },
+      "59": {
+        "mentions": 6,
+        "snippet": "Darcy, and Lizzy, and Kitty,\u201d said Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Bennet": 7,
+      "Mrs. Bennet": 7,
+      "Mr. Bennet": 6,
+      "Elizabeth": 5,
+      "Jane": 5,
+      "Bingley": 4,
+      "Mr. Bingley": 4,
+      "Collins": 4
     }
   },
   {
@@ -3405,10 +3341,10 @@
       "Elizabeth": 9,
       "Darcy": 8,
       "Mrs. Bennet": 8,
-      "Jane": 7,
       "Mr. Darcy": 7,
       "Gardiner": 7,
-      "Mr. Gardiner": 7
+      "Mr. Gardiner": 7,
+      "Mrs. Gardiner": 7
     }
   },
   {
@@ -3530,11 +3466,11 @@
       "Bennet": 25,
       "Darcy": 22,
       "Mr. Darcy": 21,
-      "Elizabeth": 19,
       "Miss Bennet": 19,
       "Mrs. Bennet": 18,
-      "Bingley": 17,
-      "Mr. Bingley": 15
+      "Bingley": 16,
+      "Mr. Bingley": 15,
+      "Elizabeth": 15
     }
   },
   {
@@ -3594,13 +3530,13 @@
     },
     "co_occurs_with": {
       "Gardiner": 12,
-      "Elizabeth": 11,
       "Mrs. Gardiner": 10,
       "Bennet": 9,
       "Darcy": 9,
+      "Elizabeth": 9,
       "Mr. Darcy": 9,
       "Wickham": 9,
-      "Jane": 8
+      "Longbourn": 7
     }
   },
   {
@@ -3665,8 +3601,8 @@
       "Bennet": 11,
       "Mr. Darcy": 11,
       "Mrs. Hurst": 11,
-      "Elizabeth": 10,
-      "Miss Bennet": 10
+      "Miss Bennet": 10,
+      "Mr. Bingley": 10
     }
   },
   {
@@ -3727,8 +3663,8 @@
     "co_occurs_with": {
       "Bennet": 12,
       "Miss Lucas": 12,
-      "Jane": 10,
       "Mrs. Bennet": 10,
+      "Jane": 9,
       "Bingley": 8,
       "George Allen": 8,
       "Mr. Bennet": 8,
@@ -3789,11 +3725,11 @@
     "co_occurs_with": {
       "Collins": 11,
       "Lady Catherine": 11,
-      "Elizabeth": 10,
       "Mr. Collins": 9,
       "Darcy": 9,
       "Mr. Darcy": 9,
       "Bennet": 8,
+      "Elizabeth": 7,
       "George Allen": 7
     }
   },
@@ -3882,9 +3818,9 @@
       "Mr. Darcy": 6,
       "Mrs. Bennet": 6,
       "Colonel Forster": 5,
-      "Elizabeth": 5,
       "Jane": 5,
-      "Lydia": 5
+      "Lydia": 5,
+      "Miss Bennet": 5
     }
   },
   {
@@ -3920,13 +3856,13 @@
     },
     "co_occurs_with": {
       "Collins": 6,
-      "Elizabeth": 6,
       "Lady Catherine": 6,
       "Mrs. Collins": 6,
       "Darcy": 5,
       "Mr. Collins": 5,
       "Mr. Darcy": 5,
-      "Bennet": 4
+      "Bennet": 4,
+      "Charlotte": 4
     }
   },
   {
@@ -3977,10 +3913,10 @@
       "Mr. Darcy": 9,
       "Bennet": 8,
       "Bingley": 8,
-      "Elizabeth": 8,
       "Mrs. Philips": 8,
       "Jane": 7,
-      "Miss Bennet": 7
+      "Miss Bennet": 7,
+      "Mr. Bingley": 7
     }
   },
   {
@@ -4050,49 +3986,11 @@
       "Bennet": 5,
       "Darcy": 5,
       "Mr. Darcy": 5,
-      "Elizabeth": 4,
-      "Bingley": 4,
+      "Elizabeth": 3,
       "Gardiner": 3,
       "Mr. Gardiner": 3,
-      "Mrs. Gardiner": 3
-    }
-  },
-  {
-    "canonical_name": "Brighton",
-    "aliases": [],
-    "first_chapter": 39,
-    "total_mentions": 22,
-    "per_chapter": {
-      "39": {
-        "mentions": 3,
-        "snippet": "\u201cThey are going to be encamped near Brighton; and I do so want papa to"
-      },
-      "41": {
-        "mentions": 8,
-        "snippet": "\u201cIf one could but go to Brighton!"
-      },
-      "45": {
-        "mentions": 4,
-        "snippet": "Colonel Forster came yesterday, having left Brighton the"
-      },
-      "47": {
-        "mentions": 4,
-        "snippet": "\u201cWhen they all removed to Brighton, therefore, you had no reason, I"
-      },
-      "48": {
-        "mentions": 3,
-        "snippet": "necessary to clear his expenses at Brighton."
-      }
-    },
-    "co_occurs_with": {
-      "Bennet": 5,
-      "Colonel Forster": 5,
-      "Elizabeth": 5,
-      "Lydia": 5,
-      "Wickham": 5,
-      "Jane": 4,
-      "Kitty": 4,
-      "Mr. Bennet": 4
+      "Mrs. Gardiner": 3,
+      "Bingley": 3
     }
   },
   {
@@ -4153,8 +4051,8 @@
       "Miss Bingley": 11,
       "Bennet": 10,
       "Mr. Darcy": 10,
-      "Elizabeth": 9,
-      "Miss Bennet": 9
+      "Miss Bennet": 9,
+      "Mr. Bingley": 9
     }
   },
   {
@@ -4199,9 +4097,9 @@
       "Mrs. Bennet": 7,
       "Darcy": 6,
       "Elizabeth": 6,
-      "Jane": 6,
       "Mr. Darcy": 6,
       "Wickham": 6,
+      "Jane": 5,
       "Lydia": 5
     }
   },
@@ -4247,46 +4145,46 @@
     "co_occurs_with": {
       "Bennet": 8,
       "Darcy": 8,
-      "Elizabeth": 8,
       "Mr. Darcy": 8,
       "Philips": 8,
       "Bingley": 7,
       "Miss Bennet": 7,
-      "Mrs. Bennet": 7
+      "Mrs. Bennet": 7,
+      "Jane": 6
     }
   },
   {
-    "canonical_name": "Mary",
+    "canonical_name": "Brighton",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 41,
     "total_mentions": 19,
     "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "Mary?"
+      "41": {
+        "mentions": 8,
+        "snippet": "\u201cIf one could but go to Brighton!"
       },
-      "6": {
-        "mentions": 3,
-        "snippet": "sister Mary, who having, in consequence of being the only plain one in"
-      },
-      "18": {
-        "mentions": 7,
-        "snippet": "had the mortification of seeing Mary, after very little entreaty,"
+      "45": {
+        "mentions": 4,
+        "snippet": "Colonel Forster came yesterday, having left Brighton the"
       },
       "47": {
-        "mentions": 6,
-        "snippet": "Mary and Kitty, thank"
+        "mentions": 4,
+        "snippet": "\u201cWhen they all removed to Brighton, therefore, you had no reason, I"
+      },
+      "48": {
+        "mentions": 3,
+        "snippet": "necessary to clear his expenses at Brighton."
       }
     },
     "co_occurs_with": {
       "Bennet": 4,
-      "Bingley": 3,
-      "Mr. Bennet": 3,
-      "Mr. Bingley": 3,
-      "Mrs. Bennet": 3,
+      "Colonel Forster": 4,
+      "Elizabeth": 4,
+      "Lydia": 4,
+      "Wickham": 4,
       "Darcy": 3,
-      "Jane": 3,
-      "Lady Lucas": 3
+      "Mr. Bennet": 3,
+      "Mr. Darcy": 3
     }
   },
   {
@@ -4373,8 +4271,8 @@
       "Miss de Bourgh": 3,
       "Mr. Collins": 3,
       "Darcy": 3,
-      "Elizabeth": 3,
-      "Miss Bennet": 3
+      "Miss Bennet": 3,
+      "Mr. Darcy": 3
     }
   },
   {
@@ -4405,10 +4303,10 @@
     "co_occurs_with": {
       "Collins": 4,
       "De Bourgh": 4,
-      "Elizabeth": 4,
       "Lady Catherine": 4,
       "Miss De Bourgh": 4,
       "Bennet": 3,
+      "Elizabeth": 3,
       "Mr. Collins": 3,
       "Mrs. Collins": 3
     }
@@ -4471,11 +4369,11 @@
     "co_occurs_with": {
       "Collins": 6,
       "De Bourgh": 6,
-      "Elizabeth": 6,
       "Lady Catherine": 6,
       "Bennet": 5,
       "Mr. Collins": 5,
       "Darcy": 4,
+      "Elizabeth": 4,
       "Miss Bennet": 4
     }
   },
@@ -4506,13 +4404,13 @@
     },
     "co_occurs_with": {
       "Bingley": 4,
-      "Jane": 4,
       "Darcy": 3,
-      "Elizabeth": 3,
       "Miss Bingley": 3,
       "Mr. Bingley": 3,
       "Mr. Darcy": 3,
-      "Sir William": 3
+      "Sir William": 3,
+      "Jane": 3,
+      "Mr. Wickham": 3
     }
   },
   {
@@ -4552,39 +4450,9 @@
       "Mr. Collins": 6,
       "Lady Catherine": 5,
       "Bennet": 4,
-      "Jane": 4,
       "Mrs. Bennet": 4,
-      "Darcy": 3
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 13,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "The girls stared at their father."
-      },
-      "30": {
-        "mentions": 4,
-        "snippet": "The room in which the ladies sat was backwards."
-      },
-      "57": {
-        "mentions": 6,
-        "snippet": "The discomposure of spirits which this extraordinary visit threw"
-      }
-    },
-    "co_occurs_with": {
-      "Bennet": 3,
-      "Bingley": 2,
-      "Mrs. Bennet": 2,
-      "Collins": 2,
-      "Darcy": 2,
-      "Elizabeth": 2,
-      "George Allen": 2,
-      "Lady Catherine": 2
+      "Darcy": 3,
+      "De Bourgh": 3
     }
   },
   {
@@ -4626,7 +4494,7 @@
       "Miss Bennet": 6,
       "Miss Bingley": 6,
       "Mr. Darcy": 6,
-      "Elizabeth": 5
+      "Mr. Bingley": 5
     }
   },
   {
@@ -4720,12 +4588,12 @@
     },
     "co_occurs_with": {
       "Collins": 7,
-      "Elizabeth": 7,
       "Lady Catherine": 7,
       "Bennet": 6,
       "Miss De Bourgh": 6,
       "Mr. Collins": 6,
       "Darcy": 5,
+      "Elizabeth": 5,
       "Miss Bennet": 5
     }
   },
@@ -4789,10 +4657,36 @@
       "Bingley": 2,
       "Colonel Forster": 2,
       "Darcy": 2,
-      "Elizabeth": 2,
       "Jane": 2,
       "Miss Bennet": 2,
-      "Miss Bingley": 2
+      "Miss Bingley": 2,
+      "Mr. Bingley": 2
+    }
+  },
+  {
+    "canonical_name": "Mary",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 10,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "Mary?"
+      },
+      "18": {
+        "mentions": 7,
+        "snippet": "had the mortification of seeing Mary, after very little entreaty,"
+      }
+    },
+    "co_occurs_with": {
+      "Bennet": 2,
+      "Bingley": 2,
+      "Mr. Bennet": 2,
+      "Mr. Bingley": 2,
+      "Mrs. Bennet": 2,
+      "Kitty": 1,
+      "Mrs. Long": 1,
+      "The": 1
     }
   },
   {
@@ -4827,8 +4721,8 @@
       "Miss Bennet": 4,
       "Mr. Bingley": 4,
       "Mr. Darcy": 4,
-      "Elizabeth": 3,
-      "Jane": 3
+      "Jane": 3,
+      "Miss Bingley": 3
     }
   },
   {
@@ -4876,9 +4770,9 @@
       "Darcy": 7,
       "Mr. Darcy": 7,
       "Collins": 6,
-      "Elizabeth": 6,
       "Lady Catherine": 5,
-      "Lydia": 5
+      "Lydia": 5,
+      "Mr. Collins": 5
     }
   },
   {
@@ -5057,10 +4951,10 @@
       }
     },
     "co_occurs_with": {
-      "Elizabeth": 7,
       "Jane": 7,
       "Wickham": 7,
       "Bennet": 6,
+      "Elizabeth": 6,
       "Mrs. Bennet": 6,
       "Gardiner": 6,
       "Mr. Gardiner": 6,
@@ -5091,8 +4985,8 @@
       "Mr. Wickham": 2,
       "Wickham": 2,
       "Edward Street": 1,
-      "Elizabeth": 1,
-      "Gardiner": 1
+      "Gardiner": 1,
+      "Gracechurch Street": 1
     }
   },
   {
@@ -5119,32 +5013,6 @@
       "Mr. Darcy": 2,
       "Mrs. Bennet": 2,
       "Mrs. Gardiner": 2
-    }
-  },
-  {
-    "canonical_name": "Georgiana",
-    "aliases": [],
-    "first_chapter": 45,
-    "total_mentions": 8,
-    "per_chapter": {
-      "45": {
-        "mentions": 5,
-        "snippet": "Georgiana\u2019s reception of them was very civil, but attended with"
-      },
-      "61": {
-        "mentions": 3,
-        "snippet": "dropped all her resentment; was fonder than ever of Georgiana, almost as"
-      }
-    },
-    "co_occurs_with": {
-      "Bennet": 2,
-      "Bingley": 2,
-      "Darcy": 2,
-      "Elizabeth": 2,
-      "Jane": 2,
-      "Lydia": 2,
-      "Miss Bingley": 2,
-      "Mr. Darcy": 2
     }
   },
   {
@@ -5428,31 +5296,9 @@
       "Darcy": 2,
       "Elizabeth": 2,
       "Gardiner": 2,
-      "Jane": 2,
       "Lady Catherine": 2,
-      "Mr. Collins": 2
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 43,
-    "total_mentions": 6,
-    "per_chapter": {
-      "43": {
-        "mentions": 6,
-        "snippet": "\u201cThere are very few people of whom so much can be said."
-      }
-    },
-    "co_occurs_with": {
-      "Bingley": 1,
-      "Darcy": 1,
-      "Elizabeth": 1,
-      "Gardiner": 1,
-      "Miss Darcy": 1,
-      "Mr. Bingley": 1,
-      "Mr. Darcy": 1,
-      "Mr. Gardiner": 1
+      "Mr. Collins": 2,
+      "Mr. Darcy": 2
     }
   },
   {
@@ -5536,7 +5382,7 @@
       "Miss Bennets": 2,
       "Miss Lucas": 2,
       "Mrs. Bennet": 2,
-      "Brighton": 1
+      "Collins": 1
     }
   },
   {
@@ -5569,8 +5415,30 @@
       "Mr. Darcy": 4,
       "Philips": 4,
       "Bennet": 3,
-      "Elizabeth": 3,
-      "Jane": 3
+      "Jane": 3,
+      "Lady Catherine": 3
+    }
+  },
+  {
+    "canonical_name": "Georgiana",
+    "aliases": [],
+    "first_chapter": 45,
+    "total_mentions": 5,
+    "per_chapter": {
+      "45": {
+        "mentions": 5,
+        "snippet": "Georgiana\u2019s reception of them was very civil, but attended with"
+      }
+    },
+    "co_occurs_with": {
+      "Bennet": 1,
+      "Bingley": 1,
+      "Brighton": 1,
+      "Colonel Forster": 1,
+      "Darcy": 1,
+      "Eliza Bennet": 1,
+      "Elizabeth": 1,
+      "Gardiner": 1
     }
   },
   {
@@ -5674,32 +5542,6 @@
     }
   },
   {
-    "canonical_name": "Anne",
-    "aliases": [],
-    "first_chapter": 31,
-    "total_mentions": 4,
-    "per_chapter": {
-      "31": {
-        "mentions": 3,
-        "snippet": "And so would Anne, if her"
-      },
-      "37": {
-        "mentions": 1,
-        "snippet": "Darcy of Pemberley, and Lady Anne, could not have appeared with"
-      }
-    },
-    "co_occurs_with": {
-      "Bennet": 2,
-      "Collins": 2,
-      "Darcy": 2,
-      "Elizabeth": 2,
-      "Lady Catherine": 2,
-      "Ladyship": 2,
-      "Miss Bennet": 2,
-      "Mr. Darcy": 2
-    }
-  },
-  {
     "canonical_name": "Parsonage",
     "aliases": [],
     "first_chapter": 33,
@@ -5791,10 +5633,32 @@
       "Bingley": 1,
       "George Allen": 1,
       "Lady Lucas": 1,
-      "Lizzy": 1,
       "Miss Lucas": 1,
       "Mr. Bennet": 1,
-      "Mr. Bingley": 1
+      "Mr. Bingley": 1,
+      "Mr. Morris": 1
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 3,
+    "per_chapter": {
+      "2": {
+        "mentions": 3,
+        "snippet": "The girls stared at their father."
+      }
+    },
+    "co_occurs_with": {
+      "Bennet": 1,
+      "Bingley": 1,
+      "Kitty": 1,
+      "Mary": 1,
+      "Mr. Bennet": 1,
+      "Mr. Bingley": 1,
+      "Mrs. Bennet": 1,
+      "Mrs. Long": 1
     }
   },
   {
@@ -5816,31 +5680,9 @@
       "Captain Carter": 1,
       "Colonel Forster": 1,
       "Darcy": 1,
-      "Elizabeth": 1,
       "Hurst": 1,
-      "Jane": 1
-    }
-  },
-  {
-    "canonical_name": "Charles",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 3,
-    "per_chapter": {
-      "8": {
-        "mentions": 3,
-        "snippet": "Charles, when you build _your_ house, I wish it may be"
-      }
-    },
-    "co_occurs_with": {
-      "Bennet": 1,
-      "Bingley": 1,
-      "Darcy": 1,
-      "Eliza Bennet": 1,
-      "Elizabeth Bennet": 1,
-      "George Allen": 1,
-      "Hurst": 1,
-      "Is Miss Darcy": 1
+      "Jane": 1,
+      "Lady Catherine": 1
     }
   },
   {
@@ -5867,6 +5709,34 @@
       "Mr. Bennet": 2,
       "Mr. Wickham": 2,
       "Mrs. Bennet": 2
+    }
+  },
+  {
+    "canonical_name": "Lady Anne Darcy",
+    "aliases": [
+      "Anne"
+    ],
+    "first_chapter": 16,
+    "total_mentions": 3,
+    "per_chapter": {
+      "16": {
+        "mentions": 2,
+        "snippet": "\u201cYou know of course that Lady Catherine de Bourgh and Lady Anne Darcy"
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "Darcy of Pemberley, and Lady Anne, could not have appeared with"
+      }
+    },
+    "co_occurs_with": {
+      "Bennet": 2,
+      "Collins": 2,
+      "Darcy": 2,
+      "George Allen": 2,
+      "Lady Catherine": 2,
+      "Lydia": 2,
+      "Miss Bennet": 2,
+      "Miss Darcy": 2
     }
   },
   {
@@ -5943,12 +5813,12 @@
     "co_occurs_with": {
       "Bennet": 2,
       "Collins": 2,
-      "Elizabeth": 2,
       "Jane": 2,
       "Lizzy": 2,
       "Mr. Bennet": 2,
       "Mr. Collins": 2,
-      "Mrs. Bennet": 2
+      "Mrs. Bennet": 2,
+      "Charlotte Lucas": 1
     }
   },
   {
@@ -5970,9 +5840,9 @@
       "Collins": 1,
       "Darcy": 1,
       "De Bourgh": 1,
-      "Elizabeth": 1,
       "Lady Catherine": 1,
-      "Ladyship": 1
+      "Ladyship": 1,
+      "Maria Lucas": 1
     }
   },
   {
@@ -5994,9 +5864,9 @@
       "Collins": 1,
       "Darcy": 1,
       "De Bourgh": 1,
-      "Elizabeth": 1,
       "Lady Catherine": 1,
-      "Lady Metcalfe": 1
+      "Lady Metcalfe": 1,
+      "Ladyship": 1
     }
   },
   {
@@ -6034,13 +5904,13 @@
     },
     "co_occurs_with": {
       "Bennet": 1,
-      "Bingley": 1,
       "Darcy": 1,
-      "Elizabeth": 1,
       "Gardiner": 1,
       "George Allen": 1,
       "Hunsford Parsonage": 1,
-      "Miss Bennet": 1
+      "Miss Bennet": 1,
+      "Miss Darcy": 1,
+      "Mr. Darcy": 1
     }
   },
   {
@@ -6093,50 +5963,6 @@
       "Mrs. Bennet": 3,
       "Wickham": 3,
       "Miss Bennet": 2
-    }
-  },
-  {
-    "canonical_name": "Had",
-    "aliases": [],
-    "first_chapter": 58,
-    "total_mentions": 3,
-    "per_chapter": {
-      "58": {
-        "mentions": 3,
-        "snippet": "Had Elizabeth"
-      }
-    },
-    "co_occurs_with": {
-      "Bennet": 1,
-      "Bingley": 1,
-      "Darcy": 1,
-      "Did": 1,
-      "Elizabeth": 1,
-      "Gardiner": 1,
-      "George Allen": 1,
-      "Jane": 1
-    }
-  },
-  {
-    "canonical_name": "Did",
-    "aliases": [],
-    "first_chapter": 58,
-    "total_mentions": 3,
-    "per_chapter": {
-      "58": {
-        "mentions": 3,
-        "snippet": "\u201cDid it,\u201d said he,--\u201cdid it _soon_ make you"
-      }
-    },
-    "co_occurs_with": {
-      "Bennet": 1,
-      "Bingley": 1,
-      "Darcy": 1,
-      "Elizabeth": 1,
-      "Gardiner": 1,
-      "George Allen": 1,
-      "Had": 1,
-      "Jane": 1
     }
   },
   {

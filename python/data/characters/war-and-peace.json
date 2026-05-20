@@ -40,13 +40,13 @@
     },
     "co_occurs_with": {
       "Prince Andrew": 4,
-      "Count": 3,
       "Anna": 2,
       "At Home": 2,
+      "Count": 2,
       "Emperor Alexander": 2,
       "Petersburg": 2,
-      "Princess Mary": 2,
-      "Come": 1
+      "Princess Anna": 1,
+      "Majesty the Empress": 1
     }
   },
   {
@@ -158,44 +158,6 @@
     }
   },
   {
-    "canonical_name": "Napoleon",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 82,
-    "per_chapter": {
-      "6": {
-        "mentions": 38,
-        "snippet": "and magnificence of Napoleon\u2019s court."
-      },
-      "9": {
-        "mentions": 4,
-        "snippet": "Armfeldt virulently hated Napoleon and was a general"
-      },
-      "34": {
-        "mentions": 29,
-        "snippet": "Napoleon\u2019s generals\u2014Davout, Ney, and Murat, who were near that region of"
-      },
-      "38": {
-        "mentions": 5,
-        "snippet": "unexpected impression on Napoleon who usually liked to look at the"
-      },
-      "39": {
-        "mentions": 6,
-        "snippet": "fifteen years, with the assurance of Napoleon\u2019s invincibility, with the"
-      }
-    },
-    "co_occurs_with": {
-      "Russians": 3,
-      "Emperor Alexander": 2,
-      "Your Majesty": 2,
-      "Moscow": 2,
-      "Barclay de Tolly": 1,
-      "Count Bennigsen": 1,
-      "Drissa": 1,
-      "Grand Duke": 1
-    }
-  },
-  {
     "canonical_name": "Mademoiselle Bourienne",
     "aliases": [
       "Bourienne"
@@ -229,92 +191,6 @@
       "Germans": 1,
       "Moreau": 1,
       "New York": 1
-    }
-  },
-  {
-    "canonical_name": "Nicholas",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 59,
-    "per_chapter": {
-      "7": {
-        "mentions": 24,
-        "snippet": "Toward evening Il\u00e1gin took leave of Nicholas, who found that they were"
-      },
-      "10": {
-        "mentions": 29,
-        "snippet": "\u201cI remember,\u201d answered Nicholas."
-      },
-      "14": {
-        "mentions": 6,
-        "snippet": "When Princess Mary heard from Nicholas that her brother was with the"
-      }
-    },
-    "co_occurs_with": {
-      "Prince Andrew": 2,
-      "Lady": 1,
-      "The French": 1,
-      "Uncle": 1,
-      "Mademoiselle Bourienne": 1,
-      "Moscow": 1,
-      "Princess Mary": 1,
-      "Louisa": 1
-    }
-  },
-  {
-    "canonical_name": "Princess Mary",
-    "aliases": [
-      "Princess"
-    ],
-    "first_chapter": 2,
-    "total_mentions": 52,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "Princess Kur\u00e1gina, a portly imposing woman who had once been handsome,"
-      },
-      "3": {
-        "mentions": 13,
-        "snippet": "Before dinner, Princess Mary and Mademoiselle Bourienne, who knew"
-      },
-      "4": {
-        "mentions": 2,
-        "snippet": "Dessalles, having asked to see Princess Mary, told her that, as the"
-      },
-      "11": {
-        "mentions": 2,
-        "snippet": "\u201cWhen you see my sister, Princess Mary, you\u2019ll get on with her,\u201d"
-      },
-      "14": {
-        "mentions": 18,
-        "snippet": "In a few days Princess Mary was ready to start."
-      },
-      "16": {
-        "mentions": 7,
-        "snippet": "days before Princess Mary arrived."
-      },
-      "27": {
-        "mentions": 4,
-        "snippet": "dining room where his daughter-in-law, Princess Mary, and Mademoiselle"
-      },
-      "28": {
-        "mentions": 2,
-        "snippet": "It was the heavy tread of Princess Mary that he heard."
-      },
-      "37": {
-        "mentions": 1,
-        "snippet": "earth and which Princess Mary taught me and I did not understand\u2014that is"
-      }
-    },
-    "co_occurs_with": {
-      "Prince Andrew": 7,
-      "Mademoiselle Bourienne": 4,
-      "Bald Hills": 3,
-      "Michael": 2,
-      "Pierre": 2,
-      "Moscow": 2,
-      "Bonaparte": 1,
-      "Buonaparte": 1
     }
   },
   {
@@ -363,8 +239,58 @@
       "Bald Hills": 2,
       "Barclay de Tolly": 2,
       "Princess Mary": 2,
-      "Napoleon": 2,
-      "Anna": 1
+      "Anna": 1,
+      "At Home": 1
+    }
+  },
+  {
+    "canonical_name": "Princess Mary",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 49,
+    "per_chapter": {
+      "3": {
+        "mentions": 13,
+        "snippet": "Before dinner, Princess Mary and Mademoiselle Bourienne, who knew"
+      },
+      "4": {
+        "mentions": 2,
+        "snippet": "Dessalles, having asked to see Princess Mary, told her that, as the"
+      },
+      "11": {
+        "mentions": 2,
+        "snippet": "\u201cWhen you see my sister, Princess Mary, you\u2019ll get on with her,\u201d"
+      },
+      "14": {
+        "mentions": 18,
+        "snippet": "In a few days Princess Mary was ready to start."
+      },
+      "16": {
+        "mentions": 7,
+        "snippet": "days before Princess Mary arrived."
+      },
+      "27": {
+        "mentions": 4,
+        "snippet": "dining room where his daughter-in-law, Princess Mary, and Mademoiselle"
+      },
+      "28": {
+        "mentions": 2,
+        "snippet": "It was the heavy tread of Princess Mary that he heard."
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "earth and which Princess Mary taught me and I did not understand\u2014that is"
+      }
+    },
+    "co_occurs_with": {
+      "Prince Andrew": 7,
+      "Mademoiselle Bourienne": 4,
+      "Bald Hills": 3,
+      "Michael": 2,
+      "Moscow": 2,
+      "Bonaparte": 1,
+      "Buonaparte": 1,
+      "Germans": 1
     }
   },
   {
@@ -386,41 +312,58 @@
     }
   },
   {
-    "canonical_name": "Count",
+    "canonical_name": "Napoleon",
     "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 30,
+    "first_chapter": 6,
+    "total_mentions": 48,
     "per_chapter": {
-      "1": {
-        "mentions": 6,
-        "snippet": "Pierre, on unexpectedly becoming Count Bez\u00fakhov and a rich man, felt"
+      "6": {
+        "mentions": 38,
+        "snippet": "and magnificence of Napoleon\u2019s court."
       },
-      "17": {
+      "9": {
         "mentions": 4,
-        "snippet": "\u201cCount!"
+        "snippet": "Armfeldt virulently hated Napoleon and was a general"
       },
-      "22": {
+      "39": {
         "mentions": 6,
-        "snippet": "Count Ily\u00e1 Rost\u00f3v, in a military uniform of"
-      },
-      "25": {
-        "mentions": 11,
-        "snippet": "\u201cCount!"
-      },
-      "31": {
-        "mentions": 3,
-        "snippet": "\u201cWhy have you come here, Count?"
+        "snippet": "fifteen years, with the assurance of Napoleon\u2019s invincibility, with the"
       }
     },
     "co_occurs_with": {
-      "Pierre": 3,
-      "Moscow": 2,
-      "Anna": 1,
-      "At Home": 1,
-      "Emperor Alexander": 1,
-      "Majesty the Empress": 1,
+      "Emperor Alexander": 2,
+      "Barclay de Tolly": 1,
+      "Count Bennigsen": 1,
+      "Drissa": 1,
+      "Grand Duke": 1,
+      "Minister Stein": 1,
       "Petersburg": 1,
-      "Prince Andrew": 1
+      "Pfuel": 1
+    }
+  },
+  {
+    "canonical_name": "Nicholas",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 30,
+    "per_chapter": {
+      "7": {
+        "mentions": 24,
+        "snippet": "Toward evening Il\u00e1gin took leave of Nicholas, who found that they were"
+      },
+      "14": {
+        "mentions": 6,
+        "snippet": "When Princess Mary heard from Nicholas that her brother was with the"
+      }
+    },
+    "co_occurs_with": {
+      "Prince Andrew": 2,
+      "Lady": 1,
+      "The French": 1,
+      "Uncle": 1,
+      "Mademoiselle Bourienne": 1,
+      "Moscow": 1,
+      "Princess Mary": 1
     }
   },
   {
@@ -452,13 +395,13 @@
     },
     "co_occurs_with": {
       "Moscow": 3,
-      "Napoleon": 3,
       "Carriage Row": 2,
       "Murat": 2,
       "Captain Ramballe": 1,
       "Frenchman": 1,
       "Frenchmen": 1,
-      "September Pierre": 1
+      "September Pierre": 1,
+      "Holy Alliance": 1
     }
   },
   {
@@ -492,6 +435,40 @@
     }
   },
   {
+    "canonical_name": "Count",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 24,
+    "per_chapter": {
+      "1": {
+        "mentions": 6,
+        "snippet": "Pierre, on unexpectedly becoming Count Bez\u00fakhov and a rich man, felt"
+      },
+      "17": {
+        "mentions": 4,
+        "snippet": "\u201cCount!"
+      },
+      "25": {
+        "mentions": 11,
+        "snippet": "\u201cCount!"
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "\u201cWhy have you come here, Count?"
+      }
+    },
+    "co_occurs_with": {
+      "Moscow": 2,
+      "Pierre": 2,
+      "Anna": 1,
+      "At Home": 1,
+      "Emperor Alexander": 1,
+      "Majesty the Empress": 1,
+      "Petersburg": 1,
+      "Prince Andrew": 1
+    }
+  },
+  {
     "canonical_name": "Anna",
     "aliases": [],
     "first_chapter": 1,
@@ -515,32 +492,6 @@
       "Majesty the Empress": 1,
       "Moscow": 1,
       "Prince Andrew": 1
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 20,
-    "per_chapter": {
-      "3": {
-        "mentions": 16,
-        "snippet": "The prince went"
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "The princess did not reply."
-      }
-    },
-    "co_occurs_with": {
-      "Come": 1,
-      "Pierre": 1,
-      "Prince Andrew": 1,
-      "Princess Anna": 1,
-      "Alexander Prince": 1,
-      "Bald Hills": 1,
-      "Excellency Prince": 1,
-      "Katie": 1
     }
   },
   {
@@ -570,7 +521,7 @@
       "Prince Andrew": 1,
       "the Minister": 1,
       "Contrat Social": 1,
-      "Count": 1
+      "Emperor Paul": 1
     }
   },
   {
@@ -618,7 +569,7 @@
       "The Emperor": 1,
       "The Frenchman": 1,
       "The German": 1,
-      "There": 1
+      "Unterkunft": 1
     }
   },
   {
@@ -806,14 +757,14 @@
       }
     },
     "co_occurs_with": {
-      "Can": 1,
       "Colonel": 1,
       "Rook": 1,
       "Sixth Chasseurs": 1,
       "Captain Ramballe": 1,
       "Carriage Row": 1,
       "Frenchmen": 1,
-      "Russians": 1
+      "Russians": 1,
+      "September Pierre": 1
     }
   },
   {
@@ -851,32 +802,6 @@
     }
   },
   {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 29,
-    "total_mentions": 10,
-    "per_chapter": {
-      "29": {
-        "mentions": 6,
-        "snippet": "There was so much good nature and nobility (in the French sense of the"
-      },
-      "33": {
-        "mentions": 4,
-        "snippet": "\u201cThere\u2019s a child in that house."
-      }
-    },
-    "co_occurs_with": {
-      "Captain Ramballe": 2,
-      "Light Regiment": 1,
-      "Monsieur Pierre": 1,
-      "Moscow Bordeaux": 1,
-      "Pierre": 1,
-      "The Emperor": 1,
-      "The Frenchman": 1,
-      "The German": 1
-    }
-  },
-  {
     "canonical_name": "Madame Schoss",
     "aliases": [
       "Schoss"
@@ -890,11 +815,9 @@
       }
     },
     "co_occurs_with": {
-      "Louisa": 1,
       "Mamma": 1,
       "Mr. Dimmler": 1,
       "Negro": 1,
-      "Nicholas": 1,
       "The Egyptians": 1
     }
   },
@@ -915,9 +838,9 @@
       "Emperor": 1,
       "Friant": 1,
       "Murat": 1,
-      "Napoleon": 1,
       "Old Guard": 1,
-      "Russians": 1
+      "Russians": 1,
+      "Tell the King": 1
     }
   },
   {
@@ -995,28 +918,6 @@
     }
   },
   {
-    "canonical_name": "From",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 7,
-    "per_chapter": {
-      "2": {
-        "mentions": 7,
-        "snippet": "From all sides reports reach me,\u201d etc."
-      }
-    },
-    "co_occurs_with": {
-      "Anna": 1,
-      "At Home": 1,
-      "Emperor Alexander": 1,
-      "Imperial Council": 1,
-      "Petersburg": 1,
-      "Pierre": 1,
-      "Prince Nicholas": 1,
-      "Princess Mary": 1
-    }
-  },
-  {
     "canonical_name": "Austrian",
     "aliases": [],
     "first_chapter": 12,
@@ -1086,11 +987,9 @@
     "co_occurs_with": {
       "Prince Andrew": 1,
       "Prince Nicholas": 1,
-      "Louisa": 1,
       "Madame Schoss": 1,
       "Mr. Dimmler": 1,
       "Negro": 1,
-      "Nicholas": 1,
       "The Egyptians": 1
     }
   },
@@ -1192,14 +1091,14 @@
       }
     },
     "co_occurs_with": {
-      "There": 2,
       "Light Regiment": 1,
       "Monsieur Pierre": 1,
       "Moscow Bordeaux": 1,
       "Pierre": 1,
       "The Emperor": 1,
       "The Frenchman": 1,
-      "The German": 1
+      "The German": 1,
+      "Unterkunft": 1
     }
   },
   {
@@ -1277,7 +1176,6 @@
       "Alexander Prince": 1,
       "Bald Hills": 1,
       "Excellency Prince": 1,
-      "Katie": 1,
       "Mademoiselle Bourienne": 1,
       "Prince Anatole": 1,
       "Princess Elizabeth": 1,
@@ -1352,27 +1250,6 @@
     }
   },
   {
-    "canonical_name": "Look",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 4,
-    "per_chapter": {
-      "8": {
-        "mentions": 4,
-        "snippet": "Look at me,\u201d cried Den\u00edsov who, unable to keep still on one spot,"
-      }
-    },
-    "co_occurs_with": {
-      "Colonel": 1,
-      "Cossack": 1,
-      "Danube": 1,
-      "Lord God": 1,
-      "Mr. Staff Officer": 1,
-      "Staff Officer": 1,
-      "the French": 1
-    }
-  },
-  {
     "canonical_name": "Rook",
     "aliases": [],
     "first_chapter": 19,
@@ -1384,27 +1261,8 @@
       }
     },
     "co_occurs_with": {
-      "Can": 1,
       "Colonel": 1,
       "Frenchman": 1,
-      "Sixth Chasseurs": 1
-    }
-  },
-  {
-    "canonical_name": "Can",
-    "aliases": [],
-    "first_chapter": 19,
-    "total_mentions": 4,
-    "per_chapter": {
-      "19": {
-        "mentions": 4,
-        "snippet": "\u201cCan something bad have happened to me?"
-      }
-    },
-    "co_occurs_with": {
-      "Colonel": 1,
-      "Frenchman": 1,
-      "Rook": 1,
       "Sixth Chasseurs": 1
     }
   },
@@ -1440,11 +1298,9 @@
       }
     },
     "co_occurs_with": {
-      "Louisa": 1,
       "Madame Schoss": 1,
       "Mamma": 1,
       "Mr. Dimmler": 1,
-      "Nicholas": 1,
       "The Egyptians": 1
     }
   },
@@ -1487,9 +1343,9 @@
       "Emperor": 1,
       "Friant": 1,
       "Murat": 1,
-      "Napoleon": 1,
       "Old Guard": 1,
-      "Russians": 1
+      "Russians": 1,
+      "Tell the King": 1
     }
   },
   {
@@ -1509,9 +1365,9 @@
       "Berthier": 1,
       "Emperor": 1,
       "Murat": 1,
-      "Napoleon": 1,
       "Old Guard": 1,
-      "Russians": 1
+      "Russians": 1,
+      "Tell the King": 1
     }
   },
   {
@@ -1531,9 +1387,9 @@
       "Emperor": 1,
       "Friant": 1,
       "Murat": 1,
-      "Napoleon": 1,
       "Old Guard": 1,
-      "Russians": 1
+      "Russians": 1,
+      "Tell the King": 1
     }
   },
   {
@@ -1574,26 +1430,7 @@
       "Carriage Row": 1,
       "Frenchman": 1,
       "Russians": 1,
-      "September Pierre": 1,
-      "There": 1
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 24,
-    "total_mentions": 3,
-    "per_chapter": {
-      "24": {
-        "mentions": 3,
-        "snippet": "\u201cCome, my dear Anna Mikh\u00e1ylovna, let Catiche do as she pleases."
-      }
-    },
-    "co_occurs_with": {
-      "Pierre": 1,
-      "Prince Andrew": 1,
-      "Princess Anna": 1,
-      "The": 1
+      "September Pierre": 1
     }
   },
   {
@@ -1610,7 +1447,6 @@
     "co_occurs_with": {
       "Colonel": 1,
       "Danube": 1,
-      "Look": 1,
       "Lord God": 1,
       "Mr. Staff Officer": 1,
       "Staff Officer": 1,
@@ -1631,7 +1467,6 @@
     "co_occurs_with": {
       "Colonel": 1,
       "Cossack": 1,
-      "Look": 1,
       "Lord God": 1,
       "Mr. Staff Officer": 1,
       "Staff Officer": 1,
@@ -1652,28 +1487,6 @@
     "co_occurs_with": {
       "Number One": 1,
       "Prince Andrew": 1
-    }
-  },
-  {
-    "canonical_name": "Katie",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 3,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "Katie,\u201d she said"
-      }
-    },
-    "co_occurs_with": {
-      "Alexander Prince": 1,
-      "Bald Hills": 1,
-      "Excellency Prince": 1,
-      "Lise": 1,
-      "Mademoiselle Bourienne": 1,
-      "Prince Anatole": 1,
-      "Princess Elizabeth": 1,
-      "Princess Mary": 1
     }
   },
   {
@@ -1868,26 +1681,6 @@
     }
   },
   {
-    "canonical_name": "Louisa",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 3,
-    "per_chapter": {
-      "10": {
-        "mentions": 3,
-        "snippet": "Louisa Iv\u00e1novna (Madame Schoss) would go with them, the young ladies"
-      }
-    },
-    "co_occurs_with": {
-      "Madame Schoss": 1,
-      "Mamma": 1,
-      "Mr. Dimmler": 1,
-      "Negro": 1,
-      "Nicholas": 1,
-      "The Egyptians": 1
-    }
-  },
-  {
     "canonical_name": "Vistula",
     "aliases": [],
     "first_chapter": 6,
@@ -1944,7 +1737,6 @@
     },
     "co_occurs_with": {
       "Contrat Social": 1,
-      "Count": 1,
       "Emperor Paul": 1,
       "French Revolution": 1,
       "Pierre": 1,
@@ -1994,25 +1786,6 @@
       "Intendant General": 1,
       "Lieutenant Colonel": 1,
       "Prince Andrew": 1
-    }
-  },
-  {
-    "canonical_name": "Are",
-    "aliases": [],
-    "first_chapter": 31,
-    "total_mentions": 3,
-    "per_chapter": {
-      "31": {
-        "mentions": 3,
-        "snippet": "\u201cAre you afraid, then?"
-      }
-    },
-    "co_occurs_with": {
-      "Cadet College": 1,
-      "Count": 1,
-      "Knoll Battery": 1,
-      "Pierre": 1,
-      "Sixth Corps": 1
     }
   },
   {

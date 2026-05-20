@@ -158,127 +158,13 @@
     },
     "co_occurs_with": {
       "Pip": 24,
-      "Estella": 19,
+      "Estella": 18,
       "Jaggers": 18,
       "Mr. Jaggers": 18,
-      "Herbert": 16,
       "Mr. Pip": 14,
+      "Herbert": 14,
       "Joe": 13,
       "Pumblechook": 12
-    }
-  },
-  {
-    "canonical_name": "Herbert",
-    "aliases": [],
-    "first_chapter": 25,
-    "total_mentions": 270,
-    "per_chapter": {
-      "25": {
-        "mentions": 3,
-        "snippet": "was\u2014\u201cas you may see, though you never saw her,\u201d said Herbert to"
-      },
-      "26": {
-        "mentions": 6,
-        "snippet": "my tendency to lavish expenditure, and to patronise Herbert, and to"
-      },
-      "27": {
-        "mentions": 7,
-        "snippet": "Herbert or his father, for both of whom I had a respect; but I had the"
-      },
-      "28": {
-        "mentions": 5,
-        "snippet": "when Herbert, meeting me in the yard, came up and told me there were"
-      },
-      "30": {
-        "mentions": 31,
-        "snippet": "I found Herbert dining on cold meat, and delighted to welcome me back."
-      },
-      "31": {
-        "mentions": 8,
-        "snippet": "said to Herbert, \u201cLet us go at once, or perhaps we shall meet him."
-      },
-      "34": {
-        "mentions": 27,
-        "snippet": "anybody, and, above all, that it was not beneficial to Herbert."
-      },
-      "36": {
-        "mentions": 5,
-        "snippet": "Herbert and I went on from bad to worse, in the way of increasing our"
-      },
-      "39": {
-        "mentions": 3,
-        "snippet": "Herbert\u2019s was still progressing, and everything with me was as I have"
-      },
-      "40": {
-        "mentions": 12,
-        "snippet": "lodging hard by, of which he might take possession when Herbert"
-      },
-      "41": {
-        "mentions": 29,
-        "snippet": "Herbert, when he and I and Provis sat down before the fire, and I"
-      },
-      "43": {
-        "mentions": 5,
-        "snippet": "But, I said to Herbert that, before I could go"
-      },
-      "44": {
-        "mentions": 3,
-        "snippet": "Matthew Pocket and his son Herbert, if you"
-      },
-      "45": {
-        "mentions": 5,
-        "snippet": "Herbert."
-      },
-      "46": {
-        "mentions": 33,
-        "snippet": "immediately deposed, however, by Herbert, who silently led me into the"
-      },
-      "47": {
-        "mentions": 7,
-        "snippet": "Therefore, I had sent him the unopened pocket-book by Herbert,"
-      },
-      "49": {
-        "mentions": 3,
-        "snippet": "succeeded on behalf of Herbert, Miss Havisham had told me all she knew"
-      },
-      "50": {
-        "mentions": 19,
-        "snippet": "When Herbert had been down to Hammersmith and seen his father, he came"
-      },
-      "51": {
-        "mentions": 5,
-        "snippet": "But when Herbert and I had held our momentous conversation, I was"
-      },
-      "52": {
-        "mentions": 12,
-        "snippet": "of the business, and that Herbert in his new partnership capacity would"
-      },
-      "53": {
-        "mentions": 14,
-        "snippet": "would be taken, would die accusing me; even Herbert would doubt me,"
-      },
-      "54": {
-        "mentions": 11,
-        "snippet": "on board and cast off; Herbert in the bow, I steering."
-      },
-      "55": {
-        "mentions": 10,
-        "snippet": "It was at this dark time of my life that Herbert returned home one"
-      },
-      "58": {
-        "mentions": 7,
-        "snippet": "went out and joined Herbert."
-      }
-    },
-    "co_occurs_with": {
-      "Miss Havisham": 16,
-      "Pip": 15,
-      "Jaggers": 11,
-      "Mr. Jaggers": 11,
-      "Mr. Pip": 10,
-      "Wemmick": 9,
-      "Provis": 9,
-      "Little Britain": 8
     }
   },
   {
@@ -375,8 +261,114 @@
       "Mr. Wopsle": 11,
       "Mrs. Joe": 10,
       "Mr. Pumblechook": 10,
-      "Biddy": 9,
-      "Estella": 8
+      "Biddy": 7,
+      "Estella": 7
+    }
+  },
+  {
+    "canonical_name": "Herbert",
+    "aliases": [],
+    "first_chapter": 26,
+    "total_mentions": 262,
+    "per_chapter": {
+      "26": {
+        "mentions": 6,
+        "snippet": "my tendency to lavish expenditure, and to patronise Herbert, and to"
+      },
+      "27": {
+        "mentions": 7,
+        "snippet": "Herbert or his father, for both of whom I had a respect; but I had the"
+      },
+      "28": {
+        "mentions": 5,
+        "snippet": "when Herbert, meeting me in the yard, came up and told me there were"
+      },
+      "30": {
+        "mentions": 31,
+        "snippet": "I found Herbert dining on cold meat, and delighted to welcome me back."
+      },
+      "31": {
+        "mentions": 8,
+        "snippet": "said to Herbert, \u201cLet us go at once, or perhaps we shall meet him."
+      },
+      "34": {
+        "mentions": 27,
+        "snippet": "anybody, and, above all, that it was not beneficial to Herbert."
+      },
+      "39": {
+        "mentions": 3,
+        "snippet": "Herbert\u2019s was still progressing, and everything with me was as I have"
+      },
+      "40": {
+        "mentions": 12,
+        "snippet": "lodging hard by, of which he might take possession when Herbert"
+      },
+      "41": {
+        "mentions": 29,
+        "snippet": "Herbert, when he and I and Provis sat down before the fire, and I"
+      },
+      "43": {
+        "mentions": 5,
+        "snippet": "But, I said to Herbert that, before I could go"
+      },
+      "44": {
+        "mentions": 3,
+        "snippet": "Matthew Pocket and his son Herbert, if you"
+      },
+      "45": {
+        "mentions": 5,
+        "snippet": "Herbert."
+      },
+      "46": {
+        "mentions": 33,
+        "snippet": "immediately deposed, however, by Herbert, who silently led me into the"
+      },
+      "47": {
+        "mentions": 7,
+        "snippet": "Therefore, I had sent him the unopened pocket-book by Herbert,"
+      },
+      "49": {
+        "mentions": 3,
+        "snippet": "succeeded on behalf of Herbert, Miss Havisham had told me all she knew"
+      },
+      "50": {
+        "mentions": 19,
+        "snippet": "When Herbert had been down to Hammersmith and seen his father, he came"
+      },
+      "51": {
+        "mentions": 5,
+        "snippet": "But when Herbert and I had held our momentous conversation, I was"
+      },
+      "52": {
+        "mentions": 12,
+        "snippet": "of the business, and that Herbert in his new partnership capacity would"
+      },
+      "53": {
+        "mentions": 14,
+        "snippet": "would be taken, would die accusing me; even Herbert would doubt me,"
+      },
+      "54": {
+        "mentions": 11,
+        "snippet": "on board and cast off; Herbert in the bow, I steering."
+      },
+      "55": {
+        "mentions": 10,
+        "snippet": "It was at this dark time of my life that Herbert returned home one"
+      },
+      "58": {
+        "mentions": 7,
+        "snippet": "went out and joined Herbert."
+      }
+    },
+    "co_occurs_with": {
+      "Miss Havisham": 14,
+      "Pip": 13,
+      "Jaggers": 9,
+      "Mr. Jaggers": 9,
+      "Provis": 9,
+      "Mr. Pip": 8,
+      "Wemmick": 7,
+      "Estella": 6
     }
   },
   {
@@ -543,10 +535,10 @@
       "Mr. Pip": 22,
       "Jaggers": 20,
       "Mr. Jaggers": 20,
-      "Herbert": 15,
       "Wemmick": 13,
-      "Estella": 12,
-      "Little Britain": 12
+      "Herbert": 13,
+      "Little Britain": 12,
+      "Joe": 11
     }
   },
   {
@@ -659,8 +651,8 @@
       "Mr. Pip": 16,
       "Wemmick": 12,
       "Pocket": 11,
-      "Herbert": 11,
-      "Little Britain": 10
+      "Little Britain": 10,
+      "Mr. Pocket": 10
     }
   },
   {
@@ -773,8 +765,8 @@
       "Mr. Pip": 16,
       "Wemmick": 12,
       "Pocket": 11,
-      "Herbert": 11,
-      "Little Britain": 10
+      "Little Britain": 10,
+      "Mr. Pocket": 10
     }
   },
   {
@@ -853,20 +845,16 @@
       "Mrs. Joe": 7,
       "Pumblechook": 7,
       "Mr. Pumblechook": 6,
-      "Biddy": 6,
-      "Mr. Pip": 6
+      "Mr. Pip": 6,
+      "Gargery": 5
     }
   },
   {
     "canonical_name": "Biddy",
     "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 207,
+    "first_chapter": 10,
+    "total_mentions": 201,
     "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "Catalogue of Prices, and by this oracle Biddy arranged all the shop"
-      },
       "10": {
         "mentions": 8,
         "snippet": "get out of Biddy everything she knew."
@@ -891,10 +879,6 @@
         "mentions": 31,
         "snippet": "Joe and Biddy were very sympathetic and pleasant when I spoke of our"
       },
-      "27": {
-        "mentions": 3,
-        "snippet": "And Biddy, she\u2019s ever right and ready."
-      },
       "35": {
         "mentions": 40,
         "snippet": "Biddy, looking very neat and modest in her black dress, went quietly"
@@ -913,21 +897,21 @@
       }
     },
     "co_occurs_with": {
-      "Joe": 9,
-      "Miss Havisham": 9,
-      "Pip": 7,
-      "Mr. Wopsle": 6,
-      "Pumblechook": 5,
+      "Joe": 7,
+      "Miss Havisham": 7,
+      "Pip": 5,
       "Estella": 4,
-      "Gargery": 4,
-      "Mr. Gargery": 4
+      "Pumblechook": 4,
+      "Mr. Wopsle": 4,
+      "Old Orlick": 4,
+      "Blue Boar": 3
     }
   },
   {
     "canonical_name": "Estella",
     "aliases": [],
     "first_chapter": 9,
-    "total_mentions": 193,
+    "total_mentions": 187,
     "per_chapter": {
       "9": {
         "mentions": 2,
@@ -940,10 +924,6 @@
       "12": {
         "mentions": 4,
         "snippet": "Estella was always about, and always let me in and out, but never told"
-      },
-      "13": {
-        "mentions": 6,
-        "snippet": "Estella opened the gate as usual, and, the moment she appeared, Joe"
       },
       "14": {
         "mentions": 3,
@@ -1011,14 +991,14 @@
       }
     },
     "co_occurs_with": {
-      "Miss Havisham": 19,
-      "Pip": 12,
+      "Miss Havisham": 18,
+      "Pip": 11,
       "Jaggers": 10,
       "Mr. Jaggers": 10,
-      "Joe": 8,
+      "Joe": 7,
       "Mr. Pip": 7,
-      "Pumblechook": 6,
-      "Pocket": 6
+      "Pocket": 6,
+      "Sarah Pocket": 6
     }
   },
   {
@@ -1103,8 +1083,8 @@
       "Pip": 10,
       "Mrs. Joe": 8,
       "Mr. Wopsle": 7,
-      "Estella": 6,
-      "Biddy": 5
+      "Estella": 5,
+      "High Street": 5
     }
   },
   {
@@ -1262,9 +1242,9 @@
       "Little Britain": 12,
       "Mr. Jaggers": 12,
       "Mr. Pip": 11,
-      "Herbert": 9,
       "Miss Havisham": 8,
-      "Mr. Wemmick": 7
+      "Mr. Wemmick": 7,
+      "Herbert": 7
     }
   },
   {
@@ -1483,8 +1463,8 @@
       "Miss Havisham": 14,
       "Little Britain": 11,
       "Wemmick": 11,
-      "Herbert": 10,
-      "Mr. Pocket": 9
+      "Mr. Pocket": 9,
+      "Pocket": 9
     }
   },
   {
@@ -1541,58 +1521,8 @@
       "Miss Havisham": 6,
       "Mr. Pumblechook": 6,
       "Pip": 5,
-      "Estella": 4,
-      "Uncle Pumblechook": 4
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 60,
-    "per_chapter": {
-      "5": {
-        "mentions": 22,
-        "snippet": "The apparition of a file of soldiers ringing down the but-ends of their"
-      },
-      "19": {
-        "mentions": 4,
-        "snippet": "The last word was flung at the boy, who had not the least notion what"
-      },
-      "20": {
-        "mentions": 7,
-        "snippet": "The journey from our town to the metropolis was a journey of about five"
-      },
-      "32": {
-        "mentions": 3,
-        "snippet": "\u201d The man looked up at the sky."
-      },
-      "39": {
-        "mentions": 4,
-        "snippet": "The sound was curiously flawed by the wind;"
-      },
-      "41": {
-        "mentions": 4,
-        "snippet": "The few who"
-      },
-      "57": {
-        "mentions": 8,
-        "snippet": "The late stress upon me"
-      },
-      "59": {
-        "mentions": 8,
-        "snippet": "The early dinner hour at Joe\u2019s, left me abundance of time, without"
-      }
-    },
-    "co_occurs_with": {
-      "Pip": 7,
-      "Jaggers": 4,
-      "Miss Havisham": 4,
-      "Mr. Jaggers": 4,
-      "Pocket": 4,
-      "Biddy": 3,
-      "Estella": 3,
-      "Joe": 3
+      "Uncle Pumblechook": 4,
+      "Joe Gargery": 3
     }
   },
   {
@@ -1808,60 +1738,6 @@
     }
   },
   {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 40,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "There was nothing in them but a piece of bread."
-      },
-      "2": {
-        "mentions": 4,
-        "snippet": "\u201cThere\u2019s another conwict off."
-      },
-      "12": {
-        "mentions": 5,
-        "snippet": "There were traces of his gore in that"
-      },
-      "15": {
-        "mentions": 5,
-        "snippet": "\u201cThere is some wisits p\u2019r\u2019aps,\u201d said Joe, \u201cas for ever remains open to"
-      },
-      "20": {
-        "mentions": 4,
-        "snippet": "There were not so many papers"
-      },
-      "39": {
-        "mentions": 8,
-        "snippet": "\u201cThere is some one down there, is there not?"
-      },
-      "42": {
-        "mentions": 4,
-        "snippet": "There, you\u2019ve got it."
-      },
-      "46": {
-        "mentions": 3,
-        "snippet": "There was something so natural and winning in Clara\u2019s resigned way of"
-      },
-      "55": {
-        "mentions": 3,
-        "snippet": "There appeared to be reason for supposing that the drowned informer had"
-      }
-    },
-    "co_occurs_with": {
-      "Pip": 6,
-      "Joe Gargery": 4,
-      "Miss Havisham": 4,
-      "Joe": 3,
-      "Mrs. Joe": 3,
-      "Estella": 3,
-      "Pocket": 3,
-      "Jaggers": 3
-    }
-  },
-  {
     "canonical_name": "Uncle Pumblechook",
     "aliases": [],
     "first_chapter": 4,
@@ -1978,60 +1854,6 @@
     }
   },
   {
-    "canonical_name": "Not",
-    "aliases": [],
-    "first_chapter": 11,
-    "total_mentions": 32,
-    "per_chapter": {
-      "11": {
-        "mentions": 3,
-        "snippet": "\u201cNot so much so as you were last time,\u201d said I."
-      },
-      "19": {
-        "mentions": 3,
-        "snippet": "\u201cNot all of one kind,\u201d resumed Biddy."
-      },
-      "22": {
-        "mentions": 4,
-        "snippet": "\u201cNot on any account,\u201d returned Herbert; \u201cbut a public-house may keep a"
-      },
-      "25": {
-        "mentions": 3,
-        "snippet": "\u201cNot yet."
-      },
-      "40": {
-        "mentions": 4,
-        "snippet": "Not to get"
-      },
-      "45": {
-        "mentions": 3,
-        "snippet": "Not long before, I had"
-      },
-      "54": {
-        "mentions": 4,
-        "snippet": "\u201cNot yet."
-      },
-      "55": {
-        "mentions": 3,
-        "snippet": "\u201cNot so long as that,\u201d said I."
-      },
-      "57": {
-        "mentions": 5,
-        "snippet": "Not to make Joe uneasy by talking too much, even if I had been able to"
-      }
-    },
-    "co_occurs_with": {
-      "Pip": 7,
-      "Miss Havisham": 6,
-      "Jaggers": 5,
-      "Mr. Jaggers": 5,
-      "Herbert": 5,
-      "Pocket": 4,
-      "Mr. Pip": 4,
-      "Little Britain": 4
-    }
-  },
-  {
     "canonical_name": "Joseph",
     "aliases": [],
     "first_chapter": 7,
@@ -2060,9 +1882,9 @@
       "Pip": 4,
       "Pumblechook": 4,
       "Miss Havisham": 3,
-      "Biddy": 2,
-      "Good": 2,
-      "Mr. Wopsle": 2
+      "Mr. Wopsle": 2,
+      "Mrs. Joe": 2,
+      "Uncle Pumblechook": 2
     }
   },
   {
@@ -2202,55 +2024,13 @@
     },
     "co_occurs_with": {
       "Herbert": 2,
-      "Not": 2,
       "Aged Parent": 1,
-      "All": 1,
       "Covent Garden": 1,
       "Fleet Street": 1,
       "Garden Court": 1,
-      "Little Britain": 1
-    }
-  },
-  {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 23,
-    "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "Here\u2019s a J and"
-      },
-      "11": {
-        "mentions": 7,
-        "snippet": "Here, the daylight reappeared, and I found myself in a"
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "\u201cHere it is,\u201d said Mr."
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "Here, after gradually failing in loftier hopes, he"
-      },
-      "33": {
-        "mentions": 3,
-        "snippet": "the house, Here is the green farthingale, Here is the diamond-hilted"
-      },
-      "55": {
-        "mentions": 4,
-        "snippet": "Here\u2019s a church!"
-      }
-    },
-    "co_occurs_with": {
-      "Miss Havisham": 4,
-      "Pip": 4,
-      "Mr. Pumblechook": 3,
-      "Pumblechook": 3,
-      "Jaggers": 3,
-      "Mr. Jaggers": 3,
-      "Mr. Matthew Pocket": 3,
-      "Mr. Pip": 3
+      "Little Britain": 1,
+      "Mary Anne": 1,
+      "Miss Skiffins": 1
     }
   },
   {
@@ -2322,40 +2102,6 @@
     }
   },
   {
-    "canonical_name": "Which",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 21,
-    "per_chapter": {
-      "7": {
-        "mentions": 4,
-        "snippet": "Which, you see, Pip,\u201d said Joe, pausing in his meditative raking of the"
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "\u201cWhich I meantersay, Pip,\u201d Joe now observed in a manner that was at"
-      },
-      "27": {
-        "mentions": 6,
-        "snippet": "\u201cWhich you have that growed,\u201d said Joe, \u201cand that swelled, and that"
-      },
-      "57": {
-        "mentions": 8,
-        "snippet": "And the dear old home-voice answered, \u201cWhich it air, old chap."
-      }
-    },
-    "co_occurs_with": {
-      "Miss Havisham": 4,
-      "Pip": 4,
-      "Biddy": 3,
-      "Joe": 3,
-      "Mr. Wopsle": 3,
-      "Joseph": 2,
-      "Mr. Pumblechook": 2,
-      "Mrs. Joe": 2
-    }
-  },
-  {
     "canonical_name": "Aged",
     "aliases": [],
     "first_chapter": 25,
@@ -2372,13 +2118,13 @@
     },
     "co_occurs_with": {
       "Castle": 2,
-      "Herbert": 2,
       "Jaggers": 2,
       "Little Britain": 2,
       "Mr. Jaggers": 2,
       "Mr. Pip": 2,
-      "Not": 2,
-      "Pip": 2
+      "Pip": 2,
+      "Wemmick": 2,
+      "Bentley Drummle": 1
     }
   },
   {
@@ -2544,9 +2290,9 @@
       "Mr. Pip": 11,
       "Jaggers": 10,
       "Mr. Jaggers": 10,
-      "Herbert": 8,
       "Miss Havisham": 8,
-      "Mr. Wemmick": 6
+      "Mr. Wemmick": 6,
+      "Herbert": 6
     }
   },
   {
@@ -2642,8 +2388,8 @@
       "Provis": 3,
       "Little Britain": 2,
       "Pip": 2,
-      "There": 2,
-      "Blue Boar": 2
+      "Blue Boar": 2,
+      "Joe": 2
     }
   },
   {
@@ -2765,8 +2511,42 @@
       "Mr. Jaggers": 5,
       "Estella": 5,
       "Pip": 4,
-      "Here": 3,
-      "Pocket": 3
+      "Pocket": 3,
+      "Georgiana": 3
+    }
+  },
+  {
+    "canonical_name": "Not",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 14,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "\u201cNot so much so as you were last time,\u201d said I."
+      },
+      "19": {
+        "mentions": 3,
+        "snippet": "\u201cNot all of one kind,\u201d resumed Biddy."
+      },
+      "22": {
+        "mentions": 4,
+        "snippet": "\u201cNot on any account,\u201d returned Herbert; \u201cbut a public-house may keep a"
+      },
+      "54": {
+        "mentions": 4,
+        "snippet": "\u201cNot yet."
+      }
+    },
+    "co_occurs_with": {
+      "Miss Havisham": 3,
+      "Mr. Pumblechook": 3,
+      "Pocket": 3,
+      "Pumblechook": 3,
+      "Jaggers": 2,
+      "Miss Pocket": 2,
+      "Mr. Jaggers": 2,
+      "Mr. Trabb": 2
     }
   },
   {
@@ -2796,41 +2576,7 @@
       "Pip": 3,
       "Wemmick": 3,
       "Aged": 2,
-      "Herbert": 2
-    }
-  },
-  {
-    "canonical_name": "Good",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 13,
-    "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "\u201cGood again!"
-      },
-      "19": {
-        "mentions": 6,
-        "snippet": "Good-morning, sir, much obliged."
-      },
-      "32": {
-        "mentions": 1,
-        "snippet": "Good-bye!"
-      },
-      "40": {
-        "mentions": 3,
-        "snippet": "\u201cGood."
-      }
-    },
-    "co_occurs_with": {
-      "Miss Havisham": 4,
-      "Pip": 4,
-      "Jaggers": 3,
-      "Mr. Jaggers": 3,
-      "Biddy": 2,
-      "Joe": 2,
-      "Joseph": 2,
-      "Mr. Pumblechook": 2
+      "Miss Havisham": 2
     }
   },
   {
@@ -2853,11 +2599,11 @@
       }
     },
     "co_occurs_with": {
-      "Estella": 3,
       "Miss Havisham": 3,
       "Mr. Pumblechook": 3,
       "Pip": 3,
       "Pumblechook": 3,
+      "Estella": 2,
       "Joe": 2,
       "Mrs. Joe": 2,
       "Uncle Pumblechook": 2
@@ -2900,9 +2646,9 @@
       "Mr. Wopsle": 5,
       "Mr. Gargery": 5,
       "Pumblechook": 4,
-      "Biddy": 4,
       "Pip": 4,
-      "Mrs. Joe": 3
+      "Mrs. Joe": 3,
+      "Three Jolly Bargemen": 3
     }
   },
   {
@@ -2969,8 +2715,8 @@
       "Pumblechook": 3,
       "Joe Gargery": 2,
       "Mrs. Joe": 2,
-      "There": 2,
-      "High Street": 2
+      "High Street": 2,
+      "Biddy": 1
     }
   },
   {
@@ -3032,11 +2778,11 @@
     },
     "co_occurs_with": {
       "Gargery": 5,
-      "Biddy": 4,
       "Pip": 4,
       "Joe": 4,
       "Miss Havisham": 4,
       "Mr. Wopsle": 4,
+      "Biddy": 3,
       "Mr. Pip": 3,
       "Pumblechook": 3
     }
@@ -3085,10 +2831,10 @@
       "Dying Gladiator": 1,
       "Flopson": 1,
       "Good God": 1,
-      "Here": 1,
       "Lord Chancellor": 1,
       "Millers": 1,
-      "Miss Jane": 1
+      "Miss Jane": 1,
+      "Mr. Drummle": 1
     }
   },
   {
@@ -3147,10 +2893,10 @@
       "Little Britain": 3,
       "Pip": 3,
       "Wemmick": 3,
-      "Not": 2,
       "Provis": 2,
       "Garden Court": 2,
-      "Mr. Pip": 2
+      "Mr. Pip": 2,
+      "Mill Pond Bank": 2
     }
   },
   {
@@ -3173,12 +2919,12 @@
     "co_occurs_with": {
       "Handel": 2,
       "Herbert": 2,
-      "There": 2,
       "Wemmick": 2,
       "Aged": 1,
       "Camberwell Green": 1,
       "Castle": 1,
-      "Clara": 1
+      "Clara": 1,
+      "Compeyson": 1
     }
   },
   {
@@ -3407,8 +3153,8 @@
       }
     },
     "co_occurs_with": {
-      "Herbert": 6,
       "Miss Havisham": 6,
+      "Herbert": 5,
       "Jaggers": 4,
       "Mr. Jaggers": 4,
       "Pip": 4,
@@ -3470,7 +3216,7 @@
       "Pip": 3,
       "Wemmick": 3,
       "Miss Havisham": 2,
-      "Not": 2
+      "Provis": 2
     }
   },
   {
@@ -3523,14 +3269,14 @@
       }
     },
     "co_occurs_with": {
-      "There": 4,
       "Joe": 3,
       "Mrs. Joe": 3,
       "Mrs. Joe Gargery": 2,
       "Pip": 2,
       "Estella": 2,
       "Miss Havisham": 2,
-      "Old Clem": 2
+      "Old Clem": 2,
+      "Pumblechook": 2
     }
   },
   {
@@ -3657,8 +3403,8 @@
       "Mr. Jaggers": 2,
       "Pip": 2,
       "Wemmick": 2,
-      "Come": 1,
-      "Herbert": 1
+      "Herbert": 1,
+      "Mr. Drummle": 1
     }
   },
   {
@@ -3716,13 +3462,13 @@
     },
     "co_occurs_with": {
       "Aged Parent": 1,
-      "All": 1,
       "Covent Garden": 1,
       "Fleet Street": 1,
       "Garden Court": 1,
       "Herbert": 1,
       "Jack": 1,
-      "Little Britain": 1
+      "Little Britain": 1,
+      "Mary Anne": 1
     }
   },
   {
@@ -3750,32 +3496,6 @@
     }
   },
   {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 11,
-    "total_mentions": 7,
-    "per_chapter": {
-      "11": {
-        "mentions": 4,
-        "snippet": "leaning on me while her hand twitched my shoulder, \u201cCome, come, come!"
-      },
-      "26": {
-        "mentions": 3,
-        "snippet": "\u201cCome here, and I\u2019ll take you home with me."
-      }
-    },
-    "co_occurs_with": {
-      "Pocket": 2,
-      "Bentley Drummle": 1,
-      "Gerrard Street": 1,
-      "Herbert": 1,
-      "Jaggers": 1,
-      "Molly": 1,
-      "Mr. Drummle": 1,
-      "Mr. Jaggers": 1
-    }
-  },
-  {
     "canonical_name": "Halloa",
     "aliases": [],
     "first_chapter": 11,
@@ -3791,14 +3511,14 @@
       }
     },
     "co_occurs_with": {
-      "Here": 2,
-      "Not": 2,
       "Aged": 1,
       "Camberwell Green": 1,
       "Castle": 1,
       "Clara": 1,
       "Compeyson": 1,
-      "Handel": 1
+      "Handel": 1,
+      "Herbert": 1,
+      "Jaggers": 1
     }
   },
   {
@@ -3840,7 +3560,7 @@
       "Pip": 4,
       "Estella": 4,
       "Biddy": 2,
-      "Here": 2
+      "Mr. Pip": 2
     }
   },
   {
@@ -3867,32 +3587,6 @@
       "Pip": 2,
       "Pocket": 2,
       "Barnard": 1
-    }
-  },
-  {
-    "canonical_name": "Never",
-    "aliases": [],
-    "first_chapter": 25,
-    "total_mentions": 7,
-    "per_chapter": {
-      "25": {
-        "mentions": 4,
-        "snippet": "\u201cNever seen it,\u201d said Wemmick."
-      },
-      "39": {
-        "mentions": 3,
-        "snippet": "\u201cNever set eyes upon him."
-      }
-    },
-    "co_occurs_with": {
-      "Herbert": 2,
-      "Jaggers": 2,
-      "Miss Havisham": 2,
-      "Mr. Jaggers": 2,
-      "Mr. Pip": 2,
-      "Mr. Pocket": 2,
-      "Pip": 2,
-      "Pocket": 2
     }
   },
   {
@@ -3928,9 +3622,9 @@
       "Pip": 4,
       "Wemmick": 4,
       "Miss Havisham": 4,
-      "Herbert": 3,
       "Little Britain": 3,
-      "Mr. Pip": 3
+      "Mr. Pip": 3,
+      "Estella": 3
     }
   },
   {
@@ -3978,32 +3672,6 @@
     }
   },
   {
-    "canonical_name": "With",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 6,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201d With that, he called to his men, who came trooping"
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "With those words, he released me\u2014which I was glad of, for his hand"
-      }
-    },
-    "co_occurs_with": {
-      "Mr. Pumblechook": 2,
-      "Pumblechook": 2,
-      "Hubble": 1,
-      "Joe": 1,
-      "Majesty the King": 1,
-      "Mr. Hubble": 1,
-      "Mr. Wopsle": 1,
-      "Mrs. Joe": 1
-    }
-  },
-  {
     "canonical_name": "Camilla",
     "aliases": [],
     "first_chapter": 11,
@@ -4025,38 +3693,12 @@
     "co_occurs_with": {
       "Miss Havisham": 3,
       "Mrs. Camilla": 3,
-      "Here": 2,
       "Jaggers": 2,
       "Mr. Jaggers": 2,
       "Mr. Matthew Pocket": 2,
       "Mr. Pip": 2,
-      "Mr. Pumblechook": 2
-    }
-  },
-  {
-    "canonical_name": "Don",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 6,
-    "per_chapter": {
-      "17": {
-        "mentions": 3,
-        "snippet": "Don\u2019t be absurd."
-      },
-      "30": {
-        "mentions": 3,
-        "snippet": "hand, \u201cDon\u2019t know yah!"
-      }
-    },
-    "co_occurs_with": {
-      "Estella": 2,
-      "Miss Havisham": 2,
-      "Mr. Wopsle": 2,
-      "Pip": 2,
-      "Biddy": 1,
-      "Exactly": 1,
-      "Joe": 1,
-      "Miss Sarah Pocket": 1
+      "Mr. Pumblechook": 2,
+      "Pip": 2
     }
   },
   {
@@ -4132,33 +3774,7 @@
       "Dear Mr": 1,
       "Dear Pip": 1,
       "Dear Sir": 1,
-      "Good": 1
-    }
-  },
-  {
-    "canonical_name": "Clarriker",
-    "aliases": [],
-    "first_chapter": 37,
-    "total_mentions": 6,
-    "per_chapter": {
-      "37": {
-        "mentions": 3,
-        "snippet": "mighty piece of news, of his having fallen in with one Clarriker (the"
-      },
-      "52": {
-        "mentions": 3,
-        "snippet": "accountant, going straight to Clarriker\u2019s and bringing Clarriker to me,"
-      }
-    },
-    "co_occurs_with": {
-      "Little Britain": 2,
-      "Miss Havisham": 2,
-      "Miss Skiffins": 2,
-      "Wemmick": 2,
-      "Aged One": 1,
-      "Aged Parent": 1,
-      "Castle": 1,
-      "Herbert Pocket": 1
+      "Good Lord": 1
     }
   },
   {
@@ -4188,7 +3804,7 @@
       "Matthew Pocket": 2,
       "Miss Estella": 2,
       "Miss Georgiana": 2,
-      "Not": 2
+      "Biddy": 1
     }
   },
   {
@@ -4228,11 +3844,11 @@
       "Dying Gladiator": 1,
       "Flopson": 1,
       "Good God": 1,
-      "Here": 1,
       "Lord Chancellor": 1,
       "Millers": 1,
       "Miss Jane": 1,
-      "Mr. Drummle": 1
+      "Mr. Drummle": 1,
+      "Mr. Pip": 1
     }
   },
   {
@@ -4270,13 +3886,13 @@
     },
     "co_occurs_with": {
       "Aged Parent": 1,
-      "All": 1,
       "Covent Garden": 1,
       "Fleet Street": 1,
       "Garden Court": 1,
       "Herbert": 1,
       "Jack": 1,
-      "Little Britain": 1
+      "Little Britain": 1,
+      "Mary Anne": 1
     }
   },
   {
@@ -4300,9 +3916,9 @@
       "Mill Pond Bank": 2,
       "Pond Bank": 2,
       "Provis": 2,
-      "Basin": 1,
-      "Blackfriars Bridge": 1,
-      "Captain Cook": 1
+      "Biddy": 1,
+      "Blue Boar": 1,
+      "Miss Havisham": 1
     }
   },
   {
@@ -4320,11 +3936,33 @@
       "Accoucheur Policeman": 1,
       "Carols": 1,
       "Christmas Day": 1,
-      "Every": 1,
       "Hubble": 1,
       "Joe": 1,
       "Mr Hubble": 1,
-      "Mr. Hubble": 1
+      "Mr. Hubble": 1,
+      "Mr. Pumblechook": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 4,
+    "per_chapter": {
+      "11": {
+        "mentions": 4,
+        "snippet": "leaning on me while her hand twitched my shoulder, \u201cCome, come, come!"
+      }
+    },
+    "co_occurs_with": {
+      "Call Estella": 1,
+      "Camilla": 1,
+      "Cousin Raymond": 1,
+      "Dear Miss Havisham": 1,
+      "Estella": 1,
+      "Georgiana": 1,
+      "Good Lord": 1,
+      "Halloa": 1
     }
   },
   {
@@ -4605,10 +4243,10 @@
       "Pip": 3,
       "Handel": 2,
       "Provis": 2,
-      "The": 2,
-      "Not": 2,
       "Temple": 2,
-      "Wemmick": 2
+      "Wemmick": 2,
+      "Essex Street": 1,
+      "Hyde Park": 1
     }
   },
   {
@@ -4634,11 +4272,11 @@
       "Herbert": 3,
       "Mill Pond Bank": 2,
       "Provis": 2,
-      "Basin": 1,
-      "Bill Barley": 1,
-      "Blackfriars Bridge": 1,
-      "Captain Cook": 1,
-      "Chinks": 1
+      "Bentley Drummle": 1,
+      "Estella": 1,
+      "Georgiana": 1,
+      "Jaggers": 1,
+      "Matthew Pocket": 1
     }
   },
   {
@@ -4766,12 +4404,12 @@
     "co_occurs_with": {
       "Joe Gargery": 2,
       "Pip": 2,
-      "There": 2,
       "Also Georgiana": 1,
       "Georgiana Wife": 1,
       "Philip Pirrip": 1,
       "Say Lord": 1,
-      "Christmas Eve": 1
+      "Christmas Eve": 1,
+      "From the Hulks": 1
     }
   },
   {
@@ -4801,7 +4439,7 @@
       "Joe Gargery": 1,
       "Mrs. Joe Gargery": 1,
       "Say Lord": 1,
-      "There": 1
+      "Blue Boar": 1
     }
   },
   {
@@ -4831,7 +4469,7 @@
       "Joe Gargery": 1,
       "Mrs. Joe Gargery": 1,
       "Say Lord": 1,
-      "There": 1
+      "Blue Boar": 1
     }
   },
   {
@@ -4853,7 +4491,7 @@
       "Mrs. Joe": 1,
       "Mrs. Joe Gargery": 1,
       "Pip": 1,
-      "There": 1
+      "Tickler": 1
     }
   },
   {
@@ -4884,11 +4522,11 @@
       "Accoucheur Policeman": 1,
       "Christmas Day": 1,
       "Church": 1,
-      "Every": 1,
       "Hubble": 1,
       "Joe": 1,
       "Mr Hubble": 1,
-      "Mr. Hubble": 1
+      "Mr. Hubble": 1,
+      "Mr. Pumblechook": 1
     }
   },
   {
@@ -4900,28 +4538,6 @@
       "4": {
         "mentions": 3,
         "snippet": "Wopsle, united to a Roman nose and a large"
-      }
-    },
-    "co_occurs_with": {
-      "Accoucheur Policeman": 1,
-      "Carols": 1,
-      "Christmas Day": 1,
-      "Church": 1,
-      "Every": 1,
-      "Hubble": 1,
-      "Joe": 1,
-      "Mr Hubble": 1
-    }
-  },
-  {
-    "canonical_name": "Every",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "Every Christmas Day he presented himself, as a profound novelty, with"
       }
     },
     "co_occurs_with": {
@@ -4951,10 +4567,10 @@
       "Carols": 1,
       "Christmas Day": 1,
       "Church": 1,
-      "Every": 1,
       "Hubble": 1,
       "Joe": 1,
-      "Mr Hubble": 1
+      "Mr Hubble": 1,
+      "Mr. Hubble": 1
     }
   },
   {
@@ -4973,10 +4589,10 @@
       "Carols": 1,
       "Christmas Day": 1,
       "Church": 1,
-      "Every": 1,
       "Hubble": 1,
       "Joe": 1,
-      "Mr Hubble": 1
+      "Mr Hubble": 1,
+      "Mr. Hubble": 1
     }
   },
   {
@@ -4995,32 +4611,10 @@
       "Carols": 1,
       "Christmas Day": 1,
       "Church": 1,
-      "Every": 1,
       "Hubble": 1,
       "Joe": 1,
-      "Mr Hubble": 1
-    }
-  },
-  {
-    "canonical_name": "Would",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cWould you give me the time?"
-      }
-    },
-    "co_occurs_with": {
-      "Hubble": 1,
-      "Joe": 1,
-      "Majesty the King": 1,
-      "Mr. Hubble": 1,
-      "Mr. Pumblechook": 1,
-      "Mr. Wopsle": 1,
-      "Mrs. Joe": 1,
-      "Musical Glasses": 1
+      "Mr Hubble": 1,
+      "Mr. Hubble": 1
     }
   },
   {
@@ -5177,12 +4771,12 @@
     "co_occurs_with": {
       "Camilla": 3,
       "Miss Havisham": 3,
-      "Here": 2,
       "Jaggers": 2,
       "Mr. Jaggers": 2,
       "Mr. Matthew Pocket": 2,
       "Mr. Pip": 2,
-      "Mr. Pumblechook": 2
+      "Mr. Pumblechook": 2,
+      "Pip": 2
     }
   },
   {
@@ -5230,6 +4824,28 @@
     }
   },
   {
+    "canonical_name": "With",
+    "aliases": [],
+    "first_chapter": 11,
+    "total_mentions": 3,
+    "per_chapter": {
+      "11": {
+        "mentions": 3,
+        "snippet": "With those words, he released me\u2014which I was glad of, for his hand"
+      }
+    },
+    "co_occurs_with": {
+      "Call Estella": 1,
+      "Camilla": 1,
+      "Come": 1,
+      "Cousin Raymond": 1,
+      "Dear Miss Havisham": 1,
+      "Estella": 1,
+      "Georgiana": 1,
+      "Good Lord": 1
+    }
+  },
+  {
     "canonical_name": "Lady Fair",
     "aliases": [
       "Fair"
@@ -5243,14 +4859,14 @@
       }
     },
     "co_occurs_with": {
-      "Estella": 1,
       "Gargery": 1,
       "Great Seal": 1,
       "Joe": 1,
       "Joseph": 1,
       "Miss Havisham": 1,
       "Mr. Gargery": 1,
-      "Mr. Pumblechook": 1
+      "Mr. Pumblechook": 1,
+      "Mr. Wopsle": 1
     }
   },
   {
@@ -5304,28 +4920,6 @@
     }
   },
   {
-    "canonical_name": "Exactly",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 3,
-    "per_chapter": {
-      "17": {
-        "mentions": 3,
-        "snippet": "Exactly what I myself had thought, many times."
-      }
-    },
-    "co_occurs_with": {
-      "Biddy": 1,
-      "Don": 1,
-      "Estella": 1,
-      "Joe": 1,
-      "Miss Havisham": 1,
-      "Miss Sarah Pocket": 1,
-      "Mr. Wopsle": 1,
-      "Old Orlick": 1
-    }
-  },
-  {
     "canonical_name": "Joseph Gargery",
     "aliases": [],
     "first_chapter": 18,
@@ -5340,11 +4934,11 @@
       "Biddy": 1,
       "Camilla": 1,
       "Gargery": 1,
-      "Here": 1,
       "Hubble": 1,
       "Jaggers": 1,
       "Joe": 1,
-      "Matthew Pocket": 1
+      "Matthew Pocket": 1,
+      "Miss Havisham": 1
     }
   },
   {
@@ -5363,12 +4957,12 @@
     "co_occurs_with": {
       "Biddy": 1,
       "Blue Boar": 1,
-      "Good": 1,
       "High Street": 1,
       "Jaggers": 1,
       "Joe": 1,
       "Joseph": 1,
-      "Miss Havisham": 1
+      "Miss Havisham": 1,
+      "Miss Pocket": 1
     }
   },
   {
@@ -5507,10 +5101,10 @@
       "Bentley Drummle": 1,
       "Camilla": 1,
       "Castle": 1,
-      "Herbert": 1,
       "Jaggers": 1,
       "Little Britain": 1,
-      "Miss Havisham": 1
+      "Miss Havisham": 1,
+      "Mr. Jaggers": 1
     }
   },
   {
@@ -5526,13 +5120,35 @@
     },
     "co_occurs_with": {
       "Bentley Drummle": 1,
-      "Come": 1,
       "Gerrard Street": 1,
       "Herbert": 1,
       "Jaggers": 1,
       "Molly": 1,
       "Mr. Drummle": 1,
-      "Mr. Jaggers": 1
+      "Mr. Jaggers": 1,
+      "Mr. Pocket": 1
+    }
+  },
+  {
+    "canonical_name": "Don",
+    "aliases": [],
+    "first_chapter": 30,
+    "total_mentions": 3,
+    "per_chapter": {
+      "30": {
+        "mentions": 3,
+        "snippet": "hand, \u201cDon\u2019t know yah!"
+      }
+    },
+    "co_occurs_with": {
+      "Blue Boar": 1,
+      "Estella": 1,
+      "Handel": 1,
+      "Herbert": 1,
+      "High Street": 1,
+      "Hyde Park": 1,
+      "Jaggers": 1,
+      "Miss Havisham": 1
     }
   },
   {
@@ -5650,6 +5266,28 @@
     }
   },
   {
+    "canonical_name": "Clarriker",
+    "aliases": [],
+    "first_chapter": 37,
+    "total_mentions": 3,
+    "per_chapter": {
+      "37": {
+        "mentions": 3,
+        "snippet": "mighty piece of news, of his having fallen in with one Clarriker (the"
+      }
+    },
+    "co_occurs_with": {
+      "Aged One": 1,
+      "Aged Parent": 1,
+      "Castle": 1,
+      "Herbert Pocket": 1,
+      "Jaggers": 1,
+      "John": 1,
+      "Law": 1,
+      "Little Britain": 1
+    }
+  },
+  {
     "canonical_name": "Miss Havishams",
     "aliases": [
       "Havishams"
@@ -5744,28 +5382,6 @@
     }
   },
   {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 45,
-    "total_mentions": 3,
-    "per_chapter": {
-      "45": {
-        "mentions": 3,
-        "snippet": "he placed his breakfast before him with great care, and said, \u201cAll"
-      }
-    },
-    "co_occurs_with": {
-      "Aged Parent": 1,
-      "Covent Garden": 1,
-      "Fleet Street": 1,
-      "Garden Court": 1,
-      "Herbert": 1,
-      "Jack": 1,
-      "Little Britain": 1,
-      "Mary Anne": 1
-    }
-  },
-  {
     "canonical_name": "Captain Cook",
     "aliases": [
       "Cook"
@@ -5838,72 +5454,6 @@
     }
   },
   {
-    "canonical_name": "Nothing",
-    "aliases": [],
-    "first_chapter": 48,
-    "total_mentions": 3,
-    "per_chapter": {
-      "48": {
-        "mentions": 3,
-        "snippet": "\u201cNothing."
-      }
-    },
-    "co_occurs_with": {
-      "Bentley Drummle": 1,
-      "Estella": 1,
-      "For the Temple": 1,
-      "Gerrard Street": 1,
-      "Hounslow Heath": 1,
-      "Jaggers": 1,
-      "Little Britain": 1,
-      "Miss Havisham": 1
-    }
-  },
-  {
-    "canonical_name": "Thank",
-    "aliases": [],
-    "first_chapter": 49,
-    "total_mentions": 3,
-    "per_chapter": {
-      "49": {
-        "mentions": 3,
-        "snippet": "\u201cThank you."
-      }
-    },
-    "co_occurs_with": {
-      "Estella": 1,
-      "Herbert": 1,
-      "High Street": 1,
-      "Jaggers": 1,
-      "Matthew Pocket": 1,
-      "Miss Havisham": 1,
-      "Mr. Jaggers": 1,
-      "Mr. Matthew Pocket": 1
-    }
-  },
-  {
-    "canonical_name": "Get",
-    "aliases": [],
-    "first_chapter": 51,
-    "total_mentions": 3,
-    "per_chapter": {
-      "51": {
-        "mentions": 3,
-        "snippet": "\u201cGet out of this office."
-      }
-    },
-    "co_occurs_with": {
-      "Estella": 1,
-      "Gerrard Street": 1,
-      "Giltspur Street": 1,
-      "Herbert": 1,
-      "Jaggers": 1,
-      "Little Britain": 1,
-      "Mike": 1,
-      "Miss Havisham": 1
-    }
-  },
-  {
     "canonical_name": "Hamburg",
     "aliases": [],
     "first_chapter": 54,
@@ -5966,7 +5516,7 @@
       "Halloa": 1,
       "Handel": 1,
       "Herbert": 1,
-      "Here": 1
+      "Jaggers": 1
     }
   },
   {
@@ -5988,7 +5538,7 @@
       "Halloa": 1,
       "Handel": 1,
       "Herbert": 1,
-      "Here": 1
+      "Jaggers": 1
     }
   }
 ]

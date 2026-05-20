@@ -83,7 +83,7 @@
     "co_occurs_with": {
       "Dorian Gray": 18,
       "Basil Hallward": 16,
-      "Harry": 12,
+      "Harry": 11,
       "Mr. Gray": 8,
       "Sibyl Vane": 7,
       "Henry Wotton": 5,
@@ -95,7 +95,7 @@
     "canonical_name": "Harry",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 173,
+    "total_mentions": 170,
     "per_chapter": {
       "1": {
         "mentions": 22,
@@ -116,10 +116,6 @@
       "6": {
         "mentions": 17,
         "snippet": "\u201cNo, Harry,\u201d answered the artist, giving his hat and coat to the bowing"
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "Harry is so cynical, he terrifies me."
       },
       "8": {
         "mentions": 18,
@@ -147,12 +143,12 @@
       }
     },
     "co_occurs_with": {
-      "Dorian Gray": 12,
-      "Lord Henry": 12,
-      "Basil Hallward": 10,
+      "Dorian Gray": 11,
+      "Lord Henry": 11,
+      "Basil Hallward": 9,
       "Mr. Gray": 7,
-      "Sibyl Vane": 5,
       "Henry Wotton": 4,
+      "Sibyl Vane": 4,
       "Lady Agatha": 3,
       "Lord Henry Wotton": 3
     }
@@ -250,7 +246,7 @@
     "co_occurs_with": {
       "Lord Henry": 18,
       "Basil Hallward": 17,
-      "Harry": 12,
+      "Harry": 11,
       "Mr. Gray": 8,
       "Sibyl Vane": 8,
       "Henry Wotton": 5,
@@ -417,7 +413,7 @@
     "co_occurs_with": {
       "Dorian Gray": 17,
       "Lord Henry": 16,
-      "Harry": 10,
+      "Harry": 9,
       "Sibyl Vane": 7,
       "Mr. Gray": 6,
       "Henry Wotton": 5,
@@ -470,7 +466,7 @@
       "Dorian Gray": 8,
       "Basil Hallward": 7,
       "Lord Henry": 7,
-      "Harry": 5,
+      "Harry": 4,
       "Prince Charming": 3,
       "Mr. Gray": 2,
       "Romeo": 2,
@@ -553,14 +549,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Americans": 1,
       "At Aunt Agatha": 1,
       "Aunt Agatha": 1,
       "Basil Hallward": 1,
       "Berkeley Square": 1,
       "Blue Books": 1,
-      "Burlington Street": 1
+      "Burlington Street": 1,
+      "Dartmoor": 1
     }
   },
   {
@@ -577,14 +573,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Americans": 1,
       "At Aunt Agatha": 1,
       "Aunt Agatha": 1,
       "Basil Hallward": 1,
       "Berkeley Square": 1,
       "Blue Books": 1,
-      "Burlington Street": 1
+      "Burlington Street": 1,
+      "Dartmoor": 1
     }
   },
   {
@@ -623,14 +619,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Americans": 1,
       "At Aunt Agatha": 1,
       "Aunt Agatha": 1,
       "Basil Hallward": 1,
       "Berkeley Square": 1,
       "Blue Books": 1,
-      "Burlington Street": 1
+      "Burlington Street": 1,
+      "Dartmoor": 1
     }
   },
   {
@@ -753,14 +749,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Americans": 1,
       "At Aunt Agatha": 1,
       "Aunt Agatha": 1,
       "Basil Hallward": 1,
       "Berkeley Square": 1,
       "Blue Books": 1,
-      "Burlington Street": 1
+      "Burlington Street": 1,
+      "Dartmoor": 1
     }
   },
   {
@@ -783,10 +779,10 @@
       "Harry": 2,
       "Lord Henry": 2,
       "Mr. Gray": 2,
-      "All": 1,
       "Americans": 1,
       "At Aunt Agatha": 1,
-      "Aunt Agatha": 1
+      "Aunt Agatha": 1,
+      "Basil Hallward": 1
     }
   },
   {
@@ -803,14 +799,14 @@
       }
     },
     "co_occurs_with": {
-      "Don": 1,
       "Dorian Gray": 1,
       "Geoffrey Clouston": 1,
       "Harry": 1,
       "Home Farm": 1,
       "Lord Henry": 1,
       "Mr. Gray": 1,
-      "Poor Geoffrey": 1
+      "Poor Geoffrey": 1,
+      "Selby Royal": 1
     }
   },
   {
@@ -928,32 +924,6 @@
     }
   },
   {
-    "canonical_name": "Don",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 8,
-    "per_chapter": {
-      "7": {
-        "mentions": 5,
-        "snippet": "\u201cDon\u2019t pay any attention to him, Dorian,\u201d said the painter."
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "cried out at once, \u201cDon\u2019t shoot it, Geoffrey."
-      }
-    },
-    "co_occurs_with": {
-      "Dorian Gray": 2,
-      "Harry": 2,
-      "Lord Henry": 2,
-      "Selby Royal": 2,
-      "Basil Hallward": 1,
-      "Covent Garden": 1,
-      "Miss Vane": 1,
-      "Romeo": 1
-    }
-  },
-  {
     "canonical_name": "Alan Campbell",
     "aliases": [
       "Campbell"
@@ -1008,7 +978,7 @@
       "James Vane": 1,
       "Lady Hilstone": 1,
       "Lady Narborough": 1,
-      "Let": 1
+      "Lord Henry": 1
     }
   },
   {
@@ -1042,58 +1012,6 @@
     }
   },
   {
-    "canonical_name": "Let",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 7,
-    "per_chapter": {
-      "2": {
-        "mentions": 4,
-        "snippet": "Let me think."
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "Let us talk of some one else."
-      }
-    },
-    "co_occurs_with": {
-      "Dorian Gray": 2,
-      "Harry": 2,
-      "Lord Henry": 2,
-      "Mr. Gray": 2,
-      "Aunt Agatha": 1,
-      "Basil Hallward": 1,
-      "Because": 1,
-      "Forest Scenes": 1
-    }
-  },
-  {
-    "canonical_name": "Was",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 7,
-    "per_chapter": {
-      "3": {
-        "mentions": 4,
-        "snippet": "Was it not Plato, that artist in thought, who had"
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "Was it very bad?"
-      }
-    },
-    "co_occurs_with": {
-      "Dorian Gray": 2,
-      "Harry": 2,
-      "Lord Henry": 2,
-      "Mr. Gray": 2,
-      "All": 1,
-      "Americans": 1,
-      "At Aunt Agatha": 1,
-      "Aunt Agatha": 1
-    }
-  },
-  {
     "canonical_name": "Lady Henry",
     "aliases": [],
     "first_chapter": 4,
@@ -1111,8 +1029,8 @@
       "Dorian Gray": 1,
       "Giordano Bruno": 1,
       "Harry": 1,
-      "Imogen": 1,
-      "Juliet": 1
+      "Juliet": 1,
+      "Lady Capulet": 1
     }
   },
   {
@@ -1133,12 +1051,12 @@
     "co_occurs_with": {
       "Basil Hallward": 2,
       "Dorian Gray": 2,
-      "Harry": 2,
       "Lord Henry": 2,
       "Sibyl Vane": 2,
       "Clovis Eve": 1,
       "Dear Basil": 1,
-      "Giordano Bruno": 1
+      "Giordano Bruno": 1,
+      "Harry": 1
     }
   },
   {
@@ -1171,32 +1089,6 @@
       "Harry": 1,
       "Lord Radley": 1,
       "Rupert Street": 1
-    }
-  },
-  {
-    "canonical_name": "Victor",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 7,
-    "per_chapter": {
-      "8": {
-        "mentions": 4,
-        "snippet": "Victor came in softly with a cup of tea, and a pile of letters, on a"
-      },
-      "10": {
-        "mentions": 3,
-        "snippet": "Victor\u2019s face perfectly."
-      }
-    },
-    "co_occurs_with": {
-      "Basil Hallward": 2,
-      "Dorian Gray": 2,
-      "Lord Henry": 2,
-      "Sibyl Vane": 2,
-      "Cyril Tourneur": 1,
-      "Harry": 1,
-      "Jermyn Street": 1,
-      "Lady Hampshire": 1
     }
   },
   {
@@ -1241,14 +1133,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "At Aunt Agatha": 1,
       "Aunt Agatha": 1,
       "Basil Hallward": 1,
       "Berkeley Square": 1,
       "Blue Books": 1,
       "Burlington Street": 1,
-      "Dartmoor": 1
+      "Dartmoor": 1,
+      "Dorian Gray": 1
     }
   },
   {
@@ -1297,10 +1189,10 @@
       "Dorian Gray": 2,
       "Lord Henry": 2,
       "Mr. Gray": 2,
-      "All": 1,
       "Americans": 1,
       "At Aunt Agatha": 1,
-      "Aunt Agatha": 1
+      "Aunt Agatha": 1,
+      "Berkeley Square": 1
     }
   },
   {
@@ -1315,28 +1207,6 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Americans": 1,
-      "At Aunt Agatha": 1,
-      "Aunt Agatha": 1,
-      "Basil Hallward": 1,
-      "Berkeley Square": 1,
-      "Blue Books": 1,
-      "Burlington Street": 1
-    }
-  },
-  {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 5,
-    "per_chapter": {
-      "3": {
-        "mentions": 5,
-        "snippet": "All the Selby property came to her,"
-      }
-    },
-    "co_occurs_with": {
       "Americans": 1,
       "At Aunt Agatha": 1,
       "Aunt Agatha": 1,
@@ -1344,29 +1214,7 @@
       "Berkeley Square": 1,
       "Blue Books": 1,
       "Burlington Street": 1,
-      "Dartmoor": 1
-    }
-  },
-  {
-    "canonical_name": "Never",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 5,
-    "per_chapter": {
-      "4": {
-        "mentions": 5,
-        "snippet": "\u201cNever marry a woman with straw-coloured hair, Dorian,\u201d he said after a"
-      }
-    },
-    "co_occurs_with": {
-      "Basil Hallward": 1,
-      "Clovis Eve": 1,
-      "Dear Basil": 1,
-      "Dorian Gray": 1,
-      "Giordano Bruno": 1,
-      "Harry": 1,
-      "Imogen": 1,
-      "Juliet": 1
+      "Dorian Gray": 1
     }
   },
   {
@@ -1387,8 +1235,8 @@
       "Dorian Gray": 1,
       "Giordano Bruno": 1,
       "Harry": 1,
-      "Imogen": 1,
-      "Lady Capulet": 1
+      "Lady Capulet": 1,
+      "Lady Henry": 1
     }
   },
   {
@@ -1438,7 +1286,7 @@
       "Harry": 1,
       "Sibyl": 1,
       "Adrian Singleton": 1,
-      "Come": 1
+      "Grosvenor Square": 1
     }
   },
   {
@@ -1527,14 +1375,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Americans": 1,
       "At Aunt Agatha": 1,
       "Aunt Agatha": 1,
       "Basil Hallward": 1,
       "Berkeley Square": 1,
       "Blue Books": 1,
-      "Burlington Street": 1
+      "Burlington Street": 1,
+      "Dartmoor": 1
     }
   },
   {
@@ -1551,14 +1399,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Americans": 1,
       "At Aunt Agatha": 1,
       "Aunt Agatha": 1,
       "Basil Hallward": 1,
       "Berkeley Square": 1,
       "Blue Books": 1,
-      "Burlington Street": 1
+      "Burlington Street": 1,
+      "Dartmoor": 1
     }
   },
   {
@@ -1573,14 +1421,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Americans": 1,
       "At Aunt Agatha": 1,
       "Aunt Agatha": 1,
       "Basil Hallward": 1,
       "Berkeley Square": 1,
       "Blue Books": 1,
-      "Burlington Street": 1
+      "Burlington Street": 1,
+      "Dartmoor": 1
     }
   },
   {
@@ -1634,9 +1482,31 @@
       "Lord Henry": 3,
       "Alan Campbell": 2,
       "Hertford Street": 2,
-      "Don": 2,
-      "Harry": 2,
-      "Adrian Singleton": 1
+      "Adrian Singleton": 1,
+      "Francis": 1,
+      "Grosvenor Square": 1
+    }
+  },
+  {
+    "canonical_name": "Victor",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 4,
+    "per_chapter": {
+      "8": {
+        "mentions": 4,
+        "snippet": "Victor came in softly with a cup of tea, and a pile of letters, on a"
+      }
+    },
+    "co_occurs_with": {
+      "Basil Hallward": 1,
+      "Cyril Tourneur": 1,
+      "Dorian Gray": 1,
+      "Harry": 1,
+      "Jermyn Street": 1,
+      "Lady Hampshire": 1,
+      "Lord Henry": 1,
+      "Marrying Sibyl Vane": 1
     }
   },
   {
@@ -1732,31 +1602,9 @@
       "Henry Ashton": 2,
       "Lord Henry": 2,
       "Adrian Singleton": 1,
-      "Come": 1,
       "Grosvenor Square": 1,
-      "Lady Gwendolen": 1
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 4,
-    "per_chapter": {
-      "12": {
-        "mentions": 4,
-        "snippet": "Come in, or the fog will get"
-      }
-    },
-    "co_occurs_with": {
-      "Adrian Singleton": 1,
-      "Basil Hallward": 1,
-      "Dorian Gray": 1,
-      "Grosvenor Square": 1,
-      "Henry Ashton": 1,
       "Lady Gwendolen": 1,
-      "Lady Radley": 1,
-      "Lord Gloucester": 1
+      "Lady Radley": 1
     }
   },
   {
@@ -1783,28 +1631,6 @@
       "For God": 1,
       "Prince Charming": 1,
       "Sibyl Vane": 1
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 4,
-    "per_chapter": {
-      "16": {
-        "mentions": 4,
-        "snippet": "There were opium"
-      }
-    },
-    "co_occurs_with": {
-      "Adrian Singleton": 1,
-      "Basil Hallward": 1,
-      "Dorian Gray": 1,
-      "Eighteen": 1,
-      "For God": 1,
-      "James Vane": 1,
-      "Lord Henry": 1,
-      "Prince Charming": 1
     }
   },
   {
@@ -1854,28 +1680,6 @@
     }
   },
   {
-    "canonical_name": "Because",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 3,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "\u201cBecause to influence a person is to give him one\u2019s own soul."
-      }
-    },
-    "co_occurs_with": {
-      "Aunt Agatha": 1,
-      "Basil Hallward": 1,
-      "Dorian Gray": 1,
-      "Forest Scenes": 1,
-      "Harry": 1,
-      "Henry Wotton": 1,
-      "Lady Agatha": 1,
-      "Let": 1
-    }
-  },
-  {
     "canonical_name": "Lord Faudel",
     "aliases": [
       "Faudel"
@@ -1889,14 +1693,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Americans": 1,
       "At Aunt Agatha": 1,
       "Aunt Agatha": 1,
       "Basil Hallward": 1,
       "Berkeley Square": 1,
       "Blue Books": 1,
-      "Burlington Street": 1
+      "Burlington Street": 1,
+      "Dartmoor": 1
     }
   },
   {
@@ -1911,14 +1715,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Americans": 1,
       "At Aunt Agatha": 1,
       "Aunt Agatha": 1,
       "Basil Hallward": 1,
       "Berkeley Square": 1,
       "Blue Books": 1,
-      "Burlington Street": 1
+      "Burlington Street": 1,
+      "Dartmoor": 1
     }
   },
   {
@@ -1941,8 +1745,8 @@
       "Dorian Gray": 1,
       "Giordano Bruno": 1,
       "Harry": 1,
-      "Imogen": 1,
-      "Juliet": 1
+      "Juliet": 1,
+      "Lady Capulet": 1
     }
   },
   {
@@ -1965,52 +1769,8 @@
       "Dorian Gray": 1,
       "Giordano Bruno": 1,
       "Harry": 1,
-      "Imogen": 1,
-      "Juliet": 1
-    }
-  },
-  {
-    "canonical_name": "People",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "People will some day, however."
-      }
-    },
-    "co_occurs_with": {
-      "Basil Hallward": 1,
-      "Clovis Eve": 1,
-      "Dear Basil": 1,
-      "Dorian Gray": 1,
-      "Giordano Bruno": 1,
-      "Harry": 1,
-      "Imogen": 1,
-      "Juliet": 1
-    }
-  },
-  {
-    "canonical_name": "Imogen",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "evening she is Rosalind, and the next evening she is Imogen."
-      }
-    },
-    "co_occurs_with": {
-      "Basil Hallward": 1,
-      "Clovis Eve": 1,
-      "Dear Basil": 1,
-      "Dorian Gray": 1,
-      "Giordano Bruno": 1,
-      "Harry": 1,
       "Juliet": 1,
-      "Lady Capulet": 1
+      "Lady Henry": 1
     }
   },
   {
@@ -2147,12 +1907,12 @@
     "co_occurs_with": {
       "Adrian Singleton": 1,
       "Basil Hallward": 1,
-      "Come": 1,
       "Dorian Gray": 1,
       "Grosvenor Square": 1,
       "Henry Ashton": 1,
       "Lady Gwendolen": 1,
-      "Lady Radley": 1
+      "Lady Radley": 1,
+      "Lord Gloucester": 1
     }
   },
   {
@@ -2176,9 +1936,9 @@
       "Lord Henry": 2,
       "Sir Henry Ashton": 2,
       "Adrian Singleton": 1,
-      "Come": 1,
       "Grosvenor Square": 1,
-      "Lady Gwendolen": 1
+      "Lady Gwendolen": 1,
+      "Lady Radley": 1
     }
   },
   {
@@ -2197,12 +1957,12 @@
     "co_occurs_with": {
       "Adrian Singleton": 1,
       "Basil Hallward": 1,
-      "Come": 1,
       "Dorian Gray": 1,
       "Grosvenor Square": 1,
       "Henry Ashton": 1,
       "Lady Gwendolen": 1,
-      "Lady Radley": 1
+      "Lady Radley": 1,
+      "Lord Gloucester": 1
     }
   },
   {
@@ -2432,7 +2192,7 @@
       "In the Parthian": 1,
       "James Vane": 1,
       "Lady Narborough": 1,
-      "Let": 1
+      "Lord Henry": 1
     }
   },
   {

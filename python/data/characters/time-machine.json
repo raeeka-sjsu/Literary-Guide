@@ -265,8 +265,8 @@
       "Four Dimensions": 1,
       "Fourth Dimension": 1,
       "New York Mathematical Society": 1,
-      "One": 1,
-      "Professor Simon Newcomb": 1
+      "Professor Simon Newcomb": 1,
+      "Psychologist": 1
     }
   },
   {
@@ -291,8 +291,8 @@
       "Four Dimensions": 1,
       "Fourth Dimension": 1,
       "New York Mathematical Society": 1,
-      "One": 1,
-      "Professor Simon Newcomb": 1
+      "Professor Simon Newcomb": 1,
+      "Provincial Mayor": 1
     }
   },
   {
@@ -312,9 +312,9 @@
       "Fourth Dimension": 1,
       "Medical Man": 1,
       "New York Mathematical Society": 1,
-      "One": 1,
       "Professor Simon Newcomb": 1,
-      "Provincial Mayor": 1
+      "Provincial Mayor": 1,
+      "Psychologist": 1
     }
   },
   {
@@ -428,28 +428,6 @@
     }
   },
   {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 5,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "\u201cThere I object,\u201d said Filby."
-      }
-    },
-    "co_occurs_with": {
-      "Filby": 1,
-      "Four Dimensions": 1,
-      "Fourth Dimension": 1,
-      "Medical Man": 1,
-      "New York Mathematical Society": 1,
-      "One": 1,
-      "Professor Simon Newcomb": 1,
-      "Provincial Mayor": 1
-    }
-  },
-  {
     "canonical_name": "Silent Man",
     "aliases": [],
     "first_chapter": 3,
@@ -515,8 +493,8 @@
       "Four Dimensions": 1,
       "Fourth Dimension": 1,
       "New York Mathematical Society": 1,
-      "One": 1,
-      "Professor Simon Newcomb": 1
+      "Professor Simon Newcomb": 1,
+      "Psychologist": 1
     }
   },
   {
@@ -578,32 +556,10 @@
       "Four Dimensions": 1,
       "Medical Man": 1,
       "New York Mathematical Society": 1,
-      "One": 1,
       "Professor Simon Newcomb": 1,
       "Provincial Mayor": 1,
-      "Psychologist": 1
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "\u201d exclaimed the Very Young Man."
-      }
-    },
-    "co_occurs_with": {
-      "Filby": 1,
-      "Four Dimensions": 1,
-      "Fourth Dimension": 1,
-      "Medical Man": 1,
-      "New York Mathematical Society": 1,
-      "One": 1,
-      "Professor Simon Newcomb": 1,
-      "Provincial Mayor": 1
+      "Psychologist": 1,
+      "Simon Newcomb": 1
     }
   },
   {
@@ -623,51 +579,9 @@
       "Fourth Dimension": 1,
       "Medical Man": 1,
       "New York Mathematical Society": 1,
-      "One": 1,
-      "Professor Simon Newcomb": 1,
-      "Provincial Mayor": 1
-    }
-  },
-  {
-    "canonical_name": "One",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "\u201cOne might travel back and verify the accepted account of"
-      }
-    },
-    "co_occurs_with": {
-      "Filby": 1,
-      "Four Dimensions": 1,
-      "Fourth Dimension": 1,
-      "Medical Man": 1,
-      "New York Mathematical Society": 1,
       "Professor Simon Newcomb": 1,
       "Provincial Mayor": 1,
       "Psychologist": 1
-    }
-  },
-  {
-    "canonical_name": "Look",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 3,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "Look at the table too, and satisfy yourselves there is no"
-      }
-    },
-    "co_occurs_with": {
-      "Filby": 1,
-      "Medical Man": 1,
-      "Provincial Mayor": 1,
-      "The Psychologist": 1,
-      "Time Machine": 1,
-      "Time Traveller": 1
     }
   },
   {
@@ -720,22 +634,6 @@
       "Central Africa": 1,
       "Eight Hundred Thousand": 1,
       "Golden Age": 1
-    }
-  },
-  {
-    "canonical_name": "Suppose",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 3,
-    "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "\u2018Suppose the worst?"
-      }
-    },
-    "co_occurs_with": {
-      "Time Machine": 1,
-      "White Sphinx": 1
     }
   },
   {

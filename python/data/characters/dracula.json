@@ -86,11 +86,11 @@
       "Dr. Van Helsing": 15,
       "Dr. Seward": 14,
       "Lord Godalming": 14,
-      "Lucy": 12,
       "Madam Mina": 12,
+      "Miss Lucy": 12,
+      "Quincey Morris": 11,
       "Harker": 10,
-      "Mrs. Harker": 10,
-      "Miss Lucy": 10
+      "Mrs. Harker": 10
     }
   },
   {
@@ -169,8 +169,8 @@
       "Dr. Seward": 11,
       "Harker": 10,
       "Mrs. Harker": 10,
-      "Lucy": 10,
-      "Mr. Morris": 9
+      "Mr. Morris": 9,
+      "Quincey Morris": 9
     }
   },
   {
@@ -250,53 +250,43 @@
       "Harker": 9,
       "Mr. Morris": 9,
       "Mrs. Harker": 9,
-      "Lucy": 8
+      "Quincey Morris": 8
     }
   },
   {
-    "canonical_name": "Lucy",
-    "aliases": [],
+    "canonical_name": "Miss Lucy",
+    "aliases": [
+      "Lucy"
+    ],
     "first_chapter": 5,
-    "total_mentions": 123,
+    "total_mentions": 108,
     "per_chapter": {
       "5": {
-        "mentions": 1,
+        "mentions": 3,
         "snippet": "\u201c\u2018Miss Lucy, I know I ain\u2019t good enough to regulate the fixin\u2019s of your"
       },
-      "6": {
-        "mentions": 20,
-        "snippet": "_--Lucy met me at the station, looking sweeter and"
-      },
-      "7": {
-        "mentions": 6,
-        "snippet": "_--Lucy was very restless all night, and I, too, could not"
-      },
-      "8": {
-        "mentions": 43,
-        "snippet": "Lucy, after a while, was in gay spirits, owing, I think, to some"
-      },
       "10": {
-        "mentions": 2,
+        "mentions": 6,
         "snippet": "them might not sit up with Miss Lucy."
       },
       "12": {
-        "mentions": 2,
+        "mentions": 5,
         "snippet": "Miss Lucy."
       },
       "13": {
-        "mentions": 2,
+        "mentions": 6,
         "snippet": "here in the room and in Miss Lucy\u2019s old room all night, and I myself"
       },
       "14": {
-        "mentions": 6,
+        "mentions": 18,
         "snippet": "of Lord Godalming (that was Arthur of Miss Lucy)."
       },
       "15": {
-        "mentions": 7,
+        "mentions": 20,
         "snippet": "concrete truth, and of such a one as Miss Lucy."
       },
       "16": {
-        "mentions": 1,
+        "mentions": 3,
         "snippet": "Was the body of Miss Lucy in that"
       },
       "17": {
@@ -304,15 +294,15 @@
         "snippet": "\u201cI knew you from the description of poor dear Lucy; but----\u201d She stopped"
       },
       "18": {
-        "mentions": 2,
+        "mentions": 6,
         "snippet": "the window of Miss Lucy."
       },
       "19": {
-        "mentions": 1,
+        "mentions": 3,
         "snippet": "by the window, as before at Miss Lucy\u2019s."
       },
       "24": {
-        "mentions": 3,
+        "mentions": 9,
         "snippet": "he think poor Miss Lucy, being as he thought like him, keep open to him."
       },
       "25": {
@@ -320,81 +310,19 @@
         "snippet": "did my poor Lucy\u2019s."
       },
       "27": {
-        "mentions": 1,
+        "mentions": 3,
         "snippet": "Miss Lucy, what would it not be with these strange ones who had survived"
       }
     },
     "co_occurs_with": {
       "Van Helsing": 12,
-      "Miss Lucy": 11,
-      "Lord Godalming": 10,
       "Dr. Van Helsing": 10,
-      "Jonathan": 9,
+      "Lord Godalming": 9,
       "Madam Mina": 9,
       "Dr. Seward": 8,
-      "Westenra": 7
-    }
-  },
-  {
-    "canonical_name": "Jonathan",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 106,
-    "per_chapter": {
-      "5": {
-        "mentions": 7,
-        "snippet": "lately, because I want to keep up with Jonathan\u2019s studies, and I have"
-      },
-      "6": {
-        "mentions": 10,
-        "snippet": "haven\u2019t heard from Jonathan for a whole month."
-      },
-      "9": {
-        "mentions": 6,
-        "snippet": "knew I was coming to Jonathan, and, that as I should have to do some"
-      },
-      "12": {
-        "mentions": 9,
-        "snippet": "\u2019 I cried, Lucy dear, as Jonathan and"
-      },
-      "13": {
-        "mentions": 17,
-        "snippet": "Jonathan sleeping."
-      },
-      "14": {
-        "mentions": 1,
-        "snippet": "Jonathan was a"
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "Jonathan and from the way that all"
-      },
-      "18": {
-        "mentions": 10,
-        "snippet": "next to him on his right, and asked me to act as secretary; Jonathan sat"
-      },
-      "19": {
-        "mentions": 14,
-        "snippet": "\u201cYou know this place, Jonathan."
-      },
-      "21": {
-        "mentions": 7,
-        "snippet": "On the bed beside the window lay Jonathan"
-      },
-      "27": {
-        "mentions": 24,
-        "snippet": "Jonathan, but somehow I have now no fear for him, or for myself."
-      }
-    },
-    "co_occurs_with": {
-      "Lucy": 9,
-      "Van Helsing": 9,
-      "Lord Godalming": 8,
-      "Miss Lucy": 8,
-      "Dr. Seward": 7,
-      "Dr. Van Helsing": 7,
-      "Madam Mina": 7,
-      "Westenra": 6
+      "Quincey Morris": 8,
+      "Mr. Morris": 7,
+      "Harker": 6
     }
   },
   {
@@ -468,7 +396,7 @@
       "Van Helsing": 12,
       "Dr. Seward": 11,
       "Harker": 9,
-      "Lucy": 9,
+      "Miss Lucy": 9,
       "Mr. Morris": 9,
       "Mrs. Harker": 9
     }
@@ -509,14 +437,68 @@
       }
     },
     "co_occurs_with": {
-      "Lucy": 6,
       "Van Helsing": 6,
       "Miss Lucy": 5,
       "Mrs. Westenra": 4,
       "Westenra": 4,
       "Dr. Van Helsing": 4,
       "Quincey Morris": 4,
-      "Mr. Hawkins": 3
+      "Mr. Hawkins": 3,
+      "Dr. Seward": 3
+    }
+  },
+  {
+    "canonical_name": "Jonathan",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 80,
+    "per_chapter": {
+      "5": {
+        "mentions": 7,
+        "snippet": "lately, because I want to keep up with Jonathan\u2019s studies, and I have"
+      },
+      "6": {
+        "mentions": 10,
+        "snippet": "haven\u2019t heard from Jonathan for a whole month."
+      },
+      "9": {
+        "mentions": 6,
+        "snippet": "knew I was coming to Jonathan, and, that as I should have to do some"
+      },
+      "14": {
+        "mentions": 1,
+        "snippet": "Jonathan was a"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "Jonathan and from the way that all"
+      },
+      "18": {
+        "mentions": 10,
+        "snippet": "next to him on his right, and asked me to act as secretary; Jonathan sat"
+      },
+      "19": {
+        "mentions": 14,
+        "snippet": "\u201cYou know this place, Jonathan."
+      },
+      "21": {
+        "mentions": 7,
+        "snippet": "On the bed beside the window lay Jonathan"
+      },
+      "27": {
+        "mentions": 24,
+        "snippet": "Jonathan, but somehow I have now no fear for him, or for myself."
+      }
+    },
+    "co_occurs_with": {
+      "Lord Godalming": 7,
+      "Dr. Seward": 7,
+      "Van Helsing": 7,
+      "Dr. Van Helsing": 6,
+      "Madam Mina": 6,
+      "Miss Lucy": 6,
+      "Quincey Morris": 5,
+      "Renfield": 4
     }
   },
   {
@@ -576,7 +558,7 @@
       "Harker": 8,
       "Mrs. Harker": 8,
       "Dr. Van Helsing": 8,
-      "Lucy": 7
+      "Miss Lucy": 7
     }
   },
   {
@@ -638,7 +620,7 @@
       "Dr. Van Helsing": 9,
       "Madam Mina": 9,
       "Mr. Morris": 8,
-      "Lucy": 6
+      "Miss Lucy": 6
     }
   },
   {
@@ -696,7 +678,7 @@
       "Dr. Van Helsing": 9,
       "Madam Mina": 9,
       "Mr. Morris": 8,
-      "Lucy": 6
+      "Miss Lucy": 6
     }
   },
   {
@@ -741,8 +723,8 @@
       "Madam Mina": 6,
       "Van Helsing": 6,
       "Jonathan": 4,
-      "Harker": 4,
-      "Mrs. Harker": 4
+      "Quincey Morris": 4,
+      "Harker": 4
     }
   },
   {
@@ -817,10 +799,10 @@
       "Lord Godalming": 13,
       "Dr. Seward": 12,
       "Madam Mina": 12,
-      "Lucy": 10,
+      "Miss Lucy": 10,
       "Harker": 9,
       "Mrs. Harker": 9,
-      "Miss Lucy": 8
+      "Mr. Morris": 8
     }
   },
   {
@@ -851,76 +833,14 @@
       }
     },
     "co_occurs_with": {
+      "Quincey Morris": 5,
       "Van Helsing": 5,
       "Dr. Van Helsing": 4,
-      "Jonathan": 4,
       "Lord Godalming": 4,
       "Madam Mina": 4,
-      "Quincey Morris": 4,
       "Count": 3,
-      "Dr. Seward": 3
-    }
-  },
-  {
-    "canonical_name": "Miss Lucy",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 54,
-    "per_chapter": {
-      "5": {
-        "mentions": 2,
-        "snippet": "\u201c\u2018Miss Lucy, I know I ain\u2019t good enough to regulate the fixin\u2019s of your"
-      },
-      "10": {
-        "mentions": 4,
-        "snippet": "them might not sit up with Miss Lucy."
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "Miss Lucy."
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "here in the room and in Miss Lucy\u2019s old room all night, and I myself"
-      },
-      "14": {
-        "mentions": 12,
-        "snippet": "of Lord Godalming (that was Arthur of Miss Lucy)."
-      },
-      "15": {
-        "mentions": 13,
-        "snippet": "concrete truth, and of such a one as Miss Lucy."
-      },
-      "16": {
-        "mentions": 2,
-        "snippet": "Was the body of Miss Lucy in that"
-      },
-      "18": {
-        "mentions": 4,
-        "snippet": "the window of Miss Lucy."
-      },
-      "19": {
-        "mentions": 2,
-        "snippet": "by the window, as before at Miss Lucy\u2019s."
-      },
-      "24": {
-        "mentions": 6,
-        "snippet": "he think poor Miss Lucy, being as he thought like him, keep open to him."
-      },
-      "27": {
-        "mentions": 2,
-        "snippet": "Miss Lucy, what would it not be with these strange ones who had survived"
-      }
-    },
-    "co_occurs_with": {
-      "Lucy": 11,
-      "Van Helsing": 10,
-      "Dr. Van Helsing": 8,
-      "Jonathan": 8,
-      "Dr. Seward": 7,
-      "Lord Godalming": 7,
-      "Madam Mina": 7,
-      "Quincey Morris": 7
+      "Dr. Seward": 3,
+      "Miss Lucy": 3
     }
   },
   {
@@ -965,14 +885,14 @@
       }
     },
     "co_occurs_with": {
-      "Lucy": 5,
       "Mrs. Westenra": 5,
       "Westenra": 5,
-      "Jonathan": 4,
       "Peter Hawkins": 4,
       "Lord Godalming": 3,
       "Mr. Holmwood": 3,
-      "Arthur": 3
+      "Arthur": 3,
+      "Miss Lucy": 3,
+      "Van Helsing": 3
     }
   },
   {
@@ -1020,9 +940,9 @@
       "Van Helsing": 6,
       "Harker": 5,
       "Mrs. Harker": 5,
-      "Lucy": 5,
       "Dr. Van Helsing": 5,
-      "Madam Mina": 5
+      "Madam Mina": 5,
+      "Mr. Morris": 4
     }
   },
   {
@@ -1045,14 +965,82 @@
       }
     },
     "co_occurs_with": {
-      "Lucy": 3,
       "Miss Lucy": 3,
       "Quincey Morris": 3,
       "Van Helsing": 3,
       "Dr. Van Helsing": 2,
       "Jonathan": 2,
       "Lord Godalming": 2,
-      "Arthur": 2
+      "Arthur": 2,
+      "The Professor": 2
+    }
+  },
+  {
+    "canonical_name": "Quincey Morris",
+    "aliases": [
+      "Quincey"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 31,
+    "per_chapter": {
+      "5": {
+        "mentions": 1,
+        "snippet": "Quincey P."
+      },
+      "12": {
+        "mentions": 4,
+        "snippet": "relief and joy to my heart, for they were those of Quincey Morris."
+      },
+      "13": {
+        "mentions": 1,
+        "snippet": "taken Quincey Morris with him."
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "\u201cMe too,\u201d said Quincey Morris laconically."
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "Quincey Morris:--"
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "Quincey Morris, laconically as usual."
+      },
+      "20": {
+        "mentions": 3,
+        "snippet": "\u201cQuincey\u2019s head is level."
+      },
+      "21": {
+        "mentions": 9,
+        "snippet": "Quincey in pajamas and slippers: the former spoke:--"
+      },
+      "22": {
+        "mentions": 2,
+        "snippet": "It was immediately opened by Quincey Morris, beside whom stood"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "the coming of Godalming and Quincey Morris."
+      },
+      "24": {
+        "mentions": 1,
+        "snippet": "Quincey Morris, Jonathan"
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "day as that on which Quincey Morris died."
+      }
+    },
+    "co_occurs_with": {
+      "Van Helsing": 11,
+      "Lord Godalming": 9,
+      "Dr. Seward": 8,
+      "Dr. Van Helsing": 8,
+      "Madam Mina": 8,
+      "Miss Lucy": 8,
+      "Mr. Morris": 6,
+      "Harker": 5
     }
   },
   {
@@ -1100,51 +1088,13 @@
     },
     "co_occurs_with": {
       "Mrs. Westenra": 8,
-      "Lucy": 7,
       "Van Helsing": 7,
-      "Jonathan": 6,
       "Mr. Hawkins": 5,
       "Dr. Van Helsing": 5,
       "Miss Lucy": 5,
-      "Dr. Seward": 5
-    }
-  },
-  {
-    "canonical_name": "Quincey",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 21,
-    "per_chapter": {
-      "5": {
-        "mentions": 1,
-        "snippet": "Quincey P."
-      },
-      "20": {
-        "mentions": 3,
-        "snippet": "\u201cQuincey\u2019s head is level."
-      },
-      "21": {
-        "mentions": 9,
-        "snippet": "Quincey in pajamas and slippers: the former spoke:--"
-      },
-      "25": {
-        "mentions": 5,
-        "snippet": "Quincey"
-      },
-      "26": {
-        "mentions": 3,
-        "snippet": "Quincey raised his eyebrows slightly and looked at her intently, whilst"
-      }
-    },
-    "co_occurs_with": {
-      "Dr. Seward": 4,
-      "Harker": 4,
-      "Lord Godalming": 4,
-      "Mr. Morris": 4,
-      "Mrs. Harker": 4,
-      "Van Helsing": 4,
-      "Madam Mina": 4,
-      "Dr. Van Helsing": 3
+      "Dr. Seward": 5,
+      "Jonathan": 4,
+      "Lord Godalming": 4
     }
   },
   {
@@ -1188,13 +1138,13 @@
     },
     "co_occurs_with": {
       "Westenra": 8,
-      "Lucy": 6,
       "Van Helsing": 6,
-      "Jonathan": 5,
       "Mr. Hawkins": 5,
       "Arthur": 4,
       "Dr. Van Helsing": 4,
-      "Miss Lucy": 4
+      "Miss Lucy": 4,
+      "Dr. Seward": 4,
+      "Lucy Westenra": 4
     }
   },
   {
@@ -1225,94 +1175,6 @@
       "Madam Mina": 3,
       "Mr. Morris": 3,
       "Mrs. Harker": 3
-    }
-  },
-  {
-    "canonical_name": "Quincey Morris",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 18,
-    "per_chapter": {
-      "12": {
-        "mentions": 4,
-        "snippet": "relief and joy to my heart, for they were those of Quincey Morris."
-      },
-      "13": {
-        "mentions": 1,
-        "snippet": "taken Quincey Morris with him."
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "\u201cMe too,\u201d said Quincey Morris laconically."
-      },
-      "16": {
-        "mentions": 2,
-        "snippet": "Quincey Morris:--"
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "Quincey Morris, laconically as usual."
-      },
-      "22": {
-        "mentions": 2,
-        "snippet": "It was immediately opened by Quincey Morris, beside whom stood"
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "the coming of Godalming and Quincey Morris."
-      },
-      "24": {
-        "mentions": 1,
-        "snippet": "Quincey Morris, Jonathan"
-      },
-      "27": {
-        "mentions": 1,
-        "snippet": "day as that on which Quincey Morris died."
-      }
-    },
-    "co_occurs_with": {
-      "Van Helsing": 9,
-      "Dr. Van Helsing": 7,
-      "Lord Godalming": 7,
-      "Lucy": 7,
-      "Miss Lucy": 7,
-      "Madam Mina": 6,
-      "Dr. Seward": 5,
-      "Jonathan": 5
-    }
-  },
-  {
-    "canonical_name": "Later",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 18,
-    "per_chapter": {
-      "17": {
-        "mentions": 4,
-        "snippet": "_Later."
-      },
-      "20": {
-        "mentions": 3,
-        "snippet": "Later in the day he sent for me."
-      },
-      "24": {
-        "mentions": 6,
-        "snippet": "_Later."
-      },
-      "26": {
-        "mentions": 5,
-        "snippet": "_Later."
-      }
-    },
-    "co_occurs_with": {
-      "Dr. Seward": 4,
-      "Harker": 4,
-      "Lord Godalming": 4,
-      "Mr. Morris": 4,
-      "Mrs. Harker": 4,
-      "Van Helsing": 4,
-      "Count Dracula": 3,
-      "Dr. Van Helsing": 3
     }
   },
   {
@@ -1361,14 +1223,14 @@
       }
     },
     "co_occurs_with": {
-      "Lucy": 3,
       "Miss Lucy": 3,
       "The Professor": 3,
       "Van Helsing": 3,
-      "Come": 2,
       "Dr. Seward": 2,
       "Dr. Van Helsing": 2,
-      "Quincey Morris": 2
+      "Quincey Morris": 2,
+      "Arthur": 2,
+      "Professor. It": 2
     }
   },
   {
@@ -1402,33 +1264,33 @@
     }
   },
   {
-    "canonical_name": "Here",
+    "canonical_name": "Later",
     "aliases": [],
-    "first_chapter": 13,
+    "first_chapter": 17,
     "total_mentions": 15,
     "per_chapter": {
-      "13": {
+      "17": {
         "mentions": 4,
-        "snippet": "Here was a poor girl"
+        "snippet": "_Later."
       },
-      "20": {
-        "mentions": 3,
-        "snippet": "\u201d Here I handed him my card."
+      "24": {
+        "mentions": 6,
+        "snippet": "_Later."
       },
       "26": {
-        "mentions": 8,
-        "snippet": "Here she stopped."
+        "mentions": 5,
+        "snippet": "_Later."
       }
     },
     "co_occurs_with": {
+      "Count Dracula": 3,
+      "Dr. Seward": 3,
+      "Dr. Van Helsing": 3,
+      "Harker": 3,
+      "Journal": 3,
       "Lord Godalming": 3,
-      "Van Helsing": 3,
-      "Dr. Seward": 2,
-      "Harker": 2,
-      "Later": 2,
-      "Mr. Morris": 2,
-      "Mrs. Harker": 2,
-      "Quincey": 2
+      "Madam Mina": 3,
+      "Mr. Morris": 3
     }
   },
   {
@@ -1461,8 +1323,8 @@
       "Harker": 3,
       "Mr. Morris": 3,
       "Mrs. Harker": 3,
-      "Renfield": 3,
-      "Dr. Van Helsing": 3
+      "Quincey Morris": 3,
+      "Renfield": 3
     }
   },
   {
@@ -1534,7 +1396,7 @@
       "Lord Godalming": 5,
       "Madam Mina": 5,
       "Mrs. Harker": 5,
-      "Lucy": 4
+      "Miss Lucy": 4
     }
   },
   {
@@ -1559,12 +1421,12 @@
     "co_occurs_with": {
       "Jonathan": 3,
       "Lord Godalming": 2,
-      "Lucy": 2,
       "Mrs. Westenra": 2,
       "Renfield": 2,
       "Westenra": 2,
       "Dr. Seward": 2,
-      "Professor Van Helsing": 2
+      "Professor Van Helsing": 2,
+      "Van Helsing": 2
     }
   },
   {
@@ -1592,9 +1454,9 @@
       "Westenra": 3,
       "Dr. Van Helsing": 2,
       "Jonathan": 2,
-      "Lucy": 2,
       "Miss Lucy": 2,
-      "The Professor": 2
+      "The Professor": 2,
+      "Hillingham": 2
     }
   },
   {
@@ -1653,14 +1515,14 @@
       }
     },
     "co_occurs_with": {
-      "Lucy": 4,
-      "Jonathan": 3,
       "Mr. Hawkins": 3,
       "Mrs. Westenra": 3,
       "Westenra": 3,
+      "Jonathan": 2,
       "Mr. Swales": 2,
       "Renfield": 2,
-      "Arthur": 2
+      "Arthur": 2,
+      "Jack Seward": 2
     }
   },
   {
@@ -1685,74 +1547,14 @@
       }
     },
     "co_occurs_with": {
-      "Lucy": 3,
       "Mr. Hawkins": 2,
       "Mr. Holmwood": 2,
       "Mrs. Westenra": 2,
       "Renfield": 2,
       "Westenra": 2,
       "East Cliff": 2,
-      "Robin Hood": 2
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 12,
-    "per_chapter": {
-      "12": {
-        "mentions": 5,
-        "snippet": "recuperative energy, he went on: \u201cCome."
-      },
-      "16": {
-        "mentions": 4,
-        "snippet": "\u201cCome to me, Arthur."
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "\u201cCome, sir, bethink yourself."
-      }
-    },
-    "co_occurs_with": {
-      "Lucy": 3,
-      "Miss Lucy": 3,
-      "Quincey Morris": 3,
-      "Van Helsing": 3,
-      "John": 2,
-      "Jonathan": 2,
-      "Patrick Hennessey": 2,
-      "The Professor": 2
-    }
-  },
-  {
-    "canonical_name": "Let",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 11,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "_--Let me begin with facts--bare, meagre facts, verified by"
-      },
-      "18": {
-        "mentions": 4,
-        "snippet": "task, he said cheerfully: \u201cLet the lady come in,\u201d and sat down on the"
-      },
-      "21": {
-        "mentions": 4,
-        "snippet": "_--Let me put down with exactness all that happened, as well"
-      }
-    },
-    "co_occurs_with": {
-      "Dr. Seward": 2,
-      "Dr. Van Helsing": 2,
-      "Harker": 2,
-      "Jonathan": 2,
-      "Lord Godalming": 2,
-      "Madam Mina": 2,
-      "Mr. Renfield": 2,
-      "Mrs. Harker": 2
+      "Robin Hood": 2,
+      "West Cliff": 2
     }
   },
   {
@@ -1869,12 +1671,12 @@
     "co_occurs_with": {
       "Van Helsing": 5,
       "Dr. Seward": 4,
-      "Jonathan": 4,
-      "Lucy": 4,
       "Miss Lucy": 4,
       "Mrs. Westenra": 4,
       "Westenra": 4,
-      "John Seward": 3
+      "John Seward": 3,
+      "Jonathan": 3,
+      "Quincey Morris": 3
     }
   },
   {
@@ -1919,12 +1721,12 @@
     "co_occurs_with": {
       "Van Helsing": 8,
       "Dr. Van Helsing": 7,
-      "Lucy": 6,
+      "Miss Lucy": 6,
       "Lord Godalming": 5,
       "Dr. Seward": 5,
-      "Miss Lucy": 5,
       "Madam Mina": 4,
-      "Quincey Morris": 4
+      "Quincey Morris": 4,
+      "Friend John": 3
     }
   },
   {
@@ -2156,6 +1958,32 @@
     }
   },
   {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 8,
+    "per_chapter": {
+      "12": {
+        "mentions": 5,
+        "snippet": "recuperative energy, he went on: \u201cCome."
+      },
+      "18": {
+        "mentions": 3,
+        "snippet": "\u201cCome, sir, bethink yourself."
+      }
+    },
+    "co_occurs_with": {
+      "Miss Lucy": 2,
+      "Patrick Hennessey": 2,
+      "Quincey Morris": 2,
+      "Van Helsing": 2,
+      "Dr. Hennessey": 1,
+      "Dr. Seward": 1,
+      "Dr. Van Helsing": 1,
+      "Evil One": 1
+    }
+  },
+  {
     "canonical_name": "Friend John",
     "aliases": [],
     "first_chapter": 13,
@@ -2185,34 +2013,12 @@
     "co_occurs_with": {
       "Dr. Van Helsing": 5,
       "Lord Godalming": 5,
-      "Lucy": 5,
+      "Miss Lucy": 5,
       "Van Helsing": 5,
       "Madam Mina": 4,
-      "Miss Lucy": 4,
       "Harker": 3,
-      "Mr. Morris": 3
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 22,
-    "total_mentions": 8,
-    "per_chapter": {
-      "22": {
-        "mentions": 8,
-        "snippet": "\u201cThere must be no concealment,\u201d she said, \u201cAlas!"
-      }
-    },
-    "co_occurs_with": {
-      "Arlington Street": 1,
-      "Carfax": 1,
-      "Count": 1,
-      "Dr. Seward": 1,
-      "Dr. Van Helsing": 1,
-      "Fenchurch Street": 1,
-      "Friend Quincey": 1,
-      "Green Park": 1
+      "Mr. Morris": 3,
+      "Mrs. Harker": 3
     }
   },
   {
@@ -2256,35 +2062,9 @@
       "Count Dracula": 4,
       "Dr. Van Helsing": 4,
       "Lord Godalming": 4,
-      "Lucy": 4,
       "Mr. Morris": 4,
-      "Mrs. Harker": 4
-    }
-  },
-  {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 18,
-    "total_mentions": 7,
-    "per_chapter": {
-      "18": {
-        "mentions": 4,
-        "snippet": "All affairs are settled with me, and I have"
-      },
-      "26": {
-        "mentions": 3,
-        "snippet": "\u201cAll is dark."
-      }
-    },
-    "co_occurs_with": {
-      "Dr. Seward": 2,
-      "Dr. Van Helsing": 2,
-      "Harker": 2,
-      "Lord Godalming": 2,
-      "Madam Mina": 2,
-      "Mr. Morris": 2,
-      "Mrs. Harker": 2,
-      "Professor Van Helsing": 2
+      "Mrs. Harker": 4,
+      "Van Helsing": 4
     }
   },
   {
@@ -2397,14 +2177,14 @@
       }
     },
     "co_occurs_with": {
-      "Lucy": 2,
       "Mr. Hawkins": 2,
       "Mrs. Westenra": 2,
       "Westenra": 2,
       "Arthur": 1,
       "Casino Terrace": 1,
       "Cross": 1,
-      "Dear Madam": 1
+      "Dear Madam": 1,
+      "Dear Sirs": 1
     }
   },
   {
@@ -2458,32 +2238,6 @@
     }
   },
   {
-    "canonical_name": "Not",
-    "aliases": [],
-    "first_chapter": 15,
-    "total_mentions": 6,
-    "per_chapter": {
-      "15": {
-        "mentions": 3,
-        "snippet": "(Not delivered."
-      },
-      "19": {
-        "mentions": 3,
-        "snippet": "\u201cNot at all,\u201d I answered."
-      }
-    },
-    "co_occurs_with": {
-      "Dr. Van Helsing": 2,
-      "Friend John": 2,
-      "Jonathan": 2,
-      "Lord Godalming": 2,
-      "Lucy": 2,
-      "Miss Lucy": 2,
-      "The Professor": 2,
-      "Van Helsing": 2
-    }
-  },
-  {
     "canonical_name": "Mr. Billington",
     "aliases": [
       "Billington"
@@ -2497,14 +2251,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Almighty God": 1,
       "Berkeley Hotel": 1,
       "Carfax": 1,
       "Carter Paterson": 1,
       "Count Dracula": 1,
       "Dr. Seward": 1,
-      "Dr. Van Helsing": 1
+      "Dr. Van Helsing": 1,
+      "Fenchurch Street": 1
     }
   },
   {
@@ -2560,7 +2314,7 @@
       "Harker": 2,
       "Jonathan Harker": 2,
       "Lord Godalming": 2,
-      "Lucy": 2
+      "Madam Mina": 2
     }
   },
   {
@@ -2575,14 +2329,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Bistritza": 1,
       "Black Sea": 1,
       "Borgo Pass": 1,
       "Captain Donelson": 1,
       "Consul": 1,
       "Count Dracula": 1,
-      "Czarina": 1
+      "Czarina": 1,
+      "Deil": 1
     }
   },
   {
@@ -2597,14 +2351,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Black Sea": 1,
       "Borgo Pass": 1,
       "Captain Donelson": 1,
       "Consul": 1,
       "Count Dracula": 1,
       "Czarina": 1,
-      "Deil": 1
+      "Deil": 1,
+      "Dr. Seward": 1
     }
   },
   {
@@ -2665,11 +2419,11 @@
       }
     },
     "co_occurs_with": {
-      "Jonathan": 4,
-      "Lucy": 4,
       "Miss Lucy": 4,
       "Dr. Seward": 3,
+      "Jonathan": 3,
       "Madam Mina": 3,
+      "Quincey Morris": 3,
       "Van Helsing": 3,
       "Lucy Westenra": 3,
       "Count": 2
@@ -2695,12 +2449,12 @@
       }
     },
     "co_occurs_with": {
-      "Jonathan": 3,
       "Dr. Seward": 2,
-      "Lucy": 2,
+      "Jonathan": 2,
       "Lucy Westenra": 2,
       "Madam Mina": 2,
       "Miss Lucy": 2,
+      "Quincey Morris": 2,
       "Mrs. Westenra": 2,
       "Van Helsing": 2
     }
@@ -2725,14 +2479,14 @@
       }
     },
     "co_occurs_with": {
-      "Lucy": 2,
       "Miss Wilhelmina Murray": 2,
       "Mr. Swales": 2,
       "Mrs. Westenra": 2,
       "Robin Hood": 2,
       "Sister Agatha": 2,
       "West Cliff": 2,
-      "Westenra": 2
+      "Westenra": 2,
+      "Arthur": 1
     }
   },
   {
@@ -2755,72 +2509,6 @@
       "Dr. Seward": 1,
       "East Cliff": 1,
       "Great Eastern Hotel": 1
-    }
-  },
-  {
-    "canonical_name": "Are",
-    "aliases": [],
-    "first_chapter": 15,
-    "total_mentions": 5,
-    "per_chapter": {
-      "15": {
-        "mentions": 5,
-        "snippet": "\u201cAre you satisfied now, friend"
-      }
-    },
-    "co_occurs_with": {
-      "Arthur": 1,
-      "Berkeley Hotel": 1,
-      "Dead": 1,
-      "Dr. Van Helsing": 1,
-      "Dr. Vincent": 1,
-      "Friend John": 1,
-      "Good God": 1,
-      "Hampstead Heath": 1
-    }
-  },
-  {
-    "canonical_name": "After",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 5,
-    "per_chapter": {
-      "17": {
-        "mentions": 5,
-        "snippet": "_--After I had tidied myself, I went down to Dr."
-      }
-    },
-    "co_occurs_with": {
-      "Almighty God": 1,
-      "Berkeley Hotel": 1,
-      "Carfax": 1,
-      "Carter Paterson": 1,
-      "Count Dracula": 1,
-      "Dr. Seward": 1,
-      "Dr. Van Helsing": 1,
-      "Fenchurch Street": 1
-    }
-  },
-  {
-    "canonical_name": "Good",
-    "aliases": [],
-    "first_chapter": 18,
-    "total_mentions": 5,
-    "per_chapter": {
-      "18": {
-        "mentions": 5,
-        "snippet": "\u201cGood-evening, Mr."
-      }
-    },
-    "co_occurs_with": {
-      "All": 1,
-      "Come": 1,
-      "Dr. Hennessey": 1,
-      "Dr. Seward": 1,
-      "Dr. Van Helsing": 1,
-      "Evil One": 1,
-      "Harker": 1,
-      "John": 1
     }
   },
   {
@@ -2883,14 +2571,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Bistritza": 1,
       "Black Sea": 1,
       "Borgo Pass": 1,
       "Captain Donelson": 1,
       "Consul": 1,
       "Count Dracula": 1,
-      "Czarina": 1
+      "Czarina": 1,
+      "Deil": 1
     }
   },
   {
@@ -2905,14 +2593,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Bistritza": 1,
       "Black Sea": 1,
       "Borgo Pass": 1,
       "Captain Donelson": 1,
       "Consul": 1,
       "Count Dracula": 1,
-      "Czarina": 1
+      "Czarina": 1,
+      "Deil": 1
     }
   },
   {
@@ -2960,11 +2648,11 @@
       "Harker": 3,
       "Carfax": 2,
       "Dr. Seward": 2,
-      "Later": 2,
       "Lord Godalming": 2,
       "Mr. Morris": 2,
       "Mrs. Harker": 2,
-      "Renfield": 2
+      "Renfield": 2,
+      "Van Helsing": 2
     }
   },
   {
@@ -3033,12 +2721,12 @@
     "co_occurs_with": {
       "Van Helsing": 3,
       "Dr. Seward": 2,
-      "Lucy": 2,
       "Miss Lucy": 2,
       "Professor Van Helsing": 2,
       "Quincey Morris": 2,
-      "Jonathan": 2,
-      "Lucy Westenra": 2
+      "Lucy Westenra": 2,
+      "Mrs. Westenra": 2,
+      "Westenra": 2
     }
   },
   {
@@ -3086,28 +2774,6 @@
     }
   },
   {
-    "canonical_name": "Thomas",
-    "aliases": [],
-    "first_chapter": 11,
-    "total_mentions": 4,
-    "per_chapter": {
-      "11": {
-        "mentions": 4,
-        "snippet": "Thomas Bilder lives in one of the cottages in"
-      }
-    },
-    "co_occurs_with": {
-      "Bersicker": 1,
-      "Diary": 1,
-      "Dr. Seward": 1,
-      "Dr. Van Helsing": 1,
-      "Lucy Westenra": 1,
-      "Mr. Bilder": 1,
-      "Mrs. Tom": 1,
-      "Mrs. Westenra": 1
-    }
-  },
-  {
     "canonical_name": "Jack",
     "aliases": [],
     "first_chapter": 13,
@@ -3120,13 +2786,13 @@
     },
     "co_occurs_with": {
       "Arthur Holmwood": 1,
-      "Because": 1,
       "Bloofer Lady": 1,
       "Dr. Van Helsing": 1,
       "Ellen Terry": 1,
       "Friend John": 1,
       "Green Park": 1,
-      "Hampstead Heath": 1
+      "Hampstead Heath": 1,
+      "Hampstead Hill": 1
     }
   },
   {
@@ -3143,14 +2809,14 @@
       }
     },
     "co_occurs_with": {
-      "Are": 1,
       "Arthur": 1,
       "Berkeley Hotel": 1,
       "Dead": 1,
       "Dr. Van Helsing": 1,
       "Friend John": 1,
       "Good God": 1,
-      "Hampstead Heath": 1
+      "Hampstead Heath": 1,
+      "Jack Straw": 1
     }
   },
   {
@@ -3166,13 +2832,13 @@
     },
     "co_occurs_with": {
       "Arthur": 1,
-      "Come": 1,
       "Dead": 1,
       "Eastern Europe": 1,
       "Great Scott": 1,
       "John": 1,
-      "Lucy": 1,
-      "Lucy Westenra": 1
+      "Lucy Westenra": 1,
+      "Miss Lucy": 1,
+      "Professor. It": 1
     }
   },
   {
@@ -3242,50 +2908,6 @@
     }
   },
   {
-    "canonical_name": "With",
-    "aliases": [],
-    "first_chapter": 23,
-    "total_mentions": 4,
-    "per_chapter": {
-      "23": {
-        "mentions": 4,
-        "snippet": "With a swift glance around the room, he at once"
-      }
-    },
-    "co_occurs_with": {
-      "Arthur": 1,
-      "Carfax": 1,
-      "Count": 1,
-      "Dr. Seward": 1,
-      "Dr. Van Helsing": 1,
-      "Harker": 1,
-      "Hush": 1,
-      "Jonathan Harker": 1
-    }
-  },
-  {
-    "canonical_name": "Vice",
-    "aliases": [],
-    "first_chapter": 25,
-    "total_mentions": 4,
-    "per_chapter": {
-      "25": {
-        "mentions": 4,
-        "snippet": "Vice-Consul, and to arrange, if we can, about getting on board the ship"
-      }
-    },
-    "co_occurs_with": {
-      "Black Sea": 1,
-      "Burial Service": 1,
-      "Charing Cross": 1,
-      "Consul": 1,
-      "Czarina": 1,
-      "Danube": 1,
-      "Dardanelles": 1,
-      "Dr. Van Helsing": 1
-    }
-  },
-  {
     "canonical_name": "Deil",
     "aliases": [],
     "first_chapter": 26,
@@ -3297,14 +2919,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Bistritza": 1,
       "Black Sea": 1,
       "Borgo Pass": 1,
       "Captain Donelson": 1,
       "Consul": 1,
       "Count Dracula": 1,
-      "Czarina": 1
+      "Czarina": 1,
+      "Dr. Seward": 1
     }
   },
   {
@@ -3316,28 +2938,6 @@
       "27": {
         "mentions": 4,
         "snippet": "the Holy circle."
-      }
-    },
-    "co_occurs_with": {
-      "Abraham Van Helsing": 1,
-      "Alphabetical List": 1,
-      "Borgo Pass": 1,
-      "Count": 1,
-      "Dead": 1,
-      "Dr. Seward": 1,
-      "Dr. Van Helsing": 1,
-      "Dracula": 1
-    }
-  },
-  {
-    "canonical_name": "See",
-    "aliases": [],
-    "first_chapter": 27,
-    "total_mentions": 4,
-    "per_chapter": {
-      "27": {
-        "mentions": 4,
-        "snippet": "hand and drew me in: \u201cSee!"
       }
     },
     "co_occurs_with": {
@@ -3375,10 +2975,10 @@
       "Jonathan Harker": 2,
       "Madam Mina": 2,
       "Lord Godalming": 2,
-      "Lucy": 2,
       "Bistritz": 1,
       "Borgo Pass": 1,
-      "Borgo Prund": 1
+      "Borgo Prund": 1,
+      "British Museum": 1
     }
   },
   {
@@ -3470,7 +3070,7 @@
       "Herr Leutner": 1,
       "Herren Klopstock": 1,
       "Hungarian": 1,
-      "Let": 1
+      "Mr. Hawkins": 1
     }
   },
   {
@@ -3492,7 +3092,7 @@
       "Herr Leutner": 1,
       "Herren Klopstock": 1,
       "Hungarian": 1,
-      "Let": 1
+      "Mr. Hawkins": 1
     }
   },
   {
@@ -3513,8 +3113,8 @@
       "Four Nations": 1,
       "Herr Leutner": 1,
       "Herren Klopstock": 1,
-      "Let": 1,
-      "Mr. Hawkins": 1
+      "Mr. Hawkins": 1,
+      "Mr. Peter Hawkins": 1
     }
   },
   {
@@ -3534,13 +3134,13 @@
     },
     "co_occurs_with": {
       "John Seward": 2,
-      "Jonathan": 2,
-      "Lucy": 2,
       "Lucy Westenra": 2,
       "Miss Lucy": 2,
       "Mr. Holmwood": 2,
+      "Quincey Morris": 2,
       "Arthur Holmwood": 1,
-      "Dr. John Seward": 1
+      "Dr. John Seward": 1,
+      "Dr. Seward": 1
     }
   },
   {
@@ -3650,13 +3250,13 @@
     },
     "co_occurs_with": {
       "East Cliff": 2,
-      "Lucy": 2,
       "Mr. Swales": 2,
       "West Cliff": 2,
       "Arthur": 1,
       "Casino Terrace": 1,
       "Cross": 1,
-      "Dear Madam": 1
+      "Dear Madam": 1,
+      "Dear Sirs": 1
     }
   },
   {
@@ -3817,14 +3417,14 @@
       }
     },
     "co_occurs_with": {
-      "Jonathan": 3,
       "Van Helsing": 3,
       "Arthur": 2,
       "Count": 2,
       "Dr. Seward": 2,
       "Dr. Van Helsing": 2,
       "Good God": 2,
-      "Harker": 2
+      "Harker": 2,
+      "John Seward": 2
     }
   },
   {
@@ -3845,12 +3445,12 @@
     "co_occurs_with": {
       "Dr. Van Helsing": 2,
       "Friend John": 2,
-      "Jonathan": 2,
       "Lord Godalming": 2,
-      "Lucy": 2,
       "Miss Lucy": 2,
       "Quincey Morris": 2,
-      "Van Helsing": 2
+      "Van Helsing": 2,
+      "Arthur Holmwood": 1,
+      "Bloofer Lady": 1
     }
   },
   {
@@ -3875,34 +3475,12 @@
     "co_occurs_with": {
       "Dr. Van Helsing": 3,
       "Lord Godalming": 3,
-      "Lucy": 3,
       "Madam Mina": 3,
+      "Miss Lucy": 3,
       "Van Helsing": 3,
       "Dr. Seward": 2,
       "Harker": 2,
       "Mrs. Harker": 2
-    }
-  },
-  {
-    "canonical_name": "Because",
-    "aliases": [],
-    "first_chapter": 13,
-    "total_mentions": 3,
-    "per_chapter": {
-      "13": {
-        "mentions": 3,
-        "snippet": "\u201cBecause,\u201d he said sternly, \u201cit is too late--or too early."
-      }
-    },
-    "co_occurs_with": {
-      "Arthur Holmwood": 1,
-      "Bloofer Lady": 1,
-      "Dr. Van Helsing": 1,
-      "Ellen Terry": 1,
-      "Friend John": 1,
-      "Green Park": 1,
-      "Hampstead Heath": 1,
-      "Hampstead Hill": 1
     }
   },
   {
@@ -3953,34 +3531,12 @@
     "co_occurs_with": {
       "Dr. Van Helsing": 2,
       "Lord Godalming": 2,
-      "Lucy": 2,
+      "Miss Lucy": 2,
       "Van Helsing": 2,
-      "After": 1,
       "Almighty God": 1,
       "Carfax": 1,
-      "Carter Paterson": 1
-    }
-  },
-  {
-    "canonical_name": "Tell",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 3,
-    "per_chapter": {
-      "16": {
-        "mentions": 3,
-        "snippet": "\u2019 Tell me if there be"
-      }
-    },
-    "co_occurs_with": {
-      "Arthur": 1,
-      "Come": 1,
-      "Dead": 1,
-      "Eastern Europe": 1,
-      "Great Scott": 1,
-      "John": 1,
-      "Lucy": 1,
-      "Lucy Westenra": 1
+      "Carter Paterson": 1,
+      "Count Dracula": 1
     }
   },
   {
@@ -4003,10 +3559,10 @@
       "Dr. Van Helsing": 2,
       "Harker": 2,
       "Lord Godalming": 2,
-      "Lucy": 2,
       "Madam Mina": 2,
       "Miss Lucy": 2,
-      "Mr. Morris": 2
+      "Mr. Morris": 2,
+      "Mrs. Harker": 2
     }
   },
   {
@@ -4076,50 +3632,6 @@
     }
   },
   {
-    "canonical_name": "Hush",
-    "aliases": [],
-    "first_chapter": 23,
-    "total_mentions": 3,
-    "per_chapter": {
-      "23": {
-        "mentions": 3,
-        "snippet": "Hush, there is no time now."
-      }
-    },
-    "co_occurs_with": {
-      "Arthur": 1,
-      "Carfax": 1,
-      "Count": 1,
-      "Dr. Seward": 1,
-      "Dr. Van Helsing": 1,
-      "Harker": 1,
-      "Jonathan Harker": 1,
-      "Lord Arthur": 1
-    }
-  },
-  {
-    "canonical_name": "Nay",
-    "aliases": [],
-    "first_chapter": 25,
-    "total_mentions": 3,
-    "per_chapter": {
-      "25": {
-        "mentions": 3,
-        "snippet": "\u201cNay,\u201d she said, holding up a warning hand."
-      }
-    },
-    "co_occurs_with": {
-      "Black Sea": 1,
-      "Burial Service": 1,
-      "Charing Cross": 1,
-      "Consul": 1,
-      "Czarina": 1,
-      "Danube": 1,
-      "Dardanelles": 1,
-      "Dr. Van Helsing": 1
-    }
-  },
-  {
     "canonical_name": "Lloyd",
     "aliases": [],
     "first_chapter": 25,
@@ -4177,14 +3689,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Bistritza": 1,
       "Black Sea": 1,
       "Borgo Pass": 1,
       "Consul": 1,
       "Count Dracula": 1,
       "Czarina": 1,
-      "Deil": 1
+      "Deil": 1,
+      "Dr. Seward": 1
     }
   },
   {
@@ -4199,14 +3711,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Bistritza": 1,
       "Black Sea": 1,
       "Borgo Pass": 1,
       "Captain Donelson": 1,
       "Consul": 1,
       "Count Dracula": 1,
-      "Czarina": 1
+      "Czarina": 1,
+      "Deil": 1
     }
   },
   {
@@ -4221,14 +3733,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "Bistritza": 1,
       "Black Sea": 1,
       "Borgo Pass": 1,
       "Captain Donelson": 1,
       "Consul": 1,
       "Count Dracula": 1,
-      "Czarina": 1
+      "Czarina": 1,
+      "Deil": 1
     }
   },
   {

@@ -115,8 +115,20 @@ def build_user_prompt(
     current_chapter: int,
     chunks: List[Dict[str, Any]],
     memory: Optional[str] = None,
+    total_chapters: Optional[int] = None,
 ) -> str:
-    parts = [f"Current chapter: {current_chapter}"]
+    if total_chapters and current_chapter >= total_chapters:
+        chapter_line = (
+            f"Current chapter: {current_chapter} of {total_chapters} "
+            f"(this is the FINAL chapter — there is no 'later' in this book)"
+        )
+    elif total_chapters:
+        chapter_line = (
+            f"Current chapter: {current_chapter} of {total_chapters}"
+        )
+    else:
+        chapter_line = f"Current chapter: {current_chapter}"
+    parts = [chapter_line]
     if memory:
         parts.append(
             "Reader memory (a SHORT rolling summary of past discussions about this book — "
@@ -326,7 +338,21 @@ def answer(
         if mem and mem.get("summary"):
             memory_text = mem["summary"]
 
-    user_prompt = build_user_prompt(question, current_chapter, chunks, memory=memory_text)
+    # Look up total chapters for this book so the LLM can recognize when the
+    # reader is on the final chapter (no "later" content exists).
+    total_chapters = None
+    if book_id:
+        try:
+            import json as _json
+            book_path = Path(__file__).resolve().parent.parent / "data" / "books" / f"{book_id}.json"
+            with open(book_path) as _f:
+                _book = _json.load(_f)
+            total_chapters = len(_book.get("chapters") or [])
+        except Exception:
+            total_chapters = None
+
+    user_prompt = build_user_prompt(question, current_chapter, chunks,
+                                     memory=memory_text, total_chapters=total_chapters)
 
     out: Dict[str, Any] = {
         "question": question,

@@ -74,7 +74,7 @@
       "Mr. Claypole": 5,
       "Noah Claypole": 5,
       "Mr. Sowerberry": 4,
-      "Charlotte": 4
+      "Mr. Brownlow": 4
     }
   },
   {
@@ -152,7 +152,7 @@
       "Mr. Claypole": 5,
       "Noah Claypole": 5,
       "Mr. Sowerberry": 4,
-      "Charlotte": 4
+      "Mr. Brownlow": 4
     }
   },
   {
@@ -227,7 +227,7 @@
     "canonical_name": "Oliver",
     "aliases": [],
     "first_chapter": 9,
-    "total_mentions": 287,
+    "total_mentions": 281,
     "per_chapter": {
       "9": {
         "mentions": 37,
@@ -252,10 +252,6 @@
       "22": {
         "mentions": 25,
         "snippet": "you get on first,\u201d said Sikes, putting Oliver in front of him."
-      },
-      "30": {
-        "mentions": 6,
-        "snippet": "bedside, gathered Oliver\u2019s hair from his face."
       },
       "31": {
         "mentions": 9,
@@ -295,14 +291,14 @@
       }
     },
     "co_occurs_with": {
-      "Maylie": 8,
-      "Mr. Losberne": 8,
-      "Mrs. Maylie": 7,
-      "Fagin": 6,
+      "Maylie": 7,
+      "Mr. Losberne": 7,
       "Harry Maylie": 6,
-      "Rose": 6,
-      "Mr. Giles": 5,
-      "Bill Sikes": 4
+      "Mrs. Maylie": 6,
+      "Fagin": 6,
+      "Mr. Brownlow": 4,
+      "Rose": 4,
+      "Mr. Giles": 4
     }
   },
   {
@@ -432,10 +428,10 @@
       "Maylie": 7,
       "Mr. Losberne": 7,
       "Mrs. Maylie": 7,
-      "Oliver": 5,
       "Rose": 5,
       "Brittles": 4,
       "Harry Maylie": 4,
+      "Oliver": 4,
       "Miss Rose": 3
     }
   },
@@ -443,7 +439,7 @@
     "canonical_name": "Sikes",
     "aliases": [],
     "first_chapter": 13,
-    "total_mentions": 159,
+    "total_mentions": 153,
     "per_chapter": {
       "13": {
         "mentions": 10,
@@ -501,10 +497,6 @@
         "mentions": 20,
         "snippet": "disappointment at the loss of his revenge on Sikes; the fear of"
       },
-      "48": {
-        "mentions": 6,
-        "snippet": "\u201d cried Sikes starting up."
-      },
       "50": {
         "mentions": 11,
         "snippet": "and Sikes\u2019s dog bounded into the room."
@@ -516,9 +508,9 @@
       "Jew": 10,
       "Mr. Fagin": 8,
       "Nancy": 8,
-      "There": 7,
-      "Not": 6,
-      "Toby Crackit": 6
+      "Toby Crackit": 6,
+      "Bill Sikes": 5,
+      "Miss Nancy": 5
     }
   },
   {
@@ -571,72 +563,6 @@
       "Mr. Fagin": 5,
       "Master Charles Bates": 4,
       "Artful Dodger": 4
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 133,
-    "per_chapter": {
-      "1": {
-        "mentions": 8,
-        "snippet": "The fact is, that there was considerable"
-      },
-      "13": {
-        "mentions": 9,
-        "snippet": "The young thieves eyed their preceptor as if they were alarmed at his"
-      },
-      "22": {
-        "mentions": 12,
-        "snippet": "The speaker appeared to throw a boot-jack, or some such article, at the"
-      },
-      "24": {
-        "mentions": 17,
-        "snippet": "The cares, and sorrows, and hungerings, of the world, change"
-      },
-      "25": {
-        "mentions": 10,
-        "snippet": "The countenance of the"
-      },
-      "27": {
-        "mentions": 8,
-        "snippet": "The top"
-      },
-      "32": {
-        "mentions": 17,
-        "snippet": "The quiet place, the pure air, and all the pleasure and"
-      },
-      "41": {
-        "mentions": 6,
-        "snippet": "The servant"
-      },
-      "42": {
-        "mentions": 6,
-        "snippet": "The"
-      },
-      "47": {
-        "mentions": 9,
-        "snippet": "The bell rang gently as he spoke."
-      },
-      "49": {
-        "mentions": 10,
-        "snippet": "The twilight was beginning to close in, when Mr."
-      },
-      "51": {
-        "mentions": 21,
-        "snippet": "The events narrated in the last chapter were yet but two days old, when"
-      }
-    },
-    "co_occurs_with": {
-      "Oliver Twist": 4,
-      "Maylie": 4,
-      "Mr. Brownlow": 4,
-      "Mr. Losberne": 4,
-      "Fagin": 4,
-      "Sikes": 4,
-      "There": 4,
-      "Noah Claypole": 3
     }
   },
   {
@@ -829,62 +755,12 @@
     "co_occurs_with": {
       "Maylie": 12,
       "Mrs. Maylie": 10,
-      "Rose": 8,
-      "Oliver": 8,
+      "Rose": 7,
       "Harry Maylie": 7,
       "Mr. Giles": 7,
+      "Oliver": 7,
       "Mr. Brownlow": 5,
       "Miss Rose": 4
-    }
-  },
-  {
-    "canonical_name": "Rose",
-    "aliases": [],
-    "first_chapter": 29,
-    "total_mentions": 84,
-    "per_chapter": {
-      "29": {
-        "mentions": 2,
-        "snippet": "\u201cAnd you, Miss Rose,\u201d said the doctor, turning to the young lady, \u201cI\u2014\u201d"
-      },
-      "30": {
-        "mentions": 1,
-        "snippet": "to be hard-hearted today, except yourself, Miss Rose."
-      },
-      "31": {
-        "mentions": 9,
-        "snippet": "Maylie and Rose looked on, with anxious faces."
-      },
-      "32": {
-        "mentions": 1,
-        "snippet": "Miss Rose made her appearance: when there were a thousand commendations"
-      },
-      "33": {
-        "mentions": 13,
-        "snippet": "Rose had been in high spirits, too, and they had walked on,"
-      },
-      "34": {
-        "mentions": 1,
-        "snippet": "Miss Rose!"
-      },
-      "35": {
-        "mentions": 34,
-        "snippet": "Meanwhile, Rose was rapidly recovering."
-      },
-      "51": {
-        "mentions": 23,
-        "snippet": "and Rose, and Mrs."
-      }
-    },
-    "co_occurs_with": {
-      "Maylie": 8,
-      "Mr. Losberne": 8,
-      "Mrs. Maylie": 8,
-      "Oliver": 6,
-      "Mr. Giles": 5,
-      "Miss Rose": 4,
-      "Harry Maylie": 4,
-      "Brittles": 3
     }
   },
   {
@@ -1011,12 +887,58 @@
     "co_occurs_with": {
       "Mr. Losberne": 12,
       "Mrs. Maylie": 10,
-      "Rose": 8,
-      "Oliver": 8,
+      "Rose": 7,
       "Harry Maylie": 7,
       "Mr. Giles": 7,
+      "Oliver": 7,
       "Mr. Brownlow": 5,
       "Miss Maylie": 4
+    }
+  },
+  {
+    "canonical_name": "Rose",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 71,
+    "per_chapter": {
+      "29": {
+        "mentions": 2,
+        "snippet": "\u201cAnd you, Miss Rose,\u201d said the doctor, turning to the young lady, \u201cI\u2014\u201d"
+      },
+      "30": {
+        "mentions": 1,
+        "snippet": "to be hard-hearted today, except yourself, Miss Rose."
+      },
+      "31": {
+        "mentions": 9,
+        "snippet": "Maylie and Rose looked on, with anxious faces."
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "Miss Rose made her appearance: when there were a thousand commendations"
+      },
+      "34": {
+        "mentions": 1,
+        "snippet": "Miss Rose!"
+      },
+      "35": {
+        "mentions": 34,
+        "snippet": "Meanwhile, Rose was rapidly recovering."
+      },
+      "51": {
+        "mentions": 23,
+        "snippet": "and Rose, and Mrs."
+      }
+    },
+    "co_occurs_with": {
+      "Maylie": 7,
+      "Mr. Losberne": 7,
+      "Mrs. Maylie": 7,
+      "Mr. Giles": 5,
+      "Miss Rose": 4,
+      "Oliver": 4,
+      "Harry Maylie": 3,
+      "Brittles": 3
     }
   },
   {
@@ -1052,9 +974,9 @@
       "Mrs. Sowerberry": 5,
       "Oliver Twist": 5,
       "Mr. Sowerberry": 4,
-      "Charlotte": 4,
       "Mr. Claypole": 4,
-      "Noah Claypole": 4
+      "Noah Claypole": 4,
+      "Charlotte": 3
     }
   },
   {
@@ -1095,12 +1017,12 @@
     "co_occurs_with": {
       "Maylie": 3,
       "Mr. Brownlow": 3,
-      "Not": 3,
-      "Fagin": 3,
       "Nancy": 3,
-      "Edward Leeford": 2,
-      "Mr. Losberne": 2,
-      "The": 2
+      "Fagin": 3,
+      "Bumble": 2,
+      "Mr. Bumble": 2,
+      "Mr. Monks": 2,
+      "Mrs. Bumble": 2
     }
   },
   {
@@ -1143,8 +1065,8 @@
     "co_occurs_with": {
       "Noah Claypole": 6,
       "Bumble": 5,
-      "Charlotte": 5,
       "Mr. Bumble": 5,
+      "Charlotte": 4,
       "Mrs. Sowerberry": 4,
       "Oliver Twist": 4,
       "Sowerberry": 4,
@@ -1180,9 +1102,9 @@
       "Mr. Bumble": 3,
       "Oliver Twist": 3,
       "Mr. Corney": 2,
-      "The": 2,
       "Dear": 1,
-      "Hard": 1
+      "Hard": 1,
+      "Mr. Grannett": 1
     }
   },
   {
@@ -1214,9 +1136,9 @@
       "Mr. Bumble": 3,
       "Oliver Twist": 3,
       "Mr. Corney": 2,
-      "The": 2,
       "Dear": 1,
-      "Hard": 1
+      "Hard": 1,
+      "Mr. Grannett": 1
     }
   },
   {
@@ -1321,10 +1243,10 @@
     "co_occurs_with": {
       "Maylie": 10,
       "Mr. Losberne": 10,
-      "Rose": 8,
+      "Rose": 7,
       "Mr. Giles": 7,
-      "Oliver": 7,
       "Harry Maylie": 6,
+      "Oliver": 6,
       "Miss Rose": 4,
       "Mr. Brownlow": 4
     }
@@ -1364,72 +1286,6 @@
     }
   },
   {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 53,
-    "per_chapter": {
-      "10": {
-        "mentions": 3,
-        "snippet": "There had been no handkerchiefs to work upon, for two"
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "There was a long pause."
-      },
-      "17": {
-        "mentions": 4,
-        "snippet": "There was an abstraction in"
-      },
-      "19": {
-        "mentions": 3,
-        "snippet": "\u201cThere,\u201d said Sikes, smacking his lips."
-      },
-      "22": {
-        "mentions": 4,
-        "snippet": "\u201cThere\u2019s Bill Sikes in the passage"
-      },
-      "35": {
-        "mentions": 5,
-        "snippet": "There were not even the traces of recent"
-      },
-      "38": {
-        "mentions": 3,
-        "snippet": "\u201cThere is a blank left for the surname; and then follows the date;"
-      },
-      "42": {
-        "mentions": 6,
-        "snippet": "\u201cThere!"
-      },
-      "44": {
-        "mentions": 6,
-        "snippet": "\u201cThere never"
-      },
-      "46": {
-        "mentions": 3,
-        "snippet": "\u201cThere is nothing unusual in that,\u201d said the gentleman."
-      },
-      "47": {
-        "mentions": 3,
-        "snippet": "\u201cThere!"
-      },
-      "50": {
-        "mentions": 9,
-        "snippet": "There was a short silence, after which Toby Crackit, seeming to abandon"
-      }
-    },
-    "co_occurs_with": {
-      "Sikes": 7,
-      "Fagin": 6,
-      "Jew": 5,
-      "Mr. Sikes": 4,
-      "Nancy": 4,
-      "Oliver": 4,
-      "The": 4,
-      "Not": 4
-    }
-  },
-  {
     "canonical_name": "Mr. Chitling",
     "aliases": [
       "Chitling"
@@ -1463,44 +1319,6 @@
       "Master Charles Bates": 3,
       "Mr. Dawkins": 3,
       "Mr. Fagin": 3
-    }
-  },
-  {
-    "canonical_name": "Charlotte",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 48,
-    "per_chapter": {
-      "5": {
-        "mentions": 4,
-        "snippet": "\u201cCome near the fire, Noah,\u201d said Charlotte."
-      },
-      "6": {
-        "mentions": 11,
-        "snippet": "Charlotte treated him ill, because Noah"
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "Charlotte; and then missis."
-      },
-      "27": {
-        "mentions": 9,
-        "snippet": "Close beside him stood Charlotte, opening oysters from a barrel: which"
-      },
-      "42": {
-        "mentions": 21,
-        "snippet": "What a lazybones yer are, Charlotte."
-      }
-    },
-    "co_occurs_with": {
-      "Mr. Claypole": 5,
-      "Noah Claypole": 5,
-      "Bumble": 4,
-      "Mr. Bumble": 4,
-      "Mrs. Sowerberry": 4,
-      "Oliver Twist": 4,
-      "Sowerberry": 4,
-      "Mr. Sowerberry": 3
     }
   },
   {
@@ -1607,126 +1425,10 @@
       "Jew": 4,
       "Sikes": 4,
       "Nancy": 3,
-      "There": 2,
       "Monks": 2,
       "Mr. Fagin": 2,
-      "Mr. Sikes": 2
-    }
-  },
-  {
-    "canonical_name": "Not",
-    "aliases": [],
-    "first_chapter": 19,
-    "total_mentions": 41,
-    "per_chapter": {
-      "19": {
-        "mentions": 5,
-        "snippet": "\u201cNot at all,\u201d replied Sikes coldly."
-      },
-      "21": {
-        "mentions": 3,
-        "snippet": "\u201cNot a bit of it,\u201d replied Sikes, interposing."
-      },
-      "27": {
-        "mentions": 4,
-        "snippet": "\u201cNot for the world!"
-      },
-      "28": {
-        "mentions": 4,
-        "snippet": "Not that it was Mr."
-      },
-      "38": {
-        "mentions": 5,
-        "snippet": "\u201cNot all the rain that ever fell,"
-      },
-      "39": {
-        "mentions": 8,
-        "snippet": "\u201cNot long gone seven,\u201d said the girl."
-      },
-      "42": {
-        "mentions": 3,
-        "snippet": "Not near; so don\u2019t think"
-      },
-      "43": {
-        "mentions": 3,
-        "snippet": "Not quite so bad."
-      },
-      "44": {
-        "mentions": 3,
-        "snippet": "\u201cNot far."
-      },
-      "51": {
-        "mentions": 3,
-        "snippet": "\u201cNot aunt,\u201d cried Oliver, throwing his arms about her neck; \u201cI\u2019ll never"
-      }
-    },
-    "co_occurs_with": {
-      "Sikes": 6,
-      "Fagin": 5,
-      "Jew": 5,
-      "Mr. Sikes": 4,
-      "Toby Crackit": 4,
-      "Mr. Fagin": 4,
-      "There": 4,
-      "With": 4
-    }
-  },
-  {
-    "canonical_name": "Nancy",
-    "aliases": [],
-    "first_chapter": 13,
-    "total_mentions": 40,
-    "per_chapter": {
-      "13": {
-        "mentions": 2,
-        "snippet": "being provided from the Jew\u2019s inexhaustible stock,\u2014Miss Nancy prepared"
-      },
-      "15": {
-        "mentions": 1,
-        "snippet": "half closing of his deeply-set eyes, warned Miss Nancy that she was"
-      },
-      "16": {
-        "mentions": 2,
-        "snippet": "Nancy\u2019s rage; and, shrinking involuntarily back a few paces, cast a"
-      },
-      "19": {
-        "mentions": 2,
-        "snippet": "Miss Nancy to fetch him a jug of beer."
-      },
-      "20": {
-        "mentions": 13,
-        "snippet": "It was Nancy."
-      },
-      "26": {
-        "mentions": 4,
-        "snippet": "\u201cNancy, dear!"
-      },
-      "39": {
-        "mentions": 1,
-        "snippet": "emergency; for Miss Nancy\u2019s hysterics were usually of that violent kind"
-      },
-      "41": {
-        "mentions": 3,
-        "snippet": "Brownlow\u2019s house; reserving Nancy\u2019s information for that gentleman\u2019s"
-      },
-      "44": {
-        "mentions": 7,
-        "snippet": "girl Nancy could not wholly conceal the effect which the knowledge of"
-      },
-      "46": {
-        "mentions": 5,
-        "snippet": "\u201cNot here,\u201d said Nancy hurriedly, \u201cI am afraid to speak to you here."
-      }
-    },
-    "co_occurs_with": {
-      "Fagin": 8,
-      "Sikes": 8,
-      "Jew": 7,
-      "Mr. Sikes": 7,
-      "Mr. Fagin": 6,
-      "Miss Nancy": 5,
-      "Bill Sikes": 4,
-      "Mr. William Sikes": 4
+      "Mr. Sikes": 2,
+      "Toby Crackit": 2
     }
   },
   {
@@ -1849,8 +1551,96 @@
       "Mrs. Bedwin": 6,
       "Mrs. Sowerberry": 5,
       "Sowerberry": 5,
-      "The": 4,
-      "Mr. Sowerberry": 4
+      "Mr. Sowerberry": 4,
+      "Mr. Claypole": 4
+    }
+  },
+  {
+    "canonical_name": "Charlotte",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 37,
+    "per_chapter": {
+      "5": {
+        "mentions": 4,
+        "snippet": "\u201cCome near the fire, Noah,\u201d said Charlotte."
+      },
+      "7": {
+        "mentions": 3,
+        "snippet": "Charlotte; and then missis."
+      },
+      "27": {
+        "mentions": 9,
+        "snippet": "Close beside him stood Charlotte, opening oysters from a barrel: which"
+      },
+      "42": {
+        "mentions": 21,
+        "snippet": "What a lazybones yer are, Charlotte."
+      }
+    },
+    "co_occurs_with": {
+      "Mr. Claypole": 4,
+      "Noah Claypole": 4,
+      "Bumble": 3,
+      "Mr. Bumble": 3,
+      "Mrs. Sowerberry": 3,
+      "Oliver Twist": 3,
+      "Sowerberry": 3,
+      "Mr. Sowerberry": 2
+    }
+  },
+  {
+    "canonical_name": "Nancy",
+    "aliases": [],
+    "first_chapter": 13,
+    "total_mentions": 37,
+    "per_chapter": {
+      "13": {
+        "mentions": 2,
+        "snippet": "being provided from the Jew\u2019s inexhaustible stock,\u2014Miss Nancy prepared"
+      },
+      "15": {
+        "mentions": 1,
+        "snippet": "half closing of his deeply-set eyes, warned Miss Nancy that she was"
+      },
+      "16": {
+        "mentions": 2,
+        "snippet": "Nancy\u2019s rage; and, shrinking involuntarily back a few paces, cast a"
+      },
+      "19": {
+        "mentions": 2,
+        "snippet": "Miss Nancy to fetch him a jug of beer."
+      },
+      "20": {
+        "mentions": 13,
+        "snippet": "It was Nancy."
+      },
+      "26": {
+        "mentions": 4,
+        "snippet": "\u201cNancy, dear!"
+      },
+      "39": {
+        "mentions": 1,
+        "snippet": "emergency; for Miss Nancy\u2019s hysterics were usually of that violent kind"
+      },
+      "44": {
+        "mentions": 7,
+        "snippet": "girl Nancy could not wholly conceal the effect which the knowledge of"
+      },
+      "46": {
+        "mentions": 5,
+        "snippet": "\u201cNot here,\u201d said Nancy hurriedly, \u201cI am afraid to speak to you here."
+      }
+    },
+    "co_occurs_with": {
+      "Fagin": 8,
+      "Sikes": 8,
+      "Jew": 7,
+      "Mr. Sikes": 7,
+      "Mr. Fagin": 6,
+      "Miss Nancy": 5,
+      "Bill Sikes": 4,
+      "Mr. William Sikes": 4
     }
   },
   {
@@ -1886,9 +1676,9 @@
       "Oliver Twist": 5,
       "Sowerberry": 5,
       "Mr. Sowerberry": 4,
-      "Charlotte": 4,
       "Mr. Claypole": 4,
-      "Noah Claypole": 4
+      "Noah Claypole": 4,
+      "Charlotte": 3
     }
   },
   {
@@ -1978,9 +1768,9 @@
       "Mrs. Sowerberry": 4,
       "Oliver Twist": 4,
       "Sowerberry": 4,
-      "Charlotte": 3,
       "Mr. Claypole": 3,
-      "Noah Claypole": 3
+      "Noah Claypole": 3,
+      "Charlotte": 2
     }
   },
   {
@@ -2012,9 +1802,9 @@
       "Mr. Losberne": 3,
       "Mrs. Maylie": 3,
       "Rose": 3,
-      "Miss Rose": 2,
       "Mr. Brittles": 2,
-      "Oliver": 2
+      "Miss Rose": 2,
+      "Mr. Crackit": 1
     }
   },
   {
@@ -2048,7 +1838,7 @@
       "Mr. Fagin": 3,
       "Bill Sikes": 2,
       "Nancy": 2,
-      "Saffron Hill": 2
+      "Three Cripples": 2
     }
   },
   {
@@ -2096,12 +1886,12 @@
     "co_occurs_with": {
       "Sikes": 6,
       "Fagin": 5,
-      "Not": 4,
       "Mr. Crackit": 4,
-      "Mr. Sikes": 4,
       "Jew": 4,
       "Mr. Fagin": 4,
-      "The": 3
+      "Mr. Sikes": 4,
+      "Not": 3,
+      "Charley Bates": 3
     }
   },
   {
@@ -2130,54 +1920,8 @@
       "Mr. Bolter": 3,
       "Mr. Claypole": 2,
       "Mr. Fagin": 2,
-      "Not": 2,
-      "With": 2
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 27,
-    "per_chapter": {
-      "3": {
-        "mentions": 5,
-        "snippet": "Come!"
-      },
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cCome near the fire, Noah,\u201d said Charlotte."
-      },
-      "10": {
-        "mentions": 3,
-        "snippet": "\u201cCome, get up,\u201d said the man, roughly."
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "\u201cCome, let go o\u2019 me, will you!"
-      },
-      "14": {
-        "mentions": 3,
-        "snippet": "\u201cCome!"
-      },
-      "16": {
-        "mentions": 4,
-        "snippet": "Come on, and don\u2019t stand"
-      },
-      "39": {
-        "mentions": 5,
-        "snippet": "\u201cCome!"
-      }
-    },
-    "co_occurs_with": {
-      "Charley Bates": 4,
-      "Bumble": 3,
-      "Mr. Bumble": 3,
-      "Oliver Twist": 3,
-      "Fagin": 3,
-      "Miss Nancy": 3,
-      "Mr. Fagin": 3,
-      "Mr. Sikes": 3
+      "Barney": 1,
+      "Battle Bridge": 1
     }
   },
   {
@@ -2264,8 +2008,8 @@
       "Morris Bolter": 3,
       "Mr. Claypole": 2,
       "Mr. Fagin": 2,
-      "Not": 2,
-      "With": 2
+      "Barney": 1,
+      "Battle Bridge": 1
     }
   },
   {
@@ -2341,52 +2085,6 @@
     }
   },
   {
-    "canonical_name": "With",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 24,
-    "per_chapter": {
-      "16": {
-        "mentions": 6,
-        "snippet": "With its first stroke, his two conductors stopped, and turned"
-      },
-      "37": {
-        "mentions": 3,
-        "snippet": "With these words, Mr."
-      },
-      "38": {
-        "mentions": 3,
-        "snippet": "With which the head disappeared, and the door closed."
-      },
-      "39": {
-        "mentions": 3,
-        "snippet": "With an exclamation of surprise, Fagin hastened to the girl\u2019s"
-      },
-      "41": {
-        "mentions": 3,
-        "snippet": "With her attention not a little distracted by these and a great many"
-      },
-      "42": {
-        "mentions": 3,
-        "snippet": "\u201d With these injunctions, he"
-      },
-      "43": {
-        "mentions": 3,
-        "snippet": "With this expression of feeling for his unfortunate friend, Master"
-      }
-    },
-    "co_occurs_with": {
-      "Fagin": 4,
-      "Jew": 4,
-      "Mr. Fagin": 4,
-      "Not": 4,
-      "Nancy": 3,
-      "Don": 3,
-      "Mr. Sikes": 3,
-      "Sikes": 3
-    }
-  },
-  {
     "canonical_name": "Mrs. Bumble",
     "aliases": [],
     "first_chapter": 37,
@@ -2412,10 +2110,10 @@
     "co_occurs_with": {
       "Bumble": 4,
       "Mr. Bumble": 4,
-      "With": 2,
+      "Monks": 2,
+      "Not": 2,
       "Harry Maylie": 2,
       "Maylie": 2,
-      "Monks": 2,
       "Mr. Brownlow": 2,
       "Mr. Grimwig": 2
     }
@@ -2450,72 +2148,46 @@
       "Mrs. Bedwin": 2,
       "Mrs. Maylie": 2,
       "Oliver Twist": 2,
-      "The": 2,
-      "Harry Maylie": 2
+      "Harry Maylie": 2,
+      "Chertsey Bridge": 1
     }
   },
   {
-    "canonical_name": "Don",
+    "canonical_name": "Not",
     "aliases": [],
-    "first_chapter": 14,
+    "first_chapter": 19,
     "total_mentions": 21,
     "per_chapter": {
-      "14": {
-        "mentions": 7,
-        "snippet": "\u201cDon\u2019t be"
+      "19": {
+        "mentions": 5,
+        "snippet": "\u201cNot at all,\u201d replied Sikes coldly."
+      },
+      "27": {
+        "mentions": 4,
+        "snippet": "\u201cNot for the world!"
+      },
+      "28": {
+        "mentions": 4,
+        "snippet": "Not that it was Mr."
       },
       "38": {
-        "mentions": 3,
-        "snippet": "\u201cDon\u2019t keep me here!"
-      },
-      "39": {
         "mentions": 5,
-        "snippet": "Don\u2019t stand snivelling there."
+        "snippet": "\u201cNot all the rain that ever fell,"
       },
-      "42": {
+      "51": {
         "mentions": 3,
-        "snippet": "Don\u2019t make as much noise as a mouse, my dear, and let me hear \u2019em"
-      },
-      "50": {
-        "mentions": 3,
-        "snippet": "\u201cDon\u2019t leave us in the dark,\u201d said Kags, taking down a candle from the"
+        "snippet": "\u201cNot aunt,\u201d cried Oliver, throwing his arms about her neck; \u201cI\u2019ll never"
       }
     },
     "co_occurs_with": {
-      "Fagin": 3,
-      "Not": 3,
-      "Sikes": 3,
-      "There": 3,
-      "With": 3,
-      "Bumble": 2,
-      "Come": 2,
-      "Mr. Bumble": 2
-    }
-  },
-  {
-    "canonical_name": "Noah",
-    "aliases": [],
-    "first_chapter": 43,
-    "total_mentions": 19,
-    "per_chapter": {
-      "43": {
-        "mentions": 6,
-        "snippet": "hand on Noah\u2019s arm."
-      },
-      "45": {
-        "mentions": 13,
-        "snippet": "\u201cWell, here I am,\u201d returned Noah."
-      }
-    },
-    "co_occurs_with": {
-      "Bolter": 2,
-      "Fagin": 2,
-      "Jew": 2,
-      "Morris Bolter": 2,
-      "Mr. Bolter": 2,
-      "Artful Dodger": 1,
-      "Bow Street": 1,
-      "Charley Bates": 1
+      "Bumble": 3,
+      "Mr. Bumble": 3,
+      "Toby Crackit": 3,
+      "Oliver Twist": 2,
+      "Sikes": 2,
+      "Monks": 2,
+      "Mrs. Bumble": 2,
+      "Charlotte": 1
     }
   },
   {
@@ -2540,6 +2212,40 @@
       "Mr. Brittles": 1,
       "Mr. Chickweed": 1,
       "Mr. Conkey Chickweed": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 15,
+    "per_chapter": {
+      "3": {
+        "mentions": 5,
+        "snippet": "Come!"
+      },
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cCome near the fire, Noah,\u201d said Charlotte."
+      },
+      "10": {
+        "mentions": 3,
+        "snippet": "\u201cCome, get up,\u201d said the man, roughly."
+      },
+      "16": {
+        "mentions": 4,
+        "snippet": "Come on, and don\u2019t stand"
+      }
+    },
+    "co_occurs_with": {
+      "Bumble": 2,
+      "Mr. Bumble": 2,
+      "Oliver Twist": 2,
+      "Charley Bates": 2,
+      "Jew": 2,
+      "Master Bates": 2,
+      "Oliver": 2,
+      "High Street": 1
     }
   },
   {
@@ -2581,37 +2287,33 @@
     }
   },
   {
-    "canonical_name": "Here",
+    "canonical_name": "Don",
     "aliases": [],
-    "first_chapter": 22,
+    "first_chapter": 14,
     "total_mentions": 15,
     "per_chapter": {
-      "22": {
-        "mentions": 4,
-        "snippet": "\u201cHere!"
-      },
-      "28": {
-        "mentions": 4,
-        "snippet": "Here the rain began to fall so heavily, that it roused"
+      "14": {
+        "mentions": 7,
+        "snippet": "\u201cDon\u2019t be"
       },
       "39": {
-        "mentions": 3,
-        "snippet": "\u201cHere; lend us a hand, and let me get off this thundering"
+        "mentions": 5,
+        "snippet": "Don\u2019t stand snivelling there."
       },
-      "52": {
-        "mentions": 4,
-        "snippet": "Here, he was searched, that he might not have about him the means of"
+      "50": {
+        "mentions": 3,
+        "snippet": "\u201cDon\u2019t leave us in the dark,\u201d said Kags, taking down a candle from the"
       }
     },
     "co_occurs_with": {
-      "Mr. Crackit": 3,
-      "Sikes": 3,
-      "Toby Crackit": 3,
-      "Not": 2,
-      "Mr. Sikes": 2,
-      "Mr. Toby Crackit": 2,
-      "Oliver": 2,
-      "Fagin": 2
+      "Charley Bates": 2,
+      "Fagin": 2,
+      "Mr. Chitling": 2,
+      "Sikes": 2,
+      "Toby Crackit": 2,
+      "Bumble": 1,
+      "Mr. Brownlow": 1,
+      "Mr. Bumble": 1
     }
   },
   {
@@ -2713,9 +2415,28 @@
       "Mrs. Maylie": 6,
       "Oliver": 6,
       "Mr. Giles": 4,
-      "Rose": 4,
       "Mr. Brownlow": 3,
-      "Mr. Grimwig": 3
+      "Mr. Grimwig": 3,
+      "Rose": 3
+    }
+  },
+  {
+    "canonical_name": "Noah",
+    "aliases": [],
+    "first_chapter": 45,
+    "total_mentions": 13,
+    "per_chapter": {
+      "45": {
+        "mentions": 13,
+        "snippet": "\u201cWell, here I am,\u201d returned Noah."
+      }
+    },
+    "co_occurs_with": {
+      "Bolter": 1,
+      "Fagin": 1,
+      "Jew": 1,
+      "Morris Bolter": 1,
+      "Mr. Bolter": 1
     }
   },
   {
@@ -2760,34 +2481,12 @@
     "co_occurs_with": {
       "Mr. Claypole": 6,
       "Bumble": 5,
-      "Charlotte": 5,
       "Mr. Bumble": 5,
+      "Charlotte": 4,
       "Mrs. Sowerberry": 4,
       "Oliver Twist": 4,
       "Sowerberry": 4,
       "Mr. Sowerberry": 3
-    }
-  },
-  {
-    "canonical_name": "Stop",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 11,
-    "per_chapter": {
-      "10": {
-        "mentions": 11,
-        "snippet": "depredator; and shouting \u201cStop thief!"
-      }
-    },
-    "co_occurs_with": {
-      "Charley Bates": 1,
-      "Come": 1,
-      "Jew": 1,
-      "Master Bates": 1,
-      "Master Charley Bates": 1,
-      "Oliver": 1,
-      "The Green": 1,
-      "There": 1
     }
   },
   {
@@ -2803,13 +2502,13 @@
     },
     "co_occurs_with": {
       "Bumble": 1,
-      "Charlotte": 1,
       "Mr. Bumble": 1,
       "Mr. Claypole": 1,
       "Mr. Sowerberry": 1,
       "Mrs. Sowerberry": 1,
       "Noah Claypole": 1,
-      "Oliver Twist": 1
+      "Oliver Twist": 1,
+      "Sowerberry": 1
     }
   },
   {
@@ -2846,64 +2545,66 @@
       "Jew": 4,
       "Master Bates": 4,
       "Mr. Fagin": 4,
-      "Betsy": 3,
-      "Mr. Chitling": 3
+      "Mr. Chitling": 3,
+      "Mr. Dawkins": 3
     }
   },
   {
-    "canonical_name": "Never",
+    "canonical_name": "With",
     "aliases": [],
-    "first_chapter": 17,
+    "first_chapter": 38,
     "total_mentions": 9,
     "per_chapter": {
-      "17": {
-        "mentions": 4,
-        "snippet": "\u201cNever!"
-      },
-      "19": {
-        "mentions": 5,
-        "snippet": "\u201cNever mind which part it is."
-      }
-    },
-    "co_occurs_with": {
-      "There": 2,
-      "Bumble": 1,
-      "Clerkinwell Sessions": 1,
-      "Dick": 1,
-      "High Street": 1,
-      "Is Mr": 1,
-      "Mann": 1,
-      "Mr. Brownlow": 1
-    }
-  },
-  {
-    "canonical_name": "Good",
-    "aliases": [],
-    "first_chapter": 19,
-    "total_mentions": 9,
-    "per_chapter": {
-      "19": {
+      "38": {
         "mentions": 3,
-        "snippet": "\u201cGood,\u201d said the Jew; \u201cthere\u2019s no moon."
+        "snippet": "With which the head disappeared, and the door closed."
+      },
+      "39": {
+        "mentions": 3,
+        "snippet": "With an exclamation of surprise, Fagin hastened to the girl\u2019s"
       },
       "42": {
         "mentions": 3,
-        "snippet": "\u201cGood stuff that,\u201d observed Mr."
-      },
-      "46": {
-        "mentions": 3,
-        "snippet": "\u201cGood,\u201d said the gentleman."
+        "snippet": "\u201d With these injunctions, he"
       }
     },
     "co_occurs_with": {
-      "There": 3,
+      "Monks": 2,
       "Fagin": 2,
       "Jew": 2,
       "Mr. Fagin": 2,
       "Mr. Sikes": 2,
-      "Noah Claypole": 2,
-      "Not": 2,
-      "Sikes": 2
+      "Sikes": 2,
+      "Bumble": 1,
+      "Mr. Bumble": 1
+    }
+  },
+  {
+    "canonical_name": "Miss Betsy",
+    "aliases": [
+      "Betsy"
+    ],
+    "first_chapter": 16,
+    "total_mentions": 8,
+    "per_chapter": {
+      "16": {
+        "mentions": 3,
+        "snippet": "The noise of Charley\u2019s laughter, and the voice of Miss Betsy, who"
+      },
+      "18": {
+        "mentions": 5,
+        "snippet": "returned home accompanied by Miss Betsy, and a gentleman whom Oliver"
+      }
+    },
+    "co_occurs_with": {
+      "Charles Bates": 2,
+      "Charley Bates": 2,
+      "Fagin": 2,
+      "Jew": 2,
+      "Master Bates": 2,
+      "Master Charles Bates": 2,
+      "Mr. Fagin": 2,
+      "Mr. Sikes": 2
     }
   },
   {
@@ -2931,13 +2632,13 @@
     },
     "co_occurs_with": {
       "Toby Crackit": 4,
-      "Here": 3,
       "Sikes": 3,
-      "Not": 2,
-      "Mr. Sikes": 2,
-      "Mr. Toby Crackit": 2,
-      "The": 2,
-      "Artful Dodger": 2
+      "Artful Dodger": 2,
+      "Charles Bates": 2,
+      "Charley Bates": 2,
+      "Fagin": 2,
+      "Jew": 2,
+      "Master Bates": 2
     }
   },
   {
@@ -2969,9 +2670,9 @@
       "Mrs. Maylie": 4,
       "Rose": 4,
       "Mr. Giles": 3,
-      "Oliver": 2,
       "Brittles": 2,
-      "Chertsey Bridge": 1
+      "Chertsey Bridge": 1,
+      "Miss Maylie": 1
     }
   },
   {
@@ -3036,8 +2737,8 @@
       "Master Charles Bates": 5,
       "Jew": 4,
       "Mr. Fagin": 4,
-      "Betsy": 3,
-      "Mr. Chitling": 3
+      "Mr. Chitling": 3,
+      "Mr. Dawkins": 3
     }
   },
   {
@@ -3106,44 +2807,14 @@
       }
     },
     "co_occurs_with": {
-      "The": 3,
-      "Fagin": 3,
       "Noah Claypole": 3,
+      "Fagin": 3,
       "Harry Maylie": 2,
       "Maylie": 2,
       "Mr. Brownlow": 2,
       "Mr. Giles": 2,
-      "Mr. Grimwig": 2
-    }
-  },
-  {
-    "canonical_name": "Betsy",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 6,
-    "per_chapter": {
-      "16": {
-        "mentions": 1,
-        "snippet": "The noise of Charley\u2019s laughter, and the voice of Miss Betsy, who"
-      },
-      "18": {
-        "mentions": 2,
-        "snippet": "returned home accompanied by Miss Betsy, and a gentleman whom Oliver"
-      },
-      "25": {
-        "mentions": 3,
-        "snippet": "uncommon sweet upon Betsy."
-      }
-    },
-    "co_occurs_with": {
-      "Charles Bates": 3,
-      "Charley Bates": 3,
-      "Fagin": 3,
-      "Jew": 3,
-      "Master Bates": 3,
-      "Master Charles Bates": 3,
-      "Mr. Fagin": 3,
-      "Miss Betsy": 2
+      "Mr. Grimwig": 2,
+      "Mr. Losberne": 2
     }
   },
   {
@@ -3181,32 +2852,6 @@
     }
   },
   {
-    "canonical_name": "Take",
-    "aliases": [],
-    "first_chapter": 22,
-    "total_mentions": 6,
-    "per_chapter": {
-      "22": {
-        "mentions": 3,
-        "snippet": "\u201cTake his other hand, Toby,\u201d said Sikes."
-      },
-      "43": {
-        "mentions": 3,
-        "snippet": "sternly up to bid some woman \u201cTake that baby out,\u201d when the gravity of"
-      }
-    },
-    "co_occurs_with": {
-      "Barney": 1,
-      "Bill Sikes": 1,
-      "Bister Fagid": 1,
-      "Bister Sikes": 1,
-      "Here": 1,
-      "Mr. Crackit": 1,
-      "Mr. Sikes": 1,
-      "Mr. Toby Crackit": 1
-    }
-  },
-  {
     "canonical_name": "Mr. Maylie",
     "aliases": [],
     "first_chapter": 34,
@@ -3237,29 +2882,7 @@
       "Mr. Giles": 2,
       "Mrs. Maylie": 2,
       "Rose": 2,
-      "Edward Leeford": 1
-    }
-  },
-  {
-    "canonical_name": "Tell",
-    "aliases": [],
-    "first_chapter": 47,
-    "total_mentions": 6,
-    "per_chapter": {
-      "47": {
-        "mentions": 6,
-        "snippet": "\u201cTell away!"
-      }
-    },
-    "co_occurs_with": {
-      "Bill": 1,
-      "Fagin": 1,
-      "Jew": 1,
-      "Let": 1,
-      "Noah Claypole": 1,
-      "Rose Maylie": 1,
-      "Sikes": 1,
-      "Suppose": 1
+      "Jew": 1
     }
   },
   {
@@ -3286,32 +2909,6 @@
       "Field Lane": 1,
       "Little Saffron Hill": 1,
       "Mr. Bumble": 1
-    }
-  },
-  {
-    "canonical_name": "Miss Betsy",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 5,
-    "per_chapter": {
-      "16": {
-        "mentions": 2,
-        "snippet": "The noise of Charley\u2019s laughter, and the voice of Miss Betsy, who"
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "returned home accompanied by Miss Betsy, and a gentleman whom Oliver"
-      }
-    },
-    "co_occurs_with": {
-      "Betsy": 2,
-      "Charles Bates": 2,
-      "Charley Bates": 2,
-      "Fagin": 2,
-      "Jew": 2,
-      "Master Bates": 2,
-      "Master Charles Bates": 2,
-      "Mr. Fagin": 2
     }
   },
   {
@@ -3354,12 +2951,12 @@
     "co_occurs_with": {
       "Monks": 2,
       "Bumble": 1,
-      "Don": 1,
       "Mr. Bumble": 1,
       "Mrs. Bumble": 1,
       "Not": 1,
-      "Something": 1,
-      "There": 1
+      "With": 1,
+      "At the Cripples": 1,
+      "Barney": 1
     }
   },
   {
@@ -3388,30 +2985,8 @@
       "Mr. Bolter": 3,
       "Mr. Claypole": 2,
       "Mr. Fagin": 2,
-      "Not": 2,
-      "With": 2
-    }
-  },
-  {
-    "canonical_name": "Let",
-    "aliases": [],
-    "first_chapter": 47,
-    "total_mentions": 5,
-    "per_chapter": {
-      "47": {
-        "mentions": 5,
-        "snippet": "\u201cLet me"
-      }
-    },
-    "co_occurs_with": {
-      "Bill": 1,
-      "Fagin": 1,
-      "Jew": 1,
-      "Noah Claypole": 1,
-      "Rose Maylie": 1,
-      "Sikes": 1,
-      "Suppose": 1,
-      "Tell": 1
+      "Barney": 1,
+      "Battle Bridge": 1
     }
   },
   {
@@ -3433,11 +3008,11 @@
       "Charley Bates": 2,
       "Jew": 2,
       "Master Bates": 2,
-      "Betsy": 1,
       "Charles Bates": 1,
       "Dodger": 1,
       "Fagin": 1,
-      "Master Charles Bates": 1
+      "Master Charles Bates": 1,
+      "Miss Betsy": 1
     }
   },
   {
@@ -3543,13 +3118,13 @@
     },
     "co_occurs_with": {
       "Artful Dodger": 1,
-      "Betsy": 1,
       "Charles Bates": 1,
       "Charley Bates": 1,
       "Fagin": 1,
       "Jew": 1,
       "Master Bates": 1,
-      "Master Charles Bates": 1
+      "Master Charles Bates": 1,
+      "Mr. Chitling": 1
     }
   },
   {
@@ -3685,11 +3260,11 @@
       "Maylie": 2,
       "Mr. Brownlow": 2,
       "Mr. Losberne": 2,
-      "The": 2,
       "Craven Street": 1,
       "Harry Maylie": 1,
       "Miss Maylie": 1,
-      "Mr. Giles": 1
+      "Mr. Giles": 1,
+      "Mr. Grimwig": 1
     }
   },
   {
@@ -3709,9 +3284,9 @@
       "Bolter": 1,
       "Camden Town": 1,
       "Charlotte": 1,
-      "Don": 1,
       "Fagin": 1,
-      "Good": 1
+      "Great North Road": 1,
+      "Inn Lane": 1
     }
   },
   {
@@ -3730,9 +3305,7 @@
       "Fagin": 1,
       "Jew": 1,
       "Nancy": 1,
-      "Not": 1,
-      "Sikes": 1,
-      "There": 1
+      "Sikes": 1
     }
   },
   {
@@ -3750,11 +3323,10 @@
       "Bill": 1,
       "Fagin": 1,
       "Jew": 1,
-      "Let": 1,
       "Noah Claypole": 1,
       "Rose Maylie": 1,
       "Sikes": 1,
-      "Tell": 1
+      "Wot": 1
     }
   },
   {
@@ -3878,53 +3450,9 @@
       "Oliver Twist": 2,
       "Maylie": 2,
       "Mr. Losberne": 2,
-      "The": 2,
       "Bumble": 1,
-      "Come": 1
-    }
-  },
-  {
-    "canonical_name": "Look",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 3,
-    "per_chapter": {
-      "16": {
-        "mentions": 3,
-        "snippet": "Look after your legs if you do!"
-      }
-    },
-    "co_occurs_with": {
-      "Artful Dodger": 1,
-      "Betsy": 1,
-      "Bill Sikes": 1,
-      "Charles Bates": 1,
-      "Charley Bates": 1,
-      "Come": 1,
-      "Fagin": 1,
-      "God Almighty": 1
-    }
-  },
-  {
-    "canonical_name": "Keep",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 3,
-    "per_chapter": {
-      "16": {
-        "mentions": 3,
-        "snippet": "Keep me here all my life long; but"
-      }
-    },
-    "co_occurs_with": {
-      "Artful Dodger": 1,
-      "Betsy": 1,
-      "Bill Sikes": 1,
-      "Charles Bates": 1,
-      "Charley Bates": 1,
-      "Come": 1,
-      "Fagin": 1,
-      "God Almighty": 1
+      "Don": 1,
+      "Mr. Bumble": 1
     }
   },
   {
@@ -3950,6 +3478,28 @@
     }
   },
   {
+    "canonical_name": "Good",
+    "aliases": [],
+    "first_chapter": 19,
+    "total_mentions": 3,
+    "per_chapter": {
+      "19": {
+        "mentions": 3,
+        "snippet": "\u201cGood,\u201d said the Jew; \u201cthere\u2019s no moon."
+      }
+    },
+    "co_occurs_with": {
+      "Bethnal Green": 1,
+      "Common Garden": 1,
+      "Fagin": 1,
+      "Is Oliver": 1,
+      "Jew": 1,
+      "Juvenile Delinquent Society": 1,
+      "Miss Nancy": 1,
+      "Mr. Fagin": 1
+    }
+  },
+  {
     "canonical_name": "Dear",
     "aliases": [],
     "first_chapter": 23,
@@ -3969,28 +3519,6 @@
       "Mr. Grannett": 1,
       "Mrs. Corney": 1,
       "Old Sally": 1
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 23,
-    "total_mentions": 3,
-    "per_chapter": {
-      "23": {
-        "mentions": 3,
-        "snippet": "\u2019 \u2018Very good,\u2019 says our overseer, taking \u2019em away again,"
-      }
-    },
-    "co_occurs_with": {
-      "Bumble": 1,
-      "Corney": 1,
-      "Dear": 1,
-      "Hard": 1,
-      "Mr. Bumble": 1,
-      "Mr. Corney": 1,
-      "Mr. Grannett": 1,
-      "Mrs. Corney": 1
     }
   },
   {
@@ -4040,9 +3568,9 @@
       "Mr. Giles": 2,
       "Mr. Losberne": 2,
       "Mrs. Maylie": 2,
-      "Oliver": 2,
       "Rose": 2,
-      "Miss Rose": 1
+      "Conkey Chickweed": 1,
+      "Jem Spyers": 1
     }
   },
   {
@@ -4068,28 +3596,6 @@
     }
   },
   {
-    "canonical_name": "Something",
-    "aliases": [],
-    "first_chapter": 38,
-    "total_mentions": 3,
-    "per_chapter": {
-      "38": {
-        "mentions": 3,
-        "snippet": "\u201cSomething that was taken from her,\u201d said Monks."
-      }
-    },
-    "co_occurs_with": {
-      "Bumble": 1,
-      "Don": 1,
-      "Monks": 1,
-      "Mr. Bumble": 1,
-      "Mr. Monks": 1,
-      "Mrs. Bumble": 1,
-      "Not": 1,
-      "There": 1
-    }
-  },
-  {
     "canonical_name": "Mrs. Bolter",
     "aliases": [],
     "first_chapter": 42,
@@ -4106,9 +3612,9 @@
       "Bolter": 1,
       "Camden Town": 1,
       "Charlotte": 1,
-      "Don": 1,
       "Fagin": 1,
-      "Good": 1
+      "Great North Road": 1,
+      "Inn Lane": 1
     }
   },
   {
@@ -4126,7 +3632,6 @@
       "Bill": 1,
       "Fagin": 1,
       "Jew": 1,
-      "Let": 1,
       "Noah Claypole": 1,
       "Rose Maylie": 1,
       "Sikes": 1,
@@ -4147,8 +3652,7 @@
     "co_occurs_with": {
       "Caen Wood": 1,
       "Hampstead Heath": 1,
-      "North End": 1,
-      "Sikes": 1
+      "North End": 1
     }
   },
   {
@@ -4171,10 +3675,10 @@
       "Monks": 2,
       "Mr. Brownlow": 2,
       "Mr. Losberne": 2,
-      "The": 2,
-      "Mr. Browlow": 1,
-      "Mr. Maylie": 1,
-      "West Indies": 1
+      "Agnes Fleming": 1,
+      "Bumble": 1,
+      "Dick": 1,
+      "Edwin Leeford": 1
     }
   },
   {

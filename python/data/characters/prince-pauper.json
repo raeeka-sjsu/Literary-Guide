@@ -66,82 +66,13 @@
     }
   },
   {
-    "canonical_name": "Tom",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 47,
-    "per_chapter": {
-      "6": {
-        "mentions": 26,
-        "snippet": "Tom was conducted to the principal apartment of a noble suite, and made"
-      },
-      "7": {
-        "mentions": 15,
-        "snippet": "Somewhat after one in the afternoon, Tom resignedly underwent the ordeal"
-      },
-      "16": {
-        "mentions": 6,
-        "snippet": "but slight discomfort to Tom, and hardly any terror."
-      }
-    },
-    "co_occurs_with": {
-      "Baron Marley": 1,
-      "Greek": 1,
-      "Guilford Dudley": 1,
-      "Jane Grey": 1,
-      "Lady Elizabeth": 1,
-      "Lady Jane": 1,
-      "Lady Jane Grey": 1,
-      "Lord Guilford Dudley": 1
-    }
-  },
-  {
-    "canonical_name": "Lord Protector",
-    "aliases": [
-      "Protector"
-    ],
-    "first_chapter": 15,
-    "total_mentions": 47,
-    "per_chapter": {
-      "15": {
-        "mentions": 3,
-        "snippet": "Hertford would be formally chosen to the grand office of Lord Protector;"
-      },
-      "27": {
-        "mentions": 7,
-        "snippet": "looketh to come back a peer, for he is high in favour with the Lord"
-      },
-      "30": {
-        "mentions": 3,
-        "snippet": "seeming to be something more than the Lord Protector\u2019s mouthpiece."
-      },
-      "31": {
-        "mentions": 3,
-        "snippet": "trappings almost reached to the ground; his \u2018uncle,\u2019 the Lord Protector"
-      },
-      "32": {
-        "mentions": 31,
-        "snippet": "these were followed by the Lord Protector and other great officials, and"
-      }
-    },
-    "co_occurs_with": {
-      "Tom Canty": 4,
-      "Offal Court": 3,
-      "Duke": 2,
-      "The King": 2,
-      "Earl": 1,
-      "Giles Witt": 1,
-      "Grace": 1,
-      "Have": 1
-    }
-  },
-  {
     "canonical_name": "Tom Canty",
     "aliases": [
-      "Canty"
+      "Canty",
+      "Tom"
     ],
     "first_chapter": 1,
-    "total_mentions": 44,
+    "total_mentions": 70,
     "per_chapter": {
       "1": {
         "mentions": 1,
@@ -158,6 +89,10 @@
       "5": {
         "mentions": 1,
         "snippet": "In sooth I am no lord, but only poor Tom Canty"
+      },
+      "6": {
+        "mentions": 26,
+        "snippet": "Tom was conducted to the principal apartment of a noble suite, and made"
       },
       "9": {
         "mentions": 2,
@@ -202,13 +137,53 @@
     },
     "co_occurs_with": {
       "Offal Court": 8,
-      "Jane Grey": 5,
-      "Lady Jane Grey": 5,
-      "The King": 5,
+      "Jane Grey": 6,
+      "Lady Jane Grey": 6,
+      "The King": 6,
+      "Lord Hertford": 5,
+      "Lady Elizabeth": 4,
       "Prince": 4,
-      "Lord Hertford": 4,
-      "Lord Protector": 4,
-      "Father Andrew": 3
+      "Lord Protector": 4
+    }
+  },
+  {
+    "canonical_name": "Lord Protector",
+    "aliases": [
+      "Protector"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 47,
+    "per_chapter": {
+      "15": {
+        "mentions": 3,
+        "snippet": "Hertford would be formally chosen to the grand office of Lord Protector;"
+      },
+      "27": {
+        "mentions": 7,
+        "snippet": "looketh to come back a peer, for he is high in favour with the Lord"
+      },
+      "30": {
+        "mentions": 3,
+        "snippet": "seeming to be something more than the Lord Protector\u2019s mouthpiece."
+      },
+      "31": {
+        "mentions": 3,
+        "snippet": "trappings almost reached to the ground; his \u2018uncle,\u2019 the Lord Protector"
+      },
+      "32": {
+        "mentions": 31,
+        "snippet": "these were followed by the Lord Protector and other great officials, and"
+      }
+    },
+    "co_occurs_with": {
+      "Tom Canty": 4,
+      "Offal Court": 3,
+      "Duke": 2,
+      "The King": 2,
+      "Earl": 1,
+      "Giles Witt": 1,
+      "Grace": 1,
+      "Have": 1
     }
   },
   {
@@ -249,9 +224,9 @@
       }
     },
     "co_occurs_with": {
+      "Tom Canty": 5,
       "Jane Grey": 4,
       "Lady Jane Grey": 4,
-      "Tom Canty": 4,
       "The King": 3,
       "Norfolk": 2,
       "Offal Court": 2,
@@ -294,7 +269,7 @@
       "Nan": 3,
       "Offal Court": 3,
       "The King": 3,
-      "Bet": 2
+      "Father Andrew": 2
     }
   },
   {
@@ -338,32 +313,6 @@
     }
   },
   {
-    "canonical_name": "Hugo",
-    "aliases": [],
-    "first_chapter": 18,
-    "total_mentions": 34,
-    "per_chapter": {
-      "18": {
-        "mentions": 11,
-        "snippet": "The Ruffler put \u2018Jack\u2019 in Hugo\u2019s charge, with some brief instructions,"
-      },
-      "22": {
-        "mentions": 23,
-        "snippet": "Hugo when the Ruffler\u2019s back was turned."
-      }
-    },
-    "co_occurs_with": {
-      "Cocks": 1,
-      "Game": 1,
-      "King Foo": 1,
-      "Miles Hendon": 1,
-      "Ruffler": 1,
-      "Sir Miles": 1,
-      "Tom Canty": 1,
-      "John Canty": 1
-    }
-  },
-  {
     "canonical_name": "Hendon",
     "aliases": [],
     "first_chapter": 24,
@@ -383,14 +332,14 @@
       }
     },
     "co_occurs_with": {
-      "The King": 2,
       "Coronation Day": 1,
       "Head Lieutenant": 1,
       "Humphrey Marlow": 1,
       "King": 1,
       "London Bridge": 1,
       "Sir Humphrey": 1,
-      "Sir Humphrey Marlow": 1
+      "Sir Humphrey Marlow": 1,
+      "To London": 1
     }
   },
   {
@@ -413,14 +362,14 @@
       }
     },
     "co_occurs_with": {
+      "Tom Canty": 3,
       "Great Seal": 2,
       "Jane Grey": 2,
       "Lady Elizabeth": 2,
       "Lady Jane Grey": 2,
       "Lord Hertford": 2,
       "Offal Court": 2,
-      "Sir Thomas Seymour": 2,
-      "Tom Canty": 2
+      "Sir Thomas Seymour": 2
     }
   },
   {
@@ -461,78 +410,6 @@
       "The King": 3,
       "De Courcy": 2,
       "Hugh Hendon": 2
-    }
-  },
-  {
-    "canonical_name": "The King",
-    "aliases": [
-      "The"
-    ],
-    "first_chapter": 5,
-    "total_mentions": 23,
-    "per_chapter": {
-      "5": {
-        "mentions": 2,
-        "snippet": "\u201cThe King\u2019s majesty knoweth that the Hereditary Great Marshal of England"
-      },
-      "6": {
-        "mentions": 1,
-        "snippet": "\u201cThe King hath said it."
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "\u201cThe King thy father!"
-      },
-      "11": {
-        "mentions": 1,
-        "snippet": "\u201cThe King is dead!"
-      },
-      "12": {
-        "mentions": 1,
-        "snippet": "abroad, and the boy learned it from a thousand voices at once--\u201cThe King"
-      },
-      "13": {
-        "mentions": 6,
-        "snippet": "The King"
-      },
-      "19": {
-        "mentions": 1,
-        "snippet": "\u201cThe King of England."
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "\u201d The King hastened to interrupt and explain, but the hermit paid"
-      },
-      "24": {
-        "mentions": 5,
-        "snippet": "The short winter day was nearly ended."
-      },
-      "27": {
-        "mentions": 1,
-        "snippet": "\u201cThe King is _not_ mad, good man--and thou\u2019lt find it to thy advantage"
-      },
-      "28": {
-        "mentions": 1,
-        "snippet": "The King was in the act of entering a fierce protest, but Sir Hugh"
-      },
-      "31": {
-        "mentions": 1,
-        "snippet": "chronicler says, \u2018The King, as he entered the city, was received by the"
-      },
-      "33": {
-        "mentions": 1,
-        "snippet": "\u201cThe King did not name him so,\u201d he said to"
-      }
-    },
-    "co_occurs_with": {
-      "Tom Canty": 5,
-      "Miles Hendon": 5,
-      "Hendon Hall": 4,
-      "Sir Hugh": 4,
-      "Jane Grey": 3,
-      "Lady Jane Grey": 3,
-      "Lord Hertford": 3,
-      "Offal Court": 3
     }
   },
   {
@@ -593,8 +470,8 @@
       "Hendon Hall": 5,
       "Lady Edith": 5,
       "Sir Hugh": 5,
-      "The King": 5,
       "Sir Richard": 4,
+      "The King": 4,
       "London Bridge": 3,
       "Sir Miles": 3
     }
@@ -742,43 +619,13 @@
     },
     "co_occurs_with": {
       "The King": 3,
+      "Tom Canty": 3,
       "Jane Grey": 2,
       "Lady Jane": 2,
       "Lady Jane Grey": 2,
       "Lord Hertford": 2,
       "Princess Elizabeth": 2,
-      "Tom Canty": 2,
       "Barge Yard": 1
-    }
-  },
-  {
-    "canonical_name": "Thou",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 16,
-    "per_chapter": {
-      "10": {
-        "mentions": 4,
-        "snippet": "\u201cThou\u2019lt meddle, wilt thou?"
-      },
-      "12": {
-        "mentions": 6,
-        "snippet": "Thou\u2019lt not escape again, I warrant thee;"
-      },
-      "17": {
-        "mentions": 6,
-        "snippet": "\u201cThou\u2019lt tarry here, and thy friend lying wounded in the wood yonder?"
-      }
-    },
-    "co_occurs_with": {
-      "John Canty": 2,
-      "London Bridge": 2,
-      "Prince": 2,
-      "The King": 2,
-      "Wales": 2,
-      "Miles Hendon": 2,
-      "Father Andrew": 1,
-      "Mrs. Canty": 1
     }
   },
   {
@@ -809,8 +656,8 @@
       "Alack": 1,
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1,
-      "Bloody Mary": 1
+      "Bloody Mary": 1,
+      "Buckhounds": 1
     }
   },
   {
@@ -848,13 +695,13 @@
     },
     "co_occurs_with": {
       "Jane Grey": 6,
-      "Tom Canty": 5,
+      "Tom Canty": 6,
       "Lady Elizabeth": 4,
       "Offal Court": 4,
       "Lord Hertford": 4,
       "Prince": 3,
       "The King": 3,
-      "Bet": 2
+      "Lady Mary": 2
     }
   },
   {
@@ -885,10 +732,10 @@
       "Nan": 3,
       "Offal Court": 3,
       "Tom Canty": 3,
-      "Bet": 2,
       "Father Andrew": 2,
       "Jane Grey": 2,
-      "Lady Elizabeth": 2
+      "Lady Elizabeth": 2,
+      "Lady Jane Grey": 2
     }
   },
   {
@@ -919,12 +766,74 @@
     "co_occurs_with": {
       "Jane Grey": 4,
       "Lady Jane Grey": 4,
+      "Tom Canty": 4,
       "Offal Court": 3,
-      "Tom Canty": 3,
-      "Bet": 2,
       "Lady Mary": 2,
       "Nan": 2,
-      "Prince": 2
+      "Prince": 2,
+      "Wales": 2
+    }
+  },
+  {
+    "canonical_name": "The King",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 12,
+    "per_chapter": {
+      "5": {
+        "mentions": 2,
+        "snippet": "\u201cThe King\u2019s majesty knoweth that the Hereditary Great Marshal of England"
+      },
+      "6": {
+        "mentions": 1,
+        "snippet": "\u201cThe King hath said it."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "\u201cThe King thy father!"
+      },
+      "11": {
+        "mentions": 1,
+        "snippet": "\u201cThe King is dead!"
+      },
+      "12": {
+        "mentions": 1,
+        "snippet": "abroad, and the boy learned it from a thousand voices at once--\u201cThe King"
+      },
+      "19": {
+        "mentions": 1,
+        "snippet": "\u201cThe King of England."
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "\u201d The King hastened to interrupt and explain, but the hermit paid"
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "\u201cThe King is _not_ mad, good man--and thou\u2019lt find it to thy advantage"
+      },
+      "28": {
+        "mentions": 1,
+        "snippet": "The King was in the act of entering a fierce protest, but Sir Hugh"
+      },
+      "31": {
+        "mentions": 1,
+        "snippet": "chronicler says, \u2018The King, as he entered the city, was received by the"
+      },
+      "33": {
+        "mentions": 1,
+        "snippet": "\u201cThe King did not name him so,\u201d he said to"
+      }
+    },
+    "co_occurs_with": {
+      "Tom Canty": 6,
+      "Miles Hendon": 4,
+      "Sir Hugh": 4,
+      "Jane Grey": 3,
+      "Lady Jane Grey": 3,
+      "Lord Hertford": 3,
+      "Offal Court": 3,
+      "London Bridge": 3
     }
   },
   {
@@ -995,8 +904,8 @@
       "Tom Canty": 2,
       "Prince": 2,
       "The King": 2,
-      "Thou": 2,
-      "Wales": 2
+      "Wales": 2,
+      "Miles Hendon": 2
     }
   },
   {
@@ -1027,6 +936,22 @@
       "Tom Canty": 2,
       "King": 2,
       "Alack": 1
+    }
+  },
+  {
+    "canonical_name": "Hugo",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 11,
+    "per_chapter": {
+      "18": {
+        "mentions": 11,
+        "snippet": "The Ruffler put \u2018Jack\u2019 in Hugo\u2019s charge, with some brief instructions,"
+      }
+    },
+    "co_occurs_with": {
+      "John Canty": 1,
+      "King": 1
     }
   },
   {
@@ -1085,10 +1010,10 @@
       "Prince": 3,
       "Tom Canty": 3,
       "Wales": 3,
-      "Bet": 2,
       "Father Andrew": 2,
       "Jane Grey": 2,
-      "Lady Elizabeth": 2
+      "Lady Elizabeth": 2,
+      "Lady Jane Grey": 2
     }
   },
   {
@@ -1155,8 +1080,8 @@
       "Lord Mayor": 2,
       "Princess Elizabeth": 2,
       "The King": 2,
-      "Barge Yard": 1,
-      "City Sword": 1
+      "Tom Canty": 2,
+      "Barge Yard": 1
     }
   },
   {
@@ -1178,13 +1103,13 @@
     },
     "co_occurs_with": {
       "The King": 2,
+      "Tom Canty": 2,
       "William Herbert": 2,
       "Father Andrew": 1,
       "John Canty": 1,
       "London Bridge": 1,
       "Mrs. Canty": 1,
-      "Nan": 1,
-      "Offal Court": 1
+      "Nan": 1
     }
   },
   {
@@ -1247,9 +1172,9 @@
     "co_occurs_with": {
       "Miles Hendon": 5,
       "Sir Hugh": 4,
-      "The King": 4,
       "Lady Edith": 3,
       "London Bridge": 3,
+      "The King": 3,
       "De Courcy": 2,
       "Hugh Hendon": 2,
       "Majesty": 2
@@ -1276,57 +1201,9 @@
       "Alack": 1,
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1,
       "Bloody Mary": 1,
-      "Buckhounds": 1
-    }
-  },
-  {
-    "canonical_name": "Christ",
-    "aliases": [],
-    "first_chapter": 33,
-    "total_mentions": 8,
-    "per_chapter": {
-      "33": {
-        "mentions": 8,
-        "snippet": "that abide in the shelter of Christ\u2019s Hospital and share the King\u2019s"
-      }
-    },
-    "co_occurs_with": {
-      "Bill": 1,
-      "Bishop": 1,
-      "Blue Law": 1,
-      "Blue Laws": 1,
-      "Bluecoat School": 1,
-      "Charles Lamb": 1,
-      "Commons": 1,
-      "Connecticut": 1
-    }
-  },
-  {
-    "canonical_name": "Bet",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 7,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "sisters, Nan and Bet."
-      },
-      "14": {
-        "mentions": 4,
-        "snippet": "Bet!"
-      }
-    },
-    "co_occurs_with": {
-      "Jane Grey": 2,
-      "Lady Elizabeth": 2,
-      "Lady Jane Grey": 2,
-      "Nan": 2,
-      "Offal Court": 2,
-      "Prince": 2,
-      "Tom Canty": 2,
-      "Wales": 2
+      "Buckhounds": 1,
+      "Canterbury": 1
     }
   },
   {
@@ -1349,10 +1226,10 @@
       "Miles Hendon": 2,
       "Tabard Inn": 2,
       "Hendon Hall": 1,
-      "The King": 1,
       "Bien Darkman": 1,
       "Bouse Mort": 1,
-      "Edward": 1
+      "Edward": 1,
+      "John Hobbs": 1
     }
   },
   {
@@ -1383,8 +1260,8 @@
       "Alack": 1,
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1,
-      "Bloody Mary": 1
+      "Bloody Mary": 1,
+      "Buckhounds": 1
     }
   },
   {
@@ -1406,11 +1283,11 @@
       "Miles Hendon": 2,
       "Cocks": 1,
       "Game": 1,
-      "Hugo": 1,
       "King Foo": 1,
       "Sir Miles": 1,
       "Tom Canty": 1,
-      "Bien Darkman": 1
+      "Bien Darkman": 1,
+      "Bouse Mort": 1
     }
   },
   {
@@ -1438,9 +1315,9 @@
       "Sir Richard": 2,
       "Cocks": 1,
       "Game": 1,
-      "Hugo": 1,
       "King Foo": 1,
-      "Ruffler": 1
+      "Ruffler": 1,
+      "Tom Canty": 1
     }
   },
   {
@@ -1456,13 +1333,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "Curiosities": 1
     }
   },
   {
@@ -1498,13 +1375,13 @@
     },
     "co_occurs_with": {
       "Lady Jane Grey": 6,
-      "Tom Canty": 5,
+      "Tom Canty": 6,
       "Lady Elizabeth": 4,
       "Offal Court": 4,
       "Lord Hertford": 4,
       "Prince": 3,
       "The King": 3,
-      "Bet": 2
+      "Lady Mary": 2
     }
   },
   {
@@ -1584,28 +1461,6 @@
     }
   },
   {
-    "canonical_name": "First",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 6,
-    "per_chapter": {
-      "14": {
-        "mentions": 6,
-        "snippet": "He opened his eyes--the richly clad First Lord of the Bedchamber was"
-      }
-    },
-    "co_occurs_with": {
-      "Alack": 1,
-      "Archbishop": 1,
-      "Bedchamber": 1,
-      "Bet": 1,
-      "Bloody Mary": 1,
-      "Buckhounds": 1,
-      "Canterbury": 1,
-      "Chancellor Royal": 1
-    }
-  },
-  {
     "canonical_name": "Council",
     "aliases": [],
     "first_chapter": 14,
@@ -1620,11 +1475,11 @@
       "Alack": 1,
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1,
       "Bloody Mary": 1,
       "Buckhounds": 1,
       "Canterbury": 1,
-      "Chancellor Royal": 1
+      "Chancellor Royal": 1,
+      "Chief Equerry": 1
     }
   },
   {
@@ -1646,7 +1501,29 @@
       "Lord Protector": 1,
       "Majesty": 1,
       "New Year": 1,
-      "Please": 1
+      "Tom Canty": 1
+    }
+  },
+  {
+    "canonical_name": "Thou",
+    "aliases": [],
+    "first_chapter": 17,
+    "total_mentions": 6,
+    "per_chapter": {
+      "17": {
+        "mentions": 6,
+        "snippet": "\u201cThou\u2019lt tarry here, and thy friend lying wounded in the wood yonder?"
+      }
+    },
+    "co_occurs_with": {
+      "Bien Darkman": 1,
+      "Bouse Mort": 1,
+      "Edward": 1,
+      "John Hobbs": 1,
+      "King": 1,
+      "Miles Hendon": 1,
+      "One": 1,
+      "Rome Coves": 1
     }
   },
   {
@@ -1688,13 +1565,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
       "Commons": 1,
-      "Connecticut": 1
+      "Connecticut": 1,
+      "Curiosities": 1,
+      "De Courcy": 1
     }
   },
   {
@@ -1723,8 +1600,8 @@
       "Alack": 1,
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1,
-      "Bloody Mary": 1
+      "Bloody Mary": 1,
+      "Buckhounds": 1
     }
   },
   {
@@ -1741,12 +1618,12 @@
     "co_occurs_with": {
       "Alack": 1,
       "Archbishop": 1,
-      "Bet": 1,
       "Bloody Mary": 1,
       "Buckhounds": 1,
       "Canterbury": 1,
       "Chancellor Royal": 1,
-      "Chief Equerry": 1
+      "Chief Equerry": 1,
+      "Chief Steward": 1
     }
   },
   {
@@ -1763,12 +1640,12 @@
     "co_occurs_with": {
       "Alack": 1,
       "Bedchamber": 1,
-      "Bet": 1,
       "Bloody Mary": 1,
       "Buckhounds": 1,
       "Canterbury": 1,
       "Chancellor Royal": 1,
-      "Chief Equerry": 1
+      "Chief Equerry": 1,
+      "Chief Steward": 1
     }
   },
   {
@@ -1784,13 +1661,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "Curiosities": 1
     }
   },
   {
@@ -1806,13 +1683,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "Curiosities": 1
     }
   },
   {
@@ -1828,13 +1705,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "Curiosities": 1
     }
   },
   {
@@ -1850,13 +1727,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "Curiosities": 1
     }
   },
   {
@@ -1872,13 +1749,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "Curiosities": 1
     }
   },
   {
@@ -1903,8 +1780,8 @@
       "Lord Hertford": 2,
       "Lord Mayor": 2,
       "The King": 2,
-      "Barge Yard": 1,
-      "City Sword": 1
+      "Tom Canty": 2,
+      "Barge Yard": 1
     }
   },
   {
@@ -1970,11 +1847,11 @@
       "Alack": 1,
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1,
       "Bloody Mary": 1,
       "Buckhounds": 1,
       "Chancellor Royal": 1,
-      "Chief Equerry": 1
+      "Chief Equerry": 1,
+      "Chief Steward": 1
     }
   },
   {
@@ -1992,11 +1869,11 @@
       "Alack": 1,
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1,
       "Bloody Mary": 1,
       "Buckhounds": 1,
       "Canterbury": 1,
-      "Chancellor Royal": 1
+      "Chancellor Royal": 1,
+      "Chief Equerry": 1
     }
   },
   {
@@ -2014,11 +1891,11 @@
       "Alack": 1,
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1,
       "Bloody Mary": 1,
       "Buckhounds": 1,
       "Canterbury": 1,
-      "Chancellor Royal": 1
+      "Chancellor Royal": 1,
+      "Chief Equerry": 1
     }
   },
   {
@@ -2034,13 +1911,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "Curiosities": 1
     }
   },
   {
@@ -2056,13 +1933,35 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "Curiosities": 1
+    }
+  },
+  {
+    "canonical_name": "Bet",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 3,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "sisters, Nan and Bet."
+      }
+    },
+    "co_occurs_with": {
+      "Charing Village": 1,
+      "Father Andrew": 1,
+      "Gammer Canty": 1,
+      "Jane Grey": 1,
+      "King": 1,
+      "Lady Elizabeth": 1,
+      "Lady Jane Grey": 1,
+      "Lady Mary": 1
     }
   },
   {
@@ -2083,12 +1982,12 @@
     "co_occurs_with": {
       "Sir William Herbert": 2,
       "The King": 2,
+      "Tom Canty": 2,
       "Father Andrew": 1,
       "John Canty": 1,
       "London Bridge": 1,
       "Mrs. Canty": 1,
-      "Nan": 1,
-      "Offal Court": 1
+      "Nan": 1
     }
   },
   {
@@ -2212,7 +2111,7 @@
       "Alack": 1,
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1
+      "Bloody Mary": 1
     }
   },
   {
@@ -2229,12 +2128,12 @@
     "co_occurs_with": {
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1,
       "Bloody Mary": 1,
       "Buckhounds": 1,
       "Canterbury": 1,
       "Chancellor Royal": 1,
-      "Chief Equerry": 1
+      "Chief Equerry": 1,
+      "Chief Steward": 1
     }
   },
   {
@@ -2252,11 +2151,11 @@
       "Alack": 1,
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1,
       "Bloody Mary": 1,
       "Canterbury": 1,
       "Chancellor Royal": 1,
-      "Chief Equerry": 1
+      "Chief Equerry": 1,
+      "Chief Steward": 1
     }
   },
   {
@@ -2274,11 +2173,11 @@
       "Alack": 1,
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1,
       "Bloody Mary": 1,
       "Buckhounds": 1,
       "Canterbury": 1,
-      "Chancellor Royal": 1
+      "Chancellor Royal": 1,
+      "Chief Equerry": 1
     }
   },
   {
@@ -2296,33 +2195,11 @@
       "Alack": 1,
       "Archbishop": 1,
       "Bedchamber": 1,
-      "Bet": 1,
       "Bloody Mary": 1,
       "Buckhounds": 1,
       "Canterbury": 1,
-      "Chancellor Royal": 1
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 15,
-    "total_mentions": 3,
-    "per_chapter": {
-      "15": {
-        "mentions": 3,
-        "snippet": "There were greater matters in the programme--for on that day"
-      }
-    },
-    "co_occurs_with": {
-      "Earl": 1,
-      "Giles Witt": 1,
-      "Grace": 1,
-      "Have": 1,
-      "Lord Hertford": 1,
-      "Lord Protector": 1,
-      "Majesty": 1,
-      "New Year": 1
+      "Chancellor Royal": 1,
+      "Chief Equerry": 1
     }
   },
   {
@@ -2344,29 +2221,7 @@
       "Lord Protector": 1,
       "Majesty": 1,
       "New Year": 1,
-      "Please": 1
-    }
-  },
-  {
-    "canonical_name": "Please",
-    "aliases": [],
-    "first_chapter": 15,
-    "total_mentions": 3,
-    "per_chapter": {
-      "15": {
-        "mentions": 3,
-        "snippet": "\u201cPlease your Majesty, the doctors testified that none die with such"
-      }
-    },
-    "co_occurs_with": {
-      "Earl": 1,
-      "Giles Witt": 1,
-      "Grace": 1,
-      "Have": 1,
-      "Lord Hertford": 1,
-      "Lord Protector": 1,
-      "Majesty": 1,
-      "New Year": 1
+      "Tom Canty": 1
     }
   },
   {
@@ -2409,12 +2264,12 @@
     "co_occurs_with": {
       "Miles Hendon": 2,
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1
+      "Commons": 1,
+      "Connecticut": 1
     }
   },
   {
@@ -2437,28 +2292,6 @@
       "Miles Hendon": 1,
       "Rome Coves": 1,
       "Ruffler": 1
-    }
-  },
-  {
-    "canonical_name": "These",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 3,
-    "per_chapter": {
-      "17": {
-        "mentions": 3,
-        "snippet": "These were the inspiring"
-      }
-    },
-    "co_occurs_with": {
-      "Bien Darkman": 1,
-      "Bouse Mort": 1,
-      "Edward": 1,
-      "John Hobbs": 1,
-      "King": 1,
-      "Miles Hendon": 1,
-      "One": 1,
-      "Rome Coves": 1
     }
   },
   {
@@ -2492,7 +2325,6 @@
     },
     "co_occurs_with": {
       "Cocks": 1,
-      "Hugo": 1,
       "King Foo": 1,
       "Miles Hendon": 1,
       "Ruffler": 1,
@@ -2513,74 +2345,11 @@
     },
     "co_occurs_with": {
       "Game": 1,
-      "Hugo": 1,
       "King Foo": 1,
       "Miles Hendon": 1,
       "Ruffler": 1,
       "Sir Miles": 1,
       "Tom Canty": 1
-    }
-  },
-  {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 25,
-    "total_mentions": 3,
-    "per_chapter": {
-      "25": {
-        "mentions": 3,
-        "snippet": "\u201cHere is the church--covered with the same"
-      }
-    },
-    "co_occurs_with": {
-      "Hendon Hall": 1,
-      "Hugh Hendon": 1,
-      "King": 1,
-      "Lady Edith": 1,
-      "London Bridge": 1,
-      "Miles Hendon": 1,
-      "Red Lion": 1,
-      "Sanctum Sanctorum": 1
-    }
-  },
-  {
-    "canonical_name": "Andrews",
-    "aliases": [],
-    "first_chapter": 27,
-    "total_mentions": 3,
-    "per_chapter": {
-      "27": {
-        "mentions": 3,
-        "snippet": "Andrews, a servant all his life in my father\u2019s family--a good honest"
-      }
-    },
-    "co_occurs_with": {
-      "Christian England": 1,
-      "Duke": 1,
-      "Edward the Sixth": 1,
-      "Great Council": 1,
-      "Hendon": 1,
-      "Lady Edith": 1,
-      "Lord Chancellor": 1,
-      "Lord Protector": 1
-    }
-  },
-  {
-    "canonical_name": "Let",
-    "aliases": [],
-    "first_chapter": 28,
-    "total_mentions": 3,
-    "per_chapter": {
-      "28": {
-        "mentions": 3,
-        "snippet": "\u201cLet the child"
-      }
-    },
-    "co_occurs_with": {
-      "Hendon Hall": 1,
-      "Miles Hendon": 1,
-      "Sir Hugh": 1,
-      "The King": 1
     }
   },
   {
@@ -2640,13 +2409,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "Curiosities": 1
     }
   },
   {
@@ -2662,13 +2431,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "Curiosities": 1
     }
   },
   {
@@ -2684,13 +2453,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "De Courcy": 1
     }
   },
   {
@@ -2706,13 +2475,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Connecticut": 1
+      "Connecticut": 1,
+      "Curiosities": 1,
+      "De Courcy": 1
     }
   },
   {
@@ -2727,14 +2496,14 @@
       }
     },
     "co_occurs_with": {
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
       "Commons": 1,
-      "Connecticut": 1
+      "Connecticut": 1,
+      "Curiosities": 1,
+      "De Courcy": 1
     }
   },
   {
@@ -2750,35 +2519,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
-    }
-  },
-  {
-    "canonical_name": "Bishop",
-    "aliases": [],
-    "first_chapter": 33,
-    "total_mentions": 3,
-    "per_chapter": {
-      "33": {
-        "mentions": 3,
-        "snippet": "Edward would not let him (Bishop"
-      }
-    },
-    "co_occurs_with": {
-      "Bill": 1,
-      "Blue Law": 1,
-      "Blue Laws": 1,
-      "Bluecoat School": 1,
-      "Charles Lamb": 1,
-      "Christ": 1,
       "Commons": 1,
-      "Connecticut": 1
+      "Curiosities": 1,
+      "De Courcy": 1
     }
   },
   {
@@ -2794,13 +2541,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "Curiosities": 1
     }
   },
   {
@@ -2816,13 +2563,13 @@
     },
     "co_occurs_with": {
       "Bill": 1,
-      "Bishop": 1,
       "Blue Law": 1,
       "Blue Laws": 1,
       "Bluecoat School": 1,
       "Charles Lamb": 1,
-      "Christ": 1,
-      "Commons": 1
+      "Commons": 1,
+      "Connecticut": 1,
+      "Curiosities": 1
     }
   }
 ]

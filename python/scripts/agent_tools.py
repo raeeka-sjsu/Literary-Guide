@@ -225,18 +225,52 @@ def _load_char_index(book_id: str) -> List[Dict[str, Any]]:
         return json.load(f)
 
 
+# Words that occasionally leaked into older character indexes as single-cap
+# "names" — sentence-starters, generic institutional / place nouns, and
+# capitalized common words. We filter these defensively at query time so
+# previously-built indexes don't surface them to the agent without
+# requiring a full rebuild of all 52 books.
+_NAME_BLOCKLIST = {
+    "There", "Here", "This", "That", "These", "Those", "Such",
+    "When", "While", "Where", "What", "Who", "How", "If",
+    "But", "And", "Now", "Then", "Thus", "So", "Yet", "Still",
+    "Suddenly", "Indeed", "However", "Therefore", "Moreover",
+    "Bank", "Bench", "Court", "Office", "Hall", "House", "Tower",
+    "Hotel", "Castle", "Church", "Bridge", "Gate", "Square",
+    "Did", "Was", "Were", "Had", "Has", "Have", "Is", "Are",
+    "Yes", "No", "Oh", "Ah", "Well", "Good", "Bad",
+}
+
+
 def _filter_to_chapter(entries: List[Dict[str, Any]], chapter_limit: int) -> List[Dict[str, Any]]:
     """Drop characters whose first_chapter > chapter_limit. For each kept
     entry, also drop per_chapter buckets beyond chapter_limit and recompute
-    total mentions to reflect only what the reader has actually encountered."""
+    total mentions to reflect only what the reader has actually encountered.
+
+    Ranking accounts for both mention frequency AND chapter breadth — a
+    character who appears across many chapters (especially spanning the start
+    and end of the book) is structurally important even if their absolute
+    mention count is modest. For example, the White Rabbit in Alice in
+    Wonderland has only 20 mentions but appears in chapter 1 and the final
+    chapter, which is a main-character signature."""
     out = []
     for e in entries:
+        # Defensive: drop entries whose canonical name is a blocklisted
+        # common word that slipped past the builder in older indexes.
+        if e.get("canonical_name") in _NAME_BLOCKLIST:
+            continue
         if int(e.get("first_chapter") or 0) > chapter_limit:
             continue
         per_ch = {int(k): v for k, v in (e.get("per_chapter") or {}).items() if int(k) <= chapter_limit}
         if not per_ch:
             continue
         total = sum(v.get("mentions", 0) for v in per_ch.values())
+        chapters_appeared = len(per_ch)
+        appearance_span = max(per_ch.keys()) - min(per_ch.keys()) + 1
+        # Composite importance score: mentions plus a substantial bonus for
+        # appearance breadth. Tuned so a character with 20 mentions spanning
+        # 12 chapters outranks a character with 30 mentions all in one chapter.
+        importance_score = total + chapters_appeared * 15 + appearance_span * 5
         co_filtered = {k: v for k, v in (e.get("co_occurs_with") or {}).items()
                        if any(int(c.get("first_chapter") or 0) <= chapter_limit
                               and c.get("canonical_name") == k for c in entries)}
@@ -245,10 +279,13 @@ def _filter_to_chapter(entries: List[Dict[str, Any]], chapter_limit: int) -> Lis
             "aliases": e.get("aliases", []),
             "first_chapter": int(e.get("first_chapter") or 0),
             "total_mentions_so_far": total,
+            "chapters_appeared_in": chapters_appeared,
+            "appearance_span": appearance_span,
+            "importance_score": importance_score,
             "per_chapter": per_ch,
             "co_occurs_with": co_filtered,
         })
-    out.sort(key=lambda x: -x["total_mentions_so_far"])
+    out.sort(key=lambda x: -x["importance_score"])
     return out
 
 
@@ -325,6 +362,8 @@ def list_known_characters(
             "aliases": e["aliases"],
             "first_chapter": first_ch,
             "mentions_so_far": e["total_mentions_so_far"],
+            "chapters_appeared_in": e.get("chapters_appeared_in"),
+            "appearance_span": e.get("appearance_span"),
             "intro_snippet": intro_snippet,
         })
     return {

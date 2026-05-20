@@ -79,7 +79,6 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
       "God Himself": 1,
       "Leeward Islands": 1,
       "New Spain": 1,
@@ -142,9 +141,9 @@
       "East Indies": 1,
       "Lisbon": 1,
       "Toulouse": 1,
-      "All": 1,
       "Leeward Islands": 1,
-      "New Spain": 1
+      "New Spain": 1,
+      "Spaniard": 1
     }
   },
   {
@@ -160,7 +159,6 @@
     },
     "co_occurs_with": {
       "Dec": 1,
-      "From": 1,
       "Oct": 1,
       "Robinson Crusoe": 1,
       "The Island": 1
@@ -307,7 +305,6 @@
       }
     },
     "co_occurs_with": {
-      "From": 1,
       "Nov": 1,
       "Oct": 1,
       "Robinson Crusoe": 1,
@@ -334,10 +331,10 @@
       "Can God Himself": 1,
       "Journal": 1,
       "Power": 1,
-      "Very": 1,
       "Went": 1,
-      "Worked": 1,
-      "Benamuckee": 1
+      "Benamuckee": 1,
+      "Christ Jesus": 1,
+      "Him": 1
     }
   },
   {
@@ -514,9 +511,7 @@
       "Can God Himself": 1,
       "Journal": 1,
       "Power": 1,
-      "Scripture": 1,
-      "Very": 1,
-      "Worked": 1
+      "Scripture": 1
     }
   },
   {
@@ -588,26 +583,6 @@
       "Saviour Jesus Christ": 1,
       "Scripture": 1,
       "Word": 1
-    }
-  },
-  {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 17,
-    "total_mentions": 4,
-    "per_chapter": {
-      "17": {
-        "mentions": 4,
-        "snippet": "All this while I had no thought of what the matter really was, but"
-      }
-    },
-    "co_occurs_with": {
-      "God Himself": 1,
-      "Leeward Islands": 1,
-      "New Spain": 1,
-      "Spaniard": 1,
-      "Spaniards": 1,
-      "Spanish": 1
     }
   },
   {
@@ -742,25 +717,6 @@
     }
   },
   {
-    "canonical_name": "From",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "_From the 1st of October to the 24th_."
-      }
-    },
-    "co_occurs_with": {
-      "Dec": 1,
-      "Nov": 1,
-      "Oct": 1,
-      "Robinson Crusoe": 1,
-      "The Island": 1
-    }
-  },
-  {
     "canonical_name": "Oct",
     "aliases": [],
     "first_chapter": 5,
@@ -773,52 +729,9 @@
     },
     "co_occurs_with": {
       "Dec": 1,
-      "From": 1,
       "Nov": 1,
       "Robinson Crusoe": 1,
       "The Island": 1
-    }
-  },
-  {
-    "canonical_name": "Worked",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 3,
-    "per_chapter": {
-      "6": {
-        "mentions": 3,
-        "snippet": "\u2014Worked on the wreck; cut another beam asunder, and brought"
-      }
-    },
-    "co_occurs_with": {
-      "Can God": 1,
-      "Can God Himself": 1,
-      "Journal": 1,
-      "Power": 1,
-      "Scripture": 1,
-      "Very": 1,
-      "Went": 1
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 3,
-    "per_chapter": {
-      "6": {
-        "mentions": 3,
-        "snippet": "\u2014Very ill, and shivering, as if the weather had been cold."
-      }
-    },
-    "co_occurs_with": {
-      "Can God": 1,
-      "Can God Himself": 1,
-      "Journal": 1,
-      "Power": 1,
-      "Scripture": 1,
-      "Went": 1,
-      "Worked": 1
     }
   },
   {
@@ -837,9 +750,7 @@
       "Can God Himself": 1,
       "Power": 1,
       "Scripture": 1,
-      "Very": 1,
-      "Went": 1,
-      "Worked": 1
+      "Went": 1
     }
   },
   {
@@ -858,9 +769,7 @@
       "Can God Himself": 1,
       "Journal": 1,
       "Scripture": 1,
-      "Very": 1,
-      "Went": 1,
-      "Worked": 1
+      "Went": 1
     }
   },
   {
@@ -910,8 +819,8 @@
       "Indians": 1,
       "Sallee": 1,
       "Yarmouth Roads": 1,
-      "All": 1,
-      "Leeward Islands": 1
+      "Leeward Islands": 1,
+      "New Spain": 1
     }
   },
   {

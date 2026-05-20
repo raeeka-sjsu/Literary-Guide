@@ -13,14 +13,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -37,14 +37,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -61,14 +61,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -85,14 +85,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Cecily": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Bankruptcy Court": 1,
+      "Being Earnest": 1
     }
   },
   {
@@ -109,14 +109,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -133,14 +133,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -157,14 +157,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -181,36 +181,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
-      "Algernon Moncrieff": 1,
-      "Algy": 1,
-      "Allen Aynesworth": 1,
-      "Ancient History": 1,
-      "Army Lists": 1,
-      "Aunt Augusta": 1,
-      "Aunt Cecily": 1
-    }
-  },
-  {
-    "canonical_name": "Algy",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 22,
-    "per_chapter": {
-      "1": {
-        "mentions": 22,
-        "snippet": "usual, I see, Algy!"
-      }
-    },
-    "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
       "Aunt Cecily": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -227,14 +205,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -251,14 +229,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -273,14 +251,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -295,14 +273,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -317,14 +295,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -339,14 +317,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -361,14 +339,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -383,36 +361,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 7,
-    "per_chapter": {
-      "1": {
-        "mentions": 7,
-        "snippet": "Very natural, I am sure."
-      }
-    },
-    "co_occurs_with": {
-      "After": 1,
-      "Algernon Moncrieff": 1,
-      "Algy": 1,
-      "Allen Aynesworth": 1,
-      "Ancient History": 1,
-      "Army Lists": 1,
-      "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -427,14 +383,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -449,36 +405,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 6,
-    "per_chapter": {
-      "1": {
-        "mentions": 6,
-        "snippet": "Come,"
-      }
-    },
-    "co_occurs_with": {
-      "After": 1,
-      "Algernon Moncrieff": 1,
-      "Algy": 1,
-      "Allen Aynesworth": 1,
-      "Ancient History": 1,
-      "Army Lists": 1,
-      "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -493,36 +427,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
-    }
-  },
-  {
-    "canonical_name": "Quite",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 6,
-    "per_chapter": {
-      "1": {
-        "mentions": 6,
-        "snippet": "Quite dead."
-      }
-    },
-    "co_occurs_with": {
-      "After": 1,
-      "Algernon Moncrieff": 1,
-      "Algy": 1,
-      "Allen Aynesworth": 1,
-      "Ancient History": 1,
-      "Army Lists": 1,
-      "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -539,14 +451,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -563,14 +475,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -587,14 +499,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -611,14 +523,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -633,14 +545,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -655,14 +567,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -677,36 +589,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
-    }
-  },
-  {
-    "canonical_name": "Canon",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 5,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "Canon Chasuble, D."
-      }
-    },
-    "co_occurs_with": {
-      "After": 1,
-      "Algernon Moncrieff": 1,
-      "Algy": 1,
-      "Allen Aynesworth": 1,
-      "Ancient History": 1,
-      "Army Lists": 1,
-      "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -721,14 +611,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -743,80 +633,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
-      "Allen Aynesworth": 1,
-      "Ancient History": 1,
-      "Army Lists": 1,
-      "Aunt Augusta": 1,
-      "Aunt Cecily": 1
-    }
-  },
-  {
-    "canonical_name": "After",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 5,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "[After some hesitation."
-      }
-    },
-    "co_occurs_with": {
-      "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
       "Aunt Cecily": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "With",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 5,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "With pleasure, Miss Prism, with pleasure."
-      }
-    },
-    "co_occurs_with": {
-      "After": 1,
-      "Algernon Moncrieff": 1,
-      "Algy": 1,
-      "Allen Aynesworth": 1,
-      "Ancient History": 1,
-      "Army Lists": 1,
-      "Aunt Augusta": 1,
-      "Aunt Cecily": 1
-    }
-  },
-  {
-    "canonical_name": "Looking",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 5,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "[Looking round."
-      }
-    },
-    "co_occurs_with": {
-      "After": 1,
-      "Algernon Moncrieff": 1,
-      "Algy": 1,
-      "Allen Aynesworth": 1,
-      "Ancient History": 1,
-      "Army Lists": 1,
-      "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -831,14 +655,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -853,14 +677,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -875,14 +699,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -897,14 +721,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -919,14 +743,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -941,14 +765,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -963,14 +787,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Bankruptcy Court": 1,
+      "Being Earnest": 1
     }
   },
   {
@@ -985,14 +809,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1007,14 +831,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1029,14 +853,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1051,14 +875,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1075,14 +899,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1097,14 +921,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1119,14 +943,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1141,14 +965,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1163,36 +987,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
-    }
-  },
-  {
-    "canonical_name": "Half",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Algernon Moncrieff\u2019s Flat in Half-Moon Street, W."
-      }
-    },
-    "co_occurs_with": {
-      "After": 1,
-      "Algernon Moncrieff": 1,
-      "Algy": 1,
-      "Allen Aynesworth": 1,
-      "Ancient History": 1,
-      "Army Lists": 1,
-      "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1207,36 +1009,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
-    }
-  },
-  {
-    "canonical_name": "Drawing",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Drawing-Room at the Manor House, Woolton."
-      }
-    },
-    "co_occurs_with": {
-      "After": 1,
-      "Algernon Moncrieff": 1,
-      "Algy": 1,
-      "Allen Aynesworth": 1,
-      "Ancient History": 1,
-      "Army Lists": 1,
-      "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1251,14 +1031,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1273,14 +1053,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1295,14 +1075,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1317,14 +1097,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1339,36 +1119,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
-    }
-  },
-  {
-    "canonical_name": "Still",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Still leading his life of pleasure?"
-      }
-    },
-    "co_occurs_with": {
-      "After": 1,
-      "Algernon Moncrieff": 1,
-      "Algy": 1,
-      "Allen Aynesworth": 1,
-      "Ancient History": 1,
-      "Army Lists": 1,
-      "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1383,14 +1141,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1405,14 +1163,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   },
   {
@@ -1427,14 +1185,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Algernon Moncrieff": 1,
-      "Algy": 1,
       "Allen Aynesworth": 1,
       "Ancient History": 1,
       "Army Lists": 1,
       "Aunt Augusta": 1,
-      "Aunt Cecily": 1
+      "Aunt Cecily": 1,
+      "Australia": 1,
+      "Bankruptcy Court": 1
     }
   }
 ]

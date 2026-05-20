@@ -222,8 +222,18 @@ def find_mentions(text: str) -> Dict[str, List[Tuple[int, int]]]:
         # If already covered as part of a multi-cap entry, skip
         if any(w in k.split() for k in spans):
             continue
+        # Never accept a word in SENTENCE_STARTERS as a single-cap name.
+        # These (e.g. "There", "When", "Suddenly") appear capitalized
+        # often enough to clear the initial-position ratio test, but they
+        # are never actual character names.
+        if w in SENTENCE_STARTERS:
+            continue
         initial = single_initial.get(w, 0)
-        if total >= 3 and (total - initial) / total >= 0.5:
+        # Tightened: require at least 70% non-sentence-initial usage
+        # (was 50%), since the looser threshold let "There" slip through
+        # in books with frequent narrator-voice paragraphs starting
+        # mid-sentence after dialogue dashes.
+        if total >= 3 and (total - initial) / total >= 0.7:
             spans[w] = single_spans[w]
 
     return spans

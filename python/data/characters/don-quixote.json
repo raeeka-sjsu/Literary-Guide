@@ -281,17 +281,17 @@
       "La Mancha": 37,
       "Dulcinea": 26,
       "Rocinante": 23,
-      "Full": 23,
-      "The": 22,
+      "Full": 22,
       "Size": 22,
-      "Sancho": 20
+      "Sancho": 19,
+      "El Toboso": 18
     }
   },
   {
     "canonical_name": "Sancho",
     "aliases": [],
     "first_chapter": 3,
-    "total_mentions": 365,
+    "total_mentions": 362,
     "per_chapter": {
       "3": {
         "mentions": 28,
@@ -353,10 +353,6 @@
         "mentions": 14,
         "snippet": "see its fulfillment; and as for Sancho, though, as has been said, he"
       },
-      "64": {
-        "mentions": 3,
-        "snippet": "\u201cRemember, your worship,\u201d observed Sancho on hearing him say so, \u201cSe\u00f1or"
-      },
       "65": {
         "mentions": 8,
         "snippet": "his recovery we lose not only his own drolleries, but his squire Sancho"
@@ -375,14 +371,14 @@
       }
     },
     "co_occurs_with": {
-      "Don Quixote": 20,
+      "Don Quixote": 19,
       "La Mancha": 9,
-      "Dulcinea": 9,
-      "The": 7,
+      "Dulcinea": 8,
       "Rueful Countenance": 5,
       "By God": 5,
-      "Full": 5,
-      "Size": 5
+      "The Knight": 4,
+      "Samson Carrasco": 4,
+      "Full": 4
     }
   },
   {
@@ -570,9 +566,9 @@
       "Sancho Panza": 17,
       "El Toboso": 14,
       "Rocinante": 11,
-      "Full": 10,
+      "Full": 9,
       "Size": 9,
-      "Sancho": 9
+      "Dapple": 8
     }
   },
   {
@@ -773,122 +769,8 @@
       "Full": 13,
       "Size": 13,
       "Dulcinea": 11,
-      "The": 11,
-      "El Toboso": 10
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 131,
-    "per_chapter": {
-      "2": {
-        "mentions": 6,
-        "snippet": "\u201d The girls were looking at him and"
-      },
-      "4": {
-        "mentions": 7,
-        "snippet": "\u201d The farmer, seeing"
-      },
-      "5": {
-        "mentions": 3,
-        "snippet": "The translator of this history, when he comes to write this fifth"
-      },
-      "7": {
-        "mentions": 6,
-        "snippet": "The instant the housekeeper saw Sancho Panza shut himself in with her"
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "The"
-      },
-      "12": {
-        "mentions": 6,
-        "snippet": "The night succeeding the day of the encounter with Death, Don Quixote"
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "The traveller answered that the same morning they had met"
-      },
-      "14": {
-        "mentions": 4,
-        "snippet": "The more the vanquished hath of fair renown,"
-      },
-      "15": {
-        "mentions": 3,
-        "snippet": "The sage Cid Hamete Benengeli relates that as soon as Don Quixote took"
-      },
-      "18": {
-        "mentions": 4,
-        "snippet": "procure for me that which belonged to Amadis when he was called \u2018The"
-      },
-      "22": {
-        "mentions": 7,
-        "snippet": "The chain of galley slaves had by this time come up, and Don Quixote in"
-      },
-      "29": {
-        "mentions": 6,
-        "snippet": "The licentiate in reply told him not to be uneasy,"
-      },
-      "30": {
-        "mentions": 5,
-        "snippet": "The curate had hardly ceased speaking, when Sancho said, \u201cIn faith,"
-      },
-      "34": {
-        "mentions": 7,
-        "snippet": "\u201cThe tidings I have to give thee, Anselmo my friend,\u201d said Lothario,"
-      },
-      "49": {
-        "mentions": 10,
-        "snippet": "The other replied that all his"
-      },
-      "57": {
-        "mentions": 7,
-        "snippet": "The duchess gave his wife\u2019s letters to Sancho Panza, who shed tears"
-      },
-      "59": {
-        "mentions": 4,
-        "snippet": "The landlord replied he had no chickens, for the kites had stolen them."
-      },
-      "60": {
-        "mentions": 12,
-        "snippet": "The robbers made haste to search Dapple, and did not leave"
-      },
-      "61": {
-        "mentions": 6,
-        "snippet": "The dawn made way for the sun that with a face broader than a buckler"
-      },
-      "65": {
-        "mentions": 4,
-        "snippet": "The bachelor replied that at all events the affair promised well, and"
-      },
-      "66": {
-        "mentions": 3,
-        "snippet": "The"
-      },
-      "69": {
-        "mentions": 8,
-        "snippet": "The horsemen dismounted, and, together with the men on foot, without a"
-      },
-      "71": {
-        "mentions": 3,
-        "snippet": "The vanquished and afflicted Don Quixote went along very downcast in"
-      },
-      "73": {
-        "mentions": 3,
-        "snippet": "The two boys who had been quarrelling came over to look at the hare,"
-      }
-    },
-    "co_occurs_with": {
-      "Don Quixote": 22,
-      "La Mancha": 13,
-      "Sancho Panza": 12,
-      "Rocinante": 11,
-      "Dulcinea": 8,
-      "Full": 7,
-      "Size": 7,
-      "El Toboso": 7
+      "El Toboso": 10,
+      "Knight": 6
     }
   },
   {
@@ -1089,17 +971,67 @@
       "La Mancha": 24,
       "Dulcinea": 17,
       "Rocinante": 16,
-      "Full": 15,
       "El Toboso": 14,
+      "Full": 14,
       "Size": 14,
-      "The": 12
+      "Dapple": 10
+    }
+  },
+  {
+    "canonical_name": "Dorothea",
+    "aliases": [],
+    "first_chapter": 28,
+    "total_mentions": 93,
+    "per_chapter": {
+      "28": {
+        "mentions": 6,
+        "snippet": "you feel, fairest Dorothea\u2019 (for that is the name of this unhappy"
+      },
+      "29": {
+        "mentions": 12,
+        "snippet": "fair Dorothea, the only daughter of the rich Clenardo?"
+      },
+      "30": {
+        "mentions": 17,
+        "snippet": "Dorothea, who was shrewd and sprightly, and by this time thoroughly"
+      },
+      "36": {
+        "mentions": 23,
+        "snippet": "Hearing this Dorothea covered her face, and Cardenio retreated into Don"
+      },
+      "37": {
+        "mentions": 15,
+        "snippet": "the fair Princess Micomicona had turned into Dorothea, and the giant"
+      },
+      "42": {
+        "mentions": 6,
+        "snippet": "appearance, and but for having seen Dorothea, Luscinda, and Zoraida,"
+      },
+      "43": {
+        "mentions": 10,
+        "snippet": "The singer had got so far when it struck Dorothea that it was not fair"
+      },
+      "46": {
+        "mentions": 4,
+        "snippet": "resolve he went and knelt before Dorothea, who, however, would not"
+      }
+    },
+    "co_occurs_with": {
+      "Don Quixote": 8,
+      "Don Fernando": 6,
+      "Cardenio": 5,
+      "Luscinda": 5,
+      "Sancho Panza": 5,
+      "La Mancha": 4,
+      "Full": 3,
+      "Size": 3
     }
   },
   {
     "canonical_name": "Full",
     "aliases": [],
     "first_chapter": 4,
-    "total_mentions": 95,
+    "total_mentions": 92,
     "per_chapter": {
       "4": {
         "mentions": 3,
@@ -1192,71 +1124,17 @@
       "66": {
         "mentions": 3,
         "snippet": "Full Size"
-      },
-      "72": {
-        "mentions": 3,
-        "snippet": "Full Size"
       }
     },
     "co_occurs_with": {
-      "Don Quixote": 23,
       "Size": 23,
-      "La Mancha": 15,
-      "Sancho Panza": 15,
+      "Don Quixote": 22,
+      "La Mancha": 14,
+      "Sancho Panza": 14,
       "Rocinante": 13,
-      "Dulcinea": 10,
-      "El Toboso": 8,
-      "The": 7
-    }
-  },
-  {
-    "canonical_name": "Dorothea",
-    "aliases": [],
-    "first_chapter": 28,
-    "total_mentions": 93,
-    "per_chapter": {
-      "28": {
-        "mentions": 6,
-        "snippet": "you feel, fairest Dorothea\u2019 (for that is the name of this unhappy"
-      },
-      "29": {
-        "mentions": 12,
-        "snippet": "fair Dorothea, the only daughter of the rich Clenardo?"
-      },
-      "30": {
-        "mentions": 17,
-        "snippet": "Dorothea, who was shrewd and sprightly, and by this time thoroughly"
-      },
-      "36": {
-        "mentions": 23,
-        "snippet": "Hearing this Dorothea covered her face, and Cardenio retreated into Don"
-      },
-      "37": {
-        "mentions": 15,
-        "snippet": "the fair Princess Micomicona had turned into Dorothea, and the giant"
-      },
-      "42": {
-        "mentions": 6,
-        "snippet": "appearance, and but for having seen Dorothea, Luscinda, and Zoraida,"
-      },
-      "43": {
-        "mentions": 10,
-        "snippet": "The singer had got so far when it struck Dorothea that it was not fair"
-      },
-      "46": {
-        "mentions": 4,
-        "snippet": "resolve he went and knelt before Dorothea, who, however, would not"
-      }
-    },
-    "co_occurs_with": {
-      "Don Quixote": 8,
-      "Don Fernando": 6,
-      "Cardenio": 5,
-      "Luscinda": 5,
-      "Sancho Panza": 5,
-      "La Mancha": 4,
-      "Full": 3,
-      "Size": 3
+      "Dulcinea": 9,
+      "El Toboso": 7,
+      "Don Fernando": 5
     }
   },
   {
@@ -1365,8 +1243,8 @@
       "Sancho Panza": 14,
       "Rocinante": 13,
       "Dulcinea": 9,
-      "The": 7,
-      "El Toboso": 7
+      "El Toboso": 7,
+      "Don Fernando": 5
     }
   },
   {
@@ -1528,11 +1406,11 @@
       "Don Quixote": 37,
       "Sancho Panza": 24,
       "Dulcinea": 19,
-      "Full": 15,
+      "Full": 14,
       "Size": 14,
       "El Toboso": 13,
       "Rocinante": 13,
-      "The": 13
+      "Sancho": 9
     }
   },
   {
@@ -1760,7 +1638,7 @@
       "Rocinante": 6,
       "Full": 5,
       "Size": 5,
-      "The": 5
+      "El Toboso": 4
     }
   },
   {
@@ -1838,7 +1716,7 @@
       "Cide Hamete": 3,
       "Full": 3,
       "Size": 3,
-      "The": 3
+      "From": 2
     }
   },
   {
@@ -1867,10 +1745,10 @@
       "Antonio Moreno": 3,
       "Don Antonio Moreno": 3,
       "Don Quixote": 3,
-      "Sancho": 3,
       "Dulcinea": 2,
       "La Mancha": 2,
-      "Ricote": 2
+      "Sancho": 2,
+      "Don Antonio": 2
     }
   },
   {
@@ -1986,9 +1864,9 @@
       "Sancho Panza": 14,
       "La Mancha": 13,
       "Rocinante": 10,
-      "Full": 8,
+      "Full": 7,
       "Size": 7,
-      "The": 7
+      "Rueful Countenance": 4
     }
   },
   {
@@ -2016,7 +1894,7 @@
       "Emperor Charlemagne": 1,
       "For Melisendra": 1,
       "Gaiferos Don": 1,
-      "Here": 1
+      "King Marsilio": 1
     }
   },
   {
@@ -2041,36 +1919,6 @@
       "Don Quixote": 1,
       "Don Vicente Torrellas": 1,
       "Dulcinea": 1
-    }
-  },
-  {
-    "canonical_name": "Ricote",
-    "aliases": [],
-    "first_chapter": 54,
-    "total_mentions": 34,
-    "per_chapter": {
-      "54": {
-        "mentions": 23,
-        "snippet": "Panza, that thou dost not know thy neighbour Ricote, the Morisco"
-      },
-      "63": {
-        "mentions": 5,
-        "snippet": "I am thy father Ricote, come back to look for thee, unable to live"
-      },
-      "65": {
-        "mentions": 6,
-        "snippet": "Ricote and his daughter came out to welcome"
-      }
-    },
-    "co_occurs_with": {
-      "Don Quixote": 3,
-      "Spain": 2,
-      "Ana Felix": 2,
-      "Antonio Moreno": 2,
-      "Don Antonio Moreno": 2,
-      "Don Gregorio": 2,
-      "La Mancha": 2,
-      "Sancho": 2
     }
   },
   {
@@ -2306,53 +2154,29 @@
     }
   },
   {
-    "canonical_name": "Thou",
+    "canonical_name": "Ricote",
     "aliases": [],
-    "first_chapter": 21,
+    "first_chapter": 54,
     "total_mentions": 28,
     "per_chapter": {
-      "21": {
+      "54": {
+        "mentions": 23,
+        "snippet": "Panza, that thou dost not know thy neighbour Ricote, the Morisco"
+      },
+      "63": {
         "mentions": 5,
-        "snippet": "\u201cThou art a bad Christian, Sancho,\u201d said Don Quixote on hearing this,"
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "\u201cThou art a coward by nature, Sancho,\u201d said Don Quixote, \u201cbut lest thou"
-      },
-      "44": {
-        "mentions": 3,
-        "snippet": "\u201cThou wilt do well, Sancho,\u201d said Don Quixote, \u201cand thou wilt let me"
-      },
-      "58": {
-        "mentions": 3,
-        "snippet": "\u201cThou sayest well, Sancho,\u201d said Don Quixote, \u201cbut remember all times"
-      },
-      "60": {
-        "mentions": 3,
-        "snippet": "Thou diest on the spot."
-      },
-      "62": {
-        "mentions": 5,
-        "snippet": "Thou art mad;"
-      },
-      "66": {
-        "mentions": 3,
-        "snippet": "\u201cThou art a great philosopher, Sancho,\u201d said Don Quixote; \u201cthou"
-      },
-      "74": {
-        "mentions": 3,
-        "snippet": "Thou art neither its kinsman nor its friend, thy"
+        "snippet": "I am thy father Ricote, come back to look for thee, unable to live"
       }
     },
     "co_occurs_with": {
-      "Don Quixote": 8,
-      "Sancho Panza": 6,
-      "Full": 6,
-      "Size": 6,
-      "Dulcinea": 5,
-      "La Mancha": 5,
-      "Rocinante": 5,
-      "El Toboso": 2
+      "Don Quixote": 2,
+      "Spain": 2,
+      "Catholic Christians": 1,
+      "Cide Hamete": 1,
+      "Dapple": 1,
+      "Don Pedro Gregorio": 1,
+      "Francisca Ricota": 1,
+      "Juan Tiopieyo": 1
     }
   },
   {
@@ -2762,11 +2586,11 @@
       "Don Quixote": 10,
       "Sancho Panza": 7,
       "La Mancha": 6,
-      "The": 5,
       "Dulcinea": 4,
       "Samson Carrasco": 4,
       "El Toboso": 3,
-      "Sancho": 3
+      "Sancho": 3,
+      "Cide Hamete": 3
     }
   },
   {
@@ -2879,8 +2703,8 @@
       "Sancho Panza": 6,
       "Sancho": 4,
       "Teresa Panza": 4,
-      "The": 4,
-      "El Toboso": 3
+      "El Toboso": 3,
+      "Tom Cecial": 3
     }
   },
   {
@@ -2904,9 +2728,9 @@
       "Knight": 2,
       "La Mancha": 2,
       "Rocinante": 2,
-      "The": 2,
       "Brother Sancho": 1,
-      "Dapple": 1
+      "Dapple": 1,
+      "Sancho": 1
     }
   },
   {
@@ -2937,6 +2761,44 @@
       "Aragon": 1,
       "Blessed Virgin": 1,
       "Calle de Santiago": 1
+    }
+  },
+  {
+    "canonical_name": "Thou",
+    "aliases": [],
+    "first_chapter": 21,
+    "total_mentions": 19,
+    "per_chapter": {
+      "21": {
+        "mentions": 5,
+        "snippet": "\u201cThou art a bad Christian, Sancho,\u201d said Don Quixote on hearing this,"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "\u201cThou art a coward by nature, Sancho,\u201d said Don Quixote, \u201cbut lest thou"
+      },
+      "58": {
+        "mentions": 3,
+        "snippet": "\u201cThou sayest well, Sancho,\u201d said Don Quixote, \u201cbut remember all times"
+      },
+      "62": {
+        "mentions": 5,
+        "snippet": "Thou art mad;"
+      },
+      "66": {
+        "mentions": 3,
+        "snippet": "\u201cThou art a great philosopher, Sancho,\u201d said Don Quixote; \u201cthou"
+      }
+    },
+    "co_occurs_with": {
+      "Don Quixote": 5,
+      "Full": 4,
+      "Size": 4,
+      "Rocinante": 3,
+      "Sancho Panza": 3,
+      "By God": 2,
+      "Rueful Countenance": 2,
+      "Sancho": 2
     }
   },
   {
@@ -2971,6 +2833,40 @@
       "Hamete Benengeli": 2,
       "Miguel de Cervantes": 2,
       "Rocinante": 2
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 2,
+    "total_mentions": 18,
+    "per_chapter": {
+      "2": {
+        "mentions": 6,
+        "snippet": "\u201d The girls were looking at him and"
+      },
+      "13": {
+        "mentions": 4,
+        "snippet": "The traveller answered that the same morning they had met"
+      },
+      "14": {
+        "mentions": 4,
+        "snippet": "The more the vanquished hath of fair renown,"
+      },
+      "59": {
+        "mentions": 4,
+        "snippet": "The landlord replied he had no chickens, for the kites had stolen them."
+      }
+    },
+    "co_occurs_with": {
+      "Don Quixote": 4,
+      "La Mancha": 4,
+      "Rocinante": 3,
+      "El Toboso": 3,
+      "Dulcinea": 2,
+      "Campo de Montiel": 1,
+      "Princess Dulcinea": 1,
+      "Puerto Lapice": 1
     }
   },
   {
@@ -3033,40 +2929,6 @@
       "Rueful Countenance": 3,
       "Full": 3,
       "Size": 3
-    }
-  },
-  {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 28,
-    "total_mentions": 16,
-    "per_chapter": {
-      "28": {
-        "mentions": 7,
-        "snippet": "All this was heard distinctly by the curate and those with him, and as"
-      },
-      "31": {
-        "mentions": 3,
-        "snippet": "\u201cAll that is not unsatisfactory to me,\u201d said Don Quixote."
-      },
-      "36": {
-        "mentions": 3,
-        "snippet": "All this"
-      },
-      "44": {
-        "mentions": 3,
-        "snippet": "All this was brought home to Don Quixote by the bursting of his"
-      }
-    },
-    "co_occurs_with": {
-      "Don Quixote": 4,
-      "Cardenio": 2,
-      "Don Fernando": 2,
-      "Dorothea": 2,
-      "Full": 2,
-      "La Mancha": 2,
-      "Luscinda": 2,
-      "Size": 2
     }
   },
   {
@@ -3134,13 +2996,13 @@
     },
     "co_occurs_with": {
       "Don Quixote": 3,
-      "Sancho": 3,
       "Ana Felix": 2,
       "Antonio Moreno": 2,
       "Don Antonio": 2,
       "Don Antonio Moreno": 2,
       "Don Gregorio": 2,
-      "Full": 2
+      "Full": 2,
+      "Rocinante": 2
     }
   },
   {
@@ -3283,10 +3145,10 @@
       "Don Antonio Moreno": 3,
       "Don Gregorio": 3,
       "Don Quixote": 3,
-      "Sancho": 3,
       "Dulcinea": 2,
       "La Mancha": 2,
-      "Ricote": 2
+      "Sancho": 2,
+      "Don Antonio": 2
     }
   },
   {
@@ -3400,7 +3262,7 @@
       "Spanish": 2,
       "Turks": 2,
       "Zoraida": 2,
-      "Allah": 1
+      "Arabic": 1
     }
   },
   {
@@ -3455,11 +3317,11 @@
       "Antonio Moreno": 5,
       "Don Quixote": 5,
       "Dulcinea": 4,
-      "Sancho": 4,
       "Don Antonio": 3,
       "La Mancha": 3,
       "Ana Felix": 3,
-      "Don Gregorio": 3
+      "Don Gregorio": 3,
+      "Sancho": 3
     }
   },
   {
@@ -3486,36 +3348,6 @@
       "Algiers": 1,
       "Andalusia": 1,
       "Aragon": 1
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 10,
-    "per_chapter": {
-      "3": {
-        "mentions": 4,
-        "snippet": "\u201cThere is no human history in the world, I suppose,\u201d said Don Quixote,"
-      },
-      "20": {
-        "mentions": 3,
-        "snippet": "\u201cThere is no need to weep,\u201d answered Sancho, \u201cfor I will amuse your"
-      },
-      "30": {
-        "mentions": 3,
-        "snippet": "\u201cThere is no occasion to strip,\u201d said Sancho; \u201cfor I know your worship"
-      }
-    },
-    "co_occurs_with": {
-      "Don Quixote": 3,
-      "El Toboso": 2,
-      "Sancho Panza": 2,
-      "Dulcinea": 2,
-      "La Mancha": 2,
-      "Friend Sancho": 1,
-      "Full": 1,
-      "Lope Ruiz": 1
     }
   },
   {
@@ -3569,8 +3401,8 @@
       "Don Quixote": 9,
       "La Mancha": 6,
       "Sancho": 5,
-      "Full": 5,
       "Sancho Panza": 5,
+      "Full": 4,
       "Size": 4,
       "Dulcinea": 4,
       "El Toboso": 3
@@ -3688,7 +3520,7 @@
       "La Mancha": 5,
       "Size": 5,
       "Dapple": 4,
-      "The": 4
+      "Altisidora": 3
     }
   },
   {
@@ -3779,10 +3611,10 @@
       "Don Quixote": 2,
       "La Mancha": 2,
       "Sancho Panza": 2,
-      "All": 1,
       "Cide Hamete": 1,
       "Countess Trifaldi": 1,
-      "Distressed One": 1
+      "Distressed One": 1,
+      "Dulcinea": 1
     }
   },
   {
@@ -3816,11 +3648,11 @@
       "Don Antonio Moreno": 5,
       "Don Quixote": 5,
       "Dulcinea": 4,
-      "Sancho": 4,
       "Don Antonio": 3,
       "La Mancha": 3,
       "Ana Felix": 3,
-      "Don Gregorio": 3
+      "Don Gregorio": 3,
+      "Sancho": 3
     }
   },
   {
@@ -3991,8 +3823,8 @@
       "La Mancha": 2,
       "Saint John": 2,
       "Size": 2,
-      "The": 2,
-      "Alexander the Great": 1
+      "Alexander the Great": 1,
+      "Barcelona": 1
     }
   },
   {
@@ -4064,9 +3896,9 @@
       "La Mancha": 2,
       "Moor": 2,
       "Sancho Panza": 2,
-      "Thou": 2,
       "Aldonza Lorenzo": 1,
-      "Alfonso Munio": 1
+      "Alfonso Munio": 1,
+      "Algiers": 1
     }
   },
   {
@@ -4174,32 +4006,6 @@
     }
   },
   {
-    "canonical_name": "Second",
-    "aliases": [],
-    "first_chapter": 52,
-    "total_mentions": 7,
-    "per_chapter": {
-      "52": {
-        "mentions": 3,
-        "snippet": "Quixote who, under the name of Second Part, has run masquerading"
-      },
-      "72": {
-        "mentions": 4,
-        "snippet": "turning over the leaves of that book of the Second Part of my history I"
-      }
-    },
-    "co_occurs_with": {
-      "Don Quixote": 2,
-      "Full": 2,
-      "La Mancha": 2,
-      "Sancho Panza": 2,
-      "By Rocinante": 1,
-      "Conde de Lemos": 1,
-      "Don Bernardo": 1,
-      "Don Bernardo de Sandoval": 1
-    }
-  },
-  {
     "canonical_name": "Tom Cecial",
     "aliases": [],
     "first_chapter": 14,
@@ -4294,7 +4100,7 @@
       "Don Quixotes": 1,
       "Dulcinea": 1,
       "El Toboso": 1,
-      "Full": 1
+      "La Mancha": 1
     }
   },
   {
@@ -4354,28 +4160,6 @@
       "74": {
         "mentions": 6,
         "snippet": "portrait painter, and friend of Pope, Swift, Arbuthnot, and Gay."
-      }
-    },
-    "co_occurs_with": {
-      "Aldonza Lorenzo": 1,
-      "Alfonso Munio": 1,
-      "Algiers": 1,
-      "Amadis": 1,
-      "Andalusia": 1,
-      "Aragon": 1,
-      "Aristotle": 1,
-      "Basque Provinces": 1
-    }
-  },
-  {
-    "canonical_name": "Navarrete",
-    "aliases": [],
-    "first_chapter": 74,
-    "total_mentions": 6,
-    "per_chapter": {
-      "74": {
-        "mentions": 6,
-        "snippet": "him, Rios, Pellicer, or Navarrete, could do was to eke out the few"
       }
     },
     "co_occurs_with": {
@@ -4562,28 +4346,6 @@
     }
   },
   {
-    "canonical_name": "Torralva",
-    "aliases": [],
-    "first_chapter": 20,
-    "total_mentions": 6,
-    "per_chapter": {
-      "20": {
-        "mentions": 6,
-        "snippet": "was in love with a shepherdess called Torralva, which shepherdess"
-      }
-    },
-    "co_occurs_with": {
-      "Don Quixote": 1,
-      "El Toboso": 1,
-      "Friend Sancho": 1,
-      "Full": 1,
-      "Lope Ruiz": 1,
-      "Nine Worthies": 1,
-      "Rocinante": 1,
-      "Round Table": 1
-    }
-  },
-  {
     "canonical_name": "Gines de Pasamonte",
     "aliases": [],
     "first_chapter": 22,
@@ -4610,7 +4372,7 @@
       "Holy Brotherhood": 2,
       "La Mancha": 2,
       "Rocinante": 2,
-      "The": 2
+      "Don Ginesillo": 1
     }
   },
   {
@@ -4714,29 +4476,7 @@
       "Spanish": 2,
       "Turks": 2,
       "Zoraida": 2,
-      "Allah": 1
-    }
-  },
-  {
-    "canonical_name": "Allah",
-    "aliases": [],
-    "first_chapter": 40,
-    "total_mentions": 6,
-    "per_chapter": {
-      "40": {
-        "mentions": 6,
-        "snippet": "but to Allah, because since then I have seen her twice, and she told me"
-      }
-    },
-    "co_occurs_with": {
-      "Algiers": 1,
-      "Arabic": 1,
-      "Christians": 1,
-      "Church": 1,
-      "Constantinople": 1,
-      "El Uchali": 1,
-      "Grand Signor": 1,
-      "Hadji Morato": 1
+      "Arabic": 1
     }
   },
   {
@@ -4935,8 +4675,7 @@
       "Altisidora": 1,
       "Don Quixote": 1,
       "Holy Office": 1,
-      "Sancho Panza": 1,
-      "The": 1
+      "Sancho Panza": 1
     }
   },
   {
@@ -5082,9 +4821,9 @@
       "Knight": 2,
       "La Mancha": 2,
       "Rocinante": 2,
-      "The": 2,
       "Brother Sancho": 1,
-      "Dapple": 1
+      "Dapple": 1,
+      "Sancho": 1
     }
   },
   {
@@ -5379,8 +5118,7 @@
       "Princess Oriana": 1,
       "Rocinante": 1,
       "Sancho Panza": 1,
-      "Size": 1,
-      "The": 1
+      "Size": 1
     }
   },
   {
@@ -5534,9 +5272,9 @@
       "Dulcinea": 2,
       "Full": 2,
       "Rocinante": 2,
-      "Sancho": 2,
       "Size": 2,
-      "Rodriguez": 1
+      "Rodriguez": 1,
+      "Samson Carrasco": 1
     }
   },
   {
@@ -5600,13 +5338,13 @@
     },
     "co_occurs_with": {
       "Algiers": 1,
-      "Allah": 1,
       "Christians": 1,
       "Church": 1,
       "Constantinople": 1,
       "El Uchali": 1,
       "Grand Signor": 1,
-      "Hadji Morato": 1
+      "Hadji Morato": 1,
+      "Hassan Aga": 1
     }
   },
   {
@@ -5673,28 +5411,6 @@
       "Gaul": 1,
       "Hamete Benengeli": 1,
       "Jupiter the Thunderer": 1
-    }
-  },
-  {
-    "canonical_name": "Look",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 4,
-    "per_chapter": {
-      "5": {
-        "mentions": 4,
-        "snippet": "\u201cLook here, Sancho,\u201d said Teresa; \u201cever since you joined on to a"
-      }
-    },
-    "co_occurs_with": {
-      "Cascajo": 1,
-      "Don Quixote": 1,
-      "Juan Tocho": 1,
-      "Lope Tocho": 1,
-      "Mari": 1,
-      "Sancha": 1,
-      "Sancho": 1,
-      "Teresa Panza": 1
     }
   },
   {
@@ -5830,9 +5546,9 @@
       "Rocinante": 1,
       "Sancho": 1,
       "Size": 1,
-      "The": 1,
       "Thou": 1,
-      "Tosilos": 1
+      "Tosilos": 1,
+      "White Moon": 1
     }
   },
   {
@@ -5962,7 +5678,7 @@
       "Aragon": 1,
       "Aristotle": 1,
       "Basque Provinces": 1,
-      "Before": 1
+      "Blanco de Paz": 1
     }
   },
   {
@@ -5974,28 +5690,6 @@
       "74": {
         "mentions": 3,
         "snippet": "son of his, followed Ferdinand III in the great campaign of 1236-48"
-      }
-    },
-    "co_occurs_with": {
-      "Aldonza Lorenzo": 1,
-      "Alfonso Munio": 1,
-      "Algiers": 1,
-      "Amadis": 1,
-      "Andalusia": 1,
-      "Aragon": 1,
-      "Aristotle": 1,
-      "Basque Provinces": 1
-    }
-  },
-  {
-    "canonical_name": "Before",
-    "aliases": [],
-    "first_chapter": 74,
-    "total_mentions": 3,
-    "per_chapter": {
-      "74": {
-        "mentions": 3,
-        "snippet": "Before long he discovered that"
       }
     },
     "co_occurs_with": {
@@ -6054,28 +5748,6 @@
     }
   },
   {
-    "canonical_name": "Was",
-    "aliases": [],
-    "first_chapter": 74,
-    "total_mentions": 3,
-    "per_chapter": {
-      "74": {
-        "mentions": 3,
-        "snippet": "Was it an unhappy life, that of Cervantes?"
-      }
-    },
-    "co_occurs_with": {
-      "Aldonza Lorenzo": 1,
-      "Alfonso Munio": 1,
-      "Algiers": 1,
-      "Amadis": 1,
-      "Andalusia": 1,
-      "Aragon": 1,
-      "Aristotle": 1,
-      "Basque Provinces": 1
-    }
-  },
-  {
     "canonical_name": "Aristotle",
     "aliases": [],
     "first_chapter": 74,
@@ -6094,7 +5766,7 @@
       "Andalusia": 1,
       "Aragon": 1,
       "Basque Provinces": 1,
-      "Before": 1
+      "Blanco de Paz": 1
     }
   },
   {
@@ -6176,28 +5848,6 @@
       "6": {
         "mentions": 3,
         "snippet": "said, \u201cHistory of the Famous Knight, Tirante el Blanco."
-      }
-    },
-    "co_occurs_with": {
-      "Amadis": 1,
-      "Antonio de Lofraso": 1,
-      "Apollo": 1,
-      "Diana": 1,
-      "Don Alonso": 1,
-      "Don Alonso de Ercilla": 1,
-      "Don Belianis": 1,
-      "Don Kyrieleison": 1
-    }
-  },
-  {
-    "canonical_name": "These",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 3,
-    "per_chapter": {
-      "6": {
-        "mentions": 3,
-        "snippet": "\u201cThese must be, not chivalry, but poetry,\u201d said the curate; and opening"
       }
     },
     "co_occurs_with": {
@@ -6410,28 +6060,6 @@
       "30": {
         "mentions": 3,
         "snippet": "close to our kingdom, Pandafilando of the Scowl by name\u2014for it is"
-      }
-    },
-    "co_occurs_with": {
-      "Dapple": 1,
-      "Don Azote": 1,
-      "Don Gigote": 1,
-      "Don Quixote": 1,
-      "Dorothea": 1,
-      "Dulcinea": 1,
-      "Friend Panza": 1,
-      "Gines de Pasamonte": 1
-    }
-  },
-  {
-    "canonical_name": "While",
-    "aliases": [],
-    "first_chapter": 30,
-    "total_mentions": 3,
-    "per_chapter": {
-      "30": {
-        "mentions": 3,
-        "snippet": "While this was going on they saw coming along the road they were"
       }
     },
     "co_occurs_with": {
@@ -6856,7 +6484,6 @@
       "Cascajo": 1,
       "Don Quixote": 1,
       "Juan Tocho": 1,
-      "Look": 1,
       "Lope Tocho": 1,
       "Sancha": 1,
       "Sancho": 1,
@@ -6878,7 +6505,6 @@
       "Cascajo": 1,
       "Don Quixote": 1,
       "Juan Tocho": 1,
-      "Look": 1,
       "Lope Tocho": 1,
       "Mari": 1,
       "Sancho": 1,
@@ -6899,34 +6525,11 @@
     "co_occurs_with": {
       "Don Quixote": 1,
       "Juan Tocho": 1,
-      "Look": 1,
       "Lope Tocho": 1,
       "Mari": 1,
       "Sancha": 1,
       "Sancho": 1,
       "Teresa Panza": 1
-    }
-  },
-  {
-    "canonical_name": "Get",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 3,
-    "per_chapter": {
-      "10": {
-        "mentions": 3,
-        "snippet": "testily, \u201cGet out of the way, bad luck to you, and let us pass, for we"
-      }
-    },
-    "co_occurs_with": {
-      "Dapple": 1,
-      "Don Quixote": 1,
-      "Dulcinea": 1,
-      "El Toboso": 1,
-      "Full": 1,
-      "Holy God": 1,
-      "La Mancha": 1,
-      "Rueful Countenance": 1
     }
   },
   {
@@ -6960,28 +6563,6 @@
       "26": {
         "mentions": 3,
         "snippet": "that the stately Moor who is in that corridor is King Marsilio of"
-      }
-    },
-    "co_occurs_with": {
-      "Don Gaiferos": 1,
-      "Don Gaiferos Don": 1,
-      "Don Quixote": 1,
-      "Don Rodrigo": 1,
-      "Don Roland": 1,
-      "Emperor Charlemagne": 1,
-      "For Melisendra": 1,
-      "Gaiferos Don": 1
-    }
-  },
-  {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 26,
-    "total_mentions": 3,
-    "per_chapter": {
-      "26": {
-        "mentions": 3,
-        "snippet": "Here Don Quixote called out, \u201cChild, child, go straight on with your"
       }
     },
     "co_occurs_with": {
@@ -7114,28 +6695,6 @@
     }
   },
   {
-    "canonical_name": "Arm",
-    "aliases": [],
-    "first_chapter": 53,
-    "total_mentions": 3,
-    "per_chapter": {
-      "53": {
-        "mentions": 3,
-        "snippet": "approached one of them called out to him, \u201cArm at once, your lordship,"
-      }
-    },
-    "co_occurs_with": {
-      "By God": 1,
-      "Cide Hamete the Mahometan": 1,
-      "Dapple": 1,
-      "Doctor Recio": 1,
-      "Don Quixote": 1,
-      "Full": 1,
-      "Pedro Recio": 1,
-      "Sancho": 1
-    }
-  },
-  {
     "canonical_name": "Christ",
     "aliases": [],
     "first_chapter": 58,
@@ -7155,28 +6714,6 @@
       "Don Saint James the Moorslayer": 1,
       "Dulcinea": 1,
       "El Toboso": 1
-    }
-  },
-  {
-    "canonical_name": "Hold",
-    "aliases": [],
-    "first_chapter": 58,
-    "total_mentions": 3,
-    "per_chapter": {
-      "58": {
-        "mentions": 3,
-        "snippet": "the first to speak and said to Don Quixote, \u201cHold, sir knight, and do"
-      }
-    },
-    "co_occurs_with": {
-      "Altisidora": 1,
-      "Christ": 1,
-      "Dapple": 1,
-      "Don Quixote": 1,
-      "Don Saint George": 1,
-      "Don Saint James": 1,
-      "Don Saint James the Moorslayer": 1,
-      "Dulcinea": 1
     }
   },
   {

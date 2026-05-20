@@ -3,7 +3,7 @@
     "canonical_name": "Erik",
     "aliases": [],
     "first_chapter": 9,
-    "total_mentions": 251,
+    "total_mentions": 233,
     "per_chapter": {
       "9": {
         "mentions": 6,
@@ -53,20 +53,16 @@
         "mentions": 16,
         "snippet": "belongs entirely to Erik, who built the first room of this kind under"
       },
-      "25": {
-        "mentions": 18,
-        "snippet": "de Chagny to Christine, I to Erik."
-      },
       "26": {
         "mentions": 55,
         "snippet": "Erik poured a drop of rum into the daroga's cup and, pointing to the"
       }
     },
     "co_occurs_with": {
-      "Christine Daae": 14,
-      "Vicomte de Chagny": 10,
+      "Christine Daae": 13,
+      "Vicomte de Chagny": 9,
       "Opera": 7,
-      "Raoul": 7,
+      "Raoul": 6,
       "Don Juan Triumphant": 4,
       "Juan Triumphant": 4,
       "Rue Scribe": 4,
@@ -77,15 +73,11 @@
     "canonical_name": "Raoul",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 236,
+    "total_mentions": 206,
     "per_chapter": {
       "2": {
         "mentions": 34,
         "snippet": "sisters and his brother, Raoul, would not hear of a division and waived"
-      },
-      "8": {
-        "mentions": 19,
-        "snippet": "Raoul, of course, was the first to be astonished at the prima donna's"
       },
       "10": {
         "mentions": 13,
@@ -98,10 +90,6 @@
       "12": {
         "mentions": 44,
         "snippet": "Raoul to come quite close to her and they walked side by side along the"
-      },
-      "15": {
-        "mentions": 11,
-        "snippet": "Raoul's first thought, after Christine Daae's fantastic disappearance,"
       },
       "18": {
         "mentions": 12,
@@ -121,14 +109,14 @@
       }
     },
     "co_occurs_with": {
-      "Christine Daae": 10,
-      "Erik": 7,
-      "Opera": 6,
-      "Vicomte de Chagny": 6,
-      "Mamma Valerius": 4,
-      "Joseph Buquet": 3,
-      "Angel": 3,
-      "Music": 3
+      "Christine Daae": 8,
+      "Erik": 6,
+      "Opera": 4,
+      "Vicomte de Chagny": 4,
+      "Mamma Valerius": 3,
+      "Comte de Chagny": 2,
+      "Count Philippe": 2,
+      "Joseph Buquet": 2
     }
   },
   {
@@ -229,10 +217,10 @@
       }
     },
     "co_occurs_with": {
-      "Erik": 14,
       "Vicomte de Chagny": 13,
+      "Erik": 13,
       "Opera": 12,
-      "Raoul": 10,
+      "Raoul": 8,
       "Mamma Valerius": 7,
       "Music": 6,
       "Comte de Chagny": 5,
@@ -301,19 +289,19 @@
     "co_occurs_with": {
       "Christine Daae": 12,
       "Erik": 7,
-      "Raoul": 6,
       "Vicomte de Chagny": 6,
       "Angel": 5,
       "Mamma Valerius": 5,
       "Rue Scribe": 5,
-      "Joseph Buquet": 4
+      "Joseph Buquet": 4,
+      "Music": 4
     }
   },
   {
     "canonical_name": "Mme",
     "aliases": [],
     "first_chapter": 4,
-    "total_mentions": 79,
+    "total_mentions": 76,
     "per_chapter": {
       "4": {
         "mentions": 23,
@@ -330,21 +318,17 @@
       "16": {
         "mentions": 41,
         "snippet": "seal it with your own seal and hand it to Mme."
-      },
-      "17": {
-        "mentions": 3,
-        "snippet": "Mme."
       }
     },
     "co_occurs_with": {
       "Christine Daae": 4,
-      "Box Five": 4,
       "Opera": 3,
-      "Joseph Buquet": 2,
+      "Box Five": 3,
       "Vicomte de Chagny": 2,
-      "Moncharmin": 2,
       "Carlotta": 2,
-      "Firmin Richard": 2
+      "Firmin Richard": 2,
+      "Mr. Manager": 2,
+      "Mercier": 2
     }
   },
   {
@@ -375,9 +359,9 @@
       }
     },
     "co_occurs_with": {
-      "Richard": 4,
       "Christine Daae": 4,
       "Box Five": 3,
+      "Richard": 3,
       "Comte de Chagny": 3,
       "Mother Giry": 3,
       "Vicomte de Chagny": 3,
@@ -388,17 +372,9 @@
   {
     "canonical_name": "Richard",
     "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 67,
+    "first_chapter": 17,
+    "total_mentions": 53,
     "per_chapter": {
-      "6": {
-        "mentions": 8,
-        "snippet": "Moncharmin and Richard were"
-      },
-      "14": {
-        "mentions": 6,
-        "snippet": "\"This evening, Richard and Moncharmin were behaving like lunatics,"
-      },
       "17": {
         "mentions": 39,
         "snippet": "at the end of which it was agreed that Richard should yield to all"
@@ -413,14 +389,14 @@
       }
     },
     "co_occurs_with": {
-      "Moncharmin": 4,
-      "Box Five": 3,
-      "Christine Daae": 3,
-      "Credit Central": 2,
-      "La Borderie": 2,
+      "Moncharmin": 3,
+      "Box Five": 2,
       "National Academy": 2,
-      "Remy": 2,
-      "Comte de Chagny": 2
+      "Christine Daae": 2,
+      "Comte de Chagny": 2,
+      "Erik": 2,
+      "Music": 2,
+      "Vicomte de Chagny": 2
     }
   },
   {
@@ -491,8 +467,8 @@
       "Music": 4,
       "Perros": 4,
       "The Resurrection": 4,
-      "Raoul": 3,
-      "Vicomte de Chagny": 3
+      "Vicomte de Chagny": 3,
+      "de Chagny": 3
     }
   },
   {
@@ -534,7 +510,7 @@
       "Opera": 4,
       "Erik": 4,
       "Perros": 3,
-      "Raoul": 3
+      "The Resurrection": 3
     }
   },
   {
@@ -554,43 +530,13 @@
     },
     "co_occurs_with": {
       "Box Five": 1,
-      "Gabriel": 1,
       "Jammes": 1,
       "Joseph Buquet": 1,
       "La Sorelli": 1,
       "Meg Giry": 1,
       "Opera": 1,
-      "Poligny": 1
-    }
-  },
-  {
-    "canonical_name": "Gabriel",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 32,
-    "per_chapter": {
-      "1": {
-        "mentions": 7,
-        "snippet": "\"And Gabriel saw him too!"
-      },
-      "14": {
-        "mentions": 22,
-        "snippet": "They were Gabriel, the chorus-master; Mercier,"
-      },
-      "16": {
-        "mentions": 3,
-        "snippet": "story, under the promise of secrecy, to Gabriel and Mercier, they put"
-      }
-    },
-    "co_occurs_with": {
-      "Box Five": 2,
-      "There": 2,
-      "Christine Daae": 2,
-      "Mercier": 2,
-      "Mother Giry": 2,
-      "Jammes": 1,
-      "Joseph Buquet": 1,
-      "La Sorelli": 1
+      "Poligny": 1,
+      "Roi de Lahore": 1
     }
   },
   {
@@ -633,14 +579,14 @@
       }
     },
     "co_occurs_with": {
-      "Mme": 4,
       "Christine Daae": 4,
       "Jammes": 3,
       "Joseph Buquet": 3,
       "Opera": 3,
       "Firmin Richard": 3,
       "National Academy": 3,
-      "Moncharmin": 3
+      "Moncharmin": 3,
+      "Mme": 3
     }
   },
   {
@@ -668,9 +614,9 @@
       "Box Five": 2,
       "Mme": 2,
       "Moncharmin": 2,
-      "There": 2,
       "Gabriel": 2,
-      "All": 1
+      "Carlotta": 1,
+      "Carolus Fonta": 1
     }
   },
   {
@@ -770,69 +716,39 @@
     },
     "co_occurs_with": {
       "Christine Daae": 13,
-      "Erik": 10,
+      "Erik": 9,
       "Opera": 6,
-      "Raoul": 6,
       "Music": 5,
       "Mamma Valerius": 4,
       "Comte de Chagny": 4,
+      "Raoul": 4,
       "Angel": 3
     }
   },
   {
-    "canonical_name": "The",
+    "canonical_name": "Gabriel",
     "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 26,
+    "first_chapter": 14,
+    "total_mentions": 25,
     "per_chapter": {
-      "3": {
-        "mentions": 14,
-        "snippet": "\"The Opera ghost!"
+      "14": {
+        "mentions": 22,
+        "snippet": "They were Gabriel, the chorus-master; Mercier,"
       },
-      "17": {
-        "mentions": 12,
-        "snippet": "The more so as, at the time of the first scene, as Richard himself"
+      "16": {
+        "mentions": 3,
+        "snippet": "story, under the promise of secrecy, to Gabriel and Mercier, they put"
       }
     },
     "co_occurs_with": {
-      "Box Five": 2,
-      "Joseph Buquet": 2,
-      "National Academy": 2,
-      "Armand Moncharmin": 1,
-      "Corps de Ballet": 1,
-      "Firmin Richard": 1,
-      "Jammes": 1,
-      "Memoirs": 1
-    }
-  },
-  {
-    "canonical_name": "Poligny",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 23,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Debienne and Poligny, the managers of"
-      },
-      "2": {
-        "mentions": 3,
-        "snippet": "Poligny hear; it would upset them too much on their last day."
-      },
-      "3": {
-        "mentions": 17,
-        "snippet": "Poligny, who had"
-      }
-    },
-    "co_occurs_with": {
-      "Joseph Buquet": 3,
-      "Box Five": 2,
-      "Jammes": 2,
-      "Meg Giry": 2,
-      "Roi de Lahore": 2,
-      "There": 2,
-      "Sorelli": 2,
-      "Gabriel": 1
+      "Christine Daae": 2,
+      "Mercier": 2,
+      "Mother Giry": 2,
+      "Are": 1,
+      "Bank": 1,
+      "Box Five": 1,
+      "Comtesse Gilbert": 1,
+      "Dom Fernando": 1
     }
   },
   {
@@ -878,9 +794,9 @@
       "Opera": 5,
       "Angel": 4,
       "Perros": 4,
-      "Raoul": 4,
       "The Resurrection": 4,
-      "Vicomte de Chagny": 4
+      "Vicomte de Chagny": 4,
+      "Erik": 4
     }
   },
   {
@@ -926,11 +842,11 @@
       "Christine Daae": 5,
       "Opera": 4,
       "Box Five": 3,
-      "Poligny": 3,
       "Roi de Lahore": 3,
-      "Raoul": 3,
       "Vicomte de Chagny": 3,
-      "Erik": 3
+      "Erik": 3,
+      "Jammes": 2,
+      "Meg Giry": 2
     }
   },
   {
@@ -996,49 +912,11 @@
       "Box Five": 3,
       "Joseph Buquet": 2,
       "Opera": 2,
-      "Poligny": 2,
       "Roi de Lahore": 2,
       "Armand Moncharmin": 2,
       "Firmin Richard": 2,
-      "Sorelli": 2
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 20,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "There was no"
-      },
-      "2": {
-        "mentions": 3,
-        "snippet": "\"There's no breathing here."
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "\"There are not two Cesars,\" said the stud-groom dryly."
-      },
-      "14": {
-        "mentions": 4,
-        "snippet": "\"There's no Mauclair and no assistants!"
-      },
-      "23": {
-        "mentions": 6,
-        "snippet": "There is some one in the torture-chamber!"
-      }
-    },
-    "co_occurs_with": {
-      "Christine Daae": 4,
-      "Box Five": 2,
-      "Gabriel": 2,
-      "Joseph Buquet": 2,
-      "Meg Giry": 2,
-      "Opera": 2,
-      "Poligny": 2,
-      "Comte de Chagny": 2
+      "Sorelli": 2,
+      "La Sorelli": 1
     }
   },
   {
@@ -1063,12 +941,12 @@
     "co_occurs_with": {
       "Christine Daae": 2,
       "Joseph Buquet": 2,
-      "Poligny": 2,
       "Armand Moncharmin": 2,
       "Box Five": 2,
       "Firmin Richard": 2,
       "Jammes": 2,
-      "Arctic Circle": 1
+      "Arctic Circle": 1,
+      "Chagny de La Roche": 1
     }
   },
   {
@@ -1106,32 +984,6 @@
     }
   },
   {
-    "canonical_name": "Remy",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 13,
-    "per_chapter": {
-      "14": {
-        "mentions": 9,
-        "snippet": "the acting-manager; and Remy, the secretary."
-      },
-      "17": {
-        "mentions": 4,
-        "snippet": "Remy and those curious lapses from the dignity"
-      }
-    },
-    "co_occurs_with": {
-      "Credit Central": 2,
-      "La Borderie": 2,
-      "Moncharmin": 2,
-      "Richard": 2,
-      "Box Five": 1,
-      "Garden Act": 1,
-      "Joseph Buquet": 1,
-      "Mme": 1
-    }
-  },
-  {
     "canonical_name": "Mauclair",
     "aliases": [],
     "first_chapter": 14,
@@ -1152,9 +1004,9 @@
       "Erik": 1,
       "Gailhard": 1,
       "Joseph Buquet": 1,
-      "Let": 1,
       "Like the Persian": 1,
-      "Look": 1
+      "Mr. Commissary": 1,
+      "Mr. Commissary Mifroid": 1
     }
   },
   {
@@ -1175,12 +1027,12 @@
     "co_occurs_with": {
       "Christine Daae": 2,
       "Comte de Chagny": 2,
-      "There": 2,
       "Arctic Circle": 1,
       "Chagny de La Roche": 1,
       "Comtesse de Chagny": 1,
       "Count Philibert": 1,
-      "Count Philippe": 1
+      "Count Philippe": 1,
+      "Danse Macabre": 1
     }
   },
   {
@@ -1201,12 +1053,12 @@
     "co_occurs_with": {
       "Christine Daae": 2,
       "Opera": 2,
-      "All": 1,
       "Box Five": 1,
       "Carlotta": 1,
       "Carolus Fonta": 1,
       "Comte de Chagny": 1,
-      "Doctor Faust": 1
+      "Doctor Faust": 1,
+      "Firmin Richard": 1
     }
   },
   {
@@ -1456,6 +1308,28 @@
     }
   },
   {
+    "canonical_name": "Remy",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 9,
+    "per_chapter": {
+      "14": {
+        "mentions": 9,
+        "snippet": "the acting-manager; and Remy, the secretary."
+      }
+    },
+    "co_occurs_with": {
+      "Christine Daae": 1,
+      "Credit Central": 1,
+      "Gabriel": 1,
+      "La Borderie": 1,
+      "Mauclair": 1,
+      "Mercier": 1,
+      "Moncharmin": 1,
+      "Mother Giry": 1
+    }
+  },
+  {
     "canonical_name": "Juan Triumphant",
     "aliases": [],
     "first_chapter": 12,
@@ -1542,77 +1416,6 @@
     }
   },
   {
-    "canonical_name": "With",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 7,
-    "per_chapter": {
-      "7": {
-        "mentions": 4,
-        "snippet": "\"With whom?"
-      },
-      "19": {
-        "mentions": 3,
-        "snippet": "\"With Erik?"
-      }
-    },
-    "co_occurs_with": {
-      "Christine Daae": 2,
-      "Vicomte de Chagny": 2,
-      "All": 1,
-      "Box Five": 1,
-      "Carlotta": 1,
-      "Carolus Fonta": 1,
-      "Cesar": 1,
-      "Comte de Chagny": 1
-    }
-  },
-  {
-    "canonical_name": "Look",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 7,
-    "per_chapter": {
-      "12": {
-        "mentions": 4,
-        "snippet": "Leaning over me, he cried, 'Look!"
-      },
-      "20": {
-        "mentions": 3,
-        "snippet": "\"Look!"
-      }
-    },
-    "co_occurs_with": {
-      "Christine Daae": 2,
-      "Erik": 2,
-      "Opera": 2,
-      "Raoul": 2,
-      "Commissary Mifroid": 1,
-      "Gailhard": 1,
-      "Joseph Buquet": 1,
-      "Let": 1
-    }
-  },
-  {
-    "canonical_name": "Guggle",
-    "aliases": [],
-    "first_chapter": 25,
-    "total_mentions": 7,
-    "per_chapter": {
-      "25": {
-        "mentions": 7,
-        "snippet": "became a gurgling sound: \"Guggle!"
-      }
-    },
-    "co_occurs_with": {
-      "Barrels": 1,
-      "Christine Daae": 1,
-      "Erik": 1,
-      "Paris Grand Opera": 1,
-      "Vicomte de Chagny": 1
-    }
-  },
-  {
     "canonical_name": "Firmin Richard",
     "aliases": [],
     "first_chapter": 3,
@@ -1661,9 +1464,9 @@
       "Erik": 1,
       "Gailhard": 1,
       "Joseph Buquet": 1,
-      "Let": 1,
       "Like the Persian": 1,
-      "Look": 1
+      "Mauclair": 1,
+      "Mr. Commissary Mifroid": 1
     }
   },
   {
@@ -1802,12 +1605,12 @@
     "co_occurs_with": {
       "Box Five": 3,
       "Joseph Buquet": 2,
-      "The": 2,
       "Moncharmin": 2,
       "Richard": 2,
       "Armand Moncharmin": 1,
       "Corps de Ballet": 1,
-      "Firmin Richard": 1
+      "Firmin Richard": 1,
+      "Jammes": 1
     }
   },
   {
@@ -1951,6 +1754,28 @@
     }
   },
   {
+    "canonical_name": "With",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 4,
+    "per_chapter": {
+      "7": {
+        "mentions": 4,
+        "snippet": "\"With whom?"
+      }
+    },
+    "co_occurs_with": {
+      "Box Five": 1,
+      "Carlotta": 1,
+      "Carolus Fonta": 1,
+      "Cesar": 1,
+      "Christine Daae": 1,
+      "Comte de Chagny": 1,
+      "Doctor Faust": 1,
+      "Firmin Richard": 1
+    }
+  },
+  {
     "canonical_name": "de Chagny",
     "aliases": [],
     "first_chapter": 8,
@@ -1979,53 +1804,9 @@
       "Mamma Valerius": 3,
       "Music": 3,
       "Opera": 3,
-      "Raoul": 3,
       "Vicomte de Chagny": 3,
-      "Erik": 3
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 12,
-    "total_mentions": 4,
-    "per_chapter": {
-      "12": {
-        "mentions": 4,
-        "snippet": "voice began to sing the leading phrase, 'Come!"
-      }
-    },
-    "co_occurs_with": {
-      "Angel": 1,
-      "Cesar": 1,
-      "Christine Daae": 1,
-      "Don Juan": 1,
-      "Don Juan Triumphant": 1,
-      "Erik": 1,
-      "Juan Triumphant": 1,
-      "Look": 1
-    }
-  },
-  {
-    "canonical_name": "Perhaps",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 4,
-    "per_chapter": {
-      "14": {
-        "mentions": 4,
-        "snippet": "Perhaps"
-      }
-    },
-    "co_occurs_with": {
-      "Christine Daae": 1,
-      "Credit Central": 1,
-      "Gabriel": 1,
-      "La Borderie": 1,
-      "Mauclair": 1,
-      "Mercier": 1,
-      "Moncharmin": 1,
-      "Mother Giry": 1
+      "Erik": 3,
+      "Perros": 2
     }
   },
   {
@@ -2073,47 +1854,6 @@
     }
   },
   {
-    "canonical_name": "Let",
-    "aliases": [],
-    "first_chapter": 20,
-    "total_mentions": 4,
-    "per_chapter": {
-      "20": {
-        "mentions": 4,
-        "snippet": "\"Let go!"
-      }
-    },
-    "co_occurs_with": {
-      "Christine Daae": 1,
-      "Commissary Mifroid": 1,
-      "Erik": 1,
-      "Gailhard": 1,
-      "Joseph Buquet": 1,
-      "Like the Persian": 1,
-      "Look": 1,
-      "Mauclair": 1
-    }
-  },
-  {
-    "canonical_name": "Barrels",
-    "aliases": [],
-    "first_chapter": 25,
-    "total_mentions": 4,
-    "per_chapter": {
-      "25": {
-        "mentions": 4,
-        "snippet": "powder-barrels--\"Barrels!"
-      }
-    },
-    "co_occurs_with": {
-      "Christine Daae": 1,
-      "Erik": 1,
-      "Guggle": 1,
-      "Paris Grand Opera": 1,
-      "Vicomte de Chagny": 1
-    }
-  },
-  {
     "canonical_name": "Sultan",
     "aliases": [],
     "first_chapter": 26,
@@ -2152,13 +1892,13 @@
     },
     "co_occurs_with": {
       "Joseph Buquet": 2,
-      "Poligny": 2,
-      "There": 2,
       "Box Five": 1,
-      "Gabriel": 1,
       "Jammes": 1,
       "La Sorelli": 1,
-      "Opera": 1
+      "Opera": 1,
+      "Persian": 1,
+      "Poligny": 1,
+      "Roi de Lahore": 1
     }
   },
   {
@@ -2185,32 +1925,32 @@
       "Box Five": 2,
       "Jammes": 2,
       "Opera": 2,
-      "Poligny": 2,
-      "Gabriel": 1,
       "La Sorelli": 1,
-      "Meg Giry": 1
+      "Meg Giry": 1,
+      "Persian": 1,
+      "Poligny": 1
     }
   },
   {
-    "canonical_name": "Debienne",
+    "canonical_name": "Poligny",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 1,
     "total_mentions": 3,
     "per_chapter": {
-      "2": {
+      "1": {
         "mentions": 3,
-        "snippet": "Debienne"
+        "snippet": "Debienne and Poligny, the managers of"
       }
     },
     "co_occurs_with": {
-      "Arctic Circle": 1,
-      "Chagny de La Roche": 1,
-      "Christine Daae": 1,
-      "Comte de Chagny": 1,
-      "Comtesse de Chagny": 1,
-      "Count Philibert": 1,
-      "Count Philippe": 1,
-      "Danse Macabre": 1
+      "Box Five": 1,
+      "Jammes": 1,
+      "Joseph Buquet": 1,
+      "La Sorelli": 1,
+      "Meg Giry": 1,
+      "Opera": 1,
+      "Persian": 1,
+      "Roi de Lahore": 1
     }
   },
   {
@@ -2258,7 +1998,7 @@
       "Jammes": 1,
       "Joseph Buquet": 1,
       "National Academy": 1,
-      "Poligny": 1
+      "Roi de Lahore": 1
     }
   },
   {
@@ -2270,28 +2010,6 @@
       "4": {
         "mentions": 3,
         "snippet": "\"Send for the inspector,\" said Richard to his secretary, who had"
-      }
-    },
-    "co_occurs_with": {
-      "Armand Moncharmin": 1,
-      "Box Five": 1,
-      "Box Seven": 1,
-      "Box Three": 1,
-      "Cafe Jacquin": 1,
-      "Carlotta": 1,
-      "Christine Daae": 1,
-      "Did": 1
-    }
-  },
-  {
-    "canonical_name": "Mephistopheles",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "Mephistopheles was singing\"--Mme."
       }
     },
     "co_occurs_with": {
@@ -2394,30 +2112,8 @@
       "Carlotta": 2,
       "Christine Daae": 2,
       "Opera": 2,
-      "All": 1,
       "Box Five": 1,
       "Cesar": 1,
-      "Comte de Chagny": 1,
-      "Doctor Faust": 1
-    }
-  },
-  {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 3,
-    "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "\"All sorts of nonsense."
-      }
-    },
-    "co_occurs_with": {
-      "Box Five": 1,
-      "Carlotta": 1,
-      "Carolus Fonta": 1,
-      "Cesar": 1,
-      "Christine Daae": 1,
       "Comte de Chagny": 1,
       "Doctor Faust": 1,
       "Firmin Richard": 1
@@ -2490,26 +2186,6 @@
     }
   },
   {
-    "canonical_name": "Hush",
-    "aliases": [],
-    "first_chapter": 11,
-    "total_mentions": 3,
-    "per_chapter": {
-      "11": {
-        "mentions": 3,
-        "snippet": "\"Hush, Raoul!"
-      }
-    },
-    "co_occurs_with": {
-      "Christine Daae": 1,
-      "Mamma Valerius": 1,
-      "North Pole": 1,
-      "Opera": 1,
-      "Prince Charming": 1,
-      "Raoul": 1
-    }
-  },
-  {
     "canonical_name": "Apollo",
     "aliases": [],
     "first_chapter": 13,
@@ -2549,12 +2225,12 @@
     "co_occurs_with": {
       "La Borderie": 2,
       "Moncharmin": 2,
-      "Remy": 2,
-      "Richard": 2,
       "Box Five": 1,
       "Garden Act": 1,
       "Joseph Buquet": 1,
-      "Mme": 1
+      "National Academy": 1,
+      "Richard": 1,
+      "Christine Daae": 1
     }
   },
   {
@@ -2575,12 +2251,12 @@
     "co_occurs_with": {
       "Credit Central": 2,
       "Moncharmin": 2,
-      "Remy": 2,
-      "Richard": 2,
       "Box Five": 1,
       "Garden Act": 1,
       "Joseph Buquet": 1,
-      "Mme": 1
+      "National Academy": 1,
+      "Richard": 1,
+      "Christine Daae": 1
     }
   },
   {
@@ -2621,32 +2297,10 @@
       "Commissary Mifroid": 1,
       "Erik": 1,
       "Joseph Buquet": 1,
-      "Let": 1,
       "Like the Persian": 1,
-      "Look": 1,
-      "Mauclair": 1
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 21,
-    "total_mentions": 3,
-    "per_chapter": {
-      "21": {
-        "mentions": 3,
-        "snippet": "\"Very old and worn, my dear daroga!"
-      }
-    },
-    "co_occurs_with": {
-      "Christine Daae": 1,
-      "Communists": 1,
-      "De Tham": 1,
-      "Don Juan": 1,
-      "Don Juan Triumphant": 1,
-      "Erik": 1,
-      "Joseph Buquet": 1,
-      "Juan Triumphant": 1
+      "Mauclair": 1,
+      "Mr. Commissary": 1,
+      "Mr. Commissary Mifroid": 1
     }
   },
   {
@@ -2658,28 +2312,6 @@
       "26": {
         "mentions": 3,
         "snippet": "Rue de Rivoli, opposite the Tuileries."
-      }
-    },
-    "co_occurs_with": {
-      "Ali Bey": 1,
-      "Andre Castaigne": 1,
-      "Asia Minor": 1,
-      "Bacchic Dance": 1,
-      "Box Five": 1,
-      "Brussels Road": 1,
-      "Caspian Sea": 1,
-      "Christine Daae": 1
-    }
-  },
-  {
-    "canonical_name": "Faure",
-    "aliases": [],
-    "first_chapter": 26,
-    "total_mentions": 3,
-    "per_chapter": {
-      "26": {
-        "mentions": 3,
-        "snippet": "the case was in the hands of an examining-magistrate called Faure, an"
       }
     },
     "co_occurs_with": {

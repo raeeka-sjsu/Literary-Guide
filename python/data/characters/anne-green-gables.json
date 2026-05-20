@@ -115,10 +115,10 @@
       "Mrs. Lynde": 16,
       "Anne Shirley": 15,
       "Barry": 14,
-      "Diana": 11,
       "Allan": 11,
       "Mrs. Allan": 11,
-      "Matthew": 10
+      "Anne": 10,
+      "Shining Waters": 9
     }
   },
   {
@@ -184,11 +184,11 @@
       "Green Gables": 11,
       "Marilla": 10,
       "Mrs. Lynde": 8,
-      "Matthew": 7,
       "Allan": 7,
       "Mrs. Allan": 7,
-      "Rachel": 5,
-      "Diana": 5
+      "Matthew": 5,
+      "Josie Pye": 5,
+      "Miss Stacy": 5
     }
   },
   {
@@ -306,24 +306,20 @@
       "Marilla": 16,
       "Barry": 15,
       "Allan": 14,
-      "Matthew": 13,
-      "Diana": 13,
-      "Mrs. Allan": 13
+      "Mrs. Allan": 13,
+      "Matthew": 11,
+      "Ruby Gillis": 11
     }
   },
   {
     "canonical_name": "Diana",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 253,
+    "total_mentions": 220,
     "per_chapter": {
       "2": {
         "mentions": 3,
         "snippet": "Her name is Diana."
-      },
-      "13": {
-        "mentions": 12,
-        "snippet": "\u201cShe stayed playing with Diana more than half an"
       },
       "15": {
         "mentions": 43,
@@ -349,10 +345,6 @@
         "mentions": 18,
         "snippet": "At first, as she told Diana, she did not really"
       },
-      "27": {
-        "mentions": 4,
-        "snippet": "\u201cShe\u2019s gadding off somewhere with Diana, writing"
-      },
       "28": {
         "mentions": 16,
         "snippet": "OF course you must be Elaine, Anne,\u201d said Diana."
@@ -360,10 +352,6 @@
       "29": {
         "mentions": 23,
         "snippet": "behold Diana coming through the gate that led into the Barry field and"
-      },
-      "30": {
-        "mentions": 17,
-        "snippet": "you were out with Diana."
       },
       "33": {
         "mentions": 15,
@@ -387,14 +375,14 @@
       }
     },
     "co_occurs_with": {
-      "Green Gables": 15,
-      "Barry": 14,
-      "Mrs. Lynde": 13,
-      "Anne Shirley": 12,
-      "Marilla": 11,
-      "Allan": 10,
-      "Mrs. Allan": 10,
-      "Matthew": 9
+      "Barry": 12,
+      "Green Gables": 12,
+      "Anne Shirley": 10,
+      "Mrs. Lynde": 10,
+      "Marilla": 9,
+      "Gilbert Blythe": 8,
+      "Allan": 8,
+      "Mrs. Allan": 8
     }
   },
   {
@@ -453,24 +441,20 @@
     "co_occurs_with": {
       "Allan": 9,
       "Mrs. Allan": 9,
-      "Josie Pye": 8,
-      "Matthew": 8,
       "Mrs. Lynde": 8,
       "Ruby Gillis": 8,
       "Anne Shirley": 7,
-      "Diana": 7
+      "Green Gables": 7,
+      "Josie Pye": 7,
+      "Marilla": 7
     }
   },
   {
     "canonical_name": "Matthew",
     "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 145,
+    "first_chapter": 6,
+    "total_mentions": 126,
     "per_chapter": {
-      "4": {
-        "mentions": 12,
-        "snippet": "Matthew also held his tongue,--but this"
-      },
       "6": {
         "mentions": 14,
         "snippet": "\u201cbut I promised Matthew I\u2019d be home early."
@@ -478,10 +462,6 @@
       "9": {
         "mentions": 5,
         "snippet": "see Matthew and Marilla\u2019s orphan, concerning whom all sorts of stories"
-      },
-      "13": {
-        "mentions": 4,
-        "snippet": "the woodpile talking to Matthew, nineteen to the dozen, when she knows"
       },
       "16": {
         "mentions": 8,
@@ -519,10 +499,6 @@
         "mentions": 7,
         "snippet": "Matthew and me if we would like to have you join it."
       },
-      "31": {
-        "mentions": 3,
-        "snippet": "you and Matthew and Mrs."
-      },
       "32": {
         "mentions": 9,
         "snippet": "to \u201cpass high\u201d for the sake of Matthew and Marilla--especially Matthew."
@@ -537,14 +513,14 @@
       }
     },
     "co_occurs_with": {
-      "Green Gables": 15,
-      "Mrs. Lynde": 13,
-      "Marilla": 10,
+      "Green Gables": 13,
+      "Mrs. Lynde": 11,
       "Anne Shirley": 10,
-      "Diana": 9,
-      "Allan": 9,
-      "Mrs. Allan": 9,
-      "Barry": 8
+      "Allan": 8,
+      "Marilla": 8,
+      "Mrs. Allan": 8,
+      "Barry": 7,
+      "Ruby Gillis": 7
     }
   },
   {
@@ -641,9 +617,9 @@
     "co_occurs_with": {
       "Green Gables": 18,
       "Mrs. Lynde": 15,
-      "Diana": 14,
       "Marilla": 14,
       "Anne Shirley": 14,
+      "Diana": 12,
       "Mrs. Barry": 11,
       "Gilbert Blythe": 11,
       "Ruby Gillis": 10
@@ -837,10 +813,10 @@
       "Marilla": 20,
       "Barry": 18,
       "Anne Shirley": 18,
-      "Matthew": 15,
-      "Diana": 15,
+      "Matthew": 13,
       "Allan": 13,
-      "Gilbert Blythe": 13
+      "Gilbert Blythe": 13,
+      "Diana": 12
     }
   },
   {
@@ -920,75 +896,9 @@
       "Green Gables": 13,
       "Marilla": 11,
       "Anne Shirley": 10,
-      "Diana": 10,
       "Barry": 10,
-      "Gilbert Blythe": 10
-    }
-  },
-  {
-    "canonical_name": "Rachel",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 64,
-    "per_chapter": {
-      "1": {
-        "mentions": 25,
-        "snippet": "Rachel was sitting at her window,"
-      },
-      "2": {
-        "mentions": 2,
-        "snippet": "Rachel; he had an"
-      },
-      "9": {
-        "mentions": 17,
-        "snippet": "Rachel, to do her justice, was not to blame for this."
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "Rachel and held out her hands beseechingly."
-      },
-      "12": {
-        "mentions": 2,
-        "snippet": "Rachel says you went to church last Sunday with your hat"
-      },
-      "15": {
-        "mentions": 3,
-        "snippet": "Rachel nodded."
-      },
-      "18": {
-        "mentions": 1,
-        "snippet": "Rachel were enjoying themselves hugely"
-      },
-      "30": {
-        "mentions": 5,
-        "snippet": "Rachel, who had not the slightest intention of doing anything else."
-      },
-      "31": {
-        "mentions": 3,
-        "snippet": "in Avonlea with Rachel to oversee them."
-      },
-      "32": {
-        "mentions": 1,
-        "snippet": "Rachel\u2019s critical eye."
-      },
-      "36": {
-        "mentions": 3,
-        "snippet": "Speaking of Rachel reminds me--did you hear anything about the"
-      },
-      "38": {
-        "mentions": 1,
-        "snippet": "Rachel deposited her substantial person upon the stone bench by the"
-      }
-    },
-    "co_occurs_with": {
-      "Green Gables": 11,
-      "Mrs. Rachel": 10,
-      "Mrs. Lynde": 10,
-      "Barry": 7,
-      "Marilla Cuthbert": 6,
-      "Anne Shirley": 6,
-      "Diana": 6,
-      "Gilbert Blythe": 6
+      "Gilbert Blythe": 10,
+      "Josie Pye": 9
     }
   },
   {
@@ -1064,9 +974,71 @@
       "Green Gables": 12,
       "Marilla": 11,
       "Anne Shirley": 10,
-      "Diana": 10,
       "Barry": 10,
-      "Matthew": 9
+      "Miss Stacy": 9,
+      "Gilbert Blythe": 9
+    }
+  },
+  {
+    "canonical_name": "Rachel",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 61,
+    "per_chapter": {
+      "1": {
+        "mentions": 25,
+        "snippet": "Rachel was sitting at her window,"
+      },
+      "2": {
+        "mentions": 2,
+        "snippet": "Rachel; he had an"
+      },
+      "9": {
+        "mentions": 17,
+        "snippet": "Rachel, to do her justice, was not to blame for this."
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "Rachel and held out her hands beseechingly."
+      },
+      "12": {
+        "mentions": 2,
+        "snippet": "Rachel says you went to church last Sunday with your hat"
+      },
+      "15": {
+        "mentions": 3,
+        "snippet": "Rachel nodded."
+      },
+      "18": {
+        "mentions": 1,
+        "snippet": "Rachel were enjoying themselves hugely"
+      },
+      "30": {
+        "mentions": 5,
+        "snippet": "Rachel, who had not the slightest intention of doing anything else."
+      },
+      "32": {
+        "mentions": 1,
+        "snippet": "Rachel\u2019s critical eye."
+      },
+      "36": {
+        "mentions": 3,
+        "snippet": "Speaking of Rachel reminds me--did you hear anything about the"
+      },
+      "38": {
+        "mentions": 1,
+        "snippet": "Rachel deposited her substantial person upon the stone bench by the"
+      }
+    },
+    "co_occurs_with": {
+      "Green Gables": 11,
+      "Mrs. Rachel": 10,
+      "Mrs. Lynde": 9,
+      "Barry": 7,
+      "Anne Shirley": 6,
+      "Marilla Cuthbert": 5,
+      "Matthew Cuthbert": 5,
+      "Diana": 5
     }
   },
   {
@@ -1123,8 +1095,8 @@
       "Barry": 6,
       "Marilla Cuthbert": 5,
       "Anne Shirley": 5,
-      "Diana": 5,
-      "Avonlea": 4
+      "Avonlea": 4,
+      "Matthew Cuthbert": 4
     }
   },
   {
@@ -1223,8 +1195,8 @@
       "Mrs. Lynde": 7,
       "Mrs. Allan": 7,
       "Ruby Gillis": 6,
-      "Rachel": 5,
-      "Anne Shirley": 5
+      "Anne Shirley": 5,
+      "Barry": 5
     }
   },
   {
@@ -1364,8 +1336,8 @@
       "Mrs. Lynde": 11,
       "Allan": 10,
       "Anne Shirley": 9,
-      "Diana": 9,
       "Mrs. Allan": 9,
+      "Diana": 8,
       "Josie Pye": 8
     }
   },
@@ -1515,7 +1487,7 @@
       "Mrs. Lynde": 17,
       "Marilla": 15,
       "Barry": 14,
-      "Diana": 12,
+      "Diana": 10,
       "Jane Andrews": 10,
       "Matthew": 10,
       "Ruby Gillis": 10
@@ -1589,9 +1561,9 @@
       "Barry": 10,
       "Green Gables": 9,
       "Jane Andrews": 8,
-      "Matthew": 8,
       "Gilbert Blythe": 8,
-      "Josie Pye": 8
+      "Allan": 8,
+      "Miss Stacy": 8
     }
   },
   {
@@ -1639,9 +1611,9 @@
       "Marilla": 5,
       "Nova Scotia": 4,
       "White Sands": 4,
-      "Matthew": 4,
       "Shining Waters": 4,
-      "Marilla Cuthbert": 3
+      "Marilla Cuthbert": 3,
+      "Matthew Cuthbert": 3
     }
   },
   {
@@ -1723,113 +1695,11 @@
       "Mrs. Lynde": 5,
       "Allan": 4,
       "Green Gables": 4,
-      "Charlie Sloane": 3,
       "Gilbert Blythe": 3,
       "Josie Pye": 3,
       "Matthew": 3,
-      "Miss Stacy": 3
-    }
-  },
-  {
-    "canonical_name": "Jane",
-    "aliases": [],
-    "first_chapter": 29,
-    "total_mentions": 29,
-    "per_chapter": {
-      "29": {
-        "mentions": 4,
-        "snippet": "\u201cJane\u2019s mother is going to let her have a birthday party?"
-      },
-      "32": {
-        "mentions": 8,
-        "snippet": "Miss Stacy won\u2019t be there, nor you nor Jane"
-      },
-      "34": {
-        "mentions": 6,
-        "snippet": "Jane and Ruby and Josie have got \u2018evening dresses,\u2019 as they call them,"
-      },
-      "36": {
-        "mentions": 11,
-        "snippet": "posted on the bulletin board at Queen\u2019s, Anne and Jane walked down the"
-      }
-    },
-    "co_occurs_with": {
-      "Allan": 4,
-      "Anne": 4,
-      "Green Gables": 4,
-      "Moody Spurgeon": 4,
-      "Mrs. Allan": 4,
-      "Gilbert Blythe": 3,
-      "Josie Pye": 3,
-      "Marilla": 3
-    }
-  },
-  {
-    "canonical_name": "Josie Pye",
-    "aliases": [
-      "Josie"
-    ],
-    "first_chapter": 15,
-    "total_mentions": 27,
-    "per_chapter": {
-      "15": {
-        "mentions": 2,
-        "snippet": "\u2019 Josie Pye was head and, mind you, she peeped"
-      },
-      "23": {
-        "mentions": 3,
-        "snippet": "Never mind Josie Pye."
-      },
-      "24": {
-        "mentions": 4,
-        "snippet": "Josie Pye is sulky because she didn\u2019t get the part she wanted in"
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "the shape of Josie Pye, dared not deny."
-      },
-      "26": {
-        "mentions": 2,
-        "snippet": "not \u201cspeak\u201d for three months, because Josie Pye had told Bessie Wright"
-      },
-      "27": {
-        "mentions": 1,
-        "snippet": "Marilla, I _cannot_ face Josie Pye."
-      },
-      "30": {
-        "mentions": 4,
-        "snippet": "especially when I heard Josie Pye giggling."
-      },
-      "32": {
-        "mentions": 3,
-        "snippet": "And then my number is thirteen and Josie Pye says it\u2019s so"
-      },
-      "34": {
-        "mentions": 2,
-        "snippet": "The flood of tears would have come, no doubt, had not Josie Pye appeared"
-      },
-      "35": {
-        "mentions": 1,
-        "snippet": "\u201c_I_ don\u2019t care,\u201d said Josie Pye."
-      },
-      "36": {
-        "mentions": 2,
-        "snippet": "\u201cJosie Pye told me you did."
-      },
-      "37": {
-        "mentions": 2,
-        "snippet": "almost decided to give up trying to like Josie Pye."
-      }
-    },
-    "co_occurs_with": {
-      "Mrs. Lynde": 10,
-      "Allan": 9,
-      "Green Gables": 9,
-      "Anne Shirley": 8,
-      "Diana": 8,
-      "Marilla": 8,
-      "Miss Stacy": 8,
-      "Mrs. Allan": 8
+      "Miss Stacy": 3,
+      "Moody Spurgeon": 3
     }
   },
   {
@@ -1870,6 +1740,68 @@
       "Mr. Barry": 3,
       "Ruby Gillis": 3,
       "Marilla": 3
+    }
+  },
+  {
+    "canonical_name": "Josie Pye",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 23,
+    "per_chapter": {
+      "15": {
+        "mentions": 2,
+        "snippet": "\u2019 Josie Pye was head and, mind you, she peeped"
+      },
+      "23": {
+        "mentions": 3,
+        "snippet": "Never mind Josie Pye."
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "the shape of Josie Pye, dared not deny."
+      },
+      "26": {
+        "mentions": 2,
+        "snippet": "not \u201cspeak\u201d for three months, because Josie Pye had told Bessie Wright"
+      },
+      "27": {
+        "mentions": 1,
+        "snippet": "Marilla, I _cannot_ face Josie Pye."
+      },
+      "30": {
+        "mentions": 4,
+        "snippet": "especially when I heard Josie Pye giggling."
+      },
+      "32": {
+        "mentions": 3,
+        "snippet": "And then my number is thirteen and Josie Pye says it\u2019s so"
+      },
+      "34": {
+        "mentions": 2,
+        "snippet": "The flood of tears would have come, no doubt, had not Josie Pye appeared"
+      },
+      "35": {
+        "mentions": 1,
+        "snippet": "\u201c_I_ don\u2019t care,\u201d said Josie Pye."
+      },
+      "36": {
+        "mentions": 2,
+        "snippet": "\u201cJosie Pye told me you did."
+      },
+      "37": {
+        "mentions": 2,
+        "snippet": "almost decided to give up trying to like Josie Pye."
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 9,
+      "Green Gables": 9,
+      "Mrs. Lynde": 9,
+      "Mrs. Allan": 8,
+      "Barry": 8,
+      "Gilbert Blythe": 8,
+      "Anne Shirley": 7,
+      "Marilla": 7
     }
   },
   {
@@ -1977,6 +1909,36 @@
     }
   },
   {
+    "canonical_name": "Jane",
+    "aliases": [],
+    "first_chapter": 29,
+    "total_mentions": 21,
+    "per_chapter": {
+      "29": {
+        "mentions": 4,
+        "snippet": "\u201cJane\u2019s mother is going to let her have a birthday party?"
+      },
+      "34": {
+        "mentions": 6,
+        "snippet": "Jane and Ruby and Josie have got \u2018evening dresses,\u2019 as they call them,"
+      },
+      "36": {
+        "mentions": 11,
+        "snippet": "posted on the bulletin board at Queen\u2019s, Anne and Jane walked down the"
+      }
+    },
+    "co_occurs_with": {
+      "Allan": 3,
+      "Anne": 3,
+      "Barry": 3,
+      "Diana": 3,
+      "Green Gables": 3,
+      "Miss Barry": 3,
+      "Moody Spurgeon": 3,
+      "Mrs. Allan": 3
+    }
+  },
+  {
     "canonical_name": "Mrs. Blewett",
     "aliases": [
       "Blewett"
@@ -1998,44 +1960,6 @@
       "Miss Cuthbert": 1,
       "Mrs. Peter": 1,
       "Mrs. Peter Blewett": 1
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 19,
-    "per_chapter": {
-      "3": {
-        "mentions": 4,
-        "snippet": "\u201cThere wasn\u2019t any boy,\u201d said Matthew wretchedly."
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "\u201cThere, that looks something like."
-      },
-      "15": {
-        "mentions": 3,
-        "snippet": "There are a lot of nice"
-      },
-      "19": {
-        "mentions": 3,
-        "snippet": "\u201cThere\u2019s just one more thing, Marilla,\u201d said Anne, with the air of"
-      },
-      "38": {
-        "mentions": 6,
-        "snippet": "There were tears in"
-      }
-    },
-    "co_occurs_with": {
-      "Anne Shirley": 4,
-      "Green Gables": 4,
-      "Barry": 3,
-      "Diana": 3,
-      "Gilbert Blythe": 3,
-      "Mrs. Lynde": 3,
-      "Avonlea": 2,
-      "Jane Andrews": 2
     }
   },
   {
@@ -2173,8 +2097,8 @@
       "Barry": 8,
       "Green Gables": 8,
       "Ruby Gillis": 8,
-      "Diana": 7,
       "Gilbert Blythe": 7,
+      "Diana": 6,
       "Allan": 6
     }
   },
@@ -2219,9 +2143,9 @@
     },
     "co_occurs_with": {
       "Barry": 8,
-      "Diana": 7,
       "Green Gables": 7,
       "Mrs. Lynde": 7,
+      "Diana": 5,
       "Anne Shirley": 5,
       "Allan": 5,
       "Mrs. Allan": 5,
@@ -2285,9 +2209,9 @@
       "Mrs. Lynde": 6,
       "Anne Shirley": 6,
       "Barry": 5,
-      "Diana": 5,
       "Mr. Barry": 4,
-      "Matthew Cuthbert": 4
+      "Matthew Cuthbert": 4,
+      "Mrs. Rachel": 4
     }
   },
   {
@@ -2340,12 +2264,12 @@
     "co_occurs_with": {
       "Green Gables": 9,
       "Mrs. Lynde": 8,
-      "Matthew": 7,
-      "Rachel": 6,
+      "Matthew": 6,
       "Mrs. Rachel": 5,
+      "Rachel": 5,
       "Anne Shirley": 5,
       "Barry": 5,
-      "Diana": 5
+      "Allan": 5
     }
   },
   {
@@ -2420,9 +2344,9 @@
       "Green Gables": 8,
       "Anne Shirley": 7,
       "Barry": 7,
-      "Diana": 7,
       "Mrs. Allan": 7,
       "Mrs. Lynde": 7,
+      "Diana": 6,
       "Gilbert Blythe": 5
     }
   },
@@ -2541,11 +2465,11 @@
       "Allan": 7,
       "Mrs. Allan": 7,
       "Barry": 6,
-      "Diana": 6,
       "Green Gables": 6,
       "Josie Pye": 6,
       "Mrs. Lynde": 6,
-      "Gilbert Blythe": 5
+      "Gilbert Blythe": 5,
+      "Miss Stacy": 5
     }
   },
   {
@@ -2623,9 +2547,9 @@
       "Mrs. Rachel": 4,
       "Mrs. Rachel Lynde": 4,
       "Rachel": 4,
-      "Matthew": 4,
       "Marilla Cuthbert": 3,
-      "Anne": 3
+      "Anne": 3,
+      "Matthew": 3
     }
   },
   {
@@ -2743,55 +2667,6 @@
     }
   },
   {
-    "canonical_name": "Charlie Sloane",
-    "aliases": [
-      "Charlie",
-      "Sloane"
-    ],
-    "first_chapter": 15,
-    "total_mentions": 11,
-    "per_chapter": {
-      "15": {
-        "mentions": 2,
-        "snippet": "And I hate Charlie Sloane, I can\u2019t bear a boy with goggle"
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "You know Charlie Sloane\u2019s grandmother"
-      },
-      "25": {
-        "mentions": 1,
-        "snippet": "Sloane wiping away tears when I sat down."
-      },
-      "26": {
-        "mentions": 1,
-        "snippet": "Finally, Charlie Sloane fought Moody Spurgeon MacPherson,"
-      },
-      "30": {
-        "mentions": 2,
-        "snippet": "Shirley, Ruby Gillis, Jane Andrews, Josie Pye, Charlie Sloane, and Moody"
-      },
-      "32": {
-        "mentions": 3,
-        "snippet": "Moody Spurgeon still thinks he failed in history and Charlie says he"
-      },
-      "37": {
-        "mentions": 1,
-        "snippet": "Charlie Sloane."
-      }
-    },
-    "co_occurs_with": {
-      "Green Gables": 6,
-      "Josie Pye": 6,
-      "Mrs. Lynde": 6,
-      "Barry": 5,
-      "Diana": 5,
-      "Gilbert Blythe": 5,
-      "Allan": 5,
-      "Anne Shirley": 4
-    }
-  },
-  {
     "canonical_name": "Carmody",
     "aliases": [],
     "first_chapter": 16,
@@ -2894,42 +2769,6 @@
     }
   },
   {
-    "canonical_name": "Prissy Andrews",
-    "aliases": [
-      "Prissy"
-    ],
-    "first_chapter": 15,
-    "total_mentions": 10,
-    "per_chapter": {
-      "15": {
-        "mentions": 4,
-        "snippet": "and making eyes at Prissy Andrews."
-      },
-      "18": {
-        "mentions": 2,
-        "snippet": "is a Grit too because Prissy Andrews\u2019s father is one, and Ruby Gillis"
-      },
-      "19": {
-        "mentions": 3,
-        "snippet": "Prissy Andrews is going to recite \u2018Curfew"
-      },
-      "20": {
-        "mentions": 1,
-        "snippet": "Phillips gave all the Mayflowers he found to Prissy Andrews"
-      }
-    },
-    "co_occurs_with": {
-      "Anne Shirley": 4,
-      "Barry": 4,
-      "Diana": 4,
-      "Green Gables": 4,
-      "Mr. Phillips": 4,
-      "Jane Andrews": 3,
-      "Mrs. Barry": 3,
-      "Mrs. Lynde": 3
-    }
-  },
-  {
     "canonical_name": "Minnie May",
     "aliases": [],
     "first_chapter": 18,
@@ -2955,12 +2794,12 @@
     "co_occurs_with": {
       "Jane Andrews": 4,
       "Marilla Cuthbert": 4,
-      "Matthew": 4,
       "Mrs. Lynde": 4,
       "Anne Shirley": 3,
       "Barry": 3,
-      "Diana": 3,
-      "Green Gables": 3
+      "Green Gables": 3,
+      "Matthew": 3,
+      "Ruby Gillis": 3
     }
   },
   {
@@ -3017,10 +2856,10 @@
       }
     },
     "co_occurs_with": {
-      "Rachel": 4,
       "Avonlea": 3,
       "Green Gables": 3,
       "Mrs. Rachel": 3,
+      "Rachel": 3,
       "Alexander Spencer": 2,
       "Marilla Cuthbert": 2,
       "Matthew Cuthbert": 2,
@@ -3070,9 +2909,9 @@
       "Gilbert Blythe": 2,
       "Jane Andrews": 2,
       "Marilla Cuthbert": 2,
-      "Matthew": 2,
       "Minnie May": 2,
-      "Miss Stacy": 2
+      "Miss Stacy": 2,
+      "Mr. Allan": 2
     }
   },
   {
@@ -3104,9 +2943,9 @@
       "Marilla Cuthbert": 3,
       "Mrs. Rachel": 3,
       "Rachel": 3,
-      "Matthew": 3,
       "Mrs. Lynde": 3,
-      "Spencer": 2
+      "Spencer": 2,
+      "Matthew": 2
     }
   },
   {
@@ -3169,12 +3008,56 @@
     "co_occurs_with": {
       "Anne Shirley": 4,
       "Barry": 4,
-      "Diana": 4,
-      "Josie Pye": 4,
       "Mrs. Lynde": 4,
       "Ruby Gillis": 4,
       "Charlie Sloane": 3,
-      "Gilbert Blythe": 3
+      "Diana": 3,
+      "Gilbert Blythe": 3,
+      "Jane Andrews": 3
+    }
+  },
+  {
+    "canonical_name": "Charlie Sloane",
+    "aliases": [
+      "Sloane"
+    ],
+    "first_chapter": 15,
+    "total_mentions": 8,
+    "per_chapter": {
+      "15": {
+        "mentions": 2,
+        "snippet": "And I hate Charlie Sloane, I can\u2019t bear a boy with goggle"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "You know Charlie Sloane\u2019s grandmother"
+      },
+      "25": {
+        "mentions": 1,
+        "snippet": "Sloane wiping away tears when I sat down."
+      },
+      "26": {
+        "mentions": 1,
+        "snippet": "Finally, Charlie Sloane fought Moody Spurgeon MacPherson,"
+      },
+      "30": {
+        "mentions": 2,
+        "snippet": "Shirley, Ruby Gillis, Jane Andrews, Josie Pye, Charlie Sloane, and Moody"
+      },
+      "37": {
+        "mentions": 1,
+        "snippet": "Charlie Sloane."
+      }
+    },
+    "co_occurs_with": {
+      "Barry": 5,
+      "Green Gables": 5,
+      "Josie Pye": 5,
+      "Mrs. Lynde": 5,
+      "Anne Shirley": 4,
+      "Diana": 4,
+      "Gilbert Blythe": 4,
+      "Allan": 4
     }
   },
   {
@@ -3280,6 +3163,36 @@
     }
   },
   {
+    "canonical_name": "Prissy Andrews",
+    "aliases": [],
+    "first_chapter": 15,
+    "total_mentions": 7,
+    "per_chapter": {
+      "15": {
+        "mentions": 4,
+        "snippet": "and making eyes at Prissy Andrews."
+      },
+      "18": {
+        "mentions": 2,
+        "snippet": "is a Grit too because Prissy Andrews\u2019s father is one, and Ruby Gillis"
+      },
+      "20": {
+        "mentions": 1,
+        "snippet": "Phillips gave all the Mayflowers he found to Prissy Andrews"
+      }
+    },
+    "co_occurs_with": {
+      "Anne Shirley": 3,
+      "Barry": 3,
+      "Diana": 3,
+      "Green Gables": 3,
+      "Mr. Phillips": 3,
+      "Gertie Pye": 2,
+      "Jane Andrews": 2,
+      "Lane": 2
+    }
+  },
+  {
     "canonical_name": "Gertie Pye",
     "aliases": [],
     "first_chapter": 15,
@@ -3336,7 +3249,7 @@
       "Charlie Sloane": 1,
       "Dear Stacy": 1,
       "Debating Club": 1,
-      "Diana": 1
+      "Entrance": 1
     }
   },
   {
@@ -3400,13 +3313,13 @@
     },
     "co_occurs_with": {
       "Green Gables": 4,
-      "Diana": 3,
       "Matthew": 3,
       "Mrs. Lynde": 3,
       "Mrs. Rachel": 3,
       "Rachel": 3,
       "Marilla": 3,
-      "Anne Shirley": 2
+      "Anne Shirley": 2,
+      "Barry": 2
     }
   },
   {
@@ -3487,10 +3400,10 @@
       "Barry": 4,
       "Green Gables": 4,
       "Charlie Sloane": 3,
-      "Diana": 3,
       "Gilbert Blythe": 3,
       "Mr. Phillips": 3,
-      "Mrs. Lynde": 3
+      "Mrs. Lynde": 3,
+      "Ruby Gillis": 3
     }
   },
   {
@@ -3772,9 +3685,9 @@
       "Barry": 4,
       "Marilla": 4,
       "Mr. Harmon Andrews": 4,
-      "Diana": 3,
-      "Matthew": 3,
-      "Mr. Barry": 3
+      "Mr. Barry": 3,
+      "Anne Shirley": 3,
+      "Orchard Slope": 3
     }
   },
   {
@@ -3804,11 +3717,11 @@
       "Mrs. Lynde": 4,
       "Barry": 3,
       "Marilla": 3,
-      "Matthew": 3,
       "Allan": 3,
       "Avonlea": 3,
       "Mrs. Allan": 3,
-      "Ruby Gillis": 3
+      "Ruby Gillis": 3,
+      "Green Gables": 2
     }
   },
   {
@@ -3862,9 +3775,9 @@
       "Barry": 1,
       "Carmody": 1,
       "Chester Ross": 1,
-      "Don": 1,
       "Em White": 1,
-      "Gertie Pye": 1
+      "Gertie Pye": 1,
+      "Gilbert Blythe": 1
     }
   },
   {
@@ -3883,10 +3796,10 @@
       "Anne Shirley": 1,
       "Barry": 1,
       "Carmody": 1,
-      "Don": 1,
       "Em White": 1,
       "Gertie Pye": 1,
-      "Gilbert Blythe": 1
+      "Gilbert Blythe": 1,
+      "God Himself": 1
     }
   },
   {
@@ -3971,34 +3884,12 @@
     "co_occurs_with": {
       "Gilbert Blythe": 4,
       "Jane Andrews": 4,
-      "Matthew": 4,
       "Allan": 3,
       "Anne Shirley": 3,
-      "Diana": 3,
       "Green Gables": 3,
-      "Marilla Cuthbert": 3
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 21,
-    "total_mentions": 5,
-    "per_chapter": {
-      "21": {
-        "mentions": 5,
-        "snippet": "farewell speech beginning, \u2018The time has come for us to part."
-      }
-    },
-    "co_occurs_with": {
-      "Allan": 1,
-      "Allan Anne": 1,
-      "Anne Shirley": 1,
-      "Avonlea": 1,
-      "Barry": 1,
-      "Best Vanilla": 1,
-      "Diana Tuesday": 1,
-      "Green Gables": 1
+      "Marilla Cuthbert": 3,
+      "Matthew": 3,
+      "Minnie May": 3
     }
   },
   {
@@ -4019,8 +3910,8 @@
       "Barry": 1,
       "Class": 1,
       "Diana": 1,
-      "Emily": 1,
-      "English Literature": 1
+      "English Literature": 1,
+      "Gilbert Blythe": 1
     }
   },
   {
@@ -4140,7 +4031,7 @@
       "Mrs. Allan": 3,
       "Marilla": 3,
       "Debating Club": 2,
-      "Diana": 2
+      "Gilbert Blythe": 2
     }
   },
   {
@@ -4216,9 +4107,9 @@
       "Mrs. Lynde": 4,
       "Barry": 3,
       "Marilla": 3,
-      "Matthew": 3,
-      "Diana": 2,
-      "Mr. Barry": 2
+      "Mr. Barry": 2,
+      "Shining Waters": 2,
+      "Aid Society": 2
     }
   },
   {
@@ -4260,13 +4151,13 @@
     },
     "co_occurs_with": {
       "Anne Shirley": 2,
-      "Josie Pye": 2,
       "Marilla": 2,
       "Miss Stacy": 2,
       "Mrs. Lynde": 2,
       "Ruby Gillis": 2,
       "Allan": 1,
-      "Avonlea": 1
+      "Avonlea": 1,
+      "Barry": 1
     }
   },
   {
@@ -4287,8 +4178,8 @@
       "Avonlea": 1,
       "Barry": 1,
       "Diana": 1,
-      "Emily": 1,
-      "English Literature": 1
+      "English Literature": 1,
+      "Gilbert Blythe": 1
     }
   },
   {
@@ -4407,10 +4298,10 @@
       "Green Gables": 1,
       "Little Jerry Buote": 1,
       "Marilla": 1,
-      "Matthew": 1,
       "Mrs. Spencer": 1,
       "Nova Scotia": 1,
-      "Shining Waters": 1
+      "Shining Waters": 1,
+      "Snow Queen": 1
     }
   },
   {
@@ -4562,28 +4453,6 @@
     }
   },
   {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 3,
-    "per_chapter": {
-      "10": {
-        "mentions": 3,
-        "snippet": "Very small and unhappy she looked, and Matthew\u2019s heart"
-      }
-    },
-    "co_occurs_with": {
-      "Anne": 1,
-      "Green Gables": 1,
-      "Marilla": 1,
-      "Matthew Cuthbert": 1,
-      "Mrs. Lynde": 1,
-      "Mrs. Rachel": 1,
-      "Rachel": 1,
-      "Rachel Lynde": 1
-    }
-  },
-  {
     "canonical_name": "Mr. William Bell",
     "aliases": [],
     "first_chapter": 12,
@@ -4607,10 +4476,10 @@
       "Green Gables": 3,
       "Marilla": 3,
       "William Bell": 3,
-      "Diana": 2,
       "Mrs. Lynde": 2,
       "Shining Waters": 2,
-      "Anne Shirley": 2
+      "Anne Shirley": 2,
+      "Mrs. Barry": 2
     }
   },
   {
@@ -4637,10 +4506,10 @@
       "Green Gables": 3,
       "Marilla": 3,
       "Mr. William Bell": 3,
-      "Diana": 2,
       "Mrs. Lynde": 2,
       "Shining Waters": 2,
-      "Anne Shirley": 2
+      "Anne Shirley": 2,
+      "Mrs. Barry": 2
     }
   },
   {
@@ -4669,8 +4538,8 @@
       "Mrs. Lynde": 3,
       "Allan": 2,
       "Barry": 2,
-      "Diana": 2,
-      "Gilbert Blythe": 2
+      "Gilbert Blythe": 2,
+      "Haunted Wood": 2
     }
   },
   {
@@ -4724,28 +4593,6 @@
     }
   },
   {
-    "canonical_name": "Don",
-    "aliases": [],
-    "first_chapter": 16,
-    "total_mentions": 3,
-    "per_chapter": {
-      "16": {
-        "mentions": 3,
-        "snippet": "Don\u2019t"
-      }
-    },
-    "co_occurs_with": {
-      "Aid Society": 1,
-      "Anne Shirley": 1,
-      "Barry": 1,
-      "Carmody": 1,
-      "Chester Ross": 1,
-      "Em White": 1,
-      "Gertie Pye": 1,
-      "Gilbert Blythe": 1
-    }
-  },
-  {
     "canonical_name": "Let",
     "aliases": [],
     "first_chapter": 16,
@@ -4762,9 +4609,9 @@
       "Barry": 1,
       "Carmody": 1,
       "Chester Ross": 1,
-      "Don": 1,
       "Em White": 1,
-      "Gertie Pye": 1
+      "Gertie Pye": 1,
+      "Gilbert Blythe": 1
     }
   },
   {
@@ -4893,10 +4740,10 @@
       "Angel Gabriel": 1,
       "Anne": 1,
       "Anne Shirley": 1,
-      "Diana": 1,
       "German Jew": 1,
       "Green Gables": 1,
-      "Josie Pye": 1
+      "Josie Pye": 1,
+      "Marilla": 1
     }
   },
   {
@@ -5029,50 +4876,6 @@
       "Debating Club": 1,
       "Diana": 1,
       "Gilbert Blythe": 1
-    }
-  },
-  {
-    "canonical_name": "Emily",
-    "aliases": [],
-    "first_chapter": 34,
-    "total_mentions": 3,
-    "per_chapter": {
-      "34": {
-        "mentions": 3,
-        "snippet": "pick it in town last week, and we\u2019ll get Emily Gillis to make it for"
-      }
-    },
-    "co_occurs_with": {
-      "Academy": 1,
-      "Allan": 1,
-      "Anne": 1,
-      "Avonlea": 1,
-      "Barry": 1,
-      "Class": 1,
-      "Diana": 1,
-      "English Literature": 1
-    }
-  },
-  {
-    "canonical_name": "First",
-    "aliases": [],
-    "first_chapter": 34,
-    "total_mentions": 3,
-    "per_chapter": {
-      "34": {
-        "mentions": 3,
-        "snippet": "First Class teacher\u2019s license in one year instead of two, if they were"
-      }
-    },
-    "co_occurs_with": {
-      "Academy": 1,
-      "Allan": 1,
-      "Anne": 1,
-      "Avonlea": 1,
-      "Barry": 1,
-      "Class": 1,
-      "Diana": 1,
-      "Emily": 1
     }
   },
   {

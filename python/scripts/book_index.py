@@ -250,6 +250,42 @@ def query_book(
         return []
     valid_set = set(valid)
 
+    # Short-context shortcut: when only a small portion of the book has been
+    # read so far, skip ranking and feed the LLM every available chunk in
+    # reading order. The threshold scales with book length:
+    #   threshold = max(10, total_chapters // 3), capped at 30
+    # So a 12-chapter book uses the 10-chapter minimum, a 60-chapter book
+    # allows up to 20, and very long books (e.g. War and Peace at 365 ch.)
+    # cap at 30 to keep the LLM context manageable. For reading up to ≤2
+    # chapters, returns just those (1 chapter on chapter 1, 2 on chapter 2,
+    # etc.) — never reaches the threshold.
+    total_chapters_in_index = max(
+        (int(m.get("chapter") or 0) for m in metas),
+        default=0,
+    )
+    full_context_threshold = max(10, min(30, total_chapters_in_index // 3))
+    chapters_available = len({int(metas[i].get("chapter") or 0) for i in valid})
+    if chapters_available <= full_context_threshold or len(valid) <= top_k:
+        ordered = sorted(
+            valid,
+            key=lambda i: (
+                int(metas[i].get("chapter") or 0),
+                int(metas[i].get("chunk_in_chapter") or 0),
+            ),
+        )
+        out: List[Dict[str, Any]] = []
+        for i in ordered:
+            out.append({
+                "id": ids[i],
+                "document": docs[i],
+                "metadata": metas[i],
+                "score": 1.0,  # uniform — no ranking performed
+                "retrieval_mode": f"{mode}_full_context",
+                "dense_score": None,
+                "bm25_score": None,
+            })
+        return out
+
     # ---- Dense ranking ----
     dense_ranked: List[int] = []
     dense_scores: Dict[int, float] = {}

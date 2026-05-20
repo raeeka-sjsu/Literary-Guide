@@ -56,9 +56,9 @@
       "Mr. Holmes": 10,
       "Sherlock Holmes": 10,
       "Dr. Watson": 6,
-      "Very": 5,
-      "Have": 4,
-      "Mary Sutherland": 4
+      "Mary Sutherland": 4,
+      "Miss Mary Sutherland": 4,
+      "Doctor": 3
     }
   },
   {
@@ -114,9 +114,9 @@
       "Baker Street": 9,
       "Watson": 9,
       "Dr. Watson": 5,
-      "Very": 5,
-      "Have": 4,
-      "Mary Sutherland": 4
+      "Mary Sutherland": 4,
+      "Miss Mary Sutherland": 4,
+      "Mr. Sherlock Holmes": 3
     }
   },
   {
@@ -245,66 +245,10 @@
       "Holmes": 10,
       "Mr. Holmes": 10,
       "Watson": 9,
-      "Very": 6,
       "Dr. Watson": 5,
-      "Have": 4,
-      "Mary Sutherland": 4
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 39,
-    "per_chapter": {
-      "1": {
-        "mentions": 13,
-        "snippet": "The"
-      },
-      "7": {
-        "mentions": 26,
-        "snippet": "The matter is a perfectly trivial one\u201d\u2014he jerked his thumb in"
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 2,
-      "Holmes": 2,
-      "Irene Adler": 2,
-      "Watson": 2,
-      "Bohemia": 1,
-      "Bohemian": 1,
-      "Continental Gazetteer": 1,
-      "Count Von Kramm": 1
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 34,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "\u201cThere will call upon you to-night, at a quarter to eight o\u2019clock,\u201d it"
-      },
-      "3": {
-        "mentions": 11,
-        "snippet": "\u2019 There is half a column of print, but I"
-      },
-      "8": {
-        "mentions": 18,
-        "snippet": "\u201cThere is no mystery, my dear madam,\u201d said he, smiling."
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 3,
-      "Dr. Watson": 3,
-      "Holmes": 3,
-      "Watson": 3,
-      "Doctor": 2,
-      "Irene Adler": 2,
-      "King": 2,
-      "Mr. Holmes": 2
+      "Mary Sutherland": 4,
+      "Miss Mary Sutherland": 4,
+      "Mr. Sherlock Holmes": 4
     }
   },
   {
@@ -382,9 +326,9 @@
       "Mr. Holmes": 9,
       "Sherlock Holmes": 9,
       "Dr. Watson": 6,
-      "Very": 5,
       "Mary Sutherland": 4,
-      "Miss Mary Sutherland": 4
+      "Miss Mary Sutherland": 4,
+      "Doctor": 3
     }
   },
   {
@@ -494,9 +438,9 @@
       "Watson": 9,
       "Mr. Holmes": 9,
       "Dr. Watson": 6,
-      "Very": 6,
       "Doctor": 4,
-      "Mary Sutherland": 4
+      "Mary Sutherland": 4,
+      "Miss Mary Sutherland": 4
     }
   },
   {
@@ -521,48 +465,6 @@
       "Dr. Watson": 1,
       "Duncan Ross": 1,
       "Ezekiah Hopkins": 1
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 22,
-    "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "Very much so."
-      },
-      "6": {
-        "mentions": 3,
-        "snippet": "\u201cVery well."
-      },
-      "7": {
-        "mentions": 4,
-        "snippet": "\u201cVery."
-      },
-      "8": {
-        "mentions": 4,
-        "snippet": "\u201cVery sorry to knock you up, Watson,\u201d said he, \u201cbut it\u2019s the common lot"
-      },
-      "9": {
-        "mentions": 4,
-        "snippet": "\u201cVery murderous indeed."
-      },
-      "10": {
-        "mentions": 4,
-        "snippet": "Very right!"
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 6,
-      "Sherlock Holmes": 6,
-      "Holmes": 5,
-      "Mr. Holmes": 5,
-      "Watson": 5,
-      "Dr. Watson": 4,
-      "Doctor": 3,
-      "Mr. Sherlock Holmes": 3
     }
   },
   {
@@ -604,11 +506,11 @@
       "Alexander Holder": 1,
       "Baker Street": 1,
       "Beryl Coronet": 1,
-      "Boots": 1,
       "For Heaven": 1,
       "Francis Prosper": 1,
       "George Burnwell": 1,
-      "Have": 1
+      "Holder": 1,
+      "Holmes": 1
     }
   },
   {
@@ -640,9 +542,9 @@
       "Holmes": 3,
       "Watson": 3,
       "Sherlock Holmes": 3,
-      "Very": 3,
-      "There": 2,
-      "Mr. Holmes": 2
+      "Mr. Holmes": 2,
+      "Mr. Sherlock Holmes": 2,
+      "Scotland Yard": 2
     }
   },
   {
@@ -687,40 +589,6 @@
       "Colonel Spence Munro": 1,
       "Copper Beeches": 1,
       "Hampshire": 1
-    }
-  },
-  {
-    "canonical_name": "Pray",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 17,
-    "per_chapter": {
-      "8": {
-        "mentions": 4,
-        "snippet": "Pray draw up"
-      },
-      "10": {
-        "mentions": 7,
-        "snippet": "Pray give me the results of your newspaper selections."
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "Pray wait until you have recovered"
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "\u201cPray take a seat, Miss Hunter."
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 4,
-      "Holmes": 4,
-      "Mr. Holmes": 4,
-      "Sherlock Holmes": 4,
-      "Watson": 3,
-      "Dr. Watson": 2,
-      "Indeed": 2,
-      "Very": 2
     }
   },
   {
@@ -830,70 +698,6 @@
     }
   },
   {
-    "canonical_name": "Have",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 15,
-    "per_chapter": {
-      "2": {
-        "mentions": 5,
-        "snippet": "\u201c\u2018Have you never heard of the League of the Red-headed Men?"
-      },
-      "4": {
-        "mentions": 4,
-        "snippet": "\u201cHave you a couple of days to spare?"
-      },
-      "10": {
-        "mentions": 3,
-        "snippet": "\u201cHave you her photograph?"
-      },
-      "11": {
-        "mentions": 3,
-        "snippet": "\u201cHave they thought of looking outside the house?"
-      }
-    },
-    "co_occurs_with": {
-      "Holmes": 4,
-      "Mr. Holmes": 4,
-      "Sherlock Holmes": 4,
-      "Baker Street": 3,
-      "Scotland Yard": 3,
-      "Watson": 3,
-      "Dr. Watson": 2,
-      "Duncan Ross": 2
-    }
-  },
-  {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 15,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u2018Here are the"
-      },
-      "7": {
-        "mentions": 7,
-        "snippet": "\u201cHere is my lens."
-      },
-      "10": {
-        "mentions": 5,
-        "snippet": "\u201cHere is a very fashionable epistle,\u201d I remarked as he entered."
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 3,
-      "Holmes": 3,
-      "Mr. Holmes": 3,
-      "Sherlock Holmes": 3,
-      "Watson": 3,
-      "Very": 2,
-      "Alice": 1,
-      "Alicia Whittington": 1
-    }
-  },
-  {
     "canonical_name": "Holder",
     "aliases": [],
     "first_chapter": 11,
@@ -909,10 +713,32 @@
       "Arthur": 1,
       "Baker Street": 1,
       "Beryl Coronet": 1,
-      "Boots": 1,
       "For Heaven": 1,
       "Francis Prosper": 1,
-      "George Burnwell": 1
+      "George Burnwell": 1,
+      "Holmes": 1
+    }
+  },
+  {
+    "canonical_name": "The",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 13,
+    "per_chapter": {
+      "1": {
+        "mentions": 13,
+        "snippet": "The"
+      }
+    },
+    "co_occurs_with": {
+      "Baker Street": 1,
+      "Bohemia": 1,
+      "Bohemian": 1,
+      "Continental Gazetteer": 1,
+      "Count Von Kramm": 1,
+      "Crown Prince": 1,
+      "Doctor": 1,
+      "Dr. Watson": 1
     }
   },
   {
@@ -933,14 +759,14 @@
       }
     },
     "co_occurs_with": {
-      "Have": 2,
       "Holmes": 2,
       "Mr. Holmes": 2,
       "Mr. Sherlock Holmes": 2,
       "Scotland Yard": 2,
       "Sherlock Holmes": 2,
       "Watson": 2,
-      "Baker Street": 1
+      "Baker Street": 1,
+      "China": 1
     }
   },
   {
@@ -1006,9 +832,9 @@
       "Berkshire": 1,
       "Colonel Stark": 1,
       "Colonel Warburton": 1,
-      "Come": 1,
       "Doctor": 1,
-      "Dr. Becher": 1
+      "Dr. Becher": 1,
+      "Englishman": 1
     }
   },
   {
@@ -1027,10 +853,10 @@
       "Arthur": 1,
       "Baker Street": 1,
       "Beryl Coronet": 1,
-      "Boots": 1,
       "For Heaven": 1,
       "Francis Prosper": 1,
-      "George Burnwell": 1
+      "George Burnwell": 1,
+      "Holder": 1
     }
   },
   {
@@ -1051,10 +877,10 @@
       "Arthur": 1,
       "Baker Street": 1,
       "Beryl Coronet": 1,
-      "Boots": 1,
       "For Heaven": 1,
       "Francis Prosper": 1,
-      "George Burnwell": 1
+      "George Burnwell": 1,
+      "Holder": 1
     }
   },
   {
@@ -1123,8 +949,8 @@
       "Mr. Holmes": 2,
       "Mr. Sherlock Holmes": 2,
       "Sherlock Holmes": 2,
-      "Very": 2,
-      "Watson": 2
+      "Watson": 2,
+      "China": 1
     }
   },
   {
@@ -1326,13 +1152,13 @@
     },
     "co_occurs_with": {
       "Alice": 2,
-      "Have": 2,
       "Holmes": 2,
       "Mr. Holmes": 2,
       "Scotland Yard": 2,
       "Sherlock Holmes": 2,
       "Watson": 2,
-      "Alicia Whittington": 1
+      "Alicia Whittington": 1,
+      "Aloysius Doran": 1
     }
   },
   {
@@ -1388,9 +1214,9 @@
       "Sherlock Holmes": 3,
       "Watson": 3,
       "Baker Street": 2,
-      "Have": 2,
       "Mr. Lestrade": 2,
-      "Pray": 2
+      "Scotland Yard": 2,
+      "Alicia Whittington": 1
     }
   },
   {
@@ -1613,8 +1439,8 @@
       "Colonel Lysander Stark": 1,
       "Colonel Stark": 1,
       "Colonel Warburton": 1,
-      "Come": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Becher": 1
     }
   },
   {
@@ -1679,10 +1505,10 @@
       "Arthur": 1,
       "Baker Street": 1,
       "Beryl Coronet": 1,
-      "Boots": 1,
       "For Heaven": 1,
       "Francis Prosper": 1,
-      "Have": 1
+      "Holder": 1,
+      "Holmes": 1
     }
   },
   {
@@ -1705,10 +1531,10 @@
       "Dr. Watson": 2,
       "Holmes": 2,
       "Irene Adler": 2,
-      "There": 2,
       "Watson": 2,
       "Bohemia": 1,
-      "Bohemian": 1
+      "Bohemian": 1,
+      "Continental Gazetteer": 1
     }
   },
   {
@@ -1781,12 +1607,12 @@
     "co_occurs_with": {
       "Sherlock Holmes": 4,
       "Baker Street": 3,
-      "Have": 3,
       "Holmes": 3,
       "Mr. Holmes": 3,
       "Mr. Sherlock Holmes": 3,
-      "Very": 3,
-      "Watson": 3
+      "Watson": 3,
+      "Doctor": 2,
+      "Dr. Watson": 2
     }
   },
   {
@@ -1954,9 +1780,9 @@
       "Holmes": 3,
       "Mr. Holmes": 3,
       "Scotland Yard": 3,
-      "Very": 3,
       "Watson": 3,
-      "City": 2
+      "City": 2,
+      "Doctor": 2
     }
   },
   {
@@ -2096,9 +1922,9 @@
       "Watson": 6,
       "Mr. Holmes": 5,
       "Sherlock Holmes": 5,
-      "Very": 4,
       "Doctor": 3,
-      "There": 3
+      "Irene Adler": 2,
+      "King": 2
     }
   },
   {
@@ -2248,28 +2074,6 @@
     }
   },
   {
-    "canonical_name": "Nothing",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 6,
-    "per_chapter": {
-      "5": {
-        "mentions": 6,
-        "snippet": "Nothing less would bring a man out on"
-      }
-    },
-    "co_occurs_with": {
-      "Amateur Mendicant Society": 1,
-      "Baker Street": 1,
-      "Captain Calhoun": 1,
-      "Captain James Calhoun": 1,
-      "Civil War": 1,
-      "Clark Russell": 1,
-      "Colonel Openshaw": 1,
-      "Constable Cook": 1
-    }
-  },
-  {
     "canonical_name": "Lone",
     "aliases": [],
     "first_chapter": 5,
@@ -2335,10 +2139,10 @@
       "Holmes": 2,
       "Mr. Holmes": 2,
       "Sherlock Holmes": 2,
-      "Very": 2,
       "Watson": 2,
       "Bengal Artillery": 1,
-      "Crane Water": 1
+      "Crane Water": 1,
+      "Crown Inn": 1
     }
   },
   {
@@ -2364,32 +2168,6 @@
     }
   },
   {
-    "canonical_name": "Indeed",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 6,
-    "per_chapter": {
-      "8": {
-        "mentions": 3,
-        "snippet": "\u201cIndeed,\u201d said Holmes."
-      },
-      "10": {
-        "mentions": 3,
-        "snippet": "\u201cIndeed."
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 2,
-      "Dr. Watson": 2,
-      "Holmes": 2,
-      "Mr. Holmes": 2,
-      "Pray": 2,
-      "Sherlock Holmes": 2,
-      "Very": 2,
-      "Watson": 2
-    }
-  },
-  {
     "canonical_name": "Dr. Becher",
     "aliases": [
       "Becher"
@@ -2409,8 +2187,8 @@
       "Colonel Lysander Stark": 1,
       "Colonel Stark": 1,
       "Colonel Warburton": 1,
-      "Come": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Englishman": 1
     }
   },
   {
@@ -2504,9 +2282,9 @@
       "Watson": 3,
       "Dr. Watson": 2,
       "King": 2,
-      "The": 2,
-      "There": 2,
-      "Mary Sutherland": 2
+      "Mary Sutherland": 2,
+      "Miss Mary Sutherland": 2,
+      "Mr. Holmes": 2
     }
   },
   {
@@ -2659,30 +2437,8 @@
       "Colonel Lysander Stark": 1,
       "Colonel Stark": 1,
       "Colonel Warburton": 1,
-      "Come": 1,
-      "Doctor": 1
-    }
-  },
-  {
-    "canonical_name": "Perhaps",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 5,
-    "per_chapter": {
-      "9": {
-        "mentions": 5,
-        "snippet": "\u201cPerhaps you had better not speak of the matter."
-      }
-    },
-    "co_occurs_with": {
-      "At Reading": 1,
-      "Baker Street": 1,
-      "Berkshire": 1,
-      "Colonel Lysander Stark": 1,
-      "Colonel Stark": 1,
-      "Colonel Warburton": 1,
-      "Come": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Becher": 1
     }
   },
   {
@@ -2745,10 +2501,10 @@
       "Arthur": 1,
       "Baker Street": 1,
       "Beryl Coronet": 1,
-      "Boots": 1,
       "For Heaven": 1,
       "Francis Prosper": 1,
-      "George Burnwell": 1
+      "George Burnwell": 1,
+      "Holder": 1
     }
   },
   {
@@ -2910,6 +2666,28 @@
     }
   },
   {
+    "canonical_name": "Have",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 4,
+    "per_chapter": {
+      "4": {
+        "mentions": 4,
+        "snippet": "\u201cHave you a couple of days to spare?"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Assizes": 1,
+      "Australian": 1,
+      "Ballarat Gang": 1,
+      "Bermuda Dockyard": 1,
+      "Boscombe Pool": 1,
+      "Boscombe Valley": 1,
+      "Bristol": 1
+    }
+  },
+  {
     "canonical_name": "Colonel Openshaw",
     "aliases": [],
     "first_chapter": 5,
@@ -2978,28 +2756,6 @@
     }
   },
   {
-    "canonical_name": "Which",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 4,
-    "per_chapter": {
-      "7": {
-        "mentions": 4,
-        "snippet": "\u201cWhich surely he restored to their owner?"
-      }
-    },
-    "co_occurs_with": {
-      "Alpha Inn": 1,
-      "Amoy River": 1,
-      "Baker Street": 1,
-      "Brixton Road": 1,
-      "By Jove": 1,
-      "Catherine Cusack": 1,
-      "Covent Garden": 1,
-      "Covent Garden Market": 1
-    }
-  },
-  {
     "canonical_name": "Morcar",
     "aliases": [],
     "first_chapter": 7,
@@ -3008,28 +2764,6 @@
       "7": {
         "mentions": 4,
         "snippet": "\u201cNot the Countess of Morcar\u2019s blue carbuncle!"
-      }
-    },
-    "co_occurs_with": {
-      "Alpha Inn": 1,
-      "Amoy River": 1,
-      "Baker Street": 1,
-      "Brixton Road": 1,
-      "By Jove": 1,
-      "Catherine Cusack": 1,
-      "Covent Garden": 1,
-      "Covent Garden Market": 1
-    }
-  },
-  {
-    "canonical_name": "Get",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 4,
-    "per_chapter": {
-      "7": {
-        "mentions": 4,
-        "snippet": "Get out of this!"
       }
     },
     "co_occurs_with": {
@@ -3063,28 +2797,6 @@
       "Catherine Cusack": 1,
       "Covent Garden": 1,
       "Covent Garden Market": 1
-    }
-  },
-  {
-    "canonical_name": "Good",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 4,
-    "per_chapter": {
-      "8": {
-        "mentions": 4,
-        "snippet": "\u201cGood-morning, madam,\u201d said Holmes cheerily."
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 1,
-      "Bengal Artillery": 1,
-      "Crane Water": 1,
-      "Crown Inn": 1,
-      "Doctor": 1,
-      "Dr. Grimesby Roylott": 1,
-      "Dr. Roylott": 1,
-      "Dr. Watson": 1
     }
   },
   {
@@ -3129,8 +2841,8 @@
       "Colonel Lysander Stark": 1,
       "Colonel Stark": 1,
       "Colonel Warburton": 1,
-      "Come": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Becher": 1
     }
   },
   {
@@ -3237,10 +2949,10 @@
       "Arthur": 1,
       "Baker Street": 1,
       "Beryl Coronet": 1,
-      "Boots": 1,
       "For Heaven": 1,
       "Francis Prosper": 1,
-      "George Burnwell": 1
+      "George Burnwell": 1,
+      "Holder": 1
     }
   },
   {
@@ -3508,28 +3220,6 @@
     }
   },
   {
-    "canonical_name": "Quite",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "\u201cQuite so; at the gold-mines, where, as I understand, Mr."
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 1,
-      "Assizes": 1,
-      "Australian": 1,
-      "Ballarat Gang": 1,
-      "Bermuda Dockyard": 1,
-      "Boscombe Pool": 1,
-      "Boscombe Valley": 1,
-      "Bristol": 1
-    }
-  },
-  {
     "canonical_name": "Major Freebody",
     "aliases": [
       "Freebody"
@@ -3586,28 +3276,6 @@
       "5": {
         "mentions": 3,
         "snippet": "a planter in Florida, where he was reported to have done very well."
-      }
-    },
-    "co_occurs_with": {
-      "Amateur Mendicant Society": 1,
-      "Baker Street": 1,
-      "Captain Calhoun": 1,
-      "Captain James Calhoun": 1,
-      "Civil War": 1,
-      "Clark Russell": 1,
-      "Colonel Openshaw": 1,
-      "Constable Cook": 1
-    }
-  },
-  {
-    "canonical_name": "Thank",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cThank you."
       }
     },
     "co_occurs_with": {
@@ -3706,33 +3374,11 @@
       "Baker Street": 2,
       "Mr. Sherlock Holmes": 2,
       "Sherlock Holmes": 2,
-      "Very": 2,
       "Aberdeen Shipping Company": 1,
-      "Bow Street": 1,
-      "Cannon Street": 1,
-      "Certainly": 1
-    }
-  },
-  {
-    "canonical_name": "Had",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 3,
-    "per_chapter": {
-      "6": {
-        "mentions": 3,
-        "snippet": "Had I been recognised in that den my life would"
-      }
-    },
-    "co_occurs_with": {
-      "Aberdeen Shipping Company": 1,
-      "Baker Street": 1,
       "Bow Street": 1,
       "Cannon Street": 1,
       "Certainly": 1,
-      "Charing Cross": 1,
-      "City": 1,
-      "Counties Bank": 1
+      "Charing Cross": 1
     }
   },
   {
@@ -3766,28 +3412,6 @@
       "6": {
         "mentions": 3,
         "snippet": "coarse one and was stamped with the Gravesend postmark and with the"
-      }
-    },
-    "co_occurs_with": {
-      "Aberdeen Shipping Company": 1,
-      "Baker Street": 1,
-      "Bow Street": 1,
-      "Cannon Street": 1,
-      "Certainly": 1,
-      "Charing Cross": 1,
-      "City": 1,
-      "Counties Bank": 1
-    }
-  },
-  {
-    "canonical_name": "Never",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 3,
-    "per_chapter": {
-      "6": {
-        "mentions": 3,
-        "snippet": "\u201cNever."
       }
     },
     "co_occurs_with": {
@@ -3912,28 +3536,6 @@
     }
   },
   {
-    "canonical_name": "Julia",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 3,
-    "per_chapter": {
-      "8": {
-        "mentions": 3,
-        "snippet": "Julia and I were twins, and we were only two years old at the time of"
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 1,
-      "Bengal Artillery": 1,
-      "Crane Water": 1,
-      "Crown Inn": 1,
-      "Doctor": 1,
-      "Dr. Grimesby Roylott": 1,
-      "Dr. Roylott": 1,
-      "Dr. Watson": 1
-    }
-  },
-  {
     "canonical_name": "Harrow",
     "aliases": [],
     "first_chapter": 8,
@@ -3942,28 +3544,6 @@
       "8": {
         "mentions": 3,
         "snippet": "Honoria Westphail, who lives near Harrow, and we were occasionally"
-      }
-    },
-    "co_occurs_with": {
-      "Baker Street": 1,
-      "Bengal Artillery": 1,
-      "Crane Water": 1,
-      "Crown Inn": 1,
-      "Doctor": 1,
-      "Dr. Grimesby Roylott": 1,
-      "Dr. Roylott": 1,
-      "Dr. Watson": 1
-    }
-  },
-  {
-    "canonical_name": "With",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 3,
-    "per_chapter": {
-      "8": {
-        "mentions": 3,
-        "snippet": "With your"
       }
     },
     "co_occurs_with": {
@@ -3996,9 +3576,9 @@
       "Berkshire": 1,
       "Colonel Lysander Stark": 1,
       "Colonel Stark": 1,
-      "Come": 1,
       "Doctor": 1,
-      "Dr. Becher": 1
+      "Dr. Becher": 1,
+      "Englishman": 1
     }
   },
   {
@@ -4018,31 +3598,9 @@
       "Colonel Lysander Stark": 1,
       "Colonel Stark": 1,
       "Colonel Warburton": 1,
-      "Come": 1,
       "Doctor": 1,
-      "Dr. Becher": 1
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 9,
-    "total_mentions": 3,
-    "per_chapter": {
-      "9": {
-        "mentions": 3,
-        "snippet": "\u201c\u2018Come!"
-      }
-    },
-    "co_occurs_with": {
-      "At Reading": 1,
-      "Baker Street": 1,
-      "Berkshire": 1,
-      "Colonel Lysander Stark": 1,
-      "Colonel Stark": 1,
-      "Colonel Warburton": 1,
-      "Doctor": 1,
-      "Dr. Becher": 1
+      "Dr. Becher": 1,
+      "Englishman": 1
     }
   },
   {
@@ -4063,8 +3621,8 @@
       "Colonel Lysander Stark": 1,
       "Colonel Stark": 1,
       "Colonel Warburton": 1,
-      "Come": 1,
-      "Doctor": 1
+      "Doctor": 1,
+      "Dr. Becher": 1
     }
   },
   {
@@ -4202,50 +3760,6 @@
     }
   },
   {
-    "canonical_name": "Did",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 3,
-    "per_chapter": {
-      "10": {
-        "mentions": 3,
-        "snippet": "\u201cDid you become engaged then?"
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 1,
-      "Alicia Whittington": 1,
-      "Aloysius Doran": 1,
-      "Apache Indians": 1,
-      "Arabian Nights": 1,
-      "Baker Street": 1,
-      "Balmoral": 1,
-      "California": 1
-    }
-  },
-  {
-    "canonical_name": "Still",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 3,
-    "per_chapter": {
-      "10": {
-        "mentions": 3,
-        "snippet": "Still, of course, in America they look upon these"
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 1,
-      "Alicia Whittington": 1,
-      "Aloysius Doran": 1,
-      "Apache Indians": 1,
-      "Arabian Nights": 1,
-      "Baker Street": 1,
-      "Balmoral": 1,
-      "California": 1
-    }
-  },
-  {
     "canonical_name": "Serpentine",
     "aliases": [],
     "first_chapter": 10,
@@ -4283,32 +3797,10 @@
       "Arthur": 1,
       "Baker Street": 1,
       "Beryl Coronet": 1,
-      "Boots": 1,
-      "For Heaven": 1,
-      "Francis Prosper": 1,
-      "George Burnwell": 1
-    }
-  },
-  {
-    "canonical_name": "Boots",
-    "aliases": [],
-    "first_chapter": 11,
-    "total_mentions": 3,
-    "per_chapter": {
-      "11": {
-        "mentions": 3,
-        "snippet": "found they led to the hall window, where Boots had worn all the snow"
-      }
-    },
-    "co_occurs_with": {
-      "Alexander Holder": 1,
-      "Arthur": 1,
-      "Baker Street": 1,
-      "Beryl Coronet": 1,
       "For Heaven": 1,
       "Francis Prosper": 1,
       "George Burnwell": 1,
-      "Have": 1
+      "Holder": 1
     }
   },
   {
@@ -4322,6 +3814,28 @@
       "12": {
         "mentions": 3,
         "snippet": "of Lord Southerton\u2019s preserves."
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Alice Rucastle": 1,
+      "Baker Street": 1,
+      "Black Swan": 1,
+      "Black Swan Hotel": 1,
+      "Colonel Spence Munro": 1,
+      "Copper Beeches": 1,
+      "Hampshire": 1
+    }
+  },
+  {
+    "canonical_name": "Pray",
+    "aliases": [],
+    "first_chapter": 12,
+    "total_mentions": 3,
+    "per_chapter": {
+      "12": {
+        "mentions": 3,
+        "snippet": "\u201cPray take a seat, Miss Hunter."
       }
     },
     "co_occurs_with": {

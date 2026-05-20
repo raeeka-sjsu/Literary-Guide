@@ -15,10 +15,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -39,10 +39,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -61,10 +61,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -83,10 +83,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -105,10 +105,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -127,10 +127,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -149,32 +149,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "All",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 36,
-    "per_chapter": {
-      "1": {
-        "mentions": 36,
-        "snippet": "\u201cAll thanks for this good meal,\u201d he said, licking his lips."
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "Amir": 1,
-      "Are": 1,
       "Australia": 1,
-      "Back Blocks": 1
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -193,10 +171,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -215,10 +193,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -237,10 +215,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -259,10 +237,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -281,10 +259,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -303,10 +281,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -325,32 +303,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Look",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 20,
-    "per_chapter": {
-      "1": {
-        "mentions": 20,
-        "snippet": "Look!"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -371,10 +327,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -393,32 +349,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Don",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 16,
-    "per_chapter": {
-      "1": {
-        "mentions": 16,
-        "snippet": "Don\u2019t you envy our pranceful bands?"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -437,10 +371,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -459,10 +393,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -481,10 +415,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -503,10 +437,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -525,10 +459,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -547,32 +481,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 12,
-    "per_chapter": {
-      "1": {
-        "mentions": 12,
-        "snippet": "\u201d Here Baloo rubbed his faded brown shoulder against the Panther,"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -591,10 +503,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -613,10 +525,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -635,10 +547,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -657,10 +569,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -679,10 +591,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -701,76 +613,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Keep",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 10,
-    "per_chapter": {
-      "1": {
-        "mentions": 10,
-        "snippet": "\u201cKeep him!"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Remember",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 10,
-    "per_chapter": {
-      "1": {
-        "mentions": 10,
-        "snippet": "\u201cRemember that it"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Once",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 10,
-    "per_chapter": {
-      "1": {
-        "mentions": 10,
-        "snippet": "Once, twice and again!"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -789,32 +635,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Thou",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 9,
-    "per_chapter": {
-      "1": {
-        "mentions": 9,
-        "snippet": "Thou hast"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -833,10 +657,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -855,10 +679,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -877,10 +701,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -899,10 +723,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -921,10 +745,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -943,54 +767,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Are",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 8,
-    "per_chapter": {
-      "1": {
-        "mentions": 8,
-        "snippet": "Are there"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
       "Australia": 1,
-      "Back Blocks": 1
-    }
-  },
-  {
-    "canonical_name": "From",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 8,
-    "per_chapter": {
-      "1": {
-        "mentions": 8,
-        "snippet": "From the pond in the wood where the wild deer sup."
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1009,10 +789,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1031,10 +811,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1053,10 +833,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1075,10 +855,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
-      "Are": 1,
       "Australia": 1,
-      "Back Blocks": 1
+      "Back Blocks": 1,
+      "Bagheera the Black": 1,
+      "Basking Shark": 1
     }
   },
   {
@@ -1099,10 +879,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1121,10 +901,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1143,10 +923,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1165,10 +945,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1187,10 +967,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1209,76 +989,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Listen",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 6,
-    "per_chapter": {
-      "1": {
-        "mentions": 6,
-        "snippet": "\u201cListen to"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Run",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 6,
-    "per_chapter": {
-      "1": {
-        "mentions": 6,
-        "snippet": "Run!"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Limmershin",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 6,
-    "per_chapter": {
-      "1": {
-        "mentions": 6,
-        "snippet": "Limmershin, the Winter Wren, told me the tale"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1297,10 +1011,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1319,10 +1033,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1341,10 +1055,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1363,54 +1077,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Never",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 5,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "\u201cNever while we can follow a trail,\u201d said the cubs."
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Sit",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 5,
-    "per_chapter": {
-      "1": {
-        "mentions": 5,
-        "snippet": "Sit still and think!"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1429,10 +1099,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1453,10 +1123,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1475,10 +1145,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1497,10 +1167,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1519,10 +1189,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1541,10 +1211,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1563,10 +1233,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1585,98 +1255,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Take",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 4,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "\u201cTake him away,\u201d he said to Father Wolf, \u201cand train him as befits one of"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Make",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 4,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "Make a plan."
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Those",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 4,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "Those"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 4,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "\u201cVery soft is his skin, and he is"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1695,10 +1277,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1717,10 +1299,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1739,10 +1321,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1761,10 +1343,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1783,32 +1365,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Hear",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 4,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "\u201cHear you, fat pigs of the sea."
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1827,32 +1387,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Stop",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 4,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "Stop singing a minute, Darzee."
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1871,10 +1409,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1893,10 +1431,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Back Blocks": 1
+      "Back Blocks": 1,
+      "Bagheera the Black": 1,
+      "Basking Shark": 1
     }
   },
   {
@@ -1915,10 +1453,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1937,10 +1475,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1959,10 +1497,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -1981,10 +1519,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2003,10 +1541,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2025,10 +1563,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2047,10 +1585,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2069,98 +1607,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Son",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "\u201cWhat is it, Son?"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Bah",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Then Shere Khan roared: \u201cBah!"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Feet",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Feet in the jungle that leave no mark!"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Teacher",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "So Baloo, the Teacher of"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2179,10 +1629,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2201,10 +1651,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2223,10 +1673,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2245,32 +1695,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Clam",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "\u201cClam-eater!"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2289,10 +1717,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2311,32 +1739,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
-    }
-  },
-  {
-    "canonical_name": "Wah",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "\u201cWah!"
-      }
-    },
-    "co_occurs_with": {
-      "Abyssinian War": 1,
-      "Afghan War": 1,
-      "Afghanistan": 1,
-      "Ali Musjid": 1,
-      "All": 1,
-      "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2355,10 +1761,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2377,10 +1783,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2399,10 +1805,10 @@
       "Afghan War": 1,
       "Afghanistan": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
-      "Australia": 1
+      "Australia": 1,
+      "Back Blocks": 1,
+      "Bagheera the Black": 1
     }
   },
   {
@@ -2420,11 +1826,11 @@
       "Abyssinian War": 1,
       "Afghan War": 1,
       "Ali Musjid": 1,
-      "All": 1,
       "Amir": 1,
-      "Are": 1,
       "Australia": 1,
-      "Back Blocks": 1
+      "Back Blocks": 1,
+      "Bagheera the Black": 1,
+      "Basking Shark": 1
     }
   }
 ]

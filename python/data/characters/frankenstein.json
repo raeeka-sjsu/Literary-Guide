@@ -35,7 +35,7 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 4,
+      "Clerval": 3,
       "Ingolstadt": 2,
       "Frankenstein": 2,
       "Albertus Magnus": 1,
@@ -49,7 +49,7 @@
     "canonical_name": "Felix",
     "aliases": [],
     "first_chapter": 12,
-    "total_mentions": 48,
+    "total_mentions": 44,
     "per_chapter": {
       "12": {
         "mentions": 7,
@@ -63,20 +63,16 @@
         "mentions": 18,
         "snippet": "\u201cFelix had accidentally been present at the trial; his horror and"
       },
-      "15": {
-        "mentions": 4,
-        "snippet": "Felix and Agatha"
-      },
       "16": {
         "mentions": 6,
         "snippet": "acting before my eyes; the females were flying and the enraged Felix"
       }
     },
     "co_occurs_with": {
-      "Agatha": 4,
-      "De Lacey": 3,
-      "Safie": 3,
+      "Agatha": 3,
       "Arabian": 2,
+      "De Lacey": 2,
+      "Safie": 2,
       "Christian Arab": 1,
       "Italy": 1,
       "Leghorn": 1,
@@ -87,19 +83,11 @@
     "canonical_name": "Clerval",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 47,
+    "total_mentions": 26,
     "per_chapter": {
       "2": {
         "mentions": 4,
         "snippet": "Clerval was the son of a merchant of Geneva."
-      },
-      "3": {
-        "mentions": 3,
-        "snippet": "Clerval spent the last"
-      },
-      "6": {
-        "mentions": 12,
-        "snippet": "Clerval then put the following letter into my hands."
       },
       "7": {
         "mentions": 4,
@@ -108,10 +96,6 @@
       "18": {
         "mentions": 5,
         "snippet": "arranged that Clerval should join me at Strasburgh."
-      },
-      "19": {
-        "mentions": 6,
-        "snippet": "Clerval desired the"
       },
       "21": {
         "mentions": 7,
@@ -123,14 +107,14 @@
       }
     },
     "co_occurs_with": {
-      "Geneva": 4,
-      "Henry": 4,
-      "Elizabeth": 4,
-      "Cornelius Agrippa": 2,
-      "Ingolstadt": 2,
-      "Justine Moritz": 2,
-      "Victor": 2,
-      "Albertus Magnus": 2
+      "Geneva": 3,
+      "Elizabeth": 3,
+      "Henry": 2,
+      "Albertus Magnus": 1,
+      "Cornelius Agrippa": 1,
+      "Isaac Newton": 1,
+      "King Arthur": 1,
+      "Round Table": 1
     }
   },
   {
@@ -159,32 +143,6 @@
     }
   },
   {
-    "canonical_name": "Justine",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 24,
-    "per_chapter": {
-      "8": {
-        "mentions": 21,
-        "snippet": "Justine also was a girl of merit and possessed qualities which promised"
-      },
-      "22": {
-        "mentions": 3,
-        "snippet": "Justine, poor unhappy Justine, was as innocent"
-      }
-    },
-    "co_occurs_with": {
-      "Elizabeth Lavenza": 1,
-      "Geneva": 1,
-      "Mont Blanc": 1,
-      "Such": 1,
-      "Victor": 1,
-      "Elizabeth": 1,
-      "Frankenstein": 1,
-      "Madame Frankenstein": 1
-    }
-  },
-  {
     "canonical_name": "Safie",
     "aliases": [],
     "first_chapter": 13,
@@ -205,13 +163,31 @@
     },
     "co_occurs_with": {
       "Agatha": 3,
-      "Felix": 3,
       "Arabian": 2,
       "De Lacey": 2,
+      "Felix": 2,
       "Christian Arab": 1,
       "Italy": 1,
       "Leghorn": 1,
       "The Turk": 1
+    }
+  },
+  {
+    "canonical_name": "Justine",
+    "aliases": [],
+    "first_chapter": 8,
+    "total_mentions": 21,
+    "per_chapter": {
+      "8": {
+        "mentions": 21,
+        "snippet": "Justine also was a girl of merit and possessed qualities which promised"
+      }
+    },
+    "co_occurs_with": {
+      "Elizabeth": 1,
+      "Frankenstein": 1,
+      "Madame Frankenstein": 1,
+      "William": 1
     }
   },
   {
@@ -238,7 +214,7 @@
       }
     },
     "co_occurs_with": {
-      "Felix": 4,
+      "Felix": 3,
       "Safie": 3,
       "Arabian": 2,
       "De Lacey": 2,
@@ -276,21 +252,21 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 4,
       "Victor": 3,
+      "Clerval": 3,
       "Cornelius Agrippa": 2,
       "Elizabeth Lavenza": 2,
-      "Henry": 2,
       "Justine Moritz": 2,
       "Mont Blanc": 2,
-      "Ingolstadt": 1
+      "Ingolstadt": 1,
+      "John Melbourne": 1
     }
   },
   {
     "canonical_name": "Victor",
     "aliases": [],
     "first_chapter": 6,
-    "total_mentions": 20,
+    "total_mentions": 17,
     "per_chapter": {
       "6": {
         "mentions": 3,
@@ -300,10 +276,6 @@
         "mentions": 8,
         "snippet": "\u201cMy dear Victor,"
       },
-      "9": {
-        "mentions": 3,
-        "snippet": "\u201cDo you think, Victor,\u201d said he, \u201cthat I do not suffer"
-      },
       "22": {
         "mentions": 6,
         "snippet": "\u201cMy dearest Victor, what infatuation is this?"
@@ -311,46 +283,12 @@
     },
     "co_occurs_with": {
       "Geneva": 3,
-      "Justine Moritz": 3,
-      "Mont Blanc": 3,
-      "Clerval": 2,
       "Elizabeth Lavenza": 2,
+      "Justine Moritz": 2,
+      "Mont Blanc": 2,
       "Cornelius Agrippa": 1,
-      "Henry": 1,
-      "Ingolstadt": 1
-    }
-  },
-  {
-    "canonical_name": "Henry",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 16,
-    "per_chapter": {
-      "6": {
-        "mentions": 5,
-        "snippet": "kind Henry are not sufficient to reassure me on your account."
-      },
-      "18": {
-        "mentions": 3,
-        "snippet": "Nay, Henry might stand between"
-      },
-      "19": {
-        "mentions": 4,
-        "snippet": "Henry soothed me, and I could thus cheat myself into a transitory"
-      },
-      "21": {
-        "mentions": 4,
-        "snippet": "passed like a dream from my memory when I saw the lifeless form of Henry"
-      }
-    },
-    "co_occurs_with": {
-      "Clerval": 4,
-      "Geneva": 2,
-      "Cornelius Agrippa": 1,
-      "Elizabeth Lavenza": 1,
       "Ingolstadt": 1,
       "John Melbourne": 1,
-      "Justine Moritz": 1,
       "Louis Manoir": 1
     }
   },
@@ -375,13 +313,13 @@
     },
     "co_occurs_with": {
       "Elizabeth": 2,
-      "Alas": 1,
       "Black Sea": 1,
       "Clerval": 1,
       "Frozen Ocean": 1,
-      "Margaret": 1,
       "Walton": 1,
-      "Justine": 1
+      "Justine": 1,
+      "Madame Frankenstein": 1,
+      "William": 1
     }
   },
   {
@@ -411,6 +349,36 @@
     }
   },
   {
+    "canonical_name": "Henry",
+    "aliases": [],
+    "first_chapter": 18,
+    "total_mentions": 11,
+    "per_chapter": {
+      "18": {
+        "mentions": 3,
+        "snippet": "Nay, Henry might stand between"
+      },
+      "19": {
+        "mentions": 4,
+        "snippet": "Henry soothed me, and I could thus cheat myself into a transitory"
+      },
+      "21": {
+        "mentions": 4,
+        "snippet": "passed like a dream from my memory when I saw the lifeless form of Henry"
+      }
+    },
+    "co_occurs_with": {
+      "Clerval": 2,
+      "Daniel Nugent": 1,
+      "Geneva": 1,
+      "Ireland": 1,
+      "Mr. Kirwin": 1,
+      "Elizabeth": 1,
+      "La Valais": 1,
+      "Pays de Vaud": 1
+    }
+  },
+  {
     "canonical_name": "Ingolstadt",
     "aliases": [],
     "first_chapter": 3,
@@ -430,14 +398,14 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 2,
       "Elizabeth": 2,
       "Cornelius Agrippa": 1,
       "Elizabeth Lavenza": 1,
       "Geneva": 1,
-      "Henry": 1,
       "John Melbourne": 1,
-      "Justine Moritz": 1
+      "Justine Moritz": 1,
+      "Louis Manoir": 1,
+      "Louisa Biron": 1
     }
   },
   {
@@ -460,8 +428,8 @@
       }
     },
     "co_occurs_with": {
-      "Felix": 3,
       "Agatha": 2,
+      "Felix": 2,
       "Safie": 2,
       "Arabian": 1,
       "Christian Arab": 1,
@@ -486,14 +454,14 @@
       }
     },
     "co_occurs_with": {
-      "Beaufort": 1,
       "Elizabeth Lavenza": 1,
       "Agatha": 1,
       "Arabian": 1,
       "Christian Arab": 1,
       "De Lacey": 1,
       "Felix": 1,
-      "Leghorn": 1
+      "Leghorn": 1,
+      "Safie": 1
     }
   },
   {
@@ -519,22 +487,6 @@
     }
   },
   {
-    "canonical_name": "Beaufort",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 6,
-    "per_chapter": {
-      "1": {
-        "mentions": 6,
-        "snippet": "This man, whose name was Beaufort, was of a"
-      }
-    },
-    "co_occurs_with": {
-      "Elizabeth Lavenza": 1,
-      "Italy": 1
-    }
-  },
-  {
     "canonical_name": "Justine Moritz",
     "aliases": [
       "Moritz"
@@ -556,14 +508,14 @@
       }
     },
     "co_occurs_with": {
-      "Victor": 3,
-      "Clerval": 2,
       "Geneva": 2,
+      "Victor": 2,
       "Mont Blanc": 2,
       "Cornelius Agrippa": 1,
       "Elizabeth Lavenza": 1,
-      "Henry": 1,
-      "Ingolstadt": 1
+      "Ingolstadt": 1,
+      "John Melbourne": 1,
+      "Louis Manoir": 1
     }
   },
   {
@@ -590,14 +542,14 @@
       }
     },
     "co_occurs_with": {
-      "Victor": 3,
       "Geneva": 2,
+      "Victor": 2,
       "Justine Moritz": 2,
       "Elizabeth Lavenza": 1,
-      "Justine": 1,
-      "Such": 1,
       "Alphonse Frankenstein": 1,
-      "Caroline Beaufort": 1
+      "Caroline Beaufort": 1,
+      "Clerval": 1,
+      "Elizabeth": 1
     }
   },
   {
@@ -656,7 +608,6 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 1,
       "Cumberland": 1,
       "Edinburgh": 1,
       "Henry": 1,
@@ -678,13 +629,11 @@
       }
     },
     "co_occurs_with": {
-      "Alas": 1,
       "Black Sea": 1,
       "Clerval": 1,
       "Elizabeth": 1,
       "Frankenstein": 1,
-      "Frozen Ocean": 1,
-      "Margaret": 1
+      "Frozen Ocean": 1
     }
   },
   {
@@ -707,14 +656,14 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 2,
       "Geneva": 2,
       "Elizabeth Lavenza": 1,
-      "Henry": 1,
       "Ingolstadt": 1,
       "John Melbourne": 1,
       "Justine Moritz": 1,
-      "Louis Manoir": 1
+      "Louis Manoir": 1,
+      "Louisa Biron": 1,
+      "Madame Moritz": 1
     }
   },
   {
@@ -751,7 +700,6 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 1,
       "Cumberland": 1,
       "Edinburgh": 1,
       "Henry": 1,
@@ -773,7 +721,6 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 1,
       "Cumberland": 1,
       "Henry": 1,
       "Matlock": 1,
@@ -795,7 +742,6 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 1,
       "Cumberland": 1,
       "Edinburgh": 1,
       "Henry": 1,
@@ -803,25 +749,6 @@
       "Oxford": 1,
       "Pentland Hills": 1,
       "Scotland": 1
-    }
-  },
-  {
-    "canonical_name": "Such",
-    "aliases": [],
-    "first_chapter": 22,
-    "total_mentions": 4,
-    "per_chapter": {
-      "22": {
-        "mentions": 4,
-        "snippet": "_\u201d Such was my sentence, and on that night would the"
-      }
-    },
-    "co_occurs_with": {
-      "Elizabeth Lavenza": 1,
-      "Geneva": 1,
-      "Justine": 1,
-      "Mont Blanc": 1,
-      "Victor": 1
     }
   },
   {
@@ -846,12 +773,12 @@
     "co_occurs_with": {
       "Geneva": 2,
       "Victor": 2,
-      "Beaufort": 1,
       "Italy": 1,
-      "Clerval": 1,
       "Cornelius Agrippa": 1,
-      "Henry": 1,
-      "Ingolstadt": 1
+      "Ingolstadt": 1,
+      "John Melbourne": 1,
+      "Justine Moritz": 1,
+      "Louis Manoir": 1
     }
   },
   {
@@ -870,7 +797,7 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 2,
+      "Clerval": 1,
       "Cornelius Agrippa": 1,
       "Geneva": 1,
       "Isaac Newton": 1,
@@ -892,14 +819,14 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 1,
       "Cornelius Agrippa": 1,
       "Elizabeth Lavenza": 1,
       "Geneva": 1,
-      "Henry": 1,
       "Ingolstadt": 1,
       "John Melbourne": 1,
-      "Justine Moritz": 1
+      "Justine Moritz": 1,
+      "Louis Manoir": 1,
+      "Louisa Biron": 1
     }
   },
   {
@@ -916,14 +843,14 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 1,
       "Cornelius Agrippa": 1,
       "Elizabeth Lavenza": 1,
       "Geneva": 1,
-      "Henry": 1,
       "Ingolstadt": 1,
       "John Melbourne": 1,
-      "Justine Moritz": 1
+      "Justine Moritz": 1,
+      "Louis Manoir": 1,
+      "Louisa Biron": 1
     }
   },
   {
@@ -940,14 +867,14 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 1,
       "Cornelius Agrippa": 1,
       "Elizabeth Lavenza": 1,
       "Geneva": 1,
-      "Henry": 1,
       "Ingolstadt": 1,
       "John Melbourne": 1,
-      "Justine Moritz": 1
+      "Justine Moritz": 1,
+      "Louis Manoir": 1,
+      "Louisa Biron": 1
     }
   },
   {
@@ -1004,8 +931,7 @@
     "co_occurs_with": {
       "Arve": 1,
       "Justine Moritz": 1,
-      "Mont Blanc": 1,
-      "Victor": 1
+      "Mont Blanc": 1
     }
   },
   {
@@ -1022,8 +948,7 @@
     "co_occurs_with": {
       "Chamounix": 1,
       "Justine Moritz": 1,
-      "Mont Blanc": 1,
-      "Victor": 1
+      "Mont Blanc": 1
     }
   },
   {
@@ -1040,7 +965,6 @@
     "co_occurs_with": {
       "Agatha": 1,
       "De Lacey": 1,
-      "Felix": 1,
       "Great God": 1,
       "Plutarch": 1,
       "Safie": 1,
@@ -1061,7 +985,6 @@
     "co_occurs_with": {
       "Agatha": 1,
       "De Lacey": 1,
-      "Felix": 1,
       "Great God": 1,
       "Paradise": 1,
       "Safie": 1,
@@ -1082,7 +1005,6 @@
     "co_occurs_with": {
       "Agatha": 1,
       "De Lacey": 1,
-      "Felix": 1,
       "Great God": 1,
       "Paradise": 1,
       "Plutarch": 1,
@@ -1101,7 +1023,6 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 1,
       "Cumberland": 1,
       "Edinburgh": 1,
       "Henry": 1,
@@ -1123,7 +1044,6 @@
       }
     },
     "co_occurs_with": {
-      "Clerval": 1,
       "Edinburgh": 1,
       "Henry": 1,
       "Matlock": 1,
@@ -1150,48 +1070,6 @@
       "Geneva": 1,
       "Henry": 1,
       "Mr. Kirwin": 1
-    }
-  },
-  {
-    "canonical_name": "Margaret",
-    "aliases": [],
-    "first_chapter": 24,
-    "total_mentions": 3,
-    "per_chapter": {
-      "24": {
-        "mentions": 3,
-        "snippet": "You have read this strange and terrific story, Margaret; and do you not"
-      }
-    },
-    "co_occurs_with": {
-      "Alas": 1,
-      "Black Sea": 1,
-      "Clerval": 1,
-      "Elizabeth": 1,
-      "Frankenstein": 1,
-      "Frozen Ocean": 1,
-      "Walton": 1
-    }
-  },
-  {
-    "canonical_name": "Alas",
-    "aliases": [],
-    "first_chapter": 24,
-    "total_mentions": 3,
-    "per_chapter": {
-      "24": {
-        "mentions": 3,
-        "snippet": "\u201cAlas!"
-      }
-    },
-    "co_occurs_with": {
-      "Black Sea": 1,
-      "Clerval": 1,
-      "Elizabeth": 1,
-      "Frankenstein": 1,
-      "Frozen Ocean": 1,
-      "Margaret": 1,
-      "Walton": 1
     }
   }
 ]

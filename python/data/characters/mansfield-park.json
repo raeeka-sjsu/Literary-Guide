@@ -183,7 +183,7 @@
       "Mrs. Norris": 34,
       "Fanny": 34,
       "Miss Crawford": 34,
-      "Edmund": 33,
+      "Edmund": 31,
       "Mr. Crawford": 31
     }
   },
@@ -359,10 +359,10 @@
       "Lady Bertram": 35,
       "Sir Thomas": 34,
       "Miss Crawford": 33,
-      "Edmund": 31,
       "Norris": 31,
       "Mr. Crawford": 30,
-      "Mrs. Norris": 30
+      "Mrs. Norris": 30,
+      "Edmund": 29
     }
   },
   {
@@ -557,9 +557,9 @@
       "Miss Crawford": 40,
       "Sir Thomas": 39,
       "Fanny": 38,
-      "Edmund": 36,
       "Mr. Crawford": 36,
       "Norris": 35,
+      "Edmund": 34,
       "Mrs. Norris": 34
     }
   },
@@ -734,9 +734,9 @@
       "Crawford": 40,
       "Lady Bertram": 35,
       "Sir Thomas": 34,
-      "Edmund": 33,
       "Fanny": 33,
       "Rushworth": 32,
+      "Edmund": 31,
       "Mr. Crawford": 31,
       "Norris": 31
     }
@@ -929,15 +929,15 @@
       "Mrs. Norris": 35,
       "Fanny": 35,
       "Miss Crawford": 35,
-      "Edmund": 34,
-      "Mr. Crawford": 33
+      "Mr. Crawford": 33,
+      "Edmund": 32
     }
   },
   {
     "canonical_name": "Edmund",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 337,
+    "total_mentions": 324,
     "per_chapter": {
       "2": {
         "mentions": 8,
@@ -995,10 +995,6 @@
         "mentions": 7,
         "snippet": "authoritative urgency that Tom and Maria were capable of, and Edmund"
       },
-      "17": {
-        "mentions": 8,
-        "snippet": "victory over Edmund\u2019s discretion had been beyond their hopes, and was"
-      },
       "18": {
         "mentions": 13,
         "snippet": "Edmund had many."
@@ -1026,10 +1022,6 @@
       "25": {
         "mentions": 14,
         "snippet": "\u201cIt sounds like it,\u201d said Edmund; \u201cbut which way did you turn after"
-      },
-      "26": {
-        "mentions": 5,
-        "snippet": "Edmund, William, and Fanny did, in their different ways, look and speak"
       },
       "27": {
         "mentions": 15,
@@ -1093,14 +1085,14 @@
       }
     },
     "co_occurs_with": {
-      "Crawford": 36,
-      "Lady Bertram": 34,
-      "Miss Crawford": 33,
-      "Sir Thomas": 33,
-      "Fanny": 31,
-      "Norris": 31,
-      "Mrs. Norris": 30,
-      "Mr. Crawford": 28
+      "Crawford": 34,
+      "Lady Bertram": 32,
+      "Miss Crawford": 31,
+      "Sir Thomas": 31,
+      "Fanny": 29,
+      "Norris": 29,
+      "Mrs. Norris": 28,
+      "Mr. Crawford": 27
     }
   },
   {
@@ -1251,9 +1243,9 @@
       "Miss Crawford": 32,
       "Lady Bertram": 30,
       "Sir Thomas": 29,
-      "Edmund": 28,
       "Fanny": 28,
       "Norris": 27,
+      "Edmund": 26,
       "Mrs. Norris": 26
     }
   },
@@ -1414,7 +1406,7 @@
       "Miss Crawford": 31,
       "Sir Thomas": 31,
       "Fanny": 30,
-      "Edmund": 28,
+      "Edmund": 27,
       "Mrs. Norris": 27,
       "Norris": 27
     }
@@ -1583,9 +1575,9 @@
       "Lady Bertram": 36,
       "Sir Thomas": 35,
       "Crawford": 35,
-      "Edmund": 31,
       "Fanny": 31,
       "Miss Crawford": 31,
+      "Edmund": 29,
       "Mr. Crawford": 27
     }
   },
@@ -1749,9 +1741,9 @@
       "Lady Bertram": 35,
       "Sir Thomas": 34,
       "Crawford": 34,
-      "Edmund": 30,
       "Fanny": 30,
       "Miss Crawford": 30,
+      "Edmund": 28,
       "Mr. Crawford": 27
     }
   },
@@ -1864,9 +1856,9 @@
       "Lady Bertram": 23,
       "Miss Crawford": 22,
       "Mrs. Grant": 22,
-      "Edmund": 21,
       "Norris": 21,
-      "Rushworth": 21
+      "Rushworth": 21,
+      "Mrs. Norris": 20
     }
   },
   {
@@ -2041,10 +2033,10 @@
       "Lady Bertram": 10,
       "Mrs. Norris": 10,
       "Norris": 10,
-      "Edmund": 9,
       "Fanny": 9,
       "Henry Crawford": 9,
-      "Mr. Crawford": 9
+      "Mr. Crawford": 9,
+      "Mr. Rushworth": 9
     }
   },
   {
@@ -2149,8 +2141,8 @@
       "Lady Bertram": 21,
       "Miss Crawford": 20,
       "Rushworth": 20,
-      "Edmund": 19,
-      "Norris": 19
+      "Norris": 19,
+      "Mrs. Norris": 18
     }
   },
   {
@@ -2279,7 +2271,7 @@
     "canonical_name": "Julia",
     "aliases": [],
     "first_chapter": 2,
-    "total_mentions": 86,
+    "total_mentions": 79,
     "per_chapter": {
       "2": {
         "mentions": 4,
@@ -2321,10 +2313,6 @@
         "mentions": 11,
         "snippet": "Julia was a sufferer too,"
       },
-      "21": {
-        "mentions": 3,
-        "snippet": "bridegroom and Julia from the church-door to Sotherton was the same"
-      },
       "23": {
         "mentions": 4,
         "snippet": "into her head, and you may be very certain that, if your cousin Julia"
@@ -2337,10 +2325,6 @@
         "mentions": 3,
         "snippet": "Rushworth could imagine any interfering obligations, Julia was"
       },
-      "46": {
-        "mentions": 4,
-        "snippet": "my life they are only gone to Mansfield Park, and Julia with them."
-      },
       "47": {
         "mentions": 5,
         "snippet": "any restraint, without even Julia; for Julia had removed from Wimpole"
@@ -2351,92 +2335,14 @@
       }
     },
     "co_occurs_with": {
-      "Crawford": 16,
-      "Lady Bertram": 16,
-      "Edmund": 15,
-      "Miss Crawford": 15,
-      "Rushworth": 15,
-      "Fanny": 14,
-      "Sir Thomas": 14,
-      "Mr. Crawford": 13
-    }
-  },
-  {
-    "canonical_name": "Maria",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 79,
-    "per_chapter": {
-      "1": {
-        "mentions": 1,
-        "snippet": "handsome as Miss Maria, did not scruple to predict their marrying with"
-      },
-      "2": {
-        "mentions": 4,
-        "snippet": "Bertram was only twelve, and Maria but a year older."
-      },
-      "8": {
-        "mentions": 5,
-        "snippet": "\u201cBesides,\u201d said Maria, \u201cI know that Mr."
-      },
-      "9": {
-        "mentions": 3,
-        "snippet": "Rushworth and Maria, standing side by side, exactly as"
-      },
-      "10": {
-        "mentions": 1,
-        "snippet": "\u201c_That_ is Miss Maria\u2019s concern."
-      },
-      "12": {
-        "mentions": 5,
-        "snippet": "Maria, with only Mr."
-      },
-      "13": {
-        "mentions": 6,
-        "snippet": "\u201cI believe we must be satisfied with _less_,\u201d said Maria."
-      },
-      "14": {
-        "mentions": 11,
-        "snippet": "Rushworth, who was always answered for by Maria as willing to do"
-      },
-      "15": {
-        "mentions": 14,
-        "snippet": "Maria had been half prepared for."
-      },
-      "18": {
-        "mentions": 5,
-        "snippet": "eye was her cousin Maria\u2019s avoidance of him, and so needlessly often"
-      },
-      "20": {
-        "mentions": 6,
-        "snippet": "Rushworth\u2019s admiration of Maria to any effect."
-      },
-      "21": {
-        "mentions": 6,
-        "snippet": "something that Rushworth and Maria had never met."
-      },
-      "32": {
-        "mentions": 4,
-        "snippet": "Maria and Julia, and especially Maria, were so"
-      },
-      "35": {
-        "mentions": 3,
-        "snippet": "how he exposed or hurt him, and paying attentions to my cousin Maria,"
-      },
-      "47": {
-        "mentions": 5,
-        "snippet": "Norris, however, as most attached to Maria, was"
-      }
-    },
-    "co_occurs_with": {
+      "Crawford": 14,
       "Lady Bertram": 14,
-      "Mrs. Norris": 14,
-      "Norris": 14,
-      "Crawford": 13,
+      "Edmund": 13,
       "Fanny": 13,
-      "Sir Thomas": 12,
+      "Miss Crawford": 13,
+      "Rushworth": 13,
       "Mr. Crawford": 12,
-      "Mr. Rushworth": 12
+      "Mrs. Norris": 12
     }
   },
   {
@@ -2524,56 +2430,6 @@
     }
   },
   {
-    "canonical_name": "William",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 75,
-    "per_chapter": {
-      "2": {
-        "mentions": 11,
-        "snippet": "It was William whom she talked of most, and"
-      },
-      "26": {
-        "mentions": 9,
-        "snippet": "William\u2019s desire of seeing Fanny dance made more than a momentary"
-      },
-      "27": {
-        "mentions": 13,
-        "snippet": "trifle\u2014a chain for William\u2019s cross."
-      },
-      "28": {
-        "mentions": 7,
-        "snippet": "summoned to it without looking at William, as he walked about at his"
-      },
-      "37": {
-        "mentions": 8,
-        "snippet": "William had"
-      },
-      "38": {
-        "mentions": 18,
-        "snippet": "The novelty of travelling, and the happiness of being with William,"
-      },
-      "39": {
-        "mentions": 6,
-        "snippet": "good night\u2019s rest, a pleasant morning, the hope of soon seeing William"
-      },
-      "41": {
-        "mentions": 3,
-        "snippet": "remembrance of the name, as that of \u201cWilliam\u2019s friend,\u201d though she"
-      }
-    },
-    "co_occurs_with": {
-      "Lady Bertram": 7,
-      "Mrs. Norris": 7,
-      "Norris": 7,
-      "Price": 7,
-      "Sir Thomas": 7,
-      "Crawford": 7,
-      "Mr. Crawford": 7,
-      "Edmund": 6
-    }
-  },
-  {
     "canonical_name": "Miss Bertram",
     "aliases": [],
     "first_chapter": 4,
@@ -2643,9 +2499,9 @@
     "co_occurs_with": {
       "Crawford": 15,
       "Lady Bertram": 15,
-      "Edmund": 14,
       "Fanny": 14,
       "Miss Crawford": 14,
+      "Edmund": 13,
       "Norris": 13,
       "Rushworth": 13,
       "Mr. Rushworth": 12
@@ -2721,7 +2577,7 @@
       "Sir Thomas": 13,
       "Miss Crawford": 11,
       "Mr. Crawford": 11,
-      "Edmund": 10,
+      "Edmund": 9,
       "Mrs. Norris": 9
     }
   },
@@ -2820,11 +2676,81 @@
       "Crawford": 21,
       "Miss Crawford": 21,
       "Rushworth": 21,
-      "Edmund": 20,
+      "Edmund": 19,
       "Lady Bertram": 18,
       "Norris": 17,
       "Sir Thomas": 17,
       "Mrs. Norris": 16
+    }
+  },
+  {
+    "canonical_name": "Maria",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 72,
+    "per_chapter": {
+      "1": {
+        "mentions": 1,
+        "snippet": "handsome as Miss Maria, did not scruple to predict their marrying with"
+      },
+      "2": {
+        "mentions": 4,
+        "snippet": "Bertram was only twelve, and Maria but a year older."
+      },
+      "8": {
+        "mentions": 5,
+        "snippet": "\u201cBesides,\u201d said Maria, \u201cI know that Mr."
+      },
+      "9": {
+        "mentions": 3,
+        "snippet": "Rushworth and Maria, standing side by side, exactly as"
+      },
+      "10": {
+        "mentions": 1,
+        "snippet": "\u201c_That_ is Miss Maria\u2019s concern."
+      },
+      "12": {
+        "mentions": 5,
+        "snippet": "Maria, with only Mr."
+      },
+      "13": {
+        "mentions": 6,
+        "snippet": "\u201cI believe we must be satisfied with _less_,\u201d said Maria."
+      },
+      "14": {
+        "mentions": 11,
+        "snippet": "Rushworth, who was always answered for by Maria as willing to do"
+      },
+      "15": {
+        "mentions": 14,
+        "snippet": "Maria had been half prepared for."
+      },
+      "18": {
+        "mentions": 5,
+        "snippet": "eye was her cousin Maria\u2019s avoidance of him, and so needlessly often"
+      },
+      "20": {
+        "mentions": 6,
+        "snippet": "Rushworth\u2019s admiration of Maria to any effect."
+      },
+      "21": {
+        "mentions": 6,
+        "snippet": "something that Rushworth and Maria had never met."
+      },
+      "47": {
+        "mentions": 5,
+        "snippet": "Norris, however, as most attached to Maria, was"
+      }
+    },
+    "co_occurs_with": {
+      "Lady Bertram": 13,
+      "Mrs. Norris": 13,
+      "Norris": 13,
+      "Crawford": 11,
+      "Fanny": 11,
+      "Sir Thomas": 10,
+      "Edmund": 10,
+      "Mr. Crawford": 10
     }
   },
   {
@@ -2910,45 +2836,45 @@
     }
   },
   {
-    "canonical_name": "Susan",
+    "canonical_name": "William",
     "aliases": [],
-    "first_chapter": 38,
-    "total_mentions": 65,
+    "first_chapter": 2,
+    "total_mentions": 58,
     "per_chapter": {
-      "38": {
-        "mentions": 19,
-        "snippet": "Susan, a well-grown fine girl of fourteen, and Betsey, the youngest of"
+      "2": {
+        "mentions": 11,
+        "snippet": "It was William whom she talked of most, and"
       },
-      "40": {
+      "27": {
+        "mentions": 13,
+        "snippet": "trifle\u2014a chain for William\u2019s cross."
+      },
+      "28": {
+        "mentions": 7,
+        "snippet": "summoned to it without looking at William, as he walked about at his"
+      },
+      "38": {
         "mentions": 18,
-        "snippet": "promise of durability, was in a better knowledge of Susan, and a hope"
+        "snippet": "The novelty of travelling, and the happiness of being with William,"
+      },
+      "39": {
+        "mentions": 6,
+        "snippet": "good night\u2019s rest, a pleasant morning, the hope of soon seeing William"
       },
       "41": {
-        "mentions": 6,
-        "snippet": "calculate every day, as she and Susan were preparing to remove, as"
-      },
-      "43": {
-        "mentions": 7,
-        "snippet": "readings and conversation with Susan were much suspended."
-      },
-      "46": {
-        "mentions": 12,
-        "snippet": "to invite Susan to go with you for a few months."
-      },
-      "47": {
         "mentions": 3,
-        "snippet": "Susan too was a grievance."
+        "snippet": "remembrance of the name, as that of \u201cWilliam\u2019s friend,\u201d though she"
       }
     },
     "co_occurs_with": {
-      "Crawford": 6,
-      "Miss Crawford": 6,
-      "Edmund": 5,
-      "Fanny": 5,
+      "Price": 6,
+      "Lady Bertram": 5,
+      "Mrs. Norris": 5,
+      "Norris": 5,
+      "Sir Thomas": 5,
+      "Crawford": 5,
       "Mr. Crawford": 5,
-      "Mrs. Rushworth": 4,
-      "Rushworth": 4,
-      "Mr. Price": 4
+      "Edmund": 4
     }
   },
   {
@@ -3046,64 +2972,6 @@
     }
   },
   {
-    "canonical_name": "Henry",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 49,
-    "per_chapter": {
-      "4": {
-        "mentions": 7,
-        "snippet": "anything like a permanence of abode, or limitation of society, Henry"
-      },
-      "13": {
-        "mentions": 3,
-        "snippet": "Sir Henry thought the duke not equal"
-      },
-      "26": {
-        "mentions": 3,
-        "snippet": "claimed a long visit from her in London, and of the kindness of Henry,"
-      },
-      "28": {
-        "mentions": 3,
-        "snippet": "Pray, what is Henry going for?"
-      },
-      "30": {
-        "mentions": 11,
-        "snippet": "Henry had said he should just"
-      },
-      "36": {
-        "mentions": 7,
-        "snippet": "power over Henry is thought of there!"
-      },
-      "40": {
-        "mentions": 3,
-        "snippet": "Henry is in Norfolk; business called him to Everingham ten days ago, or"
-      },
-      "43": {
-        "mentions": 5,
-        "snippet": "\u201cI have to inform you, my dearest Fanny, that Henry has been down to"
-      },
-      "45": {
-        "mentions": 3,
-        "snippet": "Henry is not at"
-      },
-      "47": {
-        "mentions": 4,
-        "snippet": "added, \u2018I do not mean to defend Henry at your sister\u2019s expense."
-      }
-    },
-    "co_occurs_with": {
-      "Crawford": 10,
-      "Edmund": 9,
-      "Miss Crawford": 9,
-      "Rushworth": 9,
-      "Lady Bertram": 8,
-      "Mrs. Rushworth": 8,
-      "Sir Thomas": 8,
-      "Fanny": 8
-    }
-  },
-  {
     "canonical_name": "Sotherton",
     "aliases": [],
     "first_chapter": 6,
@@ -3146,6 +3014,90 @@
     }
   },
   {
+    "canonical_name": "Susan",
+    "aliases": [],
+    "first_chapter": 38,
+    "total_mentions": 44,
+    "per_chapter": {
+      "38": {
+        "mentions": 19,
+        "snippet": "Susan, a well-grown fine girl of fourteen, and Betsey, the youngest of"
+      },
+      "41": {
+        "mentions": 6,
+        "snippet": "calculate every day, as she and Susan were preparing to remove, as"
+      },
+      "43": {
+        "mentions": 7,
+        "snippet": "readings and conversation with Susan were much suspended."
+      },
+      "46": {
+        "mentions": 12,
+        "snippet": "to invite Susan to go with you for a few months."
+      }
+    },
+    "co_occurs_with": {
+      "Crawford": 4,
+      "Miss Crawford": 4,
+      "Mr. Crawford": 4,
+      "Mr. Price": 4,
+      "Portsmouth": 4,
+      "Price": 4,
+      "Edmund": 3,
+      "Fanny": 3
+    }
+  },
+  {
+    "canonical_name": "Henry",
+    "aliases": [],
+    "first_chapter": 4,
+    "total_mentions": 43,
+    "per_chapter": {
+      "4": {
+        "mentions": 7,
+        "snippet": "anything like a permanence of abode, or limitation of society, Henry"
+      },
+      "13": {
+        "mentions": 3,
+        "snippet": "Sir Henry thought the duke not equal"
+      },
+      "26": {
+        "mentions": 3,
+        "snippet": "claimed a long visit from her in London, and of the kindness of Henry,"
+      },
+      "28": {
+        "mentions": 3,
+        "snippet": "Pray, what is Henry going for?"
+      },
+      "30": {
+        "mentions": 11,
+        "snippet": "Henry had said he should just"
+      },
+      "36": {
+        "mentions": 7,
+        "snippet": "power over Henry is thought of there!"
+      },
+      "43": {
+        "mentions": 5,
+        "snippet": "\u201cI have to inform you, my dearest Fanny, that Henry has been down to"
+      },
+      "47": {
+        "mentions": 4,
+        "snippet": "added, \u2018I do not mean to defend Henry at your sister\u2019s expense."
+      }
+    },
+    "co_occurs_with": {
+      "Crawford": 8,
+      "Lady Bertram": 7,
+      "Miss Crawford": 7,
+      "Rushworth": 7,
+      "Sir Thomas": 7,
+      "Edmund": 6,
+      "Mrs. Norris": 6,
+      "Mrs. Rushworth": 6
+    }
+  },
+  {
     "canonical_name": "Mary",
     "aliases": [],
     "first_chapter": 4,
@@ -3184,10 +3136,10 @@
       "Crawford": 7,
       "Miss Crawford": 7,
       "Sir Thomas": 7,
-      "Edmund": 6,
       "Lady Bertram": 6,
       "Rushworth": 6,
       "Fanny": 6,
+      "Edmund": 5,
       "Grant": 5
     }
   },
@@ -3474,52 +3426,6 @@
     }
   },
   {
-    "canonical_name": "Tom",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 30,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "But Tom\u2019s extravagance had, previous to"
-      },
-      "16": {
-        "mentions": 6,
-        "snippet": "attack from her cousin Tom, so public and so persevered in, and her"
-      },
-      "20": {
-        "mentions": 4,
-        "snippet": "friend had been out with their guns the chief of the morning, and Tom"
-      },
-      "38": {
-        "mentions": 5,
-        "snippet": "out of harbour; Tom and Charles."
-      },
-      "39": {
-        "mentions": 4,
-        "snippet": "again, and the comparatively quiet state of the house, from Tom and"
-      },
-      "45": {
-        "mentions": 5,
-        "snippet": "At about the week\u2019s end from his return to Mansfield, Tom\u2019s immediate"
-      },
-      "47": {
-        "mentions": 3,
-        "snippet": "all benumbed; and neither Lady Bertram nor Tom had received from her"
-      }
-    },
-    "co_occurs_with": {
-      "Fanny": 7,
-      "Sir Thomas": 7,
-      "Crawford": 6,
-      "Edmund": 6,
-      "Mrs. Norris": 6,
-      "Norris": 6,
-      "Lady Bertram": 5,
-      "Mr. Crawford": 5
-    }
-  },
-  {
     "canonical_name": "Betsey",
     "aliases": [],
     "first_chapter": 38,
@@ -3541,12 +3447,12 @@
     "co_occurs_with": {
       "Crawford": 3,
       "Fanny": 3,
-      "Charles": 2,
       "Edmund": 2,
       "Miss Crawford": 2,
       "Mr. Crawford": 2,
       "Mrs. Norris": 2,
-      "Mrs. Price": 2
+      "Mrs. Price": 2,
+      "Norris": 2
     }
   },
   {
@@ -3628,7 +3534,49 @@
       "Miss Crawford": 14,
       "Norris": 14,
       "Rushworth": 14,
-      "Edmund": 13
+      "Mr. Rushworth": 13
+    }
+  },
+  {
+    "canonical_name": "Tom",
+    "aliases": [],
+    "first_chapter": 3,
+    "total_mentions": 27,
+    "per_chapter": {
+      "3": {
+        "mentions": 3,
+        "snippet": "But Tom\u2019s extravagance had, previous to"
+      },
+      "16": {
+        "mentions": 6,
+        "snippet": "attack from her cousin Tom, so public and so persevered in, and her"
+      },
+      "20": {
+        "mentions": 4,
+        "snippet": "friend had been out with their guns the chief of the morning, and Tom"
+      },
+      "38": {
+        "mentions": 5,
+        "snippet": "out of harbour; Tom and Charles."
+      },
+      "39": {
+        "mentions": 4,
+        "snippet": "again, and the comparatively quiet state of the house, from Tom and"
+      },
+      "45": {
+        "mentions": 5,
+        "snippet": "At about the week\u2019s end from his return to Mansfield, Tom\u2019s immediate"
+      }
+    },
+    "co_occurs_with": {
+      "Fanny": 6,
+      "Sir Thomas": 6,
+      "Crawford": 5,
+      "Edmund": 5,
+      "Mrs. Norris": 5,
+      "Norris": 5,
+      "Lady Bertram": 4,
+      "Mr. Crawford": 4
     }
   },
   {
@@ -3672,40 +3620,6 @@
     }
   },
   {
-    "canonical_name": "Rebecca",
-    "aliases": [],
-    "first_chapter": 38,
-    "total_mentions": 22,
-    "per_chapter": {
-      "38": {
-        "mentions": 11,
-        "snippet": "dear, run into the kitchen and see if Rebecca has put the water on; and"
-      },
-      "41": {
-        "mentions": 3,
-        "snippet": "felt they could not avoid, from Rebecca\u2019s alertness in going to the"
-      },
-      "42": {
-        "mentions": 3,
-        "snippet": "discomposed if she saw her boys run into danger, or Rebecca pass by"
-      },
-      "46": {
-        "mentions": 5,
-        "snippet": "even Rebecca\u2019s hands had first produced it."
-      }
-    },
-    "co_occurs_with": {
-      "Crawford": 4,
-      "Mr. Crawford": 4,
-      "Mrs. Price": 4,
-      "Portsmouth": 4,
-      "Price": 4,
-      "Edmund": 3,
-      "Fanny": 3,
-      "Miss Crawford": 3
-    }
-  },
-  {
     "canonical_name": "Parsonage",
     "aliases": [],
     "first_chapter": 3,
@@ -3744,63 +3658,33 @@
     }
   },
   {
-    "canonical_name": "There",
+    "canonical_name": "Rebecca",
     "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 18,
+    "first_chapter": 38,
+    "total_mentions": 19,
     "per_chapter": {
-      "8": {
+      "38": {
+        "mentions": 11,
+        "snippet": "dear, run into the kitchen and see if Rebecca has put the water on; and"
+      },
+      "42": {
+        "mentions": 3,
+        "snippet": "discomposed if she saw her boys run into danger, or Rebecca pass by"
+      },
+      "46": {
         "mentions": 5,
-        "snippet": "\u201cThere is no hardship, I suppose, nothing unpleasant,\u201d said Edmund, \u201cin"
-      },
-      "11": {
-        "mentions": 7,
-        "snippet": "\u201cThere is no sacrifice in the case,\u201d replied Edmund, with a serious"
-      },
-      "32": {
-        "mentions": 6,
-        "snippet": "There was snow on the ground, and she was sitting in a shawl."
-      }
-    },
-    "co_occurs_with": {
-      "Crawford": 3,
-      "Lady Bertram": 3,
-      "Miss Crawford": 3,
-      "Miss Price": 3,
-      "Mr. Rushworth": 3,
-      "Mrs. Norris": 3,
-      "Norris": 3,
-      "Price": 3
-    }
-  },
-  {
-    "canonical_name": "Admiral",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 16,
-    "per_chapter": {
-      "4": {
-        "mentions": 4,
-        "snippet": "Admiral and Mrs."
-      },
-      "7": {
-        "mentions": 4,
-        "snippet": "without throwing a shade on the Admiral."
-      },
-      "30": {
-        "mentions": 8,
-        "snippet": "chose to consult the Admiral before you made up your mind."
+        "snippet": "even Rebecca\u2019s hands had first produced it."
       }
     },
     "co_occurs_with": {
       "Crawford": 3,
       "Edmund": 3,
-      "Grant": 3,
-      "Lady Bertram": 3,
-      "Miss Crawford": 3,
-      "Mrs. Crawford": 3,
-      "Mrs. Grant": 3,
-      "Mrs. Norris": 3
+      "Mr. Crawford": 3,
+      "Mrs. Price": 3,
+      "Portsmouth": 3,
+      "Price": 3,
+      "Sir Thomas": 3,
+      "Fanny": 2
     }
   },
   {
@@ -3886,32 +3770,6 @@
     }
   },
   {
-    "canonical_name": "Amelia",
-    "aliases": [],
-    "first_chapter": 14,
-    "total_mentions": 15,
-    "per_chapter": {
-      "14": {
-        "mentions": 12,
-        "snippet": "Amelia and Agatha may do for Maria and me, but here is"
-      },
-      "15": {
-        "mentions": 3,
-        "snippet": "Crawford is to be Amelia."
-      }
-    },
-    "co_occurs_with": {
-      "Count Cassel": 2,
-      "Crawford": 2,
-      "Fanny": 2,
-      "Henry Crawford": 2,
-      "Lady Bertram": 2,
-      "Lord Ravenshaw": 2,
-      "Lovers": 2,
-      "Maria": 2
-    }
-  },
-  {
     "canonical_name": "Mr. Price",
     "aliases": [],
     "first_chapter": 25,
@@ -3978,6 +3836,32 @@
     }
   },
   {
+    "canonical_name": "Admiral",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 12,
+    "per_chapter": {
+      "7": {
+        "mentions": 4,
+        "snippet": "without throwing a shade on the Admiral."
+      },
+      "30": {
+        "mentions": 8,
+        "snippet": "chose to consult the Admiral before you made up your mind."
+      }
+    },
+    "co_occurs_with": {
+      "Crawford": 2,
+      "Edmund": 2,
+      "Grant": 2,
+      "Lady Bertram": 2,
+      "Miss Crawford": 2,
+      "Mrs. Crawford": 2,
+      "Mrs. Grant": 2,
+      "Mrs. Norris": 2
+    }
+  },
+  {
     "canonical_name": "Fanny Price",
     "aliases": [],
     "first_chapter": 8,
@@ -4038,6 +3922,28 @@
     }
   },
   {
+    "canonical_name": "Amelia",
+    "aliases": [],
+    "first_chapter": 14,
+    "total_mentions": 12,
+    "per_chapter": {
+      "14": {
+        "mentions": 12,
+        "snippet": "Amelia and Agatha may do for Maria and me, but here is"
+      }
+    },
+    "co_occurs_with": {
+      "Agatha": 1,
+      "Baron": 1,
+      "Cottager": 1,
+      "Count Cassel": 1,
+      "Crawford": 1,
+      "Dr. Pangloss": 1,
+      "Edmund": 1,
+      "Fanny": 1
+    }
+  },
+  {
     "canonical_name": "Anhalt",
     "aliases": [],
     "first_chapter": 15,
@@ -4049,14 +3955,14 @@
       }
     },
     "co_occurs_with": {
-      "Amelia": 1,
       "Charles Maddox": 1,
       "Count Cassel": 1,
       "Crawford": 1,
       "Dick Jackson": 1,
       "Edmund Bertram": 1,
       "Fanny": 1,
-      "Henry Crawford": 1
+      "Henry Crawford": 1,
+      "Julia": 1
     }
   },
   {
@@ -4314,13 +4220,13 @@
     },
     "co_occurs_with": {
       "Betsey": 2,
-      "Charles": 2,
       "Crawford": 2,
       "Fanny": 2,
       "Mr. Crawford": 2,
       "Mrs. Norris": 2,
       "Mrs. Price": 2,
-      "Norris": 2
+      "Norris": 2,
+      "Price": 2
     }
   },
   {
@@ -4346,36 +4252,6 @@
     }
   },
   {
-    "canonical_name": "Charles",
-    "aliases": [],
-    "first_chapter": 31,
-    "total_mentions": 9,
-    "per_chapter": {
-      "31": {
-        "mentions": 2,
-        "snippet": "happiness of attending to the recommendation of Sir Charles; that Sir"
-      },
-      "38": {
-        "mentions": 3,
-        "snippet": "out of harbour; Tom and Charles."
-      },
-      "39": {
-        "mentions": 4,
-        "snippet": "Charles being gone to school, Sam on some project of his own, and her"
-      }
-    },
-    "co_occurs_with": {
-      "Crawford": 3,
-      "Fanny": 3,
-      "Mr. Crawford": 3,
-      "Mrs. Norris": 3,
-      "Norris": 3,
-      "Sir Thomas": 3,
-      "Lady Bertram": 2,
-      "Mansfield Park": 2
-    }
-  },
-  {
     "canonical_name": "Miss Frances",
     "aliases": [
       "Frances"
@@ -4397,28 +4273,6 @@
       "Miss Maria": 1,
       "Miss Maria Ward": 1,
       "Miss Ward": 1
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 23,
-    "total_mentions": 8,
-    "per_chapter": {
-      "23": {
-        "mentions": 8,
-        "snippet": "The only"
-      }
-    },
-    "co_occurs_with": {
-      "Crawford": 1,
-      "Dr. Grant": 1,
-      "Edmund": 1,
-      "Fanny": 1,
-      "Grant": 1,
-      "Henry Crawford": 1,
-      "Julia": 1,
-      "Lady Bertram": 1
     }
   },
   {
@@ -4454,9 +4308,9 @@
       "Miss Crawford": 5,
       "Mrs. Rushworth": 5,
       "Rushworth": 5,
-      "Julia": 4,
       "Lady Bertram": 4,
-      "Sir Thomas": 4
+      "Sir Thomas": 4,
+      "Thornton Lacey": 4
     }
   },
   {
@@ -4674,32 +4528,6 @@
     }
   },
   {
-    "canonical_name": "Everingham",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 6,
-    "per_chapter": {
-      "6": {
-        "mentions": 3,
-        "snippet": "yourself, and from what I hear of Everingham, it may vie with any place"
-      },
-      "41": {
-        "mentions": 3,
-        "snippet": "or charity for Everingham: a somebody that would make Everingham and"
-      }
-    },
-    "co_occurs_with": {
-      "Crawford": 2,
-      "Fanny": 2,
-      "Lady Bertram": 2,
-      "Miss Crawford": 2,
-      "Mr. Crawford": 2,
-      "Price": 2,
-      "Captain Marshall": 1,
-      "Court": 1
-    }
-  },
-  {
     "canonical_name": "Mrs. Whitaker",
     "aliases": [
       "Whitaker"
@@ -4739,14 +4567,14 @@
       }
     },
     "co_occurs_with": {
-      "Amelia": 2,
       "Count Cassel": 2,
       "Crawford": 2,
       "Fanny": 2,
       "Henry Crawford": 2,
       "Lady Bertram": 2,
       "Lord Ravenshaw": 2,
-      "Maria": 2
+      "Maria": 2,
+      "Miss Bertram": 2
     }
   },
   {
@@ -4765,14 +4593,14 @@
       }
     },
     "co_occurs_with": {
-      "Amelia": 2,
       "Count Cassel": 2,
       "Crawford": 2,
       "Fanny": 2,
       "Henry Crawford": 2,
       "Lady Bertram": 2,
       "Lord Ravenshaw": 2,
-      "Lovers": 2
+      "Lovers": 2,
+      "Maria": 2
     }
   },
   {
@@ -4828,6 +4656,32 @@
     }
   },
   {
+    "canonical_name": "Charles",
+    "aliases": [],
+    "first_chapter": 31,
+    "total_mentions": 6,
+    "per_chapter": {
+      "31": {
+        "mentions": 2,
+        "snippet": "happiness of attending to the recommendation of Sir Charles; that Sir"
+      },
+      "39": {
+        "mentions": 4,
+        "snippet": "Charles being gone to school, Sam on some project of his own, and her"
+      }
+    },
+    "co_occurs_with": {
+      "Crawford": 2,
+      "Fanny": 2,
+      "Lady Bertram": 2,
+      "Mr. Crawford": 2,
+      "Mrs. Norris": 2,
+      "Norris": 2,
+      "Sir Thomas": 2,
+      "Admiral Crawford": 1
+    }
+  },
+  {
     "canonical_name": "Mr. Campbell",
     "aliases": [
       "Campbell"
@@ -4845,10 +4699,10 @@
       "Aunt Norris": 1,
       "Betsey": 1,
       "Captain Walsh": 1,
-      "Charles": 1,
       "Crawford": 1,
       "Edmund": 1,
-      "Fanny": 1
+      "Fanny": 1,
+      "High Street": 1
     }
   },
   {
@@ -4867,10 +4721,10 @@
       "Aunt Norris": 1,
       "Betsey": 1,
       "Captain Walsh": 1,
-      "Charles": 1,
       "Crawford": 1,
       "Edmund": 1,
-      "Fanny": 1
+      "Fanny": 1,
+      "High Street": 1
     }
   },
   {
@@ -4893,14 +4747,14 @@
       }
     },
     "co_occurs_with": {
-      "Admiral": 3,
       "Crawford": 3,
       "Edmund": 3,
       "Grant": 3,
       "Lady Bertram": 3,
       "Miss Crawford": 3,
       "Mrs. Grant": 3,
-      "Mrs. Norris": 3
+      "Mrs. Norris": 3,
+      "Norris": 3
     }
   },
   {
@@ -5002,7 +4856,7 @@
       "Norris": 2,
       "Rushworth": 2,
       "Sir Thomas": 2,
-      "Amelia": 1
+      "Anhalt": 1
     }
   },
   {
@@ -5098,9 +4952,9 @@
       "Edmund": 1,
       "Fanny": 1,
       "Grant": 1,
-      "Indeed": 1,
       "Lady Bertram": 1,
-      "Mansfield Park": 1
+      "Mansfield Park": 1,
+      "Miss Bertrams": 1
     }
   },
   {
@@ -5133,8 +4987,8 @@
       "Norris": 4,
       "Rushworth": 4,
       "Sir Thomas": 4,
-      "Edmund": 3,
-      "Lady Bertram": 3
+      "Lady Bertram": 3,
+      "Miss Crawford": 3
     }
   },
   {
@@ -5181,8 +5035,8 @@
       "Dear Mary": 1,
       "Dr. Grant": 1,
       "Edmund": 1,
-      "Everingham": 1,
-      "Fanny": 1
+      "Fanny": 1,
+      "Grant": 1
     }
   },
   {
@@ -5233,8 +5087,8 @@
       "Dear Mary": 1,
       "Dr. Grant": 1,
       "Edmund": 1,
-      "Everingham": 1,
-      "Fanny": 1
+      "Fanny": 1,
+      "Grant": 1
     }
   },
   {
@@ -5255,30 +5109,8 @@
       "Dear Mary": 1,
       "Dr. Grant": 1,
       "Edmund": 1,
-      "Everingham": 1,
-      "Fanny": 1
-    }
-  },
-  {
-    "canonical_name": "Nothing",
-    "aliases": [],
-    "first_chapter": 10,
-    "total_mentions": 4,
-    "per_chapter": {
-      "10": {
-        "mentions": 4,
-        "snippet": "Nothing was fixed on;"
-      }
-    },
-    "co_occurs_with": {
-      "Crawford": 1,
-      "Edmund": 1,
       "Fanny": 1,
-      "Henry Crawford": 1,
-      "Julia": 1,
-      "Lady Bertram": 1,
-      "Maria": 1,
-      "Miss Bertram": 1
+      "Grant": 1
     }
   },
   {
@@ -5345,14 +5177,14 @@
       }
     },
     "co_occurs_with": {
-      "After": 1,
       "Crawford": 1,
       "Edmund": 1,
       "Fanny": 1,
       "Henry": 1,
       "Julia": 1,
       "Lady Bertram": 1,
-      "Lady Stornaway": 1
+      "Lady Stornaway": 1,
+      "Mansfield": 1
     }
   },
   {
@@ -5375,28 +5207,6 @@
       "Miss Lee": 1,
       "Miss Maria": 1,
       "Miss Maria Ward": 1
-    }
-  },
-  {
-    "canonical_name": "Indeed",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 3,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "\u201cIndeed!"
-      }
-    },
-    "co_occurs_with": {
-      "Dear Lady Bertram": 1,
-      "Dr. Grant": 1,
-      "Edmund": 1,
-      "Fanny": 1,
-      "Grant": 1,
-      "Lady Bertram": 1,
-      "Mansfield Park": 1,
-      "Miss Bertrams": 1
     }
   },
   {
@@ -5470,9 +5280,9 @@
       "Dear Mary": 1,
       "Dr. Grant": 1,
       "Edmund": 1,
-      "Everingham": 1,
       "Fanny": 1,
-      "Grant": 1
+      "Grant": 1,
+      "Julia Bertram": 1
     }
   },
   {
@@ -5680,13 +5490,13 @@
     },
     "co_occurs_with": {
       "Crawford": 1,
-      "Edmund": 1,
       "Fanny": 1,
       "Grant": 1,
       "Henry": 1,
       "Lady Bertram": 1,
       "Mansfield": 1,
-      "Miss Crawford": 1
+      "Miss Crawford": 1,
+      "Mr. Crawford": 1
     }
   },
   {
@@ -5846,33 +5656,11 @@
       "Crawford": 1,
       "Fanny": 1,
       "Lady Bertram": 1,
-      "Maria": 1,
       "Miss Crawford": 1,
       "Miss Price": 1,
       "Mr. Bertram": 1,
-      "Mr. Crawford": 1
-    }
-  },
-  {
-    "canonical_name": "Thrush",
-    "aliases": [],
-    "first_chapter": 37,
-    "total_mentions": 3,
-    "per_chapter": {
-      "37": {
-        "mentions": 3,
-        "snippet": "Thrush in all"
-      }
-    },
-    "co_occurs_with": {
-      "Crawford": 1,
-      "Edmund": 1,
-      "Fanny": 1,
-      "Lady Bertram": 1,
-      "Mansfield Park": 1,
-      "Miss Crawford": 1,
       "Mr. Crawford": 1,
-      "Mrs. Norris": 1
+      "Mr. Rushworth": 1
     }
   },
   {
@@ -5892,11 +5680,11 @@
       "Admiral Maxwell": 1,
       "Aunt Norris": 1,
       "Betsey": 1,
-      "Charles": 1,
       "Crawford": 1,
       "Edmund": 1,
       "Fanny": 1,
-      "High Street": 1
+      "High Street": 1,
+      "Mansfield Park": 1
     }
   },
   {
@@ -5926,25 +5714,25 @@
     }
   },
   {
-    "canonical_name": "Norfolk",
+    "canonical_name": "Everingham",
     "aliases": [],
     "first_chapter": 41,
     "total_mentions": 3,
     "per_chapter": {
       "41": {
         "mentions": 3,
-        "snippet": "Norfolk, before he set off again; that her cousin Edmund was in town,"
+        "snippet": "or charity for Everingham: a somebody that would make Everingham and"
       }
     },
     "co_occurs_with": {
       "Crawford": 1,
       "Edmund Bertram": 1,
-      "Everingham": 1,
       "Fanny": 1,
       "High Street": 1,
       "Lady Bertram": 1,
       "Mansfield": 1,
-      "Miss Crawford": 1
+      "Miss Crawford": 1,
+      "Miss Prices": 1
     }
   },
   {
@@ -5967,28 +5755,6 @@
       "Grant": 1,
       "Lady Bertram": 1,
       "Lady Stornaway": 1
-    }
-  },
-  {
-    "canonical_name": "After",
-    "aliases": [],
-    "first_chapter": 47,
-    "total_mentions": 3,
-    "per_chapter": {
-      "47": {
-        "mentions": 3,
-        "snippet": "After a"
-      }
-    },
-    "co_occurs_with": {
-      "Crawford": 1,
-      "Edmund": 1,
-      "Fanny": 1,
-      "Henry": 1,
-      "Julia": 1,
-      "Lady Bertram": 1,
-      "Lady Stornaway": 1,
-      "Mansfield": 1
     }
   }
 ]

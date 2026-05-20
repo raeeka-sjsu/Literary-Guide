@@ -56,13 +56,13 @@
     },
     "co_occurs_with": {
       "White Rabbit": 6,
-      "There": 4,
       "March Hare": 4,
       "Dinah": 3,
       "King": 3,
-      "Come": 3,
-      "The": 3,
-      "Cheshire Cat": 2
+      "Cheshire Cat": 2,
+      "Duchess": 2,
+      "Knave": 2,
+      "Majesty": 2
     }
   },
   {
@@ -112,9 +112,9 @@
     },
     "co_occurs_with": {
       "Alice": 2,
-      "Come": 2,
       "Mock Turtle": 2,
       "Beautiful Soup": 1,
+      "Come": 1,
       "Lobster Quadrille": 1,
       "Owl": 1,
       "Soo": 1,
@@ -138,9 +138,9 @@
     },
     "co_occurs_with": {
       "Alice": 2,
-      "Come": 2,
       "Gryphon": 2,
       "Beautiful Soup": 1,
+      "Come": 1,
       "Lobster Quadrille": 1,
       "Owl": 1,
       "Soo": 1,
@@ -172,13 +172,13 @@
     },
     "co_occurs_with": {
       "Alice": 4,
-      "There": 3,
       "King": 2,
       "White Rabbit": 2,
       "Call": 1,
       "Dormouse": 1,
       "Give": 1,
-      "Hatter": 1
+      "Hatter": 1,
+      "Hearts": 1
     }
   },
   {
@@ -197,38 +197,7 @@
       "Come": 1,
       "Father William": 1,
       "Pigeon": 1,
-      "Serpent": 1,
-      "William": 1
-    }
-  },
-  {
-    "canonical_name": "The",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 24,
-    "per_chapter": {
-      "3": {
-        "mentions": 6,
-        "snippet": "The first question of course was, how to get dry again: they had a"
-      },
-      "9": {
-        "mentions": 8,
-        "snippet": "\u201cThe game\u2019s going on rather better now,\u201d she said, by way of keeping up"
-      },
-      "12": {
-        "mentions": 10,
-        "snippet": "\u201cThe trial cannot proceed,\u201d said the King in a very grave voice, \u201cuntil"
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 3,
-      "Queen": 2,
-      "King": 1,
-      "Knave": 1,
-      "Lizard": 1,
-      "Majesty": 1,
-      "March Hare": 1,
-      "Nothing": 1
+      "Serpent": 1
     }
   },
   {
@@ -248,13 +217,13 @@
     },
     "co_occurs_with": {
       "Alice": 2,
-      "The": 2,
       "King": 1,
       "Knave": 1,
       "Lizard": 1,
       "Majesty": 1,
       "March Hare": 1,
-      "Nothing": 1
+      "Nothing": 1,
+      "Number One": 1
     }
   },
   {
@@ -318,11 +287,11 @@
       "Alice": 6,
       "King": 3,
       "Dinah": 2,
-      "There": 2,
       "Knave": 2,
       "Majesty": 2,
       "The Queen": 2,
-      "March Hare": 2
+      "March Hare": 2,
+      "New Zealand": 1
     }
   },
   {
@@ -364,43 +333,7 @@
       "Dodo": 1,
       "Edgar Atheling": 1,
       "Lory": 1,
-      "Speak English": 1,
-      "The": 1,
-      "William": 1
-    }
-  },
-  {
-    "canonical_name": "There",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 18,
-    "per_chapter": {
-      "4": {
-        "mentions": 6,
-        "snippet": "There was no label"
-      },
-      "6": {
-        "mentions": 5,
-        "snippet": "\u201cThere\u2019s no sort of use in knocking,\u201d said the Footman, \u201cand that for"
-      },
-      "7": {
-        "mentions": 4,
-        "snippet": "There was a table set out under a tree in front of the house, and the"
-      },
-      "12": {
-        "mentions": 3,
-        "snippet": "\u201cThere\u2019s more evidence to come yet, please your Majesty,\u201d said the"
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 4,
-      "March Hare": 3,
-      "White Rabbit": 2,
-      "Bill": 1,
-      "Dinah": 1,
-      "Here": 1,
-      "Mary Ann": 1,
-      "Miss Alice": 1
+      "Speak English": 1
     }
   },
   {
@@ -426,11 +359,11 @@
       "Alice": 3,
       "White Rabbit": 2,
       "New Zealand": 1,
-      "Which": 1,
       "Bill": 1,
-      "Here": 1,
       "Mary Ann": 1,
-      "Miss Alice": 1
+      "Miss Alice": 1,
+      "The Duchess": 1,
+      "Dodo": 1
     }
   },
   {
@@ -447,12 +380,10 @@
     "co_occurs_with": {
       "Alice": 1,
       "Dinah": 1,
-      "Here": 1,
       "Mary Ann": 1,
       "Miss Alice": 1,
-      "Pat": 1,
       "The Duchess": 1,
-      "There": 1
+      "White Rabbit": 1
     }
   },
   {
@@ -494,39 +425,7 @@
       "Edgar Atheling": 1,
       "Lory": 1,
       "Mouse": 1,
-      "Speak English": 1,
-      "The": 1,
-      "William": 1
-    }
-  },
-  {
-    "canonical_name": "Come",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 11,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cCome back!"
-      },
-      "9": {
-        "mentions": 4,
-        "snippet": "\u201cCome on, then,\u201d said the Queen, \u201cand he shall tell you his history."
-      },
-      "10": {
-        "mentions": 4,
-        "snippet": "\u201cCome, let\u2019s try the first figure!"
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 3,
-      "Gryphon": 2,
-      "Mock Turtle": 2,
-      "Beautiful Soup": 1,
-      "Lobster Quadrille": 1,
-      "Owl": 1,
-      "Soo": 1,
-      "The Panther": 1
+      "Speak English": 1
     }
   },
   {
@@ -545,8 +444,7 @@
       "Caterpillar": 1,
       "Come": 1,
       "Father William": 1,
-      "Serpent": 1,
-      "William": 1
+      "Serpent": 1
     }
   },
   {
@@ -567,8 +465,33 @@
       "For the Duchess": 1,
       "From the Queen": 1,
       "March Hare": 1,
-      "The Frog": 1,
-      "There": 1
+      "The Frog": 1
+    }
+  },
+  {
+    "canonical_name": "Come",
+    "aliases": [],
+    "first_chapter": 5,
+    "total_mentions": 7,
+    "per_chapter": {
+      "5": {
+        "mentions": 3,
+        "snippet": "\u201cCome back!"
+      },
+      "10": {
+        "mentions": 4,
+        "snippet": "\u201cCome, let\u2019s try the first figure!"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 2,
+      "Beautiful Soup": 1,
+      "Gryphon": 1,
+      "Lobster Quadrille": 1,
+      "Mock Turtle": 1,
+      "Owl": 1,
+      "Soo": 1,
+      "The Panther": 1
     }
   },
   {
@@ -684,9 +607,28 @@
       "Dodo": 1,
       "Edgar Atheling": 1,
       "Mouse": 1,
-      "Speak English": 1,
-      "The": 1,
-      "William": 1
+      "Speak English": 1
+    }
+  },
+  {
+    "canonical_name": "Father William",
+    "aliases": [
+      "William"
+    ],
+    "first_chapter": 5,
+    "total_mentions": 6,
+    "per_chapter": {
+      "5": {
+        "mentions": 6,
+        "snippet": "\u201cYou are old, Father William,\u201d the young man said,"
+      }
+    },
+    "co_occurs_with": {
+      "Alice": 1,
+      "Caterpillar": 1,
+      "Come": 1,
+      "Pigeon": 1,
+      "Serpent": 1
     }
   },
   {
@@ -709,32 +651,6 @@
       "Knave": 1,
       "Majesty": 1,
       "Seven": 1
-    }
-  },
-  {
-    "canonical_name": "William",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 5,
-    "per_chapter": {
-      "3": {
-        "mentions": 3,
-        "snippet": "\u2018William"
-      },
-      "5": {
-        "mentions": 2,
-        "snippet": "\u201cYou are old, Father William,\u201d the young man said,"
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 2,
-      "Dinah": 1,
-      "Dodo": 1,
-      "Edgar Atheling": 1,
-      "Lory": 1,
-      "Mouse": 1,
-      "Speak English": 1,
-      "The": 1
     }
   },
   {
@@ -779,48 +695,6 @@
       "The Mouse": 1,
       "The Rabbit": 1,
       "William the Conqueror": 1
-    }
-  },
-  {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 4,
-    "per_chapter": {
-      "4": {
-        "mentions": 4,
-        "snippet": "\u201cHere!"
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 1,
-      "Bill": 1,
-      "Dinah": 1,
-      "Mary Ann": 1,
-      "Miss Alice": 1,
-      "Pat": 1,
-      "The Duchess": 1,
-      "There": 1
-    }
-  },
-  {
-    "canonical_name": "Father William",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 4,
-    "per_chapter": {
-      "5": {
-        "mentions": 4,
-        "snippet": "\u201cYou are old, Father William,\u201d the young man said,"
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 1,
-      "Caterpillar": 1,
-      "Come": 1,
-      "Pigeon": 1,
-      "Serpent": 1,
-      "William": 1
     }
   },
   {
@@ -916,24 +790,6 @@
     }
   },
   {
-    "canonical_name": "Which",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "\u201d (Which was very likely true."
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 1,
-      "Dinah": 1,
-      "New Zealand": 1,
-      "White Rabbit": 1
-    }
-  },
-  {
     "canonical_name": "Mary Ann",
     "aliases": [],
     "first_chapter": 4,
@@ -948,33 +804,9 @@
       "Alice": 1,
       "Bill": 1,
       "Dinah": 1,
-      "Here": 1,
-      "Miss Alice": 1,
-      "Pat": 1,
-      "The Duchess": 1,
-      "There": 1
-    }
-  },
-  {
-    "canonical_name": "Pat",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "Next came an angry voice\u2014the Rabbit\u2019s\u2014\u201cPat!"
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 1,
-      "Bill": 1,
-      "Dinah": 1,
-      "Here": 1,
-      "Mary Ann": 1,
       "Miss Alice": 1,
       "The Duchess": 1,
-      "There": 1
+      "White Rabbit": 1
     }
   },
   {
@@ -993,8 +825,7 @@
       "Caterpillar": 1,
       "Come": 1,
       "Father William": 1,
-      "Pigeon": 1,
-      "William": 1
+      "Pigeon": 1
     }
   },
   {
@@ -1012,29 +843,7 @@
       "Alice": 1,
       "March Hare": 1,
       "The Dormouse": 1,
-      "The Hatter": 1,
-      "There": 1,
-      "Twinkle": 1
-    }
-  },
-  {
-    "canonical_name": "Twinkle",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 3,
-    "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "\u2018Twinkle, twinkle, little bat!"
-      }
-    },
-    "co_occurs_with": {
-      "Alice": 1,
-      "March Hare": 1,
-      "Not": 1,
-      "The Dormouse": 1,
-      "The Hatter": 1,
-      "There": 1
+      "The Hatter": 1
     }
   },
   {
@@ -1076,7 +885,6 @@
     },
     "co_occurs_with": {
       "Alice": 1,
-      "Come": 1,
       "Drawling": 1,
       "Duchess": 1,
       "Gryphon": 1,
@@ -1098,13 +906,12 @@
     },
     "co_occurs_with": {
       "Alice": 1,
-      "Come": 1,
       "Duchess": 1,
       "Gryphon": 1,
       "Mock Turtle": 1,
       "Mock Turtle Soup": 1,
       "Queen": 1,
-      "The": 1
+      "Tortoise": 1
     }
   },
   {

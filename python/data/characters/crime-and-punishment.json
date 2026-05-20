@@ -30,18 +30,18 @@
       "Katerina Ivanovna": 4,
       "Mr. Lebeziatnikov": 4,
       "Sofya Semyonovna": 4,
-      "Marmeladov": 3,
-      "Raskolnikov": 3,
       "Amalia Ivanovna": 3,
       "Rodion Romanovitch": 3,
-      "Semyon Zaharovitch": 2
+      "Raskolnikov": 2,
+      "Semyon Zaharovitch": 2,
+      "Marmeladov": 2
     }
   },
   {
     "canonical_name": "Raskolnikov",
     "aliases": [],
     "first_chapter": 1,
-    "total_mentions": 119,
+    "total_mentions": 108,
     "per_chapter": {
       "1": {
         "mentions": 26,
@@ -55,24 +55,20 @@
         "mentions": 14,
         "snippet": "Raskolnikov, standing"
       },
-      "4": {
-        "mentions": 11,
-        "snippet": "Raskolnikov had been a vigorous and active champion of Sonia against"
-      },
       "5": {
         "mentions": 50,
         "snippet": "Raskolnikov was already entering the room."
       }
     },
     "co_occurs_with": {
-      "Katerina Ivanovna": 3,
-      "Mr. Lebeziatnikov": 3,
-      "Sofya Semyonovna": 3,
-      "Sonia": 3,
-      "Good God": 3,
-      "Marmeladov": 2,
-      "Amalia Ivanovna": 2,
-      "Rodion Romanovitch": 2
+      "Katerina Ivanovna": 2,
+      "Mr. Lebeziatnikov": 2,
+      "Sofya Semyonovna": 2,
+      "Sonia": 2,
+      "Good God": 2,
+      "Rodion Romanovitch": 2,
+      "Nikodim Fomitch": 2,
+      "Amalia Fyodorovna": 1
     }
   },
   {
@@ -101,11 +97,11 @@
     "co_occurs_with": {
       "Mr. Lebeziatnikov": 4,
       "Sonia": 4,
-      "Marmeladov": 3,
-      "Raskolnikov": 3,
       "Sofya Semyonovna": 3,
       "Amalia Ivanovna": 3,
+      "Raskolnikov": 2,
       "Semyon Zaharovitch": 2,
+      "Marmeladov": 2,
       "Rodion Romanovitch": 2
     }
   },
@@ -137,9 +133,9 @@
       "Nikodim Fomitch": 3,
       "Rodion Romanovitch": 3,
       "Rodya": 3,
-      "Zossimov": 3,
       "Luise Ivanovna": 2,
       "Sonia": 2,
+      "Zossimov": 2,
       "Explosive Lieutenant": 2
     }
   },
@@ -171,64 +167,12 @@
     "co_occurs_with": {
       "Katerina Ivanovna": 4,
       "Sonia": 4,
-      "Marmeladov": 3,
-      "Raskolnikov": 3,
       "Sofya Semyonovna": 3,
       "Amalia Ivanovna": 3,
-      "Semyon Zaharovitch": 2,
-      "Rodion Romanovitch": 2
-    }
-  },
-  {
-    "canonical_name": "Marmeladov",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 30,
-    "per_chapter": {
-      "2": {
-        "mentions": 21,
-        "snippet": "Marmeladov--such is my name; titular counsellor."
-      },
-      "3": {
-        "mentions": 1,
-        "snippet": "Marmeladov."
-      },
-      "7": {
-        "mentions": 8,
-        "snippet": "government clerk retired from the service, Marmeladov."
-      }
-    },
-    "co_occurs_with": {
-      "Katerina Ivanovna": 3,
-      "Mr. Lebeziatnikov": 3,
-      "Sonia": 3,
       "Raskolnikov": 2,
       "Semyon Zaharovitch": 2,
-      "Sofya Semyonovna": 2,
-      "Amalia Ivanovna": 2,
+      "Marmeladov": 2,
       "Rodion Romanovitch": 2
-    }
-  },
-  {
-    "canonical_name": "Dounia",
-    "aliases": [],
-    "first_chapter": 8,
-    "total_mentions": 24,
-    "per_chapter": {
-      "8": {
-        "mentions": 24,
-        "snippet": "Dounia had been"
-      }
-    },
-    "co_occurs_with": {
-      "Avdotya Romanovna": 1,
-      "Dr. Zossimov": 1,
-      "Explosive Lieutenant": 1,
-      "Five Corners": 1,
-      "Hay Market": 1,
-      "Ilya Petrovitch": 1,
-      "Lizaveta": 1,
-      "Mr. Razumihin": 1
     }
   },
   {
@@ -254,11 +198,11 @@
       "Explosive Lieutenant": 3,
       "Mr. Razumihin": 2,
       "Nikodim Fomitch": 2,
-      "Petersburg": 2,
       "Razumihin": 2,
       "Zametov": 2,
-      "Zossimov": 2,
-      "Here": 2
+      "Luise Ivanovna": 2,
+      "Avdotya Romanovna": 1,
+      "Dr. Zossimov": 1
     }
   },
   {
@@ -288,11 +232,11 @@
       "Sonia": 4,
       "Katerina Ivanovna": 3,
       "Mr. Lebeziatnikov": 3,
-      "Raskolnikov": 3,
-      "Marmeladov": 2,
+      "Raskolnikov": 2,
       "Amalia Ivanovna": 2,
       "Avdotya Romanovna": 2,
-      "Good God": 2
+      "Good God": 2,
+      "Rodion Romanovitch": 2
     }
   },
   {
@@ -323,9 +267,9 @@
       "Nikodim Fomitch": 3,
       "Rodion Romanovitch": 3,
       "Rodya": 3,
-      "Zossimov": 3,
       "Luise Ivanovna": 2,
       "Sonia": 2,
+      "Zossimov": 2,
       "Explosive Lieutenant": 2
     }
   },
@@ -345,12 +289,12 @@
     "co_occurs_with": {
       "Explosive Lieutenant": 1,
       "Good God": 1,
-      "Here": 1,
       "Ilya Petrovitch": 1,
       "Karl": 1,
-      "Koch": 1,
       "Luise Ivanovna": 1,
-      "Mr. Tchebarov": 1
+      "Mr. Tchebarov": 1,
+      "Nastasya": 1,
+      "Nikodim Fomitch": 1
     }
   },
   {
@@ -382,9 +326,9 @@
       "Rodya": 3,
       "Zametov": 3,
       "Luise Ivanovna": 2,
-      "Nastasya": 2,
       "Sonia": 2,
-      "Zossimov": 2
+      "Zossimov": 2,
+      "Explosive Lieutenant": 2
     }
   },
   {
@@ -409,8 +353,8 @@
       "Rodya": 2,
       "Zametov": 2,
       "Avdotya Romanovna": 1,
-      "Dounia": 1,
-      "Dr. Zossimov": 1
+      "Dr. Zossimov": 1,
+      "Explosive Lieutenant": 1
     }
   },
   {
@@ -440,66 +384,6 @@
     }
   },
   {
-    "canonical_name": "Here",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 12,
-    "per_chapter": {
-      "1": {
-        "mentions": 4,
-        "snippet": "\u201cHere!"
-      },
-      "4": {
-        "mentions": 3,
-        "snippet": "\u201cHere I have come."
-      },
-      "6": {
-        "mentions": 5,
-        "snippet": "Here and there they gathered in groups, on the pavement,"
-      }
-    },
-    "co_occurs_with": {
-      "Good God": 2,
-      "Have": 2,
-      "Raskolnikov": 2,
-      "Explosive Lieutenant": 2,
-      "Ilya Petrovitch": 2,
-      "Luise Ivanovna": 2,
-      "Ach": 1,
-      "Amalia Ivanovna": 1
-    }
-  },
-  {
-    "canonical_name": "Zossimov",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 12,
-    "per_chapter": {
-      "6": {
-        "mentions": 4,
-        "snippet": "Zossimov said he\u2019d read it in the"
-      },
-      "7": {
-        "mentions": 7,
-        "snippet": "Wait a minute, I\u2019ll fetch Zossimov."
-      },
-      "8": {
-        "mentions": 1,
-        "snippet": "Zossimov, his former fellow students, his landlady and her servant."
-      }
-    },
-    "co_occurs_with": {
-      "Razumihin": 3,
-      "Zametov": 3,
-      "Luise Ivanovna": 2,
-      "Nikodim Fomitch": 2,
-      "Rodion Romanovitch": 2,
-      "Rodya": 2,
-      "Sonia": 2,
-      "Explosive Lieutenant": 2
-    }
-  },
-  {
     "canonical_name": "Polenka",
     "aliases": [],
     "first_chapter": 7,
@@ -518,7 +402,7 @@
       "For God": 1,
       "Ivan Mihailovitch": 1,
       "Katerina Ivanovna": 1,
-      "Kozel": 1
+      "Lida": 1
     }
   },
   {
@@ -552,32 +436,6 @@
     }
   },
   {
-    "canonical_name": "Nastasya",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 11,
-    "per_chapter": {
-      "1": {
-        "mentions": 8,
-        "snippet": "Nastasya, banging with her fist on the door."
-      },
-      "7": {
-        "mentions": 3,
-        "snippet": "Nastasya, perhaps,\u201d observed Razumihin."
-      }
-    },
-    "co_occurs_with": {
-      "Luise Ivanovna": 2,
-      "Nikodim Fomitch": 2,
-      "Alexandrovna Raskolnikov": 1,
-      "Amalia Ivanovna": 1,
-      "Amalia Ludwigovna": 1,
-      "Ave Maria": 1,
-      "For God": 1,
-      "Ivan Mihailovitch": 1
-    }
-  },
-  {
     "canonical_name": "Amalia Ivanovna",
     "aliases": [],
     "first_chapter": 3,
@@ -603,8 +461,8 @@
       "Marmeladov": 2,
       "Rodion Romanovitch": 2,
       "Good God": 2,
-      "Raskolnikov": 2,
-      "Sofya Semyonovna": 2
+      "Sofya Semyonovna": 2,
+      "Alexandrovna Raskolnikov": 1
     }
   },
   {
@@ -634,29 +492,51 @@
     }
   },
   {
-    "canonical_name": "Come",
+    "canonical_name": "Marmeladov",
     "aliases": [],
-    "first_chapter": 2,
+    "first_chapter": 3,
     "total_mentions": 9,
     "per_chapter": {
-      "2": {
-        "mentions": 3,
-        "snippet": "Come, who will have pity on a man like"
+      "3": {
+        "mentions": 1,
+        "snippet": "Marmeladov."
       },
-      "6": {
-        "mentions": 6,
-        "snippet": "sentimental high note, shouted sharply to the organ grinder \u201cCome on,\u201d"
+      "7": {
+        "mentions": 8,
+        "snippet": "government clerk retired from the service, Marmeladov."
       }
     },
     "co_occurs_with": {
-      "Amalia Fyodorovna": 1,
-      "Amalia Fyodorovna Lippevechsel": 1,
-      "Amalia Lippevechsel": 1,
-      "Darya Frantsovna": 1,
-      "Honoured": 1,
-      "Ivan Afanasyvitch": 1,
-      "Ivan Ivanitch Klopstock": 1,
-      "Katerina Ivanovna": 1
+      "Amalia Ivanovna": 2,
+      "Katerina Ivanovna": 2,
+      "Mr. Lebeziatnikov": 2,
+      "Rodion Romanovitch": 2,
+      "Sonia": 2,
+      "Alexandrovna Raskolnikov": 1,
+      "Amalia Ludwigovna": 1,
+      "Ave Maria": 1
+    }
+  },
+  {
+    "canonical_name": "Nastasya",
+    "aliases": [],
+    "first_chapter": 1,
+    "total_mentions": 8,
+    "per_chapter": {
+      "1": {
+        "mentions": 8,
+        "snippet": "Nastasya, banging with her fist on the door."
+      }
+    },
+    "co_occurs_with": {
+      "Explosive Lieutenant": 1,
+      "Good God": 1,
+      "Ilya Petrovitch": 1,
+      "Karl": 1,
+      "Luise Ivanovna": 1,
+      "Mr. Captain": 1,
+      "Mr. Tchebarov": 1,
+      "Nikodim Fomitch": 1
     }
   },
   {
@@ -675,14 +555,40 @@
       }
     },
     "co_occurs_with": {
-      "Here": 2,
       "Ach": 1,
       "Amalia Ivanovna": 1,
       "Divine Providence": 1,
       "Good God": 1,
-      "Hush": 1,
       "Katerina Ivanovna": 1,
-      "Lizaveta": 1
+      "Lizaveta": 1,
+      "Luzhin": 1,
+      "Mont Blanc": 1
+    }
+  },
+  {
+    "canonical_name": "Zossimov",
+    "aliases": [],
+    "first_chapter": 7,
+    "total_mentions": 8,
+    "per_chapter": {
+      "7": {
+        "mentions": 7,
+        "snippet": "Wait a minute, I\u2019ll fetch Zossimov."
+      },
+      "8": {
+        "mentions": 1,
+        "snippet": "Zossimov, his former fellow students, his landlady and her servant."
+      }
+    },
+    "co_occurs_with": {
+      "Nikodim Fomitch": 2,
+      "Razumihin": 2,
+      "Rodion Romanovitch": 2,
+      "Rodya": 2,
+      "Sonia": 2,
+      "Zametov": 2,
+      "Alexandrovna Raskolnikov": 1,
+      "Amalia Ivanovna": 1
     }
   },
   {
@@ -697,66 +603,14 @@
       }
     },
     "co_occurs_with": {
-      "Allow": 1,
       "Amalia Ivanovna": 1,
       "Avdotya Romanovna": 1,
       "General Treatise": 1,
       "Good God": 1,
       "Katerina Ivanovna": 1,
       "Madame Kobilatnikov": 1,
-      "Marmeladov": 1
-    }
-  },
-  {
-    "canonical_name": "Petersburg",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 7,
-    "per_chapter": {
-      "6": {
-        "mentions": 4,
-        "snippet": "a fire in the Petersburg quarter."
-      },
-      "8": {
-        "mentions": 3,
-        "snippet": "Petersburg and its pavement,\u201d added a workman who was a"
-      }
-    },
-    "co_occurs_with": {
-      "Explosive Lieutenant": 2,
-      "Ilya Petrovitch": 2,
-      "Mr. Razumihin": 2,
-      "Razumihin": 2,
-      "Zametov": 2,
-      "Zossimov": 2,
-      "Avdotya Romanovna": 1,
-      "Dounia": 1
-    }
-  },
-  {
-    "canonical_name": "Very",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 7,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "Very, very original, but."
-      },
-      "6": {
-        "mentions": 4,
-        "snippet": "\u201cVery much?"
-      }
-    },
-    "co_occurs_with": {
-      "Mr. Zametov": 2,
-      "Razumihin": 2,
-      "Zametov": 2,
-      "Fool": 1,
-      "Ivan the Great": 1,
-      "Mahomet": 1,
-      "New Jerusalem": 1,
-      "Newton": 1
+      "Marmeladov": 1,
+      "Mr. Lebeziatnikov": 1
     }
   },
   {
@@ -812,9 +666,9 @@
       "Divine Providence": 1,
       "Good God": 1,
       "Have": 1,
-      "Here": 1,
-      "Hush": 1,
-      "Katerina Ivanovna": 1
+      "Katerina Ivanovna": 1,
+      "Lizaveta": 1,
+      "Mont Blanc": 1
     }
   },
   {
@@ -834,13 +688,13 @@
     },
     "co_occurs_with": {
       "Katerina Ivanovna": 2,
-      "Marmeladov": 2,
       "Mr. Lebeziatnikov": 2,
       "Sonia": 2,
       "Amalia Fyodorovna": 1,
       "Amalia Fyodorovna Lippevechsel": 1,
       "Amalia Lippevechsel": 1,
-      "Come": 1
+      "Darya Frantsovna": 1,
+      "Ivan Afanasyvitch": 1
     }
   },
   {
@@ -864,7 +718,7 @@
       "For God": 1,
       "Ivan Mihailovitch": 1,
       "Katerina Ivanovna": 1,
-      "Kozel": 1
+      "Lida": 1
     }
   },
   {
@@ -885,8 +739,8 @@
       "For God": 1,
       "Ivan Mihailovitch": 1,
       "Katerina Ivanovna": 1,
-      "Kozel": 1,
-      "Lida": 1
+      "Lida": 1,
+      "Luise Ivanovna": 1
     }
   },
   {
@@ -908,29 +762,7 @@
       "For God": 1,
       "Ivan Mihailovitch": 1,
       "Katerina Ivanovna": 1,
-      "Kozel": 1
-    }
-  },
-  {
-    "canonical_name": "Not",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 6,
-    "per_chapter": {
-      "5": {
-        "mentions": 6,
-        "snippet": "\u201cNot at all, very pleasant to see you."
-      }
-    },
-    "co_occurs_with": {
-      "Fool": 1,
-      "Ivan the Great": 1,
-      "Mahomet": 1,
-      "Mr. Zametov": 1,
-      "New Jerusalem": 1,
-      "Newton": 1,
-      "Nikodim Fomitch": 1,
-      "On Crime": 1
+      "Luise Ivanovna": 1
     }
   },
   {
@@ -953,80 +785,14 @@
       }
     },
     "co_occurs_with": {
-      "Nastasya": 2,
       "Nikodim Fomitch": 2,
       "Razumihin": 2,
       "Zametov": 2,
-      "Zossimov": 2,
       "Explosive Lieutenant": 2,
-      "Here": 2,
-      "Ilya Petrovitch": 2
-    }
-  },
-  {
-    "canonical_name": "Shall",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 5,
-    "per_chapter": {
-      "6": {
-        "mentions": 5,
-        "snippet": "\u201cShall I go in?"
-      }
-    },
-    "co_occurs_with": {
-      "All": 1,
-      "Come": 1,
-      "Explosive Lieutenant": 1,
-      "Foo": 1,
-      "Have": 1,
-      "Here": 1,
-      "Ilya Petrovitch": 1,
-      "Let": 1
-    }
-  },
-  {
-    "canonical_name": "Honoured",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 4,
-    "per_chapter": {
-      "2": {
-        "mentions": 4,
-        "snippet": "\u201cHonoured sir,\u201d he began almost with solemnity, \u201cpoverty is not a vice,"
-      }
-    },
-    "co_occurs_with": {
-      "Amalia Fyodorovna": 1,
-      "Amalia Fyodorovna Lippevechsel": 1,
-      "Amalia Lippevechsel": 1,
-      "Come": 1,
-      "Darya Frantsovna": 1,
-      "Ivan Afanasyvitch": 1,
-      "Ivan Ivanitch Klopstock": 1,
-      "Katerina Ivanovna": 1
-    }
-  },
-  {
-    "canonical_name": "Since",
-    "aliases": [],
-    "first_chapter": 2,
-    "total_mentions": 4,
-    "per_chapter": {
-      "2": {
-        "mentions": 4,
-        "snippet": "Since there are times when one absolutely must"
-      }
-    },
-    "co_occurs_with": {
-      "Amalia Fyodorovna": 1,
-      "Amalia Fyodorovna Lippevechsel": 1,
-      "Amalia Lippevechsel": 1,
-      "Come": 1,
-      "Darya Frantsovna": 1,
-      "Honoured": 1,
-      "Ivan Afanasyvitch": 1,
-      "Ivan Ivanitch Klopstock": 1
+      "Ilya Petrovitch": 2,
+      "Alexandrovna Raskolnikov": 1,
+      "Amalia Ivanovna": 1,
+      "Amalia Ludwigovna": 1
     }
   },
   {
@@ -1049,14 +815,14 @@
       }
     },
     "co_occurs_with": {
-      "Raskolnikov": 3,
       "Amalia Ivanovna": 2,
       "Katerina Ivanovna": 2,
       "Mr. Lebeziatnikov": 2,
+      "Raskolnikov": 2,
       "Sofya Semyonovna": 2,
       "Sonia": 2,
-      "Here": 2,
-      "Allow": 1
+      "Avdotya Romanovna": 1,
+      "General Treatise": 1
     }
   },
   {
@@ -1082,11 +848,11 @@
       "Ilya Petrovitch": 3,
       "Mr. Razumihin": 2,
       "Nikodim Fomitch": 2,
-      "Petersburg": 2,
       "Razumihin": 2,
       "Zametov": 2,
-      "Zossimov": 2,
-      "Here": 2
+      "Luise Ivanovna": 2,
+      "Avdotya Romanovna": 1,
+      "Dr. Zossimov": 1
     }
   },
   {
@@ -1106,13 +872,13 @@
     },
     "co_occurs_with": {
       "Razumihin": 2,
-      "Very": 2,
       "Zametov": 2,
-      "Fool": 1,
       "Ivan the Great": 1,
       "Mahomet": 1,
       "New Jerusalem": 1,
-      "Newton": 1
+      "Newton": 1,
+      "Nikodim Fomitch": 1,
+      "On Crime": 1
     }
   },
   {
@@ -1127,58 +893,36 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Come": 1,
       "Explosive Lieutenant": 1,
-      "Foo": 1,
       "Have": 1,
-      "Here": 1,
       "Ilya Petrovitch": 1,
-      "Let": 1
+      "Listen": 1,
+      "Luise Ivanovna": 1,
+      "Mr. Razumihin": 1,
+      "Mr. Zametov": 1,
+      "Petersburg": 1
     }
   },
   {
-    "canonical_name": "All",
+    "canonical_name": "Petersburg",
     "aliases": [],
     "first_chapter": 6,
     "total_mentions": 4,
     "per_chapter": {
       "6": {
         "mentions": 4,
-        "snippet": "All he knew, all he felt was that everything must be"
+        "snippet": "a fire in the Petersburg quarter."
       }
     },
     "co_occurs_with": {
-      "Come": 1,
       "Explosive Lieutenant": 1,
-      "Foo": 1,
       "Have": 1,
-      "Here": 1,
       "Ilya Petrovitch": 1,
-      "Let": 1,
-      "Listen": 1
-    }
-  },
-  {
-    "canonical_name": "Let",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 4,
-    "per_chapter": {
-      "6": {
-        "mentions": 4,
-        "snippet": "\u201cLet me go!"
-      }
-    },
-    "co_occurs_with": {
-      "All": 1,
-      "Come": 1,
-      "Explosive Lieutenant": 1,
-      "Foo": 1,
-      "Have": 1,
-      "Here": 1,
-      "Ilya Petrovitch": 1,
-      "Listen": 1
+      "Listen": 1,
+      "Luise Ivanovna": 1,
+      "Mr. Razumihin": 1,
+      "Mr. Zametov": 1,
+      "Palais de Cristal": 1
     }
   },
   {
@@ -1200,29 +944,7 @@
       "For God": 1,
       "Ivan Mihailovitch": 1,
       "Katerina Ivanovna": 1,
-      "Kozel": 1
-    }
-  },
-  {
-    "canonical_name": "Allow",
-    "aliases": [],
-    "first_chapter": 3,
-    "total_mentions": 4,
-    "per_chapter": {
-      "3": {
-        "mentions": 4,
-        "snippet": "\u201cAllow me, madam."
-      }
-    },
-    "co_occurs_with": {
-      "Amalia Ivanovna": 1,
-      "Avdotya Romanovna": 1,
-      "General Treatise": 1,
-      "Good God": 1,
-      "Katerina Ivanovna": 1,
-      "Madame Kobilatnikov": 1,
-      "Marmeladov": 1,
-      "Mr. Lebeziatnikov": 1
+      "Lida": 1
     }
   },
   {
@@ -1241,10 +963,10 @@
       "Divine Providence": 1,
       "Good God": 1,
       "Have": 1,
-      "Here": 1,
-      "Hush": 1,
       "Katerina Ivanovna": 1,
-      "Lizaveta": 1
+      "Lizaveta": 1,
+      "Luzhin": 1,
+      "Mont Blanc": 1
     }
   },
   {
@@ -1264,9 +986,9 @@
       "Divine Providence": 1,
       "Good God": 1,
       "Have": 1,
-      "Here": 1,
-      "Hush": 1,
-      "Katerina Ivanovna": 1
+      "Katerina Ivanovna": 1,
+      "Lizaveta": 1,
+      "Luzhin": 1
     }
   },
   {
@@ -1282,13 +1004,13 @@
     },
     "co_occurs_with": {
       "Avdotya Romanovna": 1,
-      "Dounia": 1,
       "Dr. Zossimov": 1,
       "Explosive Lieutenant": 1,
       "Five Corners": 1,
       "Hay Market": 1,
       "Ilya Petrovitch": 1,
-      "Lizaveta": 1
+      "Lizaveta": 1,
+      "Mr. Razumihin": 1
     }
   },
   {
@@ -1305,34 +1027,12 @@
     "co_occurs_with": {
       "Explosive Lieutenant": 1,
       "Good God": 1,
-      "Here": 1,
       "Ilya Petrovitch": 1,
-      "Koch": 1,
       "Luise Ivanovna": 1,
       "Mr. Captain": 1,
-      "Mr. Tchebarov": 1
-    }
-  },
-  {
-    "canonical_name": "Koch",
-    "aliases": [],
-    "first_chapter": 1,
-    "total_mentions": 3,
-    "per_chapter": {
-      "1": {
-        "mentions": 3,
-        "snippet": "Koch, he spent half an hour at the silversmith\u2019s below, before he went"
-      }
-    },
-    "co_occurs_with": {
-      "Explosive Lieutenant": 1,
-      "Good God": 1,
-      "Here": 1,
-      "Ilya Petrovitch": 1,
-      "Karl": 1,
-      "Luise Ivanovna": 1,
-      "Mr. Captain": 1,
-      "Mr. Tchebarov": 1
+      "Mr. Tchebarov": 1,
+      "Nastasya": 1,
+      "Nikodim Fomitch": 1
     }
   },
   {
@@ -1347,102 +1047,14 @@
       }
     },
     "co_occurs_with": {
-      "All": 1,
-      "Come": 1,
-      "Explosive Lieutenant": 1,
-      "Foo": 1,
-      "Have": 1,
-      "Here": 1,
-      "Ilya Petrovitch": 1,
-      "Let": 1
-    }
-  },
-  {
-    "canonical_name": "Foo",
-    "aliases": [],
-    "first_chapter": 6,
-    "total_mentions": 3,
-    "per_chapter": {
-      "6": {
-        "mentions": 3,
-        "snippet": "Foo!"
-      }
-    },
-    "co_occurs_with": {
-      "All": 1,
-      "Come": 1,
       "Explosive Lieutenant": 1,
       "Have": 1,
-      "Here": 1,
       "Ilya Petrovitch": 1,
-      "Let": 1,
-      "Listen": 1
-    }
-  },
-  {
-    "canonical_name": "Kozel",
-    "aliases": [],
-    "first_chapter": 7,
-    "total_mentions": 3,
-    "per_chapter": {
-      "7": {
-        "mentions": 3,
-        "snippet": "by in Kozel\u2019s house."
-      }
-    },
-    "co_occurs_with": {
-      "Alexandrovna Raskolnikov": 1,
-      "Amalia Ivanovna": 1,
-      "Amalia Ludwigovna": 1,
-      "Ave Maria": 1,
-      "For God": 1,
-      "Ivan Mihailovitch": 1,
-      "Katerina Ivanovna": 1,
-      "Lida": 1
-    }
-  },
-  {
-    "canonical_name": "Fool",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cFool!"
-      }
-    },
-    "co_occurs_with": {
-      "Ivan the Great": 1,
-      "Mahomet": 1,
+      "Luise Ivanovna": 1,
+      "Mr. Razumihin": 1,
       "Mr. Zametov": 1,
-      "New Jerusalem": 1,
-      "Newton": 1,
-      "Nikodim Fomitch": 1,
-      "Not": 1,
-      "On Crime": 1
-    }
-  },
-  {
-    "canonical_name": "Was",
-    "aliases": [],
-    "first_chapter": 5,
-    "total_mentions": 3,
-    "per_chapter": {
-      "5": {
-        "mentions": 3,
-        "snippet": "\u201cWas it right?"
-      }
-    },
-    "co_occurs_with": {
-      "Fool": 1,
-      "Ivan the Great": 1,
-      "Mahomet": 1,
-      "Mr. Zametov": 1,
-      "New Jerusalem": 1,
-      "Newton": 1,
-      "Nikodim Fomitch": 1,
-      "Not": 1
+      "Palais de Cristal": 1,
+      "Petersburg": 1
     }
   },
   {
@@ -1457,14 +1069,14 @@
       }
     },
     "co_occurs_with": {
-      "Fool": 1,
       "Ivan the Great": 1,
       "Mahomet": 1,
       "Mr. Zametov": 1,
       "New Jerusalem": 1,
       "Newton": 1,
       "Nikodim Fomitch": 1,
-      "Not": 1
+      "On Crime": 1,
+      "Porfiry Petrovitch": 1
     }
   },
   {
@@ -1479,14 +1091,14 @@
       }
     },
     "co_occurs_with": {
-      "Fool": 1,
       "Ivan the Great": 1,
       "Mahomet": 1,
       "Mr. Zametov": 1,
       "New Jerusalem": 1,
       "Nikodim Fomitch": 1,
-      "Not": 1,
-      "On Crime": 1
+      "On Crime": 1,
+      "Porfiry Petrovitch": 1,
+      "Raskolnikov": 1
     }
   },
   {
@@ -1501,14 +1113,14 @@
       }
     },
     "co_occurs_with": {
-      "Fool": 1,
       "Ivan the Great": 1,
       "Mr. Zametov": 1,
       "New Jerusalem": 1,
       "Newton": 1,
       "Nikodim Fomitch": 1,
-      "Not": 1,
-      "On Crime": 1
+      "On Crime": 1,
+      "Porfiry Petrovitch": 1,
+      "Raskolnikov": 1
     }
   },
   {
@@ -1525,80 +1137,14 @@
       }
     },
     "co_occurs_with": {
-      "Allow": 1,
       "Amalia Ivanovna": 1,
       "Avdotya Romanovna": 1,
       "General Treatise": 1,
       "Good God": 1,
       "Katerina Ivanovna": 1,
       "Marmeladov": 1,
-      "Mr. Lebeziatnikov": 1
-    }
-  },
-  {
-    "canonical_name": "Only",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "\u201cOnly don\u2019t talk to me as you did yesterday,\u201d she interrupted him."
-      }
-    },
-    "co_occurs_with": {
-      "Ach": 1,
-      "Amalia Ivanovna": 1,
-      "Divine Providence": 1,
-      "Good God": 1,
-      "Have": 1,
-      "Here": 1,
-      "Hush": 1,
-      "Katerina Ivanovna": 1
-    }
-  },
-  {
-    "canonical_name": "Perhaps",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "\u201cPerhaps I don\u2019t want to go to Siberia yet, Sonia,\u201d he said."
-      }
-    },
-    "co_occurs_with": {
-      "Ach": 1,
-      "Amalia Ivanovna": 1,
-      "Divine Providence": 1,
-      "Good God": 1,
-      "Have": 1,
-      "Here": 1,
-      "Hush": 1,
-      "Katerina Ivanovna": 1
-    }
-  },
-  {
-    "canonical_name": "Hush",
-    "aliases": [],
-    "first_chapter": 4,
-    "total_mentions": 3,
-    "per_chapter": {
-      "4": {
-        "mentions": 3,
-        "snippet": "\u201cHush, don\u2019t laugh, blasphemer!"
-      }
-    },
-    "co_occurs_with": {
-      "Ach": 1,
-      "Amalia Ivanovna": 1,
-      "Divine Providence": 1,
-      "Good God": 1,
-      "Have": 1,
-      "Here": 1,
-      "Katerina Ivanovna": 1,
-      "Lizaveta": 1
+      "Mr. Lebeziatnikov": 1,
+      "Mr. Marmeladov": 1
     }
   },
   {
@@ -1614,13 +1160,13 @@
     },
     "co_occurs_with": {
       "Avdotya Romanovna": 1,
-      "Dounia": 1,
       "Dr. Zossimov": 1,
       "Explosive Lieutenant": 1,
       "Five Corners": 1,
       "Ilya Petrovitch": 1,
       "Lizaveta": 1,
-      "Mr. Razumihin": 1
+      "Mr. Razumihin": 1,
+      "New Testament": 1
     }
   }
 ]
