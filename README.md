@@ -6,12 +6,13 @@
 ---
 
 ## Demo
+> A spoiler-aware literary reading companion. Open any of 52 public-domain novels, set your current chapter, and ask anything — themes, character motives, symbolism, "main characters so far" — answered with inline citations and **strict guarantees against future-chapter spoilers**.
+
 Brief Demonstration Video:
 <video src="https://github.com/user-attachments/assets/19fa9a6d-7db5-4622-8aab-e292e6be2b69" controls width="640"></video>
 
 Final Demonstration Video:
 
-> A spoiler-aware literary reading companion. Open any of 52 public-domain novels, set your current chapter, and ask anything — themes, character motives, symbolism, "main characters so far" — answered with inline citations and **strict guarantees against future-chapter spoilers**.
 
 
 ---
