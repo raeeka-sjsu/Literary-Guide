@@ -6,10 +6,13 @@
 ---
 
 ## Demo
+Quick Demonstration Video:
+https://github.com/user-attachments/assets/eba27b4b-e470-45d6-b77c-1a6660c99685
+
+Final Demonstration Video:
 
 > A spoiler-aware literary reading companion. Open any of 52 public-domain novels, set your current chapter, and ask anything — themes, character motives, symbolism, "main characters so far" — answered with inline citations and **strict guarantees against future-chapter spoilers**.
 
-Backup demo video: `docs/demo.mp4` *(recorded before final presentation)*
 
 ---
 
