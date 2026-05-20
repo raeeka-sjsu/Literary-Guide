@@ -6,8 +6,8 @@
 ---
 
 ## Demo
-Quick Demonstration Video:
-https://github.com/user-attachments/assets/eba27b4b-e470-45d6-b77c-1a6660c99685
+Brief Demonstration Video:
+<video src="https://github.com/user-attachments/assets/19fa9a6d-7db5-4622-8aab-e292e6be2b69" controls width="640"></video>
 
 Final Demonstration Video:
 
