@@ -51,7 +51,12 @@ Rules:
   "Heathcliff", "the White Rabbit", "Dorothy"): ALWAYS call get_character_profile
   with that character's name as one of the steps.** This guarantees the character's
   data reaches the synthesizer even if they would not appear in a top-N list.
-  Pair it with list_known_characters or retrieve_passages as needed.
+  Pair it with lookup_character (for representative quotes) or retrieve_passages
+  (for thematic context) — NOT with list_known_characters. Dumping the whole cast
+  adds unrelated characters that have nothing to do with the question.
+- Use list_known_characters ONLY for genuine overview questions ("who are the
+  main characters", "list the characters"). Never use it as a companion to a
+  single-character question.
 - For "who is X" / "tell me about X" / "what is X like": use get_character_profile
   first; optionally follow with lookup_character for representative quotes.
 - For thematic / symbolic / "what does X reveal" questions: retrieve_passages,
@@ -95,11 +100,11 @@ Q: "Summarize the mood of chapter 3."
    {"tool":"retrieve_passages","args":{"query":"chapter 3 mood tone atmosphere","k":2}}
  ]}
 
-Q: "Does the White Rabbit become one of the main characters later?"
-{"reasoning": "Question names a specific character — fetch profile, then list other introduced characters for context.",
+Q: "Is the White Rabbit a main character?"
+{"reasoning": "Question names one specific character — fetch that character's profile and a few quotes; do NOT list the whole cast.",
  "steps": [
    {"tool":"get_character_profile","args":{"name":"White Rabbit"}},
-   {"tool":"list_known_characters","args":{"top_k":10}}
+   {"tool":"lookup_character","args":{"name":"White Rabbit","k":2}}
  ]}
 """
 
@@ -224,6 +229,7 @@ def _format_passages(tool_outputs: List[Dict[str, Any]]) -> List[Dict[str, Any]]
                     "id": f"char:{item.get('name')}",
                     "chapter": item.get("first_chapter"),
                     "text": text,
+                    "score": None,  # structured lookup — no query-relevance score
                 })
 
         elif tool == "get_character_profile" and isinstance(out, dict):
@@ -251,6 +257,7 @@ def _format_passages(tool_outputs: List[Dict[str, Any]]) -> List[Dict[str, Any]]
                 "id": f"profile:{out.get('name')}",
                 "chapter": out.get("first_chapter"),
                 "text": text,
+                "score": None,  # structured lookup — no query-relevance score
             })
 
         elif isinstance(out, list):
@@ -261,6 +268,8 @@ def _format_passages(tool_outputs: List[Dict[str, Any]]) -> List[Dict[str, Any]]
                     "id": item.get("id"),
                     "chapter": item.get("chapter"),
                     "text": item.get("text") or "",
+                    "score": item.get("score"),         # similarity score (semantic retrieval)
+                    "occurrences": item.get("occurrences"),  # name-match count (lookup_character)
                 })
 
         elif isinstance(out, dict):
@@ -270,6 +279,7 @@ def _format_passages(tool_outputs: List[Dict[str, Any]]) -> List[Dict[str, Any]]
                 "id": f"chapter-{out.get('chapter')}",
                 "chapter": out.get("chapter"),
                 "text": out.get("text") or "",
+                "score": None,  # whole-chapter fetch — no query-relevance score
             })
 
     # De-dupe by id, preserving order
@@ -485,7 +495,7 @@ def run_agent(
             }
             for tc in tool_outputs
         ],
-        "passages": [{"chapter": p["chapter"], "from_tool": p["from_tool"], "id": p["id"], "text": p["text"]} for p in passages],
+        "passages": [{"chapter": p["chapter"], "from_tool": p["from_tool"], "id": p["id"], "text": p["text"], "score": p.get("score"), "occurrences": p.get("occurrences")} for p in passages],
         "critic": verdict,
         "retried": retried,
         "timings": timings,

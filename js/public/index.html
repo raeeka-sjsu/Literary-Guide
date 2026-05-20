@@ -987,11 +987,33 @@
       el.className = "chat-msg bot";
       const answerText = data.answer ||
         `(dry-run — retrieval only. Switch provider to Anthropic or OpenAI for a generated answer.)`;
-      const citations = (data.chunks || []).map((c, i) => `
+      const sourceLabel = {
+        list_known_characters: "character index",
+        get_character_profile: "character index",
+        retrieve_expert_analysis: "expert analysis",
+        summarize_chapter: "chapter text",
+      };
+      const citations = (data.chunks || []).map((c, i) => {
+        const md = c.metadata || {};
+        const tool = md.from_tool;
+        // Show the most meaningful metric available:
+        //  • semantic retrieval → cosine similarity score
+        //  • character lookup   → name-occurrence count in the passage
+        //  • structured lookup  → source label (no relevance number exists)
+        let meta;
+        if (typeof c.score === "number") {
+          meta = `score ${c.score.toFixed(3)}`;
+        } else if (typeof md.occurrences === "number") {
+          meta = `${md.occurrences} mention${md.occurrences === 1 ? "" : "s"}`;
+        } else {
+          meta = `via ${sourceLabel[tool] || "lookup"}`;
+        }
+        return `
         <div class="cit">
-          <strong>[${i + 1}]</strong> chapter ${c.metadata.chapter} · score ${c.score.toFixed(3)}<br>
+          <strong>[${i + 1}]</strong> chapter ${c.metadata.chapter} · ${meta}<br>
           ${escapeHtml((c.document || "").substring(0, 300))}${(c.document || "").length > 300 ? "…" : ""}
-        </div>`).join("");
+        </div>`;
+      }).join("");
       el.innerHTML = renderMarkdownLite(answerText) + (citations
         ? `<div class="citations"><details><summary>${data.chunks.length} cited passages</summary>${citations}</details></div>`
         : "");

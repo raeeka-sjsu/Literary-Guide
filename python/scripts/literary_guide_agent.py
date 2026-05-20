@@ -34,6 +34,39 @@ from typing import List, Dict, Any, Optional
 # Make sibling imports work when run as a script
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+
+def _load_env_file() -> None:
+    """Load the repository-root .env into os.environ if present.
+
+    The LLM clients (anthropic.Anthropic(), OpenAI()) read their keys from
+    os.environ. Without this, the server only has keys if the launching
+    shell already exported them — so it would work when started from a
+    terminal that had them and fail when started from any other shell.
+    We load .env explicitly so behavior does not depend on who starts the
+    process. A non-empty existing environment variable takes precedence, but
+    a missing OR blank one is filled from .env — a shell that exports an
+    empty key (e.g. `export ANTHROPIC_API_KEY=`) would otherwise leave the
+    SDK with an empty key and produce a misleading "rejected the API key".
+    """
+    env_path = Path(__file__).resolve().parents[2] / ".env"
+    if not env_path.exists():
+        return
+    try:
+        for raw in env_path.read_text().splitlines():
+            line = raw.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, _, val = line.partition("=")
+            key = key.strip()
+            val = val.strip().strip('"').strip("'")
+            if key and not os.environ.get(key, "").strip():
+                os.environ[key] = val
+    except Exception:
+        pass  # never fail startup over .env parsing
+
+
+_load_env_file()
+
 from rag_pipeline import build_collection, query_up_to_chapter  # noqa: E402
 from book_index import ensure_book_index, query_book  # noqa: E402
 from memory_store import (  # noqa: E402
@@ -275,8 +308,12 @@ def answer(
         for i, p in enumerate(result["passages"], 1):
             chunks_compat.append({
                 "id": p.get("id"),
-                "metadata": {"chapter": p.get("chapter"), "from_tool": p.get("from_tool")},
-                "score": 0.0,
+                "metadata": {
+                    "chapter": p.get("chapter"),
+                    "from_tool": p.get("from_tool"),
+                    "occurrences": p.get("occurrences"),
+                },
+                "score": p.get("score"),  # None for structured lookups (character index, chapter fetch)
                 "document": p.get("text"),
             })
 
